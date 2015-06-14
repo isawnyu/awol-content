@@ -16,11 +16,14 @@
   </xsl:template>
   
   <xsl:template match="atom:entry[atom:category[@term='http://schemas.google.com/blogger/2008/kind#post' and @scheme='http://schemas.google.com/g/2005#kind']]">
+    <xsl:variable name="atom-id" select="atom:id"/>
+    <xsl:variable name="fid" select="substring-after($atom-id, '.post-')"/>
+    <xsl:variable name="fpath" select="substring($fid, 1, 2)"/>
     <xsl:variable name="fn">
       <xsl:text>post-</xsl:text>
-      <xsl:value-of select="substring-after(atom:id, '.post-')"/>
+      <xsl:value-of select="$fid"/>
     </xsl:variable>
-    <xsl:result-document format="atom" href="{$fn}-atom.xml">
+    <xsl:result-document format="atom" href="posts/{$fpath}/{$fn}-atom.xml">
       <xsl:copy>
         <xsl:copy-of select="@*"/>
         <xsl:apply-templates/>
