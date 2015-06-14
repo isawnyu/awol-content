@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-116259103207720939.post-7479577914349100426</id>
+    <published>2014-11-27T09:31:00.000-05:00</published>
+    <updated>2014-11-27T12:17:33.386-05:00</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <title type="text">CDLI search</title>
+    <content type="html"><![CDATA[CDLI has recently implemented at &lt;<a
+      href="http://cdli.ucla.edu/search">http://cdli.ucla.edu/search</a>/&gt; a search
+      functionality, similar to that for transliterations, for lines of translation and comment that
+      form a part of our core text annotation files. While only a fraction of the numbers of
+      translations available through the Oracc consortium, there are, still, currently some 54,000
+      lines of translated cuneiform text in CDLI files, mostly in English, but including some
+      instances in German, French, and even Catalan; 14,700 lines of interlinear annotation, from
+      comment on sign preservation up to calculations that underlie numbers in accounts and
+      metrological-mathematical texts, and 88,000 lines of (usually formulaic) comment to text
+      structure. The bulk of current CDLI translations is comprised of those created by Dan Foxvog
+      for the Mesopotamian Royal Inscriptions component of the website (nearly 30,000 lines in 1550
+      texts; see &lt;<a
+      href="http://tinyurl.com/mdhzlrg">http://tinyurl.com/mdhzlrg</a>&gt; and
+      &lt;<a
+      href="http://cdli.ucla.edu/projects/royal/royal.html">http://cdli.ucla.edu/projects/royal/royal.html</a>&gt;),
+      and we anticipate more translation content of Sumerian literary texts as ETCSL migrates to
+      CDLI; but 13,600 lines in 1530 administrative texts are also now in some form of translation
+      (&lt;<a
+      href="http://tinyurl.com/kjkcut4">http://tinyurl.com/kjkcut4</a>&gt;). For the
+      record, CDLI restricts translation of texts liable to appear in multiple witness artifacts to
+      their artificial composite entries. As with transliteration search, the exact string of
+      searched characters in translations and comments are highlighted in blue to facilitate their
+      discovery within the displayed texts. Exact string in these instances means that, for example,
+      a search for “pig” will display that string as a discrete word, but also all uses of “pigs,”
+      “pigherder,” and so on. Only “pig” will be highlighted. Please note that the search engine
+      results pages only report numbers of texts found, not individual references to a given search
+      string. Thus a search for “calculation:” in comment results in 228 texts found, but altogether
+      1026 uses of “calculation:”. As with transliteration search, users can enter multiple character
+      strings in a field, each separated by a comma, for instance "lukalla,account” in translation
+      (currently just six hits, at &lt;<a
+      href="http://tinyurl.com/pegtatb">http://tinyurl.com/pegtatb</a>&gt;), but unlike
+      transliteration these searches are always of full texts and cannot be restricted to single
+      line, and are not case sensitive, neither of which seemed to us to contribute materially to
+      search strategies.<br /><br />Bob Englund<br />UCLA]]></content>
+    <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/7479577914349100426/comments/default"
+         title="Post Comments"/>
+    <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/11/cdli-search.html#comment-form"
+         title="0 Comments"/>
+    <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7479577914349100426"/>
+    <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7479577914349100426"/>
+    <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/11/cdli-search.html"
+         title="CDLI search"/>
+    <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      
+    </author>
+    
+  </entry>

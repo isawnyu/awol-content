@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-116259103207720939.post-934167802147559197</id>
+    <published>2014-12-06T08:57:00.000-05:00</published>
+    <updated>2014-12-06T08:57:02.734-05:00</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Coptic"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
+    <title type="text">Coptic Scriptorium</title>
+    <content type="html"><![CDATA[<a href="http://www.carrieschroeder.com/scriptorium/">Coptic
+      Scriptorium</a><br /><blockquote class="tr_bq"><img
+      alt="http://www.carrieschroeder.com/scriptorium/img/PierpontMorganUnicornDetail_m581.010ra_xsm.jpg"
+      class="decoded" height="141"
+      src="http://www.carrieschroeder.com/scriptorium/img/PierpontMorganUnicornDetail_m581.010ra_xsm.jpg"
+      width="200" /> </blockquote><blockquote class="tr_bq"><span style="font-size:
+      x-small;">Coptic SCRIPTORIUM (<span style="text-decoration:
+      underline;">S</span>ahidic<span>&nbsp;</span><span
+      style="text-decoration:
+      underline;">C</span>orpus<span>&nbsp;</span><span
+      style="text-decoration:
+      underline;">R</span>esearch:<span>&nbsp;</span><span
+      style="text-decoration:
+      underline;">I</span>nternet<span>&nbsp;</span><span
+      style="text-decoration: underline;">P</span>la<span style="text-decoration:
+      underline;">t</span>f<span style="text-decoration: underline;">or</span>m
+      for<span>&nbsp;</span><span style="text-decoration:
+      underline;">I</span>nterdisciplinary m<span style="text-decoration:
+      underline;">u</span>ltilayer<span>&nbsp;</span><span
+      style="text-decoration: underline;">M</span>ethods) is a collaborative, digital
+      project created by<span>&nbsp;</span><a
+      href="http://www.carrieschroeder.com/" shape="rect">Caroline T.
+      Schroeder</a><span>&nbsp;</span>(University of the Pacific)
+      and<span>&nbsp;</span><a href="http://corpling.uis.georgetown.edu/amir/"
+      shape="rect">Amir Zeldes</a><span>&nbsp;</span>(Georgetown
+      University). <a
+      href="http://www.carrieschroeder.com/scriptorium/acknowledgments.html#team">The team is
+      constantly growing.</a></span><br /> <span style="font-size:
+      x-small;">Coptic SCRIPTORIUM provides a platform for interdisciplinary and computational
+      research in texts in the Coptic language, particularly the Sahidic dialect.&nbsp; As an
+      open-source, open-access initiative, the SCRIPTORIUM technologies and corpus function as a
+      collaborative environment for digital research by any scholars working in Coptic. It
+      provides:</span><br /> <ul><li><span style="font-size:
+      x-small;">tools to process Coptic texts</span></li><li><span
+      style="font-size: x-small;">a searchable, richly-annotated corpus of texts using
+      the<span>&nbsp;</span><a href="http://www.sfb632.uni-potsdam.de/annis/"
+      shape="rect">ANNIS</a><span>&nbsp;</span>search and visualization
+      architecture</span></li><li><span style="font-size:
+      x-small;">visualizations of Coptic texts</span></li><li><span
+      style="font-size: x-small;">a collaborative platform for scholars to use and contribute to
+      the project</span></li><li><span style="font-size: x-small;">research
+      results generated from the tools and corpus</span></li></ul><span
+      style="font-size: x-small;">We hope SCRIPTORIUM will serve as a model for future digital
+      humanities projects utilizing historical corpora or corpora in languages outside of the
+      Indo-European and Semitic language families.</span></blockquote><blockquote
+      class="tr_bq"><br /><h3><span style="font-size: x-small;">Acephalous Work
+      22 by Shenoute</span></h3><span style="font-size: x-small;"><input
+      class="folder" id="a22-top" type="checkbox" /></span> <h3><span
+      style="font-size: x-small;">Abraham Our Father by Shenoute</span></h3><span
+      style="font-size: x-small;"><input class="folder" id="aof-top" type="checkbox"
+      /></span> <h3><span style="font-size: x-small;">Letters of
+      Besa</span></h3><span style="font-size: x-small;"><input class="folder"
+      id="besa-top" type="checkbox" /></span> <h3><span style="font-size:
+      x-small;">Apophthegmata Patrum</span></h3><span style="font-size:
+      x-small;"><input class="folder" id="ap-dl-top" type="checkbox" /></span>
+      <h3><span style="font-size: x-small;">Bible</span></h3><span
+      style="font-size: x-small;">Note: This corpus is derived from the Sahidica New Testament,
+      which was released by Warren Wells and made available for free electronic distributionfor
+      academic use only. It is not licensed CC-BY; <a
+      href="http://www.copticscriptorium.org/download/corpora/Mark/coptic_nt_sahidic.html"
+      target="_blank">click here for Sahidica licensing information</a>.</span><br
+      /> <span style="font-size: x-small;"><input class="folder" id="mrk-top"
+      type="checkbox" /> <input class="folder" id="1cor-top" type="checkbox" /></span>
+      <h2><span style="font-size: x-small;">Tools</span></h2><span
+      style="font-size: x-small;"> Some of the tools below use a Sahidic Coptic lexicon based on
+      data kindly provided by Prof. Tito Orlandi and the <a
+      href="http://cmcl.let.uniroma1.it/">CMCL</a> project. When using the part-of-speech
+      tagging models or the tokenization script and its lexicon please make sure to refer back to the
+      CMCL project. </span><br /> <h3><span style="font-size:
+      x-small;">Part-of-Speech Tagging</span></h3><ul><li><span
+      style="font-size: x-small;">Scripts and models </span><ul><li><span
+      style="font-size: x-small;"><a
+      href="https://github.com/CopticScriptorium/Tokenizers/releases/latest"
+      target="new">Tokenization script and lexicon</a> (assumes normalized Coptic, see
+      tokenization guidelines)</span></li><li><span style="font-size:
+      x-small;"><a href="http://www.cis.uni-muenchen.de/%7Eschmid/tools/TreeTagger/"
+      target="new">TreeTagger</a> - an open source part-of-speech tagger (<a
+      href="http://www.smo.uhi.ac.uk/%7Eoduibhin/oideasra/interfaces/winttinterface.htm"
+      target="new">additional Windows interface
+      WinTreeTagger</a>)</span></li><li><span style="font-size:
+      x-small;"><a
+      href="https://github.com/CopticScriptorium/Tagger-Part-of-Speech/releases/latest"
+      target="new">Coptic TreeTagger training models</a> - for the fine and coarse grained
+      tagsets (see tagging guidelines
+      below)</span></li></ul></li><li><span style="font-size:
+      x-small;">Documentation </span><ul><li><span style="font-size:
+      x-small;"><a
+      href="http://www.copticscriptorium.org/download/tools/SCRIPTORIUMDiplTranscriptionGuidelines.pdf"
+      target="new">Diplomatic Transcription Guidelines</a>(version
+      1.1.0)</span></li><li><span style="font-size: x-small;">Tokenization
+      Guidelines (see sections 3 &amp; 4 of the Transcription
+      Guidelines)</span></li><li><span style="font-size: x-small;"><a
+      href="http://www.copticscriptorium.org/download/tools/scriptorium_tagset_documentation.pdf"
+      target="new">Part-of-Speech Tagging Guidelines (version
+      1.1.0)</a></span></li></ul></li></ul><h3><span
+      style="font-size: x-small;">Additional Annotation
+      Tools</span></h3><ul><li><span style="font-size: x-small;"><a
+      href="https://github.com/CopticScriptorium/normalizer/releases/latest"
+      target="_blank">Normalizer</a> (normalizes orthography, removes
+      diacritics)</span></li><li><span style="font-size: x-small;"><a
+      href="https://github.com/CopticScriptorium/lexical-taggers/releases/tag/1.22"
+      target="_blank">Language of origin tagger</a> (to annotate loan words from Greek,
+      Latin, Hebrew/Greco-Hebrew, Aramaic)</span></li></ul><h3><span
+      style="font-size: x-small;">Converters</span></h3><ul><li><span
+      style="font-size: x-small;">Coptic encoding converter (converts older text character systems
+      used for fonts such as Coptic and Laser Coptic into standards-compliant Coptic Unicode
+      characters) </span><ul><li><span style="font-size: x-small;">Simple
+      recoding script in Perl (supports CMCL, Laser Coptic and UTF-8 encoding
+      conversion)</span></li><li><span style="font-size: x-small;">Converter
+      for ASCII encoding / UTF-8 of Dirk Van Damme and Gregor
+      Wurst</span></li><li><span style="font-size: x-small;"><a
+      href="https://github.com/CopticScriptorium/converters/releases/latest"
+      target="_blank">Download both
+      converters</a></span></li></ul></li><li><span
+      style="font-size: x-small;"><a
+      href="https://korpling.german.hu-berlin.de/p/projects/saltnpepper/wiki/"
+      target="new">SaltNPepper</a> - a metamodel based Java framework for multi-format
+      conversion </span></li><li><span style="font-size: x-small;"><a
+      href="http://www.exmaralda.org/exceladdin.html">Excel-Plugin</a> for importing and
+      exporting EXMARaLDA XML, SGML, PAULA XML and subsets of TEI
+      XML</span></li></ul></blockquote>]]></content>
+    <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/934167802147559197/comments/default"
+         title="Post Comments"/>
+    <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/12/coptic-scriptorium.html#comment-form"
+         title="0 Comments"/>
+    <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/934167802147559197"/>
+    <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/934167802147559197"/>
+    <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/12/coptic-scriptorium.html"
+         title="Coptic Scriptorium"/>
+    <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      
+    </author>
+    
+  </entry>

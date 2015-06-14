@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-116259103207720939.post-4493721787311107097</id>
+    <published>2014-07-31T12:43:00.002-04:00</published>
+    <updated>2014-07-31T12:43:38.281-04:00</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <title type="text">Latest Release of all EpiDoc code</title>
+    <content type="html"><![CDATA[<a href="http://sourceforge.net/p/epidoc/wiki/LatestRelease/">Latest
+      Release of all EpiDoc code</a><br /><blockquote class="tr_bq">EpiDoc is an
+      international, collaborative effort that provides guidelines and tools for encoding scholarly
+      and educational editions of ancient documents. It uses a subset of the <a class=""
+      href="http://www.tei-c.org/" rel="nofollow">Text Encoding Initiative</a>'s standard
+      for the representation of texts in digital form and was developed initially for the publication
+      of digital editions of ancient inscriptions (e.g. <a class=""
+      href="http://insaph.kcl.ac.uk/" rel="nofollow">Inscriptions of Aphrodisias</a>, <a
+      class="" href="http://vindolanda.csad.ox.ac.uk/" rel="nofollow">Vindolanda
+      Tablets</a>). Its domain has expanded to include the publication of papyri and
+      manuscripts (e.g. <a class="" href="http://papyri.info/"
+      rel="nofollow">Papyri.info</a>). It addresses not only the transcription and editorial
+      treatment of texts themselves, but also the history and materiality of the objects on which the
+      texts appear (i.e., manuscripts, monuments, tablets, papyri, and other text-bearing objects).
+      </blockquote><blockquote class="tr_bq"><ul><li><span
+      style="font-size: x-small;"><strong>Latest version is
+      8.19</strong></span><ul><li><span style="font-size:
+      x-small;"><a class="" href="http://www.stoa.org/epidoc/gl/latest"
+      rel="nofollow">Online Guidelines 8.19</a></span></li><li><span
+      style="font-size: x-small;"><a class=""
+      href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" rel="nofollow">Online Schema
+      8.19</a></span></li><li><span style="font-size: x-small;"><a
+      class=""
+      href="http://sourceforge.net/projects/epidoc/files/Example%20Stylesheets/example-p5-xslt-8.19.zip/download">Downloadable
+      Example Stylesheets package
+      8.19</a></span></li></ul></li><li><span
+      style="font-size: x-small;">Version 8.19 was released on 2014-07-31 by Charlotte
+      Tupman</span><ul><li><span style="font-size: x-small;"><a class=""
+      href="https://sourceforge.net/p/epidoc/code/HEAD/tree/tags/8.19">tagged code version of all
+      components
+      (subversion)</a></span></li></ul></li><li><span
+      style="font-size: x-small;"><a class=""
+      href="https://sourceforge.net/p/epidoc/code/HEAD/tree/trunk/ReleaseNotes.txt">ReleaseNotes.txt</a></span></li></ul><hr
+      /><h2 id="past-releases"><span style="font-size: x-small;">Past
+      Releases</span></h2><ul><li><span style="font-size:
+      x-small;"><a class=""
+      href="https://sourceforge.net/p/epidoc/code/HEAD/tree/tags/8.18">Version 8.18 was released
+      on 2014-02-13 by Simona Stoyanova</a></span></li><li><span
+      style="font-size: x-small;"><a class=""
+      href="https://sourceforge.net/p/epidoc/code/HEAD/tree/tags/8.17">Version 8.17 was released
+      on 2013-08-08 by Scott Vanderbilt
+      (sarcanon)</a></span></li><li><span style="font-size:
+      x-small;"><a class=""
+      href="https://sourceforge.net/p/epidoc/code/HEAD/tree/tags/8.16">Version 8.16 was released
+      on 2013-01-28 by Gabriel Bodard</a></span></li><li><span
+      style="font-size: x-small;">Version 8.15 was released on 2012-11-29 by Gabriel
+      Bodard</span></li></ul></blockquote>]]></content>
+    <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/4493721787311107097/comments/default"
+         title="Post Comments"/>
+    <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/07/latest-release-of-all-epidoc-code.html#comment-form"
+         title="0 Comments"/>
+    <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/4493721787311107097"/>
+    <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/4493721787311107097"/>
+    <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/07/latest-release-of-all-epidoc-code.html"
+         title="Latest Release of all EpiDoc code"/>
+    <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      
+    </author>
+    
+  </entry>

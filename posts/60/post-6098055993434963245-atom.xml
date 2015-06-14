@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-116259103207720939.post-6098055993434963245</id>
+    <published>2015-03-13T13:00:00.002-04:00</published>
+    <updated>2015-03-13T13:03:39.579-04:00</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <title type="text">A new feature to the onomastic database of Trismegistos People:
+      Network</title>
+    <content type="html"><![CDATA[<div style="text-align: center;"><span style="font-size:
+      small;">&nbsp;<span><span class="title"><span><span>Have you
+      taken the <a
+      href="http://ancientworldonline.blogspot.com/2015/02/ancient-world-online-user-survey.html">AWOL
+      User
+      Survey</a>?</span></span></span></span></span></div><br
+      /><a href="http://www.trismegistos.org/ref/about_networks.php">A new feature to the
+      onomastic database of Trismegistos People: Network</a><br /><blockquote
+      class="tr_bq"><img alt="http://www.trismegistos.org/img/tm_logo_web2.png"
+      class="transparent" src="http://www.trismegistos.org/img/tm_logo_web2.png" />
+      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">An
+      onomastic network on the basis of genealogical relations&nbsp;</span><br
+      /><br /><span style="font-size: x-small;">Networks are ways to map connections
+      between elements, in this case names. Each name is represented by a node (the dots), and each
+      connection is shown as an edge (or link or tie: the lines between the dots).</span><br
+      /><span style="font-size: x-small;"><br />The nature of the connection can be
+      chosen freely. In this network there is a link between name A and name B if a person with name
+      A chose name B for his or her son or daughter. If more people with name A have opted for name
+      B, the link will be tighter (and the line visualising it thicker). The networks of the more
+      popular names resemble 'spaghetti monsters', as they are connected with many other names. To
+      see where the name itself is, hover over the transcription in the information pane to the right
+      of the window.</span><br /><span style="font-size: x-small;"><br
+      />There are many network measures to describe the features of the network as a whole, as
+      well as those of individual nodes and ties: betweenness centrality, Eigenvector, density,
+      modularity, ... Here we have limited the information to degree centrality, which is how many
+      other names a name is connected to. Since the network is directed (meaning that there is a
+      direction from parent to child), we distinguish between out-degree (how many different names
+      are chosen by parents with that name) and in-degree (how many different names are attested for
+      the parents of children with that name).<br />E.g. When the name <a
+      href="http://www.trismegistos.org/name/1397">Thotortaios</a> has a degree of 184, this
+      means he occurs in 184 different parent - child pairs. The out-degree of 85 means that
+      Thotortaios is the father's name of children with 85 different names. The name's in-degree of
+      99 implies that 99 different fathers' or mothers' names are
+      attested.&nbsp;</span><br /><br /><span style="font-size:
+      x-small;">The names are coloured according to their linguistic origin, as
+      follows:</span><span style="font-size: x-small;"><span class="indent">Blue =
+      Egyptian<br />Green = Greek<br />Yellow = hybrid (combining elements from two or
+      more languages and traditions)<br />Orange = Latin<br />Turquoise = Semitic<br
+      />Pink = Other (e.g. Macedonian, Thracian, Gallic, ...)<br />Grey =
+      Unknown</span></span><br /><span style="font-size: x-small;"><span
+      class="indent"><br /></span></span><br /><span style="font-size:
+      x-small;">In principle the shape of the network is irrelevant: as long as nodes are
+      connected, they can be placed anywhere. But as humans have difficulty seeing the 69,860 edges
+      between the 17,182 nodes (names in this case), programs like <a
+      href="http://gephi.github.io/">Gephi</a> can adapt the visual representation of the
+      network according to specific layout algoritms. In this case we have used 'ForceAtlas 2". <a
+      href="http://www.trismegistos.org/img/names%20new.mp4">The 47-second video below shows
+      </a>this process, which in fact took the MacBook Air over 22 minutes.
+      </span></blockquote><hr />]]></content>
+    <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/6098055993434963245/comments/default"
+         title="Post Comments"/>
+    <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/03/a-new-feature-to-onomastic-database-of.html#comment-form"
+         title="0 Comments"/>
+    <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6098055993434963245"/>
+    <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6098055993434963245"/>
+    <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/03/a-new-feature-to-onomastic-database-of.html"
+         title="A new feature to the onomastic database of Trismegistos People: Network"/>
+    <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      
+    </author>
+    
+  </entry>

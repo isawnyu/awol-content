@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-116259103207720939.post-3000958140295753386</id>
+    <published>2012-07-29T08:46:00.002-04:00</published>
+    <updated>2012-07-29T08:46:43.453-04:00</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <title type="text">All Unicode Characters</title>
+    <content type="html"><![CDATA[<a href="http://codepoints.net/">Codepoints</a><br
+      /><blockquote class="tr_bq"><span style="font-size: x-small;">Codepoints.net is
+      dedicated to all the characters, that are defined in the <a
+      href="http://unicode.org/">Unicode Standard</a>. Theoretically, these should be
+      <i>all characters ever used</i>. In practice Unicode has <i>110181
+      codepoints</i> defined at the moment, mapping characters from <a
+      href="http://codepoints.net/egyptian_hieroglyphs">Egyptian Hieroglyphs</a> to <a
+      href="http://codepoints.net/dingbats">Dingbats and Symbols</a>.</span>
+      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">All
+      codepoints are arranged in 16&nbsp;so-called <a
+      href="http://codepoints.net/planes">planes</a>. These planes are further divided into
+      several blocks with <a href="http://codepoints.net/basic_latin">Basic Latin</a>
+      being the first one. You can browse one by one by starting with the first codepoint, <a
+      class="cp" href="http://codepoints.net/U+0000">0000<img alt="" height="16"
+      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAOUlEQVQoz2Ng+P+fAT/GCxkgqggoodwEiBKYo5BZUGkQxKUAbgJCEVYT/iNZhKBhmgZFOFAnJHFjAFIw/wFW2nrXAAAAAElFTkSuQmCC"
+      width="16" /></a> or <a href="http://codepoints.net/search">search</a> for
+      a specific character. If you’re not fully sure, try <a
+      href="http://codepoints.net/wizard"> “Find My Codepoint”</a>, to narrow down the
+      candidates. Or maybe you are more daring and want <a
+      href="http://codepoints.net/random">a random
+      codepoint</a>?&nbsp;</span><br /><br /><span style="font-size:
+      x-small;">The content on this website reflects the information found in<br
+      /><i>The Unicode Consortium.</i></span> <span style="font-size:
+      x-small;"> The Unicode Standard, Version 6.1.0, (Mountain View, CA: The Unicode Consortium,
+      2012. ISBN <a class="libx-autolink"
+      href="http://bobcat.library.nyu.edu/primo_library/libweb/action/search.do?fn=go&amp;ct=search&amp;vid=NYU&amp;mode=Basic&amp;indx=0&amp;dum=true&amp;vl%28freeText0%29=1936213028&amp;undefined=all_items&amp;vl%281UIStartWith0%29=contains&amp;vl%28212921975UI0%29=isbn&amp;scps=scope:%28NS%29,scope:%28CU%29,scope:%28%22BHS%22%29,scope:%28NYU%29,scope:%28%22NYSID%22%29,scope:%28%22NYHS%22%29,scope:%28GEN%29,scope:%28%22NYUAD%22%29"
+      style="border-bottom: 1px dotted;" title="ISBN not found">978-1-936213-02-3</a>)<br
+      /><a
+      href="http://www.unicode.org/versions/Unicode6.1.0/">http://www.unicode.org/versions/Unicode6.1.0/</a></span>
+      <span style="font-size: x-small;">,<br /> which happens to be the most relevant
+      version of the Unicode Standard as of June, 2012.&nbsp;</span>
+      </blockquote><blockquote class="tr_bq"><a
+      href="http://codepoints.net/scripts">Browse Codepoints by
+      Script</a></blockquote><blockquote class="tr_bq"><blockquote
+      class="tr_bq"><span style="font-size: x-small;">Arabic Imperial Aramaic Armenian
+      Avestan Balinese Bamum Batak Bengali Bopomofo Brahmi Braille Buginese Buhid Chakma Canadian
+      Aboriginal Carian Cham Cherokee Coptic Cypriot Cyrillic Devanagari Deseret Egyptian Hieroglyphs
+      Ethiopic Georgian Glagolitic Gothic Greek Gujarati Gurmukhi Hangul Han Hanunoo Hebrew Hiragana
+      Katakana Or Hiragana Old Italic Javanese Kayah Li Katakana Kharoshthi Khmer Kannada Kaithi Tai
+      Tham Lao Latin Lepcha Limbu Linear B Lisu Lycian Lydian Mandaic Meroitic Cursive Meroitic
+      Hieroglyphs Malayalam Mongolian Meetei Mayek Myanmar Nko Ogham Ol Chiki Old Turkic Oriya
+      Osmanya Phags Pa Inscriptional Pahlavi Phoenician Miao Inscriptional Parthian Rejang Runic
+      Samaritan Old South Arabian Saurashtra Shavian Sharada Sinhala Sora Sompeng Sundanese Syloti
+      Nagri Syriac Tagbanwa Takri Tai Le New Tai Lue Tamil Tai Viet Telugu Tifinagh Tagalog Thaana
+      Thai Tibetan Ugaritic Vai Old Persian Cuneiform Yi Inherited Common
+      Unknown</span></blockquote></blockquote>]]></content>
+    <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/3000958140295753386/comments/default"
+         title="Post Comments"/>
+    <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2012/07/all-unicode-characters.html#comment-form"
+         title="0 Comments"/>
+    <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3000958140295753386"/>
+    <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3000958140295753386"/>
+    <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2012/07/all-unicode-characters.html"
+         title="All Unicode Characters"/>
+    <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      
+    </author>
+    
+  </entry>
