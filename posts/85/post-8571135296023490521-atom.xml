@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-116259103207720939.post-8571135296023490521</id>
+    <published>2014-08-01T13:31:00.001-04:00</published>
+    <updated>2014-08-01T13:31:33.126-04:00</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Bones"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+    <title type="text">Open Osteological Data - Two Imperial Roman Cemetery Populations</title>
+    <content type="html"><![CDATA[<a
+      href="http://www.poweredbyosteons.org/2014/07/open-osteological-data-two-imperial.html">Open
+      Osteological Data - Two Imperial Roman Cemetery Populations</a><br /><blockquote
+      class="tr_bq"><div class="postdate" style="margin-bottom: -15px; position: relative;
+      width: 100%;"><span style="font-size: x-small;"><img
+      src="http://1.bp.blogspot.com/-WI8wdiJwZOs/TxhudZkcIYI/AAAAAAAAA1o/ztU4MU9l5KM/s000/date.png"
+      />7/31/2014 <img
+      src="http://4.bp.blogspot.com/-ScCGpPltws4/Txhud9J7DsI/AAAAAAAAA10/0DsbhoEwjEE/s000/user.png"
+      />Kristina Killgrove <img
+      src="http://3.bp.blogspot.com/-Bx2Pz26IngY/TxhuegUACvI/AAAAAAAAA18/XQUsM352zLg/s000/comments.png"
+      /><a
+      href="http://www.blogger.com/comment.g?blogID=5060765438658823687&amp;postID=695545016869788970&amp;isPopup=true">1
+      comment</a></span></div><span style="font-size: x-small;"> <br
+      /><br /></span><span style="font-size: x-small;">I defended my
+      dissertation, <i><a
+      href="http://www.piki.org/%7Ekristina/Killgrove-2010-Migration-Mobility-Imperial-Rome.pdf">Migration
+      and Mobility in Imperial Rome</a></i>, four years ago. &nbsp;Because of my
+      interest in open access and because my NSF grant required a data access statement, I've been
+      thinking for four years about how best to open up all the data I collected.</span><br
+      /><div><span style="font-size: x-small;"><br
+      /></span></div><span style="font-size:
+      x-small;"></span><div><span style="font-size: x-small;">At first, I was
+      worried about opening up the data because I wanted to get a
+      job.</span></div><span style="font-size:
+      x-small;"></span><div><span style="font-size: x-small;"><br
+      /></span></div><span style="font-size:
+      x-small;"></span><div><span style="font-size: x-small;">I got a job in
+      2012 at the University of West Florida. &nbsp;</span></div><span
+      style="font-size: x-small;"></span><div><span style="font-size:
+      x-small;"><br /></span></div><span style="font-size:
+      x-small;"></span><div><table cellpadding="0" cellspacing="0"
+      class="tr-caption-container" style="float: right; margin-left: 1em; text-align:
+      right;"><tbody><tr><td style="text-align: center;"><span
+      style="font-size: x-small;"><a
+      href="http://3.bp.blogspot.com/-Fekv_it-CL8/U9qDw4h3I-I/AAAAAAAAF3A/igQKB3lafqU/s1600/KillgroveDatabase.png"
+      style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
+      border="0"
+      src="http://3.bp.blogspot.com/-Fekv_it-CL8/U9qDw4h3I-I/AAAAAAAAF3A/igQKB3lafqU/s1600/KillgroveDatabase.png"
+      height="215" width="400" /></a></span></td></tr><tr><td
+      class="tr-caption" style="text-align: center;"><span style="font-size: x-small;"><a
+      href="https://github.com/killgrove/RomanOsteology">Roman Osteology</a> Database
+      Screenshot</span></td></tr></tbody></table><span
+      style="font-size: x-small;">Then I worried about opening up the data because I needed to
+      publish and get tenure, but growing interest in open data among scholars made me conflicted.
+      &nbsp;So I compromised: I posted all published isotope data as bare-bones Excel files.
+      &nbsp;But divorcing these data from their larger context didn't sit well with
+      me.</span></div><span style="font-size:
+      x-small;"></span><div><span style="font-size: x-small;"><br
+      /></span></div><span style="font-size:
+      x-small;"></span><div><span style="font-size: x-small;">I'm entering my
+      third year at UWF, and I see no reason to hold back the database any longer. &nbsp;While
+      I'm still a ways from making my tenure case, I've been steadily publishing the plethora of data
+      I generated during my dissertation fieldwork, so I feel confident in my ability to research,
+      analyze, and write on bioarchaeology. &nbsp;</span></div><span
+      style="font-size: x-small;"></span><div><span style="font-size:
+      x-small;"><br /></span></div><span style="font-size:
+      x-small;"></span><div><span style="font-size: x-small;">More importantly,
+      though, I think I'm just done with this project. &nbsp;</span></div><span
+      style="font-size: x-small;"></span><div><span style="font-size:
+      x-small;"><br /></span></div><span style="font-size:
+      x-small;"></span><div><span style="font-size: x-small;">That's not to say
+      there isn't more to write or that there aren't more data to analyze or that I'm not still
+      interested in this time and place. &nbsp;There's a <b>ton</b> of dental and
+      skeletal pathology data, for example, that I haven't tackled. &nbsp;But I want to move on
+      to other projects, and at this point I worry that I'm becoming too myopic. &nbsp;Honestly,
+      Imperial Rome tends to do that -- it sucks you in, making you think it is, was, and ever will
+      be the most important city in the world full of the most important people in history.
+      &nbsp;Roman imperialism is calling out for more diverse perspectives, though. &nbsp;The
+      rise in osteological analysis of Romano-British cemeteries, for example, is created a
+      multifaceted Empire. &nbsp;And <a
+      href="http://www.pasthorizonspr.com/index.php/archives/12/2011/investigating-the-transatlantic-slave-trade">new
+      multidisciplinary studies in the Transatlantic slave trade</a> are raising the question
+      of potential comparative work with slavery in the Roman world. &nbsp;I still love answering
+      questions about population interaction in the past, but I might try focusing that interest on
+      times and places like Medieval Berlin, Greco-Roman Italy, or Pre-Emancipation Southeast U.S.
+      &nbsp;Still, I am working on skeletons from various time periods at <a
+      href="http://sitemaker.umich.edu/gabiiproject/team">Gabii</a>, so I haven't abandoned
+      Roman bioarchaeology. &nbsp;And I might yet publish dental pathology data (or enlist a grad
+      student to do it for a thesis)...</span></div><span style="font-size:
+      x-small;"></span><div><span style="font-size: x-small;"><br
+      /></span></div><span style="font-size: x-small;"> At any rate, <a
+      href="https://github.com/killgrove/RomanOsteology">you can find my Access database on GitHub
+      at this link</a>. &nbsp;Please use it if you're interested in comparative data sets,
+      if you want to check my work, if you disagree with my interpretations, or if you just like
+      reading databases. &nbsp;I only ask that you credit me appropriately. &nbsp;(If you
+      want to collaborate further for a publication, though, I'm happy to do that as
+      well.)</span></blockquote>]]></content>
+    <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/8571135296023490521/comments/default"
+         title="Post Comments"/>
+    <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/08/open-osteological-data-two-imperial.html#comment-form"
+         title="0 Comments"/>
+    <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8571135296023490521"/>
+    <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8571135296023490521"/>
+    <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/08/open-osteological-data-two-imperial.html"
+         title="Open Osteological Data - Two Imperial Roman Cemetery Populations"/>
+    <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      
+    </author>
+    
+    
+  </entry>

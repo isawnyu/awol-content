@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-116259103207720939.post-1914097070560001592</id>
+    <published>2009-02-02T18:00:00.000-05:00</published>
+    <updated>2009-02-02T18:08:45.496-05:00</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <category scheme="http://www.blogger.com/atom/ns#"
+             term="University of Chicago libraries"/>
+    <title type="text">A Cool Tool</title>
+    <content type="html"><![CDATA[<a href="http://lens.lib.uchicago.edu/">Lens</a> allows users to
+      search the University of Chicago library catalog and other sources simultaneously using
+      Aquabrowser, a search engine developed by <a
+      href="http://www.medialab.nl/?page=aquabrowserlibrary/overview">Medialab</a>. Lens
+      expands your search into other Library resources including electronic database information,
+      e-journals list, archives and manuscripts finding aids, tables of contents, summaries, and the
+      Library's website.<br /><br /><blockquote><p class="hdr
+      search">Search</p> <ul><li> Enter your query in the text box<br
+      /></li><li>The <b>central panel</b> displays your search results,
+      ranked by relevance</li><li>Click on a title to view a full record, including
+      publication information, library locations, and availability</li><li>Advanced
+      Search allows searching by title, author, or keyword</li></ul> <p class="hdr
+      discover">Discover</p> <ul><li>The <b>left panel</b> displays
+      a constellation of related terms, spelling variations and translations of your search
+      terms</li><li>Click on words in the word cloud to explore other terms in the
+      catalog</li></ul> <p class="hdr refine">Refine</p> <ul><li>
+      The <b>right panel</b> displays terms found within the records of your
+      results</li><li> Click on any term to focus and narrow your
+      results</li></ul></blockquote><br /><a
+      href="http://lens.lib.uchicago.edu/"><br />Give it a try</a>. It's
+      great!]]></content>
+    <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/1914097070560001592/comments/default"
+         title="Post Comments"/>
+    <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2009/02/cool-tool.html#comment-form"
+         title="0 Comments"/>
+    <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1914097070560001592"/>
+    <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1914097070560001592"/>
+    <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2009/02/cool-tool.html"
+         title="A Cool Tool"/>
+    <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      
+    </author>
+    
+  </entry>

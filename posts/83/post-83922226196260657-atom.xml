@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-116259103207720939.post-83922226196260657</id>
+    <published>2014-06-05T16:23:00.002-04:00</published>
+    <updated>2014-06-05T18:34:45.047-04:00</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
+    <title type="text">News from Online Coins of the Roman Empire (OCRE)</title>
+    <content type="html"><![CDATA[<a
+      href="https://www.jiscmail.ac.uk/cgi-bin/webadmin?A2=ind1406&amp;L=DIGITALCLASSICIST&amp;F=&amp;S=&amp;P=2740">From
+      the DIGITALCLASSICIST list</a><br /><blockquote
+      class="tr_bq">&nbsp;<span style="font-size: x-small;"><a
+      href="http://numismatics.org/ocre/">Online Coins of the Roman Empire (OCRE)</a> has
+      seen significant progress in the last six months:</span><br
+      /><div><div><div><div><ol><li><span style="font-size:
+      x-small;">All types through Pupienus have been added (OCRE contains nearly 20,000 Roman
+      imperial coin types)</span></li><li><span style="font-size: x-small;">
+      More than 25,000 individual physical specimens have been linked to these types from four
+      different collections, including the American Numismatic Society (12,997 coins) and the British
+      Museum (11,566 coins). We expect to incorporate data from major archaeological databases, such
+      as the <a href="http://finds.org.uk/">Portable Antiquities Scheme</a> and the <a
+      href="http://numismatics.org/ocre/">European Coin Find Network</a>, in the
+      future.</span></li><li><span style="font-size: x-small;"> The National
+      Endowment for the Humanities awarded the project $300,000 for three years to fund the
+      completion of the project, including the full photography of the ANS' Roman imperial
+      collection.</span></li></ol></div></div><span
+      style="font-size: x-small;"><br /></span></div><span style="font-size:
+      x-small;">We're interested in expanding the base of data contributors. The greater number of
+      coins linked to OCRE-defined coin types, the more accurate the quantitative and geographic
+      analyses become. Please see <a
+      href="http://wiki.numismatics.org/nomisma:nomisma_-_participation">here</a> for
+      documentation on how to contribute data to OCRE and other numismatic linked data projects (a
+      joint ANS-British Museum project based on Michael Crawford's Roman Republican Coinage (1974)
+      corpus will launch within a few months).</span><span style="font-size:
+      x-small;"><br /></span></div><span style="font-size: x-small;">Ethan
+      Gruber<br />American Numismatic Society</span></blockquote>And from <a
+      href="http://numishare.blogspot.com/2014/06/ocre-updates-coin-types-through.html">Numishare</a><br
+      /><blockquote class="tr_bq"><div class="date-header"><span>Thursday, June
+      5, 2014</span></div></blockquote><a href="https://draft.blogger.com/null"
+      name="5129794792947232026"></a><blockquote class="tr_bq"><h3
+      class="post-title entry-title"><span style="font-size: x-small;">OCRE updates: coin
+      types through Pupienus added </span></h3><span style="font-size:
+      x-small;"></span><div class="post-header"> </div><span
+      style="font-size: x-small;"></span><div class="post-body entry-content"><div
+      dir="ltr" style="text-align: left;"><span style="font-size: x-small;">There are a few
+      significant updates to report with <a href="http://numismatics.org/ocre/">OCRE</a>
+      (Online Coins of the Roman Empire). First, we have added all of the coin types through Pupienus
+      (A.D. 238). There are now more than 19,000 Roman imperial coin types represented in OCRE. I
+      have also generated new RDF dumps from both the ANS and British Museum collections, so we now
+      have physical specimens (including images in some cases) for these new types. The last update
+      from the ANS is from Septimius Severus, I believe, so we added thousands more physical coins
+      into the <a href="http://nomisma.org/">nomisma.org</a> triplestore that power's
+      OCRE's linking. There are about 25,000 physical objects linked to types defined on OCRE. The
+      new <a href="http://numismatics.org/ocre/contributors">Contributors</a> page is a
+      dynamic representation of collections that have submitted data into the triplestore. The <a
+      href="http://coins.lib.virginia.edu/">University of Virginia collection</a> has been
+      updated to link a few coins of Severus Alexander and Maximinus Thrax into OCRE. Two of these
+      are from the <a
+      href="http://numismatics.org/ocre/results?q=findspot_facet%3A%22Oliver%27s+Orchard+Hoards%22">Oliver's
+      Orchard Hoards</a>, a large hoard excavated in Britain in the 1980s. About half of UVA's
+      collection comes from this hoard, and so there will be more georeferenced coins added into the
+      system eventually, as we make our way through the Crisis of the Third Century. As such, the two
+      coins of Severus Alexander from this hoard, published in the UVA collection, are the first two
+      physical objects available in OCRE that have attested findspots.</span><span
+      style="font-size: x-small;"><br />Importantly, OCRE has been migrated to the newest
+      version of Numishare. OCRE is functionally the same as before, but the query process for
+      displaying thumbnails on search results pages is more efficient. Pages will load slightly
+      faster while browsing the collection. This migration also means that the new version of the
+      project uses the <a href="http://getbootstrap.com/">Bootstrap</a> framework, which
+      means that the site is responsive, functionally equally as well on mobile devices as on desktop
+      ones.</span></div><div dir="ltr" style="text-align: left;"><span
+      style="font-size: x-small;">&nbsp;</span></div></div><span
+      style="font-size: x-small;"> <span class="post-author vcard">Posted by <span
+      class="fn">Ethan Gruber</span></span></span><span
+      class="post-timestamp"><span style="font-size: x-small;">at <a
+      class="timestamp-link"
+      href="http://numishare.blogspot.com/2014/06/ocre-updates-coin-types-through.html"
+      rel="bookmark" title="permanent link"><abbr class="published"
+      title="2014-06-05T08:57:00-07:00">8:57
+      AM</abbr></a></span></span></blockquote>]]></content>
+    <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/83922226196260657/comments/default"
+         title="Post Comments"/>
+    <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/06/news-from-online-coins-of-roman-empire.html#comment-form"
+         title="0 Comments"/>
+    <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/83922226196260657"/>
+    <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/83922226196260657"/>
+    <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/06/news-from-online-coins-of-roman-empire.html"
+         title="News from Online Coins of the Roman Empire (OCRE)"/>
+    <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      
+    </author>
+    
+  </entry>

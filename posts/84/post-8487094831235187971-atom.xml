@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-116259103207720939.post-8487094831235187971</id>
+    <published>2014-03-21T11:43:00.000-04:00</published>
+    <updated>2014-03-21T11:43:14.312-04:00</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <title type="text">Announcing the Perseus Lexical Inventory</title>
+    <content type="html"><![CDATA[<a
+      href="http://sites.tufts.edu/perseusupdates/2014/03/21/announcing-the-perseus-lexical-inventory-an-open-linked-data-set/">Announcing
+      the Perseus Lexical Inventory – an open linked data set</a><br /><div
+      class="entry-meta"> <span class="meta-sep">by</span> <span class="author
+      vcard"><a class="url fn n" href="http://sites.tufts.edu/perseusupdates/author/balmas01/"
+      title="View all posts by Bridget Almas">Bridget Almas</a></span> <span
+      class="meta-prep meta-prep-author">Posted on</span> <a
+      href="http://sites.tufts.edu/perseusupdates/2014/03/21/announcing-the-perseus-lexical-inventory-an-open-linked-data-set/"
+      rel="bookmark" title="7:49 am"><span class="entry-date">March 21,
+      2014</span></a> </div><div class="entry-content"> <blockquote
+      class="tr_bq"><div dir="ltr"><span style="font-size: x-small;">Many different
+      linguistic services and tools are dependent on lexical information as it is commonly found in
+      Latin and Greek dictionaries. Most of these applications rely on their own implementation of
+      dictionaries, stem databases etc. but there is no centralized open-access resource on which
+      these services can draw for supporting data. The Perseus Digital Library is releasing its
+      lexical data as an open linked data set, starting with Latin and to be followed by Greek,
+      &nbsp;in the hopes that it may eventually become such a resource. Work on producing this
+      data set has been a collaborative effort, and would not have been possible without the guidance
+      of <a href="http://shot.holycross.edu/%7Ensmith/">Neel Smith</a> of Holy Cross and
+      <a href="http://classics.uchicago.edu/faculty/dik">Helma Dik</a> of the University
+      of Chicago.</span></div><div dir="ltr"><br /></div><div
+      dir="ltr"><span style="font-size: x-small;">The core of the Perseus Lexical Inventory
+      is a <a href="http://www.homermultitext.org/hmt-doc/cite/index.html">CITE
+      collection</a> of Lexical Entity URIs. Each Lexical Entity identifier has associated
+      properties including a normalized form of the lexical entity (or lemma) and a short definition.
+      &nbsp;&nbsp;The accompanying linked data set includes links between the Lexical Entity
+      URIs, morpheus lemmas, and entries in the Lewis and Short lexicons on <a
+      href="http://www.perseus.tufts.edu/">Perseus</a>, <a
+      href="http://alpheios.net/">Alpheios</a> and <a
+      href="http://logeion.uchicago.edu/">Logeion</a>. &nbsp;A VOID file describing the
+      data set is available at<a href="http://data.perseus.org/ds/lexical/void">
+      http://data.perseus.org/ds/lexical/void</a> and a SPARQL endpoint for querying the data
+      set is at&nbsp;<a
+      href="http://services.perseus.tufts.edu/fuseki/sparql.html">http://services.perseus.tufts.edu/fuseki/sparql.html</a>.
+      &nbsp;&nbsp;There is also a simple demonstration query form that looks up entries based
+      upon the Latin form at <a
+      href="http://perseids.org/tools/lexical/query.html">http://perseids.org/tools/lexical/query.html</a>.
+      &nbsp;The <a
+      href="https://wikihub.berkeley.edu/display/pbamboo/Morphological+Analysis+Service+Contract+Description+-+v1.1.1">Tufts
+      Morphology Service</a>&nbsp;(currently available at <a
+      href="http://services.perseids.org/bsp/morphologyservice?_wadl">http://services.perseids.org/bsp/morphologyservice</a>
+      )&nbsp;also supplies the corresponding Lexical Entity URIs for lemmas returned by
+      Morpheus.</span></div><div dir="ltr"><br /></div><div
+      dir="ltr"><span style="font-size: x-small;">Subsequent updates to the data set will
+      include links to ontologies and other collections of uniquely identifiable entities, including
+      part of speech, lexical tokens or forms, stems, prefixes and suffixes, morphological analyses,
+      metrical data, orthographical variants, and named entities. &nbsp;The lexical entities and
+      tokens will also be linked to their occurrences in dictionaries and other lexica, texts (i.e.
+      of the Perseus corpus, among others), treebanks, etc. Finally we expect to link to other
+      established and emerging data sets, including the <a
+      href="http://pleiades.stoa.org/">Pleiades</a> Gazetteer and the <a
+      href="http://snapdrgn.net/">SNAP</a> dataset of ancient prosopography, among
+      others.</span></div><div dir="ltr"><br /></div><span
+      style="font-size: x-small;">Our ultimate goal is for the lexical data sets to be completely
+      open with various channels, including both user interfaces and service-based APIs, through
+      which people and systems can contribute new data and corrections.</span><br />
+      <span style="font-size: x-small;">In keeping with the approach we have been taking with
+      the release of our data (see the Perseus Catalog’s <a
+      href="http://sites.tufts.edu/perseuscatalog/documentation/release-notes/next-steps-roadmap/roadmap-towards-linked-data-standards-compliance/">Roadmap
+      towards Linked Data standards compliance</a>) we are releasing the data knowing we have
+      much work to do still, and will make progress towards the larger vision in incremental steps.
+      &nbsp;Our next steps will include release of a companion Greek Lexical Inventory, followed
+      by the addition of the stem and lexical token data sets and development of APIs and interfaces
+      for using and contributing to the data.</span></blockquote><br />
+      </div><div class="entry-meta"> <span class="meta-sep"><br
+      /></span><a
+      href="http://sites.tufts.edu/perseusupdates/2014/03/21/announcing-the-perseus-lexical-inventory-an-open-linked-data-set/"
+      rel="bookmark" title="7:49 am"><span class="entry-date"></span></a>
+      </div>]]></content>
+    <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/8487094831235187971/comments/default"
+         title="Post Comments"/>
+    <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/03/announcing-perseus-lexical-inventory.html#comment-form"
+         title="0 Comments"/>
+    <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8487094831235187971"/>
+    <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8487094831235187971"/>
+    <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/03/announcing-perseus-lexical-inventory.html"
+         title="Announcing the Perseus Lexical Inventory"/>
+    <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      
+    </author>
+    
+  </entry>

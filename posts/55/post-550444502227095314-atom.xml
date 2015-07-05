@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-116259103207720939.post-550444502227095314</id>
+    <published>2011-11-29T08:55:00.001-05:00</published>
+    <updated>2011-11-29T09:05:58.415-05:00</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <title type="text">JSTOR Early Journal Content Data Bundle</title>
+    <content type="html"><![CDATA[<a href="http://dfr.jstor.org/">JSTOR Data For
+      Research</a><br /><br /><a
+      href="http://dfr.jstor.org/??view=text&amp;&amp;helpview=about_ejc">Early Journal
+      Content Data Bundle</a><br /><div style="text-align: center;"><img
+      alt="http://dfr.jstor.org/site_media/logo.gif" src="http://dfr.jstor.org/site_media/logo.gif"
+      /></div><blockquote class="tr_bq"><div> <h3> <span
+      style="font-size: x-small;">About the Early Journal Content (EJC)
+      </span></h3><span style="font-size: x-small;"> The <a
+      href="http://about.jstor.org/participate-jstor/individuals/early-journal-content">Early
+      Journal Content</a> on JSTOR includes journal articles published in the United States
+      before 1923 and articles published in other countries before 1870, and includes discourse and
+      scholarship in the arts and humanities, economics and politics, and in mathematics and other
+      sciences. </span><br /> <span style="font-size: x-small;"> On <a
+      href="http://www.jstor.org/">JSTOR</a>, the Early Journal Content is free and
+      available for use by anyone, without registration and regardless of institutional affiliation.
+      The amount of free content will grow over time. As we add more journals to JSTOR, new articles
+      within these time ranges will be added to the Early Journal Content, and will remain freely
+      available. </span><br /> <span style="font-size: x-small;"> Making this early
+      journal content freely available is the most recent step in our ongoing work to expand access
+      to content on JSTOR, particularly for individuals who are not affiliated with academic
+      institutions or libraries. </span><br /> </div><h3><span
+      style="font-size: x-small;">The EJC Data Bundle</span></h3><span
+      style="font-size: x-small;"> We are happy to also make a data bundle for the Early Journal
+      Content freely available to those who would like to conduct data mining or other research
+      across the content. </span><br /> <span style="font-size: x-small;"> The data
+      bundle for EJC includes full-text OCR and article and title-level metadata. The Read Me file
+      explains the data in more detail. The currently available data bundle includes all the EJC as
+      of September 7, 2011. </span><br /> <span style="font-size: x-small;"> Please
+      note that use of the Early Journal Content bundle is subject to the <a
+      href="http://www.jstor.org/page/info/about/policies/terms.jsp#TC2">Early Journal Content
+      Specific Terms and Conditions of Use</a>. </span><br /> <span
+      style="font-size: x-small;"> To access the data bundle, please create an account using the
+      <a href="http://dfr.jstor.org/accounts/register/">very brief registration form</a>,
+      or <a href="http://dfr.jstor.org/accounts/login/">login</a> if you already have a
+      Data for Research account. We plan to update the bundle on a semi-regular basis and to alert
+      registrants when the bundle has been updated. </span><br /> <span
+      style="font-size: x-small;"> The format of the data bundle is a .tar.gz archive containing a
+      readme file explaining the format of the data files, and an XML file for each article in the
+      Early Journal Content bundle. </span><br /> <span style="font-size:
+      x-small;"> Once logged in, you can download the Early Journal Content bundle <a
+      href="http://dfr.jstor.org/ejc/">here</a><br /> The size of the bundle is
+      approx. 2.3 GB compressed, and 7.2 GB inflated.<br /> The bundle was last updated
+      November 11, 2011. </span></blockquote>&nbsp;And see also:&nbsp;<br
+      /><ul><li><a
+      href="http://ancientworldonline.blogspot.com/2011/11/thematic-index-of-classics-in-jstor.html">Thematic
+      Index of Classics in JStor</a></li><li><a
+      href="http://ancientworldonline.blogspot.com/2011/10/results-of-poll-do-you-have-access-to.html">Results
+      of the Poll: Do You Have Access to JSTOR?</a> and</li><li><span
+      style="font-family: 'PrimaSans BT,Verdana,sans-serif';"><a
+      href="http://ancientworldonline.blogspot.com/2009/06/ancient-world-in-jstor.html">The
+      Ancient World in JSTOR</a>: AWOL's full list of journals in JSTOR with substantial
+      representation of the Ancient World.<a
+      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" id="data:post.url"
+      name="data:post.title"><br /></a></span> </li></ul><br
+      />&nbsp; <br /><br /> <br />]]></content>
+    <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/550444502227095314/comments/default"
+         title="Post Comments"/>
+    <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/11/jstor-early-journal-content-data-bundle.html#comment-form"
+         title="0 Comments"/>
+    <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/550444502227095314"/>
+    <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/550444502227095314"/>
+    <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/11/jstor-early-journal-content-data-bundle.html"
+         title="JSTOR Early Journal Content Data Bundle"/>
+    <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+      
+    </author>
+    
+  </entry>
