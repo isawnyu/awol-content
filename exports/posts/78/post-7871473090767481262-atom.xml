@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7871473090767481262</id>
+   <published>2011-09-23T15:42:00.001-04:00</published>
+   <updated>2011-09-23T15:42:09.673-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Trismegistos News: Trismegistos People</title>
+   <content type="html"><![CDATA[<a href="http://www.trismegistos.org/ref/about.php">Trismegistos People</a><br /><br /><div style="text-align: center;"><img alt="http://www.trismegistos.org/img/tm_logo_web2.png" src="http://www.trismegistos.org/img/tm_logo_web2.png" /> </div><blockquote><span style="color: red; font-size: x-small;">Beta Version September 2011</span><br /><h2> <span style="font-size: x-small;">Introduction</span></h2><span style="font-size: x-small;">Trismegistos People is a tool dealing with <b>personal names of non-royal individuals attested as living in Egypt in documentary texts between BC 800 and AD 800</b>,  including all languages and scripts written on any surface. Not  included are pharaohs, emperors, and saints; people attested in texts  outside Egypt (with the exception of some <i>Prosopographia Ptolemaica</i> entries) or people living outside Egypt (no consuls!); and names from non-documentary texts (e.g. narratives).&nbsp;</span><br /><br /><span style="font-size: x-small;"> Trismegistos People consists of a complex set of prosopographical and  onomastic databases. At the heart of the structure is the REF database,  which lists attestations of people identified by personal names. It is  linked to PER, a database of individuals, and to NAMVAR, a database of  personal name variants which is in turn linked to NAM, a database of  names.</span><br /><div id="box1"><ul><li class="header"><span style="font-size: xx-small;">People</span></li><li><span style="font-size: xx-small;"><a href="http://www.trismegistos.org/ref/index.php">Home</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.trismegistos.org/nam/list_all.php">List all names</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.trismegistos.org/ref/search.php">Search for people</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.trismegistos.org/nam/search.php">Search for names</a></span></li></ul></div><div id="box3"><ul><li class="header"><span style="font-size: xx-small;">TM People Info</span></li><li><span style="font-size: xx-small;"><b><a href="http://www.trismegistos.org/ref/about.php">Introduction</a></b></span></li><li><span style="font-size: xx-small;"><a href="http://www.trismegistos.org/ref/about_coverage.php">Current Coverage</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.trismegistos.org/ref/about_qc.php">Quality Control</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.trismegistos.org/ref/about_prosopography.php">Prosopography</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.trismegistos.org/ref/about_transliteration.php">Transliteration of Egyptian</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.trismegistos.org/ref/about_namvars.php">Names and Variants</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.trismegistos.org/ref/about_identifiers.php">Stable Identifiers</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.trismegistos.org/ref/about_polyonymous.php">Latin and other polyonymous name systems</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.trismegistos.org/ref/about_helpus.php">Help us!</a></span></li></ul></div></blockquote>AWOL's entry for <a href="http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html">Open Access Library: Trismegistos</a>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/7871473090767481262/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/09/trismegistos-news-trismegistos-people.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7871473090767481262"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7871473090767481262"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/09/trismegistos-news-trismegistos-people.html"
+         title="Trismegistos News: Trismegistos People"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

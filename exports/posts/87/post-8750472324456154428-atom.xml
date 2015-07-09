@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8750472324456154428</id>
+   <published>2014-09-27T15:29:00.000-04:00</published>
+   <updated>2014-09-27T15:29:00.246-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Sicily"/>
+   <title type="text">I.Sicily ~ Building a digital corpus of Sicilian inscriptions</title>
+   <content type="html"><![CDATA[<a href="http://isicily.wordpress.com/">I.Sicily ~ Building a digital corpus of Sicilian inscriptions</a><br /><blockquote class="tr_bq">&nbsp;<img alt="http://isicily.files.wordpress.com/2014/08/cropped-b-base14_sikelia_reduced.jpg" class="decoded" height="86" src="http://isicily.files.wordpress.com/2014/08/cropped-b-base14_sikelia_reduced.jpg" width="320" /></blockquote><br /><blockquote class="tr_bq"><span style="font-size: x-small;">I.Sicily is a project to create and make freely available online  the complete corpus of inscriptions from ancient Sicily. The project  includes texts in all languages (Greek, Latin, Phoenician/Punic, Oscan,  Hebrew, and Sikel), from the first inscribed texts of the Archaic period  (7<sup>th</sup>-6<sup>th</sup> centuries BC) through to those of late Antiquity (5<sup>th</sup> century AD and later). In the first instance the project is restricted  to texts engraved on stone, but it is intended to expand that coverage  in the future. The project uses TEI-XML mark-up, according to the <a href="http://sourceforge.net/p/epidoc/wiki/Home/">EpiDoc </a>schema.</span></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/8750472324456154428/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/09/isicily-building-digital-corpus-of.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8750472324456154428"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8750472324456154428"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/09/isicily-building-digital-corpus-of.html"
+         title="I.Sicily ~ Building a digital corpus of Sicilian inscriptions"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

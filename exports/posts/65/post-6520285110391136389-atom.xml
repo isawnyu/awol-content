@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6520285110391136389</id>
+   <published>2013-06-30T16:41:00.000-04:00</published>
+   <updated>2013-06-30T16:41:14.519-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">The New Homer Multitext Manuscript Browser</title>
+   <content type="html"><![CDATA[<a href="http://homermultitext.blogspot.com/2013/05/a-new-manuscript-browser.html">A New Manuscript Browser</a><br /> <div class="post-header"> </div><blockquote class="tr_bq">  <span style="font-size: x-small;"><a href="http://homermultitext.blogspot.com/2012/12/the-hmt-manuscript-browser-news-and.html">We recently noted</a> that the old Manuscript Browser application, which lives at <span style="font-family: Courier New,Courier,monospace;">http://chs75.harvard.edu</span> was going away. That application, written in 2007, had fallen behind the times.<br /><br />There is a <a href="http://folio.furman.edu/rumba/home">new Manuscript Browser</a> online at <a href="http://folio.furman.edu/rumba/home"><span style="font-family: Courier New,Courier,monospace;">http://folio.furman.edu/rumba</span></a>.<br />This application offers several paths of entry to our collection of manuscript images:<br /><br /></span><ul><li><span style="font-size: x-small;">A user can request a particular folio (by number and side, “recto”  or “verso”), or a particular manuscript to see all available images of  that manuscript.</span></li><li><span style="font-size: x-small;">A user can request a particular passage of the <i>Iliad</i>&nbsp;(by Book  and Line), and see every manuscript folio on which that line appears,  and thence to go a particular folio and its images.</span></li><li><span style="font-size: x-small;">A user can request a particular passage of the <i>Iliad </i>(by Book and Line) and a particular manuscript, to go to the page where that line appears.</span></li></ul><span style="font-size: x-small;"><br />This new application represents another experiment in our project of  rapid development of end-user applications and tools based on an RDF  graph of canonical citations. People interested in this kind of thing  can do “view source” on any page to see the underlying data, which is  simply XML output of SparQL queries.<br /><br /></span><h3><span style="font-size: x-small;">Gratia Amicorum</span></h3><span style="font-size: x-small;">Our embrace of RDF for structuring and organizing the HMT’s data was greatly accelerated thanks to the <a href="http://wiki.digitalclassicist.org/Linked_Ancient_World_Data_Institute">Linked Ancient World Data Initiative</a> [<a href="http://wiki.digitalclassicist.org/Linked_Ancient_World_Data_Institute">LAWDI</a>], and their NEH-funded workshop held at <a href="http://isaw.nyu.edu/">ISAW</a> in 2012; we are <i>extremely grateful</i> to the NEH and to Sebastian Heath, Tom Elliott, Hugh Cayless, Sean  Gillies, and the other organizers, faculty, and participants in that  event. It led directly to one of the most exciting and productive years  in the life of the Homer Multitext.</span></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/6520285110391136389/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/06/the-new-homer-multitext-manuscript.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6520285110391136389"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6520285110391136389"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/06/the-new-homer-multitext-manuscript.html"
+         title="The New Homer Multitext Manuscript Browser"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

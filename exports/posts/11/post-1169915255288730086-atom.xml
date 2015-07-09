@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1169915255288730086</id>
+   <published>2013-10-15T08:34:00.003-04:00</published>
+   <updated>2013-10-15T08:34:51.098-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Linked Data Vocabularies for Cultural Heritage</title>
+   <content type="html"><![CDATA[<a href="http://www.heritagedata.org/blog/">Heritage Data: Linked Data Vocabularies for Cultural Heritage</a><br /><blockquote class="tr_bq"><div style="text-align: justify;"><span style="font-size: x-small;">National cultural heritage thesauri and  vocabularies have acted as standards for use by both national  organizations and local authority Historic Environment Records but until  now have lacked the persistent <a href="http://linkeddata.org/" target="_blank" title="Linked Open Data">Linked Open Data (LOD)</a> <abbr title="Uniform Resource Identifier">URIs</abbr> that would allow them to act as vocabulary hubs for the Web of Data. The <a href="http://www.ahrc.ac.uk/"><abbr title="Arts &amp; Humanities Research Council">AHRC</abbr></a> funded <a href="http://www.heritagedata.org/blog/seneschal" title="SENESCHAL"><abbr title="Semantic Enrichment Enabling Sustainability of arCHAeological Links">SENESCHAL</abbr></a> project aims to make such <a href="http://www.heritagedata.org/blog/vocabularies">vocabularies available online</a> as Semantic Web resources. SENESCHAL will start with major vocabularies  as exemplars and project partners will continue to make other  vocabularies available. Other organizations are welcome to make use of  the data and services which will be open licensed.</span></div><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;"><abbr title="Representational State Transfer">REST</abbr>ful  web services will be developed for the project to make the vocabulary  resources programmatically accessible and searchable. These will include  the provision to ‘feed back’ new terms (concepts) suggested by users. A  series of case studies will explore use of these web services, in  collaboration with the project partners.</span></div></blockquote><blockquote class="tr_bq"><div class="container"><ul class="menu sf-js-enabled sf-shadow" id="menu-main"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-74 current_page_item menu-item-82" id="menu-item-82"><span style="font-size: x-small;"><a class="sf-with-ul" href="http://www.heritagedata.org/blog/" title="About Heritage Data">About Heritage Data</a></span> </li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152" id="menu-item-152"><span style="font-size: x-small;"><a class="sf-with-ul" href="http://www.heritagedata.org/blog/vocabulary-providers/">Vocabulary Providers</a></span> </li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151" id="menu-item-151"><span style="font-size: x-small;"><a href="http://www.heritagedata.org/blog/vocabularies-provided/">Vocabularies</a></span></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85" id="menu-item-85"><span style="font-size: x-small;"><a href="http://www.heritagedata.org/blog/posts/">Posts</a></span></li><li class="menu-item menu-item-type-post_type menu-item-object-forum menu-item-295" id="menu-item-295"><span style="font-size: x-small;"><a href="http://www.heritagedata.org/blog/forums/forum/feedback/">Feedback</a></span></li></ul></div></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/1169915255288730086/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/10/linked-data-vocabularies-for-cultural.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1169915255288730086"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1169915255288730086"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/10/linked-data-vocabularies-for-cultural.html"
+         title="Linked Data Vocabularies for Cultural Heritage"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

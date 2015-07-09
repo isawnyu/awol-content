@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3130942009531996918</id>
+   <published>2011-11-07T12:00:00.001-05:00</published>
+   <updated>2011-11-07T12:00:37.859-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Thematic Index of Classics in JStor</title>
+   <content type="html"><![CDATA[<a href="http://catalog.perseus.tufts.edu/jstor/">Thematic Index of Classics in JStor</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;"> This site is an automatically generated index of themes in a collection of more than 130,000 research articles   archived in <a href="http://www.jstor.org/">JStor</a>. For each theme, you can browse articles    associated with that theme, with links directly to the text of the articles in JStor.   You can also view temporal trends in publication for the theme, organized by journal.&nbsp;</span><br /><br />  <span style="font-size: x-small;">Each theme is represented by assigning a weight to every word in the  vocabulary of the corpus. The 50 highest weighted words are shown. Some    themes are better-estimated than others. Words that are shown in  full-size and black are likely to be meaningful, while smaller  words in lighter shades may be random artifacts of the model.&nbsp;</span><br /><br />  <span style="font-size: x-small;">The time-series plot shows the proportion of the words in the corpus in a given year that are assigned to a theme. Gray bars show decades. The y-axis is not comparable between themes.&nbsp;</span><br /><br />  <span style="font-size: x-small;">The work presented here was developed by David Mimno under the Cybereditions Project, an effort led by the Perseus Project at Tufts University and funded by the Mellon Foundation. </span></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/3130942009531996918/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/11/thematic-index-of-classics-in-jstor.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3130942009531996918"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3130942009531996918"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2011/11/thematic-index-of-classics-in-jstor.html"
+         title="Thematic Index of Classics in JStor"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

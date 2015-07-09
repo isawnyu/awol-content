@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3636583911243928215</id>
+   <published>2012-05-22T17:27:00.000-04:00</published>
+   <updated>2012-05-22T17:27:30.495-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Ancient World Linked Data JavaScript</title>
+   <content type="html"><![CDATA[Some of us here at <a href="http://isaw.nyu.edu/">ISAW</a> have been experimenting today with Ancient World Linked Data JavaScript.<br /><br />The basic information is at:<br /><br /><a href="http://isawnyu.github.com/awld-js/">Awld.js: A javascript library for Ancient World Linked Data</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Awld.js is a javascript library for Ancient World Linked Data. When  installed on an existing web page, it will add functionality and visual  elements based on links to stable URIs relevant to the study of the  Ancient World. View the source of this page for the two 'script'  elements you can add to your pages to get it working. </span></blockquote>Tom Elliot's <a href="http://horothesia.blogspot.com/">Horothesia</a> gives the quickest tutorial possible at: <a href="http://horothesia.blogspot.com/2012/05/five-minutes-to-ancient-world-linked.html">Five Minutes to Ancient World Linked Data JavaScript</a><br /><br />You can see some of this in action here on AWOL in the text at the bottom of each of these pages:<br /><ul><li><a href="http://ancientworldonline.blogspot.com/2009/12/open-access-journal-macedonian.html">Open Access Journal: Macedonian Archaeological News</a>&nbsp;</li><li><a href="http://ancientworldonline.blogspot.com/2011/12/current-corinthian-scholarship.html">Current Corinthian Scholarship</a>&nbsp;</li><li><a href="http://ancientworldonline.blogspot.com/2012/05/methoine-inscriptions-graffiti-and.html">Methone inscriptions, graffiti, and (trade)marks</a></li><li><a href="http://ancientworldonline.blogspot.com/2010/06/open-access-publications-of-missione.html">Open Access Publications of the Missione Archeologica a Mozia</a>&nbsp;</li><li><a href="http://ancientworldonline.blogspot.com/2012/05/open-access-journal-histria-antiqua.html">Open Access Journal: Histria antiqua</a></li></ul>&nbsp;Try it yourself on your own sites and let us know how it works.<br /><br /><br />]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/3636583911243928215/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2012/05/some-of-us-here-at-isaw-have-been.html#comment-form"
+         title="3 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3636583911243928215"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3636583911243928215"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2012/05/some-of-us-here-at-isaw-have-been.html"
+         title="Ancient World Linked Data JavaScript"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

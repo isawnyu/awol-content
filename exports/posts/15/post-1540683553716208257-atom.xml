@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1540683553716208257</id>
+   <published>2012-05-31T20:39:00.003-04:00</published>
+   <updated>2014-06-18T14:31:49.321-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Geodia</title>
+   <content type="html"><![CDATA[<a href="http://geodia.laits.utexas.edu/">Geodia</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">GeoDia (jee-oh-DEE-uh, short for "geodiachronicity") is  intended to provide a simple, intuitive way for people to visualize the  temporal, geographic, and material aspects of ancient Mediterranean  civilizations. <a href="http://geodia.laits.utexas.edu/timemap.html">Enter GeoDia &gt;&gt;</a></span> </blockquote><blockquote class="tr_bq">    <span style="font-size: x-small;">It uses a mashup of MIT's <a href="http://www.simile-widgets.org/timeline">Simile Timeline</a> and Google Maps APIs to display the important archaeological sites and  historical events of the ancient Mediterranean world in both space and  time, and uses the <a href="http://daseproject.org/">Digital Archives Services (DASe) infrastructure</a> to integrate visual resources associated with those archaeological  sites during specific historical and art-historical periods. The user  can browse sites or events by region or culture, or search for specific  sites, events, or images. The results will be displayed in their spatial  and temporal context on the map and the timeline. Results sets can be  managed, shared, and exported to KML.</span><br /><br />      <span style="font-size: x-small;">GeoDia is the result of a two-year long project proposed and directed by <a href="http://www.utexas.edu/cola/depts/classics/faculty/atr253">Adam Rabinowitz</a>, assistant professor of Classics and assistant director of the <a href="http://www.utexas.edu/research/ica">Institute of Classical Archaeology</a> at <a href="http://www.utexas.edu/">University of Texas at Austin</a>, with the generous support of the Liberal Arts Instructional Technology Services.&nbsp;</span><br /><br /><span style="font-size: x-small;">Programming for the interface and the underlying database was carried out by Stuart Ross of LAITS. GeoDia uses the <a href="http://code.google.com/p/timemap/">timemap.js library</a>  developed by Nick Rabinowitz and the DASe infrastructure developed by Peter Keane for the <a href="http://www.utexas.edu/cola/information-technology/index.php">Liberal Arts Instructional Technology Services</a> at UT Austin.</span></blockquote><div id="hborder" style="font-family: inherit;"><div id="header"><blockquote class="tr_bq"><ul class="tab_nav clearfix"><li class="selected"><span style="font-size: x-small;"><a class="browse" href="http://geodia.laits.utexas.edu/timemap.html#sites_browse">Browse</a></span></li><li><span style="font-size: x-small;"><a class="search" href="http://geodia.laits.utexas.edu/timemap.html#sites_search">Search</a></span></li><li><span style="font-size: x-small;"><a class="results" href="http://geodia.laits.utexas.edu/timemap.html#sites_results">Results</a></span></li><li><span style="font-size: x-small;"><a class="details" href="http://geodia.laits.utexas.edu/timemap.html#sites_details">Details</a></span></li></ul></blockquote><div style="text-align: center;">And see AWOL's <a href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup of Resources on Ancient Geography</a> </div></div></div><blockquote></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/1540683553716208257/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2012/05/geodia.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1540683553716208257"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1540683553716208257"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2012/05/geodia.html"
+         title="Geodia"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1869323738974810648</id>
+   <published>2014-10-24T11:28:00.000-04:00</published>
+   <updated>2014-10-24T11:28:27.904-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Manuscripts"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Digital Library"/>
+   <title type="text">Catalogo Manoscritti della Biblioteca Apostolica Vaticana</title>
+   <content type="html"><![CDATA[<a href="http://193.43.102.72/gui/html/index.jsp">Catalogo Manoscritti della Biblioteca Apostolica Vaticana</a><br /><blockquote class="tr_bq"><span style="font-family: inherit;"><span style="color: #663300; font-size: x-small;">Il catalogo dei  manoscritti è in corso di elaborazione e si compone di dati (completi o  ancora parziali) tratti da inventari, bibliografie, cataloghi, indici su  schede, pubblicazioni a stampa, indicati alla voce                       <b>Fonte</b> per ciascuna registrazione elettronica.&nbsp; </span></span><span style="font-family: inherit;"><span style="font-size: x-small;"><br /></span></span></blockquote><blockquote class="tr_bq"><span style="font-family: inherit;"><span style="color: #663300; font-size: x-small;">                     Le descrizioni complete, quando possibile, sono corredate da una scelta di immagini digitali.<br /><br />                     La codifica degli elementi descrittivi e di ricerca  rispetta le specifiche TEI-MS, secondo sintassi XML per l'inserimento  dei dati. Il sistema (archivio di dati, indici di autorità e motore di  ricerca) è                       interamente realizzato con tecnologia <i>open source</i> Java/XML.</span></span><br /><center><span style="font-family: inherit;"><span style="color: #663300; font-size: x-small;">____________________________________</span></span></center><span style="font-family: inherit;"><span style="color: #663300; font-size: x-small;"><br />                     The online manuscripts catalogue is a work in  progress. It includes data (full or partial descriptions) from  inventories, bibliographies, catalogues, index cards, printed books  mentioned as a source of information in                       <b>Fonte</b> tag, for each record.<br />                     The full descriptions, when possible, are available from a choice of digital images.<br /><br />                     The element set, both for description and research  criteria, is TEI-MS compliant, based on XML syntax for the data entry.  The system (database, authority file and search engine) is entirely  developed with                       Java/XML and <i>open source technology</i>.</span></span></blockquote><blockquote class="tr_bq">  					 						<a class="testolink" href="http://www.mss.vatlib.it/guii/console?service=simple">Simple search</a> | <a class="testolink" href="http://www.mss.vatlib.it/guii/console?service=search">Advanced search</a> | <a class="testolink" href="http://www.mss.vatlib.it/guii/console?service=scan">Indexes</a> | <a class="testolink" href="http://www.mss.vatlib.it/guii/scan/link.jsp">Digitized <img border="0" height="30px" src="http://www.mss.vatlib.it/guii/images/ms_aperto.jpg" /> manuscripts</a> </blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/1869323738974810648/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/10/catalogo-manoscritti-della-biblioteca.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1869323738974810648"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1869323738974810648"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/10/catalogo-manoscritti-della-biblioteca.html"
+         title="Catalogo Manoscritti della Biblioteca Apostolica Vaticana"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

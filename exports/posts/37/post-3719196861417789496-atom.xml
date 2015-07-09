@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3719196861417789496</id>
+   <published>2013-04-11T10:41:00.002-04:00</published>
+   <updated>2013-04-11T10:41:50.123-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Open Access Theses and Dissertations</title>
+   <content type="html"><![CDATA[<a href="http://oatd.org/">Open Access Theses and Dissertations</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;"><img alt="http://oatd.org/static/oa_logo_100.png" class="decoded" src="http://oatd.org/static/oa_logo_100.png" /></span> </blockquote><blockquote class="tr_bq"><div class="q"><span style="font-size: x-small;">What can I search for here?</span></div><div class="a"><span style="font-size: x-small;">This is an index of over <a href="http://oatd.org/oatd/search?q=*%3A*" title="Click for the current total">1.5 million</a> electronic theses and dissertations (ETDs). To the extent possible, the index is limited to records of graduate-level theses that are freely available online.</span></div><div class="a"><br /></div><div class="q"><span style="font-size: x-small;">Where do the records come from?</span></div><div class="a"><span style="font-size: x-small;">See this <a href="http://oatd.org/oatd-publishers.html">list of sites that contribute records to this index</a>.</span></div><div class="a"><br /></div><div class="a"><span style="font-size: x-small;">Many of these schools' records come from their own repositories.  Others come from regional or national ETD consortia, or from a set of ETD catalog records provided by <a href="http://worldcat.org/">OCLC Worldcat</a>. With few exceptions, records are harvested from these sites using a standard called the  <a href="http://www.openarchives.org/OAI/openarchivesprotocol.html">Open Archives Initiative Protocol for Metadata Harvesting</a> (OAI-PMH).</span></div><div class="a"><br /></div><div class="q"><span style="font-size: x-small;">What definition of "Open Access" do you use?</span></div><div class="a"><span style="font-size: x-small;">We define open access broadly to cover ETDs that are free to access and read online. We encourage authors to consider formally granting additional rights, for example by publishing their theses with a Creative Commons license.</span></div><div class="a"><br /></div><div class="q"><span style="font-size: x-small;">Where does the full text live?</span></div><div class="a"><span style="font-size: x-small;">The full text of all papers lives on the original hosting site, usually the repository of the university that granted the degree. OATD indexes about the first 30 pages of some theses in order to show search hits, but in no case does OATD index or store the full text of the paper.</span></div><div class="a"><br /></div><div class="q"><span style="font-size: x-small;">Our school's ETDs are not in the index. How can we include them?</span></div><div class="a"><span style="font-size: x-small;">If your school has a repository of open-access ETDs, check with your repository manager to confirm that it has OAI-PMH harvesting enabled. This is an available option on most ETD or repository platforms, including DSpace, Digital Commons, eprints, ETD-db, and ContentDM. Once you have confirmed that, simply send me the OAI server's base URL. We recommend that you also register the base URL with opendoar.org and openarchives.org.</span></div><div class="a"><span style="font-size: x-small;">If you manage a collection of open access ETDs, but cannot run an OAI-PMH server, please contact us to discuss alternate arrangements. If you have good metadata, we want to include your records.</span></div><div class="a"><br /></div><div class="q"><span style="font-size: x-small;">Our school's ETDs are in the index, but they don't show a lot of information. How can we improve them?</span></div><div class="a"><span style="font-size: x-small;">There are two causes for this problem. The first is that your repository's OAI-PMH server doesn't provide very rich metadata (which may indicate a configuration problem with your repository software). If so, you should work with your repository manager. The second reason is that good metadata is being put into fields we didn't expect (for example, if publication dates are in note fields, we may not display them correctly). In that case, drop us a line to let us know what we're missing...</span></div></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/3719196861417789496/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/04/open-access-theses-and-dissertations.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3719196861417789496"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3719196861417789496"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2013/04/open-access-theses-and-dissertations.html"
+         title="Open Access Theses and Dissertations"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

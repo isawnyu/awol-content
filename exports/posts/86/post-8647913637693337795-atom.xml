@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8647913637693337795</id>
+   <published>2015-01-20T10:30:00.002-05:00</published>
+   <updated>2015-01-20T10:30:48.767-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <title type="text">A Topic Model of 75 Years of Archaeological Scholarship</title>
+   <content type="html"><![CDATA[<a class="navbar-brand model_title" href="http://graeworks.net/digitalarchae/20000/#">A Topic Model of 75 Years of Archaeological Scholarship</a><br /><blockquote class="tr_bq"><div class="" id="about_view"><span style="font-size: x-small;">A topic model generated from 24 archaeological journals, 21 000 articles, downloaded from JSTOR DFR</span><div id="meta_info"><span style="font-size: x-small;">Shawn Graham</span><br /><span style="font-size: x-small;">Data from JSTOR DFR</span></div><div id="about_browser">      <span style="font-size: x-small;">Model-browser interface by <a class="external" href="http://andrewgoldstone.com/">Andrew Goldstone</a>; source available on <a class="external" href="http://agoldst.github.io/dfr-browser/">github</a>. Made using <a class="external" href="http://d3js.org/">d3.js</a> and <a class="external" href="http://getbootstrap.com/">Bootstrap</a>. Zip support using <a class="external" href="http://stuk.github.io/jszip/">JSZip</a>.</span><br />     </div></div></blockquote><div class="collapse navbar-collapse"><blockquote>      <ul class="nav navbar-nav" id="nav_main"><li class="active" id="nav_model"><span style="font-size: x-small;"><a href="http://graeworks.net/digitalarchae/20000/#/model">Overview</a></span></li><li class="dropdown" id="nav_topic">          <span style="font-size: x-small;"><a class="dropdown-toggle" data-target="#" data-toggle="dropdown" href="http://graeworks.net/digitalarchae/20000/#/topic" id="topic_dropdown_toggle">            Topic           </a></span>                   </li><li id="nav_doc"><span style="font-size: x-small;"><a href="http://graeworks.net/digitalarchae/20000/#/doc">Document</a></span></li><li id="nav_word"><span style="font-size: x-small;"><a href="http://graeworks.net/digitalarchae/20000/#/word">Word</a></span></li><li id="nav_bib"><span style="font-size: x-small;"><a href="http://graeworks.net/digitalarchae/20000/#/bib">Bibliography</a></span></li><li id="nav_words"><span style="font-size: x-small;"><a href="http://graeworks.net/digitalarchae/20000/#/words">Word index</a></span></li><li id="nav_settings"><span style="font-size: x-small;"><a href="http://graeworks.net/digitalarchae/20000/#/settings">Settings</a></span></li><li class="" id="nav_about"><span style="font-size: x-small;"><a href="http://graeworks.net/digitalarchae/20000/#/about">About</a></span></li></ul></blockquote></div>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/8647913637693337795/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/01/a-topic-model-of-75-years-of.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8647913637693337795"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8647913637693337795"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/01/a-topic-model-of-75-years-of.html"
+         title="A Topic Model of 75 Years of Archaeological Scholarship"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

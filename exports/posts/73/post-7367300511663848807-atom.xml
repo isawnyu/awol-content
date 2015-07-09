@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7367300511663848807</id>
+   <published>2012-02-08T11:45:00.000-05:00</published>
+   <updated>2012-02-08T11:45:33.217-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Pleiades News: Hadrian's Wall milecastle and turret data</title>
+   <content type="html"><![CDATA[<a href="http://pleiades.stoa.org/Members/sgillies/news-items/milecastles-project-completed">Milecastles project completed        </a><br /><h1 class="documentFirstHeading">              </h1><blockquote class="tr_bq"><div class="documentByLine" id="plone-document-byline">            <span class="documentAuthor">      <span style="font-size: x-small;">by <span><a href="http://pleiades.stoa.org/author/sgillies">Sean Gillies</a></span>    </span></span><span style="font-size: x-small;">      <span class="documentModified">    —     <span>      last modified     </span>    Feb 07, 2012 04:23 PM   </span>                Copyright © The Contributors. Sharing and remixing permitted under  terms of the Creative Commons Attribution 3.0 License (cc-by).     </span></div><div class="RatingViewlet">   </div><div class="documentDescription">                      <span style="font-size: x-small;"><span class="" id="parent-fieldname-description">            We've imported the milecastle and turret data compiled by Scott Vanderbilt         </span></span>             </div></blockquote><div class="plain" id="parent-fieldname-text">              <blockquote><span style="font-size: x-small;">205 places connected with <a class="external-link" href="http://pleiades.stoa.org/places/91358">Hadrian's Wall</a> were imported today. The neighborhood KML view of Hadrian's Wall <a class="external-link" href="http://maps.google.com/maps?q=http:%2F%2Fpleiades.stoa.org%2Fplaces%2F91358%2Fneighborhood-kml&amp;hl=en&amp;sll=0,0&amp;sspn=149.273358,272.109375&amp;t=m&amp;ie=UTF8&amp;ll=54.973082,-2.71637&amp;spn=0.128873,0.233459&amp;z=12&amp;vpsrc=6&amp;iwloc=lyrftr:kml:cO4nZU6VcuGeJnd6mfVJx6bQUrOd6kDGKS7IUXE0,g19e1a70e5404cfb2,54.96441,-2.764091">shows them all</a>.</span><br /><span style="font-size: x-small;"><img alt="HW All" class="image-inline" src="http://pleiades.stoa.org/Members/sgillies/screenshots/hw-all/image_large" /></span><br /><span style="font-size: x-small;">Below is a closeup. Some forts and milecastles are represented by  polygons, turrets are represented by point placemarks. Finding a way to  keep the point placemarks from swamping the polygons in these maps is a  high priority todo.</span><br /><span style="font-size: x-small;"><img alt="HW Closeup" class="image-inline" src="http://pleiades.stoa.org/Members/sgillies/screenshots/hw-closeup/image_large" /></span><br /><span style="font-size: x-small;">Scott's spreadsheet and the script used to load its records into Pleiades are kept in the project folder at <a class="external-link" href="http://pleiades.stoa.org/docs/content-development-projects/hadrians-wall-milecastles-and-turrets-2012">http://pleiades.stoa.org/docs/content-development-projects/hadrians-wall-milecastles-and-turrets-2012</a>.</span></blockquote></div><div class="relatedItems">                                          </div><div class="documentActions"><br /></div>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/7367300511663848807/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2012/02/pleiades-news-hadrians-wall-milecastle.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7367300511663848807"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7367300511663848807"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2012/02/pleiades-news-hadrians-wall-milecastle.html"
+         title="Pleiades News: Hadrian's Wall milecastle and turret data"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

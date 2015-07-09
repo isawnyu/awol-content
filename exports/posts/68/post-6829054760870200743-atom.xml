@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6829054760870200743</id>
+   <published>2014-05-17T21:20:00.000-04:00</published>
+   <updated>2014-05-17T21:20:10.247-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <title type="text">Classical Language Toolkit</title>
+   <content type="html"><![CDATA[<a class="fa fa-home" href="http://cltk.readthedocs.org/en/latest/#">Classical Language Toolkit</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">The goals of the Classical Language Toolkit (CLTK) are to:</span><br /> </blockquote><blockquote><blockquote></blockquote><div><blockquote><ul class="simple"><li><span style="font-size: x-small;">Compile analysis-friendly corpora</span></li><li><span style="font-size: x-small;">Gather and improve linguistic data required for natural language processing</span></li><li><span style="font-size: x-small;">Develop a free, open, stable, and modern platform for generating reproducible research</span></li></ul></blockquote></div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Contents:</span><br /> <div class="toctree-wrapper compound"><ul><li class="toctree-l1"><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/about.html">About</a></span></li><li class="toctree-l1"><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/installation.html">Installation</a></span><ul><li class="toctree-l2"><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/installation.html#through-pip">Through Pip</a></span></li><li class="toctree-l2"><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/installation.html#source">Source</a></span></li></ul></li><li class="toctree-l1"><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/import_corpora.html">Import Corpora</a></span><ul><li class="toctree-l2"><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/import_corpora.html#classical-greek">Classical Greek</a></span></li><li class="toctree-l2"><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/import_corpora.html#classical-latin">Classical Latin</a></span></li></ul></li><li class="toctree-l1"><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/classical_greek.html">Classical Greek</a></span><ul><li class="toctree-l2"><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/classical_greek.html#text-processing">Text Processing</a></span></li></ul></li><li class="toctree-l1"><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/classical_latin.html">Classical Latin</a></span><ul><li class="toctree-l2"><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/classical_latin.html#pos-tagging">POS Tagging</a></span></li><li class="toctree-l2"><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/classical_latin.html#sentence-tokenization">Sentence Tokenization</a></span></li><li class="toctree-l2"><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/classical_latin.html#text-processing">Text Processing</a></span></li></ul></li></ul></div></blockquote><div class="section" id="indices-and-tables"><blockquote><h1><span style="font-size: x-small;">Indices and tables</span></h1><ul class="simple"><li><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/genindex.html"><em>Index</em></a></span></li><li><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/py-modindex.html"><em>Module Index</em></a></span></li><li><span style="font-size: x-small;"><a class="reference internal" href="http://cltk.readthedocs.org/en/latest/search.html"><em>Search Page</em></a></span></li></ul></blockquote></div>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/6829054760870200743/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/05/classical-language-toolkit.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6829054760870200743"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6829054760870200743"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/05/classical-language-toolkit.html"
+         title="Classical Language Toolkit"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

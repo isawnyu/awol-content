@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8854474496896508321</id>
+   <published>2014-05-01T17:24:00.000-04:00</published>
+   <updated>2014-05-01T17:25:27.523-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Text"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Languge"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <title type="text">Ancient Greek OCR</title>
+   <content type="html"><![CDATA[<a href="http://ancientgreekocr.org/">Ancient Greek OCR</a><br />Nick White <br /><blockquote class="tr_bq"><img alt="Demonstrative screenshot" class="right" src="http://ancientgreekocr.org/demo.png" height="243" id="demo" width="320" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Ancient Greek OCR is free software to accurately convert scans of  printed Ancient Greek into unicode text and PDF files, which can be  easily searched, copied, archived, and transformed. It uses the  excellent Tesseract OCR engine, tailored for Ancient Greek typography,  syntax and vocabulary.&nbsp;</span><br /><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">It works with Windows, OS X, Linux and Android, and works on personal computers, mobile devices, and large server clusters. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">This project was made possible in part by the Institute of Museum and  Library Services, LG0611032611; the National Endowment for the  Humanities: Exploring the human endeavor; and the <a href="http://www.perseus.tufts.edu/">Perseus Digital Library Project</a>, as well as the ERC funded <a href="https://livingpoets.dur.ac.uk/">Living Poets Project</a>. The <a href="https://code.google.com/p/tesseract-ocr">Tesseract OCR</a> engine makes this all possible, doing all of the hard work behind the scenes. </span></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/8854474496896508321/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/05/ancient-greek-ocr.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8854474496896508321"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8854474496896508321"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/05/ancient-greek-ocr.html"
+         title="Ancient Greek OCR"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

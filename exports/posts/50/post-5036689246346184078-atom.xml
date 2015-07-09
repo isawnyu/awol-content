@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5036689246346184078</id>
+   <published>2014-06-14T18:22:00.000-04:00</published>
+   <updated>2014-06-14T18:22:45.967-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">News from the Dickinson College Commentaries</title>
+   <content type="html"><![CDATA[<a href="http://dcc.dickinson.edu/resources">News from the Dickinson College Commentaries</a><br /><blockquote class="tr_bq"><img alt="http://dcc.dickinson.edu/sites/all/files/templogo.gif" class="decoded" height="46" src="http://dcc.dickinson.edu/sites/all/files/templogo.gif" width="320" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">6/12/2014</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Meagan Ayer (PhD University of Buffalo '13) is putting the finishing  touches on our new version of Allen &amp; Greenough's New Latin Grammar (<a href="http://dcc.dickinson.edu/allen-greenough/Chapters/Chapter-144.html">sample</a>).  Kaylin Bednarz (Dickinson '15) spent about 8 hours per week in AY  '13-'14 editing the XML provided by Perseus, doing a fresh scan of the  pages, digitizing the index (which was absent from the Perseus XML), and  creating new html pages that combine a nice visual presentation, a link  to the XML, and a page image. Meagan is editing those html pages. Ryan  &nbsp;Burke created the menus. After the html is done, the plan is to put it  into Drupal to facilitate linking from our notes fields.</span><br /><br /> <span style="font-size: x-small;">Bret Mulligan, Assoc. Prof. of Classics at Haverford College and  editor of the DCC edition of Nepos' Life of Hannibal, is busy with his  students improving the Nepos site. In the introduction there is a newly  reorganized page called <a href="http://dcc.dickinson.edu/nepos-hannibal/vocabulary">vocabulary, text, and maps</a>, which consolidates the wonderful resources that Bret has created. More to come on that front.</span><br /><br /> <span style="font-size: x-small;">Chris Francese and Ryan Burke created a new metadata scheme for image  assets on the site which will make images much for organized and  findable (<a href="http://dcc.dickinson.edu/file/258">sample</a>). Based  on VRA Core, it imitates some museum sites, such as the Walters  Gallery, but is adapted to our needs. In its current look it has a tab  for descriptive information "properties," as well as a tab for scholarly  discussions, "annotations." These latter will include both the  professionally written descriptions from museum web sites we borrow  from, and our own annotations that relate the particular image to a  particualr text on our site. And there is an easy linking feature to  texts, so you can see what texts are relevant to a particular image.</span></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/5036689246346184078/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/06/news-from-dickinson-college-commentaries.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5036689246346184078"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5036689246346184078"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/06/news-from-dickinson-college-commentaries.html"
+         title="News from the Dickinson College Commentaries"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

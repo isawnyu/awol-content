@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-41512600341746410</id>
+   <published>2014-06-12T18:56:00.000-04:00</published>
+   <updated>2014-06-12T18:56:16.188-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Enigma: Unpuzzling difficult Latin readings in medieval manuscripts</title>
+   <content type="html"><![CDATA[<a href="http://ciham-digital.huma-num.fr/enigma/">Enigma: Unpuzzling difficult Latin readings in medieval manuscripts</a><br /><blockquote class="tr_bq"><div id="about"><em>Enigma</em> helps scholars to decipher Latin words  which are difficult to read in medieval manuscripts. It is sometimes  impossible to decipher all the letters in a word, for various reasons  (difficult palaeography, unclear writing, damage to the document, etc.)  If you type the letters you can read and add wildcards, <em>Enigma</em> will list the possible Latin forms, drawing from its database of more than 400 000 forms. &nbsp;</div></blockquote><blockquote class="tr_bq"><div id="about">Nota bene: <em>Enigma</em> does NOT solve abbreviations. To do so, you can resort to A. Cappelli's famous dictionary, available online (<a href="http://www.hist.msu.ru/Departments/Medieval/Cappelli/" target="_blank">ed. Milan, 1912</a>, and <a href="http://inkunabeln.ub.uni-koeln.de/vdibDevelop/handapparat/nachs_w/cappelli/cappelli.html" target="_blank">ed. Leipzig, 1928</a>). If you cannot resolve an abbreviation, replace it by a wildcard in your <em>Enigma</em> query.&nbsp;</div></blockquote><blockquote class="tr_bq">  In the <a href="http://ciham-digital.huma-num.fr/enigma/">field [here]</a>, type in the letters that you can read in the medieval document.</blockquote><br />]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/41512600341746410/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/06/enigma-unpuzzling-difficult-latin.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/41512600341746410"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/41512600341746410"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/06/enigma-unpuzzling-difficult-latin.html"
+         title="Enigma: Unpuzzling difficult Latin readings in medieval manuscripts"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

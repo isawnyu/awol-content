@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:georss="http://www.georss.org/georss"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1270508604180573026</id>
+   <published>2014-09-22T11:22:00.001-04:00</published>
+   <updated>2014-09-22T11:22:19.395-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
+   <title type="text">Open Scriptures: Platform for the development of open scriptural linked data and its applications</title>
+   <content type="html"><![CDATA[<a href="http://openscriptures.org/">Open Scriptures: Platform for the development of open scriptural linked data and its applications</a><br /><blockquote class="tr_bq"><img alt="http://openscriptures.org/logo.png" class="decoded" height="145" src="http://openscriptures.org/logo.png" width="200" /> </blockquote><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Open Scriptures seeks to be a comprehensive open-source Web  repository for integrated scriptural data and a general application  framework for building internationalized social applications of  scripture. An abundance of scriptural resources are now available  online—manuscripts, translations, and annotations are all being made  available by students and scholars alike at an ever-increasing rate.  These diverse scriptural resources, however, are isolated from each  other and fragmented across the Internet. Thus mashing up the available  data into new scriptural applications is not currently possible for the  community at large because the resources’ interrelationships are not  systematically documented. Open Scriptures aims to establish a  scriptural database for interlinked textual resources such as merged  manuscripts, the differences among them, and the links between their  semantic units and the semantic units of their translations. With such a  foundation in place, derived scriptural data like cross-references may  be stored in a translation-neutral and internationalized manner so as to  be accessible to the community no matter what language they speak or  version they prefer.</span><br /><br /> <span style="font-size: x-small;"><strong>Open Scriptures is all about <a href="http://en.wikipedia.org/wiki/Linked_Data" title="Linked Data @ Wikipedia">Linked Data</a> for scripture.</strong> Please watch <a href="http://en.wikipedia.org/wiki/Tim_Berners-Lee" target="_blank" title="Tim Berners-Lee @ Wikipedia">Tim Berners-Lee</a>‘s TED talk on “<a href="http://www.ted.com/index.php/talks/tim_berners_lee_on_the_next_web.html" target="_blank" title="Tim Berners-Lee: The next Web of open, linked data @ TED">The next Web of open, linked data</a>.” As <a href="http://www.zhubert.com/" target="_blank">Zack Hubert</a> <a href="http://bibletechconference.com/speakers.htm#ZackHubert-2008" target="_blank" title="Zack Hubert: &quot;Open Source Bible Software: The Re:Greek Transition&quot; @ BibleTech:2008">said</a> at the BibleTech:2008, “It’s a community effort. Any time anything good  happens, is because a real cool team of people have come together  around an idea.” Open Scriptures seeks to be such a community effort.</span></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="http://ancientworldonline.blogspot.com/feeds/1270508604180573026/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/09/open-scriptures-platform-for.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1270508604180573026"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1270508604180573026"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2014/09/open-scriptures-platform-for.html"
+         title="Open Scriptures: Platform for the development of open scriptural linked data and its applications"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>
