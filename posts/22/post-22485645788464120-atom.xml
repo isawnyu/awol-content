@@ -1,127 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-22485645788464120</id>
-    <published>2014-10-29T13:50:00.001-04:00</published>
-    <updated>2014-10-29T15:02:04.340-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-22485645788464120</id>
+   <published>2014-10-29T13:50:00.001-04:00</published>
+   <updated>2014-10-29T15:02:04.340-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">REVEAL (Reconstruction and Exploratory Visualization: Engineering meets
-      ArchaeoLogy)</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.vizin.org/projects/reveal/project.html">REVEAL<span class="H2">
-      (<b>R</b>econstruction and <b>E</b>xploratory
-      <b>V</b>isualization: <b>E</b>ngineering meets
-      <b>A</b>rchaeo<b>L</b>ogy)</span></a><br
-      /><blockquote class="tr_bq"><span class="H2"><img
-      alt="http://www.vizin.org/projects/reveal/images/reveal_LOGO01_white-bkgd.jpg" class="decoded"
-      src="http://www.vizin.org/projects/reveal/images/reveal_LOGO01_white-bkgd.jpg"
-      />&nbsp;</span></blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><span class="H2">Inaccuracies, Inconsistencies and
-      Impatience</span></span><br /><br /><span style="font-size:
-      x-small;"><span class="H2">One of the key problems in archaeology is trying to
-      accurately locate things like trenches, walls, and artifacts in 3D space.&nbsp;
-      Traditionally, archaeologists describe their finds, manually take measurements, and use
-      hand-drawn sketches and occasional photographs to record the contexts of artifacts, strata, and
-      architectural features.&nbsp; This methodology suffers from inaccuracy, inconsistent
-      terminology, transcription errors, and just taking too long.&nbsp; Some things are not
-      recorded at all because their significance is not recognized until too
-      late.&nbsp;</span></span><br /><br /><span style="font-size:
-      x-small;">Other issues for fieldteams include noting what was found, who found it, what are
-      the find’s characteristics, figuring out how all this data should be organized, and how other
-      researchers can assimilate all this information.&nbsp; Understanding the meaning, context,
-      and function of an object evolves over time as it is examined and categorized, which often
-      involves multiple specialists each of whom may submit data in different formats.&nbsp; The
-      standard collocation methods don't effectively allow hypothesis testing on all the excavated
-      data in real time; nor allow for planning field strategies while the dig is
-      underway.&nbsp;&nbsp; Normally, we have to wait until all evidence has been collected,
-      analyzed, and synthesized--that often takes years and is unfair to our
-      colleagues.</span><br /><br /><span style="font-size: x-small;">Has the
-      transition to digital acquisition technologies improved the situation?&nbsp; We now have
-      the choice of laser scans, LIDAR, digital photography, databases, CAD, GIS, GPS, total
-      stations, and even smartphones with high-res cameras and custom apps that can be tailored for
-      use during excavations.&nbsp;</span><br /><br /><div
-      class="heading"><span style="font-size: x-small;">Putting Technology to
-      Work</span></div><div class="heading"><br /></div><span
-      style="font-size: x-small;">Using total stations and related equipment to survey a site is
-      time consuming and expensive, only those points that were considered important at the time are
-      recorded, and the points are hard to collate with the rest of the datasets from the
-      site.&nbsp; GIS is superlative for 2D spatial data, but not so useful as a general purpose
-      data exploration tool, and generally has poor integration with interactive 3D
-      visualizations.&nbsp;&nbsp; Harris Matrix tools focus on displaying stratigraphic
-      sequences, with little integration with other datatypes.&nbsp; Custom site-specific
-      databases are uneven in the comprehensiveness of their features and cannot be easily
-      generalized to other excavations.</span><br /><br /><span
-      style="font-size: x-small;">What site directors really need is a single complete package
-      that keeps things digital from acquisition to publication, integrates all data types, and can
-      be used across different excavations with minimal modification.&nbsp; The goal would be to
-      ease recording and recall for researchers of all
-      backgrounds.&nbsp;&nbsp;</span><br /><br /><span style="font-size:
-      x-small;"> That’s exactly what our consortium set out to
-      create.</span></blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><span class="H2">&nbsp;</span>[ <a
-      href="http://www.vizin.org/projects/reveal/project.html" target="_self">project</a> |
-      <a href="http://www.vizin.org/projects/reveal/setting.html"
-      target="_self">setting</a> | <a
-      href="http://www.vizin.org/projects/reveal/solution.html" target="_self">solution</a>
-      | <a href="http://www.vizin.org/projects/reveal/gallery.html"
-      target="_self">gallery</a> | <a
-      href="http://www.vizin.org/projects/reveal/research.html" target="_self">research</a>
-      ]</span></blockquote><blockquote class="tr_bq"><table border="0"
-      cellpadding="0" cellspacing="2" style="width: 170px;"><tbody><tr
-      valign="middle"><td class="toctext"><br /></td></tr><tr><td
-      class="toctext"><br /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctextdouble"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctextdouble"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctextdouble"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctextdouble"><br
-      /></td></tr><tr><td class="toctextdouble"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctextdouble"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr><tr><td class="toctext"><br
-      /></td></tr></tbody></table></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">REVEAL (Reconstruction and Exploratory Visualization: Engineering meets ArchaeoLogy)</title>
+   <content type="html"><![CDATA[<a href="http://www.vizin.org/projects/reveal/project.html">REVEAL<span class="H2"> (<b>R</b>econstruction and <b>E</b>xploratory <b>V</b>isualization: <b>E</b>ngineering meets <b>A</b>rchaeo<b>L</b>ogy)</span></a><br /><blockquote class="tr_bq"><span class="H2"><img alt="http://www.vizin.org/projects/reveal/images/reveal_LOGO01_white-bkgd.jpg" class="decoded" src="http://www.vizin.org/projects/reveal/images/reveal_LOGO01_white-bkgd.jpg" />&nbsp;</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><span class="H2">Inaccuracies, Inconsistencies and Impatience</span></span><br /><br /><span style="font-size: x-small;"><span class="H2">One of the key  problems in archaeology is trying to accurately  locate things like trenches,  walls, and artifacts in 3D space.&nbsp;   Traditionally, archaeologists describe their finds, manually take   measurements, and use hand-drawn sketches and occasional photographs to  record  the contexts of artifacts, strata, and architectural features.&nbsp;  This methodology suffers from inaccuracy,  inconsistent terminology,  transcription errors, and just taking too long.&nbsp; Some things are not  recorded at all because  their significance is not recognized until too  late.&nbsp;</span></span><br /><br /><span style="font-size: x-small;">Other issues  for fieldteams include noting what was found, who  found it, what are the find’s  characteristics, figuring out how all  this data should be organized, and how  other researchers can assimilate  all this information.&nbsp; Understanding the meaning, context, and   function of an object evolves over time as it is examined and  categorized,  which often involves multiple specialists each of whom may  submit data in  different formats.&nbsp; The standard collocation  methods  don't effectively allow hypothesis testing on all the excavated data in   real time; nor allow for planning field strategies while the dig is   underway.&nbsp;&nbsp; Normally, we have to wait  until all evidence has been  collected, analyzed, and synthesized--that often  takes years and is  unfair to our colleagues.</span><br /><br /><span style="font-size: x-small;">Has the  transition to digital acquisition technologies  improved the situation?&nbsp; We now have the choice of laser scans, LIDAR,   digital photography, databases, CAD, GIS, GPS, total stations, and even  smartphones  with high-res cameras and custom apps that can be tailored  for use during  excavations.&nbsp;</span><br /><br /><div class="heading"><span style="font-size: x-small;">Putting Technology to Work</span></div><div class="heading"><br /></div><span style="font-size: x-small;">Using total  stations and related equipment to survey a site is  time consuming and  expensive, only those points that were considered  important at the time are  recorded, and the points are hard to collate  with the rest of the datasets from  the site.&nbsp; GIS is superlative for 2D   spatial data, but not so useful as a general purpose data exploration  tool, and  generally has poor integration with interactive 3D  visualizations.&nbsp;&nbsp; Harris Matrix tools focus on displaying  stratigraphic  sequences, with little integration with other datatypes.&nbsp; Custom  site-specific databases are uneven in  the comprehensiveness of their  features and cannot be easily generalized to  other excavations.</span><br /><br /><span style="font-size: x-small;">What site  directors really need is a single complete package  that keeps things digital  from acquisition to publication, integrates  all data types, and can be used  across different excavations with  minimal modification.&nbsp; The goal would be to ease recording and  recall  for researchers of all backgrounds.&nbsp;&nbsp;</span><br /><br /><span style="font-size: x-small;">      That’s  exactly what our consortium set out to create.</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><span class="H2">&nbsp;</span>[ <a href="http://www.vizin.org/projects/reveal/project.html" target="_self">project</a> | <a href="http://www.vizin.org/projects/reveal/setting.html" target="_self">setting</a> | <a href="http://www.vizin.org/projects/reveal/solution.html" target="_self">solution</a> | <a href="http://www.vizin.org/projects/reveal/gallery.html" target="_self">gallery</a> | <a href="http://www.vizin.org/projects/reveal/research.html" target="_self">research</a> ]</span></blockquote><blockquote class="tr_bq"><table border="0" cellpadding="0" cellspacing="2" style="width: 170px;"><tbody><tr valign="middle"><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctextdouble"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctextdouble"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctextdouble"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctextdouble"><br /></td></tr><tr><td class="toctextdouble"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctextdouble"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr><tr><td class="toctext"><br /></td></tr></tbody></table></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/22485645788464120/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/22485645788464120/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/reveal-reconstruction-and-exploratory.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/22485645788464120"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/22485645788464120"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/reveal-reconstruction-and-exploratory.html"
          title="REVEAL (Reconstruction and Exploratory Visualization: Engineering meets ArchaeoLogy)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,90 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4422057750255402687</id>
-    <published>2012-01-29T17:12:00.001-05:00</published>
-    <updated>2012-01-29T17:12:40.745-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4422057750255402687</id>
+   <published>2012-01-29T17:12:00.001-05:00</published>
+   <updated>2012-01-29T17:12:40.745-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Romania"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Open Access Journal: Cronica cercetărilor arheologice din România</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a
-      href="http://ancientworldonline.blogspot.com/2010/01/thirty-five-additional-open-access.html">25
-      January 2010.</a> Updated 29 January 2012]</span><br /><br /><a
-      href="http://www.cimec.ro/scripts/ARH/Cronica/CercetariARH.asp"><span style="font-size:
-      small;">Cronica cercetărilor arheologice din România, 1983 - 2010. Rapoarte preliminare de
-      cercetare arheologică</span></a><br /><br /><blockquote><img
-      alt="http://cimec.ro/Arheologie/images/cca2010.png"
-      src="http://cimec.ro/Arheologie/images/cca2010.png" /><a
-      href="http://www.cimec.ro/scripts/ARH/Cronica/CercetariARH.asp"
-      target="_blank"></a></blockquote><blockquote class="tr_bq"> <span
-      style="color: #fcfeba; font-size: x-small;">Archaeological Excavations in Romania, 1983 -
-      2010. <br />Preliminary Excavation Reports</span></blockquote><blockquote
-      class="tr_bq"> <span style="font-size: xx-small;"><b>Rapoarte ilustrate
-      publicate anual:</b></span></blockquote><blockquote><span
-      style="font-size: xx-small;"><a
-      href="http://cimec.ro/Arheologie/cronicaCA2011/cd/index.htm"
-      target="_blank"><b>Cronica Cercetărilor Arheologice din România, Campania
-      2010</b></a>, </span><span style="color: red; font-size:
-      xx-small;">publicat în mai 2011.</span><span style="font-size: xx-small;"><br
-      /> Descărcați volumul (doar text) in <a class="pdf"
-      href="http://cimec.ro/Arheologie/Cronica-cercetarilor-arheologice-campania-2010.pdf">format
-      pdf </a>4.22 MB<br /><a class="pdf"
-      href="http://cimec.ro/Arheologie/Addenda-cca2011.pdf"
-      target="_blank"><strong>Addenda</strong>: 29. Jac, com. Creaca, jud. Sălaj
-      [Porolissvm]</a></span> <span style="font-size: xx-small;"><br
-      /></span> <br /><span style="font-size: xx-small;"><a
-      href="http://cimec.ro/Arheologie/cronicaCA2010/cd/index.htm" target="_blank">campania
-      2009</a>, <a href="http://cimec.ro/Arheologie/cronicaCA2009/cd/index.htm"
-      target="_blank">campania 2008</a>, <a
-      href="http://cimec.ro/Arheologie/cronicaCA2008/cd/index.htm" target="_blank">campania
-      2007</a>, <a href="http://cimec.ro/Arheologie/cronicaCA2007/cd/index.htm"
-      target="_blank">campania 2006</a>, <a
-      href="http://cimec.ro/Arheologie/cronicaCA2006/cd/index.htm" target="_blank">campania
-      2005</a>, <a href="http://cimec.ro/Arheologie/cronicaCA2005/cd/index.htm"
-      target="_blank">campania 2004</a>, <a
-      href="http://cimec.ro/Arheologie/cronicaCA2004/cd/index.htm" target="_blank">campania
-      2003</a>, <a href="http://cimec.ro/Arheologie/cronicaCA2003/cd/index.htm"
-      target="_blank">campania 2002</a>, <a
-      href="http://cimec.ro/Arheologie/cronicaCA2002/cd/index.htm" target="_blank">campania
-      2001</a>, <a href="http://cimec.ro/Arheologie/CronicaCA2001/index.htm"
-      target="_blank">campania 2000</a>, <a
-      href="http://cimec.ro/Arheologie/newcronica2000/start.htm" target="_blank">campania
-      1999</a></span></blockquote><br /><div style="text-align:
-      center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a>.<span style="font-size: small;">
-      </span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Romania"/>
+   <title type="text">Open Access Journal: Cronica cercetărilor arheologice din România</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a href="http://ancientworldonline.blogspot.com/2010/01/thirty-five-additional-open-access.html">25 January 2010.</a> Updated 29 January 2012]</span><br /><br /><a href="http://www.cimec.ro/scripts/ARH/Cronica/CercetariARH.asp"><span style="font-size: small;">Cronica cercetărilor arheologice       din România, 1983 - 2010. Rapoarte preliminare de cercetare arheologică</span></a><br /><br /><blockquote><img alt="http://cimec.ro/Arheologie/images/cca2010.png" src="http://cimec.ro/Arheologie/images/cca2010.png" /><a href="http://www.cimec.ro/scripts/ARH/Cronica/CercetariARH.asp" target="_blank"></a></blockquote><blockquote class="tr_bq"> <span style="color: #fcfeba; font-size: x-small;">Archaeological Excavations in Romania, 1983 - 2010. <br />Preliminary Excavation Reports</span></blockquote><blockquote class="tr_bq"> <span style="font-size: xx-small;"><b>Rapoarte ilustrate publicate anual:</b></span></blockquote><blockquote><span style="font-size: xx-small;"><a href="http://cimec.ro/Arheologie/cronicaCA2011/cd/index.htm" target="_blank"><b>Cronica Cercetărilor Arheologice din România, Campania 2010</b></a>, </span><span style="color: red; font-size: xx-small;">publicat în mai 2011.</span><span style="font-size: xx-small;"><br />  Descărcați volumul (doar text) in <a class="pdf" href="http://cimec.ro/Arheologie/Cronica-cercetarilor-arheologice-campania-2010.pdf">format pdf </a>4.22 MB<br /><a class="pdf" href="http://cimec.ro/Arheologie/Addenda-cca2011.pdf" target="_blank"><strong>Addenda</strong>: 29. Jac, com. Creaca, jud. Sălaj [Porolissvm]</a></span>    <span style="font-size: xx-small;"><br /></span>    <br /><span style="font-size: xx-small;"><a href="http://cimec.ro/Arheologie/cronicaCA2010/cd/index.htm" target="_blank">campania 2009</a>, <a href="http://cimec.ro/Arheologie/cronicaCA2009/cd/index.htm" target="_blank">campania 2008</a>, <a href="http://cimec.ro/Arheologie/cronicaCA2008/cd/index.htm" target="_blank">campania 2007</a>, <a href="http://cimec.ro/Arheologie/cronicaCA2007/cd/index.htm" target="_blank">campania 2006</a>, <a href="http://cimec.ro/Arheologie/cronicaCA2006/cd/index.htm" target="_blank">campania 2005</a>, <a href="http://cimec.ro/Arheologie/cronicaCA2005/cd/index.htm" target="_blank">campania 2004</a>, <a href="http://cimec.ro/Arheologie/cronicaCA2004/cd/index.htm" target="_blank">campania 2003</a>, <a href="http://cimec.ro/Arheologie/cronicaCA2003/cd/index.htm" target="_blank">campania 2002</a>, <a href="http://cimec.ro/Arheologie/cronicaCA2002/cd/index.htm" target="_blank">campania 2001</a>, <a href="http://cimec.ro/Arheologie/CronicaCA2001/index.htm" target="_blank">campania 2000</a>, <a href="http://cimec.ro/Arheologie/newcronica2000/start.htm" target="_blank">campania 1999</a></span></blockquote><br /><div style="text-align: center;">See the full <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a>.<span style="font-size: small;"> </span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4422057750255402687/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4422057750255402687/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/01/open-access-journal-cronica.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4422057750255402687"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4422057750255402687"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/01/open-access-journal-cronica.html"
          title="Open Access Journal: Cronica cercetărilor arheologice din România"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

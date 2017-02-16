@@ -1,235 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-975100407243312576</id>
-    <published>2012-10-14T18:20:00.000-04:00</published>
-    <updated>2012-12-11T15:53:07.790-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-975100407243312576</id>
+   <published>2012-10-14T18:20:00.000-04:00</published>
+   <updated>2012-12-11T15:53:07.790-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: Revue de l'Orient Chrétien</title>
-    <content type="html"><![CDATA[<a
-      href="http://catholicapedia.net/pages_html/orient-chretien.html">Revue de l'Orient
-      Chrétien</a><br /><blockquote class="tr_bq"><table
-      border="0"><tbody><tr><td></td> <td><span style="font-size:
-      x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/01-30_Revue-De-L.orient-Chretien_Tables-volumes.pdf"
-      target="_blank">Revue de l‘Orient Chrétien Tables (Volumes 1 à&nbsp; 30)</a><br
-      /> Tables de la ROC, par numéro, par thème et par auteurs, de 1896 à&nbsp;
-      1936</span></td> <td valign="top"><span style="font-size:
-      x-small;">&nbsp;77 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      30&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/30-1935.1936_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 30 -
-      1935-1936)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;484 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      29&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/29-1933.1934_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 29 -
-      1933-1934)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;456 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      28&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/28-1931.1932_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 28 -
-      1931-1932)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;460 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      27&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/27-1929.1930_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 27 -
-      1929-1930)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;466 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      26&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/26-1927.1928_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 26 -
-      1927-1928)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;458 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      25&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/25-1925.1926_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 25 -
-      1925-1926)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;466 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      24&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/24-1924_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 24 -
-      1924)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;462 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      23&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/23-1922.1923_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 23 -
-      1922-1923)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;482 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      22&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/22-1920.1921_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 22 -
-      1920-1921)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;472 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      21&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/21-1918.1919_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 21 -
-      1918-1919)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;462 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      20&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/20-1915.1917_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 20 -
-      1915-1917)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;496 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      19&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/19-1914_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 19 -
-      1914)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;480 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      18&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/18-1913_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 18 -
-      1913)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;478 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      17&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/17-1912_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 17 -
-      1912)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;464 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      16&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/16-1911_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 16 -
-      1911)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;468 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      15&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/15-1910_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 15 -
-      1910)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;462 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      14&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/14-1909_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 14 -
-      1909)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;482 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      13&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/13-1908_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 13 -
-      1908)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;464 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      12&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/12-1907_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 12 -
-      1907)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;480 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      11&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/11-1906_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 11 -
-      1906)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;484 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      10&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/10-1905_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 10 -
-      1905)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;488 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      9&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/09-1904_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 9 -
-      1904)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;660 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      8&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/08-1903_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 8 -
-      1903)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;686 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      7&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/07-1902_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 7 -
-      1902)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;710 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      6&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/06-1901_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 6 -
-      1901)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;692 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      5&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/05-1900_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 5 -
-      1900)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;699 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      4&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/04-1899_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 4 -
-      1899)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;654 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      3&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/03-1898_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 3 -
-      1898)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;521 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      2&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/02-1897_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 2 -
-      1897)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;522 pages</span></td> </tr><tr>
-      <td><span style="font-size: x-small;">&nbsp;N°
-      1&nbsp;</span></td> <td><span style="font-size: x-small;"><a
-      href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/01_1896_revue-de-l.orient-ch_paris.pdf"
-      target="_blank">Revue de l‘Orient chrétien (Volume 1 -
-      1896)</a></span></td> <td><span style="font-size:
-      x-small;">&nbsp;544
-      pages</span></td></tr></tbody></table></blockquote><div
-      style="text-align: center;"><span style="font-size:
-      small;"><span><span><span style="font-family: inherit;"><span
-      style="font-weight: normal;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span></span></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: Revue de l'Orient Chrétien</title>
+   <content type="html"><![CDATA[<a href="http://catholicapedia.net/pages_html/orient-chretien.html">Revue de l'Orient Chrétien</a><br /><blockquote class="tr_bq"><table border="0"><tbody><tr><td></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/01-30_Revue-De-L.orient-Chretien_Tables-volumes.pdf" target="_blank">Revue de l‘Orient Chrétien Tables (Volumes 1 à&nbsp; 30)</a><br />                      Tables de la ROC, par numéro, par thème et par auteurs, de   1896 à&nbsp; 1936</span></td>                      <td valign="top"><span style="font-size: x-small;">&nbsp;77 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 30&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/30-1935.1936_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 30 - 1935-1936)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;484 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 29&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/29-1933.1934_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 29 - 1933-1934)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;456 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 28&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/28-1931.1932_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 28 - 1931-1932)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;460 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 27&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/27-1929.1930_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 27 - 1929-1930)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;466 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 26&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/26-1927.1928_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 26 - 1927-1928)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;458 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 25&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/25-1925.1926_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 25 - 1925-1926)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;466 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 24&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/24-1924_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 24 - 1924)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;462 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 23&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/23-1922.1923_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 23 - 1922-1923)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;482 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 22&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/22-1920.1921_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 22 - 1920-1921)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;472 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 21&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/21-1918.1919_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 21 - 1918-1919)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;462 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 20&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/20-1915.1917_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 20 - 1915-1917)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;496 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 19&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/19-1914_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 19 - 1914)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;480 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 18&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/18-1913_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 18 - 1913)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;478 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 17&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/17-1912_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 17 - 1912)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;464 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 16&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/16-1911_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 16 - 1911)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;468 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 15&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/15-1910_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 15 - 1910)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;462 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 14&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/14-1909_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 14 - 1909)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;482 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 13&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/13-1908_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 13 - 1908)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;464 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 12&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/12-1907_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 12 - 1907)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;480 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 11&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/11-1906_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 11 - 1906)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;484 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 10&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/10-1905_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 10 - 1905)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;488 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 9&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/09-1904_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 9 - 1904)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;660 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 8&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/08-1903_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 8 - 1903)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;686 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 7&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/07-1902_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 7 - 1902)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;710 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 6&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/06-1901_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 6 - 1901)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;692 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 5&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/05-1900_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 5 - 1900)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;699 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 4&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/04-1899_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 4 - 1899)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;654 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 3&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/03-1898_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 3 - 1898)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;521 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 2&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/02-1897_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 2 - 1897)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;522 pages</span></td>                    </tr><tr>                      <td><span style="font-size: x-small;">&nbsp;N° 1&nbsp;</span></td>                      <td><span style="font-size: x-small;"><a href="http://catholicapedia.net/Documents/Revue-de-l.Orient-chretien/01_1896_revue-de-l.orient-ch_paris.pdf" target="_blank">Revue de l‘Orient chrétien (Volume 1 - 1896)</a></span></td>                      <td><span style="font-size: x-small;">&nbsp;544 pages</span></td></tr></tbody></table></blockquote><div style="text-align: center;"><span style="font-size: small;"><span><span><span style="font-family: inherit;"><span style="font-weight: normal;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/975100407243312576/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/975100407243312576/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/10/opean-access-journal-revue-de-lorient.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/975100407243312576"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/975100407243312576"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/10/opean-access-journal-revue-de-lorient.html"
          title="Open Access Journal: Revue de l'Orient Chrétien"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

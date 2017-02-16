@@ -1,108 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6966019253183957888</id>
-    <published>2009-11-19T12:02:00.000-05:00</published>
-    <updated>2009-11-19T14:21:54.141-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6966019253183957888</id>
+   <published>2009-11-19T12:02:00.000-05:00</published>
+   <updated>2009-11-19T14:21:54.141-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">New at the Oriental Institute: Medinet Habu IX</title>
-    <content type="html"><![CDATA[The Oriental Institute's newest volume on <a
-      href="http://oi.uchicago.edu/research/pubs/catalog/egypt.html">Egypt</a> is now
-      online:<p><span
-      style="font-size:85%;"></span></p><blockquote><p><span
-      style="font-size:85%;">The Oriental Institute Publications Office announces the Adobe
-      Portable Document Format (PDF) publication of:</span></p>
-      <ul><li><span style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip136.html">OIP 136. Medinet Habu
-      IX. The Eighteenth Dynasty Temple, Part I: The Inner Sanctuaries. With Translations of Texts,
-      Commentary, and Glossary. By The Epigraphic Survey.
-      2009.</a></span></li></ul></blockquote><br />Earlier OI
-      publications on Medinet Habu include:<br /><ul><li><span
-      style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip118.html">OIP 118. Scarabs,
-      Scaraboids, Seals, and Seal Impressions from Medinet Habu.</a> Emily Teeter.
-      2003.</span></li><li><span style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip94.html">OIP 94. Medinet Habu,
-      Vol. VIII: The Eastern High Gate with Translations of Texts.</a> The Epigraphic Survey.
-      1970.</span></li><li><span style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip93.html">OIP 93. Medinet Habu,
-      Vol. VII: The Temple Proper, Pt. III: The Third Hypostyle Hall and All Rooms Accessible from It
-      with Friezes of Scenes from the Roof Terraces and Exterior Walls of the Temple.</a> The
-      Epigraphic Survey. Originally published in 1964.</span></li><li><span
-      style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip84.html">OIP 84. Medinet Habu,
-      Volume IV. The Temple Proper, Part II: The Re Chapel, the Royal Mortuary Complex, and Adjacent
-      Rooms with Miscellaneous Material from the Pylons, the Forecourts, and the First Hypostyle
-      Hall.</a> By The Epigraphic Survey. Originally published in
-      1963.</span></li><li><span style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip83.html">OIP 83. Medinet Habu,
-      Volume V. The Temple Proper, Part I: The Portico, the Treasury, and Chapels Adjoining the First
-      Hypostyle Hall with Marginal Material from the Forecourts.</a> By the Epigraphic Survey.
-      Originally published in 1957.</span></li><li><span
-      style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip80.html">OIP 80. Demotic Ostraca
-      from Medinet Habu. By Miriam Lichtheim.</a> Originally published in
-      1957.</span></li><li><span style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip71.html">OIP 71. Coptic Ostraca
-      from Medinet Habu.</a> By Elizabeth Stefanski and Miriam Lichtheim. Originally published
-      in 1952</span></li><li><span style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip66.html">OIP 66. Post-Ramessid
-      Remains. The Excavation of Medinet Habu, Volume 5.</a> By Uvo Hölscher. Originally
-      published in 1954</span></li><li><span style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip54.html">OIP 54. The Mortuary
-      Temple of Ramses III, Part 1. The Excavation of Medinet Habu, Volume
-      3.</a></span></li><li><span style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip51.html">OIP 51. Medinet Habu,
-      Volume 4. Festival Scenes of Ramses III. By the Epigraphic Survey.</a>Originally
-      published in 1940.</span></li><li><span style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip41.html">OIP 41. The Excavation of
-      Medinet Habu, Volume 2: The Temples of the Eighteenth Dynasty.</a> By Uvo Hölscher.
-      Originally published in 1939.</span></li><li><span
-      style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip36.html">OIP 36. Medinet Habu
-      Graffiti: Facsimiles.</a> Edited by William F. Edgerton. Originally published in
-      1937.</span></li><li><span style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip23.html">OIP 23. Medinet Habu,
-      Volume III. The Calendar, the “Slaughterhouse,” and Minor Records of Ramses III. </a> By
-      the Epigraphic Survey. Originally published in 1934.</span></li><li><span
-      style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip21.html">OIP 21. The Excavation of
-      Medinet Habu, Volume 1: General Plans and Views. 1934</a> Uvo Hölscher.
-      </span></li><li><span style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip9.html">OIP 9. Medinet Habu,
-      Volume II. <em>The Later Historical Records of Ramses III</em></a>. The
-      Epigraphic Survey. Originally published in 1932.</span></li><li><span
-      style="font-size:85%;"><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip8.html">OIP 8. Medinet Habu,
-      Volume I. Earlier Historical Records of Ramses III.</a> By the Epigraphic Survey.
-      Originally published in 1930.</span></li></ul>]]></content>
-    <link rel="replies"
+   <title type="text">New at the Oriental Institute: Medinet Habu IX</title>
+   <content type="html"><![CDATA[The Oriental Institute's newest volume on <a href="http://oi.uchicago.edu/research/pubs/catalog/egypt.html">Egypt</a> is now online:<p><span style="font-size:85%;"></span></p><blockquote><p><span style="font-size:85%;">The Oriental Institute Publications Office announces the Adobe Portable Document Format (PDF) publication of:</span></p> <ul><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip136.html">OIP 136. Medinet Habu IX. The Eighteenth Dynasty Temple, Part I: The Inner Sanctuaries. With Translations of Texts, Commentary, and Glossary. By The Epigraphic Survey. 2009.</a></span></li></ul></blockquote><br />Earlier OI publications on Medinet Habu include:<br /><ul><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip118.html">OIP 118. Scarabs, Scaraboids, Seals, and Seal Impressions from Medinet Habu.</a> Emily Teeter. 2003.</span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip94.html">OIP 94. Medinet Habu, Vol. VIII: The Eastern High Gate with Translations of Texts.</a> The Epigraphic Survey. 1970.</span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip93.html">OIP 93. Medinet Habu, Vol. VII: The Temple Proper, Pt. III: The Third Hypostyle Hall and All Rooms Accessible from It with Friezes of Scenes from the Roof Terraces and Exterior Walls of the Temple.</a> The Epigraphic Survey. Originally published in 1964.</span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip84.html">OIP 84. Medinet Habu, Volume IV. The Temple Proper, Part II: The Re Chapel, the Royal Mortuary Complex, and Adjacent Rooms with Miscellaneous Material from the Pylons, the Forecourts, and the First Hypostyle Hall.</a> By The Epigraphic Survey. Originally published in 1963.</span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip83.html">OIP 83. Medinet Habu, Volume V. The Temple Proper, Part I: The Portico, the Treasury, and Chapels Adjoining the First Hypostyle Hall with Marginal Material from the Forecourts.</a> By the Epigraphic Survey. Originally published in 1957.</span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip80.html">OIP 80. Demotic Ostraca from Medinet Habu. By Miriam Lichtheim.</a> Originally published in 1957.</span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip71.html">OIP 71. Coptic Ostraca from Medinet Habu.</a> By Elizabeth Stefanski and Miriam Lichtheim. Originally published in 1952</span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip66.html">OIP 66. Post-Ramessid Remains. The Excavation of Medinet Habu, Volume 5.</a> By Uvo Hölscher. Originally published in 1954</span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip54.html">OIP 54. The Mortuary Temple of Ramses III, Part 1. The Excavation of Medinet Habu, Volume 3.</a></span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip51.html">OIP 51. Medinet Habu, Volume 4. Festival Scenes of Ramses III. By the Epigraphic Survey.</a>Originally published in 1940.</span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip41.html">OIP 41. The Excavation of Medinet Habu, Volume 2: The Temples of the Eighteenth Dynasty.</a> By Uvo Hölscher. Originally published in 1939.</span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip36.html">OIP 36. Medinet Habu Graffiti: Facsimiles.</a> Edited by William F. Edgerton. Originally published in 1937.</span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip23.html">OIP 23. Medinet Habu, Volume III. The Calendar, the “Slaughterhouse,” and Minor Records of Ramses III. </a> By the Epigraphic Survey. Originally published in 1934.</span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip21.html">OIP 21. The Excavation of Medinet Habu, Volume 1: General Plans and Views. 1934</a> Uvo Hölscher. </span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip9.html">OIP 9. Medinet Habu, Volume II. <em>The Later Historical Records of Ramses III</em></a>. The Epigraphic Survey. Originally published in 1932.</span></li><li><span style="font-size:85%;"><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip8.html">OIP 8. Medinet Habu, Volume I. Earlier Historical Records of Ramses III.</a> By the Epigraphic Survey. Originally published in 1930.</span></li></ul>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6966019253183957888/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6966019253183957888/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6966019253183957888"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6966019253183957888"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html"
          title="New at the Oriental Institute: Medinet Habu IX"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

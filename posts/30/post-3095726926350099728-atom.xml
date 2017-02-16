@@ -1,121 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3095726926350099728</id>
-    <published>2015-04-14T21:01:00.004-04:00</published>
-    <updated>2015-04-14T21:01:54.205-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3095726926350099728</id>
+   <published>2015-04-14T21:01:00.004-04:00</published>
+   <updated>2015-04-14T21:01:54.205-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <title type="text">Open Access Journal: Camenulae</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.worldcat.org/oclc/269421252">Camenulae</a><br /><blockquote
-      class="tr_bq"><img alt="http://www.paris-sorbonne.fr/squelettes/img/logo_sorbonne.png"
-      src="http://www.paris-sorbonne.fr/squelettes/img/logo_sorbonne.png" />
-      </blockquote><ul><li> <div style="text-align: left;"><span
-      style="font-size: x-small;"><a class="spip_in"
-      href="http://www.paris-sorbonne.fr/Camenulae-12-avril-2015"><em>Camenulae</em>
-      n°&nbsp;12 — avril 2015</a></span></div><div align="center"><br
-      /></div><div align="center"><span style="font-size:
-      x-small;"><strong>Fidélité, foi,
-      confiance</strong></span></div><br /> <span style="font-size:
-      x-small;">Le numéro 12 de <em>Camenulae</em> contient les actes de la première
-      journée annuelle de l’Ecole doctorale I «&nbsp;Mondes antiques et médiévaux&nbsp;»
-      (université de Paris-Sorbonne), qui a eu lieu le 12 janvier 2013 sous la direction de Paul
-      Demont (certaines communications n’ont pas été publiées).</span><br /> <span
-      style="font-size: x-small;">Mise en page Marion Franchet-Lamalle, secrétaire de rédaction de
-      l’ÉD1, mise en ligne Valérie Naas, maître de conférences de latin HDR à l’université de
-      Paris-Sorbonne et directrice de <em>Camenulae</em>.</span><br />
-      <span style="font-size: x-small;">On trouvera sur ce même site les numéros précédents de
-      la revue <em>Camenulae</em>.</span><br /> <br /> <div
-      align="center"><span style="font-size: x-small;"><strong>Fidélité, foi,
-      confiance</strong></span></div><br /> <span style="font-size:
-      x-small;">Massimiliano DILIBERTO PAULSEN&nbsp;: <a
-      href="http://www.paris-sorbonne.fr/IMG/pdf/BAT_Diliberto.pdf">«&nbsp;Le
-      <em>perfuga </em>Antoninus<em>&nbsp;: </em>remarques sur Ammien
-      XVIII 5&nbsp;»</a></span><br /> <br /> <span style="font-size:
-      x-small;">Eugénie FOURNEL&nbsp;: <a
-      href="http://www.paris-sorbonne.fr/IMG/pdf/BAT_Fournel.pdf">«&nbsp;La foi d’Aristide à
-      l’épreuve de la maladie&nbsp;: confiance en dieu et confiance en soi dans les
-      <em>Discours sacrés</em>&nbsp;»</a></span><br /> <br />
-      <span style="font-size: x-small;">Anthony GLAISE&nbsp;: <a
-      href="http://www.paris-sorbonne.fr/IMG/pdf/BAT_Glaise.pdf">«&nbsp;L’accord des
-      Écritures&nbsp;: un gage de confiance pour le
-      chrétien&nbsp;»</a></span><br /> <br /> <span style="font-size:
-      x-small;">Laetitia LORGEOUX-BOUAYAD&nbsp;: <a
-      href="http://www.paris-sorbonne.fr/IMG/pdf/BAT_Lorgeoux.pdf">«&nbsp;‘Puissé-je être
-      assez fiable’&nbsp;: à propos de la confiance dans les <em>Phénomènes
-      </em>d’Aratos&nbsp;»</a></span><br /> <br /> <span
-      style="font-size: x-small;">Manon PAPIN&nbsp;: <a
-      href="http://www.paris-sorbonne.fr/IMG/pdf/BAT_Papin.pdf">«&nbsp;Théologie et poésie au
-      service de la Foi dans les <em>Homélies sur le Cantique des Cantiques </em>de
-      Grégoire de Nysse&nbsp;»</a></span><br /><span style="font-size:
-      x-small;">&nbsp;</span></li><li><span style="font-size:
-      x-small;">&nbsp;<a class="spip_in"
-      href="http://www.paris-sorbonne.fr/Camenulae-11"><em>Camenulae</em>
-      n°&nbsp;11 — octobre 2014</a></span></li><li><span
-      style="font-size: x-small;"><a class="spip_in"
-      href="http://www.paris-sorbonne.fr/Camenulae-no-10-decembre-2013"><em>Camenulae</em>
-      n°&nbsp;10 — décembre 2013</a></span></li><li><span
-      style="font-size: x-small;"><a class="spip_in"
-      href="http://www.paris-sorbonne.fr/Camenulae-no-9-novembre-2013"><em>Camenulae</em>
-      n°&nbsp;9 — novembre 2013</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.paris-sorbonne.fr/spip.php?article17188"><em>Camenulae</em> n°8
-      — janvier 2012</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://www.paris-sorbonne.fr/spip.php?article16501"><em>Camenulae</em>
-      n°&nbsp;7 — juin 2011</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://www.paris-sorbonne.fr/spip.php?article15874"><em>Camenulae</em>
-      n°&nbsp;6 — novembre 2010</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.paris-sorbonne.fr/spip.php?article12419"><em>Camenulae</em>
-      n°&nbsp;5 — juin 2010</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://www.paris-sorbonne.fr/spip.php?article11679"><em>Camenulae</em>
-      n°&nbsp;4 — février 2010</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.paris-sorbonne.fr/spip.php?article9907"><em>Camenulae</em> n°3
-      — juin 2009</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://www.paris-sorbonne.fr/spip.php?article7353"><em>Camenulae</em>
-      n°&nbsp;2 — juin 2008</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://www.paris-sorbonne.fr/spip.php?article5849"><em>Camenulae</em>
-      1&nbsp;: novembre 2007</a></span></li></ul><div
-      style="text-align: center;">&nbsp;<span style="font-size: small;"><span>See
-      the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
+   <title type="text">Open Access Journal: Camenulae</title>
+   <content type="html"><![CDATA[<a href="http://www.worldcat.org/oclc/269421252">Camenulae</a><br /><blockquote class="tr_bq"><img alt="http://www.paris-sorbonne.fr/squelettes/img/logo_sorbonne.png" src="http://www.paris-sorbonne.fr/squelettes/img/logo_sorbonne.png" /> </blockquote><ul><li> <div style="text-align: left;"><span style="font-size: x-small;"><a class="spip_in" href="http://www.paris-sorbonne.fr/Camenulae-12-avril-2015"><em>Camenulae</em> n°&nbsp;12 — avril 2015</a></span></div><div align="center"><br /></div><div align="center"><span style="font-size: x-small;"><strong>Fidélité, foi, confiance</strong></span></div><br />  <span style="font-size: x-small;">Le numéro 12 de <em>Camenulae</em> contient les actes de la première  journée annuelle de l’Ecole doctorale I «&nbsp;Mondes antiques et médiévaux&nbsp;»  (université de Paris-Sorbonne), qui a eu lieu le 12 janvier 2013 sous  la direction de Paul Demont (certaines communications n’ont pas été  publiées).</span><br />  <span style="font-size: x-small;">Mise en page Marion Franchet-Lamalle, secrétaire de rédaction de  l’ÉD1, mise en ligne Valérie Naas, maître de conférences de latin HDR à  l’université de Paris-Sorbonne et directrice de <em>Camenulae</em>.</span><br />  <span style="font-size: x-small;">On trouvera sur ce même site les numéros précédents de la revue <em>Camenulae</em>.</span><br />  <br />  <div align="center"><span style="font-size: x-small;"><strong>Fidélité, foi, confiance</strong></span></div><br />  <span style="font-size: x-small;">Massimiliano DILIBERTO PAULSEN&nbsp;: <a href="http://www.paris-sorbonne.fr/IMG/pdf/BAT_Diliberto.pdf">«&nbsp;Le <em>perfuga </em>Antoninus<em>&nbsp;: </em>remarques sur Ammien XVIII 5&nbsp;»</a></span><br />  <br />  <span style="font-size: x-small;">Eugénie FOURNEL&nbsp;: <a href="http://www.paris-sorbonne.fr/IMG/pdf/BAT_Fournel.pdf">«&nbsp;La foi d’Aristide à l’épreuve de la maladie&nbsp;: confiance en dieu et confiance en soi dans les <em>Discours sacrés</em>&nbsp;»</a></span><br />  <br />  <span style="font-size: x-small;">Anthony GLAISE&nbsp;: <a href="http://www.paris-sorbonne.fr/IMG/pdf/BAT_Glaise.pdf">«&nbsp;L’accord des Écritures&nbsp;: un gage de confiance pour le chrétien&nbsp;»</a></span><br />  <br />  <span style="font-size: x-small;">Laetitia LORGEOUX-BOUAYAD&nbsp;: <a href="http://www.paris-sorbonne.fr/IMG/pdf/BAT_Lorgeoux.pdf">«&nbsp;‘Puissé-je être assez fiable’&nbsp;: à propos de la confiance dans les <em>Phénomènes </em>d’Aratos&nbsp;»</a></span><br />  <br />  <span style="font-size: x-small;">Manon PAPIN&nbsp;: <a href="http://www.paris-sorbonne.fr/IMG/pdf/BAT_Papin.pdf">«&nbsp;Théologie et poésie au service de la Foi dans les <em>Homélies sur le Cantique des Cantiques </em>de Grégoire de Nysse&nbsp;»</a></span><br /><span style="font-size: x-small;">&nbsp;</span></li><li><span style="font-size: x-small;">&nbsp;<a class="spip_in" href="http://www.paris-sorbonne.fr/Camenulae-11"><em>Camenulae</em> n°&nbsp;11 — octobre 2014</a></span></li><li><span style="font-size: x-small;"><a class="spip_in" href="http://www.paris-sorbonne.fr/Camenulae-no-10-decembre-2013"><em>Camenulae</em> n°&nbsp;10 — décembre 2013</a></span></li><li><span style="font-size: x-small;"><a class="spip_in" href="http://www.paris-sorbonne.fr/Camenulae-no-9-novembre-2013"><em>Camenulae</em> n°&nbsp;9 — novembre 2013</a></span></li><li><span style="font-size: x-small;"><a href="http://www.paris-sorbonne.fr/spip.php?article17188"><em>Camenulae</em> n°8 — janvier 2012</a></span></li><li><span style="font-size: x-small;"><a href="http://www.paris-sorbonne.fr/spip.php?article16501"><em>Camenulae</em> n°&nbsp;7 — juin 2011</a></span></li><li><span style="font-size: x-small;"><a href="http://www.paris-sorbonne.fr/spip.php?article15874"><em>Camenulae</em> n°&nbsp;6 — novembre 2010</a></span></li><li><span style="font-size: x-small;"><a href="http://www.paris-sorbonne.fr/spip.php?article12419"><em>Camenulae</em> n°&nbsp;5 — juin 2010</a></span></li><li><span style="font-size: x-small;"><a href="http://www.paris-sorbonne.fr/spip.php?article11679"><em>Camenulae</em> n°&nbsp;4 — février 2010</a></span></li><li><span style="font-size: x-small;"><a href="http://www.paris-sorbonne.fr/spip.php?article9907"><em>Camenulae</em> n°3 — juin 2009</a></span></li><li><span style="font-size: x-small;"><a href="http://www.paris-sorbonne.fr/spip.php?article7353"><em>Camenulae</em> n°&nbsp;2 — juin 2008</a></span></li><li><span style="font-size: x-small;"><a href="http://www.paris-sorbonne.fr/spip.php?article5849"><em>Camenulae</em> 1&nbsp;: novembre 2007</a></span></li></ul><div style="text-align: center;">&nbsp;<span style="font-size: small;"><span>See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3095726926350099728/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3095726926350099728/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/04/open-access-journal-camenulae.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3095726926350099728"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3095726926350099728"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/04/open-access-journal-camenulae.html"
          title="Open Access Journal: Camenulae"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

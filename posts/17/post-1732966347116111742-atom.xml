@@ -1,100 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1732966347116111742</id>
-    <published>2014-11-11T10:25:00.001-05:00</published>
-    <updated>2014-11-11T10:25:18.115-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1732966347116111742</id>
+   <published>2014-11-11T10:25:00.001-05:00</published>
+   <updated>2014-11-11T10:25:18.115-05:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Reception"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Reception"/>
-    <title type="text">Open Access Journal: Bristol Institute of Greece, Rome and the Classical
-      Tradition Annual Report</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.bris.ac.uk/arts/research/collaborations/igrct/annualreport/">Bristol
-      Institute of Greece, Rome and the Classical Tradition Annual Report</a><br
-      /><blockquote class="tr_bq"><img
-      alt="http://www.bris.ac.uk/media-library/sites/arts/migrated/images/hypnos.jpg" class="decoded"
-      height="95" src="http://www.bris.ac.uk/media-library/sites/arts/migrated/images/hypnos.jpg"
-      width="200" />&nbsp; </blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">The <strong>IGRCT</strong> promotes research into
-      all aspects of Greco-Roman culture from antiquity to the present day, in the belief that
-      classical culture remains a vital influence in the modern world. It embraces research from many
-      fields, including history of all kinds, archaeology, literary studies, art history and
-      philosophy, and has a particular focus on research that explores the links between ancient and
-      modern.</span><br /><br /> <span style="font-size: x-small;">The
-      Institute was formed in 2004 through the merger of the <strong>Bristol Institute of
-      Hellenic and Roman Studies</strong>, founded in 2000 by Robert Fowler, and the
-      <strong>Bristol Centre for the Classical Tradition</strong>, founded by the late
-      Thomas Wiedemann. It achieves its aims by hiring postdoctoral research fellows and supporting
-      their research, inviting distinguished scholars to give seminars and lectures, holding symposia
-      and conferences, cultivating international links with other scholars and organisations, and
-      supporting the development of research projects in the faculty.</span><br /><br
-      /> <span style="font-size: x-small;">The work of the Institute would be impossible
-      without the generous contributions of individual and corporate donors, and we would like to
-      express our gratitude for their continued support.</span><br /><ul><li>
-      <span style="font-size: x-small;"><a
-      href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report13.pdf">Annual
-      Report 2012/13 (PDF) (PDF, 2,441kB)</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report12.pdf">Annual
-      Report 2011/12 (PDF) (PDF, 2,074kB)</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report11.pdf">Annual
-      Report 2010/11 (PDF) (PDF, 2,216kB)</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report10.pdf">Annual
-      Report 2009/10 (PDF) (PDF, 397kB)</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report09.pdf">Annual
-      Report 2008/09 (PDF) (PDF, 340kB)</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report08.pdf">Annual
-      Report 2007/08 (PDF) (PDF, 259kB)</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report07.pdf">Annual
-      Report 2006/07 (PDF) (PDF, 180kB)</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://bris.ac.uk/arts/research/collaborations/igrct/annualreport/report06.pdf%20%20%20%20%20%20Status:%20published">Annual
-      Report 2005/06 (PDF)</a></span></li><li> <span style="font-size:
-      x-small;"><a
-      href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report05.pdf">Annual
-      Report 2004/05 (PDF) (PDF, 30kB)</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report04.pdf">Annual
-      Report 2003/04 (PDF) (PDF,
-      137kB)</a></span></li></ul></blockquote><div
-      style="text-align: center;"><span style="font-size:
-      small;"><span><span><span>See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></span></span></span>
-      </span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <title type="text">Open Access Journal: Bristol Institute of Greece, Rome and the Classical Tradition Annual Report</title>
+   <content type="html"><![CDATA[<a href="http://www.bris.ac.uk/arts/research/collaborations/igrct/annualreport/">Bristol Institute of Greece, Rome and the Classical Tradition Annual Report</a><br /><blockquote class="tr_bq"><img alt="http://www.bris.ac.uk/media-library/sites/arts/migrated/images/hypnos.jpg" class="decoded" height="95" src="http://www.bris.ac.uk/media-library/sites/arts/migrated/images/hypnos.jpg" width="200" />&nbsp;     </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The <strong>IGRCT</strong> promotes research into all aspects of  Greco-Roman culture from antiquity to the present day, in the belief  that classical culture remains a vital influence in the modern world. It  embraces research from many fields, including history of all kinds,  archaeology, literary studies, art history and philosophy, and has a  particular focus on research that explores the links between ancient and  modern.</span><br /><br /> <span style="font-size: x-small;">The Institute was formed in 2004 through the merger of the <strong>Bristol Institute of Hellenic and Roman Studies</strong>, founded in 2000 by Robert Fowler, and the <strong>Bristol Centre for the Classical Tradition</strong>,  founded by the late Thomas Wiedemann. It achieves its aims by hiring  postdoctoral research fellows and supporting their research, inviting  distinguished scholars to give seminars and lectures, holding symposia  and conferences, cultivating international links with other scholars and  organisations, and supporting the development of research projects in  the faculty.</span><br /><br /> <span style="font-size: x-small;">The work of the Institute would be impossible without the generous  contributions of individual and corporate donors, and we would like to  express our gratitude for their continued support.</span><br /><ul><li>  <span style="font-size: x-small;"><a href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report13.pdf">Annual Report 2012/13 (PDF) (PDF, 2,441kB)</a></span></li><li>  <span style="font-size: x-small;"><a href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report12.pdf">Annual Report 2011/12 (PDF) (PDF, 2,074kB)</a></span></li><li>  <span style="font-size: x-small;"><a href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report11.pdf">Annual Report 2010/11 (PDF) (PDF, 2,216kB)</a></span></li><li>  <span style="font-size: x-small;"><a href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report10.pdf">Annual Report 2009/10 (PDF) (PDF, 397kB)</a></span></li><li>  <span style="font-size: x-small;"><a href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report09.pdf">Annual Report 2008/09 (PDF) (PDF, 340kB)</a></span></li><li>  <span style="font-size: x-small;"><a href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report08.pdf">Annual Report 2007/08 (PDF) (PDF, 259kB)</a></span></li><li>  <span style="font-size: x-small;"><a href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report07.pdf">Annual Report 2006/07 (PDF) (PDF, 180kB)</a></span></li><li><span style="font-size: x-small;"><a href="http://bris.ac.uk/arts/research/collaborations/igrct/annualreport/report06.pdf%20%20%20%20%20%20Status:%20published">Annual Report 2005/06 (PDF)</a></span></li><li>  <span style="font-size: x-small;"><a href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report05.pdf">Annual Report 2004/05 (PDF) (PDF, 30kB)</a></span></li><li>  <span style="font-size: x-small;"><a href="http://www.bris.ac.uk/media-library/sites/arts/migrated/documents/report04.pdf">Annual Report 2003/04 (PDF) (PDF, 137kB)</a></span></li></ul></blockquote><div style="text-align: center;"><span style="font-size: small;"><span><span><span>See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span> </span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1732966347116111742/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1732966347116111742/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/open-access-journal-bristol-institute.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1732966347116111742"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1732966347116111742"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/open-access-journal-bristol-institute.html"
          title="Open Access Journal: Bristol Institute of Greece, Rome and the Classical Tradition Annual Report"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

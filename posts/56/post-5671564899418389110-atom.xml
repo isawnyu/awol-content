@@ -1,177 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5671564899418389110</id>
-    <published>2014-10-01T07:37:00.000-04:00</published>
-    <updated>2014-10-01T07:39:34.021-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5671564899418389110</id>
+   <published>2014-10-01T07:37:00.000-04:00</published>
+   <updated>2014-10-01T07:39:34.021-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
-    <title type="text">Roman Inscriptions of Britain</title>
-    <content type="html"><![CDATA[<a href="http://romaninscriptionsofbritain.org/" title="Home">Roman
-      Inscriptions of Britain</a><br /><blockquote class="tr_bq"><img
-      alt="http://romaninscriptionsofbritain.org/images/RIB001065LS-home.png" class="shrinkToFit
-      decoded" src="http://romaninscriptionsofbritain.org/images/RIB001065LS-home.png" height="200"
-      width="121" /> </blockquote><blockquote class="tr_bq"><h1><span
-      style="font-size: x-small;">Welcome to the home of <i>RIB</i>
-      online</span></h1><span style="font-size: x-small;"> </span><span
-      style="font-size: x-small;">This website hosts Volume One of <i>The Roman Inscriptions
-      of Britain</i>, R.G. Collingwood's and R.P. Wright's magisterial edition of 2,401
-      monumental inscriptions from Britain found prior to 1955. It also incorporates all Addenda and
-      Corrigenda published in the 1995 reprint of <i>RIB</i> (edited by R.S.O. Tomlin)
-      and the annual survey of inscriptions published in <i>Britannia</i>
-      since.</span></blockquote><blockquote class="tr_bq"><h1><span
-      style="font-size: x-small;">Preface (2014)</span></h1><h3><span
-      style="font-size: x-small;">Editorial Policy</span></h3><span
-      style="font-size: x-small;">This online edition of <em>RIB</em> aims to
-      faithfully reproduce the printed edition and the relevant addenda and corrigenda published in
-      <em>Journal of Roman Studies</em> and <em>Britannia</em>. We have
-      endeavoured to make as few editorial interventions as possible, apart from the correction of
-      typographical errors and the modifications necessary to incorporate the addenda and corrigenda.
-      In particular: </span><br /> <ul><li><span style="font-size:
-      x-small;">Addenda have been interleaved or appended, as appropriate (e.g., <a
-      href="http://romaninscriptionsofbritain.org/inscriptions/1045">1045</a>, <a
-      href="http://romaninscriptionsofbritain.org/inscriptions/1051">1051</a>). Addenda from
-      the 1995 reprint are indicated by the notation ‘[<em>RIB</em> + add.]’. Addenda
-      from <em>Britannia</em> since 1995 are similarly notated with their respective
-      volume numbers and page references. </span></li><li><span
-      style="font-size: x-small;">Corrigenda have been silently
-      applied.</span></li><li><span style="font-size: x-small;">Last known
-      locations of inscriptions have been updated where more recent information has been obtained.
-      </span></li><li><span style="font-size: x-small;">Measurements have
-      been converted from English imperial to metric, except where quoted. However, conversion of
-      Roman measures to English feet (e.g., from <em>passus</em> or
-      <em>pedes</em>) are unchanged. </span></li><li><span
-      style="font-size: x-small;">Certain personal names have been regularized: Lywhd, Lluyd
-      (sp?).</span></li><li><span style="font-size: x-small;">Instances of
-      consonantal <em>u</em> have been changed to <em>v</em>.
-      </span></li><li><span style="font-size: x-small;">Instances of
-      ‘(<em>centuria/o</em>)’ and ‘(<em>milliaria</em>)’ have been converted
-      to respective symbols (<span class="diplo">𐆛</span> and <span
-      class="diplo">ↀ</span>) (e.g., <a
-      href="http://romaninscriptionsofbritain.org/inscriptions/143">143</a>, <a
-      href="http://romaninscriptionsofbritain.org/inscriptions/977">977</a>).
-      </span></li><li><span style="font-size: x-small;">Newer readings
-      characterized as ‘read’ or ‘better’ in the Addenda published with the 1995 reprint of
-      <em>RIB</em> have been incorporated into transcripts.
-      </span></li><li><span style="font-size: x-small;">References to "Mr.
-      (now Professor) …" changed to "Professor …" (etc.)</span></li><li><span
-      style="font-size: x-small;">Per Addendum (see note to <a
-      href="http://romaninscriptionsofbritain.org/inscriptions/152"><em>RIB</em>
-      152</a>), all translations of <em>numen</em> as ‘deity’ have been changed to
-      ‘divinity’, e.g., instances of ‘deities of the emperor’ are now ‘divinities of the emperor’.
-      </span></li><li><span style="font-size: x-small;">Certain museum or
-      other holding institution names have been updated (e.g., Carlisle Museum is now <a
-      href="http://romaninscriptionsofbritain.org/institutions/tullie-house-museum">Tullie House
-      Museum</a>). </span></li><li><span style="font-size:
-      x-small;">There have been numerous reorganizations of modern political boundaries in Britain
-      in the nearly fifty years since <em>RIB</em> was first published. Accordingly, all
-      geographical references have been updated to reflect these changes. E.g., the former county of
-      Westmorland has been subsumed into <a
-      href="http://romaninscriptionsofbritain.org/counties/cumbria">Cumbria</a> (formerly
-      Cumberland), the Ridings of Yorkshire have been re-organized into their respective modern
-      counties, Jarrow has been moved from County Durham to <a
-      href="http://romaninscriptionsofbritain.org/counties/tyne-wear">Tyne &amp;
-      Wear</a>, etc. </span></li><li><span style="font-size:
-      x-small;">Other geographical changes are as follows:</span>
-      <ul><li><span style="font-size: x-small;"><a
-      href="http://romaninscriptionsofbritain.org/sites/scotland">Wales</a> now has its own
-      section. </span></li><li><span style="font-size: x-small;">The <a
-      href="http://romaninscriptionsofbritain.org/sites/hadrians-wall">Hadrian's Wall</a>
-      sector from Great Chesters to Birdoswald, which spans the counties of <a
-      href="http://romaninscriptionsofbritain.org/counties/cumbria">Cumbria</a> and <a
-      href="http://romaninscriptionsofbritain.org/counties/northumberland">Northumberland</a>
-      has been partitioned to facilitate the grouping of <a
-      href="http://romaninscriptionsofbritain.org/counties/index">inscriptions by
-      county</a>. </span></li><li><span style="font-size:
-      x-small;">Chesterholm has been re-named as <a
-      href="http://romaninscriptionsofbritain.org/sites/vindolanda">Vindolanda</a>.
-      </span></li><li><span style="font-size: x-small;">Sites along the
-      Antonine Wall have been re-organized and new sites (viz., <a
-      href="http://romaninscriptionsofbritain.org/sites/castlehill">Castlehill</a>, <a
-      href="http://romaninscriptionsofbritain.org/sites/hutcheson-hill">Hutcheson Hill</a>,
-      <a
-      href="http://romaninscriptionsofbritain.org/sites/kirkintilloch">Kirkintilloch</a>,
-      and <a href="http://romaninscriptionsofbritain.org/sites/old-kilpatrick">Old
-      Kilpatrick</a>) have been created. <a
-      href="http://romaninscriptionsofbritain.org/inscriptions/2186"><em>RIB</em>
-      2186</a> has been moved to Cadder. </span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://romaninscriptionsofbritain.org/sites/carlisle">Carlisle</a>, <a
-      href="http://romaninscriptionsofbritain.org/sites/corbridge">Corbridge</a>, <a
-      href="http://romaninscriptionsofbritain.org/sites/vindolanda">Vindolanda</a>, and
-      <a href="http://romaninscriptionsofbritain.org/sites/south-shields">South
-      Shields</a> are now grouped under <a
-      href="http://romaninscriptionsofbritain.org/sites/hadrians-wall">Hadrians Wall</a>,
-      consistent with the scheme adopted by <em>RIB</em> III.
-      </span></li><li><span style="font-size: x-small;"><a
-      href="http://romaninscriptionsofbritain.org/inscriptions/359"><em>RIB</em>
-      359</a>, <a
-      href="http://romaninscriptionsofbritain.org/inscriptions/363">363</a>, <a
-      href="http://romaninscriptionsofbritain.org/inscriptions/371">371</a>-<a
-      href="http://romaninscriptionsofbritain.org/inscriptions/375">375</a>, and <a
-      href="http://romaninscriptionsofbritain.org/inscriptions/377">377</a> have been moved
-      from <a href="http://romaninscriptionsofbritain.org/sites/caerleon">Caerleon</a> to
-      the new site of <a href="http://romaninscriptionsofbritain.org/sites/great-bulmore">Great
-      Bulmore</a>. </span></li><li><span style="font-size:
-      x-small;">The site of Dolaucothi has been re-named to <a
-      href="http://romaninscriptionsofbritain.org/sites/pumsaint">Pumsaint</a> (as in
-      <em>RIB</em> iii).
-      </span></li></ul></li></ul></blockquote><br
-      /><blockquote class="tr_bq"><ul class="nav navbar-nav"><li class="active"
-      id="navmenu-home"> <span style="font-size: x-small;"><a
-      href="http://romaninscriptionsofbritain.org/">Home</a> </span></li><li
-      class="dropdown" id="navmenu-about"> <span style="font-size: x-small;"><a
-      class="dropdown-toggle" data-toggle="dropdown"
-      href="http://romaninscriptionsofbritain.org/#">About <span
-      class="caret"></span></a></span> </li><li class="dropdown"
-      id="navmenu-inscription"> <span style="font-size: x-small;"><a
-      class="dropdown-toggle" data-toggle="dropdown"
-      href="http://romaninscriptionsofbritain.org/#">Inscriptions <span
-      class="caret"></span></a></span> </li><li class="dropdown"
-      id="navmenu-site"> <span style="font-size: x-small;"><a class="dropdown-toggle"
-      data-toggle="dropdown" href="http://romaninscriptionsofbritain.org/#">Sites <span
-      class="caret"></span></a></span> </li><li class="dropdown"
-      id="navmenu-institution"> <span style="font-size: x-small;"><a
-      class="dropdown-toggle" data-toggle="dropdown"
-      href="http://romaninscriptionsofbritain.org/#">Institutions <span
-      class="caret"></span></a></span> </li><li class="dropdown"
-      id="navmenu-reference"> <span style="font-size: x-small;"><a
-      class="dropdown-toggle" data-toggle="dropdown"
-      href="http://romaninscriptionsofbritain.org/#">Reference <span
-      class="caret"></span></a></span> </li><li
-      id="navmenu-linked-data"><span style="font-size: x-small;"> <a
-      href="http://romaninscriptionsofbritain.org/lod/">Linked Data</a></span>
-      </li></ul></blockquote><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <title type="text">Roman Inscriptions of Britain</title>
+   <content type="html"><![CDATA[<a href="http://romaninscriptionsofbritain.org/" title="Home">Roman Inscriptions of Britain</a><br /><blockquote class="tr_bq"><img alt="http://romaninscriptionsofbritain.org/images/RIB001065LS-home.png" class="shrinkToFit decoded" src="http://romaninscriptionsofbritain.org/images/RIB001065LS-home.png" height="200" width="121" /> </blockquote><blockquote class="tr_bq"><h1><span style="font-size: x-small;">Welcome to the home of <i>RIB</i> online</span></h1><span style="font-size: x-small;">                            </span><span style="font-size: x-small;">This website hosts Volume One of <i>The Roman Inscriptions of Britain</i>, R.G. Collingwood's and                             R.P. Wright's magisterial edition of 2,401 monumental inscriptions from Britain found prior to 1955.                             It also incorporates all Addenda and Corrigenda published in the 1995 reprint of <i>RIB</i>                            (edited by R.S.O. Tomlin) and the annual survey of inscriptions published in <i>Britannia</i> since.</span></blockquote><blockquote class="tr_bq"><h1><span style="font-size: x-small;">Preface (2014)</span></h1><h3><span style="font-size: x-small;">Editorial Policy</span></h3><span style="font-size: x-small;">This online edition of <em>RIB</em> aims to faithfully reproduce the printed edition and the relevant addenda and corrigenda                            published in <em>Journal of Roman Studies</em> and <em>Britannia</em>. We have endeavoured to make as few editorial interventions as possible, apart from                            the correction of typographical errors and the modifications necessary to incorporate                            the addenda and corrigenda. In particular:                         </span><br />                           <ul><li><span style="font-size: x-small;">Addenda have been interleaved or appended, as appropriate (e.g., <a href="http://romaninscriptionsofbritain.org/inscriptions/1045">1045</a>, <a href="http://romaninscriptionsofbritain.org/inscriptions/1051">1051</a>). Addenda from the 1995 reprint are indicated by the notation ‘[<em>RIB</em> + add.]’. Addenda from <em>Britannia</em> since 1995 are similarly notated with their respective volume numbers and page references.                            </span></li><li><span style="font-size: x-small;">Corrigenda have been silently applied.</span></li><li><span style="font-size: x-small;">Last known locations of inscriptions have been updated where more recent information                               has been obtained.                            </span></li><li><span style="font-size: x-small;">Measurements have been converted from English imperial to metric, except where quoted.                               However, conversion of Roman measures to English feet (e.g., from <em>passus</em> or <em>pedes</em>) are unchanged.                            </span></li><li><span style="font-size: x-small;">Certain personal names have been regularized: Lywhd, Lluyd (sp?).</span></li><li><span style="font-size: x-small;">Instances of consonantal <em>u</em> have been changed to <em>v</em>.                            </span></li><li><span style="font-size: x-small;">Instances of ‘(<em>centuria/o</em>)’ and ‘(<em>milliaria</em>)’ have been converted to respective symbols (<span class="diplo">𐆛</span> and <span class="diplo">ↀ</span>) (e.g., <a href="http://romaninscriptionsofbritain.org/inscriptions/143">143</a>, <a href="http://romaninscriptionsofbritain.org/inscriptions/977">977</a>).                            </span></li><li><span style="font-size: x-small;">Newer readings characterized as ‘read’ or ‘better’ in the Addenda published with the 1995 reprint of <em>RIB</em> have been incorporated into transcripts.                            </span></li><li><span style="font-size: x-small;">References to "Mr. (now Professor) …" changed to "Professor …" (etc.)</span></li><li><span style="font-size: x-small;">Per Addendum (see note to <a href="http://romaninscriptionsofbritain.org/inscriptions/152"><em>RIB</em> 152</a>), all translations of <em>numen</em> as ‘deity’ have been changed to ‘divinity’, e.g., instances of ‘deities of the emperor’ are now ‘divinities of the emperor’.                            </span></li><li><span style="font-size: x-small;">Certain museum or other holding institution names have been updated (e.g., Carlisle Museum is now <a href="http://romaninscriptionsofbritain.org/institutions/tullie-house-museum">Tullie House Museum</a>).                            </span></li><li><span style="font-size: x-small;">There have been numerous reorganizations of modern political boundaries in Britain                               in the nearly fifty years since <em>RIB</em> was first published. Accordingly, all geographical references have been updated to                               reflect these changes. E.g., the former county of Westmorland has been subsumed into <a href="http://romaninscriptionsofbritain.org/counties/cumbria">Cumbria</a> (formerly Cumberland), the Ridings of Yorkshire have been re-organized into their                               respective modern counties, Jarrow has been moved from County Durham to <a href="http://romaninscriptionsofbritain.org/counties/tyne-wear">Tyne &amp; Wear</a>, etc.                            </span></li><li><span style="font-size: x-small;">Other geographical changes are as follows:</span>                                 <ul><li><span style="font-size: x-small;"><a href="http://romaninscriptionsofbritain.org/sites/scotland">Wales</a> now has its own section.                                  </span></li><li><span style="font-size: x-small;">The <a href="http://romaninscriptionsofbritain.org/sites/hadrians-wall">Hadrian's Wall</a> sector from Great Chesters to Birdoswald, which spans the counties of <a href="http://romaninscriptionsofbritain.org/counties/cumbria">Cumbria</a> and <a href="http://romaninscriptionsofbritain.org/counties/northumberland">Northumberland</a> has been partitioned to facilitate the grouping of <a href="http://romaninscriptionsofbritain.org/counties/index">inscriptions by county</a>.                                  </span></li><li><span style="font-size: x-small;">Chesterholm has been re-named as <a href="http://romaninscriptionsofbritain.org/sites/vindolanda">Vindolanda</a>.                                  </span></li><li><span style="font-size: x-small;">Sites along the Antonine Wall have been re-organized and new sites (viz., <a href="http://romaninscriptionsofbritain.org/sites/castlehill">Castlehill</a>, <a href="http://romaninscriptionsofbritain.org/sites/hutcheson-hill">Hutcheson Hill</a>, <a href="http://romaninscriptionsofbritain.org/sites/kirkintilloch">Kirkintilloch</a>, and <a href="http://romaninscriptionsofbritain.org/sites/old-kilpatrick">Old Kilpatrick</a>) have been created. <a href="http://romaninscriptionsofbritain.org/inscriptions/2186"><em>RIB</em> 2186</a> has been moved to Cadder.                                  </span></li><li><span style="font-size: x-small;"><a href="http://romaninscriptionsofbritain.org/sites/carlisle">Carlisle</a>, <a href="http://romaninscriptionsofbritain.org/sites/corbridge">Corbridge</a>, <a href="http://romaninscriptionsofbritain.org/sites/vindolanda">Vindolanda</a>, and <a href="http://romaninscriptionsofbritain.org/sites/south-shields">South Shields</a> are now grouped under <a href="http://romaninscriptionsofbritain.org/sites/hadrians-wall">Hadrians Wall</a>, consistent with the scheme adopted by <em>RIB</em> III.                                  </span></li><li><span style="font-size: x-small;"><a href="http://romaninscriptionsofbritain.org/inscriptions/359"><em>RIB</em> 359</a>, <a href="http://romaninscriptionsofbritain.org/inscriptions/363">363</a>, <a href="http://romaninscriptionsofbritain.org/inscriptions/371">371</a>-<a href="http://romaninscriptionsofbritain.org/inscriptions/375">375</a>, and <a href="http://romaninscriptionsofbritain.org/inscriptions/377">377</a> have been moved from <a href="http://romaninscriptionsofbritain.org/sites/caerleon">Caerleon</a> to the new site of <a href="http://romaninscriptionsofbritain.org/sites/great-bulmore">Great Bulmore</a>.                                  </span></li><li><span style="font-size: x-small;">The site of Dolaucothi has been re-named to <a href="http://romaninscriptionsofbritain.org/sites/pumsaint">Pumsaint</a> (as in <em>RIB</em> iii).                                  </span></li></ul></li></ul></blockquote><br /><blockquote class="tr_bq"><ul class="nav navbar-nav"><li class="active" id="navmenu-home">                            <span style="font-size: x-small;"><a href="http://romaninscriptionsofbritain.org/">Home</a>                        </span></li><li class="dropdown" id="navmenu-about">                            <span style="font-size: x-small;"><a class="dropdown-toggle" data-toggle="dropdown" href="http://romaninscriptionsofbritain.org/#">About <span class="caret"></span></a></span>                                                     </li><li class="dropdown" id="navmenu-inscription">                            <span style="font-size: x-small;"><a class="dropdown-toggle" data-toggle="dropdown" href="http://romaninscriptionsofbritain.org/#">Inscriptions <span class="caret"></span></a></span>                                                     </li><li class="dropdown" id="navmenu-site">                            <span style="font-size: x-small;"><a class="dropdown-toggle" data-toggle="dropdown" href="http://romaninscriptionsofbritain.org/#">Sites <span class="caret"></span></a></span>                                                     </li><li class="dropdown" id="navmenu-institution">                            <span style="font-size: x-small;"><a class="dropdown-toggle" data-toggle="dropdown" href="http://romaninscriptionsofbritain.org/#">Institutions <span class="caret"></span></a></span>                                                     </li><li class="dropdown" id="navmenu-reference">                            <span style="font-size: x-small;"><a class="dropdown-toggle" data-toggle="dropdown" href="http://romaninscriptionsofbritain.org/#">Reference <span class="caret"></span></a></span>                                                     </li><li id="navmenu-linked-data"><span style="font-size: x-small;">                            <a href="http://romaninscriptionsofbritain.org/lod/">Linked Data</a></span>                        </li></ul></blockquote><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5671564899418389110/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5671564899418389110/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/10/digital-roman-inscriptions-of-britain.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5671564899418389110"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5671564899418389110"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/10/digital-roman-inscriptions-of-britain.html"
          title="Roman Inscriptions of Britain"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

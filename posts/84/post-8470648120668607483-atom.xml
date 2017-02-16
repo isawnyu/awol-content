@@ -1,68 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8470648120668607483</id>
-    <published>2013-01-04T19:47:00.005-05:00</published>
-    <updated>2013-01-04T19:47:58.561-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8470648120668607483</id>
+   <published>2013-01-04T19:47:00.005-05:00</published>
+   <updated>2013-01-04T19:47:58.561-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="inscriptions"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
-    <title type="text">Epigraphik-Datenbank Clauss / Slaby EDCS</title>
-    <content type="html"><![CDATA[<a href="http://db.edcs.eu/epigr/epi_de.php">Epigraphik-Datenbank
-      Clauss / Slaby EDCS</a><br /><blockquote class="tr_bq"><img
-      alt="http://db.edcs.eu/epigr/mc.gif" class="decoded" src="http://db.edcs.eu/epigr/mc.gif" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Sie
-      finden hier eine Datenbank, in der weitgehend alle lateinischen Inschriften erfaßt sind. Die
-      Texte sind aufgelöst und ergänzt. Die Präsentation der Texte ist so einfach wie möglich
-      gestaltet. Neben den allgemein üblichen Angaben von Auflösungen, Ergänzungen und Tilgungen sind
-      die verwendeten <a href="http://www.manfredclauss.de/hinweis.html#sonderzeichen">
-      Sonderzeichen</a> auf ein Minimum beschränkt. Die <a
-      href="http://www.manfredclauss.de/abkuerz.html"> Abkürzungen</a> geben die verwendeten
-      Publikationen an. Die <a href="http://www.manfredclauss.de/liste.html"> statistische
-      Aufschlüsselung</a> enthält Angaben darüber, welche Bände - mit wieviel Texten pro Band,
-      was die lateinischen Inschriften betrifft - komplett erfaßt und bereits in die Datenbank
-      eingegeben sind.</span> </blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;"> Inzwischen sind 663.016 Datensätze zu 451.742 Inschriften aus
-      über <a href="http://www.manfredclauss.de/abkuerz.html">1.800 Publikationen</a> für
-      mehr als <a href="http://www.manfredclauss.de/orte.html">21.600 Orte</a> mit <a
-      href="http://www.manfredclauss.de/fotos.html">70.024 Fotos</a>
-      aufgenommen.</span></blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">→ <a
-      href="http://db.edcs.eu/epigr/epikl_de.php">Datenbank-Recherche (Suchtext ohne
-      Auflösungen)</a><br /> → <a
-      href="http://db.edcs.eu/epigr/epibeleg_de.php">Ausgabe nach
-      Corpora</a>&nbsp;</span><br /><span style="font-size: x-small;">→
-      <a href="http://www.manfredclauss.de/hinweis.html">Sucherläuterungen</a><br
-      /> → <a href="http://www.manfredclauss.de/abkuerz.html">Abkürzungen</a>
-      </span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="inscriptions"/>
+   <title type="text">Epigraphik-Datenbank Clauss / Slaby EDCS</title>
+   <content type="html"><![CDATA[<a href="http://db.edcs.eu/epigr/epi_de.php">Epigraphik-Datenbank Clauss / Slaby EDCS</a><br /><blockquote class="tr_bq"><img alt="http://db.edcs.eu/epigr/mc.gif" class="decoded" src="http://db.edcs.eu/epigr/mc.gif" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Sie finden hier eine Datenbank, in der weitgehend alle lateinischen Inschriften     erfaßt sind.  Die Texte sind aufgelöst und ergänzt.  Die Präsentation     der Texte ist so einfach wie möglich gestaltet. Neben den allgemein  üblichen     Angaben von Auflösungen, Ergänzungen und Tilgungen sind die     verwendeten <a href="http://www.manfredclauss.de/hinweis.html#sonderzeichen">    Sonderzeichen</a> auf ein Minimum beschränkt.     Die <a href="http://www.manfredclauss.de/abkuerz.html">    Abkürzungen</a> geben die verwendeten Publikationen an.     Die <a href="http://www.manfredclauss.de/liste.html"> statistische     Aufschlüsselung</a> enthält Angaben darüber,  welche     Bände - mit wieviel Texten pro Band, was die lateinischen     Inschriften betrifft - komplett erfaßt und bereits in die Datenbank     eingegeben sind.</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">      Inzwischen sind  663.016 Datensätze zu 451.742 Inschriften       aus über       <a href="http://www.manfredclauss.de/abkuerz.html">1.800 Publikationen</a>      für mehr       als <a href="http://www.manfredclauss.de/orte.html">21.600 Orte</a>      mit       <a href="http://www.manfredclauss.de/fotos.html">70.024 Fotos</a> aufgenommen.</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">→ <a href="http://db.edcs.eu/epigr/epikl_de.php">Datenbank-Recherche (Suchtext ohne Auflösungen)</a><br />     → <a href="http://db.edcs.eu/epigr/epibeleg_de.php">Ausgabe nach Corpora</a>&nbsp;</span><br /><span style="font-size: x-small;">→ <a href="http://www.manfredclauss.de/hinweis.html">Sucherläuterungen</a><br />     → <a href="http://www.manfredclauss.de/abkuerz.html">Abkürzungen</a> </span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8470648120668607483/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8470648120668607483/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/01/epigraphik-datenbank-clauss-slaby-edcs.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8470648120668607483"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8470648120668607483"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/01/epigraphik-datenbank-clauss-slaby-edcs.html"
          title="Epigraphik-Datenbank Clauss / Slaby EDCS"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

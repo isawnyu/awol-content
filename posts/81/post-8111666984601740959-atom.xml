@@ -1,85 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8111666984601740959</id>
-    <published>2009-05-06T15:52:00.000-04:00</published>
-    <updated>2009-05-06T16:06:17.222-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8111666984601740959</id>
+   <published>2009-05-06T15:52:00.000-04:00</published>
+   <updated>2009-05-06T16:06:17.222-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">ASOR negotiates access (for $15/year) to its journals on JSTOR for its
-      members</title>
-    <content type="html"><![CDATA[An email communication to members of the <a
-      href="http://www.asor.org/">American Schools of Oriental Research (ASOR)</a> today
-      reads:<br /><br /><span
-      style="font-size:85%;"></span><blockquote><span style="font-size:85%;">
-      </span><span style=";font-family:Times New Roman;font-size:85%;" >To better serve
-      your needs, we have settled upon a new system of ensuring that you have online access via JSTOR
-      to all of ASOR’s publications. For a nominal fee of $15 per year, you will be granted access to
-      the entire ASOR archives going back as far as 1919, including:</span> <p><span
-      style="font-size:85%;"> </span><span style=";font-family:Times New
-      Roman;font-size:85%;" ><i><a
-      href="http://www.jstor.org/action/showPublication?journalCode=neareastarch">Near Eastern
-      Archaeology</a>/<a
-      href="http://www.jstor.org/action/showPublication?journalCode=biblarch">The Biblical
-      Archaeologist</a></i></span></p> <p><span
-      style="font-size:85%;"> </span><a
-      href="http://www.jstor.org/action/showPublication?journalCode=bullamerschoorie"><span
-      style=";font-family:Times New Roman;font-size:85%;" ><i>Bulletin of the American
-      Schools of Oriental Research</i></span></a></p> <p><span
-      style="font-size:85%;"> </span><a
-      href="http://www.jstor.org/action/showPublication?journalCode=bamschorriressup"><span
-      style=";font-family:Times New Roman;font-size:85%;" ><i>BASOR Supplementary
-      Studies</i></span></a></p> <p><span style="font-size:85%;">
-      </span><a
-      href="http://www.jstor.org/action/showPublication?journalCode=jcunestud"><span
-      style=";font-family:Times New Roman;font-size:85%;" ><i>Journal of Cuneiform
-      Studies</i></span></a></p> <p><span style="font-size:85%;">
-      </span><a
-      href="http://www.jstor.org/action/showPublication?journalCode=annuamerschoorie"><span
-      style=";font-family:Times New Roman;font-size:85%;" ><i>Annual of the American Schools
-      of Oriental Research</i></span></a><span style="font-size:85%;"><br
-      /></span></p> <p><span style=";font-family:Times New
-      Roman;font-size:85%;" >If you are interested in subscribing to this new program of JSTOR
-      access, please log-in to our online membership and subscription platform by <a
-      href="https://www.netforumondemand.com/eweb/DynamicPage.aspx?Site=ASOR&amp;WebCode=LoginRequired&amp;msm=aca10b8f-227a-47f9-b759-c5bb95c1f600&amp;cst=59187935-3b4b-44fe-8e94-4c7f2bc89f9a&amp;ent=e1a17e2c-b70a-405b-b8d4-db643a2394ff"
-      target="_blank">clicking here</a>. Enter the online store and select “JSTOR,” and you
-      will be on your way to enjoying the entire ASOR catalog from the comfort of your
-      computer.</span><span style="font-size:85%;"><br /></span></p>
-      <p><span style=";font-family:Times New Roman;font-size:85%;"
-      >Best,</span></p> <p><span style=";font-family:Times New
-      Roman;font-size:85%;" >ASOR Membership
-      Services</span></p></blockquote><p><span style=";font-family:Times
-      New Roman;font-size:85%;" ></span></p><br />Clicking on the links above
-      will tell you if you already have access through your home institution, which will be the case
-      for most academics affiliated with an organization. If not, tt's very easy to subscribe online.
-      I'll be grateful for feedback from anyone who has taken advantage of this offer on how well it
-      works.]]></content>
-    <link rel="replies"
+   <title type="text">ASOR negotiates access (for $15/year) to its journals on JSTOR for its members</title>
+   <content type="html"><![CDATA[An email communication to members of the <a href="http://www.asor.org/">American Schools of Oriental Research (ASOR)</a> today reads:<br /><br /><span style="font-size:85%;"></span><blockquote><span style="font-size:85%;">     </span><span style=";font-family:Times New Roman;font-size:85%;"  >To better serve your needs, we have settled upon a new system of ensuring that you have online access via JSTOR to all of ASOR’s publications. For a nominal fee of $15 per year, you will be granted access to the entire ASOR archives going back as far as 1919, including:</span>  <p><span style="font-size:85%;">      </span><span style=";font-family:Times New Roman;font-size:85%;"  ><i><a href="http://www.jstor.org/action/showPublication?journalCode=neareastarch">Near Eastern Archaeology</a>/<a href="http://www.jstor.org/action/showPublication?journalCode=biblarch">The Biblical Archaeologist</a></i></span></p> <p><span style="font-size:85%;">      </span><a href="http://www.jstor.org/action/showPublication?journalCode=bullamerschoorie"><span style=";font-family:Times New Roman;font-size:85%;"  ><i>Bulletin of the American Schools of Oriental Research</i></span></a></p> <p><span style="font-size:85%;">      </span><a href="http://www.jstor.org/action/showPublication?journalCode=bamschorriressup"><span style=";font-family:Times New Roman;font-size:85%;"  ><i>BASOR Supplementary Studies</i></span></a></p> <p><span style="font-size:85%;">      </span><a href="http://www.jstor.org/action/showPublication?journalCode=jcunestud"><span style=";font-family:Times New Roman;font-size:85%;"  ><i>Journal of Cuneiform Studies</i></span></a></p> <p><span style="font-size:85%;">      </span><a href="http://www.jstor.org/action/showPublication?journalCode=annuamerschoorie"><span style=";font-family:Times New Roman;font-size:85%;"  ><i>Annual of the American Schools of Oriental Research</i></span></a><span style="font-size:85%;"><br /></span></p> <p><span style=";font-family:Times New Roman;font-size:85%;"  >If you are interested in subscribing to this new program of JSTOR access, please log-in to our online membership and subscription platform by <a href="https://www.netforumondemand.com/eweb/DynamicPage.aspx?Site=ASOR&amp;WebCode=LoginRequired&amp;msm=aca10b8f-227a-47f9-b759-c5bb95c1f600&amp;cst=59187935-3b4b-44fe-8e94-4c7f2bc89f9a&amp;ent=e1a17e2c-b70a-405b-b8d4-db643a2394ff" target="_blank">clicking here</a>. Enter the online store and select “JSTOR,” and you will be on your way to enjoying the entire ASOR catalog from the comfort of your computer.</span><span style="font-size:85%;"><br /></span></p> <p><span style=";font-family:Times New Roman;font-size:85%;"  >Best,</span></p> <p><span style=";font-family:Times New Roman;font-size:85%;"  >ASOR Membership Services</span></p></blockquote><p><span style=";font-family:Times New Roman;font-size:85%;"  ></span></p><br />Clicking on the links above will tell you if you already have access through your home institution, which will be the case for most academics affiliated with an organization.  If not,  tt's very easy to subscribe online.  I'll be grateful for feedback from anyone who has taken advantage of this offer on how well it works.]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8111666984601740959/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8111666984601740959/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/05/asor-negotiates-access-for-15year-to.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8111666984601740959"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8111666984601740959"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/05/asor-negotiates-access-for-15year-to.html"
          title="ASOR negotiates access (for $15/year) to its journals on JSTOR for its members"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

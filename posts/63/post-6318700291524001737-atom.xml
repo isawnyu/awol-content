@@ -1,67 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6318700291524001737</id>
-    <published>2014-04-11T06:08:00.000-04:00</published>
-    <updated>2014-04-11T06:08:56.711-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6318700291524001737</id>
+   <published>2014-04-11T06:08:00.000-04:00</published>
+   <updated>2014-04-11T06:08:56.711-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
-    <title type="text">Now available: Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL) </title>
-    <content type="html"><![CDATA[<a href="http://www.dh.uni-leipzig.de/wo/csel-is-now-on-github/">CSEL
-      is now on GitHub!</a><br /> <div class="post-meta"> by <a
-      href="http://www.dh.uni-leipzig.de/wo/author/franzini/" rel="author" title="Posts by Greta
-      Franzini">Greta Franzini</a> | Apr 10, 2014<span
-      class="comments-number"></span></div><blockquote class="tr_bq"><img
-      alt="CSEL55" class="alignright wp-image-2226" height="301"
-      src="http://www.dh.uni-leipzig.de/wo/wp-content/uploads/2014/04/Screen-Shot-2014-04-10-at-15.25.48-700x1024.png"
-      width="206" /></blockquote><blockquote class="tr_bq"><div style="text-align:
-      justify;"><span style="font-size: x-small;">We’re <strong>really</strong>
-      proud to announce that EpiDoc XML versions of all 99 volumes of the
-      monumental&nbsp;<em>Corpus Scriptorum Ecclesiasticorum
-      Latinorum&nbsp;</em>(<a href="http://www.csel.eu/" target="_blank" title="Opens in
-      new tab">CSEL</a>) are now being added to the <a
-      href="https://github.com/OpenGreekAndLatin/csel-dev" target="_blank" title="Opens in new
-      tab"><em>Open Greek and Latin Project</em>‘s GitHub repository</a>! The
-      Latin text was OCR-ed, corrected (at 99% accuracy) and encoded according to our specifications
-      by French Data Entry company <a href="http://www.jouve.com/en" target="_blank" title="Opens
-      in new tab">Jouve</a>. CSEL is the first in a line of texts Jouve is currently helping
-      us digitise. Each XML file is available under a Creative Commons Attribution-ShareAlike 4.0
-      International License and contains a link to the Archive.org scan it was taken
-      from.</span></div><div style="text-align: justify;"><span
-      style="font-size: x-small;">&nbsp;</span></div><div style="text-align:
-      justify;"><span style="font-size: x-small;">While rare, the Latin text still contains
-      some mistakes and typos. Similarly, our basic CTS-compliant EpiDoc markup is waiting to be
-      further annotated. So you -yes, &nbsp;<strong>YOU</strong>- come and help us
-      out already! Feel free to pull, push and share this work with friends and colleagues. The more,
-      the merrier!</span></div></blockquote><div style="text-align:
-      justify;"></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <title type="text">Now available: Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL) </title>
+   <content type="html"><![CDATA[<a href="http://www.dh.uni-leipzig.de/wo/csel-is-now-on-github/">CSEL is now on GitHub!</a><br />      <div class="post-meta"> by <a href="http://www.dh.uni-leipzig.de/wo/author/franzini/" rel="author" title="Posts by Greta Franzini">Greta Franzini</a> | Apr 10, 2014<span class="comments-number"></span></div><blockquote class="tr_bq"><img alt="CSEL55" class="alignright  wp-image-2226" height="301" src="http://www.dh.uni-leipzig.de/wo/wp-content/uploads/2014/04/Screen-Shot-2014-04-10-at-15.25.48-700x1024.png" width="206" /></blockquote><blockquote class="tr_bq"><div style="text-align: justify;"><span style="font-size: x-small;">We’re <strong>really</strong> proud to announce that EpiDoc XML versions of all 99 volumes of the monumental&nbsp;<em>Corpus Scriptorum Ecclesiasticorum Latinorum&nbsp;</em>(<a href="http://www.csel.eu/" target="_blank" title="Opens in new tab">CSEL</a>) are now being added to the <a href="https://github.com/OpenGreekAndLatin/csel-dev" target="_blank" title="Opens in new tab"><em>Open Greek and Latin Project</em>‘s GitHub repository</a>!  The Latin text was OCR-ed, corrected (at 99% accuracy) and encoded  according to our specifications by French Data Entry company <a href="http://www.jouve.com/en" target="_blank" title="Opens in new tab">Jouve</a>.  CSEL is the first in a line of texts Jouve is currently helping us  digitise. Each XML file is available under a Creative Commons  Attribution-ShareAlike 4.0 International License and contains a link to  the Archive.org scan it was taken from.</span></div><div style="text-align: justify;"><span style="font-size: x-small;">&nbsp;</span></div><div style="text-align: justify;"><span style="font-size: x-small;">While rare, the Latin text still  contains some mistakes and typos. Similarly, our basic CTS-compliant  EpiDoc markup is waiting to be further annotated. So you -yes, &nbsp;<strong>YOU</strong>- come and help us out already! Feel free to pull, push and share this work with friends and colleagues. The more, the merrier!</span></div></blockquote><div style="text-align: justify;"></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6318700291524001737/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6318700291524001737/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/04/now-available-corpus-scriptorum.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6318700291524001737"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6318700291524001737"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/04/now-available-corpus-scriptorum.html"
          title="Now available: Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL) "/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

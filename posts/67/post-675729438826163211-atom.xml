@@ -1,110 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-675729438826163211</id>
-    <published>2015-02-04T11:39:00.003-05:00</published>
-    <updated>2015-02-04T11:39:47.595-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-675729438826163211</id>
+   <published>2015-02-04T11:39:00.003-05:00</published>
+   <updated>2015-02-04T11:39:47.595-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
-    <category scheme="http://www.blogger.com/atom/ns#"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
+   <category scheme="http://www.blogger.com/atom/ns#"
              term="Inscriptions architecture"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
-    <title type="text">Monspaet-Datenbank des Instituts für Ägyptologieund Koptologie der
-      Westfälischen Wilhelms-Universität Münster</title>
-    <content type="html"><![CDATA[<a
-      href="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/index03.htm"><span
-      style="font-size: small;"><span style="font-family: inherit;">Monspaet-Datenbank des
-      Instituts für Ägyptologie und Koptologie der Westfälischen Wilhelms-Universität
-      Münster</span></span></a><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;">Untersuchung der (Tempel-) Bautätigkeit von legitimen Königen
-      versus der von Usurpatoren anhand von Bauinschriften und erhaltenen Baudenkmälern (Ehemaliger
-      Sonderforschungsbereich 493: Funktionen von Religion in antiken Gesellschaften des Vorderen
-      Orients, Projekt C2/5)</span><br /><br /><span style="font-size:
-      x-small;">Die Datenbank enthält Material zur Bautätigkeit der Könige der Spätzeit, und, aber
-      nur „en passant“ mitgenommen, auch weiteres Material, einige Privatdenkmäler und funeräre
-      Objekte von Königen. Abweichend vom Gebrauch in der Literaturdatenbank wurden hier Leerstellen
-      in Suchbegriffen nicht durch „_“ gefüllt. Das Material kann auf drei verschiedene Weisen
-      abgerufen werden.</span><br /><ol><li><span style="font-size:
-      x-small;">Normale Suche über Suchmaske wie oben
-      angedeutet.</span></li><li><span style="font-size: x-small;">Suche über
-      zwei verschiedene (grobe selbstgestrickte) Karten von Ägypten (Delta / Oberägypten und Nubien).
-      Klickt man einen Ortsnamen an, werden alle dort für das Thema relevanten Datensätze
-      aufgerufen.</span></li><li><span style="font-size: x-small;">Suche nach
-      Dynastien und Königen sowie Objekten aus dem Ausland. Es gibt Listen von Dynastien und deren
-      Königen mit Untergliederung nach Ortsnamen. Königsnamen, die unter einem bestimmten Ortsnamen
-      rot erscheinen, können aufgerufen werden, worauf die von diesem dort aufgefundenen Objekte zum
-      Thema angezeigt werden.</span></li></ol><span style="font-size:
-      x-small;"><br /></span><br /><span style="font-size: x-small;">Das
-      Projekt hatte die Sammlung bzw. Aufarbeitung des relevanten (archäologischen) Materials in
-      einer Datenbank zur Voraussetzung. Die bisher publizierten Listen von Denkmälern der Könige der
-      Spätzeit sind (mit Ausnahme einer Liste von H. Jenni für Nektanebos (II.) von 1998) entweder
-      veraltet (Kienitz für das 4. Jhdt.v.Chr. (28.-30. Dyn.) von 1953, Traunecker für die 29. Dyn.
-      von 1979, Posener für die 27. Dyn. von 1936) bzw. eine Liste für die 26. Dyn. existiert gar
-      nicht). Über die Tempel allein gibt es die neue Monographie von D. Arnold, The Tempels Of The
-      Last Pharaohs, New York - Oxford 1999 (das Buch geht im betrachteten Zeitraum über den hier
-      behandelten hinaus, insoweit es sowohl die 25. Dyn. als auch die ptolemäisch-römische Zeit
-      umfasst). Allerdings liegt hier das Schwergewicht auf architektonischen Rekonstruktionen;
-      Königen werden Bauten oft nur zugeschrieben ohne Diskussion der
-      Belege.</span></blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><br /></span><span style="font-size:
-      x-small;"><a href="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/m_frssuche0.htm"
-      target="main"> <img alt="Standardsuche" border="0"
-      src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/bustandard1.gif" height="20"
-      name="bustandard1" width="87" /></a></span><br /><span
-      style="font-size: x-small;"><img alt="" border="0"
-      src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/leer1x1.gif" height="1" width="1"
-      /></span><br /><span style="font-size: x-small;"><img alt="" border="0"
-      src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/leer1x1.gif" height="20" width="1"
-      /></span><br /><span style="font-size: x-small;"><a
-      href="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/m_frssuche2c.htm" target="main">
-      <img alt="Karte Delta" border="0"
-      src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/Karte_D.gif" height="20"
-      name="Karte_D" width="87" /></a></span><br /><span style="font-size:
-      x-small;"><img alt="" border="0"
-      src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/leer1x1.gif" height="1" width="1"
-      /></span><br /><span style="font-size: x-small;"><img alt="" border="0"
-      src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/leer1x1.gif" height="20" width="1"
-      /></span><br /><span style="font-size: x-small;"><a
-      href="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/m_frssuche2a.htm" target="main">
-      <img alt="Karte Ägypten Nubien" border="0"
-      src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/Karte_AN.gif" height="20"
-      name="Karte_AN" width="87" /></a></span><br /><span style="font-size:
-      x-small;"><img alt="" border="0"
-      src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/leer1x1.gif" height="1" width="1"
-      /></span><br /><span style="font-size: x-small;"><img alt="" border="0"
-      src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/leer1x1.gif" height="20" width="1"
-      /></span><br /><span style="font-size: x-small;"><a
-      href="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/m_frssuche2b.htm" target="main">
-      <img alt="Könige" border="0"
-      src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/Koenige2.gif" height="20"
-      name="Koenige" width="87" /></a></span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
+   <title type="text">Monspaet-Datenbank des Instituts für Ägyptologieund Koptologie der Westfälischen Wilhelms-Universität Münster</title>
+   <content type="html"><![CDATA[<a href="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/index03.htm"><span style="font-size: small;"><span style="font-family: inherit;">Monspaet-Datenbank des Instituts für Ägyptologie und Koptologie der Westfälischen Wilhelms-Universität Münster</span></span></a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Untersuchung der (Tempel-) Bautätigkeit von legitimen Königen versus der von Usurpatoren anhand von Bauinschriften und erhaltenen Baudenkmälern (Ehemaliger Sonderforschungsbereich 493: Funktionen von Religion in antiken Gesellschaften des Vorderen Orients, Projekt C2/5)</span><br /><br /><span style="font-size: x-small;">Die Datenbank enthält Material zur Bautätigkeit der Könige der Spätzeit,  und, aber nur „en passant“ mitgenommen, auch weiteres Material, einige  Privatdenkmäler und funeräre Objekte von Königen. Abweichend vom  Gebrauch in der Literaturdatenbank wurden hier Leerstellen in  Suchbegriffen nicht durch „_“ gefüllt. Das Material kann auf drei verschiedene Weisen abgerufen werden.</span><br /><ol><li><span style="font-size: x-small;">Normale Suche über Suchmaske wie oben angedeutet.</span></li><li><span style="font-size: x-small;">Suche über zwei verschiedene (grobe selbstgestrickte) Karten von  Ägypten (Delta / Oberägypten und Nubien). Klickt man einen Ortsnamen an,  werden alle dort für das Thema relevanten Datensätze aufgerufen.</span></li><li><span style="font-size: x-small;">Suche nach Dynastien und Königen sowie Objekten aus dem Ausland. Es  gibt Listen von Dynastien und deren Königen mit Untergliederung nach  Ortsnamen. Königsnamen, die unter einem bestimmten Ortsnamen rot  erscheinen, können aufgerufen werden, worauf die von diesem dort  aufgefundenen Objekte zum Thema angezeigt werden.</span></li></ol><span style="font-size: x-small;"><br /></span><br /><span style="font-size: x-small;">Das Projekt hatte die Sammlung bzw. Aufarbeitung des relevanten (archäologischen) Materials in einer Datenbank zur Voraussetzung. Die bisher publizierten Listen von Denkmälern der Könige der Spätzeit sind (mit Ausnahme einer Liste von H. Jenni für Nektanebos (II.) von 1998) entweder veraltet (Kienitz für das 4. Jhdt.v.Chr. (28.-30. Dyn.) von 1953, Traunecker für die 29. Dyn. von 1979, Posener für die 27. Dyn. von 1936) bzw. eine Liste für die 26. Dyn. existiert gar nicht). Über die Tempel allein gibt es die neue Monographie von D. Arnold, The Tempels Of The Last Pharaohs, New York - Oxford 1999 (das Buch geht im betrachteten Zeitraum über den hier behandelten hinaus, insoweit es sowohl die 25. Dyn. als auch die ptolemäisch-römische Zeit umfasst). Allerdings liegt hier das Schwergewicht auf architektonischen Rekonstruktionen; Königen werden Bauten oft nur zugeschrieben ohne Diskussion der Belege.</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/m_frssuche0.htm" target="main">    <img alt="Standardsuche" border="0" src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/bustandard1.gif" height="20" name="bustandard1" width="87" /></a></span><br /><span style="font-size: x-small;"><img alt="" border="0" src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/leer1x1.gif" height="1" width="1" /></span><br /><span style="font-size: x-small;"><img alt="" border="0" src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/leer1x1.gif" height="20" width="1" /></span><br /><span style="font-size: x-small;"><a href="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/m_frssuche2c.htm" target="main">    <img alt="Karte Delta" border="0" src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/Karte_D.gif" height="20" name="Karte_D" width="87" /></a></span><br /><span style="font-size: x-small;"><img alt="" border="0" src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/leer1x1.gif" height="1" width="1" /></span><br /><span style="font-size: x-small;"><img alt="" border="0" src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/leer1x1.gif" height="20" width="1" /></span><br /><span style="font-size: x-small;"><a href="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/m_frssuche2a.htm" target="main">    <img alt="Karte Ägypten Nubien" border="0" src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/Karte_AN.gif" height="20" name="Karte_AN" width="87" /></a></span><br /><span style="font-size: x-small;"><img alt="" border="0" src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/leer1x1.gif" height="1" width="1" /></span><br /><span style="font-size: x-small;"><img alt="" border="0" src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/leer1x1.gif" height="20" width="1" /></span><br /><span style="font-size: x-small;"><a href="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/m_frssuche2b.htm" target="main">    <img alt="Könige" border="0" src="http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/img/Koenige2.gif" height="20" name="Koenige" width="87" /></a></span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/675729438826163211/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/675729438826163211/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/02/monspaet-datenbank-des-instituts-fur.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/675729438826163211"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/675729438826163211"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/02/monspaet-datenbank-des-instituts-fur.html"
          title="Monspaet-Datenbank des Instituts für Ägyptologieund Koptologie der Westfälischen Wilhelms-Universität Münster"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

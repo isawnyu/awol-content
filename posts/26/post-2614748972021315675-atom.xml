@@ -1,74 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2614748972021315675</id>
-    <published>2015-06-23T16:32:00.000-04:00</published>
-    <updated>2015-06-23T16:32:13.694-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2614748972021315675</id>
+   <published>2015-06-23T16:32:00.000-04:00</published>
+   <updated>2015-06-23T16:32:13.694-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="South Africa"/>
-    <title type="text">Open Access Monograph Series: Acta Classica Supplementary Volumes</title>
-    <content type="html"><![CDATA[<a href="http://www.casa-kvsa.org.za/supplementa.htm">Acta Classica
-      Supplementary Volumes</a><br /><blockquote class="tr_bq"><img
-      alt="http://www.casa-kvsa.org.za/Acta_Classica_copy.gif" class="transparent" height="50"
-      src="http://www.casa-kvsa.org.za/Acta_Classica_copy.gif" width="200"
-      /></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><span lang="en-za">Supplementum I: Atkinson, J. E. (1994) <em>A
-      Commentary on Q. Curtius Rufus' </em>Historia Alexandri Magni<em> Books 5 to 7.2.
-      </em>Amsterdam: Adolf M. Hakkert. [<a
-      href="http://www.casa-kvsa.org.za/Supplementum%20I%20Atkinson%20Commentary%20Curtius%20Rufus%201994.pdf">Download
-      full text</a>]</span><span
-      lang="en-za"></span>&nbsp;</span></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;"><span lang="en-za">Supplementum
-      II: Cilliers, L. (ed. 2008) <em>Asklepios: Studies on Ancient Medicine</em>.
-      Pretoria: V&amp;R Printing Works. [<a
-      href="http://www.casa-kvsa.org.za/SupplementumII.pdf">Download full
-      text</a>]</span></span></blockquote><blockquote> <span
-      style="font-size: x-small;"><span lang="en-za">Supplementum III: Bosman, P. R. (ed.
-      2009) <em>Mania: Madness in the Greco-Roman World</em>. Pretoria: V&amp;R
-      Printing Works. [<a href="http://www.casa-kvsa.org.za/SupplementumIII.pdf">Download full
-      text</a>]</span> </span></blockquote><blockquote> <div
-      class="MsoNormal"><span style="font-size: x-small;"><span
-      lang="en-za">Supplementum IV: Bosman, P. R. (ed. 2012), <em>Corruption and Integrity
-      in Ancient Greece and Rome. </em>Pretoria: V&amp;R Printing Works. [<a
-      href="http://www.casa-kvsa.org.za/Supplementum%20IV%20Corruption%20and%20Integrity.pdf">Download
-      full text</a>]</span></span></div></blockquote><div
-      style="text-align: center;"><span style="font-size: small;"><span>See AWOL's
-      <a
-      href="http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html">Alphabetical
-      List of Open Access Monograph Series in Ancient
-      Studies</a></span>&nbsp;</span></div><div style="text-align:
-      center;"><br /></div><div style="text-align: center;">And see also <a
-      href="http://ancientworldonline.blogspot.com/2013/12/open-accesss-journal-acta-classica.html">Acta
-      Classica: Proceedings of the Classical Association of South
-      Africa</a></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="South Africa"/>
+   <title type="text">Open Access Monograph Series: Acta Classica Supplementary Volumes</title>
+   <content type="html"><![CDATA[<a href="http://www.casa-kvsa.org.za/supplementa.htm">Acta Classica Supplementary Volumes</a><br /><blockquote class="tr_bq"><img alt="http://www.casa-kvsa.org.za/Acta_Classica_copy.gif" class="transparent" height="50" src="http://www.casa-kvsa.org.za/Acta_Classica_copy.gif" width="200" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><span lang="en-za">Supplementum I: Atkinson, J. E.  		(1994) <em>A Commentary on Q. Curtius Rufus' </em>Historia Alexandri  		Magni<em> Books 5 to 7.2. </em>Amsterdam: Adolf M. Hakkert. [<a href="http://www.casa-kvsa.org.za/Supplementum%20I%20Atkinson%20Commentary%20Curtius%20Rufus%201994.pdf">Download  		full text</a>]</span><span lang="en-za"></span>&nbsp;</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><span lang="en-za">Supplementum II: Cilliers, L.  		(ed. 2008) <em>Asklepios: Studies on Ancient Medicine</em>. Pretoria:  		V&amp;R Printing Works. [<a href="http://www.casa-kvsa.org.za/SupplementumII.pdf">Download full text</a>]</span></span></blockquote><blockquote>		<span style="font-size: x-small;"><span lang="en-za">Supplementum III: Bosman, P. R.  		(ed. 2009) <em>Mania: Madness in the Greco-Roman World</em>. Pretoria:  		V&amp;R Printing Works. [<a href="http://www.casa-kvsa.org.za/SupplementumIII.pdf">Download full text</a>]</span> </span></blockquote><blockquote>		<div class="MsoNormal"><span style="font-size: x-small;"><span lang="en-za">Supplementum IV: Bosman, P. R.  		(ed. 2012), <em>Corruption and Integrity in Ancient Greece and Rome. 		</em>Pretoria: V&amp;R Printing Works. [<a href="http://www.casa-kvsa.org.za/Supplementum%20IV%20Corruption%20and%20Integrity.pdf">Download  		full text</a>]</span></span></div></blockquote><div style="text-align: center;"><span style="font-size: small;"><span>See AWOL's <a href="http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html">Alphabetical List of Open Access Monograph Series in Ancient Studies</a></span>&nbsp;</span></div><div style="text-align: center;"><br /></div><div style="text-align: center;">And see also <a href="http://ancientworldonline.blogspot.com/2013/12/open-accesss-journal-acta-classica.html">Acta Classica: Proceedings of the Classical 		Association of South Africa</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2614748972021315675/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2614748972021315675/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/06/open-access-monograph-series-acta.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2614748972021315675"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2614748972021315675"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/06/open-access-monograph-series-acta.html"
          title="Open Access Monograph Series: Acta Classica Supplementary Volumes"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

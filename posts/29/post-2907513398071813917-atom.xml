@@ -1,95 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2907513398071813917</id>
-    <published>2012-04-11T08:19:00.000-04:00</published>
-    <updated>2012-04-11T08:19:01.666-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2907513398071813917</id>
+   <published>2012-04-11T08:19:00.000-04:00</published>
+   <updated>2012-04-11T08:19:01.666-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
-    <title type="text">Roman Imperial Coinage AD 268-276</title>
-    <content type="html"><![CDATA[<a href="http://www.ric.mom.fr/en/home">Monnaies de l’Empire Romain AD
-      268-276 - Roman Imperial Coinage AD 268-276</a><br /><blockquote
-      class="tr_bq"><img src="http://www.ric.mom.fr/tpl/ric/img/haut.gif"
-      /></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Ce site web constitue le préalable à la révision du volume V.1 du
-      </span><span class="ital" style="font-size: x-small;"><a
-      href="http://www.ric.mom.fr/tpl/ric/popup/present-pop1.htm" target="wclose">Roman Imperial
-      Coinage</a></span><span style="font-size: x-small;">. La <a
-      href="http://www.ric.mom.fr/tpl/ric/popup/present-pop2.htm" target="wclose">base de
-      données</a> présentée ici concerne les règnes de 268 à 276 de n. è., soit les règnes de
-      Claude II le Gothique, Quintille, Aurélien, Tacite, Florien, ainsi que le monnayage des princes
-      de Palmyre, Vabalath et Zénobie, émis par l’atelier impérial d’Antioche. La période couvre
-      ainsi une phase importante de la «crise du III</span><span class="expo"
-      style="font-size: x-small;">e </span><span style="font-size: x-small;"> siècle»
-      que vit l’Empire romain, des règnes qui en symbolisent le mieux le point le plus critique
-      (Claude II) à ceux qui opèrent la nécessaire reprise en main (Aurélien et ses
-      successeurs).</span><br /><span style="font-size: x-small;"><br
-      /></span><br /><span style="font-size: x-small;">Les compléments ou
-      corrections que nous en espérons de la part de la collectivité scientifique nous permettra de
-      viser à une meilleure exhaustivité pour le corpus papier en préparation (</span><span
-      class="ital" style="font-size: x-small;">RIC</span><span style="font-size:
-      x-small;"> V.1/2), un objectif qu’il est particulièrement ardu d’atteindre pour cette
-      période d’inflation de la frappe monétaire et de diversification de son appareil de
-      production.</span><br /><span style="font-size: x-small;"><br
-      /></span><br /><span style="font-size: x-small;">La <a
-      href="http://www.ric.mom.fr/tpl/ric/popup/present-pop3.htm"
-      target="wclose">documentation</a> rassemblée ici est basée au premier chef sur les 12
-      principales collections institutionnelles de référence (Paris, Londres, Oxford, Vienne,
-      Copenhague, Milan, Budapest, Munich, Bruxelles, Cambridge, Berlin, New York) qui ont été
-      étudiées et numérisées exhaustivement grâce à l’accord de leurs conservateurs. Qu’ils en soient
-      ici chaleureusement remerciés : sans eux, ce travail n’aurait pu voir le jour.
-      </span><br /><span style="font-size: x-small;"><br
-      /></span><br /><span style="font-size: x-small;">La base de données compte
-      à l’heure actuelle plus de </span><span class="exergue" style="font-size:
-      x-small;">4540</span><span style="font-size: x-small;"> <a
-      href="http://www.ric.mom.fr/tpl/ric/popup/present-pop4.htm"
-      target="wclose">entrées</a>, basées sur </span><span class="exergue"
-      style="font-size: x-small;">104 000</span><span style="font-size: x-small;">
-      monnaies et plus de </span><span class="exergue" style="font-size: x-small;">80
-      000</span><span style="font-size: x-small;"> photographies
-      numériques.</span><br /><span style="font-size: x-small;"><br
-      /></span><br /><span style="font-size: x-small;">Le projet est financé
-      depuis 2004 par des programmes CNRS (GDR, PICS Nummi et Cimelia) ou ANR (ANR MONetA) dont
-      Sylviane Estiot est responsable.</span><br /><ul class="elargi"
-      id="menu_HGauche"><li><span style="font-size: xx-small;"><a
-      href="http://www.ric.mom.fr/fr/home">Accueil</a></span></li><li><span
-      style="font-size: xx-small;"><a href="http://www.ric.mom.fr/fr/search">Base de
-      données</a></span></li><li><span style="font-size:
-      xx-small;"><a
-      href="http://www.ric.mom.fr/fr/info/hist">Histoire</a></span></li><li><span
-      style="font-size: xx-small;"><a href="http://www.ric.mom.fr/fr/info/sysmon">Syst.
-      monétaire</a></span></li><li><span style="font-size:
-      xx-small;"><a
-      href="http://www.ric.mom.fr/fr/info/map">Carte</a></span></li><li>
-      <span style="font-size: xx-small;"><a href="http://www.ric.mom.fr/fr/purse"> Bourse
-      </a></span></li></ul></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
+   <title type="text">Roman Imperial Coinage AD 268-276</title>
+   <content type="html"><![CDATA[<a href="http://www.ric.mom.fr/en/home">Monnaies de l’Empire Romain AD 268-276 - Roman Imperial Coinage AD 268-276</a><br /><blockquote class="tr_bq"><img src="http://www.ric.mom.fr/tpl/ric/img/haut.gif" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Ce site web constitue le préalable à la révision du volume V.1 du </span><span class="ital" style="font-size: x-small;"><a href="http://www.ric.mom.fr/tpl/ric/popup/present-pop1.htm" target="wclose">Roman Imperial Coinage</a></span><span style="font-size: x-small;">. La <a href="http://www.ric.mom.fr/tpl/ric/popup/present-pop2.htm" target="wclose">base de données</a>  présentée ici concerne les règnes de 268 à 276 de  n. è., soit les règnes de Claude II le Gothique, Quintille, Aurélien,  Tacite, Florien, ainsi que le monnayage des princes de Palmyre, Vabalath  et Zénobie, émis par l’atelier impérial d’Antioche. La période couvre  ainsi une phase importante de la «crise du III</span><span class="expo" style="font-size: x-small;">e </span><span style="font-size: x-small;"> siècle» que vit l’Empire romain, des règnes qui en symbolisent le mieux  le point le plus critique (Claude II) à ceux qui opèrent la nécessaire  reprise en main (Aurélien et ses successeurs).</span><br /><span style="font-size: x-small;"><br /></span><br /><span style="font-size: x-small;">Les compléments ou corrections que nous en espérons de la part de la  collectivité scientifique nous permettra de viser à une meilleure  exhaustivité pour le corpus papier en préparation (</span><span class="ital" style="font-size: x-small;">RIC</span><span style="font-size: x-small;"> V.1/2), un objectif qu’il est particulièrement ardu d’atteindre pour  cette période d’inflation de la frappe monétaire et de diversification  de son appareil de production.</span><br /><span style="font-size: x-small;"><br /></span><br /><span style="font-size: x-small;">La <a href="http://www.ric.mom.fr/tpl/ric/popup/present-pop3.htm" target="wclose">documentation</a> rassemblée ici est basée au premier chef sur les 12 principales  collections institutionnelles de référence (Paris, Londres, Oxford,  Vienne, Copenhague, Milan, Budapest, Munich, Bruxelles, Cambridge,  Berlin, New York) qui ont été étudiées et numérisées exhaustivement  grâce à l’accord de leurs conservateurs. Qu’ils en soient ici  chaleureusement remerciés : sans eux, ce travail n’aurait pu voir le  jour. </span><br /><span style="font-size: x-small;"><br /></span><br /><span style="font-size: x-small;">La base de données compte à l’heure actuelle plus de </span><span class="exergue" style="font-size: x-small;">4540</span><span style="font-size: x-small;"> <a href="http://www.ric.mom.fr/tpl/ric/popup/present-pop4.htm" target="wclose">entrées</a>, basées sur </span><span class="exergue" style="font-size: x-small;">104 000</span><span style="font-size: x-small;"> monnaies et plus de </span><span class="exergue" style="font-size: x-small;">80 000</span><span style="font-size: x-small;"> photographies numériques.</span><br /><span style="font-size: x-small;"><br /></span><br /><span style="font-size: x-small;">Le projet est financé depuis 2004 par des programmes CNRS (GDR, PICS  Nummi et Cimelia) ou ANR (ANR MONetA) dont Sylviane Estiot est  responsable.</span><br /><ul class="elargi" id="menu_HGauche"><li><span style="font-size: xx-small;"><a href="http://www.ric.mom.fr/fr/home">Accueil</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.ric.mom.fr/fr/search">Base de données</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.ric.mom.fr/fr/info/hist">Histoire</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.ric.mom.fr/fr/info/sysmon">Syst. monétaire</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.ric.mom.fr/fr/info/map">Carte</a></span></li><li>       <span style="font-size: xx-small;"><a href="http://www.ric.mom.fr/fr/purse">       Bourse  </a></span></li></ul></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2907513398071813917/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2907513398071813917/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/04/roman-imperial-coinage-ad-268-276.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2907513398071813917"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2907513398071813917"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/04/roman-imperial-coinage-ad-268-276.html"
          title="Roman Imperial Coinage AD 268-276"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

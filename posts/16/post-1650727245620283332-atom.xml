@@ -1,79 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1650727245620283332</id>
-    <published>2014-10-24T15:30:00.000-04:00</published>
-    <updated>2014-10-24T15:30:02.802-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1650727245620283332</id>
+   <published>2014-10-24T15:30:00.000-04:00</published>
+   <updated>2014-10-24T15:30:02.802-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Macedonia"/>
-    <title type="text">In­schrif­ten von Philippi im Bild</title>
-    <content type="html"><![CDATA[<span><a
-      href="http://www.philippoi.de/projekt.php">In­schrif­ten von Philippi im
-      Bild</a></span><br /><blockquote class="tr_bq"><img
-      alt="http://www.philippoi.de/images/titelstein.gif" class="decoded" height="84"
-      src="http://www.philippoi.de/images/titelstein.gif" width="320"
-      /></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Auf dieser Seite werden die Bilder der In­schrif­ten von Philippi (Ma­ke­do­nien)
-      allen In­ter­ess­ier­ten zugäng­lich ge­macht. Die Tex­te der grie­chi­schen und
-      la­tei­ni­schen In­schrif­ten wur­den im Jahr 2000 in dem "Ka­ta­log der In­schrif­ten von
-      Phil­ip­pi" (vgl. das Li­te­ra­tur­ver­zeich­nis) erst­mals in einem Band zu­sam­men­ge­stellt.
-      Aus Um­fangs- wie aus Ko­sten­grün­den war nie­mals ge­plant, die­sem Band auch
-      Pho­to­gra­phien bei­zu­ge­ben. Im Zu­ge meiner Be­ru­fungs­ver­hand­lun­gen an der
-      Fried­rich-Alex­ander-Uni­ver­sität Er­lan­gen-Nürn­berg hat der Kanz­ler dieser Uni­versi­tät,
-      Herr Tho­mas A. H. Schöck, Mit­tel be­wil­ligt, die die An­stel­lung einer Hilfs­kraft für drei
-      Jah­re er­mög­li­chen, um die Phil­ip­pi-Dias zu scan­nen und ins Netz zu stel­len. Ihm gilt
-      da­her mein be­son­derer Dank. Mein Dank gilt so­dann mei­nem Mit­ar­beit­er, Herrn Hol­ger
-      Ibisch, der sich be­reit­wil­lig und ein­ge­hend mit der Hard- und Soft­ware ver­traut ge­macht
-      hat, die er­for­der­lich ist, um eine solche In­ter­net-Sei­te zu ge­stal­ten. Er wur­de
-      un­terstützt von Herrn Björn Nord­gauer, der die Da­ten­bank ent­wor­fen und pro­gra­mmiert
-      hat. Auch ihm dan­ke ich herz­lich.</span><br /><span style="font-size:
-      x-small;"><br /></span><span style="font-size: x-small;"><a
-      href="http://www.philippoi.de/projekt.php"><img alt="Das Projekt" border="0" height="32"
-      src="http://www.philippoi.de/images/button_01.gif" title="Das Projekt" width="100"
-      /></a><a href="http://www.philippoi.de/sammlung.php"><img alt="Der Aufbau
-      dieser Sammlung" border="0" height="32" src="http://www.philippoi.de/images/button_02.gif"
-      title="Der Aufbau dieser Sammlung" width="100" /></a><a
-      href="http://www.philippoi.de/vorgeschichte.php"><img alt="Die Vorgeschichte" border="0"
-      height="32" src="http://www.philippoi.de/images/button_03.gif" title="Die Vorgeschichte"
-      width="145" /></a><a href="http://www.philippoi.de/literatur.php"><img
-      alt="Die Literatur" border="0" height="32" src="http://www.philippoi.de/images/button_04.gif"
-      title="Die Literatur" width="108" /></a><a
-      href="http://www.philippoi.de/inschriften.php"><img alt="Die Inschriften" border="0"
-      height="32" src="http://www.philippoi.de/images/button_05.gif" title="Die Inschriften"
-      width="120" /></a><a href="http://www.philippoi.de/neue_inschriften.php"><img
-      alt="Neue Inschriften" border="0" height="32"
-      src="http://www.philippoi.de/images/button_06.gif" title="Neue Inschriften" width="137"
-      /></a></span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Macedonia"/>
+   <title type="text">In­schrif­ten von Philippi im Bild</title>
+   <content type="html"><![CDATA[<span><a href="http://www.philippoi.de/projekt.php">In­schrif­ten   von Philippi im Bild</a></span><br /><blockquote class="tr_bq"><img alt="http://www.philippoi.de/images/titelstein.gif" class="decoded" height="84" src="http://www.philippoi.de/images/titelstein.gif" width="320" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Auf dieser Seite werden die Bilder der In­schrif­ten    von Philippi (Ma­ke­do­nien) allen In­ter­ess­ier­ten zugäng­lich    ge­macht. Die Tex­te der grie­chi­schen und la­tei­ni­schen    In­schrif­ten wur­den im Jahr 2000 in dem "Ka­ta­log der In­schrif­ten    von Phil­ip­pi" (vgl. das Li­te­ra­tur­ver­zeich­nis) erst­mals in einem    Band zu­sam­men­ge­stellt. Aus Um­fangs- wie aus Ko­sten­grün­den war    nie­mals ge­plant, die­sem Band auch Pho­to­gra­phien bei­zu­ge­ben.    Im Zu­ge meiner Be­ru­fungs­ver­hand­lun­gen an der Fried­rich-Alex­ander-Uni­ver­sität    Er­lan­gen-Nürn­berg hat der Kanz­ler dieser Uni­versi­tät,    Herr Tho­mas A. H. Schöck, Mit­tel be­wil­ligt,    die die An­stel­lung einer Hilfs­kraft für drei Jah­re er­mög­li­chen,    um die Phil­ip­pi-Dias zu scan­nen und ins Netz zu stel­len.    Ihm gilt da­her mein be­son­derer Dank. Mein Dank gilt so­dann    mei­nem Mit­ar­beit­er, Herrn Hol­ger Ibisch, der sich be­reit­wil­lig und    ein­ge­hend mit der Hard- und Soft­ware ver­traut ge­macht hat,    die er­for­der­lich ist, um eine solche In­ter­net-Sei­te zu ge­stal­ten.    Er wur­de un­terstützt von Herrn Björn Nord­gauer, der die Da­ten­bank    ent­wor­fen und pro­gra­mmiert hat. Auch ihm dan­ke ich herz­lich.</span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://www.philippoi.de/projekt.php"><img alt="Das Projekt" border="0" height="32" src="http://www.philippoi.de/images/button_01.gif" title="Das Projekt" width="100" /></a><a href="http://www.philippoi.de/sammlung.php"><img alt="Der Aufbau dieser Sammlung" border="0" height="32" src="http://www.philippoi.de/images/button_02.gif" title="Der Aufbau dieser Sammlung" width="100" /></a><a href="http://www.philippoi.de/vorgeschichte.php"><img alt="Die Vorgeschichte" border="0" height="32" src="http://www.philippoi.de/images/button_03.gif" title="Die Vorgeschichte" width="145" /></a><a href="http://www.philippoi.de/literatur.php"><img alt="Die Literatur" border="0" height="32" src="http://www.philippoi.de/images/button_04.gif" title="Die Literatur" width="108" /></a><a href="http://www.philippoi.de/inschriften.php"><img alt="Die Inschriften" border="0" height="32" src="http://www.philippoi.de/images/button_05.gif" title="Die Inschriften" width="120" /></a><a href="http://www.philippoi.de/neue_inschriften.php"><img alt="Neue Inschriften" border="0" height="32" src="http://www.philippoi.de/images/button_06.gif" title="Neue Inschriften" width="137" /></a></span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1650727245620283332/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1650727245620283332/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/inschriften-von-philippi-im-bild.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1650727245620283332"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1650727245620283332"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/inschriften-von-philippi-im-bild.html"
          title="In­schrif­ten von Philippi im Bild"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

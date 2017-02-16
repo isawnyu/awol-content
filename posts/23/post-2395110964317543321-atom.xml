@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2395110964317543321</id>
+   <published>2016-08-17T15:44:00.000-04:00</published>
+   <updated>2016-08-17T15:44:36.324-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Crowd Source"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Imaging"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
+   <title type="text">Micropasts: Photo-masking an Egyptian sarcophagus</title>
+   <content type="html"><![CDATA[<a href="http://crowdsourced.micropasts.org/project/MummyMes/">Micropasts:<strong> </strong>Photo-masking an Egyptian sarcophagus</a><br /><blockquote class="tr_bq"><img class="img-circle" id="" src="http://crowdsourced.micropasts.org/uploads/user_1204/project_327_thumbnail_1471369519.png" style="max-width: 60px;" width="" />&nbsp;</blockquote><blockquote class="tr_bq">T<span style="font-size: x-small;">his application enables the creation of a high quality 3D model of an archaeological artifact via process known as photo-masking. There has been a revolution in 3D modeling in recent years and it is now relatively easy to construct such models from ordinary digital photographs. Isolating the object depicted in these photographs, and masking out the background, is an important first step to achieving high quality results.</span><br /><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">This particular photo-masking application is an experiment as we are  attempting to model an Egyptian sarcophagus on display at the Denver  Museum of Nature &amp; Science (DMNS). The sarcophagus on permanent loan  to DMNS from the Rosemont Museum in Pueblo, CO.</span><br /><span style="font-size: x-small;"> </span><h3><span style="font-size: x-small;">What we want you to do</span></h3><span style="font-size: x-small;"> </span><span style="font-size: x-small;">We would like people to draw a polygon around the object that they see in each photograph in order to identify its outline and exclude the image background. This allows the 3D modeling process to concentrate on the object itself and ignore irrelevant background information.</span><br /><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">If you are interested in what our 3D completed models look like, please have a look <a href="https://sketchfab.com/micropasts">at our Sketchfab profile</a>.</span></blockquote><blockquote class="tr_bq">&nbsp;<a href="http://crowdsourced.micropasts.org/project/MummyMes/">Micropasts:<strong> </strong>Photo-masking an Egyptian sarcophagus</a></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/2395110964317543321/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/08/micropasts-photo-masking-egyptian.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/2395110964317543321"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/2395110964317543321"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/08/micropasts-photo-masking-egyptian.html"
+         title="Micropasts: Photo-masking an Egyptian sarcophagus"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

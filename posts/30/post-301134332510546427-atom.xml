@@ -1,112 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-301134332510546427</id>
-    <published>2014-11-22T11:04:00.000-05:00</published>
-    <updated>2014-11-22T11:04:42.129-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-301134332510546427</id>
+   <published>2014-11-22T11:04:00.000-05:00</published>
+   <updated>2014-11-22T11:04:42.129-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">ASCSA Digital Collections</title>
-    <content type="html"><![CDATA[<a href="http://ascsa.net/">ASCSA Digital Collections</a> <br
-      /><div class="text" id="Introduction"><blockquote class="tr_bq"><span
-      style="font-size: x-small;">Explore the collections of the American School of Classical
-      Studies by using the sidebar on the left or the search box above.</span><br />
-      <span style="font-size: x-small;">To confine your search to a single collection, click on
-      one of the links below.</span><br /> <span style="font-size:
-      x-small;"><strong>Libraries</strong></span><br /> <span
-      style="font-size: x-small;"><a href="http://ambrosia.ascsa.net/research?v=list"
-      title="Ambrosia">Ambrosia: Union Catalog of Libraries</a></span><br />
-      <span style="font-size:
-      x-small;"><strong>Excavations</strong></span><br /> <span
-      style="font-size: x-small;"><a href="http://corinth.ascsa.net/research?v=list"
-      title="Corinth Excavations">Corinth Excavations</a></span><br /> <span
-      style="font-size: x-small;"><a href="http://agora.ascsa.net/research?v=list"
-      title="Athenian Agora Excavations">Athenian Agora Excavations</a></span><br
-      /> <span style="font-size:
-      x-small;"><strong>Archives</strong></span><br /> <span
-      style="font-size: x-small;"><a href="http://frantz.ascsa.net/research?v=icons"
-      title="Alison Frantz Photographic Collection">Alison Frantz
-      Photography</a></span><br /> <span style="font-size: x-small;"><a
-      href="http://thompson.ascsa.net/research?v=icons" title="Dorothy Burr Thompson Photographic
-      Collection">Dorothy Burr Thompson Photography</a></span><br /> <span
-      style="font-size: x-small;"><a href="http://apc.ascsa.net/research?v=icons"
-      title="Archaeological Photographic Collection">Archaeological Photographic
-      Collection</a></span><br /> <span style="font-size: x-small;"><a
-      href="http://disjecta.ascsa.net/research?v=icons" title="Photographs from the Historical
-      Archives">Photographs from the Historical Archives</a></span><br />
-      <span style="font-size: x-small;"><a href="http://dragoumis.ascsa.net/research?v=list"
-      title="Ion Dragoumis Correspondence Collection">Ion Dragoumis
-      Correspondence</a></span><br /> <span style="font-size:
-      x-small;"><br /></span> <div style="line-height: 1.4em;"><span
-      style="font-size: x-small;">Sign in to view unpublished material. Material that has been
-      published is made completely available to the public. Material that is unpublished can be
-      viewed only by researchers who have obtained the necessary permission to study the material in
-      person.</span></div></blockquote><blockquote class="tr_bq"><div
-      class="link"><span style="font-size: x-small;"><a
-      href="http://ascsa.net/research">Everything</a>&nbsp;<span
-      class="count">(759,906)</span></span></div><div
-      class="link"><span style="font-size: x-small;"><a
-      href="http://ascsa.net/research?q=;t=publication">Publications</a>&nbsp;<span
-      class="count">(242,946)</span></span></div><div
-      class="link"><span style="font-size: x-small;"><a
-      href="http://ascsa.net/research?q=;t=report">Reports</a>&nbsp;<span
-      class="count">(68)</span></span></div><div class="link"><span
-      style="font-size: x-small;"><a
-      href="http://ascsa.net/research?q=;t=letter">Letters</a>&nbsp;<span
-      class="count">(2,823)</span></span></div><div class="link"><span
-      style="font-size: x-small;"><a href="http://ascsa.net/research?q=;t=monument">Places
-      and Monuments</a>&nbsp;<span
-      class="count">(345)</span></span></div><div class="link"><span
-      style="font-size: x-small;"><a href="http://ascsa.net/research?q=;t=drawing">Plans and
-      Drawings</a>&nbsp;<span
-      class="count">(14,148)</span></span></div><div class="link"><span
-      style="font-size: x-small;"><a
-      href="http://ascsa.net/research?q=;t=image">Images</a>&nbsp;<span
-      class="count">(207,696)</span></span></div><div
-      class="link"><span style="font-size: x-small;"><a
-      href="http://ascsa.net/research?q=;t=object">Objects</a>&nbsp;<span
-      class="count">(100,558)</span></span></div><div class="link"
-      id="slideFacetControl" style="display: block; padding-top: 0.4em;"><span
-      style="font-size: x-small;"><a href="https://www.blogger.com/null"><img alt="down"
-      border="0" height="16" id="slideFacetImage" src="http://ascsa.net/Icons/agTable/agTableSD.png"
-      style="padding: 0px 0.6em 0px 0px; vertical-align: text-bottom;" width="16" /><span
-      id="slideFacetText">More</span></a></span></div><div
-      class="linkGroup"><div class="linkHeader"><span style="font-size: x-small;">View
-      as</span></div><div class="link"><span style="font-size:
-      x-small;"><a
-      href="http://ascsa.net/research?q=&amp;t=&amp;sort=&amp;v=list">List</a></span></div><div
-      class="link"><span style="font-size: x-small;"><a
-      href="http://ascsa.net/research?q=&amp;t=&amp;sort=&amp;v=icons">Icons</a></span></div><div
-      class="link"><span style="font-size: x-small;"><a
-      href="http://ascsa.net/research?q=&amp;t=&amp;sort=&amp;v=table">Table</a></span></div><div
-      class="link"><span style="font-size: x-small;"><a
-      href="http://ascsa.net/research?q=&amp;t=&amp;sort=&amp;v=map">Map</a></span></div></div></blockquote></div>]]></content>
-    <link rel="replies"
+   <title type="text">ASCSA Digital Collections</title>
+   <content type="html"><![CDATA[<a href="http://ascsa.net/">ASCSA Digital Collections</a>     <br /><div class="text" id="Introduction"><blockquote class="tr_bq"><span style="font-size: x-small;">Explore the collections of the American School of Classical Studies by using the sidebar on the left or the search box above.</span><br />      <span style="font-size: x-small;">To confine your search to a single collection, click on one of the links below.</span><br />      <span style="font-size: x-small;"><strong>Libraries</strong></span><br />            <span style="font-size: x-small;"><a href="http://ambrosia.ascsa.net/research?v=list" title="Ambrosia">Ambrosia: Union Catalog of Libraries</a></span><br />      <span style="font-size: x-small;"><strong>Excavations</strong></span><br />      <span style="font-size: x-small;"><a href="http://corinth.ascsa.net/research?v=list" title="Corinth Excavations">Corinth Excavations</a></span><br />      <span style="font-size: x-small;"><a href="http://agora.ascsa.net/research?v=list" title="Athenian Agora Excavations">Athenian Agora Excavations</a></span><br />      <span style="font-size: x-small;"><strong>Archives</strong></span><br />      <span style="font-size: x-small;"><a href="http://frantz.ascsa.net/research?v=icons" title="Alison Frantz Photographic Collection">Alison Frantz Photography</a></span><br />      <span style="font-size: x-small;"><a href="http://thompson.ascsa.net/research?v=icons" title="Dorothy Burr Thompson Photographic Collection">Dorothy Burr Thompson Photography</a></span><br />      <span style="font-size: x-small;"><a href="http://apc.ascsa.net/research?v=icons" title="Archaeological Photographic Collection">Archaeological Photographic Collection</a></span><br />      <span style="font-size: x-small;"><a href="http://disjecta.ascsa.net/research?v=icons" title="Photographs from the Historical Archives">Photographs from the Historical Archives</a></span><br />      <span style="font-size: x-small;"><a href="http://dragoumis.ascsa.net/research?v=list" title="Ion Dragoumis Correspondence Collection">Ion Dragoumis Correspondence</a></span><br />      <span style="font-size: x-small;"><br /></span> <div style="line-height: 1.4em;"><span style="font-size: x-small;">Sign in to view  unpublished material. Material that has been published is made  completely available to the public. Material that is unpublished can be  viewed only by researchers who have obtained the necessary permission to  study the material in person.</span></div></blockquote><blockquote class="tr_bq"><div class="link"><span style="font-size: x-small;"><a href="http://ascsa.net/research">Everything</a>&nbsp;<span class="count">(759,906)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://ascsa.net/research?q=;t=publication">Publications</a>&nbsp;<span class="count">(242,946)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://ascsa.net/research?q=;t=report">Reports</a>&nbsp;<span class="count">(68)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://ascsa.net/research?q=;t=letter">Letters</a>&nbsp;<span class="count">(2,823)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://ascsa.net/research?q=;t=monument">Places and Monuments</a>&nbsp;<span class="count">(345)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://ascsa.net/research?q=;t=drawing">Plans and Drawings</a>&nbsp;<span class="count">(14,148)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://ascsa.net/research?q=;t=image">Images</a>&nbsp;<span class="count">(207,696)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://ascsa.net/research?q=;t=object">Objects</a>&nbsp;<span class="count">(100,558)</span></span></div><div class="link" id="slideFacetControl" style="display: block; padding-top: 0.4em;"><span style="font-size: x-small;"><a href="https://www.blogger.com/null"><img alt="down" border="0" height="16" id="slideFacetImage" src="http://ascsa.net/Icons/agTable/agTableSD.png" style="padding: 0px 0.6em 0px 0px; vertical-align: text-bottom;" width="16" /><span id="slideFacetText">More</span></a></span></div><div class="linkGroup"><div class="linkHeader"><span style="font-size: x-small;">View as</span></div><div class="link"><span style="font-size: x-small;"><a href="http://ascsa.net/research?q=&amp;t=&amp;sort=&amp;v=list">List</a></span></div><div class="link"><span style="font-size: x-small;"><a href="http://ascsa.net/research?q=&amp;t=&amp;sort=&amp;v=icons">Icons</a></span></div><div class="link"><span style="font-size: x-small;"><a href="http://ascsa.net/research?q=&amp;t=&amp;sort=&amp;v=table">Table</a></span></div><div class="link"><span style="font-size: x-small;"><a href="http://ascsa.net/research?q=&amp;t=&amp;sort=&amp;v=map">Map</a></span></div></div></blockquote></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/301134332510546427/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/301134332510546427/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/ascsa-digital-collections.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/301134332510546427"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/301134332510546427"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/ascsa-digital-collections.html"
          title="ASCSA Digital Collections"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

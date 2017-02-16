@@ -1,65 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4609486013349040248</id>
-    <published>2009-10-23T09:01:00.000-04:00</published>
-    <updated>2012-07-02T14:56:41.025-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4609486013349040248</id>
+   <published>2009-10-23T09:01:00.000-04:00</published>
+   <updated>2012-07-02T14:56:41.025-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journals from InterClassica</title>
-    <content type="html"><![CDATA[<a href="http://revistas.um.es/"></a><a
-      href="http://interclassica.um.es/index.php/interclassica/investigacion/hemeroteca"><span
-      class="leyendaRevistas" style="margin-left: 10px;">Revistas digitalizadas por
-      InterClassica</span></a><br /><ul><li
-      class="revistaDigitalizada"><a class="rojonor"
-      href="http://interclassica.um.es/investigacion/hemeroteca/antigueedad_y_cristianismo">Antigüedad
-      y Cristianismo</a></li><li class="revistaDigitalizada"><a class="rojonor"
-      href="http://interclassica.um.es/investigacion/hemeroteca/cuadernos_de_arquitectura_romana">Cuadernos
-      de Arquitectura Romana</a></li><li class="revistaDigitalizada"><a
-      class="rojonor"
-      href="http://interclassica.um.es/investigacion/hemeroteca/cuadernos_de_la_fundacion_pastor">Cuadernos
-      de la Fundación Pastor</a></li><li class="revistaDigitalizada"><a
-      class="rojonor"
-      href="http://interclassica.um.es/investigacion/hemeroteca/erytheia">Erytheia</a></li><li
-      class="revistaDigitalizada"><a class="rojonor"
-      href="http://interclassica.um.es/investigacion/hemeroteca/estudios_clasicos">Estudios
-      Clásicos</a></li><li class="revistaDigitalizada"><a class="rojonor"
-      href="http://interclassica.um.es/investigacion/hemeroteca/estudios_orientales">Estudios
-      Orientales</a></li><li class="revistaDigitalizada"><a class="rojonor"
-      href="http://interclassica.um.es/investigacion/hemeroteca/myrtia">Myrtia</a></li></ul><div
-      style="text-align: center;"><a
-      href="http://draft.blogger.com/goog_1202137405"></a>See the full <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div><ul></ul>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journals from InterClassica</title>
+   <content type="html"><![CDATA[<a href="http://revistas.um.es/"></a><a href="http://interclassica.um.es/index.php/interclassica/investigacion/hemeroteca"><span class="leyendaRevistas" style="margin-left: 10px;">Revistas digitalizadas por InterClassica</span></a><br /><ul><li class="revistaDigitalizada"><a class="rojonor" href="http://interclassica.um.es/investigacion/hemeroteca/antigueedad_y_cristianismo">Antigüedad y Cristianismo</a></li><li class="revistaDigitalizada"><a class="rojonor" href="http://interclassica.um.es/investigacion/hemeroteca/cuadernos_de_arquitectura_romana">Cuadernos de Arquitectura Romana</a></li><li class="revistaDigitalizada"><a class="rojonor" href="http://interclassica.um.es/investigacion/hemeroteca/cuadernos_de_la_fundacion_pastor">Cuadernos de la Fundación Pastor</a></li><li class="revistaDigitalizada"><a class="rojonor" href="http://interclassica.um.es/investigacion/hemeroteca/erytheia">Erytheia</a></li><li class="revistaDigitalizada"><a class="rojonor" href="http://interclassica.um.es/investigacion/hemeroteca/estudios_clasicos">Estudios Clásicos</a></li><li class="revistaDigitalizada"><a class="rojonor" href="http://interclassica.um.es/investigacion/hemeroteca/estudios_orientales">Estudios Orientales</a></li><li class="revistaDigitalizada"><a class="rojonor" href="http://interclassica.um.es/investigacion/hemeroteca/myrtia">Myrtia</a></li></ul><div style="text-align: center;"><a href="http://draft.blogger.com/goog_1202137405"></a>See the full <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></div><ul></ul>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4609486013349040248/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4609486013349040248/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/10/open-access-journals-from-universidad.html#comment-form"
          title="1 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4609486013349040248"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4609486013349040248"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/10/open-access-journals-from-universidad.html"
          title="Open Access Journals from InterClassica"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

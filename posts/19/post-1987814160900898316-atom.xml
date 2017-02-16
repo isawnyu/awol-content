@@ -1,146 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1987814160900898316</id>
-    <published>2014-02-28T06:08:00.001-05:00</published>
-    <updated>2014-02-28T06:08:42.863-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1987814160900898316</id>
+   <published>2014-02-28T06:08:00.001-05:00</published>
+   <updated>2014-02-28T06:08:42.863-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#"
+   <category scheme="http://www.blogger.com/atom/ns#"
              term="Center for Hellenic Studies"/>
-    <title type="text">The Homer Multitext Project News</title>
-    <content type="html"><![CDATA[<a
-      href="http://homermultitext.blogspot.com/2014/02/publishing-hmt-archive.html">Publishing the
-      HMT archive</a><br /><span class="post-author vcard">Posted by <span
-      class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
-      <a class="g-profile" data-gapiattached="true" data-gapiscan="true" data-onload="true"
-      href="http://www.blogger.com/profile/10590621399352493304" rel="author" title="author
-      profile"><span itemprop="name">Neel
-      Smith</span></a></span></span><span class="post-timestamp">at
-      <a class="timestamp-link"
-      href="http://homermultitext.blogspot.com/2014/02/publishing-hmt-archive.html" rel="bookmark"
-      title="permanent link"><abbr class="published" itemprop="datePublished"
-      title="2014-02-27T11:47:00-08:00">11:47 AM</abbr></a>, </span>Thursday,
-      February 27, 2014<br /><div class="post-header"></div><blockquote
-      class="tr_bq"><div class="p1"><span style="font-size: x-small;">The editorial
-      work of the Homer Multitext project is ongoing, and, as good photography of more manuscripts
-      and papyri becomes available, is open-ended. While we have provided openly licensed access to
-      our source images and editorial work in progress since our first digital photography in 2007,
-      we have not previously offered packaged publications of our
-      archive.</span></div><span style="font-size: x-small;"></span><br
-      /><div class="p1"><span style="font-size: x-small;"><br
-      /></span></div><span style="font-size: x-small;"></span><br
-      /><div class="p2"><span style="font-size: x-small;">That is changing in 2014.
-      The project’s editors have decided on a publishing cycle of roughly three issues a year (since
-      our work tends to be concentrated around an academic calendar of fall term, spring term, and
-      summer work). Published issues of the project archive must satisfy four
-      requirements.</span></div><span style="font-size:
-      x-small;"></span><br /><ol class="ol1"><li class="li3"><span
-      style="font-size: x-small;">The issue must be clearly identified. Our releases are labelled
-      with a year and issue number: our first issue is <span
-      class="s1">2014.1</span>.</span></li><li class="li3"><span
-      style="font-size: x-small;">All content published in a given issue must pass a clearly
-      identified review process. Teams of contributing editors work in individual workspaces. (We use
-      <span class="s1">github</span> repositories to track the work history of these
-      teams.) When a block of work passes a series of manual review and automated tests, it migrates
-      from “draft” to “provisionally accepted” status and is added to the project’s central archival
-      repository. This is the repository that we are publishing for the first time this
-      week.</span></li><li class="li3"><span style="font-size: x-small;">All
-      published material must be in appropriate open digital formats. Apart from our binary image
-      data, all the data we create are structured in simple tabular text files or XML files with
-      published schemas.</span></li><li class="li3"><span style="font-size:
-      x-small;">All published material must be appropriately licensed for scholarly use. All of
-      our work is published under a Creative Commons Attribution-ShareAlike license. (Licenses for
-      some of our image collections additionally include a “non-commercial” clause: in those cases, a
-      license for commercial reuse must be separately negotiated with the copyright
-      holder.)</span></li></ol><span style="font-size:
-      x-small;"></span><br /><div class="p4"><h2><span
-      style="font-size: x-small;">Access to the Published Digital
-      Archive</span></h2></div><span style="font-size:
-      x-small;"></span><br /><div class="p2"><span style="font-size:
-      x-small;">The published packages are available for download from <a
-      href="http://beta.hpcc.uh.edu/hmt/archival-publications"><span
-      class="s2">http://beta.hpcc.uh.edu/hmt/archival-publications</span></a> as zip
-      files. An accompanying README explains the contents of each zip file.</span>
-      </div></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"> We are also distributing our published issues as nexus artifacts (previously
-      <a
-      href="http://homermultitext.blogspot.com/2012/08/release-of-archival-text-editions.html"><span
-      class="s2">mentioned briefly here</span></a>), a system that allows software to
-      identify and retrieve published versions automatically. Whether manually or automatically
-      downloaded, it now becomes possible for scholars (and their software) to work with citable data
-      sets from the constantly changing archive of the HMT project.<br /></span><br
-      /><blockquote><table><tbody><tr><td valign="top"><span
-      style="font-size: x-small;"><img alt="[ ]"
-      src="http://beta.hpcc.uh.edu/icons/compressed.gif"
-      /></span></td><td><span style="font-size: x-small;"><a
-      href="http://beta.hpcc.uh.edu/hmt/archival-publications/hmt-collections-2014.1.zip">hmt-collections-2014.1.zip</a></span></td><td
-      align="right"><span style="font-size: x-small;">27-Feb-2014 13:38
-      </span></td><td align="right"><span style="font-size:
-      x-small;">484K</span></td><td></td></tr><tr><td
-      valign="top"><span style="font-size: x-small;"><img alt="[ ]"
-      src="http://beta.hpcc.uh.edu/icons/compressed.gif"
-      /></span></td><td><span style="font-size: x-small;"><a
-      href="http://beta.hpcc.uh.edu/hmt/archival-publications/hmt-editions-2014.1-tabulated.zip">hmt-editions-2014.1-tabulated.zip</a></span></td><td
-      align="right"><span style="font-size: x-small;">27-Feb-2014 13:38
-      </span></td><td align="right"><span style="font-size:
-      x-small;">760K</span></td><td></td></tr><tr><td
-      valign="top"><span style="font-size: x-small;"><img alt="[ ]"
-      src="http://beta.hpcc.uh.edu/icons/compressed.gif"
-      /></span></td><td><span style="font-size: x-small;"><a
-      href="http://beta.hpcc.uh.edu/hmt/archival-publications/hmt-editions-2014.1-xml.zip">hmt-editions-2014.1-xml.zip</a></span></td><td
-      align="right"><span style="font-size: x-small;">27-Feb-2014 13:38
-      </span></td><td align="right"><span style="font-size:
-      x-small;">662K</span></td><td></td></tr><tr><td
-      valign="top"><span style="font-size: x-small;"><img alt="[ ]"
-      src="http://beta.hpcc.uh.edu/icons/compressed.gif"
-      /></span></td><td><span style="font-size: x-small;"><a
-      href="http://beta.hpcc.uh.edu/hmt/archival-publications/hmt-images-2014.1.zip">hmt-images-2014.1.zip</a></span></td><td
-      align="right"><span style="font-size: x-small;">27-Feb-2014 13:38
-      </span></td><td align="right"><span style="font-size:
-      x-small;">52K</span></td><td></td></tr><tr><td
-      valign="top"><span style="font-size: x-small;"><img alt="[ ]"
-      src="http://beta.hpcc.uh.edu/icons/compressed.gif"
-      /></span></td><td><span style="font-size: x-small;"><a
-      href="http://beta.hpcc.uh.edu/hmt/archival-publications/hmt-indices-2014.1.zip">hmt-indices-2014.1.zip</a></span></td><td
-      align="right"><span style="font-size: x-small;">27-Feb-2014 13:38
-      </span></td><td align="right"><span style="font-size:
-      x-small;">452K</span></td><td></td></tr><tr><td
-      valign="top"><span style="font-size: x-small;"><img alt="[ ]"
-      src="http://beta.hpcc.uh.edu/icons/compressed.gif"
-      /></span></td><td><span style="font-size: x-small;"><a
-      href="http://beta.hpcc.uh.edu/hmt/archival-publications/hmt-rdf-2014.1.zip">hmt-rdf-2014.1.zip</a></span></td><td
-      align="right"><span style="font-size: x-small;">27-Feb-2014 13:48
-      </span></td><td align="right"><span style="font-size:
-      x-small;">2.9M</span></td><td></td></tr></tbody></table></blockquote></blockquote>Read
-      the rest of the notice <a
-      href="http://homermultitext.blogspot.com/2014/02/publishing-hmt-archive.html">here.</a>]]></content>
-    <link rel="replies"
+   <title type="text">The Homer Multitext Project News</title>
+   <content type="html"><![CDATA[<a href="http://homermultitext.blogspot.com/2014/02/publishing-hmt-archive.html">Publishing the HMT archive</a><br /><span class="post-author vcard">Posted by <span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"> <a class="g-profile" data-gapiattached="true" data-gapiscan="true" data-onload="true" href="http://www.blogger.com/profile/10590621399352493304" rel="author" title="author profile"><span itemprop="name">Neel Smith</span></a></span></span><span class="post-timestamp">at  <a class="timestamp-link" href="http://homermultitext.blogspot.com/2014/02/publishing-hmt-archive.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2014-02-27T11:47:00-08:00">11:47 AM</abbr></a>, </span>Thursday, February 27, 2014<br /><div class="post-header"></div><blockquote class="tr_bq"><div class="p1"><span style="font-size: x-small;">The editorial work of the Homer Multitext project is ongoing, and, as  good photography of more manuscripts and papyri becomes available, is  open-ended. While we have provided openly licensed access to our source  images and editorial work in progress since our first digital  photography in 2007, we have not previously offered packaged  publications of our archive.</span></div><span style="font-size: x-small;"></span><br /><div class="p1"><span style="font-size: x-small;"><br /></span></div><span style="font-size: x-small;"></span><br /><div class="p2"><span style="font-size: x-small;">That is changing in 2014. The project’s editors have decided on a  publishing cycle of roughly three issues a year (since our work tends to  be concentrated around an academic calendar of fall term, spring term,  and summer work). Published issues of the project archive must satisfy  four requirements.</span></div><span style="font-size: x-small;"></span><br /><ol class="ol1"><li class="li3"><span style="font-size: x-small;">The issue must be clearly identified. Our releases are labelled with a year and issue number: our first issue is <span class="s1">2014.1</span>.</span></li><li class="li3"><span style="font-size: x-small;">All content published in a given issue must pass a  clearly identified review process. Teams of contributing editors work in  individual workspaces. (We use <span class="s1">github</span>  repositories to track the work history of these teams.) When a block of  work passes a series of manual review and automated tests, it migrates  from “draft” to “provisionally accepted” status and is added to the  project’s central archival repository. This is the repository that we  are publishing for the first time this week.</span></li><li class="li3"><span style="font-size: x-small;">All published material must be in appropriate open  digital formats. Apart from our binary image data, all the data we  create are structured in simple tabular text files or XML files with  published schemas.</span></li><li class="li3"><span style="font-size: x-small;">All published material must be appropriately licensed  for scholarly use. All of our work is published under a Creative Commons  Attribution-ShareAlike license. (Licenses for some of our image  collections additionally include a “non-commercial” clause: in those  cases, a license for commercial reuse must be separately negotiated with  the copyright holder.)</span></li></ol><span style="font-size: x-small;"></span><br /><div class="p4"><h2><span style="font-size: x-small;">Access to the Published Digital Archive</span></h2></div><span style="font-size: x-small;"></span><br /><div class="p2"><span style="font-size: x-small;">The published packages are available for download from <a href="http://beta.hpcc.uh.edu/hmt/archival-publications"><span class="s2">http://beta.hpcc.uh.edu/hmt/archival-publications</span></a> as zip files. An accompanying README explains the contents of each zip file.</span> </div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"> We are also distributing our published issues as nexus artifacts (previously <a href="http://homermultitext.blogspot.com/2012/08/release-of-archival-text-editions.html"><span class="s2">mentioned briefly here</span></a>),  a system that allows software to identify and retrieve published  versions automatically. Whether manually or automatically downloaded, it  now becomes possible for scholars (and their software) to work with  citable data sets from the constantly changing archive of the HMT  project.<br /></span><br /><blockquote><table><tbody><tr><td valign="top"><span style="font-size: x-small;"><img alt="[   ]" src="http://beta.hpcc.uh.edu/icons/compressed.gif" /></span></td><td><span style="font-size: x-small;"><a href="http://beta.hpcc.uh.edu/hmt/archival-publications/hmt-collections-2014.1.zip">hmt-collections-2014.1.zip</a></span></td><td align="right"><span style="font-size: x-small;">27-Feb-2014 13:38  </span></td><td align="right"><span style="font-size: x-small;">484K</span></td><td></td></tr><tr><td valign="top"><span style="font-size: x-small;"><img alt="[   ]" src="http://beta.hpcc.uh.edu/icons/compressed.gif" /></span></td><td><span style="font-size: x-small;"><a href="http://beta.hpcc.uh.edu/hmt/archival-publications/hmt-editions-2014.1-tabulated.zip">hmt-editions-2014.1-tabulated.zip</a></span></td><td align="right"><span style="font-size: x-small;">27-Feb-2014 13:38  </span></td><td align="right"><span style="font-size: x-small;">760K</span></td><td></td></tr><tr><td valign="top"><span style="font-size: x-small;"><img alt="[   ]" src="http://beta.hpcc.uh.edu/icons/compressed.gif" /></span></td><td><span style="font-size: x-small;"><a href="http://beta.hpcc.uh.edu/hmt/archival-publications/hmt-editions-2014.1-xml.zip">hmt-editions-2014.1-xml.zip</a></span></td><td align="right"><span style="font-size: x-small;">27-Feb-2014 13:38  </span></td><td align="right"><span style="font-size: x-small;">662K</span></td><td></td></tr><tr><td valign="top"><span style="font-size: x-small;"><img alt="[   ]" src="http://beta.hpcc.uh.edu/icons/compressed.gif" /></span></td><td><span style="font-size: x-small;"><a href="http://beta.hpcc.uh.edu/hmt/archival-publications/hmt-images-2014.1.zip">hmt-images-2014.1.zip</a></span></td><td align="right"><span style="font-size: x-small;">27-Feb-2014 13:38  </span></td><td align="right"><span style="font-size: x-small;">52K</span></td><td></td></tr><tr><td valign="top"><span style="font-size: x-small;"><img alt="[   ]" src="http://beta.hpcc.uh.edu/icons/compressed.gif" /></span></td><td><span style="font-size: x-small;"><a href="http://beta.hpcc.uh.edu/hmt/archival-publications/hmt-indices-2014.1.zip">hmt-indices-2014.1.zip</a></span></td><td align="right"><span style="font-size: x-small;">27-Feb-2014 13:38  </span></td><td align="right"><span style="font-size: x-small;">452K</span></td><td></td></tr><tr><td valign="top"><span style="font-size: x-small;"><img alt="[   ]" src="http://beta.hpcc.uh.edu/icons/compressed.gif" /></span></td><td><span style="font-size: x-small;"><a href="http://beta.hpcc.uh.edu/hmt/archival-publications/hmt-rdf-2014.1.zip">hmt-rdf-2014.1.zip</a></span></td><td align="right"><span style="font-size: x-small;">27-Feb-2014 13:48  </span></td><td align="right"><span style="font-size: x-small;">2.9M</span></td><td></td></tr></tbody></table></blockquote></blockquote>Read the rest of the notice <a href="http://homermultitext.blogspot.com/2014/02/publishing-hmt-archive.html">here.</a>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1987814160900898316/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1987814160900898316/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/02/the-homer-multitext-project-news.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1987814160900898316"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1987814160900898316"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/02/the-homer-multitext-project-news.html"
          title="The Homer Multitext Project News"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,279 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6591476688235662047</id>
-    <published>2013-05-14T09:29:00.001-04:00</published>
-    <updated>2013-05-14T09:42:02.317-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6591476688235662047</id>
+   <published>2017-01-30T16:50:00.000-05:00</published>
+   <updated>2017-01-30T16:50:29.048-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Anatolia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Gordion Excavation Reports in AMAR</title>
-    <content type="html"><![CDATA[Gordion Excavation Reports in <a
-      href="http://ancientworldonline.blogspot.com/2009/07/open-access-digital-library-amar.html">AMAR</a><br
-      /><br /><span style="font-size: x-small;">One of a series of AWOL pages seeking
-      to pull together publication series digitized and served through <a
-      href="http://amar.hsclib.sunysb.edu/amar/">AMAR: Archive of Mesopotamian Archaeological Site
-      Reports</a></span><br /><blockquote><table border="0"
-      cellpadding="3" cellspacing="0" style="width: 100%px;" summary="Search results
-      for"><tbody><tr><td colspan="6"><span style="font-size:
-      x-small;"><br /></span></td></tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext" style="font-size: x-small;">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=45260&amp;REC=1"
-      target="_top" title="Gordion special studies II ; Gordion: the terracotta figurines and related
-      vessels "><img alt="Gordion special studies II ; Gordion: the terracotta figurines and
-      related vessels " border="0" height="80"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=45260"
-      title="Gordion special studies II ; Gordion: the terracotta figurines and related vessels "
-      width="58" /></a></span></td><td class="tdtext" style="border-left: 8px
-      solid rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=45260&amp;REC=1"
-      target="_top" title="Gordion special studies II ; Gordion: the terracotta figurines and related
-      vessels ">Gordion special studies II ; Gordion: the terracotta figurines and related vessels
-      </a></span></td><td class="tdtext" style="border-left: 8px solid rgb(255,
-      255, 255);"><span class="maintext" style="font-size:
-      x-small;"><nobr>1995</nobr> </span></td><td class="tdtext"
-      style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;">Figurines -- Turkey -- Catalogs. </span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;">Gordion (Extinct city)
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext" style="font-size: x-small;">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=78214&amp;REC=2"
-      target="_top" title="The Gordion excavations, 1950-1973: final reports. Vol. IV: illustrations:
-      the early Phrygian pottery "><img alt="The Gordion excavations, 1950-1973: final reports.
-      Vol. IV: illustrations: the early Phrygian pottery " border="0" height="80"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=78214"
-      title="The Gordion excavations, 1950-1973: final reports. Vol. IV: illustrations: the early
-      Phrygian pottery " width="59" /></a></span></td><td class="tdtext"
-      style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=78214&amp;REC=2"
-      target="_top" title="The Gordion excavations, 1950-1973: final reports. Vol. IV: illustrations:
-      the early Phrygian pottery ">The Gordion excavations, 1950-1973: final reports. Vol. IV:
-      illustrations: the early Phrygian pottery </a></span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;"><nobr>1994</nobr> </span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;">Pottery -- Phrygia -- Catalogs. </span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;">Gordion (Extinct city)
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext" style="font-size: x-small;">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=77929&amp;REC=3"
-      target="_top" title="The Gordion excavations, 1950-1973: final reports. Vol. IV: text: the
-      early Phrygian pottery "><img alt="The Gordion excavations, 1950-1973: final reports.
-      Vol. IV: text: the early Phrygian pottery " border="0" height="80"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=77929"
-      title="The Gordion excavations, 1950-1973: final reports. Vol. IV: text: the early Phrygian
-      pottery " width="59" /></a></span></td><td class="tdtext"
-      style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=77929&amp;REC=3"
-      target="_top" title="The Gordion excavations, 1950-1973: final reports. Vol. IV: text: the
-      early Phrygian pottery ">The Gordion excavations, 1950-1973: final reports. Vol. IV: text:
-      the early Phrygian pottery </a></span></td><td class="tdtext"
-      style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;"><nobr>1994</nobr> </span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;"><nobr></nobr> </span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;">Gordion (Extinct city)
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext" style="font-size: x-small;">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=77534&amp;REC=4"
-      target="_top" title="The Gordion excavations, final reports. Vol. III: the bronze age
-      "><img alt="The Gordion excavations, final reports. Vol. III: the bronze age " border="0"
-      height="80"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=77534"
-      title="The Gordion excavations, final reports. Vol. III: the bronze age " width="60"
-      /></a></span></td><td class="tdtext" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=77534&amp;REC=4"
-      target="_top" title="The Gordion excavations, final reports. Vol. III: the bronze age ">The
-      Gordion excavations, final reports. Vol. III: the bronze age
-      </a></span></td><td class="tdtext" style="border-left: 8px solid rgb(255,
-      255, 255);"><span class="maintext" style="font-size:
-      x-small;"><nobr>1991</nobr> </span></td><td class="tdtext"
-      style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;"><nobr></nobr> </span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;">Gordion (Extinct city)
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext" style="font-size: x-small;">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=77315&amp;REC=5"
-      target="_top" title="The Gordion excavations, 1950-1973: final reports. Vol. II: the lesser
-      Phrygian Tumuli. Pt. 1: the inhumations "><img alt="The Gordion excavations, 1950-1973:
-      final reports. Vol. II: the lesser Phrygian Tumuli. Pt. 1: the inhumations " border="0"
-      height="80"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=77315"
-      title="The Gordion excavations, 1950-1973: final reports. Vol. II: the lesser Phrygian Tumuli.
-      Pt. 1: the inhumations " width="58" /></a></span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=77315&amp;REC=5"
-      target="_top" title="The Gordion excavations, 1950-1973: final reports. Vol. II: the lesser
-      Phrygian Tumuli. Pt. 1: the inhumations ">The Gordion excavations, 1950-1973: final reports.
-      Vol. II: the lesser Phrygian Tumuli. Pt. 1: the inhumations
-      </a></span></td><td class="tdtext" style="border-left: 8px solid rgb(255,
-      255, 255);"><span class="maintext" style="font-size:
-      x-small;"><nobr>1995</nobr> </span></td><td class="tdtext"
-      style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;"><nobr></nobr> </span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;">Gordion (Extinct city)
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext" style="font-size: x-small;">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=120897&amp;REC=6"
-      target="_top" title="The Gordion excavations, 1950-1973: final reports. Vol. I: three great
-      early tumuli "><img alt="The Gordion excavations, 1950-1973: final reports. Vol. I: three
-      great early tumuli " border="0" height="80"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=120897"
-      title="The Gordion excavations, 1950-1973: final reports. Vol. I: three great early tumuli "
-      width="59" /></a></span></td><td class="tdtext" style="border-left: 8px
-      solid rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=120897&amp;REC=6"
-      target="_top" title="The Gordion excavations, 1950-1973: final reports. Vol. I: three great
-      early tumuli ">The Gordion excavations, 1950-1973: final reports. Vol. I: three great early
-      tumuli </a></span></td><td class="tdtext" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size:
-      x-small;"><nobr>1981</nobr> </span></td><td class="tdtext"
-      style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;">Mounds -- Turkey </span></td><td class="tdtext"
-      style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;">Turkey -- Antiquities -- Catalogs
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext" style="font-size: x-small;">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=65472&amp;REC=7"
-      target="_top" title="Gordion seals and sealings: individuals and society: plates "><img
-      alt="Gordion seals and sealings: individuals and society: plates " border="0" height="80"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=65472"
-      title="Gordion seals and sealings: individuals and society: plates " width="62"
-      /></a></span></td><td class="tdtext" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=65472&amp;REC=7"
-      target="_top" title="Gordion seals and sealings: individuals and society: plates ">Gordion
-      seals and sealings: individuals and society: plates </a></span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;"><nobr>2005</nobr> </span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;">Seals (Numismatics) -- Turkey -- Gordion (Extinct city)
-      </span></td><td class="tdtext" style="border-left: 8px solid rgb(255, 255,
-      255);"><span class="maintext" style="font-size: x-small;">Gordion (Extinct city) --
-      Antiquities. </span></td></tr><tr> <td colspan="6"><hr
-      color="#cccccc" noshade="noshade" size="1" /></td> </tr><tr> <td
-      class="tdtext" nowrap="nowrap"><span class="maintext" style="font-size: x-small;">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=65143&amp;REC=8"
-      target="_top" title="Gordion seals and sealings: individuals and society "><img
-      alt="Gordion seals and sealings: individuals and society " border="0" height="80"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=65143"
-      title="Gordion seals and sealings: individuals and society " width="57"
-      /></a></span></td><td class="tdtext" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=65143&amp;REC=8"
-      target="_top" title="Gordion seals and sealings: individuals and society ">Gordion seals and
-      sealings: individuals and society </a></span></td><td class="tdtext"
-      style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;"><nobr>2005</nobr> </span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;">Seals (Numismatics) -- Turkey -- Gordion (Extinct city)
-      </span></td><td class="tdtext" style="border-left: 8px solid rgb(255, 255,
-      255);"><span class="maintext" style="font-size: x-small;">Gordion (Extinct city) --
-      Antiquities </span></td></tr><tr> <td colspan="6"><hr
-      color="#cccccc" noshade="noshade" size="1" /></td> </tr><tr> <td
-      class="tdtext" nowrap="nowrap"><span class="maintext" style="font-size: x-small;">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=35912&amp;REC=9"
-      target="_top" title="The archaeology of Midas and the Phrygians: recent work at Gordion
-      "><img alt="The archaeology of Midas and the Phrygians: recent work at Gordion "
-      border="0" height="80"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=35912"
-      title="The archaeology of Midas and the Phrygians: recent work at Gordion " width="48"
-      /></a></span></td><td class="tdtext" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=35912&amp;REC=9"
-      target="_top" title="The archaeology of Midas and the Phrygians: recent work at Gordion
-      ">The archaeology of Midas and the Phrygians: recent work at Gordion
-      </a></span></td><td class="tdtext" style="border-left: 8px solid rgb(255,
-      255, 255);"><span class="maintext" style="font-size:
-      x-small;"><nobr>2005</nobr> </span></td><td class="tdtext"
-      style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;"><nobr></nobr> </span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;">Gordion (Extinct city)
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext" style="font-size: x-small;">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      rgb(255, 255, 255);"><span class="maintext" style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=24443&amp;REC=10"
-      target="_top" title="A Hittite cemetery at Gordion "><img alt="A Hittite cemetery at
-      Gordion " border="0" height="80"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=24443"
-      title="A Hittite cemetery at Gordion " width="59" /></a></span></td><td
-      class="tdtext" style="border-left: 8px solid rgb(255, 255, 255);"><span class="maintext"
-      style="font-size: x-small;"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=24443&amp;REC=10"
-      target="_top" title="A Hittite cemetery at Gordion ">A Hittite cemetery at Gordion
-      </a></span></td></tr></tbody></table></blockquote><br
-      /><div style="text-align: center;"><span style="font-size: small;">See more
-      <a href="http://ancientworldonline.blogspot.com/2012/03/series-in-amar.html">Series in
-      AMAR</a></span><br /><h3 class="post-title entry-title" itemprop="name"
-      style="text-align: center;"><span style="font-size: small;"><a
-      href="http://ancientworldonline.blogspot.com/2013/03/viewing-complete-books-in-amar.html"><span
-      style="font-weight: normal;">Viewing complete books in
-      AMAR</span></a></span></h3><a
-      href="http://ancientworldonline.blogspot.com/2012/03/series-in-amar.html"></a></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Anatolia"/>
+   <title type="text">Gordion Excavation Reports in AMAR</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 14 May 2013, updated 30 January 2017] </span><br /><br />Gordion Excavation Reports in <a href="http://ancientworldonline.blogspot.com/2009/07/open-access-digital-library-amar.html">AMAR</a><br /><br /><span style="font-size: x-small;">One of a series of AWOL pages seeking to pull together publication series digitized and served through <a href="http://digital.library.stonybrook.edu/cdm/search/collection/amar">AMAR: Archive of Mesopotamian Archaeological Site Reports</a></span><br /><blockquote><div id="cdmResultsGridView"><ul id="cdmResultsGridList"><li class="listItem"><span class="clear"></span>          <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;24443&gt;/"></label></span><span class="float_left spacePad30L"><a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/24443/rec/1" tabindex="58" title=""><span style="font-size: x-small;"><img alt="A Hittite cemetery at Gordion" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/24443" />						                                          </span></a></span><span style="font-size: x-small;"><br />						                                      </span></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/24443/rec/1" id="firstSearchResultLink" tabindex="60" title="">A Hittite cemetery at Gordion</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Hittites</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Mellink, Machteld J. (Machteld Johanna)</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="61">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;">&nbsp;</span></li></ul></div></blockquote><blockquote><div id="cdmResultsGridView"><ul id="cdmResultsGridList"><li class="listItem"><span style="font-size: x-small;"><span class="clear"></span></span><ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;"><span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;35912&gt;/"></label></span></span><span style="font-size: x-small;"><span class="float_left spacePad30L"><a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/35912/rec/2" tabindex="62" title=""><img alt="The archaeology of Midas and the Phrygians: recent work at Gordion" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/35912" />						                                          </a><br />                        </span></span>						                                         						                <span style="font-size: x-small;"><br /></span>						                                      </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/35912/rec/2" tabindex="64" title="">The archaeology of Midas and the Phrygians: recent work at Gordion</a></span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="65">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;"><span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;45260&gt;/"></label></span></span><span style="font-size: x-small;"><span class="float_left spacePad30L"><a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/45260/rec/3" tabindex="66" title=""><img alt="Gordion special studies II ; Gordion: the terracotta figurines and related vessels" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/45260" />						                                          </a><br />                        </span></span>						                                         						                <span style="font-size: x-small;"><br /></span>						                                      </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/45260/rec/3" tabindex="68" title="">Gordion special studies II ; Gordion: the terracotta figurines and related vessels</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Figurines -- Turkey -- Catalogs.</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Romano, Irene Bald</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="69">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;"><span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;65143&gt;/"></label></span></span><span style="font-size: x-small;"><span class="float_left spacePad30L"><a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/65143/rec/4" tabindex="70" title=""><img alt="Gordion seals and sealings: individuals and society" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/65143" />						                                          </a><br />                        </span></span>						                                         						                <span style="font-size: x-small;"><br /></span>						                                      </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/65143/rec/4" tabindex="72" title="">Gordion seals and sealings: individuals and society</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Seals (Numismatics) -- Turkey -- Gordion (Extinct city)</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Dusinberre, Elspeth R. M.</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="73">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;"><span style="font-size: x-small;">&nbsp;<span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;65472&gt;/"></label></span></span><span style="font-size: x-small;"><span class="float_left spacePad30L"><a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/65472/rec/5" tabindex="74" title=""><img alt="Gordion seals and sealings: individuals and society: plates" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/65472" />						                                          </a><br />                        </span></span>						                                         						                <span style="font-size: x-small;"><br /></span>						                                      </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/65472/rec/5" tabindex="76" title="">Gordion seals and sealings: individuals and society: plates</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Seals (Numismatics) -- Turkey -- Gordion (Extinct city)</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Dusinberre, Elspeth R. M.</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="77">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;"><span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;77315&gt;/"></label></span></span><span style="font-size: x-small;"><span class="float_left spacePad30L"><a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/77315/rec/6" tabindex="78" title=""><img alt="The Gordion excavations, 1950-1973: final reports. Vol. II: the lesser Phrygian Tumuli. Pt. 1: the..." class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/77315" />						                                          </a><br />                        </span></span>						                                         						                <span style="font-size: x-small;"><br /></span>						                                      </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/77315/rec/6" tabindex="80" title="">The Gordion excavations, 1950-1973: final reports. Vol. II: the lesser Phrygian Tumuli. Pt. 1: the inhumations</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Kohler, Ellen L.</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="81">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;"><span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;77534&gt;/"></label></span></span><span style="font-size: x-small;"><span class="float_left spacePad30L"><a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/77534/rec/7" tabindex="82" title=""><img alt="The Gordion excavations, final reports. Vol. III: the bronze age" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/77534" />						                                          </a><br />                        </span></span>						                                         						                <span style="font-size: x-small;"><br /></span>						                                      </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/77534/rec/7" tabindex="84" title="">The Gordion excavations, final reports. Vol. III: the bronze age</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Gunter, Ann Clyburn, 1951-</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="85">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span><ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;"><span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;77929&gt;/"></label></span></span><span style="font-size: x-small;"><span class="float_left spacePad30L"><a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/77929/rec/8" tabindex="86" title=""><img alt="The Gordion excavations, 1950-1973: final reports. Vol. IV: text: the early Phrygian pottery" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/77929" />						                                          </a><br />                        </span></span>						                                         						                <span style="font-size: x-small;"><br /></span>						                                      </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/77929/rec/8" tabindex="88" title="">The Gordion excavations, 1950-1973: final reports. Vol. IV: text: the early Phrygian pottery</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Sams, G. Kenneth (Gilbert Kenneth)</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="89">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;"><span style="font-size: x-small;">&nbsp;<span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;78214&gt;/"></label></span></span><span style="font-size: x-small;"><span class="float_left spacePad30L"><a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/78214/rec/9" tabindex="90" title=""><img alt="The Gordion excavations, 1950-1973: final reports. Vol. IV: illustrations: the early Phrygian..." class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/78214" />						                                          </a><br />                        </span></span>						                                         						                <span style="font-size: x-small;"><br /></span>						                                      </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/78214/rec/9" tabindex="92" title="">The Gordion excavations, 1950-1973: final reports. Vol. IV: illustrations: the early Phrygian pottery</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Pottery -- Phrygia -- Catalogs.</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Sams, G. Kenneth (Gilbert Kenneth)</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="93">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;"><span style="font-size: x-small;">&nbsp;<span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;120417&gt;/"></label></span></span><span style="font-size: x-small;"><span class="float_left spacePad30L"><a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/120897/show/120417/rec/10" tabindex="94" title=""><img alt="The Gordion excavations, 1950-1973: final reports. Vol. I. : Three great early tumuli" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/120417" />						                                          </a><br />                        </span></span>						                                         						                <span style="font-size: x-small;"><br /></span>						                                      </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/120897/show/120417/rec/10" tabindex="96" title="">The Gordion excavations, 1950-1973: final reports. Vol. I. : Three great early tumuli</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Mounds -- Turkey</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Young, Rodney S. (Rodney Stuart), 1907-1974</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="97">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul></li></ul></div></blockquote><blockquote><div id="cdmResultsGridView"><ul id="cdmResultsGridList"><li class="listItem"><span style="font-size: x-small;"><span class="clear"></span></span><ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;"><span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;120897&gt;/"></label></span></span><span style="font-size: x-small;"><span class="float_left spacePad30L"><a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/120897/rec/11" tabindex="98" title=""><img alt="The Gordion excavations, 1950-1973: final reports. Vol. I: three great early tumuli" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/120897" />						                                          </a><br />                        </span></span>						                                         						                <span style="font-size: x-small;"><br /></span>						                                      </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/120897/rec/11" tabindex="100" title="">The Gordion excavations, 1950-1973: final reports. Vol. I: three great early tumuli</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Mounds -- Turkey</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Young, Rodney S. (Rodney Stuart), 1907-1974</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="101">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li></ul><span style="font-size: x-small;"><span class="clear"></span></span>      </div><span style="font-size: x-small;"><span class="clear"></span></span>			 	            <div id="link_bar_search_bottom">				</div></blockquote><br /><div style="text-align: center;"><span style="font-size: small;">See more <a href="http://ancientworldonline.blogspot.com/2012/03/series-in-amar.html">Series in AMAR</a></span><br /><h3 class="post-title entry-title" itemprop="name" style="text-align: center;"><span style="font-size: small;"><a href="http://ancientworldonline.blogspot.com/2013/03/viewing-complete-books-in-amar.html"><span style="font-weight: normal;">Viewing complete books in AMAR</span></a></span></h3><a href="http://ancientworldonline.blogspot.com/2012/03/series-in-amar.html"></a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6591476688235662047/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6591476688235662047/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/05/gordion-excavation-reports-in-amar.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6591476688235662047"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6591476688235662047"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/05/gordion-excavation-reports-in-amar.html"
          title="Gordion Excavation Reports in AMAR"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

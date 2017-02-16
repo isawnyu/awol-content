@@ -1,90 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8286465458177207795</id>
-    <published>2012-06-28T09:30:00.000-04:00</published>
-    <updated>2012-09-27T21:17:36.891-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8286465458177207795</id>
+   <published>2012-06-28T09:30:00.000-04:00</published>
+   <updated>2012-09-27T21:17:36.891-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Atlas"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Palestine"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Maps"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Atlas"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">PADIS: Palestine Archaeological Databank and Information System</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 10 August
-      2011. Updated 28 June 2012]</span><br /><br /><a
-      href="http://www.lasapienzatojericho.it/padis">PADIS:&nbsp; Palestine Archaeological
-      Databank and Information System</a><br /><h1 style="width: 550px;">
-      </h1><blockquote class="tr_bq"><a href="http://www.uniroma1.it/"
-      target="_blank"><img alt="PADIS"
-      src="http://www.lasapienzatojericho.it/padis/templates/68portal/images/logosap.png"
-      title="visit the website of Sapienza University" /></a><a
-      href="http://www.dach.pna.ps/" target="_blank"><img alt="PADIS"
-      src="http://www.lasapienzatojericho.it/padis/templates/68portal/images/logopal.png"
-      title="visit the website of Palestinian Department of Antiquities and Cultural Heritage"
-      /></a></blockquote><h1 style="width: 550px;"> </h1><br
-      /><blockquote><h3> <span style="font-size: x-small;"><i>A tool for
-      protection, study and valorization of the Archaeological Heritage of
-      Palestine</i></span></h3><ul><li style="text-align:
-      justify;"><span style="font-size: x-small;">A coherent organization of
-      <b>archaeological and topographical data</b> from
-      Palestine.</span></li></ul><ul><li><span style="font-size:
-      x-small;">An <b>interactive databank</b> created to prompt the safeguard of
-      archaeological and historical sites and as scientific and practical tool for the protection,
-      study and cultural valorization.</span></li></ul><ul><li
-      style="text-align: justify;"><span style="font-size: x-small;">A database including
-      <b>satellite images, aerial photos, excavation photos, topographic maps, and updated
-      bibliographic references</b>, expandable with the cooperation of Palestinian scholars and
-      institutions.</span></li></ul></blockquote><div
-      id="left-sidebar"><blockquote class="tr_bq"><div class="moduletable_menu
-      heading"><div class="moduletable_menu heading"><h3> <span style="font-size:
-      xx-small;">Main Menu</span></h3><ul class="menu"><li class="first
-      active item1" id="current"><span style="font-size: xx-small;"><a
-      href="http://www.lasapienzatojericho.it/padis/">Home</a></span></li><li
-      class="item27"><span style="font-size: xx-small;"><a
-      href="http://www.lasapienzatojericho.it/padis/search-for-a-site">Search for a
-      Site</a></span></li><li class="parent item2"><span style="font-size:
-      xx-small;"><a href="http://www.lasapienzatojericho.it/padis/advanced-search">Advanced
-      Search</a></span></li><li class="item53"><span style="font-size:
-      xx-small;"><a
-      href="http://www.lasapienzatojericho.it/padis/alphabetical-list">Alphabetical
-      List</a></span></li><li class="item37"><span style="font-size:
-      xx-small;"><a
-      href="http://www.lasapienzatojericho.it/padis/maps">Maps</a></span></li><li
-      class="item85"><span style="font-size: xx-small;"><a
-      href="http://www.lasapienzatojericho.it/padis/geolocation">Geolocation</a></span></li><li
-      class="last item49"><span style="font-size: xx-small;"><a
-      href="http://www.lasapienzatojericho.it/padis/chronology">Chronology</a></span></li></ul></div></div></blockquote><br
-      />And see also: <a
-      href="http://ancientworldonline.blogspot.com/2010/03/west-bank-and-east-jerusalem-searchable.html">The
-      West Bank and East Jerusalem Searchable Map</a><br /><div class="moduletable
-      noheading"></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Palestine"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Maps"/>
+   <title type="text">PADIS: Palestine Archaeological Databank and Information System</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 10 August 2011. Updated 28 June 2012]</span><br /><br /><a href="http://www.lasapienzatojericho.it/padis">PADIS:&nbsp; Palestine Archaeological Databank and Information System</a><br /><h1 style="width: 550px;">                  </h1><blockquote class="tr_bq"><a href="http://www.uniroma1.it/" target="_blank"><img alt="PADIS" src="http://www.lasapienzatojericho.it/padis/templates/68portal/images/logosap.png" title="visit the website of Sapienza University" /></a><a href="http://www.dach.pna.ps/" target="_blank"><img alt="PADIS" src="http://www.lasapienzatojericho.it/padis/templates/68portal/images/logopal.png" title="visit the website of Palestinian Department of Antiquities and Cultural Heritage" /></a></blockquote><h1 style="width: 550px;">               </h1><br /><blockquote><h3>  <span style="font-size: x-small;"><i>A tool for protection, study and valorization of the Archaeological Heritage of Palestine</i></span></h3><ul><li style="text-align: justify;"><span style="font-size: x-small;">A coherent organization of <b>archaeological and topographical data</b> from Palestine.</span></li></ul><ul><li><span style="font-size: x-small;">An <b>interactive databank</b> created to prompt the  safeguard of archaeological and historical sites and as scientific and  practical tool for the protection, study and cultural valorization.</span></li></ul><ul><li style="text-align: justify;"><span style="font-size: x-small;">A database including <b>satellite images, aerial photos, excavation photos, topographic maps, and updated bibliographic references</b>, expandable with the cooperation of Palestinian scholars and institutions.</span></li></ul></blockquote><div id="left-sidebar"><blockquote class="tr_bq"><div class="moduletable_menu heading"><div class="moduletable_menu heading"><h3>  <span style="font-size: xx-small;">Main Menu</span></h3><ul class="menu"><li class="first active item1" id="current"><span style="font-size: xx-small;"><a href="http://www.lasapienzatojericho.it/padis/">Home</a></span></li><li class="item27"><span style="font-size: xx-small;"><a href="http://www.lasapienzatojericho.it/padis/search-for-a-site">Search for a Site</a></span></li><li class="parent item2"><span style="font-size: xx-small;"><a href="http://www.lasapienzatojericho.it/padis/advanced-search">Advanced Search</a></span></li><li class="item53"><span style="font-size: xx-small;"><a href="http://www.lasapienzatojericho.it/padis/alphabetical-list">Alphabetical List</a></span></li><li class="item37"><span style="font-size: xx-small;"><a href="http://www.lasapienzatojericho.it/padis/maps">Maps</a></span></li><li class="item85"><span style="font-size: xx-small;"><a href="http://www.lasapienzatojericho.it/padis/geolocation">Geolocation</a></span></li><li class="last item49"><span style="font-size: xx-small;"><a href="http://www.lasapienzatojericho.it/padis/chronology">Chronology</a></span></li></ul></div></div></blockquote><br />And see also: <a href="http://ancientworldonline.blogspot.com/2010/03/west-bank-and-east-jerusalem-searchable.html">The West Bank and East Jerusalem Searchable Map</a><br /><div class="moduletable noheading"></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8286465458177207795/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8286465458177207795/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/08/padis-palestine-archaeological-databank.html#comment-form"
          title="3 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8286465458177207795"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8286465458177207795"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/08/padis-palestine-archaeological-databank.html"
          title="PADIS: Palestine Archaeological Databank and Information System"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

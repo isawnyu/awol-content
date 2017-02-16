@@ -1,374 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1674783810966421826</id>
-    <published>2014-01-31T09:40:00.000-05:00</published>
-    <updated>2014-01-31T09:50:01.914-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1674783810966421826</id>
+   <published>2014-01-31T09:40:00.000-05:00</published>
+   <updated>2014-01-31T09:50:01.914-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Hellenistic"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Poetry"/>
-    <title type="text">A Hellenistic Bibliography</title>
-    <content type="html"><![CDATA[<a href="https://sites.google.com/site/hellenisticbibliography/">A
-      Hellenistic Bibliography</a><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><span style="font-size: small;"><b><span
-      style="color: #3d85c6;"></span></b></span></span><div
-      style="font-weight: bold;"><span style="color: #073763; font-size: x-small;">Welcome
-      to the Hellenistic Bibliography</span></div><div><span style="color:
-      #073763; font-size: x-small;">a bibliography on post-classical Greek poetry and its
-      influence</span>&nbsp;</div></blockquote><blockquote
-      class="tr_bq"><div><span style="font-size: x-small;">This site provides
-      bibliographies on post-classical Greek poets and their influence,&nbsp;compiled from a
-      database containing ca. 20,500 records. It is organized under the following
-      rubrics:</span><br /><div><ul><li><span style="font-size:
-      x-small;">Hellenistic Poets – active between ca. 323 and 31
-      BCE</span></li><li><span style="font-size: x-small;">Imperial Greek
-      Poets – active between ca. 31 BCE and the 6th century
-      CE</span></li><li><span style="font-size: x-small;">Pre-Hellenistic
-      poets – the influence of Archaic and Classical poets on later Greek
-      poetry</span></li><li><span style="font-size: x-small;">Latin Poets –
-      focusing on their connections with post-classical Greek
-      poetry</span></li><li><span style="font-size: x-small;">History –
-      focusing on the Hellenistic Period and Empire (under
-      construction)</span></li><li><span style="font-size:
-      x-small;">Epigrammatists – spanning the Hellenistic period and the
-      Empire</span></li><li><span style="font-size: x-small;">Publications
-      2006-2010 – all recent publications listed by year, with index
-      terms</span></li><li><span style="font-size: x-small;">Additions –
-      publications added to the database after 15th January
-      2011</span></li></ul></div><div><span style="font-size:
-      x-small;">Compiled and maintained by:&nbsp;<a
-      href="http://www.tcd.ie/Classics/research/cuypers.php" rel="nofollow"
-      target="_blank">Martine Cuypers</a>, <a href="http://www.tcd.ie/Classics/"
-      rel="nofollow" target="_blank">Trinity College Dublin</a><br />Please send
-      additions and corrections to:&nbsp;<a
-      href="mailto:cuypersm@tcd.ie">cuypersm@tcd.ie</a></span></div></div><span
-      style="font-size: xx-small;"><br /></span><div class="sites-embed"
-      id="COMP_2bd"><div class="sites-embed-content sites-sidebar-nav "><ul><li
-      class="topLevel parent "><div dir="ltr" style="padding-left: 0px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link topLevel"
-      href="https://sites.google.com/site/hellenisticbibliography/epigram">Epigrammatists</a></span></div><ul
-      class="has-expander"><li class=""><div dir="ltr" style="padding-left:
-      38px;"><span style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/epigram/anyte">Anyte</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/epigram/asclepiades">Asclepiades</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/epigram/epigram-recent">Epigram
-      2008-2012</a></span></div></li><li class=""><div dir="ltr"
-      style="padding-left: 38px;"><span style="font-size: x-small;"><a
-      class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/epigram/erinna">Erinna</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/epigram/leonidas-of-tarentum">Leonidas
-      of Tarentum</a></span></div></li><li class=""><div dir="ltr"
-      style="padding-left: 38px;"><span style="font-size: x-small;"><a
-      class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/epigram/meleager">Meleager</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/epigram/nossis">Nossis</a></span></div></li><li
-      class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/epigram/posidippus">Posidippus</a></span></div><ul
-      class="has-expander"><li class=""><div dir="ltr" style="padding-left:
-      57px;"><span style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/epigram/posidippus/posidippus-recent">Posidippus
-      Recent</a></span></div></li></ul></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/epigram/simias">Simias</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/epigram/strato-of-sardis">Strato
-      of Sardis</a></span></div></li></ul></li><li
-      class="topLevel parent "><div dir="ltr" style="padding-left: 0px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link topLevel"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic">Hellenistic
-      Poets</a></span></div><ul class="has-expander"><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/alexander-aetolus-1">Alexander
-      Aetolus</a></span></div></li><li class="parent closed "><div
-      dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a
-      class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/apollonius-of-rhodes">Apollonius
-      of Rhodes</a></span></div><ul class="has-expander"><li
-      class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/apollonius-of-rhodes/apollonius-recent">Apollonius
-      Recent</a></span></div></li></ul></li><li class="parent
-      closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/aratus-and-aratea">Aratus
-      and Aratea</a></span></div><ul class="has-expander"><li
-      class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/aratus-and-aratea/aratus-and-aratea-recent">Aratus
-      and Aratea Recent</a></span></div></li></ul></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/archestratus">Archestratus</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/bion-and-epitaphium-bionis">Bion
-      &amp; Epitaphium Bionis</a></span></div></li><li class="parent
-      closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/callimachus">Callimachus</a></span></div><ul
-      class="has-expander"><li class=""><div dir="ltr" style="padding-left:
-      57px;"><span style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/callimachus/callimachus-recent">Callimachus
-      Recent</a></span></div></li></ul></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/cercidas">Cercidas</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/cleanthes">Cleanthes</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/eratosthenes">Eratosthenes</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/euphorion">Euphorion</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/hermesianax">Hermesianax</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/herodas">Herodas</a></span></div></li><li
-      class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/lycophron">Lycophron</a></span></div><ul
-      class="has-expander"><li class=""><div dir="ltr" style="padding-left:
-      57px;"><span style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/lycophron/lycophron-recent">Lycophron
-      Recent</a></span></div></li></ul></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/macho">Macho</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/matro">Matro</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/menander">Menander</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/moschus">Moschus</a></span></div></li><li
-      class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/nicander">Nicander</a></span></div><ul
-      class="has-expander"><li class=""><div dir="ltr" style="padding-left:
-      57px;"><span style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/nicander/nicander-recent">Nicander
-      Recent</a></span></div></li></ul></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/phanocles">Phanocles</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/philetas">Philetas</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/rhianus">Rhianus</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/sotades">Sotades</a></span></div></li><li
-      class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/theocritus">Theocritus</a></span></div><ul
-      class="has-expander"><li class=""><div dir="ltr" style="padding-left:
-      57px;"><span style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/hellenistic/theocritus/theocritus-recent">Theocritus
-      Recent</a></span></div></li></ul></li></ul></li><li
-      class="topLevel parent "><div dir="ltr" style="padding-left: 0px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link topLevel"
-      href="https://sites.google.com/site/hellenisticbibliography/history">History</a></span></div><ul
-      class="has-expander"><li class=""><div dir="ltr" style="padding-left:
-      38px;"><span style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/history/alexander-the-great">Alexander
-      the Great</a></span></div></li><li class=""><div dir="ltr"
-      style="padding-left: 38px;"><span style="font-size: x-small;"><a
-      class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/history/history-recent">History
-      Recent</a></span></div></li></ul></li><li
-      class="topLevel parent "><div dir="ltr" style="padding-left: 0px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link topLevel"
-      href="https://sites.google.com/site/hellenisticbibliography/empire">Imperial
-      Poets</a></span></div><ul class="has-expander"><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/colluthus">Colluthus</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/dionysius-periegetes">Dionysius
-      Periegetes</a></span></div></li><li class=""><div dir="ltr"
-      style="padding-left: 38px;"><span style="font-size: x-small;"><a
-      class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/eudocia">Eudocia</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/musaeus">Musaeus</a></span></div></li><li
-      class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/nonnus">Nonnus</a></span></div><ul
-      class="has-expander"><li class=""><div dir="ltr" style="padding-left:
-      57px;"><span style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/nonnus/nonnus-recent">Nonnus
-      Recent</a></span></div></li></ul></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/oppiani">Oppiani</a></span></div></li><li
-      class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/orphica">Orphica</a></span></div><ul
-      class="has-expander"><li class=""><div dir="ltr" style="padding-left:
-      57px;"><span style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/orphica/orphic-argonautica">Orphic
-      Argonautica</a></span></div></li><li class=""><div dir="ltr"
-      style="padding-left: 57px;"><span style="font-size: x-small;"><a
-      class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/orphica/orphic-hymns">Orphic
-      Hymns</a></span></div></li><li class=""><div dir="ltr"
-      style="padding-left: 57px;"><span style="font-size: x-small;"><a
-      class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/orphica/orphica-recent">Orphica
-      Recent</a></span></div></li></ul></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/parthenius">Parthenius</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/ps--scymnus">Ps.-Scymnus</a></span></div></li><li
-      class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/quintus-of-smyrna">Quintus
-      of Smyrna</a></span></div><ul class="has-expander"><li
-      class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/quintus-of-smyrna/quintus-of-smyrna-recent">Quintus
-      Recent</a></span></div></li></ul></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/empire/triphiodorus">Triphiodorus</a></span></div></li></ul></li><li
-      class="topLevel parent "><div dir="ltr" style="padding-left: 0px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link topLevel"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors">Latin
-      Poets</a></span></div><ul class="has-expander"><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/catullus">Catullus</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/cicero">Cicero</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/ennius">Ennius</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/germanicus">Germanicus</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/horace">Horace</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/lucan">Lucan</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/lucretius">Lucretius</a></span></div></li><li
-      class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/ovid">Ovid</a></span></div><ul
-      class="has-expander"><li class=""><div dir="ltr" style="padding-left:
-      57px;"><span style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/ovid/ovid-recent">Ovid
-      Recent</a></span></div></li></ul></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/propertius">Propertius</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/silius-italicus">Silius
-      Italicus</a></span></div></li><li class=""><div dir="ltr"
-      style="padding-left: 38px;"><span style="font-size: x-small;"><a
-      class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/statius">Statius</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/tibullus">Tibullus</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/valerius-flaccus">Valerius
-      Flaccus</a></span></div></li><li class="parent closed "><div
-      dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a
-      class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/vergil">Vergil</a></span></div><ul
-      class="has-expander"><li class=""><div dir="ltr" style="padding-left:
-      57px;"><span style="font-size: x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/latin-authors/vergil/vergil-recent">Vergil
-      Recent</a></span></div></li></ul></li></ul></li><li
-      class="topLevel parent "><div dir="ltr" style="padding-left: 0px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link topLevel"
-      href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic">Pre-Hellenistic
-      Poets</a></span></div><ul class="has-expander"><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/antimachus">Antimachus</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/aristophanes">Aristophanes</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/hesiod">Hesiod</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/pindar">Pindar</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/sappho">Sappho</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/simonides">Simonides</a></span></div></li><li
-      class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size:
-      x-small;"><a class="sites-navigation-link"
-      href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/tragedy">Tragedy</a></span></div></li></ul></li><li
-      class="topLevel "><div dir="ltr" style="padding-left: 19px;"><span
-      style="font-size: x-small;"><a class="sites-navigation-link topLevel"
-      href="https://sites.google.com/site/hellenisticbibliography/publications2007-2010">Publications
-      2008-2012</a></span></div></li></ul></div></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Poetry"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Hellenistic"/>
+   <title type="text">A Hellenistic Bibliography</title>
+   <content type="html"><![CDATA[<a href="https://sites.google.com/site/hellenisticbibliography/">A Hellenistic Bibliography</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;"><span style="font-size: small;"><b><span style="color: #3d85c6;"></span></b></span></span><div style="font-weight: bold;"><span style="color: #073763; font-size: x-small;">Welcome to the Hellenistic Bibliography</span></div><div><span style="color: #073763; font-size: x-small;">a bibliography on post-classical Greek poetry and its influence</span>&nbsp;</div></blockquote><blockquote class="tr_bq"><div><span style="font-size: x-small;">This site provides bibliographies on post-classical Greek poets and  their influence,&nbsp;compiled from a database containing ca. 20,500  records. It is organized under the following rubrics:</span><br /><div><ul><li><span style="font-size: x-small;">Hellenistic Poets – active between ca. 323 and 31 BCE</span></li><li><span style="font-size: x-small;">Imperial Greek Poets – active between ca. 31 BCE and the 6th century CE</span></li><li><span style="font-size: x-small;">Pre-Hellenistic poets – the influence of Archaic and Classical poets on later Greek poetry</span></li><li><span style="font-size: x-small;">Latin Poets – focusing on their connections with post-classical Greek poetry</span></li><li><span style="font-size: x-small;">History – focusing on the Hellenistic Period and Empire (under construction)</span></li><li><span style="font-size: x-small;">Epigrammatists – spanning the Hellenistic period and the Empire</span></li><li><span style="font-size: x-small;">Publications 2006-2010 – all recent publications listed by year, with index terms</span></li><li><span style="font-size: x-small;">Additions – publications added to the database after 15th January 2011</span></li></ul></div><div><span style="font-size: x-small;">Compiled and maintained by:&nbsp;<a href="http://www.tcd.ie/Classics/research/cuypers.php" rel="nofollow" target="_blank">Martine Cuypers</a>, <a href="http://www.tcd.ie/Classics/" rel="nofollow" target="_blank">Trinity College Dublin</a><br />Please send additions and corrections to:&nbsp;<a href="mailto:cuypersm@tcd.ie">cuypersm@tcd.ie</a></span></div></div><span style="font-size: xx-small;"><br /></span><div class="sites-embed" id="COMP_2bd"><div class="sites-embed-content sites-sidebar-nav "><ul><li class="topLevel parent "><div dir="ltr" style="padding-left: 0px;"><span style="font-size: x-small;"><a class="sites-navigation-link topLevel" href="https://sites.google.com/site/hellenisticbibliography/epigram">Epigrammatists</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/epigram/anyte">Anyte</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/epigram/asclepiades">Asclepiades</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/epigram/epigram-recent">Epigram 2008-2012</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/epigram/erinna">Erinna</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/epigram/leonidas-of-tarentum">Leonidas of Tarentum</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/epigram/meleager">Meleager</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/epigram/nossis">Nossis</a></span></div></li><li class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/epigram/posidippus">Posidippus</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/epigram/posidippus/posidippus-recent">Posidippus Recent</a></span></div></li></ul></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/epigram/simias">Simias</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/epigram/strato-of-sardis">Strato of Sardis</a></span></div></li></ul></li><li class="topLevel parent "><div dir="ltr" style="padding-left: 0px;"><span style="font-size: x-small;"><a class="sites-navigation-link topLevel" href="https://sites.google.com/site/hellenisticbibliography/hellenistic">Hellenistic Poets</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/alexander-aetolus-1">Alexander Aetolus</a></span></div></li><li class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/apollonius-of-rhodes">Apollonius of Rhodes</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/apollonius-of-rhodes/apollonius-recent">Apollonius Recent</a></span></div></li></ul></li><li class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/aratus-and-aratea">Aratus and Aratea</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/aratus-and-aratea/aratus-and-aratea-recent">Aratus and Aratea Recent</a></span></div></li></ul></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/archestratus">Archestratus</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/bion-and-epitaphium-bionis">Bion &amp; Epitaphium Bionis</a></span></div></li><li class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/callimachus">Callimachus</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/callimachus/callimachus-recent">Callimachus Recent</a></span></div></li></ul></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/cercidas">Cercidas</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/cleanthes">Cleanthes</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/eratosthenes">Eratosthenes</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/euphorion">Euphorion</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/hermesianax">Hermesianax</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/herodas">Herodas</a></span></div></li><li class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/lycophron">Lycophron</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/lycophron/lycophron-recent">Lycophron Recent</a></span></div></li></ul></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/macho">Macho</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/matro">Matro</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/menander">Menander</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/moschus">Moschus</a></span></div></li><li class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/nicander">Nicander</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/nicander/nicander-recent">Nicander Recent</a></span></div></li></ul></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/phanocles">Phanocles</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/philetas">Philetas</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/rhianus">Rhianus</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/sotades">Sotades</a></span></div></li><li class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/theocritus">Theocritus</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/hellenistic/theocritus/theocritus-recent">Theocritus Recent</a></span></div></li></ul></li></ul></li><li class="topLevel parent "><div dir="ltr" style="padding-left: 0px;"><span style="font-size: x-small;"><a class="sites-navigation-link topLevel" href="https://sites.google.com/site/hellenisticbibliography/history">History</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/history/alexander-the-great">Alexander the Great</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/history/history-recent">History Recent</a></span></div></li></ul></li><li class="topLevel parent "><div dir="ltr" style="padding-left: 0px;"><span style="font-size: x-small;"><a class="sites-navigation-link topLevel" href="https://sites.google.com/site/hellenisticbibliography/empire">Imperial Poets</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/colluthus">Colluthus</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/dionysius-periegetes">Dionysius Periegetes</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/eudocia">Eudocia</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/musaeus">Musaeus</a></span></div></li><li class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/nonnus">Nonnus</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/nonnus/nonnus-recent">Nonnus Recent</a></span></div></li></ul></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/oppiani">Oppiani</a></span></div></li><li class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/orphica">Orphica</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/orphica/orphic-argonautica">Orphic Argonautica</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/orphica/orphic-hymns">Orphic Hymns</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/orphica/orphica-recent">Orphica Recent</a></span></div></li></ul></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/parthenius">Parthenius</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/ps--scymnus">Ps.-Scymnus</a></span></div></li><li class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/quintus-of-smyrna">Quintus of Smyrna</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/quintus-of-smyrna/quintus-of-smyrna-recent">Quintus Recent</a></span></div></li></ul></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/empire/triphiodorus">Triphiodorus</a></span></div></li></ul></li><li class="topLevel parent "><div dir="ltr" style="padding-left: 0px;"><span style="font-size: x-small;"><a class="sites-navigation-link topLevel" href="https://sites.google.com/site/hellenisticbibliography/latin-authors">Latin Poets</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/catullus">Catullus</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/cicero">Cicero</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/ennius">Ennius</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/germanicus">Germanicus</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/horace">Horace</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/lucan">Lucan</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/lucretius">Lucretius</a></span></div></li><li class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/ovid">Ovid</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/ovid/ovid-recent">Ovid Recent</a></span></div></li></ul></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/propertius">Propertius</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/silius-italicus">Silius Italicus</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/statius">Statius</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/tibullus">Tibullus</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/valerius-flaccus">Valerius Flaccus</a></span></div></li><li class="parent closed "><div dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/vergil">Vergil</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/latin-authors/vergil/vergil-recent">Vergil Recent</a></span></div></li></ul></li></ul></li><li class="topLevel parent "><div dir="ltr" style="padding-left: 0px;"><span style="font-size: x-small;"><a class="sites-navigation-link topLevel" href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic">Pre-Hellenistic Poets</a></span></div><ul class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/antimachus">Antimachus</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/aristophanes">Aristophanes</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/hesiod">Hesiod</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/pindar">Pindar</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/sappho">Sappho</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/simonides">Simonides</a></span></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><span style="font-size: x-small;"><a class="sites-navigation-link" href="https://sites.google.com/site/hellenisticbibliography/pre-hellenistic/tragedy">Tragedy</a></span></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><span style="font-size: x-small;"><a class="sites-navigation-link topLevel" href="https://sites.google.com/site/hellenisticbibliography/publications2007-2010">Publications 2008-2012</a></span></div></li></ul></div></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1674783810966421826/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1674783810966421826/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/06/hellenistic-bibliography.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1674783810966421826"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1674783810966421826"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/06/hellenistic-bibliography.html"
          title="A Hellenistic Bibliography"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

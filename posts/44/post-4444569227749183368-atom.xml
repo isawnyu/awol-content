@@ -1,48 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4444569227749183368</id>
-    <published>2011-09-30T10:20:00.000-04:00</published>
-    <updated>2011-09-30T10:20:35.574-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4444569227749183368</id>
+   <published>2011-09-30T10:20:00.000-04:00</published>
+   <updated>2016-04-19T11:36:36.741-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
-    <title type="text">Roman Imperial Coin Hoards</title>
-    <content type="html"><![CDATA[<a href="http://www.fda.adwmainz.de/index.php?id=340">RICH - Roman
-      Imperial Coin Hoards</a><br /><br /><blockquote><span
-      style="font-size: x-small;"><a href="http://www.ucl.ac.uk/history/people/crawford.htm"
-      target="_blank">Prof. Michael Crawford</a>, University College London, in cooperation
-      with Fundmünzen der Antike </span><br /><span style="font-size:
-      x-small;"><br /></span><br /> <span style="font-size: x-small;">RICH
-      is a bibliography of coin hoards from the Roman Imperial period. It was originally assembled by
-      Michael Crawford in continuation of his book Coin Hoards of the Roman
-      Republic.</span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
+   <title type="text">RICH - Roman Imperial Coin Hoards</title>
+   <content type="html"><![CDATA[<a href="http://www.adwmainz.de/projekte/fundmuenzen-der-antike-fda/rich.html">RICH - Roman Imperial Coin Hoards</a><br /><blockquote><span style="font-size: x-small;"><a href="http://www.ucl.ac.uk/history/people/crawford.htm" target="_blank">Prof. Michael Crawford</a>, University College London, in cooperation with <a href="http://www.adwmainz.de/projekte/fundmuenzen-der-antike-fda/informationen.html">Fundmünzen der Antike</a></span><br /><span style="font-size: x-small;"><br /></span><br /><span style="font-size: x-small;">RICH is a bibliography of coin hoards from the Roman Imperial  period. It was originally assembled by Michael Crawford in continuation  of his book Coin Hoards of the Roman Republic.</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">However far one may deconstruct the concept of Romanisation, two   facts (at least) remain: the dominance, from Britain to Syria, by the   middle of the first century AD, of a single, Roman, monetary system; and   the discovery in modern times of thousands of hoards of Roman coins,   mainstream and provincial, which are the most visible concrete   manifestation of that system.  The purpose of this data-base is to make   available bibliographical information about these coin hoards, as a  tool  in the comparative study of monetary use, monetary circulation,  and  monetary history, over the whole world ruled by, and in contact  with,  the Roman Empire; we attach particular importance to the presence  of  material from Italy, the centre of the Roman Empire, and to the   inclusion of hoards of provincial, as well as mainstream issues.  We   have sought to include in the first instance those hoards which are of   substantial size, and whose contents are reasonably well known; however,   we have also included hoards that do not meet either or both of these   criteria, but that are interesting because of their rarity or  uniqueness  in their particular context. as well as small or imperfectly  known  hoards that have come our way.  On the other hand, the material  includes  a number of hoards that are unpublished, but that one of us  has seen on  display in a museum; but any systematic study of these will  in our view  for the foreseeable future belong in chronologically or  regionally  specialized studies. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">We are beginning by making available material on hoards closing   between Tiberius and Septimius Severus.  We look forward to receiving   additions and corrections to this and future tranches of hoard material;   hoards closing with Augustus may be found in Roman Republican Coin   Hoards, an updated version of which will in the near future be made   progressively available on the Imagines Italicae web-site. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"></span><span style="font-size: x-small;">The information provided here is generally as initially recorded by   Michael Crawford, but this will gradually be standardised and further   details added.   </span><br /></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4444569227749183368/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4444569227749183368/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/09/roman-imperial-coin-hoards.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4444569227749183368"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4444569227749183368"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/09/roman-imperial-coin-hoards.html"
-         title="Roman Imperial Coin Hoards"/>
-    <author>
+         title="RICH - Roman Imperial Coin Hoards"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

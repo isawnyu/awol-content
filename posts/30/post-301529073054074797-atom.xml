@@ -1,124 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-301529073054074797</id>
-    <published>2010-11-17T23:32:00.001-05:00</published>
-    <updated>2010-11-17T23:33:46.987-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-301529073054074797</id>
+   <published>2010-11-17T23:32:00.001-05:00</published>
+   <updated>2010-11-17T23:33:46.987-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Online Exhibit: Before Pythagoras</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/">Before Pythagoras: The Culture
-      of Old Babylonian Mathematics</a><br /><blockquote><span style="font-size:
-      x-small;">Since the nineteenth century, thousands of cuneiform tablets dating to the Old
-      Babylonian Period (c. 1900-1700 BCE) have come to light at various sites in ancient <a
-      href="http://en.wikipedia.org/wiki/Mesopotamia">Mesopotamia</a> (modern Iraq). A
-      significant number record mathematical tables, problems, and calculations. In the 1920s these
-      tablets began to be systematically studied by <a
-      href="http://en.wikipedia.org/wiki/Otto_E._Neugebauer">Otto Neugebauer</a>, who spent
-      two decades transcribing and interpreting tablets housed in European and American museums. His
-      labors, and those of his associates, rivals, and successors, have revealed a rich culture of
-      mathematical practice and education that flourished more than a thousand years before the Greek
-      sages <a href="http://en.wikipedia.org/wiki/Thales">Thales</a> and <a
-      href="http://en.wikipedia.org/wiki/Pythagoras">Pythagoras</a> with whom histories of
-      mathematics used to begin.</span><br /><br /><span style="font-size:
-      x-small;">This exhibition is the first to explore the world of Old Babylonian mathematics
-      through cuneiform tablets covering the full spectrum of mathematical activity, from
-      arithmetical tables copied out by young scribes-in-training to sophisticated work on topics
-      that would now be classified as number theory and algebra. The pioneering research of
-      Neugebauer and his contemporaries concentrated on the mathematical content of the advanced
-      texts; a selection of archival manuscripts and correspondence offers a glimpse of Neugebauer's
-      research methods and his central role in this “heroic
-      age.”</span></blockquote><blockquote><div
-      id="body"><blockquote><h2><a
-      href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/highlights.html"><span
-      style="font-size: x-small;">Highlights from the
-      Exhibition</span></a></h2><div class="highlight" id="B6063obv"><div
-      class="image"><span style="font-size: x-small;"><a
-      href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/b-6063/" title="Click for
-      more information about this tablet (B6063)"><img alt="Photograph of the obverse side of
-      tablet B 06063"
-      src="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/images/B6063o-thumb.png"
-      /></a></span> </div><div class="label"><h3><span
-      style="font-size: x-small;"><a
-      href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/b-6063/" title="Click for
-      more information about this tablet (B6063)">University of Pennsylvania Museum
-      B6063</a></span></h3><span style="font-size: x-small;">This
-      multiplication table was written by a student named Gan-Gal as a demonstration of his skill as
-      a scribe. <a
-      href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/b-6063/">Click here to
-      learn more.</a></span><br /><div class="image-credit"><span
-      style="font-size: x-small;">Image by University of Pennsylvania Museum. All rights
-      reserved.</span></div></div></div><div class="highlight"
-      id="YBC7289obv"><div class="image"><span style="font-size: x-small;"><a
-      href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/ybc-7289/" title="Click for
-      more information about this tablet (YBC 7289)"><img alt="Photograph of the obverse side
-      of tablet YBC 7289"
-      src="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/images/YBC7289obv-thumb2.png"
-      /></a></span> </div><div class="label"><h3><span
-      style="font-size: x-small;"><a
-      href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/ybc-7289/" title="Click for
-      more information about this tablet (YBC 7289)">Yale Babylonian Collection YBC
-      7289</a></span></h3><span style="font-size: x-small;">This famous
-      tablet is a graphic witness that Babylonian scribes knew Pythagoras' Theorem and could
-      calculate accurate square roots. <a
-      href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/ybc-7289/">Click here to
-      learn more.</a></span> <br /><div class="image-credit"><span
-      style="font-size: x-small;">Image by West Semitic Research. All rights
-      reserved.</span></div></div></div></blockquote><div
-      class="highlight" id="Plimpton322obv"><blockquote><div class="image"><span
-      style="font-size: x-small;"><a
-      href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/plimpton-322" title="Click
-      for more information about this tablet (Plimpton 322)"><img alt="Photograph of the
-      obverse side of tablet Plimpton 322"
-      src="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/images/Plimpton322o-thumb.png"
-      /></a></span> </div></blockquote><div
-      class="label"><blockquote><h3><span style="font-size: x-small;"><a
-      href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/plimpton-322" title="Click
-      for more information about this tablet (Plimpton 322)">Columbia University Plimpton
-      322</a></span></h3><span style="font-size: x-small;">Plimpton 322
-      reveals that the Babylonians had a method of finding sets of three whole numbers such that the
-      square of one of them is the sum of the squares of the other two, a classic problem in Number
-      Theory. <a
-      href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/plimpton-322">Click here
-      to learn more.</a></span><br /><div class="image-credit"><span
-      style="font-size: x-small;">Image by Christine Proust. All rights
-      reserved.</span></div></blockquote></div></div></div></blockquote><span
-      style="font-size: xx-small;"> </span><br /><br /><div
-      style="text-align: center;"><a expr:id="data:post.url" expr:name="data:post.title"
-      href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" onclick="return
-      addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this,
-      &quot;&quot;, this.id, this.name);"><img alt="Bookmark and Share so Your Real
-      Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif"
-      style="border: 0pt none;" width="125" /></a></div><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></p></p></script>]]></content>
-    <link rel="replies"
+   <title type="text">Online Exhibit:  Before Pythagoras</title>
+   <content type="html"><![CDATA[<a href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/">Before Pythagoras: The Culture of Old Babylonian Mathematics</a><br /><blockquote><span style="font-size: x-small;">Since the nineteenth century, thousands of cuneiform tablets dating                                 to the Old Babylonian Period (c. 1900-1700 BCE) have come to light                                 at various sites in ancient <a href="http://en.wikipedia.org/wiki/Mesopotamia">Mesopotamia</a>                                 (modern Iraq). A significant number record mathematical tables,                                 problems, and calculations. In the 1920s these tablets began to be                                 systematically studied by <a href="http://en.wikipedia.org/wiki/Otto_E._Neugebauer">Otto                                     Neugebauer</a>, who spent two decades transcribing and                                 interpreting tablets housed in European and American museums. His                                 labors, and those of his associates, rivals, and successors, have                                 revealed a rich culture of mathematical practice and education that                                 flourished more than a thousand years before the Greek sages <a href="http://en.wikipedia.org/wiki/Thales">Thales</a> and <a href="http://en.wikipedia.org/wiki/Pythagoras">Pythagoras</a>                                 with whom histories of mathematics used to begin.</span><br /><br /><span style="font-size: x-small;">This exhibition is the first to explore the world of Old Babylonian                                 mathematics through cuneiform tablets covering the full spectrum of                                 mathematical activity, from arithmetical tables copied out by young                                 scribes-in-training to sophisticated work on topics that would now                                 be classified as number theory and algebra. The pioneering research                                 of Neugebauer and his contemporaries concentrated on the                                 mathematical content of the advanced texts; a selection of archival                                 manuscripts and correspondence offers a glimpse of Neugebauer's                                 research methods and his central role in this “heroic                                 age.”</span></blockquote><blockquote><div id="body"><blockquote><h2><a href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/highlights.html"><span style="font-size: x-small;">Highlights from the Exhibition</span></a></h2><div class="highlight" id="B6063obv"><div class="image"><span style="font-size: x-small;"><a href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/b-6063/" title="Click for more information about this tablet (B6063)"><img alt="Photograph of the obverse side of tablet B 06063" src="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/images/B6063o-thumb.png" /></a></span>                         </div><div class="label"><h3><span style="font-size: x-small;"><a href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/b-6063/" title="Click for more information about this tablet (B6063)">University of Pennsylvania Museum B6063</a></span></h3><span style="font-size: x-small;">This multiplication table was written by a student named Gan-Gal as a                                 demonstration of his skill as a scribe. <a href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/b-6063/">Click here to learn more.</a></span><br /><div class="image-credit"><span style="font-size: x-small;">Image by University of Pennsylvania Museum. All                                 rights reserved.</span></div></div></div><div class="highlight" id="YBC7289obv"><div class="image"><span style="font-size: x-small;"><a href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/ybc-7289/" title="Click for more information about this tablet (YBC 7289)"><img alt="Photograph of the obverse side of tablet YBC 7289" src="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/images/YBC7289obv-thumb2.png" /></a></span>                         </div><div class="label"><h3><span style="font-size: x-small;"><a href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/ybc-7289/" title="Click for more information about this tablet (YBC 7289)">Yale Babylonian Collection YBC 7289</a></span></h3><span style="font-size: x-small;">This famous tablet is a graphic witness that Babylonian scribes knew                                 Pythagoras' Theorem and could calculate accurate square roots. <a href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/ybc-7289/">Click here to learn more.</a></span>                             <br /><div class="image-credit"><span style="font-size: x-small;">Image by West Semitic Research. All rights                                 reserved.</span></div></div></div></blockquote><div class="highlight" id="Plimpton322obv"><blockquote><div class="image"><span style="font-size: x-small;"><a href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/plimpton-322" title="Click for more information about this tablet (Plimpton 322)"><img alt="Photograph of the obverse side of tablet Plimpton 322" src="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/images/Plimpton322o-thumb.png" /></a></span>                         </div></blockquote><div class="label"><blockquote><h3><span style="font-size: x-small;"><a href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/plimpton-322" title="Click for more information about this tablet (Plimpton 322)">Columbia University Plimpton 322</a></span></h3><span style="font-size: x-small;">Plimpton 322 reveals that the Babylonians had a method of finding                                 sets of three whole numbers such that the square of one of them is                                 the sum of the squares of the other two, a classic problem in Number                                 Theory. <a href="http://www.nyu.edu/isaw/exhibitions/before-pythagoras/items/plimpton-322">Click here to learn                                 more.</a></span><br /><div class="image-credit"><span style="font-size: x-small;">Image by Christine Proust. All rights                                 reserved.</span></div></blockquote></div></div></div></blockquote><span style="font-size: xx-small;">                                 </span><br /><br /><div style="text-align: center;"><a expr:id="data:post.url" expr:name="data:post.title" href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this, &quot;&quot;, this.id, this.name);"><img alt="Bookmark and Share so Your Real Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt none;" width="125" /></a></div><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></p></p></script>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/301529073054074797/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/301529073054074797/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/11/online-exhibit-before-pythagoras.html#comment-form"
          title="1 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/301529073054074797"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/301529073054074797"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/11/online-exhibit-before-pythagoras.html"
          title="Online Exhibit:  Before Pythagoras"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

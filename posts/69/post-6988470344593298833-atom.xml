@@ -1,107 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6988470344593298833</id>
-    <published>2014-09-18T15:23:00.001-04:00</published>
-    <updated>2014-09-18T15:23:16.150-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6988470344593298833</id>
+   <published>2014-09-18T15:23:00.001-04:00</published>
+   <updated>2014-09-18T15:23:16.150-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Visualization"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Digitales Forum Romanum</title>
-    <content type="html"><![CDATA[<a href="http://www.digitales-forum-romanum.de/">Digitales Forum
-      Romanum</a><br /><blockquote class="tr_bq"><img
-      alt="http://www.digitales-forum-romanum.de/wp-content/uploads/2014/02/Phase-L_Viewpoint-BeckOst13-760x338.jpg"
-      class="decoded" height="140"
-      src="http://www.digitales-forum-romanum.de/wp-content/uploads/2014/02/Phase-L_Viewpoint-BeckOst13-760x338.jpg"
-      width="320" /> </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><b>Forschungs- &amp; Lehrprojekt des Winckelmann-Instituts der
-      Humboldt-Universität zu Berlin<br />in Kooperation mit dem Exzellenzcluster
-      TOPOI</b></span><br /><br /><span style="font-size: x-small;">Das
-      <b>antike Forum Romanum</b> gehört zu den Hauptattraktionen eines jeden Rombesuchs.
-      Täglich erkunden hunderte von Besuchern das Forum Romanum und lassen sich von der
-      stimmungsvollen Ruinenlandschaft und der historischen Bedeutung dieses Ortes faszinieren: Hier
-      lag das öffentlich-politische Zentrum der antiken Metropole, hier wurde Politik gemacht und
-      Geschichte geschrieben – und entsprechend pulsiert hier für uns heutzutage die Vergangenheit
-      des antiken Roms in einer ganz besonderen Intensität. Doch angesichts der idyllischen
-      Ruinenlandschaft, als welche sich die Ausgrabungsstätte heutzutage präsentiert, fällt es
-      schwer, sich ein wirkliches Bild von diesem antiken Platz zu machen: Wie erlebten ihn die
-      Menschen in der Antike, wie präsentierte er sich als Bühne des politischen Handelns und der
-      gesellschaftlichen Kommunikation, und wie funktionierte er überhaupt konkret als öffentliches
-      Zentrum dieser einzigartigen antiken Metropole? Es sind diese Fragen, mit denen die
-      Ausgrabungsstätte ihre Besucher oftmals alleine lässt. Und es sind die Fragen, auf die wiederum
-      die Klassische Archäologie seit jeher mit Hilfe von Rekonstruktionen Antworten zu geben
-      versucht.</span> </blockquote><blockquote class="tr_bq"> <br
-      /><li><a
-      href="http://www.digitales-forum-romanum.de/">Start</a></li><br /><br
-      /><li><a
-      href="http://www.digitales-forum-romanum.de/index.php/forum-romanum/">Forum
-      Romanum</a></li><li><a
-      href="http://www.digitales-forum-romanum.de/index.php/projekt/">Projekt</a></li><li><a
-      href="http://www.digitales-forum-romanum.de/index.php/ressourcen/">Ressourcen</a></li><li><a
-      href="http://www.digitales-forum-romanum.de/index.php/multimedia/">Multimedia</a></li><li><a
-      href="http://www.digitales-forum-romanum.de/index.php/kontakt/">Kontakt</a></li><div
-      id="sidebar"><ul id="zeitleiste"><li>Frühzeit<span class="epochenzeit">7.
-      Jh. v.Chr.</span></li><li>Königszeit<span class="epochenzeit">um 520
-      v.Chr.</span></li><li>Frühe Republik<span class="epochenzeit">um 450
-      v.Chr.</span></li><li>Mittlere Republik I<span class="epochenzeit">um
-      300 v.Chr.</span></li><li>Mittlere Republik II<span
-      class="epochenzeit">um 250 v.Chr.</span></li><li
-      class="spaete-republik-i"><a
-      href="http://www.digitales-forum-romanum.de/gebaeudeliste/#spaete-republik-i">Späte Republik
-      I<span class="epochenzeit">um 200 v.Chr.</span></a></li><li
-      class="spaete-republik-ii"><a
-      href="http://www.digitales-forum-romanum.de/gebaeudeliste/#spaete-republik-ii">Späte
-      Republik II<span class="epochenzeit">um 100
-      v.Chr.</span></a></li><li>Sullanisch<span class="epochenzeit">um
-      70 v.Chr.</span></li><li>Caesarisch<span class="epochenzeit">um 44
-      v.Chr.</span></li><li>Augusteisch I<span class="epochenzeit">um 20
-      v.Chr.</span></li><li class="augusteisch-ii"><a
-      href="http://www.digitales-forum-romanum.de/gebaeudeliste/#augusteisch-ii">Augusteisch
-      II<span class="epochenzeit">um 14 n.Chr.</span></a></li><li
-      class="flavisch"><a
-      href="http://www.digitales-forum-romanum.de/gebaeudeliste/#flavisch">Flavisch<span
-      class="epochenzeit">um 96
-      n.Chr.</span></a></li><li>Antoninisch<span class="epochenzeit">um
-      150 n.Chr.</span></li><li class="severisch"><a
-      href="http://www.digitales-forum-romanum.de/gebaeudeliste/#severisch">Severisch<span
-      class="epochenzeit">um 210 n.Chr.</span></a></li><li
-      class="tetrarchisch"><a
-      href="http://www.digitales-forum-romanum.de/gebaeudeliste/#tetrarchisch">Tetrarchisch<span
-      class="epochenzeit">um 310 n.Chr.</span></a></li><li>Spätantik
-      I<span class="epochenzeit">um 350 n.Chr.</span></li><li>Spätantik
-      II<span class="epochenzeit">5. Jh.
-      n.Chr.</span></li><li>Frühmittelalter<span class="epochenzeit">6./7.
-      Jh. n.Chr.</span></li><li>Ruinen<span
-      class="epochenzeit">Gegenwart</span></li></ul></div><br
-      /></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Visualization"/>
+   <title type="text">Digitales Forum Romanum</title>
+   <content type="html"><![CDATA[<a href="http://www.digitales-forum-romanum.de/">Digitales Forum Romanum</a><br /><blockquote class="tr_bq"><img alt="http://www.digitales-forum-romanum.de/wp-content/uploads/2014/02/Phase-L_Viewpoint-BeckOst13-760x338.jpg" class="decoded" height="140" src="http://www.digitales-forum-romanum.de/wp-content/uploads/2014/02/Phase-L_Viewpoint-BeckOst13-760x338.jpg" width="320" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><b>Forschungs- &amp; Lehrprojekt des Winckelmann-Instituts der Humboldt-Universität zu Berlin<br />in Kooperation mit dem Exzellenzcluster TOPOI</b></span><br /><br /><span style="font-size: x-small;">Das <b>antike Forum Romanum</b> gehört zu den  Hauptattraktionen eines jeden Rombesuchs. Täglich erkunden hunderte von  Besuchern das Forum Romanum und lassen sich von der stimmungsvollen  Ruinenlandschaft und der historischen Bedeutung dieses Ortes  faszinieren: Hier lag das öffentlich-politische Zentrum der antiken  Metropole, hier wurde Politik gemacht und Geschichte geschrieben – und  entsprechend pulsiert hier für uns heutzutage die Vergangenheit des  antiken Roms in einer ganz besonderen Intensität. Doch angesichts der  idyllischen Ruinenlandschaft, als welche sich die Ausgrabungsstätte  heutzutage präsentiert, fällt es schwer, sich ein wirkliches Bild von  diesem antiken Platz zu machen: Wie erlebten ihn die Menschen in der  Antike, wie präsentierte er sich als Bühne des politischen Handelns und  der gesellschaftlichen Kommunikation, und wie funktionierte er überhaupt  konkret als öffentliches Zentrum dieser einzigartigen antiken  Metropole? Es sind diese Fragen, mit denen die Ausgrabungsstätte ihre  Besucher oftmals alleine lässt. Und es sind die Fragen, auf die wiederum  die Klassische Archäologie seit jeher mit Hilfe von Rekonstruktionen  Antworten zu geben versucht.</span> </blockquote><blockquote class="tr_bq"> <br /><li><a href="http://www.digitales-forum-romanum.de/">Start</a></li><br /><br /><li><a href="http://www.digitales-forum-romanum.de/index.php/forum-romanum/">Forum Romanum</a></li><li><a href="http://www.digitales-forum-romanum.de/index.php/projekt/">Projekt</a></li><li><a href="http://www.digitales-forum-romanum.de/index.php/ressourcen/">Ressourcen</a></li><li><a href="http://www.digitales-forum-romanum.de/index.php/multimedia/">Multimedia</a></li><li><a href="http://www.digitales-forum-romanum.de/index.php/kontakt/">Kontakt</a></li><div id="sidebar"><ul id="zeitleiste"><li>Frühzeit<span class="epochenzeit">7. Jh. v.Chr.</span></li><li>Königszeit<span class="epochenzeit">um 520 v.Chr.</span></li><li>Frühe Republik<span class="epochenzeit">um 450 v.Chr.</span></li><li>Mittlere Republik I<span class="epochenzeit">um 300 v.Chr.</span></li><li>Mittlere Republik II<span class="epochenzeit">um 250 v.Chr.</span></li><li class="spaete-republik-i"><a href="http://www.digitales-forum-romanum.de/gebaeudeliste/#spaete-republik-i">Späte Republik I<span class="epochenzeit">um 200 v.Chr.</span></a></li><li class="spaete-republik-ii"><a href="http://www.digitales-forum-romanum.de/gebaeudeliste/#spaete-republik-ii">Späte Republik II<span class="epochenzeit">um 100 v.Chr.</span></a></li><li>Sullanisch<span class="epochenzeit">um 70 v.Chr.</span></li><li>Caesarisch<span class="epochenzeit">um 44 v.Chr.</span></li><li>Augusteisch I<span class="epochenzeit">um 20 v.Chr.</span></li><li class="augusteisch-ii"><a href="http://www.digitales-forum-romanum.de/gebaeudeliste/#augusteisch-ii">Augusteisch II<span class="epochenzeit">um 14 n.Chr.</span></a></li><li class="flavisch"><a href="http://www.digitales-forum-romanum.de/gebaeudeliste/#flavisch">Flavisch<span class="epochenzeit">um 96 n.Chr.</span></a></li><li>Antoninisch<span class="epochenzeit">um 150 n.Chr.</span></li><li class="severisch"><a href="http://www.digitales-forum-romanum.de/gebaeudeliste/#severisch">Severisch<span class="epochenzeit">um 210 n.Chr.</span></a></li><li class="tetrarchisch"><a href="http://www.digitales-forum-romanum.de/gebaeudeliste/#tetrarchisch">Tetrarchisch<span class="epochenzeit">um 310 n.Chr.</span></a></li><li>Spätantik I<span class="epochenzeit">um 350 n.Chr.</span></li><li>Spätantik II<span class="epochenzeit">5. Jh. n.Chr.</span></li><li>Frühmittelalter<span class="epochenzeit">6./7. Jh. n.Chr.</span></li><li>Ruinen<span class="epochenzeit">Gegenwart</span></li></ul></div><br /></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6988470344593298833/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6988470344593298833/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/digitales-forum-romanum.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6988470344593298833"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6988470344593298833"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/digitales-forum-romanum.html"
          title="Digitales Forum Romanum"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

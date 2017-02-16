@@ -1,61 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8995594303718910477</id>
-    <published>2012-06-15T10:24:00.004-04:00</published>
-    <updated>2012-06-15T10:24:45.806-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8995594303718910477</id>
+   <published>2012-06-15T10:24:00.004-04:00</published>
+   <updated>2012-06-15T10:24:45.806-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Industry"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Archive of Industrial establishments and workshops in the Aegean</title>
-    <content type="html"><![CDATA[<a
-      href="http://pandektis.ekt.gr/pandektis/handle/10442/428">Industrial establishments and
-      workshops in the Aegean</a><br /><blockquote class="tr_bq"><img
-      src="http://pandektis.ekt.gr/pandektis/icons/headers/pandekths-INE-BIOMHXANIA-engl.jpg" />
-      </blockquote><blockquote class="tr_bq"><div class="ekt_quest"> <span
-      style="font-size: x-small;"><b>General
-      Information</b></span></div><span style="font-size: x-small;">The
-      collection gathers documentary material from our Institute’s activities on the preservation of
-      the industrial heritage and workshops in the Aegean. It is based on our attempt to register
-      worthy industrial activity, plants as well as artisan workshops, during the process of creating
-      a History of the enterprise. The colleagues that collaborated in this issue are historians and
-      architects, namely Ioanna Vallina, Katerina Dede, Maria Mavroidi, Yiorgos Paschalides, Evdokia
-      Olympitou and Evridiki Sifnaiou.&nbsp;</span></blockquote><blockquote
-      class="tr_bq"> <div class="ekt_quest"> <span style="font-size:
-      x-small;"><b>Content (material included</b>)</span></div><span
-      style="font-size: x-small;">The photos of the collection derive from original shots of the
-      industrial establishments and workshops, photos of documents and objects belonging to the units
-      documented. Photos already published are mentioned by their source.
-      </span></blockquote><br />A component of <a
-      href="http://pandektis.ekt.gr/pandektis/">Pandektis</a>.]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Industry"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <title type="text">Archive of Industrial establishments and workshops in the Aegean</title>
+   <content type="html"><![CDATA[<a href="http://pandektis.ekt.gr/pandektis/handle/10442/428">Industrial establishments and workshops in the Aegean</a><br /><blockquote class="tr_bq"><img src="http://pandektis.ekt.gr/pandektis/icons/headers/pandekths-INE-BIOMHXANIA-engl.jpg" />  </blockquote><blockquote class="tr_bq"><div class="ekt_quest"> <span style="font-size: x-small;"><b>General Information</b></span></div><span style="font-size: x-small;">The collection gathers documentary material from our Institute’s  activities on the preservation of the industrial heritage and workshops  in the Aegean. It is based on our attempt to register worthy industrial  activity, plants as well as artisan workshops, during the process of  creating a History of the enterprise. The colleagues that collaborated  in this issue are historians and architects, namely Ioanna Vallina,  Katerina Dede, Maria Mavroidi, Yiorgos Paschalides, Evdokia Olympitou  and Evridiki Sifnaiou.&nbsp;</span></blockquote><blockquote class="tr_bq">   <div class="ekt_quest">  <span style="font-size: x-small;"><b>Content (material included</b>)</span></div><span style="font-size: x-small;">The photos of the collection derive from original shots of the  industrial establishments and workshops, photos of documents and objects  belonging to the units documented. Photos already published are  mentioned by their source. </span></blockquote><br />A component of <a href="http://pandektis.ekt.gr/pandektis/">Pandektis</a>.]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8995594303718910477/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8995594303718910477/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/06/archive-of-industrial-establishments.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8995594303718910477"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8995594303718910477"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/06/archive-of-industrial-establishments.html"
          title="Archive of Industrial establishments and workshops in the Aegean"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

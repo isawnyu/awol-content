@@ -1,168 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4044273018990552054</id>
-    <published>2010-04-14T07:36:00.001-04:00</published>
-    <updated>2014-05-15T10:58:12.656-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4044273018990552054</id>
+   <published>2010-04-14T07:36:00.001-04:00</published>
+   <updated>2014-05-15T10:58:12.656-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">One Off Journal Issues: Open Access Anniversary issue of
-      Geoarchaeology</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.wiley.com/bw/wiley_vi.asp?ref=0883-6353&amp;site=1#529">25 Papers from
-      25 Years: A Special Virtual Issue of Geoarchaeology, April 2010</a><br /><span
-      style="font-size: 85%;"></span><br /><blockquote><span
-      style="font-size: 85%;">Edited by Jamie Woodward, Gary Huckleberry, Paul Goldberg and Rolfe
-      Mandel</span><br /><span style="font-size: 85%;">This collection has been
-      compiled to mark the publication of the 25th volume of <i>Geoarchaeology</i>. It
-      was launched in St Louis on April 15th 2010 at the 75th Annual Meeting of the Society for
-      American Archaeology. The broad aim was to produce a Virtual Special Issue of 25 papers to
-      showcase some of the most important and influential papers that have been published in the
-      journal over the last 25 years. At the same time, a key objective was to ensure that, as far as
-      possible, the collection covered all areas of geoarchaeology and was broadly representative of
-      the journal's history. We have combined qualitative and quantitative data to assemble this
-      Virtual Issue by canvassing all of the journal's Associate Editors (inviting them to identify
-      the most influential papers in their respective fields), and by using citation data (as one
-      measure of impact in the wider academy) to fine tune the list. The selected papers are listed
-      in chronological order and present a diversity of theories, models, approaches, and empirical
-      datasets derived from research across six continents. We anticipate that this Virtual Issue
-      will be of use to both students and researchers, and we hope it will generate debate. It is a
-      fitting way to celebrate the 25th anniversary of <i>Geoarchaeology: An International
-      Journal</i>.</span><br /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/gea.3340010301">Late Quaternary environmental history of
-      the southern Levant</a><br />Paul Goldberg </span><br /><span
-      style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.3340010303">Rates of
-      fluvial sedimentation: Implications for archaeological variability</a><br />C. Reid
-      Ferring </span><br /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/gea.3340030102">Paleorivers and geoarchaeology in the
-      southern Egyptian Sahara</a><br />William P. McHugh, John F. McCauley, C. Vance
-      Haynes, Carol S. Breed, Gerald G. Schaber </span><br /><span style="font-size:
-      85%;"><a href="http://doi.wiley.com/10.1002/gea.3340030303">A "marginality" model to
-      explain major spatial and temporal gaps in the old and new world Pleistocene settlement
-      records</a><br />Karl W. Butzer </span><br /><span style="font-size:
-      85%;"><a href="http://doi.wiley.com/10.1002/gea.3340090202">Impact of hydro-isostatic
-      Holocene sea-level change on the geologic context of Island archaeological sites, Northern
-      Ha'apai group, Kingdom of Tonga</a><br />William R. Dickinson, David V. Burley,
-      Richard Shutler Jr. </span><br /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/gea.3340100502">Geochronology of paleoenvironmental
-      change, clovis type site, Blackwater Draw, New Mexico</a><br />C. Vance Haynes Jr.
-      </span><br /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28199603%2911:2%3C95::AID-GEA1%3E3.0.CO;2-4">Short-term,
-      post-burial change in a humic rendzina soil, Overton Down Experimental Earthwork, Wiltshire,
-      England</a><br />J. Crowther, R. I. Macphail, G. M. Cruise </span><br
-      /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28199801%2913:1%3C3::AID-GEA2%3E3.0.CO;2-9">Solving
-      archaeological problems using techniques of soil magnetism</a><br />Rinita A.
-      Dalan, Subir K. Banerjee </span><br /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28199802%2913:3%3C309::AID-GEA4%3E3.0.CO;2-8">Evaluating
-      artifact burial by Eolian versus Bioturbation processes, South Carolina sandhills,
-      USA</a><br />David S. Leigh </span><br /><span style="font-size:
-      85%;"><a
-      href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28199812%2913:8%3C759::AID-GEA1%3E3.0.CO;2-B">Soil
-      constraints on Northwest Yucatán, Mexico: Pedoarchaeology and Maya Subsistence at
-      Chunchucmil</a><br />Timothy Beach </span><br /><span
-      style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28199812%2913:8%3C847::AID-GEA4%3E3.0.CO;2-6">The
-      Loess/Paleosol record and the nature of the Younger Dryas climate in central
-      China</a><br />David B. Madsen, Li Jingzen, Robert G. Elston, Xu Cheng, Robert L.
-      Bettinger, Geng Kan, P. Jeff Brantingham, Zhong Kan </span><br /><span
-      style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28199908%2914:6%3C511::AID-GEA3%3E3.0.CO;2-1">A
-      reinterpretation of the Great Pit at Hofstaoir, Iceland using sediment thin section
-      micromorphology</a><br />Ian A. Simpson, Karen B. Milek, Garðar Guðmundsson
-      </span><br /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28200003%2915:3%3C227::AID-GEA2%3E3.0.CO;2-A">The
-      evolution of Paleoindian geochronology and typology on the Great Plains</a><br
-      />Vance T. Holliday </span><br /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28200004%2915:4%3C331::AID-GEA3%3E3.0.CO;2-H">Prehistoric
-      shepherds and caves in the Trieste Karst (Northeastern Italy)</a><br />Giovanni
-      Boschian, Emanuela Montagnari-Kokelj </span><br /><span style="font-size:
-      85%;"><a
-      href="http://doi.wiley.com/10.1002/1520-6548%28200101%2916:1%3C119::AID-GEA8%3E3.0.CO;2-V">Geochronology
-      and climate change of the Pleistocene-Holocene transition in the Darb el Arba'in Desert,
-      Eastern Sahara</a><br />C. Vance Haynes Jr. </span><br /><span
-      style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.1007">The
-      sedimentary records in Mediterranean rockshelters and caves: Archives of environmental
-      change</a><br />Jamie C. Woodward, Paul Goldberg </span><br /><span
-      style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.1002">The
-      microstratigraphic record of abrupt climate changes in cave sediments of the Western
-      Mediterranean</a><br />Marie-Agnès Courty, Josep Vallverduc </span><br
-      /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/gea.10001">Darwin would be proud: Bioturbation, dynamic
-      denudation, and the power of theory in science</a><br />D. L. Johnson
-      </span><br /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/gea.10006">The effects of temporal and spatial patterns
-      of Holocene erosion and alluviation on the archaeological record of the Central and Eastern
-      Great Plains, U.S.A.</a><br />E. Arthur Bettis III, Rolfe D. Mandel
-      </span><br /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/gea.10008">Dynamic landscapes, artifact taphonomy, and
-      landuse modeling in the western Mediterranean</a><br />C. Michael Barton, Joan
-      Bernabeu, J. Emili Aura, Oreto Garcia, Neus La Roca </span><br /><span
-      style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/gea.20163">Geoarchaeology of the Kostenki-Borshchevo
-      sites, Don River Valley, Russia</a><br />Vance T. Holliday, John F. Hoffecker, Paul
-      Goldberg, Richard I. Macphail, Steven L. Forman, Mikhail Anikovich, Andrei Sinitsyn
-      </span><br /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/gea.20157">Biogeochemical studies of a Native American
-      runoff agroecosystem</a><br />Jonathan A. Sandor, Jay B. Norton, Jeffrey A.
-      Homburg, Deborah A. Muenchrath, Carleton S. White, Stephen E. Williams, Celeste I. Havener,
-      Peter D. Stahl </span><br /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/gea.20186">Identification of lime plaster in prehistory
-      using petrographic methods: A review and reconsideration of the data on the basis of
-      experimental and case studies</a><br />Panagiotis Karkanas </span><br
-      /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/gea.20259">The surface archaeological record in arid
-      Australia: Geomorphic controls on preservation, exposure, and visibility</a><br
-      />Patricia C. Fanning, Simon J. Holdaway, Ed J. Rhodes, Tessa G. Bryant </span><br
-      /><span style="font-size: 85%;"><a
-      href="http://doi.wiley.com/10.1002/gea.20295">Mid-Pleistocene pozzolanic volcanic ash in
-      ancient Roman concretes</a><br />Marie Jackson, Daniel Deocampo, Fabrizio Marra,
-      Barry Scheetz</span></blockquote><br /><div style="text-align:
-      center;">Other one off journals in AWOL are <a
-      href="http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html">here</a>,
-      <a
-      href="http://ancientworldonline.blogspot.com/2010/01/one-off-journal-issues-traitement.html">here</a>,
-      <a
-      href="http://ancientworldonline.blogspot.com/2009/03/one-off-journal-issues-french.html">here</a>,
-      <a
-      href="http://ancientworldonline.blogspot.com/2012/08/one-off-journal-issues-sickness-hunger.html">here</a>,
-      <a
-      href="http://ancientworldonline.blogspot.com/2010/04/one-off-journal-issues-histoire-urbaine.html">here</a>,
-      <a
-      href="http://ancientworldonline.blogspot.com/2010/04/one-off-journal-issues-open-access.html">here,</a>
-      <a
-      href="http://ancientworldonline.blogspot.com/2014/05/one-off-journal-issues-benefactoras-y.html">here</a><a
-      href="http://ancientworldonline.blogspot.com/2010/04/one-off-journal-issues-open-access.html"></a></div><div
-      style="text-align: center;"><br /></div><div style="text-align:
-      center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div>]]></content>
-    <link rel="replies"
+   <title type="text">One Off Journal Issues: Open Access Anniversary issue of Geoarchaeology</title>
+   <content type="html"><![CDATA[<a href="http://www.wiley.com/bw/wiley_vi.asp?ref=0883-6353&amp;site=1#529">25  Papers from 25 Years: A Special Virtual Issue of Geoarchaeology, April  2010</a><br /><span style="font-size: 85%;"></span><br /><blockquote><span style="font-size: 85%;">Edited by Jamie Woodward, Gary Huckleberry, Paul Goldberg and Rolfe  Mandel</span><br /><span style="font-size: 85%;">This collection has been compiled to mark the publication of  the 25th volume of <i>Geoarchaeology</i>. It was launched in St Louis  on April 15th 2010 at the 75th Annual Meeting of the Society for  American Archaeology. The broad aim was to produce a Virtual Special  Issue of 25 papers to showcase some of the most important and  influential papers that have been published in the journal over the last  25 years. At the same time, a key objective was to ensure that, as far  as possible, the collection covered all areas of geoarchaeology and was  broadly representative of the journal's history. We have combined  qualitative and quantitative data to assemble this Virtual Issue by  canvassing all of the journal's Associate Editors (inviting them to  identify the most influential papers in their respective fields), and by  using citation data (as one measure of impact in the wider academy) to  fine tune the list. The selected papers are listed in chronological  order and present a diversity of theories, models, approaches, and  empirical datasets derived from research across six continents. We  anticipate that this Virtual Issue will be of use to both students and  researchers, and we hope it will generate debate. It is a fitting way to  celebrate the 25th anniversary of <i>Geoarchaeology: An International  Journal</i>.</span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.3340010301">Late  Quaternary environmental history of the southern Levant</a><br />Paul Goldberg                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.3340010303">Rates of  fluvial sedimentation: Implications for archaeological variability</a><br />C. Reid Ferring                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.3340030102">Paleorivers  and geoarchaeology in the southern Egyptian Sahara</a><br />William P. McHugh, John F. McCauley, C. Vance Haynes, Carol S.  Breed, Gerald G. Schaber                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.3340030303">A  "marginality" model to explain major spatial and temporal gaps in the  old and new world Pleistocene settlement records</a><br />Karl W. Butzer                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.3340090202">Impact of  hydro-isostatic Holocene sea-level change on the geologic context of  Island archaeological sites, Northern Ha'apai group, Kingdom of Tonga</a><br />William R. Dickinson, David V. Burley, Richard Shutler Jr.                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.3340100502">Geochronology  of paleoenvironmental change, clovis type site, Blackwater Draw, New  Mexico</a><br />C. Vance Haynes Jr.                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28199603%2911:2%3C95::AID-GEA1%3E3.0.CO;2-4">Short-term,  post-burial change in a humic rendzina soil, Overton Down Experimental  Earthwork, Wiltshire, England</a><br />J. Crowther, R. I. Macphail, G. M. Cruise                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28199801%2913:1%3C3::AID-GEA2%3E3.0.CO;2-9">Solving  archaeological problems using techniques of soil magnetism</a><br />Rinita A. Dalan, Subir K. Banerjee                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28199802%2913:3%3C309::AID-GEA4%3E3.0.CO;2-8">Evaluating  artifact burial by Eolian versus Bioturbation processes, South Carolina  sandhills, USA</a><br />David S. Leigh                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28199812%2913:8%3C759::AID-GEA1%3E3.0.CO;2-B">Soil  constraints on Northwest Yucatán, Mexico: Pedoarchaeology and Maya  Subsistence at Chunchucmil</a><br />Timothy Beach                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28199812%2913:8%3C847::AID-GEA4%3E3.0.CO;2-6">The  Loess/Paleosol record and the nature of the Younger Dryas climate in  central China</a><br />David B. Madsen, Li Jingzen, Robert G. Elston, Xu Cheng, Robert  L. Bettinger, Geng Kan, P. Jeff Brantingham, Zhong Kan                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28199908%2914:6%3C511::AID-GEA3%3E3.0.CO;2-1">A  reinterpretation of the Great Pit at Hofstaoir, Iceland using sediment  thin section micromorphology</a><br />Ian A. Simpson, Karen B. Milek, Garðar Guðmundsson                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28200003%2915:3%3C227::AID-GEA2%3E3.0.CO;2-A">The  evolution of Paleoindian geochronology and typology on the Great Plains</a><br />Vance T. Holliday                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/%28SICI%291520-6548%28200004%2915:4%3C331::AID-GEA3%3E3.0.CO;2-H">Prehistoric  shepherds and caves in the Trieste Karst (Northeastern Italy)</a><br />Giovanni Boschian, Emanuela Montagnari-Kokelj                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/1520-6548%28200101%2916:1%3C119::AID-GEA8%3E3.0.CO;2-V">Geochronology  and climate change of the Pleistocene-Holocene transition in the Darb  el Arba'in Desert, Eastern Sahara</a><br />C. Vance Haynes Jr.                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.1007">The sedimentary  records in Mediterranean rockshelters and caves: Archives of  environmental change</a><br />Jamie C. Woodward, Paul Goldberg                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.1002">The  microstratigraphic record of abrupt climate changes in cave sediments of  the Western Mediterranean</a><br />Marie-Agnès Courty, Josep Vallverduc                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.10001">Darwin would  be proud: Bioturbation, dynamic denudation, and the power of theory in  science</a><br />D. L. Johnson                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.10006">The effects of  temporal and spatial patterns of Holocene erosion and alluviation on  the archaeological record of the Central and Eastern Great Plains,  U.S.A.</a><br />E. Arthur Bettis III, Rolfe D. Mandel                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.10008">Dynamic  landscapes, artifact taphonomy, and landuse modeling in the western  Mediterranean</a><br />C. Michael Barton, Joan Bernabeu, J. Emili Aura, Oreto Garcia,  Neus La Roca                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.20163">Geoarchaeology  of the Kostenki-Borshchevo sites, Don River Valley, Russia</a><br />Vance T. Holliday, John F. Hoffecker, Paul Goldberg, Richard I.  Macphail, Steven L. Forman, Mikhail Anikovich, Andrei Sinitsyn                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.20157">Biogeochemical  studies of a Native American runoff agroecosystem</a><br />Jonathan A. Sandor, Jay B. Norton, Jeffrey A. Homburg, Deborah  A. Muenchrath, Carleton S. White, Stephen E. Williams, Celeste I.  Havener, Peter D. Stahl                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.20186">Identification  of lime plaster in prehistory using petrographic methods: A review and  reconsideration of the data on the basis of experimental and case  studies</a><br />Panagiotis Karkanas                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.20259">The surface  archaeological record in arid Australia: Geomorphic controls on  preservation, exposure, and visibility</a><br />Patricia C. Fanning, Simon J. Holdaway, Ed J. Rhodes, Tessa G.  Bryant                      </span><br /><span style="font-size: 85%;"><a href="http://doi.wiley.com/10.1002/gea.20295">Mid-Pleistocene  pozzolanic volcanic ash in ancient Roman concretes</a><br />Marie Jackson, Daniel Deocampo, Fabrizio Marra, Barry Scheetz</span></blockquote><br /><div style="text-align: center;">Other one off journals in AWOL are <a href="http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html">here</a>, <a href="http://ancientworldonline.blogspot.com/2010/01/one-off-journal-issues-traitement.html">here</a>,  <a href="http://ancientworldonline.blogspot.com/2009/03/one-off-journal-issues-french.html">here</a>, <a href="http://ancientworldonline.blogspot.com/2012/08/one-off-journal-issues-sickness-hunger.html">here</a>, <a href="http://ancientworldonline.blogspot.com/2010/04/one-off-journal-issues-histoire-urbaine.html">here</a>,  <a href="http://ancientworldonline.blogspot.com/2010/04/one-off-journal-issues-open-access.html">here,</a> <a href="http://ancientworldonline.blogspot.com/2014/05/one-off-journal-issues-benefactoras-y.html">here</a><a href="http://ancientworldonline.blogspot.com/2010/04/one-off-journal-issues-open-access.html"></a></div><div style="text-align: center;"><br /></div><div style="text-align: center;">See the full <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4044273018990552054/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4044273018990552054/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/04/one-off-journal-issues-open-access.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4044273018990552054"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4044273018990552054"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/04/one-off-journal-issues-open-access.html"
          title="One Off Journal Issues: Open Access Anniversary issue of Geoarchaeology"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

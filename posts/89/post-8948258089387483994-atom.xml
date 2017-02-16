@@ -1,103 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8948258089387483994</id>
-    <published>2013-01-17T18:26:00.001-05:00</published>
-    <updated>2013-01-17T18:26:10.644-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8948258089387483994</id>
+   <published>2013-01-17T18:26:00.001-05:00</published>
+   <updated>2013-01-17T18:26:10.644-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Publicly Accessible Penn Dissertations</title>
-    <content type="html"><![CDATA[<span style="font-size: small;"><a
-      href="http://www.library.upenn.edu/">University of Pennsylvania
-      Libraries</a><em> </em><a href="http://repository.upenn.edu/"
-      title="ScholarlyCommons"><em>Scholarly</em>Commons:
-      Repository</a><strong><em>&nbsp;</em></strong><a
-      href="http://repository.upenn.edu/edissertations">Publicly <span style="font-size:
-      small;">A</span>ccessible Penn Dissertations</a></span><br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">2011
-      </span><br /><span style="font-size: x-small;"><a
-      href="http://repository.upenn.edu/cgi/viewcontent.cgi?article=1474&amp;context=edissertations"
-      target="_blank" title="Download PDF"><acronym title="Portable Document
-      Format"></acronym></a></span> <ul><li><span
-      style="font-size: x-small;"><a
-      href="http://repository.upenn.edu/edissertations/309">The Splintered Divine: A Study of
-      Ištar, Baal, and Yahweh Divine Names and Divine Multiplicity in the Ancient Near
-      East</a>, Spencer L. Allen</span></li><li><span style="font-size:
-      x-small;"><a href="http://repository.upenn.edu/edissertations/397">The Echoes of
-      Fitna: Developing Historiographical Interpretations of the Battle of Siffin</a>, Aaron M.
-      Hagler</span></li><li><span style="font-size: x-small;"><a
-      href="http://repository.upenn.edu/edissertations/359">MOBILITY AND VARIATION IN CHALCOLITHIC
-      NORTH GUJARAT, INDIA (ca 3600 – 1800 BC)</a>, Suzanne
-      Harris</span></li><li><span style="font-size: x-small;"><a
-      href="http://repository.upenn.edu/edissertations/304">Leaves that Sway: Gold Xianbei Cap
-      Ornaments from Northeast China</a>, Sarah
-      Laursen</span></li><li><div class="article-listing"><span
-      style="font-size: x-small;"><a
-      href="http://repository.upenn.edu/edissertations/303">Conceptions of the Poetic in Classical
-      Greek Prose</a>, Alison Traweek </span></div></li></ul><div
-      class="article-listing"><span style="font-size:
-      x-small;">&nbsp;2010</span></div><ul><li><span
-      style="font-size: x-small;"><a
-      href="http://repository.upenn.edu/edissertations/98">Tradition and Transformation:
-      Cataloguing Chinese Art in the Middle and Late Imperial Eras</a>, YEN-WEN
-      CHENG</span></li><li><span style="font-size: x-small;"><a
-      href="http://repository.upenn.edu/edissertations/192">DELIBERATION IN ARISTOTLE’S ETHICS AND
-      THE HIPPOCRATIC CORPUS</a>, Anna M. Cremaldi</span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://repository.upenn.edu/edissertations/273">Landscapes of Achaemenid
-      Paphlagonia</a>, Peri Johnson</span></li><li><span style="font-size:
-      x-small;"><a href="http://repository.upenn.edu/edissertations/184">THE INTELLIGIBLE
-      CREATOR-GOD AND THE INTELLIGENT SOUL OF THE COSMOS IN PLATO’S THEOLOGY AND
-      METAPHYSICS</a>, Jason G. Rheins</span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://repository.upenn.edu/edissertations/190">Modeling the Mechanics of Temple
-      Production in the Middle Kingdom: An Investigation of the Shena of Divine Offerings Adjacent to
-      the Mortuary Temple of Senwosret III at Abydos, Egypt</a>, Vanessa E.
-      Smith</span></li><li><span style="font-size: x-small;"><a
-      href="http://repository.upenn.edu/edissertations/169">Endings in Short Biblical
-      Narratives</a>, Susan B. Zeelander</span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://repository.upenn.edu/edissertations/102">From Jiangnan to Sichuan: Yuan
-      Architecture Along the Yangtze River</a>, Lala
-      Zuo</span></li></ul><div class="article-listing"><span
-      style="font-size: x-small;">2009</span></div><ul><li><span
-      style="font-size: x-small;"><a
-      href="http://repository.upenn.edu/edissertations/12">Power Politics in the Xiongnu
-      Empire</a>, Bryan K. Miller</span></li><li><span style="font-size:
-      x-small;"><a href="http://repository.upenn.edu/edissertations/64">THE REPUBLICAN
-      SOLDIER: HISTORIOGRAPHICAL REPRESENTATIONS AND HUMAN REALITIES</a>, Kathryn H. Milne
-      </span></li><li><span style="font-size: x-small;"><a
-      href="http://repository.upenn.edu/edissertations/40">Adaptation and Transmission in Early
-      East Asian Funerary Arts: The Three Goguryeo Four Spirits Tombs in Ji'an, China</a>,
-      Heather B. Sutherland</span></li></ul></blockquote><br /><br
-      /><div class="article-listing"><br /></div><div
-      class="article-listing"><br /></div>]]></content>
-    <link rel="replies"
+   <title type="text">Publicly Accessible Penn Dissertations</title>
+   <content type="html"><![CDATA[<span style="font-size: small;"><a href="http://www.library.upenn.edu/">University of Pennsylvania Libraries</a><em> </em><a href="http://repository.upenn.edu/" title="ScholarlyCommons"><em>Scholarly</em>Commons: Repository</a><strong><em>&nbsp;</em></strong><a href="http://repository.upenn.edu/edissertations">Publicly <span style="font-size: small;">A</span>ccessible Penn Dissertations</a></span><br /><blockquote class="tr_bq"><span style="font-size: x-small;">2011 </span><br /><span style="font-size: x-small;"><a href="http://repository.upenn.edu/cgi/viewcontent.cgi?article=1474&amp;context=edissertations" target="_blank" title="Download PDF"><acronym title="Portable Document Format"></acronym></a></span> <ul><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/309">The Splintered Divine: A Study of Ištar, Baal, and Yahweh Divine Names and Divine Multiplicity in the Ancient Near East</a>, Spencer L. Allen</span></li><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/397">The Echoes of Fitna: Developing Historiographical Interpretations of the Battle of Siffin</a>, Aaron M. Hagler</span></li><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/359">MOBILITY AND VARIATION IN CHALCOLITHIC NORTH GUJARAT, INDIA (ca 3600 – 1800 BC)</a>, Suzanne Harris</span></li><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/304">Leaves that Sway: Gold Xianbei Cap Ornaments from Northeast China</a>, Sarah Laursen</span></li><li><div class="article-listing"><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/303">Conceptions of the Poetic in Classical Greek Prose</a>, Alison Traweek </span></div></li></ul><div class="article-listing"><span style="font-size: x-small;">&nbsp;2010</span></div><ul><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/98">Tradition and Transformation: Cataloguing Chinese Art in the Middle and Late Imperial Eras</a>, YEN-WEN CHENG</span></li><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/192">DELIBERATION IN ARISTOTLE’S ETHICS AND THE HIPPOCRATIC CORPUS</a>, Anna M. Cremaldi</span></li><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/273">Landscapes of Achaemenid Paphlagonia</a>, Peri Johnson</span></li><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/184">THE INTELLIGIBLE CREATOR-GOD AND THE INTELLIGENT SOUL OF THE COSMOS IN PLATO’S THEOLOGY AND METAPHYSICS</a>, Jason G. Rheins</span></li><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/190">Modeling  the Mechanics of Temple Production in the Middle Kingdom:  An  Investigation of the Shena of Divine Offerings Adjacent to the Mortuary  Temple of Senwosret III at Abydos, Egypt</a>, Vanessa E. Smith</span></li><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/169">Endings in Short Biblical Narratives</a>, Susan B. Zeelander</span></li><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/102">From Jiangnan to Sichuan: Yuan Architecture Along the Yangtze River</a>, Lala Zuo</span></li></ul><div class="article-listing"><span style="font-size: x-small;">2009</span></div><ul><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/12">Power Politics in the Xiongnu Empire</a>, Bryan K. Miller</span></li><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/64">THE REPUBLICAN SOLDIER: HISTORIOGRAPHICAL REPRESENTATIONS AND HUMAN REALITIES</a>, Kathryn H. Milne </span></li><li><span style="font-size: x-small;"><a href="http://repository.upenn.edu/edissertations/40">Adaptation and Transmission in Early East Asian Funerary Arts: The Three Goguryeo Four Spirits Tombs in Ji'an, China</a>, Heather B. Sutherland</span></li></ul></blockquote><br /><br /><div class="article-listing"><br /></div><div class="article-listing"><br /></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8948258089387483994/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8948258089387483994/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/01/publicly-accessible-penn-dissertations.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8948258089387483994"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8948258089387483994"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/01/publicly-accessible-penn-dissertations.html"
          title="Publicly Accessible Penn Dissertations"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

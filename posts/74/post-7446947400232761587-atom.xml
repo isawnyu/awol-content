@@ -1,129 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7446947400232761587</id>
-    <published>2014-06-12T08:29:00.002-04:00</published>
-    <updated>2014-06-12T08:29:34.288-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7446947400232761587</id>
+   <published>2014-06-12T08:29:00.002-04:00</published>
+   <updated>2014-06-12T08:29:34.288-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="England"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="England"/>
-    <title type="text">The Warburg Institute Iconographic Database</title>
-    <content type="html"><![CDATA[<a href="http://warburg.sas.ac.uk/vpc/VPC_search/main_page.php">The
-      Warburg Institute Iconographic Database</a><br /><blockquote
-      class="tr_bq"><img alt="http://warburg.sas.ac.uk/vpc/images/black_header.jpg"
-      class="decoded" src="http://warburg.sas.ac.uk/vpc/images/black_header.jpg"
-      /></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><span style="font-family: inherit;">The Warburg
-      Institute&nbsp;Iconographic Database&nbsp;contains digitised images from the
-      Institute's Photographic Collection and Library. <span style="background-color: white;
-      color: black; display: inline ! important; float: none; font-style: normal; font-variant:
-      normal; font-weight: normal; letter-spacing: normal; line-height: 17.9063px; orphans: 2;
-      text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
-      word-spacing: 0px;">The&nbsp;material for which the Warburg Institute holds the
-      copyrights is licensed under a&nbsp;</span><span style="background-color: white;
-      color: #000099; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing:
-      normal; line-height: 17.9063px; orphans: 2; text-align: justify; text-decoration: initial;
-      text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing:
-      0px;"><a class="external-link-new-window"
-      href="http://creativecommons.org/licenses/by-nc/3.0/" target="_blank">Creative Commons
-      Attribution-Non Commercial 3.0 Unported License.</a></span>
-      </span></span></blockquote><blockquote class="tr_bq"><div
-      class="bodytext"></div><span style="font-size: x-small;"><span
-      style="font-family: inherit;">Search by iconographic keywords or browse the iconographic
-      classification system.<br />To search by artist, date, location, or other parameters,
-      please use the&nbsp;advanced search&nbsp;menu.<br /><br />The iconographic
-      classification system of the database is based on that of the Warburg Institute Photographic
-      Collection. Please note, however, that the database is&nbsp;not&nbsp;the digital
-      equivalent of the Photographic collection.
-      </span></span></blockquote><blockquote class="tr_bq"><div
-      class="bodytext"><span style="font-size: x-small;"><span style="font-family:
-      inherit;">The Warburg Institute Iconographic Database is a work-in-progress. The holdings of
-      the Photographic Collection are being digitised per section. The first section to be completed
-      is our selection of photos from astronomical and astrological manuscripts from the Middle Ages
-      and Renaissance (look under '<a class="external-link-new-window"
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=9&amp;cat_2=71"
-      target="_blank">Magic &amp; Science: Astronomy and Astrology</a>' or search for
-      '<a class="external-link-new-window"
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/results_basic_search.php?p=1&amp;var_1=astronomy&amp;var_2=&amp;var_3="
-      target="_blank">astronomy</a>'). We are currently entering the contents of the <a
-      class="internal-link"
-      href="http://warburg.sas.ac.uk/photographic-collection/subject-index/gods-and-mythsindex/"
-      title="Opens internal link in current window">Gods &amp; Myths</a> section (some
-      40,000 photos of subjects from classical mythology), a project generously sponsored by the
-      Dean's Development Fund of the School of Advanced Studies (University of London), which we hope
-      to complete by September 2013.<br /><br />For comments and queries please
-      contact&nbsp;<a
-      href="https://draft.blogger.com/null">photographic.collect@sas.ac.uk&nbsp;</a>.</span></span></div></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=1">ANTIQUITIES</a></span><br
-      /><span style="font-size: x-small;"><br /></span><span
-      style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=2">ARCHITECTURE</a></span><br
-      /><span style="font-size: x-small;"><br /></span><span
-      style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=5">GODS &amp;
-      MYTHS</a></span><br /><span style="font-size: x-small;"><br
-      /></span><span style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=6">HISTORY</a></span><br
-      /><span style="font-size: x-small;"><br /></span><span
-      style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=8">LITERATURE</a></span><br
-      /><span style="font-size: x-small;"><br /></span><span
-      style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=9">MAGIC &amp;
-      SCIENCE</a></span><br /><span style="font-size: x-small;"><br
-      /></span><span style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=11">ORNAMENT</a></span><br
-      /><span style="font-size: x-small;"><br /></span><span
-      style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=12">PORTRAITS</a></span><br
-      /><span style="font-size: x-small;"><br /></span><span
-      style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=13">PRE-CLASSICAL
-      ICONOGRAPHY</a></span><br /><span style="font-size: x-small;"><br
-      /></span><span style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=14">RELIGIOUS
-      ICONOGRAPHY</a></span><br /><span style="font-size: x-small;"><br
-      /></span><span style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=15">RITUAL</a></span><br
-      /><span style="font-size: x-small;"><br /></span><span
-      style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=16">SECULAR
-      ICONOGRAPHY</a></span><br /><span style="font-size: x-small;"><br
-      /></span><span style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=17">SOCIAL
-      LIFE</a></span><br /><span style="font-size: x-small;"><br
-      /></span><span class="grey_small" style="font-size: x-small;">browse by
-      attribute, significant scene etc.</span><br /><span style="font-size:
-      x-small;"><br /></span><span style="font-size: x-small;"><a
-      href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=34">Index of Iconography
-      </a></span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">The Warburg Institute Iconographic Database</title>
+   <content type="html"><![CDATA[<a href="http://warburg.sas.ac.uk/vpc/VPC_search/main_page.php">The Warburg Institute Iconographic Database</a><br /><blockquote class="tr_bq"><img alt="http://warburg.sas.ac.uk/vpc/images/black_header.jpg" class="decoded" src="http://warburg.sas.ac.uk/vpc/images/black_header.jpg" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><span style="font-family: inherit;">The Warburg Institute&nbsp;Iconographic Database&nbsp;contains digitised images from the Institute's Photographic Collection and Library. <span style="background-color: white; color: black; display: inline ! important; float: none; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 17.9063px; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">The&nbsp;material for which the Warburg Institute holds the copyrights is licensed under a&nbsp;</span><span style="background-color: white; color: #000099; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 17.9063px; orphans: 2; text-align: justify; text-decoration: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"><a class="external-link-new-window" href="http://creativecommons.org/licenses/by-nc/3.0/" target="_blank">Creative Commons Attribution-Non Commercial 3.0 Unported License.</a></span> </span></span></blockquote><blockquote class="tr_bq"><div class="bodytext"></div><span style="font-size: x-small;"><span style="font-family: inherit;">Search by iconographic keywords or browse the iconographic classification system.<br />To search by artist, date, location, or other parameters, please use the&nbsp;advanced search&nbsp;menu.<br /><br />The  iconographic classification system of the database is based on that of  the Warburg Institute Photographic Collection. Please note, however,  that the database is&nbsp;not&nbsp;the digital equivalent of the Photographic  collection. </span></span></blockquote><blockquote class="tr_bq"><div class="bodytext"><span style="font-size: x-small;"><span style="font-family: inherit;">The Warburg Institute Iconographic Database is a  work-in-progress. The holdings of the Photographic Collection are being  digitised per section. The first section to be completed is our  selection of photos from astronomical and astrological manuscripts from  the Middle Ages and Renaissance (look under '<a class="external-link-new-window" href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=9&amp;cat_2=71" target="_blank">Magic &amp; Science: Astronomy and Astrology</a>' or search for '<a class="external-link-new-window" href="http://warburg.sas.ac.uk/vpc/VPC_search/results_basic_search.php?p=1&amp;var_1=astronomy&amp;var_2=&amp;var_3=" target="_blank">astronomy</a>'). We are currently entering the contents of the <a class="internal-link" href="http://warburg.sas.ac.uk/photographic-collection/subject-index/gods-and-mythsindex/" title="Opens internal link in current window">Gods &amp; Myths</a> section (some 40,000 photos of subjects from classical mythology), a  project generously sponsored by the Dean's Development Fund of the  School of Advanced Studies (University of London), which we hope to  complete by September 2013.<br /><br />For comments and queries please contact&nbsp;<a href="https://draft.blogger.com/null">photographic.collect@sas.ac.uk&nbsp;</a>.</span></span></div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=1">ANTIQUITIES</a></span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=2">ARCHITECTURE</a></span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=5">GODS &amp; MYTHS</a></span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=6">HISTORY</a></span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=8">LITERATURE</a></span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=9">MAGIC &amp; SCIENCE</a></span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=11">ORNAMENT</a></span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=12">PORTRAITS</a></span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=13">PRE-CLASSICAL ICONOGRAPHY</a></span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=14">RELIGIOUS ICONOGRAPHY</a></span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=15">RITUAL</a></span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=16">SECULAR ICONOGRAPHY</a></span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=17">SOCIAL LIFE</a></span><br /><span style="font-size: x-small;"><br /></span><span class="grey_small" style="font-size: x-small;">browse by attribute, significant scene etc.</span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=34">Index of Iconography </a></span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7446947400232761587/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7446947400232761587/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/06/the-warburg-institute-iconographic.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7446947400232761587"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7446947400232761587"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/06/the-warburg-institute-iconographic.html"
          title="The Warburg Institute Iconographic Database"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

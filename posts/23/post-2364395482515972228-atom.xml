@@ -1,135 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2364395482515972228</id>
-    <published>2014-03-05T12:06:00.000-05:00</published>
-    <updated>2014-03-05T12:06:48.861-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2364395482515972228</id>
+   <published>2014-03-05T12:06:00.000-05:00</published>
+   <updated>2014-03-05T12:06:48.861-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Joint Declaration of Data Citation Principles - Created by the Data Citation
-      Synthesis Group, FORCE11</title>
-    <content type="html"><![CDATA[<a href="http://www.force11.org/datacitation">Joint Declaration of
-      Data Citation Principles</a> - Created by the&nbsp;<a
-      href="http://www.force11.org/node/4785">Data Citation Synthesis Group,</a> <a
-      href="http://www.force11.org/about">FORCE11</a><br /><blockquote
-      class="tr_bq"><h2 id="dcp0"> <span style="font-size:
-      x-small;">Preamble</span></h2><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;">Sound, reproducible
-      scholarship rests upon a foundation of robust, accessible data.&nbsp; For this to be so in
-      practice as well as theory, data must be accorded due importance in the practice of scholarship
-      and in the enduring scholarly record.&nbsp; In other words, data should be considered
-      legitimate, citable products of research.&nbsp; Data citation, like the citation of other
-      evidence and sources, is good research practice and is part of the scholarly ecosystem
-      supporting data reuse.</span> </blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"> In support
-      of this assertion, and to encourage good practice, we offer a set of guiding principles for
-      data within scholarly literature, another dataset, or any other research object.
-      &nbsp;</span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;">These principles are the
-      synthesis of work by a <a href="http://www.force11.org/node/4785">number of
-      groups</a>. &nbsp;As we move into the next phase, we welcome your participation and
-      endorsement of these principles.<br /> &nbsp;</span><br /><span
-      style="font-size: x-small;"></span><h2> <span style="font-size:
-      x-small;"><strong>Principles</strong></span></h2><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;">The Data
-      Citation Principles cover purpose, function and attributes of citations. &nbsp;These
-      principles recognize the dual necessity of creating citation practices that are both human
-      understandable and machine-actionable. &nbsp;</span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;">These
-      citation principles are not comprehensive recommendations for data stewardship. &nbsp;And,
-      as practices vary across communities and technologies will evolve over time, we do not include
-      recommendations for specific implementations, but encourage communities to develop practices
-      and tools that embody these principles.</span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;">The principles are grouped so
-      as to facilitate understanding, rather than according to any perceived criteria of
-      importance.</span><br /><span style="font-size:
-      x-small;"></span><ol><li id="dcp1"><h3><span style="font-size:
-      x-small;"> Importance</span></h3><span style="font-size: x-small;"> Data
-      should be considered legitimate, citable products of research. Data citations should be
-      accorded the same importance in the scholarly record as citations of other research objects,
-      such as publications[<a
-      href="http://www.force11.org/node/4772/#ref1">1</a>].</span></li><li
-      id="dcp2"><h3><span style="font-size: x-small;"> Credit and
-      Attribution</span></h3><span style="font-size: x-small;"> Data citations
-      should facilitate giving scholarly credit and normative and legal attribution to all
-      contributors to the data, recognizing that a single style or mechanism of attribution may not
-      be applicable to all data[<a
-      href="http://www.force11.org/node/4772/#ref2">2</a>].</span></li><li
-      id="dcp3"><h3><span style="font-size: x-small;">
-      Evidence</span></h3><span style="font-size: x-small;"> In scholarly
-      literature, whenever and wherever a&nbsp;claim relies upon data, the corresponding data
-      should be cited[<a
-      href="http://www.force11.org/node/4772/#ref3">3</a>].</span></li><li
-      id="dcp4"><h3><span style="font-size: x-small;"> Unique
-      Identification</span></h3><span style="font-size: x-small;"> A data citation
-      should include a persistent method for identification that is machine actionable, globally
-      unique, and widely used by a community[<a
-      href="http://www.force11.org/node/4772/#ref4">4</a>].</span></li><li
-      id="dcp5"><h3><span style="font-size: x-small;">
-      Access</span></h3><span style="font-size: x-small;"> Data citations should
-      facilitate access to the data themselves and to such associated metadata, documentation, code,
-      and other materials, as are necessary for both humans and machines to make informed use of the
-      referenced data[<a
-      href="http://www.force11.org/node/4772/#ref5">5</a>].</span></li><li
-      id="dcp6"><h3><span style="font-size: x-small;">
-      Persistence</span></h3><span style="font-size: x-small;"> Unique identifiers,
-      and metadata describing the data, and its disposition, should persist -- &nbsp;even beyond
-      the lifespan of the data they describe[<a
-      href="http://www.force11.org/datacitation#ref6">6</a>].</span></li><li
-      id="dcp7"><h3><span style="font-size: x-small;"> Specificity and
-      Verifiability&nbsp;</span></h3><span style="font-size: x-small;"> Data
-      citations should facilitate identification of, access to, and verfication of the specific data
-      that support a claim. &nbsp;Citations or citation metadata should include information about
-      provenance and fixity sufficient to facilitate verfiying that the specific timeslice, version
-      and/or granular portion of data retrieved subsequently is the same as was
-      originally&nbsp;cited[<a
-      href="http://www.force11.org/node/4772/#ref7">7</a>].</span></li><li
-      id="dcp8"><h3><span style="font-size: x-small;"> Interoperability and
-      flexibility</span></h3><span style="font-size: x-small;"> Data citation
-      methods should be sufficiently flexible to accommodate the variant practices among communities,
-      but should not differ so much that they compromise interoperability of data citation practices
-      across communities[<a
-      href="http://www.force11.org/node/4772/#ref8">8</a>].</span><br />
-      <span style="font-size: x-small;"> For further information&nbsp;<a
-      href="http://www.force11.org/node/4770">glossary</a>, <a
-      href="http://www.force11.org/node/4771">examples</a> and <a
-      href="http://www.force11.org/node/4772">references</a></span></li></ol></blockquote><div
-      class="block block-block" id="block-block-4"> <div class="content"> <blockquote
-      class="tr_bq"><div class="cssbtn rteright" id="endorse-btn"><span style="font-size:
-      x-small;"><a class="simple-dialog simpleDialogProcessed"
-      href="http://www.force11.org/node/add/endorsement-all?destination=datacitation/endorsements"
-      id="endorsement-all-node-form" name="endorsement-all-node-form"
-      rel="width:400;resizable:false;position:[center,60]" title="Add Endorsement">Add
-      Endorsement</a></span></div></blockquote></div><blockquote></blockquote></div><blockquote>
-      <div class="cssbtn rteright"> <span style="font-size: x-small;"><a
-      href="http://www.force11.org/datacitation#googlegroup">Discussion
-      Forum</a></span></div></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Joint Declaration of Data Citation Principles - Created by the Data Citation Synthesis Group, FORCE11</title>
+   <content type="html"><![CDATA[<a href="http://www.force11.org/datacitation">Joint Declaration of Data Citation Principles</a> - Created by the&nbsp;<a href="http://www.force11.org/node/4785">Data Citation Synthesis Group,</a> <a href="http://www.force11.org/about">FORCE11</a><br /><blockquote class="tr_bq"><h2 id="dcp0"> <span style="font-size: x-small;">Preamble</span></h2><span style="font-size: x-small;"></span><span style="font-size: x-small;">Sound, reproducible scholarship rests upon a foundation of robust,  accessible data.&nbsp; For this to be so in practice as well as theory, data  must be accorded due importance in the practice of scholarship and in  the enduring scholarly record.&nbsp; In other words, data should be  considered legitimate, citable products of research.&nbsp; Data citation,  like the citation of other evidence and sources, is good research  practice and is part of the scholarly ecosystem supporting data reuse.</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"></span><span style="font-size: x-small;"> In support of this assertion, and to encourage good practice, we  offer a set of guiding principles for data within scholarly literature,  another dataset, or any other research object. &nbsp;</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">These principles are the synthesis of work by a <a href="http://www.force11.org/node/4785">number of groups</a>. &nbsp;As we move into the next phase, we welcome your participation and endorsement of these principles.<br /> &nbsp;</span><br /><span style="font-size: x-small;"></span><h2> <span style="font-size: x-small;"><strong>Principles</strong></span></h2><span style="font-size: x-small;"></span><span style="font-size: x-small;">The Data Citation Principles cover purpose, function and attributes  of citations. &nbsp;These principles recognize the dual necessity of creating  citation practices that are both human understandable and  machine-actionable. &nbsp;</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">These citation principles are not comprehensive recommendations for  data stewardship. &nbsp;And, as practices vary across communities and  technologies will evolve over time, we do not include recommendations  for specific implementations, but encourage communities to develop  practices and tools that embody these principles.</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">The principles are grouped so as to facilitate understanding, rather than according to any perceived criteria of importance.</span><br /><span style="font-size: x-small;"></span><ol><li id="dcp1"><h3><span style="font-size: x-small;">   Importance</span></h3><span style="font-size: x-small;">  Data should be considered legitimate, citable products of research.  Data citations should be accorded the same importance in the scholarly  record as citations of other research objects, such as publications[<a href="http://www.force11.org/node/4772/#ref1">1</a>].</span></li><li id="dcp2"><h3><span style="font-size: x-small;">   Credit and Attribution</span></h3><span style="font-size: x-small;">  Data citations should facilitate giving scholarly credit and  normative and legal attribution to all contributors to the data,  recognizing that a single style or mechanism of attribution may not be  applicable to all data[<a href="http://www.force11.org/node/4772/#ref2">2</a>].</span></li><li id="dcp3"><h3><span style="font-size: x-small;">   Evidence</span></h3><span style="font-size: x-small;">  In scholarly literature, whenever and wherever a&nbsp;claim relies upon data, the corresponding data should be cited[<a href="http://www.force11.org/node/4772/#ref3">3</a>].</span></li><li id="dcp4"><h3><span style="font-size: x-small;">   Unique Identification</span></h3><span style="font-size: x-small;">  A data citation should include a persistent method for  identification that is machine actionable, globally unique, and widely  used by a community[<a href="http://www.force11.org/node/4772/#ref4">4</a>].</span></li><li id="dcp5"><h3><span style="font-size: x-small;">   Access</span></h3><span style="font-size: x-small;">  Data citations should facilitate access to the data themselves and  to such associated metadata, documentation, code, and other materials,  as are necessary for both humans and machines to make informed use of  the referenced data[<a href="http://www.force11.org/node/4772/#ref5">5</a>].</span></li><li id="dcp6"><h3><span style="font-size: x-small;">   Persistence</span></h3><span style="font-size: x-small;">  Unique identifiers, and metadata describing the data, and its  disposition, should persist -- &nbsp;even beyond the lifespan of the data  they describe[<a href="http://www.force11.org/datacitation#ref6">6</a>].</span></li><li id="dcp7"><h3><span style="font-size: x-small;">   Specificity and Verifiability&nbsp;</span></h3><span style="font-size: x-small;">  Data citations should facilitate identification of, access to, and  verfication of the specific data that support a claim. &nbsp;Citations or  citation metadata should include information about provenance and fixity  sufficient to facilitate verfiying that the specific timeslice, version  and/or granular portion of data retrieved subsequently is the same as  was originally&nbsp;cited[<a href="http://www.force11.org/node/4772/#ref7">7</a>].</span></li><li id="dcp8"><h3><span style="font-size: x-small;">   Interoperability and flexibility</span></h3><span style="font-size: x-small;">  Data citation methods should be sufficiently flexible to  accommodate the variant practices among communities, but should not  differ so much that they compromise interoperability of data citation  practices across communities[<a href="http://www.force11.org/node/4772/#ref8">8</a>].</span><br /> <span style="font-size: x-small;">  For further information&nbsp;<a href="http://www.force11.org/node/4770">glossary</a>, <a href="http://www.force11.org/node/4771">examples</a> and <a href="http://www.force11.org/node/4772">references</a></span></li></ol></blockquote><div class="block block-block" id="block-block-4">        <div class="content">    <blockquote class="tr_bq"><div class="cssbtn rteright" id="endorse-btn"><span style="font-size: x-small;"><a class="simple-dialog simpleDialogProcessed" href="http://www.force11.org/node/add/endorsement-all?destination=datacitation/endorsements" id="endorsement-all-node-form" name="endorsement-all-node-form" rel="width:400;resizable:false;position:[center,60]" title="Add Endorsement">Add Endorsement</a></span></div></blockquote></div><blockquote></blockquote></div><blockquote>                                    <div class="cssbtn rteright"> <span style="font-size: x-small;"><a href="http://www.force11.org/datacitation#googlegroup">Discussion Forum</a></span></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2364395482515972228/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2364395482515972228/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/joint-declaration-of-data-citation.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2364395482515972228"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2364395482515972228"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/joint-declaration-of-data-citation.html"
          title="Joint Declaration of Data Citation Principles - Created by the Data Citation Synthesis Group, FORCE11"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

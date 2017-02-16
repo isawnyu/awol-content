@@ -1,325 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7119743412816053459</id>
-    <published>2015-04-18T09:35:00.003-04:00</published>
-    <updated>2015-05-18T07:52:40.109-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7119743412816053459</id>
+   <published>2015-04-18T09:35:00.003-04:00</published>
+   <updated>2015-05-18T07:52:40.109-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Athens"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Athenian Agora Preliminary Reports</title>
-    <content type="html"><![CDATA[<a
-      href="http://agora.ascsa.net/research?v=list&amp;q=&amp;sort=&amp;t=report">Athenian
-      Agora Preliminary Reports</a><br /><span style="font-size:
-      x-small;"></span><blockquote class="tr_bq"><div class="r"><h2
-      class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2013%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=1"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2013
-      Excavations: Preliminary Report on the 2013 Excavation
-      Season.</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... This report is based on one prepared for the
-      student volunteers for them to take away at the end of the season. It is therefore to be
-      regarded as very preliminary, and subject to considerable alteration ...
-      </span></div></div><div class="result"><table border="0"
-      cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td
-      align="center" valign="top"><div class="licon2"><span style="font-size:
-      x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2012%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=2"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2012/2012.12/2012.12.0055.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2012%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=2"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2012
-      Excavations: Preliminary Report on the 2012 Excavation
-      Season.</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... Excavations were carried out in the Athenian Agora
-      from June 11 to August 3, 2012 with a team of some 60 student volunteers, representing 30
-      universities and eight countries. This is a very preliminary ... 11 Jun-3 Aug
-      2012</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2011%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=3"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2011/2011.15/2011.15.0008.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2011%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=3"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2011
-      Excavations: Preliminary Report on the 2011 Excavation
-      Season.</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... Excavations in the Athenian Agora were conducted
-      by the American School of Classical Studies at Athens from June 13th to August 5th, 2011. The
-      work was carried out in three sections, two of them overlying ... 13 Jun-5 Aug
-      2011</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2010%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=4"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2010/2010.15/2010.15.0171.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2010%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=4"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2010
-      Excavations: Preliminary Report on the 2010 Excavation
-      Season</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 15 Jun-6 Aug
-      2010</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2010%20excavations%20trophy?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=5"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2010/2010.15/2010.15.0139.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2010%20excavations%20trophy?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=5"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2010
-      Excavations Trophy: A Sculpted Trophy from the Athenian Agora: Preliminary
-      Report.</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 31 Jul-6 Aug
-      2010</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2009%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=6"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2009/2009.22/2009.22.0123.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2009%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=6"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2009
-      Excavations: Preliminary Report on the 2009 Excavation
-      Season.</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 8 Jun-31 Jul
-      2009</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2008%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=7"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2008/2008.15/2008.15.0129.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2008%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=7"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2008
-      Excavations: Preliminary Report on the 2008 Excavation
-      Season.</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 10 Jun-1 Aug
-      2008</span></div></div></td></tr></tbody></table></div><table
-      border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2007%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=8"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2008/2008.01/2008.01.0487.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2007%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=8"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2007
-      Excavations: Preliminary Report on the 2007 Excavation
-      Season.</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 13 Jun-3 Aug
-      2007</span></div></div></td></tr></tbody></table></blockquote><span
-      style="font-size: x-small;"><br /></span><blockquote
-      class="tr_bq"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2006%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=9"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2008/2008.01/2008.01.0168.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2006%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=9"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2006
-      Excavations: Preliminary Report on the 2006 Excavation
-      Season.</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 13 Jun-4 Aug
-      2006</span></div></div></td></tr></tbody></table><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2005%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=10"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2005/2005.02/2005.02.0006.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2005%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=10"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2005
-      Excavations: Preliminary Report on the 2005 Excavation
-      Season.</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 13 Jun-5 Aug
-      2005</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2004%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=11"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2004/2004.06/2004.06.0016.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2004%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=11"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2004
-      Excavations: Preliminary Report on the 2004 Excavation
-      Season.</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 7 Jun-16 Jul
-      2004</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2003%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=12"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2003/2003.08/2003.08.0021.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2003%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=12"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2003
-      Excavations: Preliminary Report on the 2003 Excavation
-      Season.</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 13 Jun-25 Jul
-      2003</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2002%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=13"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2002/2002.09/2002.09.0021.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2002%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=13"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2002
-      Excavations: Preliminary Report on the 2002 Excavation
-      Season</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 10 Jun-2 Aug
-      2002</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2002%20portrait%20of%20an%20imperial%20priest?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=14"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2002/2002.09/2002.09.0028.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2002%20portrait%20of%20an%20imperial%20priest?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=14"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2002
-      Portrait of an Imperial Priest: A Portrait of an Imperial
-      Priest</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 19-20 Jun
-      2002</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2001%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=15"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2001/2001.04/2001.04.0001.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2001%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=15"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2001
-      Excavations: Preliminary Report on the 2001 Excavation
-      Season</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 11 Jun-3 Aug
-      2001</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2000%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=16"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2000/2000.04/2000.04.0014.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/2000%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=16"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2000
-      Excavations: Preliminary Report on the 2000 Excavation
-      Season</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 6 Jun-28 Jul
-      2000</span></div></div></td></tr></tbody></table></div><div
-      style="clear: both;"><span style="font-size:
-      x-small;">&nbsp;</span></div></blockquote><blockquote
-      class="tr_bq"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/1999%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=17"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/1999/1999.01/1999.01.0001.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/1999%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=17"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>1999
-      Excavations: Preliminary Report on the 1999 Excavation
-      Season</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 7 Jun-30 Jul
-      1999</span></div></div></td></tr></tbody></table><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td align="center" valign="top"><div
-      class="licon2"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/1998%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=18"><img
-      alt="icon"
-      src="http://agora.ascsa.net/CacheIcons//Agora/2000/2000.03/2000.03.0022.tif.icon.jpg"
-      /></a></span></div></td><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/1998%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=18"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>1998
-      Excavations: Preliminary Report on the 1998 Excavation
-      Season.</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Camp ... 8 Jun-31 Jul
-      1998</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/1997%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=19"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>1997
-      Excavations: Agora Excavations 1997 Season Preliminary
-      Report</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Mck. Camp II ... 10 Jun-1 Aug
-      1997</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/1996%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=20"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>1996
-      Excavations: 1996 Excavation Summary</span></a></span></h2><div
-      class="rp"><span style="font-size: x-small;">John Mck. Camp II ... 10 Jun-2 Aug
-      1996</span></div></div></td></tr></tbody></table></div><div
-      class="result"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"><tbody><tr><td valign="top" width="100%"><div
-      class="r"><h2 class="rl"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/id/agora/report/1995%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=21"><span
-      class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>1995
-      Excavations: Agora Excavations 1995 Preliminary
-      Report</span></a></span></h2><div class="rp"><span
-      style="font-size: x-small;">John Mck. Camp II ... 12 Jun-4 Aug
-      1995</span></div></div></td></tr></tbody></table></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Athens"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <title type="text">Athenian Agora Preliminary Reports</title>
+   <content type="html"><![CDATA[<a href="http://agora.ascsa.net/research?v=list&amp;q=&amp;sort=&amp;t=report">Athenian Agora Preliminary Reports</a><br /><span style="font-size: x-small;"></span><blockquote class="tr_bq"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2013%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=1"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2013 Excavations: Preliminary Report on the 2013 Excavation Season.</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John  Camp ... This report is based on one prepared for the student  volunteers for them to take away at the end of the season. It is  therefore to be regarded as very preliminary, and subject to  considerable alteration ... </span></div></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2012%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=2"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2012/2012.12/2012.12.0055.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2012%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=2"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2012 Excavations: Preliminary Report on the 2012 Excavation Season.</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John  Camp ... Excavations were carried out in the Athenian Agora from June  11 to August 3, 2012 with a team of some 60 student volunteers,  representing 30 universities and eight countries. This is a very  preliminary ... 11 Jun-3 Aug 2012</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2011%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=3"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2011/2011.15/2011.15.0008.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2011%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=3"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2011 Excavations: Preliminary Report on the 2011 Excavation Season.</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John  Camp ... Excavations in the Athenian Agora were conducted by the  American School of Classical Studies at Athens from June 13th to August  5th, 2011. The work was carried out in three sections, two of them  overlying ... 13 Jun-5 Aug 2011</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2010%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=4"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2010/2010.15/2010.15.0171.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2010%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=4"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2010 Excavations: Preliminary Report on the 2010 Excavation Season</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 15 Jun-6 Aug 2010</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2010%20excavations%20trophy?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=5"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2010/2010.15/2010.15.0139.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2010%20excavations%20trophy?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=5"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2010 Excavations Trophy: A Sculpted Trophy from the Athenian Agora: Preliminary Report.</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 31 Jul-6 Aug 2010</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2009%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=6"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2009/2009.22/2009.22.0123.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2009%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=6"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2009 Excavations: Preliminary Report on the 2009 Excavation Season.</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 8 Jun-31 Jul 2009</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2008%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=7"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2008/2008.15/2008.15.0129.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2008%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=7"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2008 Excavations: Preliminary Report on the 2008 Excavation Season.</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 10 Jun-1 Aug 2008</span></div></div></td></tr></tbody></table></div><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2007%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=8"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2008/2008.01/2008.01.0487.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2007%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=8"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2007 Excavations: Preliminary Report on the 2007 Excavation Season.</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 13 Jun-3 Aug 2007</span></div></div></td></tr></tbody></table></blockquote><span style="font-size: x-small;"><br /></span><blockquote class="tr_bq"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2006%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=9"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2008/2008.01/2008.01.0168.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2006%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=9"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2006 Excavations: Preliminary Report on the 2006 Excavation Season.</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 13 Jun-4 Aug 2006</span></div></div></td></tr></tbody></table><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2005%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=10"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2005/2005.02/2005.02.0006.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2005%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=10"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2005 Excavations: Preliminary Report on the 2005 Excavation Season.</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 13 Jun-5 Aug 2005</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2004%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=11"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2004/2004.06/2004.06.0016.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2004%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=11"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2004 Excavations: Preliminary Report on the 2004 Excavation Season.</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 7 Jun-16 Jul 2004</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2003%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=12"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2003/2003.08/2003.08.0021.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2003%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=12"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2003 Excavations: Preliminary Report on the 2003 Excavation Season.</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 13 Jun-25 Jul 2003</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2002%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=13"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2002/2002.09/2002.09.0021.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2002%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=13"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2002 Excavations: Preliminary Report on the 2002 Excavation Season</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 10 Jun-2 Aug 2002</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2002%20portrait%20of%20an%20imperial%20priest?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=14"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2002/2002.09/2002.09.0028.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2002%20portrait%20of%20an%20imperial%20priest?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=14"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2002 Portrait of an Imperial Priest: A Portrait of an Imperial Priest</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 19-20 Jun 2002</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2001%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=15"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2001/2001.04/2001.04.0001.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2001%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=15"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2001 Excavations: Preliminary Report on the 2001 Excavation Season</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 11 Jun-3 Aug 2001</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2000%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=16"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2000/2000.04/2000.04.0014.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/2000%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=16"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>2000 Excavations: Preliminary Report on the 2000 Excavation Season</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 6 Jun-28 Jul 2000</span></div></div></td></tr></tbody></table></div><div style="clear: both;"><span style="font-size: x-small;">&nbsp;</span></div></blockquote><blockquote class="tr_bq"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/1999%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=17"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/1999/1999.01/1999.01.0001.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/1999%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=17"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>1999 Excavations: Preliminary Report on the 1999 Excavation Season</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 7 Jun-30 Jul 1999</span></div></div></td></tr></tbody></table><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td align="center" valign="top"><div class="licon2"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/1998%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=18"><img alt="icon" src="http://agora.ascsa.net/CacheIcons//Agora/2000/2000.03/2000.03.0022.tif.icon.jpg" /></a></span></div></td><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/1998%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=18"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>1998 Excavations: Preliminary Report on the 1998 Excavation Season.</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Camp ... 8 Jun-31 Jul 1998</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/1997%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=19"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>1997 Excavations: Agora Excavations 1997 Season Preliminary Report</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Mck. Camp II ... 10 Jun-1 Aug 1997</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/1996%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=20"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>1996 Excavations: 1996 Excavation Summary</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Mck. Camp II ... 10 Jun-2 Aug 1996</span></div></div></td></tr></tbody></table></div><div class="result"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td valign="top" width="100%"><div class="r"><h2 class="rl"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/id/agora/report/1995%20excavations?q=&amp;t=report&amp;v=list&amp;sort=&amp;s=21"><span class="type" style="color: #0000cc;">[Agora Report]</span>&nbsp;<span>1995 Excavations: Agora Excavations 1995 Preliminary Report</span></a></span></h2><div class="rp"><span style="font-size: x-small;">John Mck. Camp II ... 12 Jun-4 Aug 1995</span></div></div></td></tr></tbody></table></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7119743412816053459/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7119743412816053459/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/04/athenian-agora-preliminary-reports.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7119743412816053459"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7119743412816053459"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/04/athenian-agora-preliminary-reports.html"
          title="Athenian Agora Preliminary Reports"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

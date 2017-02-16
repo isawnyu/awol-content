@@ -1,134 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3705827215532808259</id>
-    <published>2013-08-11T07:30:00.000-04:00</published>
-    <updated>2013-08-11T07:34:24.973-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3705827215532808259</id>
+   <published>2013-08-11T07:30:00.000-04:00</published>
+   <updated>2013-08-11T07:34:24.973-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Open Access Journals: Antiquity+</title>
-    <content type="html"><![CDATA[<a
-      href="http://journal.antiquity.ac.uk/antplus">Antiquity+</a><br /><div
-      class="content"><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><b>Antiquity+ provides access to free content, including Project Gallery
-      articles, reviews, online supplements and prize winning articles!</b></span><br
-      /><br /><span style="font-size: x-small;"></span><span
-      style="font-size: x-small;">Here you can also access Chris Scarre's editorial podcast and
-      his three 'Editor's choice' articles from the Antiquity archive.</span><br /><br
-      /><span style="font-size: x-small;"></span><span style="font-size:
-      x-small;">Antiquity+ provides interactive facilities for our users, including a thesis
-      archive that allows recent doctoral graduates to upload an abstract of their
-      thesis.</span><br /><span style="font-size: x-small;">
-      </span></blockquote></div><blockquote><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="projgall"></a></span> <br /><blockquote><div
-      style="text-align: center;"><div class="content"><div class="quicktabs-wrapper
-      quicktabs-style-nostyle jquery-once-1-processed"
-      id="quicktabs-dynamic_quicktabs_menu"><div class="item-list"><ul
-      class="quicktabs-tabs quicktabs-style-nostyle"><li class="active first"
-      style="text-align: left;"><span style="font-size: x-small;"><a class="active
-      quicktabs-loaded jquery-once-2-processed"
-      href="http://journal.antiquity.ac.uk/antplus?qt-dynamic_quicktabs_menu=0#qt-dynamic_quicktabs_menu"
-      id="quicktabs-tab-dynamic_quicktabs_menu-0">Project
-      Gallery</a></span></li><li style="text-align: left;"><span
-      style="font-size: x-small;"><a class="active jquery-once-2-processed"
-      href="http://journal.antiquity.ac.uk/antplus?qt-dynamic_quicktabs_menu=1#qt-dynamic_quicktabs_menu"
-      id="quicktabs-tab-dynamic_quicktabs_menu-1">Reviews</a></span></li><li
-      style="text-align: left;"><span style="font-size: x-small;"><a class="active
-      jquery-once-2-processed"
-      href="http://journal.antiquity.ac.uk/antplus?qt-dynamic_quicktabs_menu=2#qt-dynamic_quicktabs_menu"
-      id="quicktabs-tab-dynamic_quicktabs_menu-2">Editor's
-      Area</a></span></li><li class="last" style="text-align: left;"><span
-      style="font-size: x-small;"><a class="active jquery-once-2-processed"
-      href="http://journal.antiquity.ac.uk/antplus?qt-dynamic_quicktabs_menu=3#qt-dynamic_quicktabs_menu"
-      id="quicktabs-tab-dynamic_quicktabs_menu-3">Tributes</a></span></li></ul></div><div
-      class="quicktabs_main quicktabs-style-nostyle" id="quicktabs-container-dynamic_quicktabs_menu"
-      style="text-align: left;"><div class="quicktabs-tabpage "
-      id="quicktabs-tabpage-dynamic_quicktabs_menu-0"><div class="block block-antiquity"
-      id="block-antiquity-highlights-projgall"><div class="content"><div class="article
-      lead"><div class="article-thumb"><span style="font-size: x-small;"><a
-      href="http://antiquity.ac.uk/projgall/johansen336"><img
-      src="http://journal.antiquity.ac.uk/sites/default/files/styles/antplus_thumb_lead/public/projgall/404/rotate.jpg?itok=_nvpcTmU"
-      /></a></span></div><div class="title"><span style="font-size:
-      x-small;"><a href="http://antiquity.ac.uk/projgall/johansen336">The Maski
-      Archaeological Research Project (MARP): investigating long-term dynamics of settlement,
-      politics and environmental history in ancient South
-      India</a></span></div><div class="authors"><span style="font-size:
-      x-small;">Peter G. Johansen &amp; Andrew M.
-      Bauer</span></div></div><div class="article"><div
-      class="article-thumb"><span style="font-size: x-small;"><a
-      href="http://antiquity.ac.uk/projgall/mentessidi336"><img
-      src="http://journal.antiquity.ac.uk/sites/default/files/styles/antplus_thumb/public/projgall/7/figure7.jpg?itok=dVA8P5QG"
-      /></a></span></div><div class="title"><span style="font-size:
-      x-small;"><a href="http://antiquity.ac.uk/projgall/mentessidi336">New evidence on the
-      beginning of farming in Greece: the Early Neolithic settlement of Mavropigi in western
-      Macedonia (Greece)</a></span></div></div><div
-      class="article"><div class="article-thumb"><span style="font-size:
-      x-small;"><a href="http://antiquity.ac.uk/projgall/mathys336"><img
-      src="http://journal.antiquity.ac.uk/sites/default/files/styles/antplus_thumb/public/projgall/6/thumb.jpg?itok=QwYiX9ia"
-      /></a></span></div><div class="title"><span style="font-size:
-      x-small;"><a href="http://antiquity.ac.uk/projgall/mathys336">Agora 3D: evaluating 3D
-      imaging technology for the research, conservation and display of museum
-      collections</a></span></div></div><div class="article"><div
-      class="article-thumb"><span style="font-size: x-small;"><a
-      href="http://antiquity.ac.uk/projgall/nashli336"><img
-      src="http://journal.antiquity.ac.uk/sites/default/files/styles/antplus_thumb/public/projgall/405/rotate.jpg?itok=-igPXkzk"
-      /></a></span></div><div class="title"><span style="font-size:
-      x-small;"><a href="http://antiquity.ac.uk/projgall/nashli336">Counting objects: new
-      evidence from Tepe Zagheh, Qazvin plain,
-      Iran</a></span></div></div><div class="button"><div
-      class="antiquity-button antiquity-button-beige"><span style="font-size:
-      x-small;"><a href="http://journal.antiquity.ac.uk/antplus/projgall">Explore the
-      Project
-      Gallery</a></span></div></div></div></div></div></div></div><div
-      class="antplus row-two" style="text-align: left;"><span style="font-size:
-      x-small;"><a href="http://journal.antiquity.ac.uk/prize-winners"><img
-      src="http://journal.antiquity.ac.uk/sites/default/themes/antiquity_two_col/images/prizes.jpg"
-      />Antiquity prize winners</a></span><span style="font-size:
-      x-small;">Access the winners of the Antiquity prize, the Ben Cullen prize and the Antiquity
-      photographic prize for free!</span></div><div class="antplus row-two last"
-      style="text-align: left;"><span style="font-size: x-small;"><a
-      href="http://journal.antiquity.ac.uk/antplus/supplements"><img
-      src="http://journal.antiquity.ac.uk/sites/default/themes/antiquity_two_col/images/supplements.jpg"
-      />Antiquity online supplements</a></span><span style="font-size:
-      x-small;">Explore Antiquity's online supplements - additional materials published in support
-      of Antiquity Journal articles</span></div></div><div style="text-align:
-      left;"><span style="font-size: x-small;"></span></div><div
-      style="text-align: left;"><span style="font-size: small;"><span style="font-family:
-      inherit;"></span></span></div></div></blockquote></blockquote><br
-      /><blockquote><blockquote><div style="text-align: center;"><div
-      style="text-align: center;"><span style="font-size: small;"><span
-      style="font-family: inherit;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></div></div></blockquote></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <title type="text">Open Access Journals: Antiquity+</title>
+   <content type="html"><![CDATA[<a href="http://journal.antiquity.ac.uk/antplus">Antiquity+</a><br /><div class="content"><blockquote class="tr_bq"><span style="font-size: x-small;"><b>Antiquity+ provides access to free content, including  Project Gallery articles, reviews, online supplements and prize winning  articles!</b></span><br /><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Here you can also access Chris Scarre's editorial podcast and his three 'Editor's choice' articles from the Antiquity archive.</span><br /><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Antiquity+ provides interactive facilities for our users, including a  thesis archive that allows recent doctoral graduates to upload an  abstract of their thesis.</span><br /><span style="font-size: x-small;">  </span></blockquote></div><blockquote><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="projgall"></a></span>   <br /><blockquote><div style="text-align: center;"><div class="content"><div class="quicktabs-wrapper quicktabs-style-nostyle jquery-once-1-processed" id="quicktabs-dynamic_quicktabs_menu"><div class="item-list"><ul class="quicktabs-tabs quicktabs-style-nostyle"><li class="active first" style="text-align: left;"><span style="font-size: x-small;"><a class="active quicktabs-loaded jquery-once-2-processed" href="http://journal.antiquity.ac.uk/antplus?qt-dynamic_quicktabs_menu=0#qt-dynamic_quicktabs_menu" id="quicktabs-tab-dynamic_quicktabs_menu-0">Project Gallery</a></span></li><li style="text-align: left;"><span style="font-size: x-small;"><a class="active jquery-once-2-processed" href="http://journal.antiquity.ac.uk/antplus?qt-dynamic_quicktabs_menu=1#qt-dynamic_quicktabs_menu" id="quicktabs-tab-dynamic_quicktabs_menu-1">Reviews</a></span></li><li style="text-align: left;"><span style="font-size: x-small;"><a class="active jquery-once-2-processed" href="http://journal.antiquity.ac.uk/antplus?qt-dynamic_quicktabs_menu=2#qt-dynamic_quicktabs_menu" id="quicktabs-tab-dynamic_quicktabs_menu-2">Editor's Area</a></span></li><li class="last" style="text-align: left;"><span style="font-size: x-small;"><a class="active jquery-once-2-processed" href="http://journal.antiquity.ac.uk/antplus?qt-dynamic_quicktabs_menu=3#qt-dynamic_quicktabs_menu" id="quicktabs-tab-dynamic_quicktabs_menu-3">Tributes</a></span></li></ul></div><div class="quicktabs_main quicktabs-style-nostyle" id="quicktabs-container-dynamic_quicktabs_menu" style="text-align: left;"><div class="quicktabs-tabpage " id="quicktabs-tabpage-dynamic_quicktabs_menu-0"><div class="block block-antiquity" id="block-antiquity-highlights-projgall"><div class="content"><div class="article lead"><div class="article-thumb"><span style="font-size: x-small;"><a href="http://antiquity.ac.uk/projgall/johansen336"><img src="http://journal.antiquity.ac.uk/sites/default/files/styles/antplus_thumb_lead/public/projgall/404/rotate.jpg?itok=_nvpcTmU" /></a></span></div><div class="title"><span style="font-size: x-small;"><a href="http://antiquity.ac.uk/projgall/johansen336">The  Maski Archaeological Research Project (MARP): investigating long-term  dynamics of settlement, politics and environmental history in ancient  South India</a></span></div><div class="authors"><span style="font-size: x-small;">Peter G. Johansen &amp; Andrew M. Bauer</span></div></div><div class="article"><div class="article-thumb"><span style="font-size: x-small;"><a href="http://antiquity.ac.uk/projgall/mentessidi336"><img src="http://journal.antiquity.ac.uk/sites/default/files/styles/antplus_thumb/public/projgall/7/figure7.jpg?itok=dVA8P5QG" /></a></span></div><div class="title"><span style="font-size: x-small;"><a href="http://antiquity.ac.uk/projgall/mentessidi336">New evidence on the beginning of farming in Greece: the Early Neolithic settlement of Mavropigi in western Macedonia (Greece)</a></span></div></div><div class="article"><div class="article-thumb"><span style="font-size: x-small;"><a href="http://antiquity.ac.uk/projgall/mathys336"><img src="http://journal.antiquity.ac.uk/sites/default/files/styles/antplus_thumb/public/projgall/6/thumb.jpg?itok=QwYiX9ia" /></a></span></div><div class="title"><span style="font-size: x-small;"><a href="http://antiquity.ac.uk/projgall/mathys336">Agora 3D: evaluating 3D imaging technology for the research, conservation and display of museum collections</a></span></div></div><div class="article"><div class="article-thumb"><span style="font-size: x-small;"><a href="http://antiquity.ac.uk/projgall/nashli336"><img src="http://journal.antiquity.ac.uk/sites/default/files/styles/antplus_thumb/public/projgall/405/rotate.jpg?itok=-igPXkzk" /></a></span></div><div class="title"><span style="font-size: x-small;"><a href="http://antiquity.ac.uk/projgall/nashli336">Counting objects: new evidence from Tepe Zagheh, Qazvin plain, Iran</a></span></div></div><div class="button"><div class="antiquity-button antiquity-button-beige"><span style="font-size: x-small;"><a href="http://journal.antiquity.ac.uk/antplus/projgall">Explore the Project Gallery</a></span></div></div></div></div></div></div></div><div class="antplus row-two" style="text-align: left;"><span style="font-size: x-small;"><a href="http://journal.antiquity.ac.uk/prize-winners"><img src="http://journal.antiquity.ac.uk/sites/default/themes/antiquity_two_col/images/prizes.jpg" />Antiquity prize winners</a></span><span style="font-size: x-small;">Access the winners of the Antiquity prize, the Ben Cullen prize and the Antiquity photographic prize for free!</span></div><div class="antplus row-two last" style="text-align: left;"><span style="font-size: x-small;"><a href="http://journal.antiquity.ac.uk/antplus/supplements"><img src="http://journal.antiquity.ac.uk/sites/default/themes/antiquity_two_col/images/supplements.jpg" />Antiquity online supplements</a></span><span style="font-size: x-small;">Explore Antiquity's online supplements - additional materials published in support of Antiquity Journal articles</span></div></div><div style="text-align: left;"><span style="font-size: x-small;"></span></div><div style="text-align: left;"><span style="font-size: small;"><span style="font-family: inherit;"></span></span></div></div></blockquote></blockquote><br /><blockquote><blockquote><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: small;"><span style="font-family: inherit;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></div></div></blockquote></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3705827215532808259/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3705827215532808259/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/09/open-access-journals-antiquity-bulletin.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3705827215532808259"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3705827215532808259"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/09/open-access-journals-antiquity-bulletin.html"
          title="Open Access Journals: Antiquity+"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,191 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4380552418688422544</id>
-    <published>2013-07-14T07:50:00.000-04:00</published>
-    <updated>2013-07-14T07:50:04.677-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4380552418688422544</id>
+   <published>2013-07-14T07:50:00.000-04:00</published>
+   <updated>2013-07-14T07:50:04.677-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Jordan"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Palestine"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Jordan"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Franciscan Archaeological Institute (Jordan)</title>
-    <content type="html"><![CDATA[<a href="http://198.62.75.1/www1/ofm/fai/FAImain.html">Franciscan
-      Archaeological Institute (Jordan)</a><br /><blockquote class="tr_bq"><img
-      alt="http://198.62.75.1/www1/ofm/fai/failog.jpg" class="decoded"
-      src="http://198.62.75.1/www1/ofm/fai/failog.jpg" /> </blockquote><blockquote
-      class="tr_bq"><br /><div class="pgten"><span style="font-size:
-      x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif"
-      width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIrasas04a.html"><b>Umm
-      al Rasas included in World Heritage list</b></a> <img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span></div><hr
-      /> <div class="pgten"><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAIintro.html">Mt. Nebo - An introduction
-      </a></span><span style="font-size: x-small;"><img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAInebo00.html">Mt. Nebo in the Bible and by the
-      Pilgrims</a> </span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAInebo1.html">Mt. Nebo's history and archaeological
-      discoveries </a> </span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAImsc00.html">The Mosaics of Mount
-      Nebo</a><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg"
-      width="26" /></span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAIcopert.html">Proposed International Projects for
-      Mount Nebo</a><img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span><span
-      style="font-size: x-small;"><img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAImukh0.html">Khirbat al-Mukhayyat - the Town of
-      Nebo</a><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg"
-      width="26" /></span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAIkaniseh.html">'Ain Kaniseh - Chapel of the
-      Theotokos</a><img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span><span
-      style="font-size: x-small;"><img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAIkaianos.html">The churches in the 'Uyun Musa
-      Valley</a><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg"
-      width="26" /></span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAInebo8.html">Pope John Paul's visit to Mt. Nebo
-      </a></span> <span style="font-size: x-small;"><img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://www.ofm.org/album/36pixcoll.html" target="new">The Franciscan Minister general
-      at Mt. Nebo</a> at ofm website<img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span> </div><hr
-      /> <div class="pgten"><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAIpark00.html"><b>Contributing for the
-      safeguard of Jordan's heritage</b></a> </span><span style="font-size:
-      x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif"
-      width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIzone.html">Mount Nebo
-      Archaeological Park</a> our dream is still awaiting </span><span
-      style="font-size: x-small;"><img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAIpark01.html">The Madaba Archaeological
-      Park</a> a proposal fulfilled </span><span style="font-size:
-      x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif"
-      width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIbapt.html">The site of the
-      Baptism of Jesus</a> it all started at Mt. Nebo </span><span style="font-size:
-      x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif"
-      width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIpark02.html">Umm al Rasas
-      Archaeological Park</a> our proposal </span> </div><hr /> <div
-      class="pgten"> <span style="font-size: x-small;"><img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/2002.html">Results of the Archaeological campaign
-      2002</a> </span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/2001.html">Results of the Archaeological campaign
-      2001</a> </span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/2000.html">Results of the Archaeological campaign
-      2000</a> </span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/1999.html">Results of the Archaeological campaign
-      1999</a> </span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAIexp98.html">Results of the Archaeological campaign
-      1998</a></span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAIexp97.html">Results of the Archaeological campaign
-      1997</a></span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAIexp96.html">Results of the Archaeological campaign
-      1996</a></span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAImachr.html">Machaerus Fortress excavated by the
-      Institute</a> </span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAIrasas.html">Excavations at Umm
-      el-Rasas</a></span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAInitl.html">Excavations at Nitl</a><img
-      alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26"
-      /></span><span style="font-size: x-small;"><img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/diario/diary00.html">Campagna di scavo 2002 </a>
-      - non-official album</span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/diario04/diary00.html">Campagna di scavo 2004
-      </a> - non-official album <img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span> </div><hr
-      /> <div class="pgten"><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAImadab.html">Madaba the town in
-      history</a></span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAImap.html">The Madaba Mosaic Map: an important
-      historic document</a></span><span style="font-size: x-small;"><img
-      alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAImadmn.html">The Madaba Mosaic Map: 100 years since
-      its discovery</a> </span><span style="font-size: x-small;"><img
-      alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/mad/index.html">The Madaba Map - interactive <span
-      style="color: #660000;">special</span> web site by SBF</a></span>
-      </div><hr /> <div class="pgten"> <span style="font-size:
-      x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif"
-      width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/00pixalbFAI.html">Seventy years
-      of work on the mountain &nbsp;1933-2003 - Album</a><img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span> <span
-      style="font-size: x-small;"><img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAImon.html">A monolith on Mount Nebo</a>
-      </span><span style="font-size: x-small;"><img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAImus.html">An Interpretation centre at Mount Nebo -
-      Inauguration Speech</a> </span><span style="font-size: x-small;"><img
-      alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAImus00.html">An Interpretation centre at Mount Nebo
-      - pictures</a> </span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAInebo13.html">Antonino Vaccalluzzo – Un mosaicista
-      dei nostri tempi</a></span><span style="font-size: x-small;"><img
-      alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAInebo14.html">Antonino Vaccalluzzo -
-      pictures</a></span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAIbapt1.html">Baptism in the Jordan River since
-      1967</a></span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a
-      href="http://198.62.75.1/www1/ofm/fai/FAImil.html">A Roman Milestone</a>
-      </span><span style="font-size: x-small;"><img alt="arrow" height="9"
-      src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> Book: <a
-      href="http://198.62.75.1/www1/ofm/fai/libro.html">New Archaeological Excavations
-      1967-1997</a></span><span style="font-size: x-small;"><img alt="arrow"
-      height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> Book: <a
-      href="http://198.62.75.1/www1/ofm/fai/FAIeval.html">A Review</a></span>
-      </div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Palestine"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <title type="text">Franciscan Archaeological Institute (Jordan)</title>
+   <content type="html"><![CDATA[<a href="http://198.62.75.1/www1/ofm/fai/FAImain.html">Franciscan Archaeological Institute (Jordan)</a><br /><blockquote class="tr_bq"><img alt="http://198.62.75.1/www1/ofm/fai/failog.jpg" class="decoded" src="http://198.62.75.1/www1/ofm/fai/failog.jpg" /> </blockquote><blockquote class="tr_bq"><br /><div class="pgten"><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIrasas04a.html"><b>Umm al Rasas included in World Heritage list</b></a> <img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span></div><hr /> <div class="pgten"><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIintro.html">Mt. Nebo - An introduction </a></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAInebo00.html">Mt. Nebo in the Bible  and by the Pilgrims</a> </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAInebo1.html">Mt. Nebo's history and archaeological discoveries </a> </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAImsc00.html">The Mosaics of Mount Nebo</a><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIcopert.html">Proposed International Projects for Mount Nebo</a><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAImukh0.html">Khirbat al-Mukhayyat - the Town of Nebo</a><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIkaniseh.html">'Ain Kaniseh - Chapel of the Theotokos</a><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIkaianos.html">The churches in the 'Uyun Musa Valley</a><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAInebo8.html">Pope John Paul's visit to Mt. Nebo </a></span> <span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://www.ofm.org/album/36pixcoll.html" target="new">The Franciscan Minister general at Mt. Nebo</a> at ofm website<img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span>  </div><hr /> <div class="pgten"><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIpark00.html"><b>Contributing for the safeguard of Jordan's heritage</b></a> </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIzone.html">Mount Nebo Archaeological Park</a> our dream is still awaiting  </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIpark01.html">The Madaba Archaeological Park</a> a proposal fulfilled </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIbapt.html">The site of the Baptism of Jesus</a> it all started at Mt. Nebo </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/FAIpark02.html">Umm al Rasas Archaeological Park</a> our proposal </span>   </div><hr />  <div class="pgten"> <span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/2002.html">Results of the Archaeological campaign 2002</a> </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/2001.html">Results of the Archaeological campaign 2001</a> </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/2000.html">Results of the Archaeological campaign 2000</a> </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/1999.html">Results of the Archaeological campaign 1999</a> </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAIexp98.html">Results of the Archaeological campaign 1998</a></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAIexp97.html">Results of the Archaeological campaign 1997</a></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAIexp96.html">Results of the Archaeological campaign 1996</a></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAImachr.html">Machaerus Fortress excavated by the Institute</a> </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAIrasas.html">Excavations at Umm el-Rasas</a></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAInitl.html">Excavations at Nitl</a><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/diario/diary00.html">Campagna di scavo 2002 </a> -  non-official album</span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" /> <a href="http://198.62.75.1/www1/ofm/fai/diario04/diary00.html">Campagna di scavo 2004 </a> -  non-official album <img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span> </div><hr /> <div class="pgten"><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAImadab.html">Madaba the town in history</a></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAImap.html">The Madaba Mosaic Map: an important historic document</a></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAImadmn.html">The Madaba Mosaic Map: 100 years since its discovery</a> </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/mad/index.html">The Madaba Map - interactive <span style="color: #660000;">special</span> web site by SBF</a></span> </div><hr />   <div class="pgten"> <span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/00pixalbFAI.html">Seventy years of work on  the mountain &nbsp;1933-2003 - Album</a><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/icns/new.jpg" width="26" /></span>   <span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAImon.html">A monolith on Mount Nebo</a> </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAImus.html">An Interpretation centre at Mount Nebo - Inauguration Speech</a> </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAImus00.html">An Interpretation centre at Mount Nebo - pictures</a> </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAInebo13.html">Antonino Vaccalluzzo – Un mosaicista dei nostri tempi</a></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAInebo14.html">Antonino Vaccalluzzo - pictures</a></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAIbapt1.html">Baptism in the Jordan River since 1967</a></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  <a href="http://198.62.75.1/www1/ofm/fai/FAImil.html">A Roman Milestone</a> </span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  Book: <a href="http://198.62.75.1/www1/ofm/fai/libro.html">New Archaeological Excavations 1967-1997</a></span><span style="font-size: x-small;"><img alt="arrow" height="9" src="http://198.62.75.1/www1/ofm/fai/arrw.gif" width="26" />  Book: <a href="http://198.62.75.1/www1/ofm/fai/FAIeval.html">A Review</a></span>    </div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4380552418688422544/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4380552418688422544/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/07/franciscan-archaeological-institute.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4380552418688422544"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4380552418688422544"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/07/franciscan-archaeological-institute.html"
          title="Franciscan Archaeological Institute (Jordan)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

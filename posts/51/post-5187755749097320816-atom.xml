@@ -1,252 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5187755749097320816</id>
-    <published>2013-09-01T08:17:00.002-04:00</published>
-    <updated>2013-09-01T08:17:34.726-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5187755749097320816</id>
+   <published>2016-09-05T18:25:00.000-04:00</published>
+   <updated>2016-09-05T18:23:26.462-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Open Access Journal: Romula: Arqueología antigua y medieval</title>
-    <content type="html"><![CDATA[<a href="http://www.upo.es/revistas/index.php/romula">Romula:
-      Arqueología antigua y&nbsp;medieval</a><br />ISSN: 1695-4076 <br
-      /><blockquote class="tr_bq"><span style="font-family: Times New Roman; font-size:
-      x-small;"><em>Romula</em> se ocupa de los temas emergentes en el campo de la
-      arqueología tanto antigua como medieval. Sus trabajos de investigación están enfocados en el
-      campo de la Arqueología, con especial atención a la Arqueología de la provincia de Sevilla y su
-      entorno. Igualmente actúa como órgano de difusión científica del Seminario de Arqueología de la
-      Universidad Pablo de Olavide de Sevilla lo que incluye la difusión de los resultados de los
-      difierentes Proyectos de Investigación que se desarrollan en el
-      mismo.&nbsp;</span><br /><h2><span style="font-size: x-small;">No
-      11 (2012)</span></h2><h3><span style="font-size: x-small;">Tabla de
-      contenidos</span></h3><h4 class="tocSectionTitle"><span style="font-size:
-      x-small;">Artículos</span></h4><table class="tocArticle" style="width:
-      100%px;"><tbody><tr valign="top"> <td class="tocTitle"><span
-      style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/article/view/409">Herramientas SIG para el
-      estudio de la Carmona Romana = GIS tools to study Roman
-      Carmona</a></span></td> <td class="tocGalleys"> <span
-      style="font-size: x-small;"><a class="file"
-      href="http://www.upo.es/revistas/index.php/romula/article/view/409/357">PDF</a></span>
-      </td></tr><tr> <td class="tocAuthors"><span style="font-size:
-      x-small;"> Alejandro Jiménez Hernández </span></td> <td
-      class="tocPages"><span style="font-size:
-      x-small;">7-26</span></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/article/view/410">Aproximación al mundo
-      rural romano en el territorio de Carmo = Approach to the Roman Rural settlement in the
-      Territory of Carmo</a></span></td> <td class="tocGalleys"> <span
-      style="font-size: x-small;"><a class="file"
-      href="http://www.upo.es/revistas/index.php/romula/article/view/410/358">PDF</a></span>
-      </td></tr><tr> <td class="tocAuthors"><span style="font-size:
-      x-small;"> Elisabet Conlin Hayes, Alejandro Jiménez Hernández </span></td>
-      <td class="tocPages"><span style="font-size:
-      x-small;">27-57</span></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/article/view/412">Evidencias del comercio
-      en época romana en la Subbética cordobesa = Evidences of roman trade in Cordoba
-      Subbetica</a></span></td> <td class="tocGalleys"> <span
-      style="font-size: x-small;"><a class="file"
-      href="http://www.upo.es/revistas/index.php/romula/article/view/412/359">PDF</a></span>
-      </td></tr><tr> <td class="tocAuthors"><span style="font-size:
-      x-small;"> José Ramón Carrillo Díaz-Pinés </span></td> <td
-      class="tocPages"><span style="font-size:
-      x-small;">59-94</span></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/article/view/413">La historia de las
-      investigaciones de "Ostur": Una introducción para su estudio = An introduction of the history
-      of research of "Ostur"</a></span></td> <td class="tocGalleys"> <span
-      style="font-size: x-small;"><a class="file"
-      href="http://www.upo.es/revistas/index.php/romula/article/view/413/360">PDF</a></span>
-      </td></tr><tr> <td class="tocAuthors"><span style="font-size:
-      x-small;"> Santiago Robles Esparcia </span></td> <td
-      class="tocPages"><span style="font-size:
-      x-small;">95-114</span></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/article/view/414">El mosaico de la villa
-      romana de Puente Melchor. Estudio historico-artístico y tratamiento de conservación = Mosaic of
-      the roman villa of Puente Melchor. Historical-artistic study and treatment of
-      conservation</a></span></td> <td class="tocGalleys"> <span
-      style="font-size: x-small;"><a class="file"
-      href="http://www.upo.es/revistas/index.php/romula/article/view/414/361">PDF</a></span>
-      </td></tr><tr> <td class="tocAuthors"><span style="font-size:
-      x-small;"> María Luisa Millán Salgado, Mercedes Cristina Gómez Bueno
-      </span></td> <td class="tocPages"><span style="font-size:
-      x-small;">115-136</span></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/article/view/415">Producciones
-      especializadas, influencias y modelos decorativos de los talleres marmóreos de la Colonia
-      Augusta Firma Astigi, Écija (Sevilla) = Specialized Productions, Influends And Decorative
-      Models Of The Marbles Workshops Of The Augusta Firma Astigi</a></span></td>
-      <td class="tocGalleys"> <span style="font-size: x-small;"><a class="file"
-      href="http://www.upo.es/revistas/index.php/romula/article/view/415/362">PDF</a></span>
-      </td></tr><tr> <td class="tocAuthors"><span style="font-size:
-      x-small;"> Ana María Felipe Colodrero </span></td> <td
-      class="tocPages"><span style="font-size:
-      x-small;">137-160</span></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/article/view/416">Policromia marmorea nei
-      rivestimentipavimentali e parietali della Villa Adriana di Tivoli: nuove scoperte e verifiche =
-      Marmoreal Polychromy In The Floor Andwall Coverings Of Hadrian’s Villa:New Discoveries And
-      Testing</a></span></td> <td class="tocGalleys"> <span
-      style="font-size: x-small;"><a class="file"
-      href="http://www.upo.es/revistas/index.php/romula/article/view/416/363">PDF</a></span>
-      </td></tr><tr> <td class="tocAuthors"><span style="font-size:
-      x-small;"> Giuseppina Enrica Cinque, Elisabetta Lazzeri </span></td> <td
-      class="tocPages"><span style="font-size:
-      x-small;">161-204</span></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/article/view/417">Dos nuevos retratos de
-      Augusto en la provincia de Córdoba = Two new Augustus portraits found in the province of
-      Córdoba</a></span></td> <td class="tocGalleys"> <span
-      style="font-size: x-small;"><a class="file"
-      href="http://www.upo.es/revistas/index.php/romula/article/view/417/364">PDF</a></span>
-      </td></tr><tr> <td class="tocAuthors"><span style="font-size:
-      x-small;"> Carlos Márquez </span></td> <td class="tocPages"><span
-      style="font-size:
-      x-small;">205-221</span></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/article/view/418">Esculturas romanas del
-      tipo afrodita Louvre-Nápoles en el Museo Arqueológico y Etnográfico de Córdoba = Roman
-      sculptures following The Model Of Aphrodite Louvre-Naples In The Archaeological And
-      Ethnographic Museum of Córdoba</a></span></td> <td class="tocGalleys">
-      <span style="font-size: x-small;"><a class="file"
-      href="http://www.upo.es/revistas/index.php/romula/article/view/418/365">PDF</a></span>
-      </td></tr><tr> <td class="tocAuthors"><span style="font-size:
-      x-small;"> Luis Baena del Alcázar </span></td> <td
-      class="tocPages"><span style="font-size:
-      x-small;">223-247</span></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/article/view/419">Un conjunto de cerámica
-      tardoantigua procedente de la Atalaya de la Moranilla (Écija, Sevilla) = A group of pottery
-      belonging to late antiquity period from Atalaya de la Moranilla (Écija,
-      Sevilla)</a></span></td> <td class="tocGalleys"> <span
-      style="font-size: x-small;"><a class="file"
-      href="http://www.upo.es/revistas/index.php/romula/article/view/419/366">PDF</a></span>
-      </td></tr><tr> <td class="tocAuthors"><span style="font-size:
-      x-small;"> María del Carmen Barragán Valencia </span></td> <td
-      class="tocPages"><span style="font-size:
-      x-small;">249-272</span></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/article/view/420">La muralla huérfana. A
-      vueltas con el último recinto amurallado de Madnat Išblia = The Orphan Wall. Going back to the
-      last wall of Madnat Išblia</a></span></td> <td class="tocGalleys">
-      <span style="font-size: x-small;"><a class="file"
-      href="http://www.upo.es/revistas/index.php/romula/article/view/420/367">PDF</a></span>
-      </td></tr><tr> <td class="tocAuthors"><span style="font-size:
-      x-small;"> Daniel Jiménez Maqueda, Pedro Pérez Quesada </span></td> <td
-      class="tocPages"><span style="font-size:
-      x-small;">273-347</span></td></tr></tbody></table><br
-      /><div style="float: left; width: 100%;"> <div id="issue" style="clear: left;">
-      <h4><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/issue/view/22">No 10
-      (2011)</a></span></h4></div></div><span style="font-size:
-      x-small;"></span><div style="float: left; width: 100%;"><div id="issue"
-      style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/issue/view/21">No 9
-      (2010)</a></span></h4></div></div><span style="font-size:
-      x-small;"></span><div style="float: left; width: 100%;"><div id="issue"
-      style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/issue/view/20">No 8
-      (2009)</a></span></h4></div></div><span style="font-size:
-      x-small;"></span><div style="float: left; width: 100%;"><div id="issue"
-      style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/issue/view/19">No 7
-      (2008)</a></span></h4></div></div><span style="font-size:
-      x-small;"> </span><div style="float: left; width: 100%;"> <div id="issue"
-      style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/issue/view/17">No 6
-      (2007)</a></span></h4></div></div><span style="font-size:
-      x-small;"></span><div style="float: left; width: 100%;"><div id="issue"
-      style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/issue/view/15">No 5
-      (2006)</a></span></h4></div></div><span style="font-size:
-      x-small;"></span><div style="float: left; width: 100%;"><div id="issue"
-      style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/issue/view/14">No 4
-      (2005)</a></span></h4></div></div><span style="font-size:
-      x-small;"></span><div style="float: left; width: 100%;"><div id="issue"
-      style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/issue/view/13">No 3
-      (2004)</a></span></h4></div></div><span style="font-size:
-      x-small;"></span><div style="float: left; width: 100%;"><div id="issue"
-      style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/issue/view/12">No 2
-      (2003)</a></span></h4></div></div><span style="font-size:
-      x-small;"></span><div style="float: left; width: 100%;"><span
-      style="font-size: x-small;"></span><div id="issue" style="clear: left;"><span
-      style="font-size: x-small;"> </span><span style="font-size: x-small;">
-      </span><h4><span style="font-size: x-small;"><a
-      href="http://www.upo.es/revistas/index.php/romula/issue/view/10">No 1
-      (2002)</a>&nbsp;&nbsp;
-      </span></h4></div></div></blockquote><div style="text-align:
-      center;"><span style="font-size: small;"><br /></span></div><div
-      style="text-align: center;"><br /></div><div style="text-align:
-      center;"><br /></div><div style="text-align: center;"><br
-      /></div><div style="text-align: center;"><br /></div><div
-      style="text-align: center;"><br /></div><div style="text-align:
-      center;"><br /></div><div style="text-align: center;"><br
-      /></div><div style="text-align: center;"><br /></div><div
-      style="text-align: center;"><br /></div><div style="text-align:
-      center;"><br /></div><div style="text-align: center;"><br
-      /></div><div style="text-align: center;"><br /></div><div
-      style="text-align: center;"><br /></div><div style="text-align:
-      center;"><br /></div><div style="text-align: center;"><br
-      /></div><div style="text-align: center;"><br /></div><div
-      style="text-align: center;"><br /></div><div style="text-align:
-      center;"><br /></div><div style="text-align: center;"><br
-      /></div><div style="text-align: center;"><br /></div><div
-      style="text-align: center;"><br /></div><div style="text-align:
-      center;"><br /></div><div style="text-align: center;"><br
-      /></div><div style="text-align: center;"><br /></div><div
-      style="text-align: center;"><br /></div><div style="text-align:
-      center;"><br /></div><div style="text-align: center;"><br
-      /></div><div style="text-align: center;"><br /></div><div
-      style="text-align: center;"><br /></div><div style="text-align:
-      center;"><br /></div><div style="text-align: center;"><br
-      /></div><div style="text-align: center;"><br /></div><div
-      style="text-align: center;"><span style="font-size: small;"><span><span
-      style="font-family: inherit;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
+   <title type="text">Open Access Journal: Romula: Arqueología antigua y medieval</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 1 September 2013, updated 5 September 2016]</span><br /><br /><a href="http://www.upo.es/revistas/index.php/romula">Romula: Arqueología antigua y&nbsp;medieval</a><br />ISSN: 1695-4076<br /><blockquote class="tr_bq"><img alt="Encabezado de página" height="48" src="https://www.upo.es/revistas/public/journals/5/pageHeaderTitleImage_es_ES.png" width="320" /> </blockquote><blockquote class="tr_bq"><span style="font-family: &quot;times new roman&quot;; font-size: x-small;"><i>Romula</i> se ocupa de los temas  emergentes en el campo de la arqueología tanto antigua como medieval.  Sus trabajos de investigación están enfocados en el campo de la  Arqueología, con especial atención a la Arqueología de la provincia de  Sevilla y su entorno. Igualmente actúa como órgano de difusión  científica del Seminario de Arqueología de la Universidad Pablo de  Olavide de Sevilla lo que incluye la difusión de los resultados de los  difierentes Proyectos de Investigación que se desarrollan en el mismo.&nbsp;</span></blockquote><div style="text-align: left;"><br /></div><blockquote class="tr_bq"><div style="text-align: left;"><a href="https://www.upo.es/revistas/index.php/romula/issue/view/109">Núm. 14 (2015)</a></div></blockquote><blockquote class="tr_bq"><blockquote class="tr_bq"><h3><span style="font-size: x-small;">Tabla de contenidos</span></h3><h4 class="tocSectionTitle"><span style="font-size: x-small;">Artículos</span></h4><table class="tocArticle"><tbody><tr valign="top">       <td class="tocArticleTitleAuthors">  <div class="tocTitle">       <span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/article/view/1719">Nuevos datos sobre la cronología de la deductio de augusta firma Astigi y sobre sus colonos veteranosa</a></span>     </div><div class="tocAuthors"><span style="font-size: x-small;">            Angel Ventura Villanueva         </span></div></td>  <td class="tocArticleGalleysPages">  <div class="tocGalleys">            <span style="font-size: x-small;"><a class="file" href="https://www.upo.es/revistas/index.php/romula/article/view/1719/1397">PDF</a></span>                  </div><div class="tocPages"><span style="font-size: x-small;">   7-27   </span></div></td></tr></tbody></table><table class="tocArticle"><tbody><tr valign="top">       <td class="tocArticleTitleAuthors">  <div class="tocTitle">       <span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/article/view/1721">La fondation de Cordoue à partir d’une étude quantitative de la muraille républicaine. Un premier essai</a></span>     </div><div class="tocAuthors"><span style="font-size: x-small;">            Christopher Courault         </span></div></td>  <td class="tocArticleGalleysPages">  <div class="tocGalleys">            <span style="font-size: x-small;"><a class="file" href="https://www.upo.es/revistas/index.php/romula/article/view/1721/1398">PDF</a></span>                  </div><div class="tocPages"><span style="font-size: x-small;">   29-51   </span></div></td></tr></tbody></table><table class="tocArticle"><tbody><tr valign="top">       <td class="tocArticleTitleAuthors">  <div class="tocTitle">       <span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/article/view/1722">El pomerium invisible. A propósito del trazado de los recintos amurallados de la Colonia Romula Hispalis</a></span>     </div><div class="tocAuthors"><span style="font-size: x-small;">            Daniel Jiménez Maqueda,         Pedro Pérez Quesada         </span></div></td>  <td class="tocArticleGalleysPages">  <div class="tocGalleys">            <span style="font-size: x-small;"><a class="file" href="https://www.upo.es/revistas/index.php/romula/article/view/1722/1399">PDF</a></span>                  </div><div class="tocPages"><span style="font-size: x-small;">   53-125   </span></div></td></tr></tbody></table><table class="tocArticle"><tbody><tr valign="top">       <td class="tocArticleTitleAuthors">  <div class="tocTitle">       <span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/article/view/1723">Nuevos datos para el estudio del espacio forense de la ciudad de Cartima (Cártama, Málaga)</a></span>     </div><div class="tocAuthors"><span style="font-size: x-small;">            Mª José Berlanga Palomo,         Francisco Melero García         </span></div></td>  <td class="tocArticleGalleysPages">  <div class="tocGalleys">            <span style="font-size: x-small;"><a class="file" href="https://www.upo.es/revistas/index.php/romula/article/view/1723/1400">PDF</a></span>                  </div><div class="tocPages"><span style="font-size: x-small;">   127-160   </span></div></td></tr></tbody></table><table class="tocArticle"><tbody><tr valign="top">       <td class="tocArticleTitleAuthors">  <div class="tocTitle">       <span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/article/view/1724">El teatro romano de Carteia (San Roque, Cádiz): Análisis de su diseño a partir de la prospección geofísica</a></span>     </div><div class="tocAuthors"><span style="font-size: x-small;">            Alejandro Jiménez Hernández,         Manuel Jaén Candón,          José Antonio Peña Ruano,         María Teresa Teixidó Ullod,          Javier Claros Domínguez         </span></div></td>  <td class="tocArticleGalleysPages">  <div class="tocGalleys">            <span style="font-size: x-small;"><a class="file" href="https://www.upo.es/revistas/index.php/romula/article/view/1724/1401">PDF</a></span>                  </div><div class="tocPages"><span style="font-size: x-small;">   161-185   </span></div></td></tr></tbody></table><table class="tocArticle"><tbody><tr valign="top">       <td class="tocArticleTitleAuthors">  <div class="tocTitle">       <span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/article/view/1725">Capiteles corintizantes en la Villa de Adriano en Tívoli. Tipologías y talleres.</a></span>     </div><div class="tocAuthors"><span style="font-size: x-small;">            Carlos Márquez         </span></div></td>  <td class="tocArticleGalleysPages">  <div class="tocGalleys">            <span style="font-size: x-small;"><a class="file" href="https://www.upo.es/revistas/index.php/romula/article/view/1725/1402">PDF</a></span>                  </div><div class="tocPages"><span style="font-size: x-small;">   187-220   </span></div></td></tr></tbody></table><table class="tocArticle"><tbody><tr valign="top">       <td class="tocArticleTitleAuthors">  <div class="tocTitle">       <span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/article/view/1732">Topografía eclesiástica de la Bética en la Antigüedad Tardía a través del corpus epigráfico</a></span>     </div><div class="tocAuthors"><span style="font-size: x-small;">            Isabel María Sánchez Ramos,         Rafael Barroso Cabrera,          Jorge Morín de Pablos,         Isabel Velázquez Soriano         </span></div></td>  <td class="tocArticleGalleysPages">  <div class="tocGalleys">            <span style="font-size: x-small;"><a class="file" href="https://www.upo.es/revistas/index.php/romula/article/view/1732/1423">PDF</a></span>                  </div><div class="tocPages"><span style="font-size: x-small;">   221-265   </span></div></td></tr></tbody></table><table class="tocArticle"><tbody><tr valign="top">       <td class="tocArticleTitleAuthors">  <div class="tocTitle">       <span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/article/view/1733">Peines  de marfil tallados con decoración zoomorfa. Dos ejemplares califales  procedentes de Córdoba –Cercadilla– y Sevilla y un ejemplar del siglo XI  de Jerez de la Frontera</a></span>     </div><div class="tocAuthors"><span style="font-size: x-small;">            María del Camino Fuertes Santos         </span></div></td>  <td class="tocArticleGalleysPages">  <div class="tocGalleys">            <span style="font-size: x-small;"><a class="file" href="https://www.upo.es/revistas/index.php/romula/article/view/1733/1424">PDF</a></span>                  </div><div class="tocPages"><span style="font-size: x-small;">   267-292   </span></div></td></tr></tbody></table><span style="font-size: x-small;">  </span><span style="font-size: x-small;"></span><span style="font-size: x-small;"></span><table class="tocArticle"><tbody><tr valign="top">       <td class="tocArticleTitleAuthors">  <div class="tocTitle">       <span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/article/view/1734">De la realidad al mito. La representación del arqueólogo desde la cultura ilustrada a la cultura de masas</a>     </span></div><span style="font-size: x-small;">  </span><div class="tocAuthors"><span style="font-size: x-small;">            María Ibáñez Alfonso         </span></div><span style="font-size: x-small;"> </span></td><td class="tocArticleGalleysPages">  <div class="tocGalleys">            <a class="file" href="https://www.upo.es/revistas/index.php/romula/article/view/1734/1425">PDF</a>                  </div><div class="tocPages">   293-331   </div></td></tr></tbody></table><span style="font-size: x-small;">   </span><h4 class="tocSectionTitle"><span style="font-size: x-small;">Recensiones</span></h4><span style="font-size: x-small;">                  </span><table class="tocArticle"><tbody><tr valign="top">       <td class="tocArticleTitleAuthors">  <div class="tocTitle">       <span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/article/view/1735">Recesiones</a></span>     </div><div class="tocAuthors"><span style="font-size: x-small;">            Manuel J. Casado Ariza,         Fernando Regueras Grande         </span></div></td>  <td class="tocArticleGalleysPages">  <div class="tocGalleys">                </div><div class="tocPages"><span style="font-size: x-small;">   333-339   </span></div></td></tr></tbody></table><span style="font-size: x-small;">     </span></blockquote></blockquote><blockquote class="tr_bq"><div style="float: left; width: 100%;"><div id="issue-109" style="clear: left;">     </div></div><span style="font-size: x-small;">            </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2014</span></h3><div id="issue-84" style="clear: left;">          <h4><span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/issue/view/84">Núm. 12/13: 2013-2014</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2012</span></h3><div id="issue-34" style="clear: left;">          <h4><span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/issue/view/34">Núm. 11 (2012)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2011</span></h3><div id="issue-22" style="clear: left;">          <h4><span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/issue/view/22">Núm. 10 (2011)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2010</span></h3><div id="issue-21" style="clear: left;">          <h4><span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/issue/view/21">Núm. 9 (2010)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2009</span></h3><div id="issue-20" style="clear: left;">          <h4><span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/issue/view/20">Núm. 8 (2009)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2008</span></h3><div id="issue-19" style="clear: left;">          <h4><span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/issue/view/19">Núm. 7 (2008)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2007</span></h3><div id="issue-17" style="clear: left;">          <h4><span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/issue/view/17">Núm. 6 (2007)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2006</span></h3><div id="issue-15" style="clear: left;">          <h4><span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/issue/view/15">Núm. 5 (2006)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2005</span></h3><div id="issue-14" style="clear: left;">          <h4><span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/issue/view/14">Núm. 4 (2005)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2004</span></h3><div id="issue-13" style="clear: left;">          <h4><span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/issue/view/13">Núm. 3 (2004)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2003</span></h3><div id="issue-12" style="clear: left;">          <h4><span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/issue/view/12">Núm. 2 (2003)</a></span></h4></div></div><span style="font-size: x-small;">   <br />           </span><h3><span style="font-size: x-small;">2002</span></h3><span style="font-size: x-small;">     </span><div id="issue-10" style="clear: left;"><span style="font-size: x-small;">          </span><h4><span style="font-size: x-small;"><a href="https://www.upo.es/revistas/index.php/romula/issue/view/10">Núm. 1 (2002)</a></span></h4></div></blockquote><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: small;"><span>S</span><span><span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5187755749097320816/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5187755749097320816/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/09/open-access-journal-romula-arqueologia.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5187755749097320816"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5187755749097320816"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/09/open-access-journal-romula-arqueologia.html"
          title="Open Access Journal: Romula: Arqueología antigua y medieval"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

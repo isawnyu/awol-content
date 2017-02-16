@@ -1,122 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7591712493282324052</id>
-    <published>2012-03-17T08:07:00.000-04:00</published>
-    <updated>2012-03-17T08:07:31.077-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7591712493282324052</id>
+   <published>2012-03-17T08:07:00.000-04:00</published>
+   <updated>2012-03-17T08:07:31.077-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: Revista de História da Arte e Arqueologia - Journal of
-      Art History and Archaeology</title>
-    <content type="html"><![CDATA[<a href="http://www.unicamp.br/chaa/rhaa/index.htm">Revista de
-      História da Arte e Arqueologia</a> - <a
-      href="http://www.unicamp.br/chaa/rhaa/english/index.htm">Journal of Art History and
-      Archaeology</a><br />ISSN 2179-2305 (online)<br />ISSN 1413-0874
-      (printed)<br /><br /><blockquote class="tr_bq"><img
-      alt="http://www.unicamp.br/chaa/rhaa/Imagens/cabecalho.png"
-      src="http://www.unicamp.br/chaa/rhaa/Imagens/cabecalho.png" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">A
-      <strong>Revista de História da Arte e Arqueologia</strong> é uma publicação do
-      Centro de História da Arte e Arqueologia, da Universidade Estadual da Campinas. Publicada desde
-      1994, seu principal objetivo é promover um maior desenvolvimento da História da Arte e
-      Arqueologia no Brasil, relacionando-as com a produção internacional da área. A
-      <strong>RHAA</strong> é uma das mais importantes revistas científicas brasileiras
-      que trata essas duas disciplinas correlatas, e é indexada
-      internacionalmente.</span><br /><br /><span style="font-size:
-      x-small;">A <strong>RHAA</strong> tem por objetivo a publicação de trabalhos de
-      especialistas brasileiros e estrangeiros sobre qualquer assunto de História da Arte e
-      Arqueologia, e ainda alcançar um público amplo e interessado. A publicação de trabalhos em duas
-      línguas, português e inglês, francês, italiano, espanhol ou alemão, possibilita o acesso a
-      leitores brasileiros e estrangeiros. Documentos, textos de referência não traduzidos ainda para
-      o português, resenhas críticas e informes também são incluídos.</span><br /><br
-      /><span style="font-size: x-small;">The <strong>Journal of Art History and
-      Archaeology</strong> is published by the Center of Art History and Archaeology (Campinas
-      State University). The main aim of the Journal is to promote a broader development in Brazil of
-      both art history and archaeology, putting them in close contact with an international
-      production in these fields. It is also the first Brazilian Journal dealing with both
-      disciplines in a related way.</span><br /><br /><span style="font-size:
-      x-small;">The Journal aims at publishing papers by Brazilian and foreign scholars about any
-      subject within the scope of art history and archaeology, as well as at addressing a learned and
-      interested larger audience. the publication of papers in two languages, Portuguese and English,
-      French, Italian, Spanish or German will enable Brazilian and foreign readers to be acquainted
-      with the papers. documents and reference texts, still unavailable in Portuguese, reviews and
-      news are also included.</span><br /><br /><div class="rev1"><span
-      style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista01.htm">número 1 -
-      1994</a></span><div class="capa"><div class="rev1"><span
-      style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista02.htm">número 2 -
-      1995/96</a></span></div></div></div><div
-      class="rev1"><span style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista03.htm">número 3 -
-      fevereiro/2000</a></span></div><div class="rev1"><span
-      style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista04.htm">número 4 -
-      agosto/2000</a></span></div><div class="rev1"><span
-      style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista05.htm">número 5 -
-      dezembro/2005</a></span></div><div class="rev1"><span
-      style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista06.htm">número 6 -
-      dezembro/2006</a></span></div><div class="rev1"><span
-      style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista07.htm">número 7 -
-      janeiro-junho/2007</a></span></div><div class="rev1"><span
-      style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista08.htm">número 8 -
-      julho-dezembro/2007</a></span></div><div class="rev1"><span
-      style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista09.htm">número 9 -
-      janeiro-junho/2008</a></span></div><div class="rev1"><span
-      style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista10.htm">número 10 -
-      julho-dezembro/2008</a></span></div><div class="rev1"><span
-      style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista11.htm">número 11 -
-      janeiro-junho/2009</a></span></div><div class="rev1"><span
-      style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista12.htm">número 12 -
-      julho-dezembro/2009</a></span></div><div class="rev1"><span
-      style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista13.htm">número 13 -
-      janeiro-julho/2010</a></span></div><div class="rev1"><span
-      style="font-size: xx-small;"><a
-      href="http://www.unicamp.br/chaa/rhaa/revista14.htm">número 14 -
-      julho-dezembro/2010</a></span></div><span style="font-size:
-      xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista15.htm">número 15 -
-      janeiro-junho/2011</a></span></blockquote><br /><div
-      style="text-align: center;"><br />See the full <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a>.</div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: Revista de História da Arte e Arqueologia - Journal of Art History and Archaeology</title>
+   <content type="html"><![CDATA[<a href="http://www.unicamp.br/chaa/rhaa/index.htm">Revista de História da Arte e Arqueologia</a> - <a href="http://www.unicamp.br/chaa/rhaa/english/index.htm">Journal of Art History and Archaeology</a><br />ISSN 2179-2305 (online)<br />ISSN 1413-0874 (printed)<br /><br /><blockquote class="tr_bq"><img alt="http://www.unicamp.br/chaa/rhaa/Imagens/cabecalho.png" src="http://www.unicamp.br/chaa/rhaa/Imagens/cabecalho.png" />         </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">A <strong>Revista de História da Arte e Arqueologia</strong> é uma  publicação do Centro de História da Arte e Arqueologia, da Universidade  Estadual da Campinas. Publicada desde 1994, seu principal objetivo é  promover um maior desenvolvimento da História da Arte e Arqueologia no  Brasil, relacionando-as com a produção internacional da área. A <strong>RHAA</strong> é uma das mais importantes revistas científicas brasileiras que trata  essas duas disciplinas correlatas, e é indexada internacionalmente.</span><br /><br /><span style="font-size: x-small;">A <strong>RHAA</strong> tem por objetivo a publicação de trabalhos  de especialistas brasileiros e estrangeiros sobre qualquer assunto de  História da Arte e Arqueologia, e ainda alcançar um público amplo e  interessado. A publicação de trabalhos em duas línguas, português e  inglês, francês, italiano, espanhol ou alemão, possibilita o acesso a  leitores brasileiros e estrangeiros. Documentos, textos de referência  não traduzidos ainda para o português, resenhas críticas e informes  também são incluídos.</span><br /><br /><span style="font-size: x-small;">The <strong>Journal of Art History and Archaeology</strong> is  published by the Center of Art History and Archaeology (Campinas State  University). The main aim of the Journal is to promote a broader  development in Brazil of both art history and archaeology, putting them  in close contact with an international production in these fields. It is  also the first Brazilian Journal dealing with both disciplines in a  related way.</span><br /><br /><span style="font-size: x-small;">The Journal aims at publishing papers by Brazilian and foreign  scholars about any subject within the scope of art history and  archaeology, as well as at addressing a learned and interested larger  audience. the publication of papers in two languages, Portuguese and  English, French, Italian, Spanish or German will enable Brazilian and  foreign readers to be acquainted with the papers. documents and  reference texts, still unavailable in Portuguese, reviews and news are  also included.</span><br /><br /><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista01.htm">número 1 - 1994</a></span><div class="capa"><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista02.htm">número 2 - 1995/96</a></span></div></div></div><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista03.htm">número 3 - fevereiro/2000</a></span></div><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista04.htm">número 4 - agosto/2000</a></span></div><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista05.htm">número 5 - dezembro/2005</a></span></div><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista06.htm">número 6 - dezembro/2006</a></span></div><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista07.htm">número 7 - janeiro-junho/2007</a></span></div><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista08.htm">número 8 - julho-dezembro/2007</a></span></div><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista09.htm">número 9 - janeiro-junho/2008</a></span></div><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista10.htm">número 10 - julho-dezembro/2008</a></span></div><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista11.htm">número 11 - janeiro-junho/2009</a></span></div><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista12.htm">número 12 - julho-dezembro/2009</a></span></div><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista13.htm">número 13 - janeiro-julho/2010</a></span></div><div class="rev1"><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista14.htm">número 14 - julho-dezembro/2010</a></span></div><span style="font-size: xx-small;"><a href="http://www.unicamp.br/chaa/rhaa/revista15.htm">número 15 - janeiro-junho/2011</a></span></blockquote><br /><div style="text-align: center;"><br />See the full <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a>.</div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7591712493282324052/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7591712493282324052/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/open-access-journal-revista-de-historia.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7591712493282324052"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7591712493282324052"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/open-access-journal-revista-de-historia.html"
          title="Open Access Journal: Revista de História da Arte e Arqueologia - Journal of Art History and Archaeology"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

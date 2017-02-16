@@ -1,143 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5164999529556600170</id>
-    <published>2010-12-13T09:23:00.001-05:00</published>
-    <updated>2015-02-05T11:33:15.111-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5164999529556600170</id>
+   <published>2010-12-13T09:23:00.001-05:00</published>
+   <updated>2015-02-05T11:33:15.111-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Syriac"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Christianity"/>
-    <title type="text">Open Access Journal: Parole de l'Orient</title>
-    <content type="html"><![CDATA[<a href="http://documents.irevues.inist.fr/handle/2042/34760">Parole
-      de l'Orient</a><br /><span class="champ">ISSN:</span>0258-8331<br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;"><a
-      href="http://documents.irevues.inist.fr/handle/2042/34762" style="margin-right: 20px;"
-      title="atteindre le(s) numéro(s)">Melto -1966</a> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34865" style="margin-right: 20px;"
-      title="atteindre le(s) numéro(s)">Melto -1967</a> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34764" style="margin-right: 20px;"
-      title="atteindre le(s) numéro(s)">Melto -1968</a> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34765" style="margin-right: 20px;"
-      title="atteindre le(s) numéro(s)">Melto -1969</a> </span><br
-      /></blockquote><table border="0"
-      cellspacing="0"><tbody><tr></tr></tbody></table><blockquote><ul
-      class="collectionListItem"><li><span class="bold" style="font-size: xx-small;">
-      <a href="http://documents.irevues.inist.fr/handle/2042/34766">Parole de l'Orient -
-      1970</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34767">Parole de
-      l'Orient - 1971</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34768">Parole de l'Orient -
-      1972</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34769">Parole de
-      l'Orient - 1973</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34833">Parole de l'Orient -
-      1974</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34834">Parole de
-      l'Orient - 1975</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34835">Parole de l'Orient -
-      1977</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34836">Parole de
-      l'Orient - 1979</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34837">Parole de l'Orient -
-      1981</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34838">Parole de
-      l'Orient - 1983</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34839">Parole de l'Orient -
-      1984</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34840">Parole de
-      l'Orient - 1986</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34841">Parole de l'Orient -
-      1987</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34842">Parole de
-      l'Orient - 1988</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34843">Parole de l'Orient -
-      1990</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34844">Parole de
-      l'Orient - 1992</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34845">Parole de l'Orient -
-      1993</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34846">Parole de
-      l'Orient - 1994</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34847">Parole de l'Orient -
-      1995</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34848">Parole de
-      l'Orient - 1996</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34849">Parole de l'Orient -
-      1997</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34850">Parole de
-      l'Orient - 1998</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34851">Parole de l'Orient -
-      1999</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34852">Parole de
-      l'Orient - 2000</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34853">Parole de l'Orient -
-      2001</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34854">Parole de
-      l'Orient - 2002</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34855">Parole de l'Orient -
-      2003</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34856">Parole de
-      l'Orient - 2004</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34857">Parole de l'Orient -
-      2005</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34858">Parole de
-      l'Orient - 2006</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34859">Parole de l'Orient -
-      2007</a> </span> </li><li> <span class="bold" style="font-size:
-      xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34860">Parole de
-      l'Orient - 2008</a> </span> </li><li> <span class="bold"
-      style="font-size: xx-small;"> <a
-      href="http://documents.irevues.inist.fr/handle/2042/34861">Parole de l'Orient -
-      2009</a> </span> </li></ul><div style="clear: both; text-align:
-      center;">&nbsp;<span style="font-size: small;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></div></blockquote><blockquote><br
-      /><br /><br /><br /><i><br /><br /><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></p></script></i></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Syriac"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Christianity"/>
+   <title type="text">Open Access Journal: Parole de l'Orient</title>
+   <content type="html"><![CDATA[<a href="http://documents.irevues.inist.fr/handle/2042/34760">Parole de l'Orient</a><br /><span class="champ">ISSN:</span>0258-8331<br /><blockquote class="tr_bq"><span style="font-size: x-small;"><a href="http://documents.irevues.inist.fr/handle/2042/34762" style="margin-right: 20px;" title="atteindre le(s) numéro(s)">Melto -1966</a> <a href="http://documents.irevues.inist.fr/handle/2042/34865" style="margin-right: 20px;" title="atteindre le(s) numéro(s)">Melto -1967</a> <a href="http://documents.irevues.inist.fr/handle/2042/34764" style="margin-right: 20px;" title="atteindre le(s) numéro(s)">Melto -1968</a> <a href="http://documents.irevues.inist.fr/handle/2042/34765" style="margin-right: 20px;" title="atteindre le(s) numéro(s)">Melto -1969</a> </span><br /></blockquote><table border="0" cellspacing="0"><tbody><tr></tr></tbody></table><blockquote><ul class="collectionListItem"><li><span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34766">Parole de l'Orient - 1970</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34767">Parole de l'Orient - 1971</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34768">Parole de l'Orient - 1972</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34769">Parole de l'Orient - 1973</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34833">Parole de l'Orient - 1974</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34834">Parole de l'Orient - 1975</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34835">Parole de l'Orient - 1977</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34836">Parole de l'Orient - 1979</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34837">Parole de l'Orient - 1981</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34838">Parole de l'Orient - 1983</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34839">Parole de l'Orient - 1984</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34840">Parole de l'Orient - 1986</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34841">Parole de l'Orient - 1987</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34842">Parole de l'Orient - 1988</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34843">Parole de l'Orient - 1990</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34844">Parole de l'Orient - 1992</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34845">Parole de l'Orient - 1993</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34846">Parole de l'Orient - 1994</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34847">Parole de l'Orient - 1995</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34848">Parole de l'Orient - 1996</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34849">Parole de l'Orient - 1997</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34850">Parole de l'Orient - 1998</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34851">Parole de l'Orient - 1999</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34852">Parole de l'Orient - 2000</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34853">Parole de l'Orient - 2001</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34854">Parole de l'Orient - 2002</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34855">Parole de l'Orient - 2003</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34856">Parole de l'Orient - 2004</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34857">Parole de l'Orient - 2005</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34858">Parole de l'Orient - 2006</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34859">Parole de l'Orient - 2007</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34860">Parole de l'Orient - 2008</a> </span> </li><li>  <span class="bold" style="font-size: xx-small;"> <a href="http://documents.irevues.inist.fr/handle/2042/34861">Parole de l'Orient - 2009</a> </span> </li></ul><div style="clear: both; text-align: center;">&nbsp;<span style="font-size: small;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></div></blockquote><blockquote><br /><br /><br /><br /><i><br /><br /><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></p></script></i></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5164999529556600170/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5164999529556600170/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/12/open-access-journal-parole-de-lorient.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5164999529556600170"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5164999529556600170"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/12/open-access-journal-parole-de-lorient.html"
          title="Open Access Journal: Parole de l'Orient"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

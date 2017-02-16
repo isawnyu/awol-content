@@ -1,78 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4155796264492967595</id>
-    <published>2014-01-28T15:07:00.001-05:00</published>
-    <updated>2014-01-28T15:10:00.121-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4155796264492967595</id>
+   <published>2014-01-28T15:07:00.001-05:00</published>
+   <updated>2014-01-28T15:10:00.121-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Neo-Latin"/>
-    <title type="text">Open Access Neo-Latin Resources</title>
-    <content type="html"><![CDATA[There are the open access sites I know of dealing with Neo-Latin. Are there
-      others? If so, please comment below.<br /><br /><div style="text-align:
-      center;"><span style="font-size: small;">Databases, collections, organizations,
-      etc.</span></div><ul><li><span style="font-size: small;"><a
-      href="http://www.philological.bham.ac.uk/bibliography/">An Analytic Bibliography of Online
-      Neo-Latin Texts</a>, by Dana F. Sutton</span></li><li><span
-      style="font-size: small;"><a
-      href="http://www.mml.cam.ac.uk/news/other/NL_news_events.html">Cambridge Society for
-      Neo-Latin Studies</a> </span></li><li><span style="font-size:
-      small;"><a href="http://www.uni-mannheim.de/mateo/camenahtdocs/camena.html">CAMENA -
-      Lateinische Texte der Frühen Neuzeit</a> (Corpus Automatum Multiplex Electorum
-      Neolatinitatis Auctorum)</span></li><li><span style="font-size:
-      small;"><a href="http://www.suberic.net/~marc/latinpoetry.html">Contemporary Latin
-      Poetry</a> </span></li><li><span style="font-size: small;"><a
-      href="http://www.forumromanum.org/literature/index.html">Corpus Scriptorum Latinorum
-      (CSL)</a> (...spanning from the earliest epigraphic remains to the Neo-Latinists of the
-      eighteenth century)</span></li><li><span style="font-size:
-      small;"><a class="link"
-      href="http://www.ut.ee/klassik/links/cgi-bin/jump.cgi?ID=302">Database of Nordic Neo-Latin
-      literature</a></span></li><li><span style="font-size:
-      small;"><a href="http://millennium.arts.kuleuven.ac.be/sph/">International Association
-      for Neo-Latin Studies</a>&nbsp; </span></li><li><span
-      style="font-size: small;"><a class="link"
-      href="http://www.ut.ee/klassik/links/cgi-bin/jump.cgi?ID=447">Korpus der akademischen
-      Gelegenheitsdichtung an der Academia Gustaviana
-      (1632-1656)</a></span></li><li><span style="font-size:
-      small;"><a href="http://neolatin.lbg.ac.at/research/database-information">Ludwig
-      Boltzmann Institute Neo-Latin Studies Database</a>
-      </span></li><li><span style="font-size: small;"><a class="link"
-      href="http://www.ut.ee/klassik/links/cgi-bin/jump.cgi?ID=1658">Neo-Latin texts at the Latin
-      Library</a></span></li><li><span style="font-size: small;"><a
-      href="http://www.uni-mannheim.de/mateo/termini/index.html">TERMINI -
-      Vernetzter&nbsp;Wortschatz lateinischer&nbsp;Wissensliteratur der
-      Frühen&nbsp;Neuzeit</a></span></li></ul><br /><div
-      style="text-align: center;">Open access journals</div><ul><li><a
-      href="http://mcl.as.uky.edu/retiarius-archivum-recentioris-latinitatis">Retiarius: Archivum
-      Recentioris Latinitatis</a> </li><li><a
-      href="http://www.verbum-analectaneolatina.hu/">Verbum: Analecta Neolatina</a> (ISSN
-      (paper) 1585-079X; ISSN (online) 1588-4309)</li></ul>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Neo-Latin"/>
+   <title type="text">Open Access Neo-Latin Resources</title>
+   <content type="html"><![CDATA[There are the open access sites I know of dealing with Neo-Latin. Are there others? If so, please comment below.<br /><br /><div style="text-align: center;"><span style="font-size: small;">Databases, collections, organizations, etc.</span></div><ul><li><span style="font-size: small;"><a href="http://www.philological.bham.ac.uk/bibliography/">An Analytic Bibliography of Online Neo-Latin Texts</a>, by Dana F. Sutton</span></li><li><span style="font-size: small;"><a href="http://www.mml.cam.ac.uk/news/other/NL_news_events.html">Cambridge Society for Neo-Latin Studies</a> </span></li><li><span style="font-size: small;"><a href="http://www.uni-mannheim.de/mateo/camenahtdocs/camena.html">CAMENA - Lateinische Texte der Frühen Neuzeit</a> (Corpus Automatum Multiplex Electorum Neolatinitatis Auctorum)</span></li><li><span style="font-size: small;"><a href="http://www.suberic.net/~marc/latinpoetry.html">Contemporary Latin Poetry</a> </span></li><li><span style="font-size: small;"><a href="http://www.forumromanum.org/literature/index.html">Corpus Scriptorum Latinorum (CSL)</a> (...spanning from the earliest epigraphic remains to the Neo-Latinists of the eighteenth century)</span></li><li><span style="font-size: small;"><a class="link" href="http://www.ut.ee/klassik/links/cgi-bin/jump.cgi?ID=302">Database of Nordic Neo-Latin literature</a></span></li><li><span style="font-size: small;"><a href="http://millennium.arts.kuleuven.ac.be/sph/">International Association for Neo-Latin Studies</a>&nbsp; </span></li><li><span style="font-size: small;"><a class="link" href="http://www.ut.ee/klassik/links/cgi-bin/jump.cgi?ID=447">Korpus der akademischen Gelegenheitsdichtung an der Academia Gustaviana (1632-1656)</a></span></li><li><span style="font-size: small;"><a href="http://neolatin.lbg.ac.at/research/database-information">Ludwig Boltzmann Institute Neo-Latin Studies Database</a> </span></li><li><span style="font-size: small;"><a class="link" href="http://www.ut.ee/klassik/links/cgi-bin/jump.cgi?ID=1658">Neo-Latin texts at the Latin Library</a></span></li><li><span style="font-size: small;"><a href="http://www.uni-mannheim.de/mateo/termini/index.html">TERMINI - Vernetzter&nbsp;Wortschatz lateinischer&nbsp;Wissensliteratur der Frühen&nbsp;Neuzeit</a></span></li></ul><br /><div style="text-align: center;">Open access journals</div><ul><li><a href="http://mcl.as.uky.edu/retiarius-archivum-recentioris-latinitatis">Retiarius: Archivum Recentioris Latinitatis</a>        </li><li><a href="http://www.verbum-analectaneolatina.hu/">Verbum: Analecta Neolatina</a> (ISSN (paper) 1585-079X; ISSN (online) 1588-4309)</li></ul>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4155796264492967595/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4155796264492967595/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/01/open-access-neo-latin-resources.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4155796264492967595"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4155796264492967595"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/01/open-access-neo-latin-resources.html"
          title="Open Access Neo-Latin Resources"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,163 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4525581564025539864</id>
-    <published>2014-07-23T11:44:00.000-04:00</published>
-    <updated>2014-07-23T11:44:08.389-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4525581564025539864</id>
+   <published>2014-07-23T11:44:00.000-04:00</published>
+   <updated>2014-07-23T11:44:08.389-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <title type="text">The Hellespont Project: Integrating Arachne and Perseus</title>
-    <content type="html"><![CDATA[<a href="http://hellespont.dainst.org/startpage/">The Hellespont
-      Project: <span class="muted">Integrating Arachne and Perseus</span></a><br
-      /><blockquote class="tr_bq"><span class="muted"><img
-      alt="http://hellespont.dainst.org/startpage/assets/greif.png" class="decoded" height="196"
-      src="http://hellespont.dainst.org/startpage/assets/greif.png" width="200" />
-      </span></blockquote><blockquote class="tr_bq"><div
-      class="lead"><span style="font-size: x-small;">As a partner of the German
-      Archaeological Institute, the CoDArchLab cooperates with the <a
-      href="http://www.perseus.tufts.edu/hopper/" target="_blank"> Perseus Digital
-      Library</a> at Tufts University to combine the digital collections of classical studies
-      of both institutions. Thus one of the most comprehensive and free online collections of Greek
-      and Roman antiquity will be available for public and scientific
-      use.</span></div><div class="lead"><br /></div><span
-      style="font-size: x-small;"> </span><span style="font-size: x-small;"> The basis
-      of the Hellespont Project is the combination of text and object data using the metadata format
-      CIDOC CRM. The <a
-      href="http://arachne.uni-koeln.de/codarchlab/cidoc-mapping/index.php?category=cidoc&amp;call=browser&amp;typ=dyn"
-      target="_blank"> CRM mapping of the Arachne database</a> is part of other projects of
-      the CoDArchLab carried out at the moment. The use of CIDOC CRM to map ancient text content in
-      order to build a bridge to other types of sources is a methodological
-      innovation.&nbsp;</span><br /><br /><span style="font-size:
-      x-small;">The material world in Thucydides' <i>Pentecontaetia</i> (Thuc. 1,89 to
-      1,118) is the chosen starting point for the integration of both data sets; other parts of the
-      text will follow at a later stage.</span><br /><br /><span
-      style="font-size: x-small;"> </span><span style="font-size: x-small;">One task
-      of the project consists in manually identifying entities representing categories in the
-      archaeological and textual evidence (e.g. built spaces, topography, individual persons,
-      populations) within the whole text of Thucydides' <i>Pentecontaetia</i>. These
-      entities will be annotated according to the TEI guidelines, so as to enrich the text
-      simultaneously with historical background information.<br /> Event annotation is also
-      performed simultaneously, taking as a basis the mainly discussed historical events of the text
-      in modern research literature. At this level of analysis, the word strings annotated with TEI
-      markup represent historical events according to the description of the ancient author, which
-      finally ended in the political and military conflict between Athens and Sparta (Peloponnesian
-      War). In the following part of the project, the main content of Thucydides' text will be mapped
-      using the event-based CIDOC Conceptual Reference Model with reference to these word
-      strings.</span><br /><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;">At the same time, supported by a <a
-      href="http://chs.harvard.edu/wa/pageR?tn=Fellowships&amp;bdc=12&amp;mn=0"
-      target="_blank">CHS/DAI joint fellowship</a>, the narrative and discursive structure
-      of the text, as well as all its relevant linguistic features, are also being annotated. One of
-      the goals of the linguistic annotation is to provide a more solid background for the
-      aforementioned task of event identification. The linguistic annotation of Thucydides' Histories
-      is performed according to the guidelines of the <a
-      href="http://nlp.perseus.tufts.edu/syntax/treebank/" target="_blank">Ancient Greek
-      Dependency Treebank</a>, which provide a word-by-word analysis of the morphological and
-      syntactical features of the text. A further level of linguistic analysis, namely the so-called
-      "tectogrammatical annotation" on semantic and pragmatic aspects which are necessary to
-      understand the event structure of a text, will be tested following the model of the <a
-      href="http://ufal.mff.cuni.cz/pdt2.0/" target="_blank"> Prague Dependency
-      Treebank</a>.</span><br /><br /><span style="font-size:
-      x-small;"> </span><span style="font-size: x-small;">Furthermore, to open up the
-      broader historical context of the related sources, we explore the idea of a VRE combining
-      archaeological and philological data with secondary research literature and in particular
-      journal articles, that will be collected in an automized way. This part of the research is
-      carried out in the context of a PhD project at the <a
-      href="http://www.kcl.ac.uk/artshums/depts/ddh" target="_blank">Department of Digital
-      Humanities at King's College</a> (formerly the Centre for Computing in the Humanities)
-      since January 2011 and in close cooperation with the Thucydides Project at the CoDArchLab. The
-      combination of all available sources on a historical topic by means of a single Virtual
-      Research Environment (VRE) will open up new perspectives and modes of research of the ancient
-      greek and roman world.</span><br /><br /><span style="font-size:
-      x-small;"> </span><span style="font-size: x-small;">Starting from October 2010,
-      the project has been funded for three years by the <a
-      href="http://www.neh.gov/news/archive/201007200.html" target="_blank"> NEH / DFG Bilateral
-      Digital Humanities Program 'Enriching Digital Collections'</a> that offers support for
-      cooperations between U.S. and German scientists to develop research-related digitization
-      projects for the humanities. Each of these projects will be jointly run by an American and a
-      German institution.</span></blockquote><div class="nav-collapse pull-left">
-      <blockquote class="tr_bq"><ul class="nav"><li><span style="font-size:
-      x-small;"><a
-      href="http://hellespont.dainst.org/startpage/index.html#description">About Hellespont
-      Project</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://gapvis.hellespont.dainst.org/">GapVis for
-      Hellespont</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://linkeddata.hellespont.dainst.org/">Hellespont Linked Data
-      Interface</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://hellespont.dainst.org/startpage/downloads.html">Downloads
-      and Links</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://hellespont.dainst.org/startpage/docu.html">Documentation</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://hellespont.dainst.org/startpage/contact.html">Contact</a></span></li></ul></blockquote><div
-      class="span3 bs-docs-sidebar"> <ul class="nav nav-list bs-docs-sidenav
-      affix-top"><ul class="nav nav-list"><li class="active"><span
-      style="font-size: x-small;"><a
-      href="http://hellespont.dainst.org/startpage/docu.html#start">Hellespont
-      Documentation</a></span></li><li class="nav-header"><span
-      style="font-size: x-small;">The Data</span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://hellespont.dainst.org/startpage/docu.html#Named-Entity-Annotation-TEI">Named
-      Entity Annotation (TEI)</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://hellespont.dainst.org/startpage/docu.html#Manual-Event-Annotation">Manual Event
-      Annotation</a></span></li><li style="cursor: pointer; list-style-image:
-      url(&quot;assets/img/plusbox.gif&quot;);"><span style="font-size:
-      x-small;"><a
-      href="http://hellespont.dainst.org/startpage/docu.html#Linguistic-Annotation"
-      id="lingu-nav-link">Linguistic Annotation</a></span>
-      </li><li><span style="font-size: x-small;"><a
-      href="http://hellespont.dainst.org/startpage/docu.html#Extracting-Inline-Annotations">Extracting
-      Inline Annotation</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://hellespont.dainst.org/startpage/docu.html#Linked-Data">Linked
-      Data</a></span></li><li class="nav-header"><span style="font-size:
-      x-small;">CIDOC CRM</span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://hellespont.dainst.org/startpage/docu.html#Hellespont-CIDOC-Mapping-and-ThucDb">Hellespont
-      CIDOC CRM Mapping and ThucDb</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://hellespont.dainst.org/startpage/docu.html#Arachne-CIDOC-CRM-Mapping">Arachne
-      CIDOC CRM Mapping</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://hellespont.dainst.org/startpage/docu.html#Perseus-Artifact-CIDOC-Mapping">Perseus
-      Artifact CIDOC CRM Mapping</a></span></li><li
-      class="nav-header"><span style="font-size: x-small;">The
-      Interfaces</span></li><li><span style="font-size: x-small;"><a
-      href="http://hellespont.dainst.org/startpage/docu.html#GapVis">GapVis for
-      Hellespont</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://hellespont.dainst.org/startpage/docu.html#Hellespont-Linked-Data-Interface">Hellespont
-      Linked Data Interface</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://hellespont.dainst.org/startpage/docu.html#ThucDb">ThucDb</a></span></li></ul></ul></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <title type="text">The Hellespont Project: Integrating Arachne and Perseus</title>
+   <content type="html"><![CDATA[<a href="http://hellespont.dainst.org/startpage/">The Hellespont Project: <span class="muted">Integrating Arachne and Perseus</span></a><br /><blockquote class="tr_bq"><span class="muted"><img alt="http://hellespont.dainst.org/startpage/assets/greif.png" class="decoded" height="196" src="http://hellespont.dainst.org/startpage/assets/greif.png" width="200" /> </span></blockquote><blockquote class="tr_bq"><div class="lead"><span style="font-size: x-small;">As a partner of the German Archaeological Institute, the CoDArchLab cooperates with the <a href="http://www.perseus.tufts.edu/hopper/" target="_blank">    		Perseus Digital Library</a> at Tufts University to combine the  digital collections of classical studies of both institutions. Thus one  of the most comprehensive and free      		online collections of Greek and Roman antiquity will be available  for public and scientific use.</span></div><div class="lead"><br /></div><span style="font-size: x-small;">          </span><span style="font-size: x-small;">        	  The basis of the Hellespont Project is the combination of  text and object data using the metadata format CIDOC CRM. The <a href="http://arachne.uni-koeln.de/codarchlab/cidoc-mapping/index.php?category=cidoc&amp;call=browser&amp;typ=dyn" target="_blank">        	  CRM mapping of the Arachne database</a> is part of other  projects of the CoDArchLab carried out at the moment. The use of CIDOC  CRM to map ancient text content in order to build          	  a bridge to other types of sources is a methodological  innovation.&nbsp;</span><br /><br /><span style="font-size: x-small;">The material world in Thucydides' <i>Pentecontaetia</i> (Thuc. 1,89 to 1,118) is the chosen starting point for          	  the integration of both data sets; other parts of the text will follow at a later stage.</span><br /><br /><span style="font-size: x-small;">            </span><span style="font-size: x-small;">One task of the project consists in manually identifying  entities representing categories in the archaeological and textual  evidence              (e.g. built spaces, topography, individual persons,  populations) within the whole text of Thucydides' <i>Pentecontaetia</i>.               These entities will be annotated according to the TEI  guidelines, so as to enrich the text simultaneously with historical  background information.<br />            Event annotation is also performed simultaneously, taking as  a basis the mainly discussed historical events of the text in modern  research literature.              At this level of analysis, the word strings annotated with  TEI markup represent historical events according to the description of  the ancient author, which finally              ended in the political and military conflict between Athens  and Sparta (Peloponnesian War). In the following part of the project,  the main content of Thucydides' text              will be mapped using the event-based CIDOC Conceptual  Reference Model with reference to these word strings.</span><br /><br /><span style="font-size: x-small;">            </span><span style="font-size: x-small;">At the same time, supported by a <a href="http://chs.harvard.edu/wa/pageR?tn=Fellowships&amp;bdc=12&amp;mn=0" target="_blank">CHS/DAI joint fellowship</a>,  the narrative and              discursive structure of the text, as well as all its  relevant linguistic features, are also being annotated. One of the goals  of the linguistic annotation is to provide              a more solid background for the aforementioned task of event  identification. The linguistic annotation of Thucydides' Histories is  performed according to the guidelines              of the <a href="http://nlp.perseus.tufts.edu/syntax/treebank/" target="_blank">Ancient Greek Dependency Treebank</a>,  which provide a word-by-word analysis of the               morphological and syntactical features of the text. A  further level of linguistic analysis, namely the so-called  "tectogrammatical annotation" on semantic and pragmatic              aspects which are necessary to understand the event  structure of a text, will be tested following the model of the <a href="http://ufal.mff.cuni.cz/pdt2.0/" target="_blank">             Prague Dependency Treebank</a>.</span><br /><br /><span style="font-size: x-small;">            </span><span style="font-size: x-small;">Furthermore, to open up the broader historical context of  the related sources, we explore the idea of a VRE combining  archaeological and philological data with              secondary research literature and in particular journal  articles, that will be collected in an automized way. This part of the  research is carried out in the context              of a PhD project at the <a href="http://www.kcl.ac.uk/artshums/depts/ddh" target="_blank">Department of Digital Humanities at King's College</a> (formerly the Centre               for Computing in the Humanities) since January 2011 and in  close cooperation with the Thucydides Project at the CoDArchLab.             The combination of all available sources on a historical  topic by means of a single Virtual Research Environment (VRE) will open  up new perspectives and modes of              research of the ancient greek and roman world.</span><br /><br /><span style="font-size: x-small;">            </span><span style="font-size: x-small;">Starting from October 2010, the project has been funded for three years by the <a href="http://www.neh.gov/news/archive/201007200.html" target="_blank">            NEH / DFG Bilateral Digital Humanities Program 'Enriching Digital Collections'</a> that offers support for cooperations between U.S. and German scientists  to              develop research-related digitization projects for the  humanities. Each of these projects will be jointly run by an American  and a German institution.</span></blockquote><div class="nav-collapse pull-left">						<blockquote class="tr_bq"><ul class="nav"><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/index.html#description">About Hellespont Project</a></span></li><li><span style="font-size: x-small;"><a href="http://gapvis.hellespont.dainst.org/">GapVis for Hellespont</a></span></li><li><span style="font-size: x-small;"><a href="http://linkeddata.hellespont.dainst.org/">Hellespont Linked Data Interface</a></span></li><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/downloads.html">Downloads and Links</a></span></li><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/docu.html">Documentation</a></span></li><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/contact.html">Contact</a></span></li></ul></blockquote><div class="span3 bs-docs-sidebar">        <ul class="nav nav-list bs-docs-sidenav affix-top"><ul class="nav nav-list"><li class="active"><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/docu.html#start">Hellespont Documentation</a></span></li><li class="nav-header"><span style="font-size: x-small;">The Data</span></li><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/docu.html#Named-Entity-Annotation-TEI">Named Entity Annotation (TEI)</a></span></li><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/docu.html#Manual-Event-Annotation">Manual Event Annotation</a></span></li><li style="cursor: pointer; list-style-image: url(&quot;assets/img/plusbox.gif&quot;);"><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/docu.html#Linguistic-Annotation" id="lingu-nav-link">Linguistic Annotation</a></span>              </li><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/docu.html#Extracting-Inline-Annotations">Extracting Inline Annotation</a></span></li><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/docu.html#Linked-Data">Linked Data</a></span></li><li class="nav-header"><span style="font-size: x-small;">CIDOC CRM</span></li><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/docu.html#Hellespont-CIDOC-Mapping-and-ThucDb">Hellespont CIDOC CRM Mapping and ThucDb</a></span></li><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/docu.html#Arachne-CIDOC-CRM-Mapping">Arachne CIDOC CRM Mapping</a></span></li><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/docu.html#Perseus-Artifact-CIDOC-Mapping">Perseus Artifact CIDOC CRM Mapping</a></span></li><li class="nav-header"><span style="font-size: x-small;">The Interfaces</span></li><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/docu.html#GapVis">GapVis for Hellespont</a></span></li><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/docu.html#Hellespont-Linked-Data-Interface">Hellespont Linked Data Interface</a></span></li><li><span style="font-size: x-small;"><a href="http://hellespont.dainst.org/startpage/docu.html#ThucDb">ThucDb</a></span></li></ul></ul></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4525581564025539864/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4525581564025539864/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/07/the-hellespont-project-integrating.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4525581564025539864"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4525581564025539864"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/07/the-hellespont-project-integrating.html"
          title="The Hellespont Project: Integrating Arachne and Perseus"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

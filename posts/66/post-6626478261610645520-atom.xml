@@ -1,98 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6626478261610645520</id>
-    <published>2015-04-18T16:57:00.000-04:00</published>
-    <updated>2015-04-18T16:57:18.293-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6626478261610645520</id>
+   <published>2015-04-18T16:57:00.000-04:00</published>
+   <updated>2015-04-18T16:57:18.293-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Open Access to Athenian Agora Excavation Data</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 27
-      May 2012, updated 18 April 2015]</span><br /><br /><a
-      href="http://agora.ascsa.net/">Agora Excavations</a><br /><blockquote
-      class="tr_bq"><img alt="http://agora.ascsa.net/Icons/EEABanner.jpg" height="45"
-      src="http://agora.ascsa.net/Icons/EEABanner.jpg" width="320" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Excavations in the Athenian Agora are formally published through the Athenian
-      Agora monograph series and articles in Hesperia, the journal of the American School. A number
-      of digital resources are also made available free-of-charge for teaching and research purposes.
-      </span></blockquote><blockquote class="tr_bq"> <span style="font-size:
-      x-small;">With the support of the Packard Humanities Institute (PHI) the Athenian Agora
-      Excavations have been involved over the last decade in an ambitious program of digitizing older
-      materials and experimenting with the use of new technology to record continuing excavations.
-      </span></blockquote><blockquote class="tr_bq"> <span style="font-size:
-      x-small;">For general information about the Athenian Agora excavations, including contact
-      information and a history of the excavations, please visit <a
-      href="http://agathe.gr/">http://agathe.gr</a>.</span></blockquote><blockquote
-      class="tr_bq"><div class="link"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/research">Everything</a>&nbsp;<span
-      class="count">(272,312)</span></span></div><div
-      class="link"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/research?q=;t=publication">Publications</a>&nbsp;<span
-      class="count">(165)</span></span></div><div class="link"><span
-      style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/research?q=;t=report">Reports</a>&nbsp;<span
-      class="count">(12)</span></span></div><div class="link"><span
-      style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/research?q=;t=monument">Places and
-      Monuments</a>&nbsp;<span
-      class="count">(77)</span></span></div><div class="link"><span
-      style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/research?q=;t=drawing">Plans and
-      Drawings</a>&nbsp;<span
-      class="count">(11,291)</span></span></div><div class="link"><span
-      style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/research?q=;t=image">Images</a>&nbsp;<span
-      class="count">(123,333)</span></span></div><div
-      class="link"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/research?q=;t=object">Objects</a>&nbsp;<span
-      class="count">(43,996)</span></span></div><div
-      id="slideFacet"><div class="link"><span style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/research?q=;t=coin">Coins</a>&nbsp;<span
-      class="count">(4,653)</span></span></div><div class="link"><span
-      style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/research?q=;t=deposit">Deposits</a>&nbsp;<span
-      class="count">(1,755)</span></span></div><div class="link"><span
-      style="font-size: x-small;"><a
-      href="http://agora.ascsa.net/research?q=;t=notebook">Notebooks</a>&nbsp;<span
-      class="count">(312)</span></span></div></div>&nbsp;</blockquote><div
-      style="text-align: center;">See linked data for <a
-      href="http://pleiades.stoa.org/places/579885">Athens</a> via <a
-      href="http://isawnyu.github.com/awld-js/">awld.js</a></div><div
-      style="text-align: center;">See linked data for <a
-      href="http://pleiades.stoa.org/places/579888">Attica</a> via <a
-      href="http://isawnyu.github.com/awld-js/">awld.js</a> </div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <title type="text">Open Access to Athenian Agora Excavation Data</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 27 May 2012, updated 18 April 2015]</span><br /><br /><a href="http://agora.ascsa.net/">Agora Excavations</a><br /><blockquote class="tr_bq"><img alt="http://agora.ascsa.net/Icons/EEABanner.jpg" height="45" src="http://agora.ascsa.net/Icons/EEABanner.jpg" width="320" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Excavations in the Athenian Agora are formally published through the  Athenian Agora monograph series and articles in Hesperia, the journal of  the American School. A number of digital resources are also made  available free-of-charge for teaching and research purposes. </span></blockquote><blockquote class="tr_bq"> <span style="font-size: x-small;">With the support of the Packard Humanities Institute (PHI) the  Athenian Agora Excavations have been involved over the last decade in an  ambitious program of digitizing older materials and experimenting with  the use of new technology to record continuing excavations. </span></blockquote><blockquote class="tr_bq"> <span style="font-size: x-small;">For general information about the Athenian Agora excavations,  including contact information and a history of the excavations, please  visit <a href="http://agathe.gr/">http://agathe.gr</a>.</span></blockquote><blockquote class="tr_bq"><div class="link"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/research">Everything</a>&nbsp;<span class="count">(272,312)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/research?q=;t=publication">Publications</a>&nbsp;<span class="count">(165)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/research?q=;t=report">Reports</a>&nbsp;<span class="count">(12)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/research?q=;t=monument">Places and Monuments</a>&nbsp;<span class="count">(77)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/research?q=;t=drawing">Plans and Drawings</a>&nbsp;<span class="count">(11,291)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/research?q=;t=image">Images</a>&nbsp;<span class="count">(123,333)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/research?q=;t=object">Objects</a>&nbsp;<span class="count">(43,996)</span></span></div><div id="slideFacet"><div class="link"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/research?q=;t=coin">Coins</a>&nbsp;<span class="count">(4,653)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/research?q=;t=deposit">Deposits</a>&nbsp;<span class="count">(1,755)</span></span></div><div class="link"><span style="font-size: x-small;"><a href="http://agora.ascsa.net/research?q=;t=notebook">Notebooks</a>&nbsp;<span class="count">(312)</span></span></div></div>&nbsp;</blockquote><div style="text-align: center;">See linked data for <a href="http://pleiades.stoa.org/places/579885">Athens</a> via <a href="http://isawnyu.github.com/awld-js/">awld.js</a></div><div style="text-align: center;">See linked data for <a href="http://pleiades.stoa.org/places/579888">Attica</a> via <a href="http://isawnyu.github.com/awld-js/">awld.js</a> </div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6626478261610645520/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6626478261610645520/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/05/open-access-to-athenian-agora.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6626478261610645520"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6626478261610645520"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/05/open-access-to-athenian-agora.html"
          title="Open Access to Athenian Agora Excavation Data"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

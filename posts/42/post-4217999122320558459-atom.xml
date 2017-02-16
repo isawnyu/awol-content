@@ -1,86 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4217999122320558459</id>
-    <published>2014-04-21T07:37:00.000-04:00</published>
-    <updated>2014-04-21T08:21:35.970-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4217999122320558459</id>
+   <published>2016-09-13T18:12:00.000-04:00</published>
+   <updated>2016-09-13T18:14:26.188-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Reception"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
-    <title type="text">Open Access Journal: I Quaderni del Ramo d'Oro</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a
-      href="http://ancientworldonline.blogspot.com/2009/01/new-online-journals.html">26 January
-      2009</a>. Updated 21 April 2014]</span><br /><br /><a
-      href="http://www.qro.unisi.it/frontend/">I Quaderni del Ramo d'Oro</a><br />ISSN
-      2035-7524<br /><blockquote class="tr_bq"><img
-      alt="http://www.qro.unisi.it/frontend/sites/all/themes/zen/zen/images/imgs/header.gif"
-      class="decoded" height="100"
-      src="http://www.qro.unisi.it/frontend/sites/all/themes/zen/zen/images/imgs/header.gif"
-      width="320" /> </blockquote><blockquote><span style="font-size:
-      x-small;">"I Quaderni del Ramo d'Oro on-line" costituiscono la rivista del <a
-      href="http://www.unisi.it/ricerca/centri/cisaca/index.html">Centro Interdipartimentale di
-      Studi Antropologici sulla Cultura Antica</a> (Università di Siena).</span><br
-      /><span style="font-size: x-small;">Iscritti nel Registro Periodici del Tribunale di
-      Siena e di consultazione libera e gratuita, "I Quaderni del Ramo d'Oro on-line" pubblicano
-      contributi previa valutazione da parte del Comitato Scientifico e di referees
-      internazionali.</span><br /><span style="font-size: x-small;">Per ulteriori
-      informazioni si vedano:</span><br /><span style="font-size: x-small;">1.
-      <a href="http://www.qro.unisi.it/frontend/node/22">Gerenza</a></span><br
-      /><span style="font-size: x-small;">2. <a
-      href="http://www.qro.unisi.it/frontend/node/23">Redazione</a></span><br
-      /><span style="font-size: x-small;">3. <a
-      href="http://www.qro.unisi.it/frontend/node/24">Invio dei
-      contributi</a></span><br /><ul class="menu"></ul><div
-      class="content"> <ul class="menu"><li class="leaf first"><a
-      href="http://www.qro.unisi.it/frontend/node/136"
-      title="Editoriale">Editoriale</a></li><li class="leaf active-trail"><a
-      class="active" href="http://www.qro.unisi.it/frontend/node/143" title="Editoriale - English
-      version">English version</a></li><li class="leaf"><a
-      href="http://www.qro.unisi.it/frontend/node/6" title="I Quaderni del Ramo d'Oro on-line n. 1
-      (2008)">n. 1 (2008)</a></li><li class="leaf"><a
-      href="http://www.qro.unisi.it/frontend/node/36" title="I Quaderni del Ramo d'Oro on-line n. 2
-      (2009)">n. 2 (2009)</a></li><li class="leaf"><a
-      href="http://www.qro.unisi.it/frontend/node/85" title="Terzo numero de I Quaderni del Ramo
-      d'Oro on-line">n. 3 (2010)</a></li><li class="leaf"><a
-      href="http://www.qro.unisi.it/frontend/node/97" title="Quarto numero de I Quaderni del Ramo
-      d'Oro on-line">n. 4 (2011)</a></li><li class="leaf"><a
-      href="http://www.qro.unisi.it/frontend/node/133" title="Numero speciale (2012)">Numero
-      speciale (2012)</a></li><li class="leaf last"><a
-      href="http://www.qro.unisi.it/frontend/node/154" title="Indice n. 5 (2012)">n. 5
-      (2012)</a></li></ul></div><ul
-      class="menu"></ul></blockquote><div style="text-align: center;"><span
-      class="Apple-style-span" style="color: #333333; font-family: 'Times New Roman'; line-height:
-      25px;">See the full&nbsp;</span><span class="Apple-style-span" style="color:
-      #333333; font-family: 'Times New Roman'; line-height: 25px;"><a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html"
-      style="color: #5588aa; text-decoration: none;">List of Open Access Journals in Ancient
-      Studies</a></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <title type="text">Open Access Journal: I Quaderni del Ramo d'Oro</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a href="http://ancientworldonline.blogspot.com/2009/01/new-online-journals.html">26 January 2009</a>. Updated 13 September 2016]</span><br /><br /><a href="http://www.qro.unisi.it/frontend/">I Quaderni del Ramo d'Oro</a><br />ISSN 2035-7524<br /><blockquote class="tr_bq"><img alt="http://www.qro.unisi.it/frontend/sites/all/themes/zen/zen/images/imgs/header.gif" class="decoded" src="http://www.qro.unisi.it/frontend/sites/all/themes/zen/zen/images/imgs/header.gif" height="100" width="320" /> </blockquote><blockquote><div class="node node-type-page" id="node-21"><div class="node-inner">               <div class="content">    <span style="font-size: x-small;"><i>I Quaderni del Ramo d'Oro on-line</i>, iscritti nel Registro  Periodici del Tribunale di Siena e di consultazione libera e gratuita,  costituiscono la rivista del <a href="http://www.unisi.it/ricerca/centri/cisaca/index.html">Centro Dipartimentale Antropologia e Mondo Antico</a> (Università di Siena). </span></div></div></div></blockquote><blockquote><div class="node node-type-page" id="node-21"><div class="node-inner"><div class="content"><span style="font-size: x-small;">"I Quaderni del Ramo d'Oro on-line" pubblicano contributi incentrati  sullo studio del mondo antico secondo una prospettiva antropologica e  sull'antropologia culturale in tutte le sue sfaccettature e dimensioni,  previa valutazione da parte del Comitato Scientifico e di referees  internazionali. </span></div></div></div></blockquote><blockquote><div class="node node-type-page" id="node-21"><div class="node-inner"><div class="content"><span style="font-size: x-small;">Per ulteriori informazioni sulla Gerenza si veda <a href="http://www.qro.unisi.it/frontend/node/22">qui</a>. </span></div></div></div></blockquote><blockquote><div class="node node-type-page" id="node-21"><div class="node-inner"><div class="content"><span style="font-size: x-small;"></span><span style="font-size: x-small;">Per informazioni non riguardanti l'invio di contributi, scrivere a <a href="mailto:info.qro@unisi.it">info.qro@unisi.it</a>.</span><br />   </div></div></div><ul class="menu"></ul><div class="content"><ul class="menu"></ul><div class="content">    <ul class="menu"><li class="leaf first"><span style="font-size: x-small;"><a href="http://www.qro.unisi.it/frontend/node/6" title="Indice QRO n. 1 (2008)">n. 1 (2008)</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.qro.unisi.it/frontend/node/36" title="Indice QRO n. 2 (2009)">n. 2 (2009)</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.qro.unisi.it/frontend/node/85" title="Indice QRO n. 3 (2010)">n. 3 (2010)</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.qro.unisi.it/frontend/node/97" title="Indice QRO n. 4 (2011)">n. 4 (2011)</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.qro.unisi.it/frontend/node/133" title="Indice Numero speciale (2012)">Numero speciale (2012)</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.qro.unisi.it/frontend/node/154" title="Indice n. 5 (2012)">n. 5 (2012)</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.qro.unisi.it/frontend/node/172" title="Indice n. 6 (2013/2014)">n. 6 (2013/2014)</a></span></li><li class="leaf last active-trail"><span style="font-size: x-small;"><a class="active" href="http://www.qro.unisi.it/frontend/node/188" title="Indice n. 7 (2015)">n. 7 (2015)</a></span></li></ul></div><ul class="menu"></ul></div><ul class="menu"></ul></blockquote><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: small;"><span>S</span><span><span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4217999122320558459/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4217999122320558459/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/01/open-access-journal-i-quaderni-del-ramo.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4217999122320558459"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4217999122320558459"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/01/open-access-journal-i-quaderni-del-ramo.html"
          title="Open Access Journal: I Quaderni del Ramo d'Oro"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

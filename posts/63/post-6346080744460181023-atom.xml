@@ -1,85 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6346080744460181023</id>
-    <published>2014-11-02T08:28:00.002-05:00</published>
-    <updated>2014-11-02T08:28:28.542-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6346080744460181023</id>
+   <published>2014-11-02T08:28:00.002-05:00</published>
+   <updated>2014-11-02T08:28:28.542-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Writing"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
-    <title type="text">Internetplattform für die Wissenschaft von den hieratischen Handschriften des
-      Alten Ägypten</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.hieratistik.uni-mainz.de/index.php">Internetplattform für die Wissenschaft
-      von den hieratischen Handschriften des Alten Ägypten</a><br /><blockquote
-      class="tr_bq">&nbsp;<img
-      alt="http://www.hieratistik.uni-mainz.de/Illustrationen/w_WillkommenHieratisch.gif"
-      class="decoded" height="103"
-      src="http://www.hieratistik.uni-mainz.de/Illustrationen/w_WillkommenHieratisch.gif" width="320"
-      /></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">"Hieratistik" bezeichnet die Wissenschaft von der so genannten hieratischen
-      Schrift der Alten Ägypter. </span><br /><span style="font-size: x-small;">
-      Erforscht werden die Funktionen und Besonderheiten dieser eigentlichen und alltäglichen Schrift
-      der Alten Ägypter. </span><br /> <span style="font-size: x-small;"> Wichtiges
-      Hilfsmittel sind <a
-      href="http://www.hieratistik.uni-mainz.de/31.php">Paläographien</a>, die auf möglichst
-      umfassenden Zusammenstellungen einzelner Schriftzeichen basieren, aus deren Vergleich und
-      Analyse Schreiberindividuen, Schulen, Entwicklungslinien und ggf. auch Datierungen von
-      Schriftquellen abgeleitet werden
-      können.&nbsp;</span></blockquote><blockquote class="tr_bq"><ul
-      id="listnavleft"><li class="menueebene2off"> <span style="font-size:
-      x-small;"><a class="hauptfarbe" href="http://www.hieratistik.uni-mainz.de/50.php"
-      target="_self" title="Link">Willkommen</a></span> </li><li
-      class="menueebene2off"> <span style="font-size: x-small;"><a class="hauptfarbe"
-      href="http://www.hieratistik.uni-mainz.de/21.php" target="_self"
-      title="Link">Gegenstand</a></span> </li><li class="menueebene2off">
-      <span style="font-size: x-small;"><a class="hauptfarbe"
-      href="http://www.hieratistik.uni-mainz.de/29.php" target="_self" title="Link">Entwicklung
-      des Hieratischen</a></span> </li><li class="menueebene2off"> <span
-      style="font-size: x-small;"><a class="hauptfarbe"
-      href="http://www.hieratistik.uni-mainz.de/31.php" target="_self"
-      title="Link">Hieratisch-Bibliographie</a></span> </li><li
-      class="menueebene2off"> <span style="font-size: x-small;"><a class="hauptfarbe"
-      href="http://www.hieratistik.uni-mainz.de/32.php" target="_self" title="Link">Datenbanken |
-      Links</a></span> </li><li class="menueebene2off"> <span
-      style="font-size: x-small;"><a class="hauptfarbe"
-      href="http://www.hieratistik.uni-mainz.de/33.php" target="_self"
-      title="Link">Aktivitäten</a></span> </li><li class="menueebene2off">
-      <span style="font-size: x-small;"><a class="hauptfarbe"
-      href="http://www.hieratistik.uni-mainz.de/34.php" target="_self"
-      title="Link">Kontakt</a></span> </li><li
-      class="menueebene2off"><span style="font-size: x-small;"> <a class="hauptfarbe"
-      href="http://www.hieratistik.uni-mainz.de/48.php" target="_self"
-      title="Link">Galerie</a></span>
-      </li></ul></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Writing"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
+   <title type="text">Internetplattform für die Wissenschaft von den hieratischen Handschriften des Alten Ägypten</title>
+   <content type="html"><![CDATA[<a href="http://www.hieratistik.uni-mainz.de/index.php">Internetplattform für die Wissenschaft von den hieratischen Handschriften des Alten Ägypten</a><br /><blockquote class="tr_bq">&nbsp;<img alt="http://www.hieratistik.uni-mainz.de/Illustrationen/w_WillkommenHieratisch.gif" class="decoded" height="103" src="http://www.hieratistik.uni-mainz.de/Illustrationen/w_WillkommenHieratisch.gif" width="320" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">"Hieratistik" bezeichnet die Wissenschaft von der so genannten hieratischen Schrift der Alten Ägypter.                      </span><br /><span style="font-size: x-small;">                        Erforscht werden die Funktionen und  Besonderheiten dieser eigentlichen und alltäglichen Schrift der Alten  Ägypter.                      </span><br />                      <span style="font-size: x-small;">                        Wichtiges Hilfsmittel sind <a href="http://www.hieratistik.uni-mainz.de/31.php">Paläographien</a>,  die auf möglichst umfassenden Zusammenstellungen einzelner  Schriftzeichen basieren, aus deren Vergleich und Analyse  Schreiberindividuen, Schulen, Entwicklungslinien und ggf. auch  Datierungen von Schriftquellen abgeleitet werden können.&nbsp;</span></blockquote><blockquote class="tr_bq"><ul id="listnavleft"><li class="menueebene2off">                           <span style="font-size: x-small;"><a class="hauptfarbe" href="http://www.hieratistik.uni-mainz.de/50.php" target="_self" title="Link">Willkommen</a></span>                        </li><li class="menueebene2off">                           <span style="font-size: x-small;"><a class="hauptfarbe" href="http://www.hieratistik.uni-mainz.de/21.php" target="_self" title="Link">Gegenstand</a></span>                        </li><li class="menueebene2off">                           <span style="font-size: x-small;"><a class="hauptfarbe" href="http://www.hieratistik.uni-mainz.de/29.php" target="_self" title="Link">Entwicklung des Hieratischen</a></span>                        </li><li class="menueebene2off">                           <span style="font-size: x-small;"><a class="hauptfarbe" href="http://www.hieratistik.uni-mainz.de/31.php" target="_self" title="Link">Hieratisch-Bibliographie</a></span>                        </li><li class="menueebene2off">                           <span style="font-size: x-small;"><a class="hauptfarbe" href="http://www.hieratistik.uni-mainz.de/32.php" target="_self" title="Link">Datenbanken | Links</a></span>                        </li><li class="menueebene2off">                           <span style="font-size: x-small;"><a class="hauptfarbe" href="http://www.hieratistik.uni-mainz.de/33.php" target="_self" title="Link">Aktivitäten</a></span>                        </li><li class="menueebene2off">                           <span style="font-size: x-small;"><a class="hauptfarbe" href="http://www.hieratistik.uni-mainz.de/34.php" target="_self" title="Link">Kontakt</a></span>                        </li><li class="menueebene2off"><span style="font-size: x-small;">                           <a class="hauptfarbe" href="http://www.hieratistik.uni-mainz.de/48.php" target="_self" title="Link">Galerie</a></span>                        </li></ul></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6346080744460181023/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6346080744460181023/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/internetplattform-fur-die-wissenschaft.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6346080744460181023"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6346080744460181023"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/internetplattform-fur-die-wissenschaft.html"
          title="Internetplattform für die Wissenschaft von den hieratischen Handschriften des Alten Ägypten"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

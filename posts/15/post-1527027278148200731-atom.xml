@@ -1,289 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1527027278148200731</id>
-    <published>2013-12-15T08:00:00.000-05:00</published>
-    <updated>2013-12-15T08:15:54.695-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1527027278148200731</id>
+   <published>2013-12-15T08:00:00.000-05:00</published>
+   <updated>2013-12-15T08:15:54.695-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
-    <title type="text">Open Access Journal: Cuadernos de la Fundación Pastor</title>
-    <content type="html"><![CDATA[<a
-      href="http://dialnet.unirioja.es/servlet/revista?codigo=13040">Cuadernos de la Fundación
-      Pastor</a><br /><blockquote class="tr_bq"><img
-      alt="http://fundacionpastor.e.telefonica.net/greek1.gif" class="decoded"
-      src="http://fundacionpastor.e.telefonica.net/greek1.gif" height="17" width="640" />
-      </blockquote><blockquote class="tr_bq"><div class="Estilo3"><span
-      style="font-size: x-small;">La Fundación Pastor de Estudios Clásicos es una entidad privada
-      sin ánimo de lucro de carácter benéfico-docente, dedicada a promover en España los estudios
-      sobre las fuentes greco-romanas de la civilización occidental en todos sus aspectos. La
-      escritura de constitución se redactó ante notario el 16 de mayo de
-      1954.</span></div><div class="Estilo3"><span style="font-size:
-      x-small;"><br /></span></div><div class="Estilo3"><span
-      style="font-size: x-small;">La Orden Ministerial que reconoce el carácter benéfico-docente
-      de la entidad fue aprobada el 21 de diciembre de 1954 y publicada en el Boletín Oficial del
-      Estado el 2 de enero de 1955. </span></div><h3><blockquote><span
-      style="font-size: x-small;">Sumarios de la
-      revista</span></blockquote></h3><ul class="leyenda"><li><span
-      style="font-size: x-small;">Accesibles</span></li><li><span
-      style="font-size: x-small;">Alojados</span></li></ul><table
-      cellpadding="0" cellspacing="0"><tbody><tr class="primerAno"><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=2006">2006</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=224020">2006</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=2005">2005</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=224019">2005</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=2004">2004</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=224009">2004</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=2001">2001</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=224004">2001</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=2000">2000</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=224002">2000</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1995">1995</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=224001">1995</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1992">1992</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223999">1992</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1991">1991</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223994">1991
-      (1)</a></span><span class="accesible" style="font-size: x-small;"
-      title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223995">1991
-      (2)</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1990">1990</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223993">1990</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1989">1989</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223991">1989</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1986">1986</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223989">34</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1985">1985</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223988">33</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1984">1984</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223983">32</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1983">1983</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223724">30</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223725">31</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1982">1982</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223721">28</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223722">29</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1981">1981</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223718">27</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1980">1980</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223712">24</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223714">25</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223716">26</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1977">1977</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223706">22</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223709">23</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1976">1976</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223702">21</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1975">1975</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223697">19</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223698">20</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1971">1971</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223690">17</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223694">18</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1969">1969</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223684">15</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223689">16</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1966">1966</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223677">13</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223680">14</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1965">1965</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223668">10</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223671">11</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223675">12</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1964">1964</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223663">8</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223666">9</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1963">1963</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223662">7</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1962">1962</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223661">6</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1961">1961</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223650">2</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223653">3</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223655">4</a></span><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223658">5</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1958">1958</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a
-      través de Dialnet"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223648">1</a></span></li></ul></td></tr></tbody></table><span
-      style="font-size: x-small;"><br /></span></blockquote><div
-      style="text-align: center;"><span style="font-size: small;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></span></div><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
+   <title type="text">Open Access Journal: Cuadernos de la Fundación Pastor</title>
+   <content type="html"><![CDATA[<a href="http://dialnet.unirioja.es/servlet/revista?codigo=13040">Cuadernos de la Fundación Pastor</a><br /><blockquote class="tr_bq"><img alt="http://fundacionpastor.e.telefonica.net/greek1.gif" class="decoded" src="http://fundacionpastor.e.telefonica.net/greek1.gif" height="17" width="640" /> </blockquote><blockquote class="tr_bq"><div class="Estilo3"><span style="font-size: x-small;">La Fundación Pastor de Estudios Clásicos es una  entidad privada sin ánimo de lucro de carácter benéfico-docente,  dedicada a promover en España los estudios sobre las fuentes  greco-romanas de la civilización occidental en todos sus aspectos. La  escritura de constitución se redactó ante notario el 16 de mayo de 1954.</span></div><div class="Estilo3"><span style="font-size: x-small;"><br /></span></div><div class="Estilo3"><span style="font-size: x-small;">La Orden Ministerial que reconoce el  carácter benéfico-docente de la entidad fue aprobada el 21 de diciembre  de 1954 y publicada en el Boletín Oficial del Estado el 2 de enero de  1955. </span></div><h3><blockquote><span style="font-size: x-small;">Sumarios de la revista</span></blockquote></h3><ul class="leyenda"><li><span style="font-size: x-small;">Accesibles</span></li><li><span style="font-size: x-small;">Alojados</span></li></ul><table cellpadding="0" cellspacing="0"><tbody><tr class="primerAno"><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=2006">2006</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=224020">2006</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=2005">2005</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=224019">2005</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=2004">2004</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=224009">2004</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=2001">2001</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=224004">2001</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=2000">2000</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=224002">2000</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1995">1995</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=224001">1995</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1992">1992</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223999">1992</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1991">1991</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223994">1991 (1)</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223995">1991 (2)</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1990">1990</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223993">1990</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1989">1989</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223991">1989</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1986">1986</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223989">34</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1985">1985</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223988">33</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1984">1984</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223983">32</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1983">1983</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223724">30</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223725">31</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1982">1982</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223721">28</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223722">29</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1981">1981</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223718">27</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1980">1980</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223712">24</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223714">25</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223716">26</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1977">1977</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223706">22</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223709">23</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1976">1976</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223702">21</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1975">1975</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223697">19</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223698">20</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1971">1971</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223690">17</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223694">18</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1969">1969</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223684">15</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223689">16</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1966">1966</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223677">13</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223680">14</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1965">1965</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223668">10</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223671">11</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223675">12</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1964">1964</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223663">8</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223666">9</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1963">1963</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223662">7</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1962">1962</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223661">6</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1961">1961</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223650">2</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223653">3</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223655">4</a></span><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223658">5</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a href="http://dialnet.unirioja.es/servlet/listaarticulos?tipoDeBusqueda=ANUALIDAD&amp;revistaDeBusqueda=13040&amp;claveDeBusqueda=1958">1958</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="accesible" style="font-size: x-small;" title="Ejemplar con textos completos accesibles a través de Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/ejemplar?codigo=223648">1</a></span></li></ul></td></tr></tbody></table><span style="font-size: x-small;"><br /></span></blockquote><div style="text-align: center;"><span style="font-size: small;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></div><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1527027278148200731/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1527027278148200731/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/10/open-access-journal-cuadernos-de-la.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1527027278148200731"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1527027278148200731"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/10/open-access-journal-cuadernos-de-la.html"
          title="Open Access Journal: Cuadernos de la Fundación Pastor"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,67 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8051203153903508903</id>
-    <published>2012-01-15T08:52:00.001-05:00</published>
-    <updated>2012-01-15T08:52:29.308-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8051203153903508903</id>
+   <published>2012-01-15T08:52:00.001-05:00</published>
+   <updated>2016-10-04T13:43:26.879-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
-    <title type="text">Ressources Égyptologiques Informatisées</title>
-    <content type="html"><![CDATA[<a href="http://www.segweb.ch/resso.htm">Ressources Égyptologiques
-      Informatisées <span class="textenormal">(«Computerized Egyptological Resources»;
-      «Informatisierte Quellen zur Ägyptologie»)</span></a><br /><br
-      /><blockquote class="tr_bq"><img alt="http://www.segweb.ch/images/ouddr.jpg"
-      src="http://www.segweb.ch/images/ouddr.jpg" /><span class="textenormal">
-      </span></blockquote><span class="textenormal">The five issues of this
-      bibliography were published in the </span><a
-      href="http://ancientworldonline.blogspot.com/2011/06/partially-open-access-journal-bulletin.html">Bulletin
-      de la Société d'égyptologie</a> and are conveniently assembled here.&nbsp; They
-      provide a revealing snapshot of the early years of computerized Egyptology.<br
-      /><blockquote class="tr_bq"><div style="margin-bottom: 0pt; margin-top: 0pt;
-      text-align: left;"> <span style="font-size: x-small;"><a
-      href="http://www.segweb.ch/fichpdf/Rei15.pdf" target="_blank">RÉI 1 (document
-      pdf)</a><br /><a href="http://www.segweb.ch/fichpdf/Rei26.pdf"
-      target="_blank">RÉI 2 (document pdf)</a></span> </div><div
-      style="text-align: left;"> </div><div style="margin-bottom: 0pt; margin-top: 0pt;
-      text-align: left;"> <span style="font-size: x-small;"><a
-      href="http://www.segweb.ch/fichpdf/Rei37.pdf" target="_blank">RÉI 3 (document
-      pdf)</a></span></div><div style="text-align: left;">
-      </div><div style="margin-bottom: 0pt; margin-top: 0pt; text-align: left;"> <span
-      style="font-size: x-small;"><a href="http://www.segweb.ch/fichpdf/Rei48.pdf"
-      target="_blank">RÉI 4 (document pdf)</a></span></div><div
-      style="text-align: left;"> </div><div style="margin-bottom: 0pt; margin-top: 0pt;
-      text-align: left;"> <span style="font-size: x-small;"><a
-      href="http://www.segweb.ch/fichpdf/Rei59.pdf" target="_blank">RÉI 5 (document
-      pdf)</a></span></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
+   <title type="text">Ressources Égyptologiques Informatisées</title>
+   <content type="html"><![CDATA[<a href="http://www.segweb.ch/ressources-egyptologiques-informatisees">Ressources Égyptologiques Informatisées <span class="textenormal">(«Computerized Egyptological Resources»; «Informatisierte Quellen zur Ägyptologie»)</span></a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Après cinq livraisons publiées dans le&nbsp;<span style="font-style: italic;">Bulletin de la Société d'Égyptologie,</span> l'essence du projet fut,&nbsp;de facto, modifiée en raison des progrès de la  technologie. Si, en 1994, les premières connexions via internet  pouvaient encore passer pour «&nbsp;miraculeuses&nbsp;», l'accélération de la  diffusion de ce média le rend aujourd'hui aussi banal que quotidien. De  chronique en chronique, il nous fallait constater que les renseignements  qui nous étaient communiqués concernaient toujours davantage les sites  en ligne, dont la description par le recours de l'imprimerie  traditionnelle devenait pour le moins paradoxale&nbsp;! D'autre part, le  nombre des travaux uniquement disponibles sur des ordinateurs personnels  se réduisait en proportion inverse.</span><span style="font-size: x-small;"><br />La rédaction du&nbsp;<span style="font-style: italic;">BSÉG</span>&nbsp;a donc  préféré renoncer à poursuivre cette chronique, en espérant que d'autres  prendront bientôt la relève par le biais de sites en ligne. Elle tient  enfin à remercier bien cordialement tous les collègues qui ont contribué  à l'histoire et à l'heureux développement de cette chronique.</span></blockquote><blockquote class="tr_bq"></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8051203153903508903/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8051203153903508903/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/01/ressources-egyptologiques-informatisees.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8051203153903508903"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8051203153903508903"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/01/ressources-egyptologiques-informatisees.html"
          title="Ressources Égyptologiques Informatisées"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

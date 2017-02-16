@@ -1,82 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1073152788683226067</id>
-    <published>2014-07-29T12:53:00.000-04:00</published>
-    <updated>2014-07-29T12:53:05.341-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1073152788683226067</id>
+   <published>2014-07-29T12:53:00.000-04:00</published>
+   <updated>2014-07-29T12:53:05.341-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text"> Attic Inscriptions Online (AIO) and EAGLE News</title>
-    <content type="html"><![CDATA[<a href="http://www.currentepigraphy.org/2014/07/29/aio-launch/">Attic
-      Inscriptions Online and EAGLE News</a>:<br /><div class="storycontent">
-      <blockquote class="tr_bq"><div class="p1"><a
-      href="https://www.atticinscriptions.com/" target="_blank">Attic Inscriptions Online
-      (AIO)</a>&nbsp;and <a href="http://www.eagle-network.eu/"
-      target="_blank">EAGLE</a> are&nbsp;delighted to announce the launch, on
-      Tuesday&nbsp;29th July, of&nbsp;a&nbsp;package of new English translations,
-      supporting papers and upgrades to AIO:</div>1.&nbsp;153&nbsp;new translations
-      (by&nbsp;Stephen&nbsp;Lambert, P. J. Rhodes, Feyo&nbsp;Schuddeboom and Lina van’t
-      Wout).<br /> From the late-5th cent. BC:<br /> <div class="p1">(a)
-      sacrificial calendar of Thorikos</div><div class="p1">(b) Athenian&nbsp;decree
-      on the administration of the property of Kodros, Neleus and Basile
-      (<i>IG&nbsp;</i>I<span
-      class="s1"><sup>3&nbsp;</sup></span>84)</div><div
-      class="p1">(c) accounts of payments from&nbsp;the treasury&nbsp;of Athena, 410-407?
-      BC (<i>IG</i>&nbsp;I<span
-      class="s1"><sup>3</sup></span>&nbsp;375 and 377, the “Choiseul marble”
-      in the&nbsp;Louvre, Paris)</div><div
-      class="p1">B.&nbsp;A&nbsp;selection of 27&nbsp;important&nbsp;Athenian laws
-      and decrees&nbsp;of 403-353 BC</div><div class="p1">C. A newly published
-      inscription of&nbsp;ca. 340-325 BC&nbsp;honouring the historian of Attica,
-      Phanodemos</div><div class="p1">D. The corpus of&nbsp;Athenian decrees of
-      229/8-198/7 BC, 121 in total,&nbsp;together with brief&nbsp;historical notes
-      (<i>IG</i>&nbsp;II<span class="s1"><sup>3</sup></span>
-      1, 1135-1255)</div><div class="p1">This brings the total number of translations on
-      the site to 469.</div><div class="p1">2. Two new&nbsp;<i>AIO
-      Papers</i>&nbsp;(4 and 5) and a revised version of&nbsp;<i>AIO
-      Paper</i>&nbsp;no. 1. These&nbsp;discuss particular inscriptions, or groups of
-      inscriptions, in greater detail:</div><div class="p1">S. D.
-      Lambert,&nbsp;<i>Notes on Inscriptions of the Marathonian Tetrapolis. AIO Papers
-      1.</i></div><div class="p1">S. D. Lambert,&nbsp;<i>Inscribed
-      Athenian Decrees of 229/8-198/7 BC (IG&nbsp;II</i><span
-      class="s1"><i><sup>3</sup></i></span><i> 1, 1135-1255).
-      AIO Papers 4.</i></div><div class="p1">S. D.
-      Lambert,&nbsp;<i>Accounts of Payments from the Treasury of Athena in 410-407 ? BC
-      (IG&nbsp;II</i><span
-      class="s1"><i><sup>3</sup></i></span><i> 375 and
-      377)</i></div><div class="p1">3. Improvements to translations and metadata
-      already on the site</div><div class="p1">4. Upgrades, including:</div><div
-      class="p1">(a)&nbsp;responsive design, which will facilitate&nbsp;use of the
-      site&nbsp;with tablets and mobile phones and the addition of fuller notes to the
-      translations</div><div class="p1">(b) XML and JSON outputs and
-      API</div><div class="p1">(c) numerous other&nbsp;improvements to site design
-      and functions.</div></blockquote></div>]]></content>
-    <link rel="replies"
+   <title type="text">      Attic Inscriptions Online (AIO) and EAGLE News</title>
+   <content type="html"><![CDATA[<a href="http://www.currentepigraphy.org/2014/07/29/aio-launch/">Attic Inscriptions Online and EAGLE News</a>:<br /><div class="storycontent">		<blockquote class="tr_bq"><div class="p1"><a href="https://www.atticinscriptions.com/" target="_blank">Attic Inscriptions Online (AIO)</a>&nbsp;and <a href="http://www.eagle-network.eu/" target="_blank">EAGLE</a> are&nbsp;delighted to announce the launch, on Tuesday&nbsp;29th July,  of&nbsp;a&nbsp;package of new English translations, supporting papers and upgrades  to AIO:</div>1.&nbsp;153&nbsp;new translations (by&nbsp;Stephen&nbsp;Lambert, P. J. Rhodes, Feyo&nbsp;Schuddeboom and Lina van’t Wout).<br /> From the late-5th cent. BC:<br /> <div class="p1">(a) sacrificial calendar of Thorikos</div><div class="p1">(b) Athenian&nbsp;decree on the administration of the property of Kodros, Neleus and Basile (<i>IG&nbsp;</i>I<span class="s1"><sup>3&nbsp;</sup></span>84)</div><div class="p1">(c) accounts of payments from&nbsp;the treasury&nbsp;of Athena, 410-407? BC (<i>IG</i>&nbsp;I<span class="s1"><sup>3</sup></span>&nbsp;375 and 377, the “Choiseul marble” in the&nbsp;Louvre, Paris)</div><div class="p1">B.&nbsp;A&nbsp;selection of 27&nbsp;important&nbsp;Athenian laws and decrees&nbsp;of 403-353 BC</div><div class="p1">C. A newly published inscription of&nbsp;ca. 340-325 BC&nbsp;honouring the historian of Attica, Phanodemos</div><div class="p1">D. The corpus of&nbsp;Athenian decrees of 229/8-198/7 BC, 121 in total,&nbsp;together with brief&nbsp;historical notes (<i>IG</i>&nbsp;II<span class="s1"><sup>3</sup></span> 1, 1135-1255)</div><div class="p1">This brings the total number of translations on the site to 469.</div><div class="p1">2. Two new&nbsp;<i>AIO Papers</i>&nbsp;(4 and 5) and a revised version of&nbsp;<i>AIO Paper</i>&nbsp;no. 1. These&nbsp;discuss particular inscriptions, or groups of inscriptions, in greater detail:</div><div class="p1">S. D. Lambert,&nbsp;<i>Notes on Inscriptions of the Marathonian Tetrapolis. AIO Papers 1.</i></div><div class="p1">S. D. Lambert,&nbsp;<i>Inscribed Athenian Decrees of 229/8-198/7 BC (IG&nbsp;II</i><span class="s1"><i><sup>3</sup></i></span><i> 1, 1135-1255). AIO Papers 4.</i></div><div class="p1">S. D. Lambert,&nbsp;<i>Accounts of Payments from the Treasury of Athena in 410-407 ? BC (IG&nbsp;II</i><span class="s1"><i><sup>3</sup></i></span><i> 375 and 377)</i></div><div class="p1">3. Improvements to translations and metadata already on the site</div><div class="p1">4. Upgrades, including:</div><div class="p1">(a)&nbsp;responsive design, which will facilitate&nbsp;use of the  site&nbsp;with tablets and mobile phones and the addition of fuller notes to  the translations</div><div class="p1">(b) XML and JSON outputs and API</div><div class="p1">(c) numerous other&nbsp;improvements to site design and functions.</div></blockquote></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1073152788683226067/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1073152788683226067/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/07/attic-inscriptions-online-aio-and-eagle.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1073152788683226067"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1073152788683226067"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/07/attic-inscriptions-online-aio-and-eagle.html"
          title="      Attic Inscriptions Online (AIO) and EAGLE News"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

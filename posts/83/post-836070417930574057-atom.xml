@@ -1,71 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-836070417930574057</id>
-    <published>2014-03-17T15:11:00.000-04:00</published>
-    <updated>2014-03-17T15:11:55.922-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
-             term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-836070417930574057</id>
+   <published>2016-02-01T16:45:00.000-05:00</published>
+   <updated>2016-07-28T16:23:38.586-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#"
              term="Deutsches Archäologisches Institut"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Germany"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">New Open Access Journal: e-Forschungsberichte des Deutschen Archäologisches
-      Instituts (eDAI·F)</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.dainst.org/de/e-jahresbericht">e-Forschungsberichte des Deutschen
-      Archäologisches Instituts (eDAI·F)</a><br /><blockquote class="tr_bq"><img
-      alt="http://www.dainst.org/sites/all/themes/daitheme/img/header_logo.gif" class="decoded"
-      height="33" src="http://www.dainst.org/sites/all/themes/daitheme/img/header_logo.gif"
-      width="400" /> </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Um immer aktuell zu sein, erscheinen die e-Forschungsberichte das gesamte Jahr
-      über in einzelnen Faszikeln zeitnah zu den jeweiligen Forschungskampagnen. Sie sind open access
-      zugänglich und erlauben es so einem breiten Leserkreis, die Forschungen des DAI zu
-      verfolgen.</span><br /><span style="font-size: x-small;"><br />Mit
-      diesem ersten Faszikel der e-Forschungsberichte setzt das DAI die Neustrukturierung seines
-      Berichtswesens um. Er spiegelt die Bandbreite der Aktivitäten des DAI in den
-      unterschiedlichsten Regionen der Welt, vom Mittelmeerraum über die Länder Eurasiens, Asiens und
-      Afrikas bis nach Südamerika. Der Faszikel umfasst die Forschungsergebnisse der Jahre 2012/13
-      und zeigt die vielfältigen neuen Einblicke in vergangene Gesellschaften sowie das Engagement
-      des DAI im Bereich der Erschließung und Bewahrung kulturellen Erbes in den
-      Gastländern.</span><br /><br /><span style="font-size: x-small;"><a
-      href="http://www.dainst.org/sites/default/files/media/press/e-forschungen/e-Forschungen2014_1.pdf"
-      target="_blank">eDAI F 2014 1 (PDF 88,5MB)</a></span> </blockquote><div
-      style="text-align: center;">And see also</div><div style="text-align:
-      center;"><a href="http://www.dainst.org/de/node/28799">Jahresberichte des Deutschen
-      Archäologischen Instituts</a></div>&nbsp; <br /><div
-      style="text-align: center;"><span style="font-size:
-      small;"><span><span><span><span>See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span></span>
-      </div>]]></content>
-    <link rel="replies"
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Germany"/>
+   <title type="text">Open Access Journal: e-Forschungsberichte des Deutschen Archäologisches Instituts (eDAI·F)</title>
+   <content type="html"><![CDATA[<a href="http://www.dainst.org/de/publikationen/e-publikationen/e-forschungsberichte">e-Forschungsberichte des Deutschen Archäologisches Instituts (eDAI·F)</a><br /><blockquote class="tr_bq"><img alt="www.dainst.org" src="http://www.dainst.org/image/company_logo?img_id=11201&amp;t=1454161497034" height="196" width="200" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Um immer aktuell zu sein, erscheinen die e-Forschungsberichte das  gesamte Jahr über in einzelnen Faszikeln zeitnah zu den jeweiligen  Forschungskampagnen. Sie sind open access zugänglich und erlauben es so  einem breiten Leserkreis, die Forschungen des DAI zu verfolgen.</span><br /><span style="font-size: x-small;"><br />Mit  diesem ersten Faszikel der e-Forschungsberichte setzt das DAI die  Neustrukturierung seines Berichtswesens um. Er spiegelt die Bandbreite  der Aktivitäten des DAI in den unterschiedlichsten Regionen der Welt,  vom Mittelmeerraum über die Länder Eurasiens, Asiens und Afrikas bis  nach Südamerika. Der Faszikel umfasst die Forschungsergebnisse der Jahre  2012/13 und zeigt die vielfältigen neuen Einblicke in vergangene  Gesellschaften sowie das Engagement des DAI im Bereich der Erschließung  und Bewahrung kulturellen Erbes in den Gastländern.</span><span style="font-size: x-small;"> </span></blockquote><blockquote class="tr_bq">       <br /><div class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_6ufc5FmclQH1_"> <br /><span style="font-size: x-small;"><span style="background-color: #fcfcfc; line-height: 20.3px;"></span>       </span><div class="entry-links"> </div><span style="font-size: x-small;">     </span><div class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_6ufc5FmclQH1_"> <span style="font-size: x-small;"><span id="p_56_INSTANCE_6ufc5FmclQH1"></span></span> <div class="portlet-body"> <div class="portlet-borderless-container"> <div class="portlet-body"> <div class="journal-content-article">  <div class="intro instance-6ufc5FmclQH1"> <div class="section yui3-g"> <div class="yui3-u-1-2"> <div class="asset-medium-image"> <span style="font-size: x-small;"><a class="gallery-image" href="https://www.blogger.com/null" title="open-media-display"> <img class="asset-medium-image" src="http://www.dainst.org/documents/10180/2009603/Cover+eDAI-F+2016-1/764554c7-2306-4d25-8fbf-f42ba08b6461?t=1465833520049&amp;imageThumbnail=2" title="open-media-display" /> </a></span> </div></div><div class="yui3-u-1-2"> <h2 class="right-col"><span style="font-size: x-small;">Faszikel 1 - 2016</span></h2><div class="right-col"> <div id="aui_3_4_0_1_1029"> <div id="aui_3_4_0_1_1028"> <div> <span style="font-size: x-small;"><span style="line-height: 1.45em;">Mit  seinen 20 Standorten und über 350 Projekten ist das DAI eine der  größten archäologischen Forschungseinrichtungen weltweit. Die im  vorliegenden Band vereinten Forschungsberichte spiegeln die Bandbreite  der Aktivitäten in den unterschiedlichsten Regionen der Welt. Sie  umfassen dieses Mal die Forschungsergebnisse eines längeren Zeitraums  von 2010-2015.</span></span>&nbsp;</div></div></div></div></div></div></div></div></div></div></div></div></div></blockquote><blockquote class="tr_bq"><div class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_6ufc5FmclQH1_"><div class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_6ufc5FmclQH1_"><div class="portlet-body"><div class="portlet-borderless-container"><div class="portlet-body"><div class="journal-content-article"><div class="intro instance-6ufc5FmclQH1"><div class="section yui3-g"><div class="yui3-u-1-2"><div class="right-col"><div id="aui_3_4_0_1_1029"><div id="aui_3_4_0_1_1028"> </div></div></div></div></div><div class="section yui3-g"> <div class="yui3-u-1"> </div><div class="yui3-u-1"> <div>  <span style="font-size: x-small;"><strong>Hier können Sie den Faszikel lesen und downloaden:&nbsp;<a href="http://www.dainst.org/documents/10180/2009603/eFB2016-1.pdf/664b1973-2824-4e74-9dcc-0357529ea369" target="_blank">eDAI-F 2016, 1 (PDF 138 MB)</a>&nbsp;oder<a href="http://www.dainst.org/documents/10180/2009603/eFB2016-1s.pdf/a7561e4c-4958-49bc-9267-75d9d49f8a0d" target="_blank"> (PDF 20 MB)</a></strong>.</span><br /> </div></div></div></div></div><div class="entry-links"> </div></div></div></div></div><span style="font-size: x-small;"> </span><div class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_u1e9NweQpMrL_"><span style="font-size: x-small;"> <span id="p_56_INSTANCE_u1e9NweQpMrL"></span> </span><div class="portlet-body"><span style="font-size: x-small;"> </span><div class="portlet-borderless-container"><span style="font-size: x-small;"> </span><div class="portlet-body"><span style="font-size: x-small;"> </span><div class="journal-content-article"><span style="font-size: x-small;">  </span><div class="intro instance-u1e9NweQpMrL"><span style="font-size: x-small;"> </span><div class="section yui3-g"><span style="font-size: x-small;"> </span><div class="yui3-u-1"> <h2><span style="font-size: x-small;">Weitere Ausgaben</span></h2></div><span style="font-size: x-small;"> </span><div class="yui3-u-1"><span style="font-size: x-small;"> </span><div><span style="font-size: x-small;"> </span><span style="font-size: x-small;"> <span style="font-family: inherit;">Hier können Sie die älteren Faszikel der e-Forschungsberichte lesen und herunterladen:</span></span><br /><span style="font-size: x-small;"><span style="font-family: inherit;"> </span></span> <span style="font-size: x-small;"><span style="font-family: inherit;"><strong><a href="https://www.dainst.org/documents/10180/1383481/eFB2015-3.pdf/2e027e58-7d3b-45cf-9406-0e7ff1e25dd6" target="_blank">eDAI-F 2015, 3 (PDF 91 MB)</a>&nbsp;oder<a href="https://www.dainst.org/documents/10180/1383481/eFB2015-3_s.pdf/4a038c34-dc97-49a1-beae-8e7330397046" target="_blank"> (PDF 20 MB)</a></strong><strong id="aui_3_4_0_1_1618"><a href="https://www.dainst.org/documents/10180/1059083/eFB2015-2/9bdf3511-6bd4-4c9f-b4d8-af4677a144e4" target="_blank"><br /> eDAI-F 2015, 2 (PDF 95 MB)</a>&nbsp;oder <a href="https://www.dainst.org/documents/10180/1059083/eFB2015-2_s/00392860-473d-4c0b-9f72-5c4da77a9370" target="_blank">(PDF 17 MB)</a></strong><span id="aui_3_4_0_1_823" style="background-color: #fcfcfc; font-weight: 600; line-height: 20.3px;"><a href="https://www.dainst.org/documents/10180/727267/eDAI+F+2015-1/77ddf688-7cf3-45bf-ad6a-4f68c1e9ced1" target="_blank"><br /> eDAI-F 2015, 1 (PDF 76 MB)</a>&nbsp;oder&nbsp;<a href="https://www.dainst.org/documents/10180/727267/eFB2015-1_klein.pdf/d2f0ca43-6af6-4fd7-b0ad-51b70b802c3c" target="_blank">(PDF 17 MB)</a></span><span style="background-color: #fcfcfc; line-height: 20.3px;">.</span><br /> <strong style="line-height: 1.45em;"><a href="https://www.dainst.org/documents/10180/367514/e-Forschungsberichte+2014-3/72a03763-5578-4774-9730-3c3803615a5b" target="_blank">eDAI-F 2014, 3 (PDF 87,6 MB)</a>&nbsp;oder <a href="https://www.dainst.org/documents/10180/367514/e-Forschungsberichte+2014-3+klein/d9a4c50e-3a37-4990-8596-dcf3d12d34dc" target="_blank">(PDF 16,9MB)</a></strong><br /> <strong style="line-height: 1.45em;"><a href="https://www.dainst.org/documents/10180/182838/e-Forschungsberichte+2014-2/fdb34f3f-182c-4856-a372-a5a3e27fbc2f" style="line-height: 1.45em;" target="_blank">eDAI-F 2</a><a href="https://www.dainst.org/documents/10180/182838/e-Forschungsberichte+2014-2/fdb34f3f-182c-4856-a372-a5a3e27fbc2f" style="line-height: 1.45em;" target="_blank">014, 2 (PDF 85,4 MB)</a></strong><span style="font-weight: 600; line-height: 1.45em;">&nbsp;oder&nbsp;</span><strong style="line-height: 1.45em;"><a href="https://www.dainst.org/documents/10180/182838/eDAI+F+2014_2+klein/6da719b2-4fd6-462a-b9ca-c9d69449375f" style="line-height: 1.45em;" target="_blank">(PDF 17,8MB)</a>&nbsp;</strong><br /> <strong style="line-height: 1.45em;"><a href="https://www.dainst.org/documents/10180/105986/eDAI+F+2014_1/a4071218-cc27-4f99-a7da-d2d1f6b49d4f" style="line-height: 1.45em;" target="_blank">eDAI-F 2014, 1 (PDF 88,5MB)</a></strong><span style="background-color: #fcfcfc; font-weight: 600; line-height: 1.45em;">&nbsp;oder</span><a href="https://www.dainst.org/documents/10180/182833/eDAI+F+2014_1+klein/b7f9e6f9-1d9c-45ad-b1bd-ad641a83cf00" style="font-weight: 600; line-height: 1.45em;" target="_blank">&nbsp;<strong>(PDF 17,9MB)</strong></a></span></span><br /> </div></div></div></div></div></div></div></div></div></div></blockquote><blockquote class="tr_bq"><div class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_u1e9NweQpMrL_"><div class="portlet-body"><div class="portlet-borderless-container"><div class="portlet-body"><div class="journal-content-article" id="article_10154_10180_367534_1.8"><div class="intro instance-u1e9NweQpMrL"><div class="section yui3-g"><div class="yui3-u-1"><div></div></div></div></div></div></div></div></div></div><div style="text-align: center;">And see also<a href="http://www.dainst.org/de/node/28799"> </a><a href="http://www.dainst.org/publikationen/e-publikationen/e-jahresberichte">e-Jahresberichte des Deutschen Archäologischen Instituts</a></div></blockquote><div style="text-align: center;"><span style="font-size: small;"><span><span><span style="font-weight: normal;"><span><span><span><span><span><span><span><span><span>S<span>ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span> </div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/836070417930574057/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/836070417930574057/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/new-open-access-journal-e.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/836070417930574057"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/836070417930574057"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/new-open-access-journal-e.html"
-         title="New Open Access Journal: e-Forschungsberichte des Deutschen Archäologisches Instituts (eDAI·F)"/>
-    <author>
+         title="Open Access Journal: e-Forschungsberichte des Deutschen Archäologisches Instituts (eDAI·F)"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

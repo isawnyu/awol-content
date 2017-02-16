@@ -1,163 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5158731773016325104</id>
-    <published>2013-02-09T08:13:00.001-05:00</published>
-    <updated>2013-02-09T08:13:20.106-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5158731773016325104</id>
+   <published>2016-10-03T10:34:00.000-04:00</published>
+   <updated>2016-10-03T11:52:58.273-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Palestine"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Israel"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Open Access Publications of Emek Shaveh</title>
-    <content type="html"><![CDATA[<a href="http://www.alt-arch.org/index.php">Emek Shaveh: Archaeology
-      in the Shadow of the Conflict</a> <br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><a
-      href="http://www.alt-arch.org/publications.php">Publications</a></span></blockquote><blockquote><div
-      id="mainContent"><span style="font-size: x-small;"> </span><span
-      style="font-size: x-small;"></span><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"></span><span
-      style="font-size: x-small;"></span><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"></span><span
-      style="font-size: x-small;"></span><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"></span><span
-      style="font-size: x-small;"></span><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"></span><span
-      style="font-size: x-small;"></span><table cellpadding="2" cellspacing="5"
-      class="text"><tbody><tr><td colspan="2"><br
-      /></td></tr><tr> <td valign="top" width="200"><span
-      style="font-size: x-small;"><img
-      src="http://www.alt-arch.org/images/booklet_cover_en.jpg" width="200" /></span> <br
-      /><div id="publication_links"><span style="font-size: x-small;"><a
-      href="http://www.alt-arch.org/order_en.php?o=1">Order a Printed Copy »</a> <a
-      href="http://www.alt-arch.org/booklet_online.php">Read the Booklet On-line »</a> <a
-      href="http://www.alt-arch.org/docs/booklet_english.pdf" target="_blank">Download the Booklet
-      in PDF (low-res) »</a></span> </div></td> <td
-      valign="top"><span class="publication_title" style="font-size: x-small;">Archaeology
-      in the Shadow of the Conflict<br />The Mound of Ancient Jerusalem (City of David) in
-      Silwan</span><span style="font-size: x-small;"> The subject of this booklet is
-      archaeology in the heart of Jerusalem, one of the most complex cities in the world. We will
-      focus primarily on the mound of ancient Jerusalem, also known as the City of David, located on
-      a ridge south of the Temple Mount, presently part of Palestinian Silwan, and will examine the
-      relationship between archaeological research and the various interest groups active in the
-      village and the site. <a href="http://www.alt-arch.org/publications.php"
-      id="openmore1">Read more...</a></span> </td> </tr><tr><td
-      colspan="2"><br /></td></tr><tr> <td valign="top"
-      width="200"><span style="font-size: x-small;"><img
-      src="http://www.alt-arch.org/images/visitorsguidecovereng.jpg" width="200" /></span>
-      <br /><div id="publication_links"><span style="font-size: x-small;"><a
-      href="http://www.alt-arch.org/order_en.php?o=4">Order a Printed Copy »</a> <a
-      href="http://www.alt-arch.org/visitorsguide.php">Download the Booklet in PDF format
-      »</a></span> </div></td> <td valign="top"><span
-      class="publication_title" style="font-size: x-small;">From Shiloah to Silwan Visitor's
-      Guide<br />Ancient Jerusalem (City of David) and the village of
-      Silwan</span><span style="font-size: x-small;"> The visitor's guide is based on
-      Emek Shaveh’s archeological tour in the village of Silwan and at the City of David national
-      park. The tour, initiated in 2007, is led by Israeli archeologists in cooperation with
-      Palestinian residents of Silwan. The guide focuses on the remains of past cultures found in the
-      archeological site of ancient Jerusalem (City of David), while acknowledging the Palestinian
-      village of Silwan in which the site is situated. It gives the visitor the tools for an
-      independent appreciation of the variety of cultures and eras represented at the site, with an
-      emphasis on everyday life. <a href="http://www.alt-arch.org/publications.php"
-      id="openmore4">Read more...</a></span> </td> </tr><tr><td
-      colspan="2"><br /></td></tr><tr> <td valign="top"
-      width="200"><span style="font-size: x-small;"><img
-      src="http://www.alt-arch.org/images/BetweenHolinessAndPropagandaEnglish.png" width="200"
-      /></span> <br /><div id="publication_links"><span style="font-size:
-      x-small;"><a href="http://www.alt-arch.org/order_en.php?o=5">Order a Printed Copy
-      »</a> <a href="http://www.alt-arch.org/oldcity.php">Read On-line / Download the
-      Booklet in PDF format »</a></span> </div></td> <td
-      valign="top"><span class="publication_title" style="font-size: x-small;">Between
-      Holiness and Propaganda<br />Archaeology and political claims over the Old City of
-      Jerusalem</span><span style="font-size: x-small;"> Archaeological excavations are
-      tied to the political conflict in Jerusalem from two distinct aspects: one is the appropriation
-      of land to be excavated, which can be interpreted as a means of control over a certain place or
-      area. The second is the focus on the past, which can be seen as an instrument for appropriating
-      the past to one particular group and its narrative. For these reasons, all archaeological
-      activity in the Old City of Jerusalem is perceived as threatening and political. Nonetheless,
-      the excavations do not all impact on the political situation to the same degree. Some are
-      conducted in light of residents or merchants’ needs, are limited in their range and do not turn
-      into national projects. <a href="http://www.alt-arch.org/publications.php"
-      id="openmore5">Read more...</a></span> </td> </tr><tr><td
-      colspan="2"><br /></td></tr><tr> <td valign="top"
-      width="200"><span style="font-size: x-small;"><img
-      src="http://www.alt-arch.org/images/faq-english.jpg" width="200" /></span> <br
-      /><div id="publication_links"><span style="font-size: x-small;"><a
-      href="http://www.alt-arch.org/faq.php">Read On-line »</a> <a
-      href="http://www.alt-arch.org/docs/faq_eng.pdf" target="_blank">Download the FAQ in PDF
-      format »</a></span> </div></td> <td valign="top"><span
-      class="publication_title" style="font-size: x-small;">Frequent Questions about Jerusalem's
-      Old City</span><span style="font-size: x-small;"> How old is the Old
-      City?</span><br /><span style="font-size: x-small;">Where is the original
-      Jerusalem? </span><br /><span style="font-size: x-small;">Are there rules in
-      archaeology? </span><br /><span style="font-size: x-small;">Is there an
-      archaeogical truth? </span><br /><span style="font-size: x-small;">Why not
-      have each religion – Jewish, Christian, and Muslim – care for its own heritage?
-      </span><br /><span style="font-size: x-small;"><br
-      /></span><span style="font-size: x-small;">Read the answers to these questions
-      and more in our FAQ about Jerusalem's Old City. </span></td>
-      </tr><tr><td colspan="2"><br /></td></tr><tr> <td
-      valign="top"><span style="font-size: x-small;"><img
-      src="http://www.alt-arch.org/images/kingdavid.jpg" width="200" /></span> <br
-      /><div id="publication_links"><span style="font-size: x-small;"><a
-      href="http://www.alt-arch.org/order_en.php?o=2">Order the DVD »</a> <a
-      href="http://www.youtube.com/watch?v=aRNAJCHxa7w" target="_blank">Watch the Film On-line
-      »</a></span> </div></td> <td valign="top"><span
-      class="publication_title" style="font-size: x-small;">In the Shadow of King David<br
-      />A film by Natasha Dudinski (24 min)</span><span style="font-size: x-small;">
-      Living with King David is no fun. Just ask the people of Silwan,&nbsp;a Palestinian village
-      outside the walls of the Old City of Jerusalem. <a
-      href="http://www.alt-arch.org/publications.php" id="openmore2">Read
-      more...</a></span> </td> </tr><tr><td colspan="2"><br
-      /></td></tr><tr> <td valign="top"><span style="font-size:
-      x-small;"><img src="http://www.alt-arch.org/images/map_thumb.jpg" width="200"
-      /></span> <br /><div id="publication_links"><span style="font-size:
-      x-small;"><a href="http://www.alt-arch.org/order_en.php?o=3">Order a Printed Copy
-      »</a> <a href="http://www.alt-arch.org/docs/WBADB_sourcebook.pdf"
-      target="_blank">Download the Sourcebook in PDF (low-res) »</a> <a
-      href="http://www.alt-arch.org/docs/WBADB_data.xls" target="_blank">Download the accompanying
-      Archaeological Data Files (November 2010 update) »</a> <a
-      href="http://www.alt-arch.org/docs/bibliography_sourcebook.pdf" target="_blank">Download the
-      accompanying Bibliography (November 2010 update) »</a></span>
-      </div></td> <td valign="top"><span class="publication_title"
-      style="font-size: x-small;">Israeli Archaeological Activity in the West Bank 1967-2007: A
-      Sourcebook<br />by Dr. Raphael Greenberg and Adi Keinan</span><span
-      style="font-size: x-small;"> This collection includes lists of archaeological sites that
-      were excavated or surveyed in the West Bank and East Jerusalem since 1967 (when the Civil
-      Administration of Judea and Samaria was tasked with oversight of this region). These data are
-      presented through the USC Digital Library through two Google map interfaces. <a
-      href="http://www.alt-arch.org/publications.php" id="openmore3">Read
-      more...</a></span> </td> </tr><tr><td colspan="2"><br
-      /></td></tr></tbody></table></div></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;"><a
-      href="http://alt-arch.org/news/?p=185">From Shiloah to Silwan
-      Newsletter</a></span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Palestine"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Israel"/>
+   <title type="text">Emek Shaveh</title>
+   <content type="html"><![CDATA[<a href="http://www.alt-arch.org/index.php">Emek Shaveh </a><br /><blockquote class="tr_bq"><img alt="Emek Shaveh" height="120" src="http://alt-arch.org/en/wp-content/uploads/2016/09/logo-emek-shave.jpg" width="140" /> </blockquote><blockquote class="tr_bq"> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Emek Shaveh is an Israeli NGO working to prevent the politicization  of archaeology in the context of the Israeli-Palestinian conflict, and  to protect ancient sites as public assets that belong to members of all  communities, faiths and peoples. We view archaeology as a resource for  building bridges and strengthening bonds between peoples and cultures.</span><br /><br /> <span style="font-size: x-small;">We object to the fact that the ruins of the past have become a tool  in the service of a national struggle and work to challenge those who  use archaeological sites to dispossess disenfranchised communities. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">We believe that archaeological sites cannot constitute proof of  precedence or ownership by any one nation, ethnic group or religion over  a given place. The archaeological find tells a complex story that is  independent of religious dictates and traditions. Listening to this  story and bringing it to the wider public can enrich our culture and  promote values of tolerance and pluralism. We believe that the cultural  wealth of this land belongs to the members of all its communities,  peoples and faiths. An archaeological site is comprised not only of its  excavated layers, but also its present-day attributes – the people  living in or near it, their culture, their daily lives and their needs.</span><br /><br /> <span style="font-size: x-small;">We view the practice of archaeology as an endeavor that can benefit  the common good. The various means of involving local communities in  work on the site in or near which they live, whether it is managing its  heritage, engaging in joint excavations, developing the site, or  devising tours that combine visits to the site with an introduction to  the local community — strengthen a community’s relationship with its  larger environment, yield economic dividends and can bring about  significant social change.</span><br /><br /> <span style="font-size: x-small;">We believe that becoming familiar with the complex and diverse  history revealed through archaeological research can teach us something  essential about ourselves, and cultivate an appreciation of this  country’s vast cultural diversity, in the past and present.</span></blockquote><blockquote class="tr_bq"><ul class="mega-menu mega-menu-horizontal" data-breakpoint="600" data-document-click="collapse" data-effect-speed="200" data-effect="fade_up" data-event="click" data-reverse-mobile-items="true" data-second-click="close" data-vertical-behaviour="standard" id="mega-menu-primary_he"><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-current-menu-item mega-page_item mega-page-item-2 mega-current_page_item mega-align-bottom-left mega-menu-flyout mega-menu-item-1085" id="mega-menu-item-1085"><span style="font-size: x-small;"><a class="mega-menu-link" href="http://alt-arch.org/en/about-us/" tabindex="0">About</a></span></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-has-children mega-align-bottom-left mega-menu-megamenu mega-menu-item-1086" id="mega-menu-item-1086"><span style="font-size: x-small;"><a class="mega-menu-link" href="http://alt-arch.org/en/category/publications/" tabindex="0">Reports</a></span> </li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-1098" id="mega-menu-item-1098"><span style="font-size: x-small;"><a class="mega-menu-link" href="http://alt-arch.org/en/silwan-city-of-david-tour/" tabindex="0">Tours</a></span></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-menu-item-has-children mega-align-bottom-left mega-menu-megamenu mega-menu-item-1106" id="mega-menu-item-1106"><span style="font-size: x-small;"><a class="mega-menu-link" href="http://alt-arch.org/en/category/activities/" tabindex="0">Activities</a></span> </li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-align-bottom-left mega-menu-flyout mega-menu-item-1094" id="mega-menu-item-1094"><span style="font-size: x-small;"><a class="mega-menu-link" href="http://alt-arch.org/en/category/videos/" tabindex="0">Videos</a></span></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-align-bottom-left mega-menu-flyout mega-menu-item-1095" id="mega-menu-item-1095"><span style="font-size: x-small;"><a class="mega-menu-link" href="http://alt-arch.org/en/category/maps/" tabindex="0">Maps</a></span></li><li class="mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-category mega-align-bottom-left mega-menu-flyout mega-menu-item-1096" id="mega-menu-item-1096"><span style="font-size: x-small;"><a class="mega-menu-link" href="http://alt-arch.org/en/category/media/" tabindex="0">Media</a></span></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-1097" id="mega-menu-item-1097"><span style="font-size: x-small;"><a class="mega-menu-link" href="http://alt-arch.org/en/donations/" tabindex="0">Support us</a></span></li></ul></blockquote><blockquote class="tr_bq">       <br /><ul class="topics"><li><span style="font-size: x-small;"><a class="jerusalem" href="http://alt-arch.org/en/category/publications/jerusalem/"><span>Jerusalem</span></a></span></li><li><span style="font-size: x-small;"><a class="hagada" href="http://alt-arch.org/en/category/publications/west-bank/"><span>West Bank</span></a></span></li><li><span style="font-size: x-small;"><a class="israel" href="http://alt-arch.org/en/category/publications/israel/"><span>Israel</span></a><span></span>&nbsp;</span></li></ul></blockquote><blockquote class="tr_bq"><ul class="topics"><li><span style="font-size: x-small;"><span><a href="http://alt-arch.org/en/en/faq/">The Old City - Q&amp;A</a></span></span></li></ul></blockquote><blockquote class="tr_bq"><ul><li><span style="font-size: x-small;"><a class="mega-menu-link" href="http://alt-arch.org/en/category/publications/" tabindex="0">Publications</a> </span></li></ul></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5158731773016325104/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5158731773016325104/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/02/open-access-publications-of-emek-shaveh.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5158731773016325104"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5158731773016325104"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/02/open-access-publications-of-emek-shaveh.html"
-         title="Open Access Publications of Emek Shaveh"/>
-    <author>
+         title="Emek Shaveh"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

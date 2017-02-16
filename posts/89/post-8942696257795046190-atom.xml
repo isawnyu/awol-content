@@ -1,89 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8942696257795046190</id>
-    <published>2014-03-03T09:45:00.002-05:00</published>
-    <updated>2014-03-03T09:45:21.535-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8942696257795046190</id>
+   <published>2016-12-19T17:41:00.000-05:00</published>
+   <updated>2016-12-19T17:41:42.341-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Roma"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Translation"/>
-    <title type="text">Seneca - De beneficiis: Tradizion del primo libro</title>
-    <content type="html"><![CDATA[<a href="http://senecabenefici.blogspot.it/">Seneca - De beneficiis:
-      Tradizion del primo libro</a><br /><blockquote class="tr_bq"><img
-      alt="http://2.bp.blogspot.com/-aOSRQ2mLVPk/UlA4tDVfq4I/AAAAAAAAAF0/u3CicCfa2VM/s1600/titolo%2Bseneca.png"
-      class="decoded" height="56"
-      src="http://2.bp.blogspot.com/-aOSRQ2mLVPk/UlA4tDVfq4I/AAAAAAAAAF0/u3CicCfa2VM/s320/titolo%2Bseneca.png"
-      width="320" /> </blockquote><blockquote class="tr_bq"><div style="text-align:
-      justify;"><span style="font-size: x-small;">"Seneca - De beneficiis" è un blog dove
-      verrà postata, paragrafo dopo paragrafo, la traduzione italiana del I libro del <i>De
-      beneficiis </i>di Seneca.</span></div><div style="text-align:
-      justify;"><span style="font-size:
-      x-small;">&nbsp;</span></div><span style="font-size:
-      x-small;"></span><div style="text-align: justify;"><span style="font-size:
-      x-small;">A postarla saranno i loro autori, ovvero gli alunni della classe VR del Liceo
-      Scientifico "S. Cannizzaro" di Palermo (a. s. 2013-14), che hanno scelto di affrontare con
-      coraggio e con generosità, nell'anno del loro esame di stato, questa avventura didattica che
-      io, il loro docente di latino, ho proposto.</span></div><span style="font-size:
-      x-small;"></span><div style="text-align: justify;"><span style="font-size:
-      x-small;">Per il loro coraggio e la loro generosità li voglio ringraziare tutti, citandoli
-      per nome: Roberto De Fortis, Emanuele Filingeri, Gianmarco Geraci, Alessandro Li Vigni, Giulio
-      Lo Re, Andrea Messina, Alice Orlando, Roberta Pacino, Emilio Pinto, Giuseppe Pipitone,
-      Francesco Pirillo, Federica Restivo, Riccardo Tarantino, Ornella Urzì, Gloria
-      Varrica.&nbsp;</span></div><div style="text-align: justify;"><span
-      style="font-size: x-small;">&nbsp;</span></div><span style="font-size:
-      x-small;"></span><div style="text-align: justify;"><span style="font-size:
-      x-small;">La traduzione sarà il frutto del loro lavoro collettivo, ed è stata concepita come
-      un dono che la classe ha scelto di fare alla comunità, dal momento che non esistono, in rete,
-      edizioni digitali in italiano di questo trattato di Seneca.</span></div><br
-      /><span style="font-size: x-small;"><b><span style="color: #999999;">-
-      <a href="http://senecabenefici.blogspot.it/">HOME PAGE</a><br />- <a
-      href="http://senecabenefici.blogspot.it/2013/09/seneca-i-benefici-e-la-v-r-del-liceo.html">PRESENTAZIONE</a><br
-      />- <a
-      href="http://senecabenefici.blogspot.it/2013/10/il-testo-del-de-beneficiis.html">TESTO
-      LATINO</a><br />-<a
-      href="http://senecabenefici.blogspot.it/2013/11/seneca-de-beneficiis-libro-i-1-1.html">
-      TRADUZIONE I LIBRO</a><br />►<a
-      href="http://senecabenefici.blogspot.it/2014/01/aggiornamento-al-capitolo-1-1.html">1.1</a><br
-      />►<a
-      href="http://senecabenefici.blogspot.it/2014/01/aggiornamento-al-capitolo-1-2.html">1.2</a><br
-      />►<a
-      href="http://senecabenefici.blogspot.it/2014/02/aggiornamento-ben-1-3.html">1.3</a><br
-      />►<a
-      href="http://senecabenefici.blogspot.it/2014/02/de-ben-1-4.html">1.4</a><br
-      />►<a
-      href="http://senecabenefici.blogspot.it/2014/02/lucio-anneo-seneca-de-beneficiis-libro.html">1.5</a></span></b><b><span
-      style="color: #999999;">►<a
-      href="http://senecabenefici.blogspot.com/2014/03/aggiornamento-ben-1-6.html">1.6</a></span></b>
-      </span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Translation"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Roma"/>
+   <title type="text">Seneca - De beneficiis: Tradizion del primo libro</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 3 March 2014, updated 19 December 2016]</span><br /><br /><a href="http://senecabenefici.blogspot.it/">Seneca - De beneficiis: Tradizion del primo libro</a><br /><blockquote class="tr_bq"><img alt="http://2.bp.blogspot.com/-aOSRQ2mLVPk/UlA4tDVfq4I/AAAAAAAAAF0/u3CicCfa2VM/s1600/titolo%2Bseneca.png" class="decoded" height="56" src="https://2.bp.blogspot.com/-aOSRQ2mLVPk/UlA4tDVfq4I/AAAAAAAAAF0/u3CicCfa2VM/s320/titolo%2Bseneca.png" width="320" /> </blockquote><blockquote class="tr_bq"><div style="text-align: justify;"><span style="font-size: x-small;">"Seneca - De beneficiis" è un blog dove verrà postata, paragrafo dopo paragrafo, la traduzione italiana del I libro del <i>De beneficiis </i>di Seneca.</span></div><div style="text-align: justify;"></div><span style="font-size: x-small;"></span><div style="text-align: justify;"><span style="font-size: x-small;">A postarla saranno i loro autori, ovvero gli alunni della classe VR del  Liceo Scientifico "S. Cannizzaro" di Palermo (a. s. 2013-14), che hanno  scelto di affrontare con coraggio e con generosità, nell'anno del loro  esame di stato, questa avventura didattica che io, il loro docente di  latino, ho proposto.</span></div><span style="font-size: x-small;"></span><div style="text-align: justify;"><span style="font-size: x-small;">Per il loro coraggio e la loro generosità li voglio ringraziare tutti,  citandoli per nome: Roberto De Fortis, Emanuele Filingeri, Gianmarco  Geraci, Alessandro Li Vigni, Giulio Lo Re, Andrea Messina, Alice  Orlando, Roberta Pacino, Emilio Pinto, Giuseppe Pipitone, Francesco  Pirillo, Federica Restivo, Riccardo Tarantino, Ornella Urzì, Gloria  Varrica.&nbsp;</span></div><div style="text-align: justify;"></div><span style="font-size: x-small;"></span><div style="text-align: justify;"><span style="font-size: x-small;">La traduzione sarà il frutto del loro lavoro collettivo, ed è stata  concepita come un dono che la classe ha scelto di fare alla comunità,  dal momento che non esistono, in rete, edizioni digitali in italiano di  questo trattato di Seneca.</span></div><br /><div style="color: #f7f6fb; font-weight: normal; margin: auto; width: 187px;"><span style="font-size: x-small;"><b><span style="color: #999999;">INDICE:<br />- <a href="http://senecabenefici.blogspot.it/">HOME PAGE</a><br />- <a href="http://senecabenefici.blogspot.it/2013/09/seneca-i-benefici-e-la-v-r-del-liceo.html">PRESENTAZIONE</a><br />- <a href="http://senecabenefici.blogspot.it/2013/10/il-testo-del-de-beneficiis.html">TESTO LATINO</a></span></b><br /><b><span style="color: #999999;">-<a href="http://senecabenefici.blogspot.it/2013/11/seneca-de-beneficiis-libro-i-1-1.html"> TRADUZIONE I LIBRO</a><br />►<a href="http://senecabenefici.blogspot.it/2014/01/aggiornamento-al-capitolo-1-1.html">1.1</a><br />►<a href="http://senecabenefici.blogspot.it/2014/01/aggiornamento-al-capitolo-1-2.html">1.2</a><br />►<a href="http://senecabenefici.blogspot.it/2014/02/aggiornamento-ben-1-3.html">1.3</a><br />►<a href="http://senecabenefici.blogspot.it/2014/02/de-ben-1-4.html">1.4</a><br />►<a href="http://senecabenefici.blogspot.it/2014/02/lucio-anneo-seneca-de-beneficiis-libro.html">1.5</a></span></b><b><span style="color: #999999;">►<a href="http://senecabenefici.blogspot.com/2014/03/aggiornamento-ben-1-6.html">1.6</a></span></b><br /><b><span style="color: #999999;">►<a href="http://senecabenefici.blogspot.com/2014/03/aggiornamento-ben-1-7.html">1.7</a></span></b><b><span style="color: #999999;">►<a href="http://senecabenefici.blogspot.com/2014/03/aggiornamento-ben-1-8.html">1.8</a></span></b><b><span style="color: #999999;">►<a href="http://senecabenefici.blogspot.com/2014/04/aggiornamento-ben-1-9.html">1.9</a></span></b><b><span style="color: #999999;">►<a href="http://senecabenefici.blogspot.it/2014/04/aggiornamento-ben-1-10.html">1.10</a></span></b><br /><b><span style="color: #999999;">►<a href="http://senecabenefici.blogspot.com/2014/04/aggiornamento-ben-1-11.html">1.11</a></span></b><b><span style="color: #999999;">►<a href="http://senecabenefici.blogspot.it/2014/05/aggiornamento-ben-1-12.html">1.12</a></span></b><br /><b><span style="color: #999999;">►<a href="http://senecabenefici.blogspot.it/2014/05/aggiornamento-ben-1-13.html">1.13</a></span></b></span></div><div style="color: #f7f6fb; font-weight: normal; margin: auto; width: 187px;"><span style="font-size: x-small;"><b><span style="color: #999999;">►<a href="http://senecabenefici.blogspot.it/2014/05/aggiornamento-ben-1-14.html">1.14</a></span></b></span></div><span style="font-size: x-small;"><b><span style="color: #999999;">►<a href="http://senecabenefici.blogspot.it/2014/05/aggiornamento-ben-1-15.html">1.15</a></span></b><b><span style="color: #999999;"><b><span style="color: #999999;"><b><span style="color: #999999;"><b><span style="color: #999999;">- <a href="http://senecabenefici.blogspot.com/2016/12/la-vr-che-libro-ti-regalo-2016.html">CHE LIBRO TI REGALO</a></span></b></span></b><br />- <a href="http://senecabenefici.blogspot.com/2014/06/la-vr-e-il-de-beneficiis-padova.html">RELAZIONE PADOVA</a></span></b></span></b></span><b><span style="color: #999999;"><b><span style="color: #999999;"><b><span style="color: #999999;"><b><span style="color: #999999;"><span style="font-size: x-small;">-<a href="http://senecabenefici.blogspot.it/2014/09/la-vr-e-il-de-beneficiis-sul-numero-0.html"> ARTICOLO SU CC</a></span></span></b></span></b></span></b></span></b></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8942696257795046190/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8942696257795046190/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/seneca-de-beneficiis-tradizion-del.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8942696257795046190"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8942696257795046190"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/seneca-de-beneficiis-tradizion-del.html"
          title="Seneca - De beneficiis: Tradizion del primo libro"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-  </entry>
+   </author>
+</entry>

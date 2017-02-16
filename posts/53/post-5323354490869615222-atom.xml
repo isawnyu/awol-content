@@ -1,161 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5323354490869615222</id>
-    <published>2014-11-10T06:19:00.000-05:00</published>
-    <updated>2014-11-10T06:29:03.463-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5323354490869615222</id>
+   <published>2014-11-10T06:19:00.000-05:00</published>
+   <updated>2014-11-10T06:29:03.463-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Medicine"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Ancient"/>
-    <title type="text">One Off Journal Issues: Childbirth and Woman's Healthcare Issues</title>
-    <content type="html"><![CDATA[<br /><a
-      href="http://www.raco.cat/index.php/Dynamis/index">Dynamis: Acta Hispanica ad Medicinae
-      Scientiarumque Historiam Illustrandam</a><br />ISSN electrònic: 2340-7948<br
-      />ISSN paper: 0211-9536<br /><br /><blockquote class="tr_bq"><img
-      alt="http://www.raco.cat/public/journals/316/cover_issue_21162_ca_ES.jpg" class="shrinkToFit
-      decoded" src="http://www.raco.cat/public/journals/316/cover_issue_21162_ca_ES.jpg" height="200"
-      width="142" /></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><a href="http://www.revistadynamis.es/"
-      target="_blank"><i>Dynamis</i></a> és una publicació bianual formada per
-      un volum d'extensió aproximada de 450 pàgines. Accepta treballs originals (articles, notes o
-      documents) d'història de la medicina i de la salut o història de les ciències, escrits en
-      qualsevol idioma de l'àmbit de la Unió Europea. Tots els originals són sotmesos a dos informes
-      anònims de prepublicació realitzats per persones
-      expertes.</span></blockquote><blockquote class="tr_bq"><h2><span
-      style="font-size: x-small;">Vol. 34, Núm. 2 (2014)</span></h2><h4
-      class="tocSectionTitle"><span style="font-size:
-      x-small;">Sumario</span></h4><table class="tocArticle" style="width:
-      100%px;"><tbody><tr valign="top"> <td class="tocTitle"><span
-      style="font-size: x-small;"><a
-      href="http://www.raco.cat/index.php/Dynamis/article/view/280694">Sumario</a> (p.
-      265-269)</span></td></tr><tr> <td><span style="font-size:
-      x-small;"><a
-      href="http://www.raco.cat/index.php/index/search/authors/view?firstName=&amp;middleName=&amp;lastName=&amp;affiliation=&amp;country="
-      style="font-style: italic;"> </a></span> <span style="font-size:
-      x-small;"><br /></span></td></tr><tr> <td><span
-      style="font-size: x-small;"><a class="file"
-      href="http://www.raco.cat/index.php/Dynamis/article/view/280694/368376" style="color: maroon;
-      font-weight: bold;">PDF (English)</a></span> </td>
-      </tr><tr><td><span style="font-size: x-small;"><br
-      /></span></td></tr></tbody></table><h4
-      class="tocSectionTitle"><span style="font-size: x-small;">Contents y
-      Abstracts</span></h4><table class="tocArticle" style="width:
-      100%px;"><tbody><tr valign="top"> <td class="tocTitle"><span
-      style="font-size: x-small;"><a
-      href="http://www.raco.cat/index.php/Dynamis/article/view/280695">Contents</a> (p.
-      271-278)</span></td></tr><tr> <td><span style="font-size:
-      x-small;"><a
-      href="http://www.raco.cat/index.php/index/search/authors/view?firstName=&amp;middleName=&amp;lastName=&amp;affiliation=&amp;country="
-      style="font-style: italic;"> </a></span> <span style="font-size:
-      x-small;"><br /></span></td></tr><tr> <td><span
-      style="font-size: x-small;"><a class="file"
-      href="http://www.raco.cat/index.php/Dynamis/article/view/280695/368377" style="color: maroon;
-      font-weight: bold;">PDF (English)</a></span> </td>
-      </tr><tr><td></td></tr></tbody></table><h4
-      class="tocSectionTitle"><span style="font-size:
-      x-small;">Dossier</span></h4><table class="tocArticle" style="width:
-      100%px;"><tbody><tr valign="top"> <td class="tocTitle"><span
-      style="font-size: x-small;"><a
-      href="http://www.raco.cat/index.php/Dynamis/article/view/280696">Childbirth and women’s
-      healthcare in pre-modern societies : an assessment</a> (p.
-      279-287)</span></td></tr><tr> <td><span style="font-size:
-      x-small;"><a
-      href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Anna&amp;middleName=&amp;lastName=Andreeva&amp;affiliation=&amp;country="
-      style="font-style: italic;">Anna Andreeva</a>, <a
-      href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Erica&amp;middleName=&amp;lastName=Couto-Ferreira&amp;affiliation=&amp;country="
-      style="font-style: italic;">Erica Couto-Ferreira</a>, <a
-      href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Susanne&amp;middleName=&amp;lastName=T%C3%B6pfer&amp;affiliation=&amp;country="
-      style="font-style: italic;">Susanne Töpfer</a></span>
-      </td></tr><tr> <td><span style="font-size: x-small;"><a
-      class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280696/368378"
-      style="color: maroon; font-weight: bold;">PDF (English)</a></span> </td>
-      </tr><tr><td></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.raco.cat/index.php/Dynamis/article/view/280697">She will give birth easily
-      : therapeutic approaches to childbirth in 1st millennium BCE cuneiform sources</a> (p.
-      289-315)</span></td></tr><tr> <td><span style="font-size:
-      x-small;"><a
-      href="http://www.raco.cat/index.php/index/search/authors/view?firstName=M.%20Erica&amp;middleName=&amp;lastName=Couto-Ferreira&amp;affiliation=&amp;country="
-      style="font-style: italic;">M. Erica Couto-Ferreira</a></span>
-      </td></tr><tr> <td><span style="font-size: x-small;"><a
-      class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280697/368379"
-      style="color: maroon; font-weight: bold;">PDF (English)</a></span> </td>
-      </tr><tr><td></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.raco.cat/index.php/Dynamis/article/view/280698">The physical activity of
-      parturition in ancient Egypt : textual and epigraphical sources</a> (p.
-      317-335)</span></td></tr><tr> <td><span style="font-size:
-      x-small;"><a
-      href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Susanne&amp;middleName=&amp;lastName=T%C3%B6pfer&amp;affiliation=&amp;country="
-      style="font-style: italic;">Susanne Töpfer</a></span>
-      </td></tr><tr> <td><span style="font-size: x-small;"><a
-      class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280698/368380"
-      style="color: maroon; font-weight: bold;">PDF (English)</a></span> </td>
-      </tr><tr><td></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.raco.cat/index.php/Dynamis/article/view/280699">For mothers and sisters :
-      care of the reproductive female body in the medico-ritual world of early and medieval
-      Japan</a> (p. 337-356)</span></td></tr><tr> <td><span
-      style="font-size: x-small;"><a
-      href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Katja&amp;middleName=&amp;lastName=TripletT&amp;affiliation=&amp;country="
-      style="font-style: italic;">Katja TripletT</a></span>
-      </td></tr><tr> <td><span style="font-size: x-small;"><a
-      class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280699/368381"
-      style="color: maroon; font-weight: bold;">PDF (English)</a></span> </td>
-      </tr><tr><td></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.raco.cat/index.php/Dynamis/article/view/280700">Childbirth in aristocratic
-      households of Heian Japan</a> (p. 357-376)</span></td></tr><tr>
-      <td><span style="font-size: x-small;"><a
-      href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Anna&amp;middleName=&amp;lastName=Andreeva&amp;affiliation=&amp;country="
-      style="font-style: italic;">Anna Andreeva</a></span>
-      </td></tr><tr> <td><span style="font-size: x-small;"><a
-      class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280700/368382"
-      style="color: maroon; font-weight: bold;">PDF (English)</a></span> </td>
-      </tr><tr><td></td></tr></tbody></table><table
-      class="tocArticle" style="width: 100%px;"><tbody><tr valign="top"> <td
-      class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://www.raco.cat/index.php/Dynamis/article/view/280701">She will give birth
-      immediately. Pregnancy and childbirth in medieval Hebrew medical texts produced in the
-      Mediterranean West</a> (p. 377-401)</span></td></tr><tr>
-      <td><span style="font-size: x-small;"><a
-      href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Carmen&amp;middleName=&amp;lastName=Caballero%20Navas&amp;affiliation=&amp;country="
-      style="font-style: italic;">Carmen Caballero Navas</a></span>
-      </td></tr><tr> <td><span style="font-size: x-small;"><a
-      class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280701/368383"
-      style="color: maroon; font-weight: bold;">PDF
-      (English)</a></span></td></tr></tbody></table></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Medicine"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Ancient"/>
+   <title type="text">One Off Journal Issues: Childbirth and Woman's Healthcare Issues</title>
+   <content type="html"><![CDATA[<br /><a href="http://www.raco.cat/index.php/Dynamis/index">Dynamis: Acta Hispanica ad Medicinae Scientiarumque Historiam Illustrandam</a><br />ISSN electrònic: 2340-7948<br />ISSN paper: 0211-9536<br /><br /><blockquote class="tr_bq"><img alt="http://www.raco.cat/public/journals/316/cover_issue_21162_ca_ES.jpg" class="shrinkToFit decoded" src="http://www.raco.cat/public/journals/316/cover_issue_21162_ca_ES.jpg" height="200" width="142" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><a href="http://www.revistadynamis.es/" target="_blank"><i>Dynamis</i></a> és una publicació bianual formada per un volum d'extensió aproximada de  450 pàgines. Accepta treballs originals (articles, notes o documents)  d'història de la medicina i de la salut o història de les ciències,  escrits en qualsevol idioma de l'àmbit de la Unió Europea. Tots els  originals són sotmesos a dos informes anònims de prepublicació  realitzats per persones expertes.</span></blockquote><blockquote class="tr_bq"><h2><span style="font-size: x-small;">Vol. 34, Núm. 2 (2014)</span></h2><h4 class="tocSectionTitle"><span style="font-size: x-small;">Sumario</span></h4><table class="tocArticle" style="width: 100%px;"><tbody><tr valign="top">              <td class="tocTitle"><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/Dynamis/article/view/280694">Sumario</a> (p. 265-269)</span></td></tr><tr> <td><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/index/search/authors/view?firstName=&amp;middleName=&amp;lastName=&amp;affiliation=&amp;country=" style="font-style: italic;"> </a></span>      <span style="font-size: x-small;"><br /></span></td></tr><tr>       <td><span style="font-size: x-small;"><a class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280694/368376" style="color: maroon; font-weight: bold;">PDF (English)</a></span>                                                                                                          </td> </tr><tr><td><span style="font-size: x-small;"><br /></span></td></tr></tbody></table><h4 class="tocSectionTitle"><span style="font-size: x-small;">Contents y Abstracts</span></h4><table class="tocArticle" style="width: 100%px;"><tbody><tr valign="top">              <td class="tocTitle"><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/Dynamis/article/view/280695">Contents</a> (p. 271-278)</span></td></tr><tr> <td><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/index/search/authors/view?firstName=&amp;middleName=&amp;lastName=&amp;affiliation=&amp;country=" style="font-style: italic;"> </a></span>      <span style="font-size: x-small;"><br /></span></td></tr><tr>       <td><span style="font-size: x-small;"><a class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280695/368377" style="color: maroon; font-weight: bold;">PDF (English)</a></span>                                                                                                          </td> </tr><tr><td></td></tr></tbody></table><h4 class="tocSectionTitle"><span style="font-size: x-small;">Dossier</span></h4><table class="tocArticle" style="width: 100%px;"><tbody><tr valign="top">              <td class="tocTitle"><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/Dynamis/article/view/280696">Childbirth and women’s healthcare in pre-modern societies : an assessment</a> (p. 279-287)</span></td></tr><tr> <td><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Anna&amp;middleName=&amp;lastName=Andreeva&amp;affiliation=&amp;country=" style="font-style: italic;">Anna Andreeva</a>,    <a href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Erica&amp;middleName=&amp;lastName=Couto-Ferreira&amp;affiliation=&amp;country=" style="font-style: italic;">Erica Couto-Ferreira</a>,    <a href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Susanne&amp;middleName=&amp;lastName=T%C3%B6pfer&amp;affiliation=&amp;country=" style="font-style: italic;">Susanne Töpfer</a></span>      </td></tr><tr>       <td><span style="font-size: x-small;"><a class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280696/368378" style="color: maroon; font-weight: bold;">PDF (English)</a></span>                                                                                                          </td> </tr><tr><td></td></tr></tbody></table><table class="tocArticle" style="width: 100%px;"><tbody><tr valign="top">              <td class="tocTitle"><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/Dynamis/article/view/280697">She will give birth easily : therapeutic approaches to childbirth in 1st millennium BCE cuneiform sources</a> (p. 289-315)</span></td></tr><tr> <td><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/index/search/authors/view?firstName=M.%20Erica&amp;middleName=&amp;lastName=Couto-Ferreira&amp;affiliation=&amp;country=" style="font-style: italic;">M. Erica Couto-Ferreira</a></span>      </td></tr><tr>       <td><span style="font-size: x-small;"><a class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280697/368379" style="color: maroon; font-weight: bold;">PDF (English)</a></span>                                                                                                          </td> </tr><tr><td></td></tr></tbody></table><table class="tocArticle" style="width: 100%px;"><tbody><tr valign="top">              <td class="tocTitle"><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/Dynamis/article/view/280698">The physical activity of parturition in ancient Egypt : textual and epigraphical sources</a> (p. 317-335)</span></td></tr><tr> <td><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Susanne&amp;middleName=&amp;lastName=T%C3%B6pfer&amp;affiliation=&amp;country=" style="font-style: italic;">Susanne Töpfer</a></span>      </td></tr><tr>       <td><span style="font-size: x-small;"><a class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280698/368380" style="color: maroon; font-weight: bold;">PDF (English)</a></span>                                                                                                          </td> </tr><tr><td></td></tr></tbody></table><table class="tocArticle" style="width: 100%px;"><tbody><tr valign="top">              <td class="tocTitle"><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/Dynamis/article/view/280699">For mothers and sisters : care of the reproductive female body in the medico-ritual world of early and medieval Japan</a> (p. 337-356)</span></td></tr><tr> <td><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Katja&amp;middleName=&amp;lastName=TripletT&amp;affiliation=&amp;country=" style="font-style: italic;">Katja TripletT</a></span>      </td></tr><tr>       <td><span style="font-size: x-small;"><a class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280699/368381" style="color: maroon; font-weight: bold;">PDF (English)</a></span>                                                                                                          </td> </tr><tr><td></td></tr></tbody></table><table class="tocArticle" style="width: 100%px;"><tbody><tr valign="top">              <td class="tocTitle"><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/Dynamis/article/view/280700">Childbirth in aristocratic households of Heian Japan</a> (p. 357-376)</span></td></tr><tr> <td><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Anna&amp;middleName=&amp;lastName=Andreeva&amp;affiliation=&amp;country=" style="font-style: italic;">Anna Andreeva</a></span>      </td></tr><tr>       <td><span style="font-size: x-small;"><a class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280700/368382" style="color: maroon; font-weight: bold;">PDF (English)</a></span>                                                                                                          </td> </tr><tr><td></td></tr></tbody></table><table class="tocArticle" style="width: 100%px;"><tbody><tr valign="top">              <td class="tocTitle"><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/Dynamis/article/view/280701">She will give birth immediately. Pregnancy and childbirth in medieval Hebrew medical texts produced in the Mediterranean West</a> (p. 377-401)</span></td></tr><tr> <td><span style="font-size: x-small;"><a href="http://www.raco.cat/index.php/index/search/authors/view?firstName=Carmen&amp;middleName=&amp;lastName=Caballero%20Navas&amp;affiliation=&amp;country=" style="font-style: italic;">Carmen Caballero Navas</a></span>      </td></tr><tr>       <td><span style="font-size: x-small;"><a class="file" href="http://www.raco.cat/index.php/Dynamis/article/view/280701/368383" style="color: maroon; font-weight: bold;">PDF (English)</a></span></td></tr></tbody></table></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5323354490869615222/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5323354490869615222/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/one-off-journal-issues-childbirth-and.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5323354490869615222"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5323354490869615222"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/one-off-journal-issues-childbirth-and.html"
          title="One Off Journal Issues: Childbirth and Woman's Healthcare Issues"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

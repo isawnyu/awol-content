@@ -1,141 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-9066795648570386291</id>
-    <published>2014-11-03T16:02:00.000-05:00</published>
-    <updated>2014-11-03T16:02:12.277-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-9066795648570386291</id>
+   <published>2014-11-03T16:02:00.000-05:00</published>
+   <updated>2014-11-03T16:02:12.277-05:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Lexicography"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Lexicography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Hittite"/>
-    <title type="text">Kritische Bibliographie der Lexikographie des Hethitischen </title>
-    <content type="html"><![CDATA[<a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/">Kritische
-      Bibliographie der Lexikographie des Hethitischen </a><br /><br /><span
-      style="font-family: SemiramisUnicode; font-size: small;">M. Marazzi &amp; N. Bolatti
-      Guzzo</span><span style="font-size: small;"> in Zusammenarbeit mit P. Dardano - R.
-      Francia - M. Cammarosano - A. Rizza</span><br /><blockquote
-      class="tr_bq"><span style="font-size: small;"><img
-      alt="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php_html_mf03e1a1.gif"
-      class="decoded"
-      src="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php_html_mf03e1a1.gif" />
-      </span></blockquote><blockquote class="tr_bq"><h2 class="western"
-      lang="en-US"><span style="font-size: x-small;">Sviluppo del
-      progetto</span></h2><div align="JUSTIFY" lang="en-US" style="margin-bottom:
-      0.49cm; margin-top: 0.49cm;"> <span style="font-size: x-small;">Nel 1979 si venne a
-      creare, presso l’allora Institut für Orientalische Philologie dell’Università di Würzburg (oggi
-      Istituto di Scienze Antiche, Cattedra di Orientalistica Antica), un gruppo di lavoro, del quale
-      Massimiliano Marazzi faceva parte, avente il fine di raccogliere tutte le novità bibliografiche
-      nel settore della hittitologia, con particolare riguardo al settore della
-      lessicologia.</span></div><div align="JUSTIFY" lang="en-US"
-      style="margin-bottom: 0.49cm; margin-top: 0.49cm;"> <span style="font-size:
-      x-small;">La prima trancia di lavori fu pubblicata da M. Marazzi e N. Boysan nel volume 32,
-      1985, dell’Archiv für Orientforschung. Essa raccoglieva tutte le informazioni lessicografiche
-      relative agli anni 1979-1984.</span></div><div align="JUSTIFY" lang="en-US"
-      style="margin-bottom: 0.49cm; margin-top: 0.49cm;"> <span style="font-size:
-      x-small;">Un secondo aggiornamento fu pubblicato, sempre da M. Marazzi e N. Boysan, nel
-      volume 34, 1987, e raccoglieva tutti gli aggiornamenti bibliografici ordinati per autore e per
-      lessemi dal 1985 al 1987.</span></div><div align="JUSTIFY" lang="en-US"
-      style="margin-bottom: 0.49cm; margin-top: 0.49cm;"> <span style="font-size:
-      x-small;">Con la pubblicazione del terzo aggiornamento, curata da M. Marazzi e N. Bolatti
-      Guzzo, nel volume 42-43, 1995-96, si introdussero alcune importanti
-      innovazioni:</span></div><div align="JUSTIFY" lang="en-US" style="margin-bottom:
-      0.49cm; margin-top: 0.49cm;"> <span style="font-size:
-      x-small;">1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; un sistema
-      canonizzato di ordinamento della bibliografia per autori sulla quale si basava l’informazione
-      lessicografica;</span></div><div align="JUSTIFY" lang="en-US"
-      style="margin-bottom: 0.49cm; margin-top: 0.49cm;"> <span style="font-size:
-      x-small;">2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; l’ampliamento della
-      lessicografia al settore del cd. “luvio geroglifico” in forma di aggiornamento alla lista
-      lessicografica nel frattempo edita nel volume “Il geroglifico anatolico. Problemi di analisi e
-      prospettive di ricerca”, Roma&nbsp; 1990 (Biblioteca di Ricerche Linguistiche e Filologiche
-      24).</span></div><div align="JUSTIFY" lang="en-US" style="margin-top:
-      0.49cm;"><span style="font-size: x-small;">A cominciare dal 1999, con la definitiva
-      collocazione del progetto e dei suoi archivi presso il “Centro Mediterraneo Preclassico”
-      dell’Università degli Studî Suor Orsola Benincasa di Napoli e sulla base della collaborazione
-      in atto con l’Istituto di Würzburg, la “Bibliografia Anatolica” è divenuta parte del più grande
-      progetto del Portale di Mainz.</span></div><h2 class="western"
-      lang="en-US"><span style="font-size: x-small;">Geschichte des
-      Projektes</span></h2><div align="JUSTIFY" lang="en-US" style="margin-bottom:
-      0.49cm; margin-top: 0.49cm;"> <span style="font-size: x-small;">Im Jahre 1979 bildete
-      sich am damaligen Institut für Orientalische Philologie der Universität Würzburg (jetzt: Inst.
-      für Altertumswissenschaft, Lehrstuhl für Altorientalistik) eine Arbeitsgruppe, zu der auch
-      Massimiliano Marazzi gehörte, die zum Ziel hatte, alle bibliographischen Neuheiten auf dem
-      Gebiet der Hethitologie unter besonderer Berücksichtigung der Lexikographie
-      zusammenzustellen.</span></div><div align="JUSTIFY" lang="en-US"
-      style="margin-bottom: 0.49cm; margin-top: 0.49cm;"> <span style="font-size:
-      x-small;">Die erste Tranche der Arbeit wurde von M. Marazzi und N. Boysan 1985 in Band 32
-      des Archiv für Orientforschung veröffentlicht und umfaßte die lexikalischen Neuigkeiten der
-      Jahre 1979-1984.</span></div><div align="JUSTIFY" lang="en-US"
-      style="margin-bottom: 0.49cm; margin-top: 0.49cm;"> <span style="font-size:
-      x-small;">Eine zweite Aktualisierung, ebenfalls von M. Marazzi und N. Boysan, erschien im
-      Band 34 (1987) mit nach Autoren und nach Lexemen geordneten bibliographischen Angaben aus den
-      Jahren 1985-1987.</span></div><div align="JUSTIFY" lang="en-US"
-      style="margin-bottom: 0.49cm; margin-top: 0.49cm;"> <span style="font-size:
-      x-small;">Die folgende, von M. Marazzi und N. Bolatti Guzzo im Band 42-43 (1995-96)
-      herausgegebene dritte Aktualisierung führte eine Reihe von Neuerungen
-      ein:</span></div><div align="JUSTIFY" lang="en-US" style="margin-bottom: 0.49cm;
-      margin-top: 0.49cm;"> <span style="font-size:
-      x-small;">1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eine
-      Vereinheitlichung der Zitierweise von Autorenbibliographie und lexikalischer
-      Liste,</span></div><div align="JUSTIFY" lang="en-US" style="margin-bottom:
-      0.49cm; margin-top: 0.49cm;"> <span style="font-size:
-      x-small;">2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; die Erweiterung der
-      Lexikographie um den Bereich ‚Hieroglyphenluwisch‘ in Form der Aktualisierung der
-      zwischenzeitlich veröffentlichten lexikographischen Liste in ‚Il geroglifico anatolico.
-      Problemi di analisi e prospettive die ricerca‘, Rom 1990 (Biblioteca di Ricerche Linguistiche e
-      Filologiche 24).</span></div><div align="JUSTIFY" lang="en-US"
-      style="margin-top: 0.49cm;"><span style="font-size: x-small;">Seit 1999 mit der
-      definitiven Ansiedlung des Projektes und seiner Archive am Centro Mediterraneo Preclassico der
-      Università degli Studî Suor Orsola Benincasa in Neapel und auf der Basis der
-      Zusammenarbeitsvereinbarung mit dem Würzburger Insitut, wurde der Index Anatolicus zusammen mit
-      der Hethitischen Bibliographie Teil des größeren Projektes des Mainzer Hethitologie
-      Portals.</span></div></blockquote><div align="CENTER" class="western"
-      lang="en-US"><span style="color: #7da647;"><span style="font-family: Arial,
-      sans-serif;"><span style="font-size: medium;"><b><span style="font-size:
-      x-small;"><a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=A">A</a>- <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=E">E</a> - <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=H">H</a> - <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=I">I</a> - <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=K">K</a> - <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=L">L</a> - <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=M">M</a> - <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=N">N</a> - <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=P">P</a> - <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=R">R</a> - <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=S">S</a> - <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=T">T</a> - <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=U">U</a> - <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=W">W</a> - <a
-      href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=Z">Z</a></span>
-      </b></span></span></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Hittite"/>
+   <title type="text">Kritische Bibliographie der Lexikographie des Hethitischen </title>
+   <content type="html"><![CDATA[<a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/">Kritische Bibliographie der Lexikographie des Hethitischen  </a><br /><br /><span style="font-family: SemiramisUnicode; font-size: small;">M. Marazzi &amp; N. Bolatti Guzzo</span><span style="font-size: small;"> in Zusammenarbeit mit P. Dardano - R. Francia - M. Cammarosano - A. Rizza</span><br /><blockquote class="tr_bq"><span style="font-size: small;"><img alt="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php_html_mf03e1a1.gif" class="decoded" src="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php_html_mf03e1a1.gif" /> </span></blockquote><blockquote class="tr_bq"><h2 class="western" lang="en-US"><span style="font-size: x-small;">Sviluppo del progetto</span></h2><div align="JUSTIFY" lang="en-US" style="margin-bottom: 0.49cm; margin-top: 0.49cm;">    <span style="font-size: x-small;">Nel 1979 si venne a creare, presso l’allora     Institut für Orientalische Philologie dell’Università     di Würzburg (oggi Istituto di Scienze Antiche, Cattedra di     Orientalistica Antica), un gruppo di lavoro, del quale     Massimiliano Marazzi faceva parte, avente il fine di raccogliere     tutte le novità bibliografiche nel settore della     hittitologia, con particolare riguardo al settore della     lessicologia.</span></div><div align="JUSTIFY" lang="en-US" style="margin-bottom: 0.49cm; margin-top: 0.49cm;">    <span style="font-size: x-small;">La prima trancia di lavori fu pubblicata da M.     Marazzi e N. Boysan nel volume 32, 1985, dell’Archiv für     Orientforschung. Essa raccoglieva tutte le informazioni     lessicografiche relative agli anni 1979-1984.</span></div><div align="JUSTIFY" lang="en-US" style="margin-bottom: 0.49cm; margin-top: 0.49cm;">    <span style="font-size: x-small;">Un secondo aggiornamento fu pubblicato, sempre da M.     Marazzi e N. Boysan, nel volume 34, 1987, e raccoglieva tutti gli     aggiornamenti bibliografici ordinati per autore e per lessemi dal     1985 al 1987.</span></div><div align="JUSTIFY" lang="en-US" style="margin-bottom: 0.49cm; margin-top: 0.49cm;">    <span style="font-size: x-small;">Con la pubblicazione del terzo aggiornamento, curata     da M. Marazzi e N. Bolatti Guzzo, nel volume 42-43, 1995-96, si     introdussero alcune importanti innovazioni:</span></div><div align="JUSTIFY" lang="en-US" style="margin-bottom: 0.49cm; margin-top: 0.49cm;">    <span style="font-size: x-small;">1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; un sistema     canonizzato di ordinamento della bibliografia per autori sulla     quale si basava l’informazione lessicografica;</span></div><div align="JUSTIFY" lang="en-US" style="margin-bottom: 0.49cm; margin-top: 0.49cm;">    <span style="font-size: x-small;">2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; l’ampliamento     della lessicografia al settore del cd. “luvio geroglifico” in     forma di aggiornamento alla lista lessicografica nel frattempo     edita nel volume “Il geroglifico anatolico. Problemi di analisi     e prospettive di ricerca”, Roma&nbsp; 1990 (Biblioteca di     Ricerche Linguistiche e Filologiche 24).</span></div><div align="JUSTIFY" lang="en-US" style="margin-top: 0.49cm;"><span style="font-size: x-small;">A     cominciare dal 1999, con la definitiva collocazione del progetto     e dei suoi archivi presso il “Centro Mediterraneo Preclassico”     dell’Università degli Studî Suor Orsola Benincasa     di Napoli e sulla base della collaborazione in atto con     l’Istituto di Würzburg, la “Bibliografia Anatolica” è     divenuta parte del più grande progetto del Portale di     Mainz.</span></div><h2 class="western" lang="en-US"><span style="font-size: x-small;">Geschichte des Projektes</span></h2><div align="JUSTIFY" lang="en-US" style="margin-bottom: 0.49cm; margin-top: 0.49cm;">    <span style="font-size: x-small;">Im Jahre 1979 bildete sich am damaligen Institut für     Orientalische Philologie der Universität Würzburg     (jetzt: Inst. für Altertumswissenschaft, Lehrstuhl für     Altorientalistik) eine Arbeitsgruppe, zu der auch Massimiliano     Marazzi gehörte, die zum Ziel hatte, alle bibliographischen     Neuheiten auf dem Gebiet der Hethitologie unter besonderer     Berücksichtigung der Lexikographie zusammenzustellen.</span></div><div align="JUSTIFY" lang="en-US" style="margin-bottom: 0.49cm; margin-top: 0.49cm;">    <span style="font-size: x-small;">Die erste Tranche der Arbeit wurde von M. Marazzi     und N. Boysan 1985 in Band 32 des Archiv für Orientforschung     veröffentlicht und umfaßte die lexikalischen     Neuigkeiten der Jahre 1979-1984.</span></div><div align="JUSTIFY" lang="en-US" style="margin-bottom: 0.49cm; margin-top: 0.49cm;">    <span style="font-size: x-small;">Eine zweite Aktualisierung, ebenfalls  von M.     Marazzi und N. Boysan, erschien im Band 34 (1987) mit nach     Autoren und nach Lexemen geordneten bibliographischen Angaben aus     den Jahren 1985-1987.</span></div><div align="JUSTIFY" lang="en-US" style="margin-bottom: 0.49cm; margin-top: 0.49cm;">    <span style="font-size: x-small;">Die folgende, von M. Marazzi und N. Bolatti Guzzo im     Band 42-43 (1995-96) herausgegebene dritte Aktualisierung führte     eine Reihe von Neuerungen ein:</span></div><div align="JUSTIFY" lang="en-US" style="margin-bottom: 0.49cm; margin-top: 0.49cm;">    <span style="font-size: x-small;">1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eine     Vereinheitlichung der Zitierweise von Autorenbibliographie und     lexikalischer Liste,</span></div><div align="JUSTIFY" lang="en-US" style="margin-bottom: 0.49cm; margin-top: 0.49cm;">    <span style="font-size: x-small;">2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; die     Erweiterung der Lexikographie um den Bereich     ‚Hieroglyphenluwisch‘ in Form der Aktualisierung der     zwischenzeitlich veröffentlichten lexikographischen Liste in     ‚Il geroglifico anatolico. Problemi di analisi e prospettive     die ricerca‘, Rom 1990 (Biblioteca di Ricerche Linguistiche e     Filologiche 24).</span></div><div align="JUSTIFY" lang="en-US" style="margin-top: 0.49cm;"><span style="font-size: x-small;">Seit     1999 mit der definitiven Ansiedlung des Projektes und seiner     Archive am Centro Mediterraneo Preclassico der Università     degli Studî Suor Orsola Benincasa in Neapel und auf der     Basis der Zusammenarbeitsvereinbarung mit dem Würzburger     Insitut, wurde der Index Anatolicus zusammen mit der Hethitischen     Bibliographie Teil des größeren Projektes des Mainzer     Hethitologie Portals.</span></div></blockquote><div align="CENTER" class="western" lang="en-US"><span style="color: #7da647;"><span style="font-family: Arial, sans-serif;"><span style="font-size: medium;"><b><span style="font-size: x-small;"><a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=A">A</a>-  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=E">E</a> -  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=H">H</a> -  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=I">I</a> -  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=K">K</a> -  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=L">L</a> -  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=M">M</a> -  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=N">N</a> -  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=P">P</a> -  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=R">R</a> -  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=S">S</a> -  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=T">T</a> -  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=U">U</a> -  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=W">W</a> -  <a href="http://www.hethport.uni-wuerzburg.de/hetlexbibl/lexbibl.php?c=Z">Z</a></span> </b></span></span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/9066795648570386291/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/9066795648570386291/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/kritische-bibliographie-der.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/9066795648570386291"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/9066795648570386291"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/kritische-bibliographie-der.html"
          title="Kritische Bibliographie der Lexikographie des Hethitischen "/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

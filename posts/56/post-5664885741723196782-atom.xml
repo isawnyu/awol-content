@@ -1,56 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5664885741723196782</id>
-    <published>2014-07-15T12:49:00.002-04:00</published>
-    <updated>2014-07-15T12:49:20.271-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5664885741723196782</id>
+   <published>2014-07-15T12:49:00.002-04:00</published>
+   <updated>2014-07-15T12:49:20.271-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Syria"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Syria"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Les Annales Archeologiques Arabes Syriennes (AAAS)</title>
-    <content type="html"><![CDATA[The Syrian Ministry of Culture <a
-      href="http://www.dgam.gov.sy/index.php?d=314&amp;id=1326">announced today</a> the
-      appearance of a double issues (Volumes 53 and 54) of&nbsp; <a
-      href="http://www.worldcat.org/oclc/802351843">Les Annales Archeologiques Arabes Syriennes
-      (AAAS)</a>. They are at present unable to make it available online in open access as they
-      had been doing with recent volumes. The website they had been using as a platform for a variety
-      of open access publishing, <a href="http://studiaorontica.org/">Studia
-      Orontica</a>, is no longer functional, in great measure because of the death of the man
-      responsible for the site, <a href="http://en.wikipedia.org/wiki/Bassel_Shehadeh">Bassel
-      Shehadeh</a>, film-maker and activist in the Syrian uprising. He was <a
-      href="http://www.syr.edu/news/articles/2012/message-chancellor-05-29.html">killed in Homs on
-      May 28, 2012</a>.<br /><br />The original set of open access volumes of AAAS
-      are accessible at the Internet Archive's <a
-      href="http://ancientworldonline.blogspot.com/2012/02/open-access-journal-les-annales.html">Wayback
-      Machine</a>,&nbsp; as is much of the other content of the Studia Orontica
-      website.<br /><br /><br /><br />]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <title type="text">Les Annales Archeologiques Arabes Syriennes (AAAS)</title>
+   <content type="html"><![CDATA[The Syrian Ministry of Culture <a href="http://www.dgam.gov.sy/index.php?d=314&amp;id=1326">announced today</a> the appearance of a double issues (Volumes 53 and 54) of&nbsp; <a href="http://www.worldcat.org/oclc/802351843">Les Annales Archeologiques Arabes Syriennes (AAAS)</a>. They are at present unable to make it available online in open access as they had been doing with recent volumes. The website they had been using as a platform for a variety of open access publishing, <a href="http://studiaorontica.org/">Studia Orontica</a>, is no longer functional, in great measure because of the death of the man responsible for the site, <a href="http://en.wikipedia.org/wiki/Bassel_Shehadeh">Bassel Shehadeh</a>, film-maker and activist in the Syrian uprising. He was <a href="http://www.syr.edu/news/articles/2012/message-chancellor-05-29.html">killed in Homs on May 28, 2012</a>.<br /><br />The original set of open access volumes of AAAS are accessible at the Internet Archive's <a href="http://ancientworldonline.blogspot.com/2012/02/open-access-journal-les-annales.html">Wayback Machine</a>,&nbsp; as is much of the other content of the Studia Orontica website.<br /><br /><br /><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5664885741723196782/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5664885741723196782/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/07/les-annales-archeologiques-arabes.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5664885741723196782"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5664885741723196782"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/07/les-annales-archeologiques-arabes.html"
          title="Les Annales Archeologiques Arabes Syriennes (AAAS)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

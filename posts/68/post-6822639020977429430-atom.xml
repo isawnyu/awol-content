@@ -1,85 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6822639020977429430</id>
-    <published>2014-11-29T09:34:00.000-05:00</published>
-    <updated>2014-11-29T09:34:12.099-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6822639020977429430</id>
+   <published>2014-11-29T09:34:00.000-05:00</published>
+   <updated>2014-11-29T09:34:12.099-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Visualization"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
-    <title type="text">The Virtual Mummy: Unwrapping a Mummy by Mouse Click</title>
-    <content type="html"><![CDATA[<a href="http://www.voxel-man.com/gallery/virtual_mummy/">The Virtual
-      Mummy: Unwrapping a Mummy by Mouse Click</a><br /><blockquote
-      class="tr_bq"><img alt="http://www.voxel-man.com/gallery/virtual_mummy/icons/Mumie3.jpg"
-      class="decoded" src="http://www.voxel-man.com/gallery/virtual_mummy/icons/Mumie3.jpg" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The
-      computer has entered our everyday life and did not stop before the field of mummy research.
-      Computerization not only helps scientists in non-destructively examining mummies, but it also
-      makes it possible to create virtual mummies, a sample of which can be seen by the visitors of
-      the exhibition <a
-      href="http://www.voxel-man.com/gallery/virtual_mummy/exhibitions.html">The Secret of the
-      Mummies - Eternal Life at the Nile</a>, and by yourself on screen, with reduced
-      functionality. The object is a 2300-year-old mummy of a female, aged about 30
-      years.</span><br /><br /><span style="font-size: x-small;">Naturally,
-      the unwrapping by computer is not any longer the mysterious and thrilling experience a real
-      opening-up of a mummy used to be. But according to modern opinion, such a procedure wouldn't be
-      acceptable anyway, because the dignity of the deceased might be harmed.</span><br
-      /><br /> <span style="font-size: x-small;">The procedure originated from medical
-      research. The initial aim was to provide a highly accurate image of the interior body to
-      improve medical diagnostics, surgical planning, and education of medical
-      students.</span><br /><br /> <span style="font-size: x-small;">For more
-      than 12 years, a group of researchers led by Professor <a
-      href="http://www.voxel-man.de/hoehne/">Karl Heinz Höhne</a>, PhD, at the Institute of
-      Mathematics and Computer Science in Medicine (IMDM) has done research in the field of
-      anatomical 3D-reconstruction of the living human body. Procedures have improved over the years,
-      and thus, it is nowadays possible to produce computer-based body models (virtual bodies), which
-      can be examined in the way an anatomist or surgeon would do it. With the program named
-      VOXEL-MAN, operations can be simulated and planned in advance, and 3D-anatomical atlases can be
-      produced. In these fields, Höhne's group did pioneering work, like for example in 1987, when
-      the first brain of a living human being was reconstructed. Today, work concentrates on the new
-      field of computer-based <a href="http://www.voxel-man.com/simulator/tempo/">surgery
-      simulators</a>.</span></blockquote><div id="sidenav"> <blockquote
-      class="tr_bq"><ul><li><span style="font-size: x-small;"><a
-      href="http://www.voxel-man.com/gallery/virtual_mummy/">Virtual
-      Mummy</a></span></li><li class="active"><span style="font-size:
-      x-small;"><a
-      href="http://www.voxel-man.com/gallery/virtual_mummy/methods.html">Methods</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.voxel-man.com/gallery/virtual_mummy/views.html">Views</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.voxel-man.com/gallery/virtual_mummy/scenes.html">Scenes</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.voxel-man.com/gallery/virtual_mummy/exhibitions.html">Exhibitions</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.voxel-man.de/galerie/virtuelle_mumie/methoden.html">Deutsch</a></span></li></ul></blockquote></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Visualization"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
+   <title type="text">The Virtual Mummy: Unwrapping a Mummy by Mouse Click</title>
+   <content type="html"><![CDATA[<a href="http://www.voxel-man.com/gallery/virtual_mummy/">The Virtual Mummy: Unwrapping a Mummy by Mouse Click</a><br /><blockquote class="tr_bq"><img alt="http://www.voxel-man.com/gallery/virtual_mummy/icons/Mumie3.jpg" class="decoded" src="http://www.voxel-man.com/gallery/virtual_mummy/icons/Mumie3.jpg" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The computer has entered our everyday life and did not stop before the  field of mummy research. Computerization not only helps scientists in  non-destructively examining mummies, but it also makes it possible to  create virtual mummies, a sample of which can be seen by the visitors of  the exhibition <a href="http://www.voxel-man.com/gallery/virtual_mummy/exhibitions.html">The Secret of the Mummies - Eternal Life at the Nile</a>, and by yourself on screen, with reduced functionality. The object is a 2300-year-old mummy of a female, aged about 30 years.</span><br /><br /><span style="font-size: x-small;">Naturally, the unwrapping by computer is not any longer the  mysterious and thrilling experience a real opening-up of a mummy used to  be. But according to modern opinion, such a procedure wouldn't be  acceptable anyway, because the dignity of the deceased might be harmed.</span><br /><br />  <span style="font-size: x-small;">The procedure originated from medical research. The initial aim was  to provide a highly accurate image of the interior body to improve  medical diagnostics, surgical planning, and education of medical  students.</span><br /><br />  <span style="font-size: x-small;">For more than 12 years, a group of researchers led by Professor <a href="http://www.voxel-man.de/hoehne/">Karl Heinz Höhne</a>,  PhD, at the Institute of Mathematics and Computer Science in Medicine  (IMDM) has done research in the field of anatomical 3D-reconstruction of  the living human body. Procedures have improved over the years, and  thus, it is nowadays possible to produce computer-based body models  (virtual bodies), which can be examined in the way an anatomist or  surgeon would do it. With the program named VOXEL-MAN, operations can be  simulated and planned in advance, and 3D-anatomical atlases can be  produced. In these fields, Höhne's group did pioneering work, like for  example in 1987, when the first brain of a living human being was  reconstructed. Today, work concentrates on the new field of  computer-based <a href="http://www.voxel-man.com/simulator/tempo/">surgery simulators</a>.</span></blockquote><div id="sidenav">     <blockquote class="tr_bq"><ul><li><span style="font-size: x-small;"><a href="http://www.voxel-man.com/gallery/virtual_mummy/">Virtual Mummy</a></span></li><li class="active"><span style="font-size: x-small;"><a href="http://www.voxel-man.com/gallery/virtual_mummy/methods.html">Methods</a></span></li><li><span style="font-size: x-small;"><a href="http://www.voxel-man.com/gallery/virtual_mummy/views.html">Views</a></span></li><li><span style="font-size: x-small;"><a href="http://www.voxel-man.com/gallery/virtual_mummy/scenes.html">Scenes</a></span></li><li><span style="font-size: x-small;"><a href="http://www.voxel-man.com/gallery/virtual_mummy/exhibitions.html">Exhibitions</a></span></li><li><span style="font-size: x-small;"><a href="http://www.voxel-man.de/galerie/virtuelle_mumie/methoden.html">Deutsch</a></span></li></ul></blockquote></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6822639020977429430/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6822639020977429430/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/the-virtual-mummy-unwrapping-mummy-by.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6822639020977429430"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6822639020977429430"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/the-virtual-mummy-unwrapping-mummy-by.html"
          title="The Virtual Mummy: Unwrapping a Mummy by Mouse Click"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

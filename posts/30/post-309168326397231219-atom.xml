@@ -1,115 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-309168326397231219</id>
-    <published>2015-04-07T10:43:00.000-04:00</published>
-    <updated>2015-04-07T10:44:11.651-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-309168326397231219</id>
+   <published>2016-09-08T16:29:00.000-04:00</published>
+   <updated>2016-09-08T16:30:17.239-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Ancient"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Law"/>
-    <title type="text">Open Access Monograph Series: Collana della Rivista di Diritto Romano
-      Online</title>
-    <content type="html"><![CDATA[<a href="http://www.ledonline.it/ledonline/ebooks.html#rdr">Collana
-      della Rivista di Diritto Romano</a><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><span class="Stile1"><span
-      class="Stile1"></span></span></span><br /><div
-      align="center"><span style="font-size: x-small;"><span style="color:
-      #004000;"><br /> <span
-      class="Stile8">TESTI</span></span></span></div><span
-      style="font-size: x-small;"><a class="linkrossomenu"
-      href="http://www.ledonline.it/rivistadirittoromano/basilici.html" style="text-decoration:
-      none;" target="_blank">BASILICORUM LIBRI LX. Ristampa digitale dell'edizione di K.W.E.
-      Heimbach (Lipsia 1833)</a><br /> A cura di Michele Fino e Massimo Miglietta<br
-      /> <span class="linkazzurromenu"><br /> In corso di pubblicazione on line <br
-      /> Disponibile anche in versione a stampa in allegato a «Rivista di diritto
-      romano»</span></span><br /><hr color="#00000" noshade="noshade" size="1"
-      /><span style="font-size: x-small;"> <div align="center" class="Stile8"><span
-      style="color: #005300;">RACCOLTE</span></div><a class="linkrossomenu"
-      href="http://www.ledonline.it/rivistadirittoromano/attipontignano.html" style="text-decoration:
-      none;" target="_blank">ATTI DEL CONVEGNO «PROCESSO CIVILE E PROCESSO PENALE NELL’ESPERIENZA
-      GIURIDICA DEL MONDO ANTICO». In memoria di Arnaldo Biscardi – Siena, Certosa di Pontignano,
-      13-15 dicembre 2001 </a><br /> <br /> <a class="linkrossomenu"
-      href="http://www.ledonline.it/rivistadirittoromano/scrittiprovera.html" style="text-decoration:
-      none;" target="_blank">SCRITTI GIURIDICI DI GIUSEPPE PROVERA<br /> </a><span
-      class="linkazzurromenu">In corso di pubblicazione </span><hr color="#00000"
-      noshade="noshade" size="1" /> <div align="center" class="Stile10"><span
-      style="color: #005300;">SAGGI</span></div><span
-      class="linkrossomenu"><span class="linkrossomenu"><span style="color:
-      #408080;"><span style="color: black;">Pierfrancesco Arces <br /> <a
-      class="linkrossomenu" href="http://www.ledonline.it/rivistadirittoromano/arces-studi.html"
-      style="text-decoration: none;" target="_blank">STUDI SUL DISPORRE MORTIS CAUSA. Dall’età
-      decemvirale al diritto classico</a>
-      </span></span></span></span><br /><span
-      class="linkrossomenu"><span class="linkrossomenu"><span style="color:
-      #408080;"><span style="color: black;">Lucia Di Cintio <br /> <a
-      class="linkrossomenu"
-      href="http://www.ledonline.it/rivistadirittoromano/dicintio-interpretatio.html"
-      style="text-decoration: none;" target="_blank">L’«INTERPRETATIO VISIGOTHORUM» AL «CODEX
-      THEODOSIANUS». Il libro IX </a></span></span></span></span><br
-      /><span class="linkrossomenu"><span class="linkrossomenu"><span style="color:
-      #408080;"><span style="color: black;">
-      </span></span></span></span><span class="Stile1">Gianluca
-      Mainino</span><br /> <a class="linkrossomenu"
-      href="http://www.ledonline.it/rivistadirittoromano/mainino-studi.html" style="text-decoration:
-      none;" target="_blank">STUDI SUL CAPUT XXI DELLA LEX RUBRIA DE GALLIA CISALPINA </a>
-      Paola Ombretta Cuneo <br /> <a class="linkrossomenu"
-      href="http://www.ledonline.it/rivistadirittoromano/cuneo-anonymi.html" style="text-decoration:
-      none;" target="_blank">ANONYMI GRAECI ORATIO FUNEBRIS IN CONSTANTINUM II </a><br
-      /> Lauretta Maganzani <br /> <a class="linkrossomenu"
-      href="http://www.ledonline.it/rivistadirittoromano/maganzanidiligentia.html"
-      style="text-decoration: none;" target="_blank">LA «DILIGENTIA QUAM SUIS» DEL DEPOSITARIO DAL
-      DIRITTO ROMANO ALLE CODIFICAZIONI NAZIONALI. Casi e questioni di diritto civile nella
-      prospettiva storico-comparatistica</a><br /> <span class="Stile1">Filippo
-      Gallo </span><br /> <a class="linkrossomenu"
-      href="http://www.ledonline.it/rivistadirittoromano/gallointerpretazione.html"
-      style="text-decoration: none;" target="_blank">L’INTERPRETAZIONE DEL DIRITTO E’
-      “AFFABULAZIONE”?<br /> </a><br /> <span class="Stile1">Emanuele
-      Stolfi</span><br /> <a class="linkrossomenu"
-      href="http://www.ledonline.it/rivistadirittoromano/stolfi.html" style="text-decoration: none;"
-      target="_blank">STUDI SUI «LIBRI AD EDICTUM» DI POMPONIO. II. Contesti e
-      pensiero</a></span><span style="font-size:
-      x-small;">&nbsp;</span></blockquote><blockquote class="tr_bq"><br
-      /><span style="font-size: x-small;"></span></blockquote><div
-      style="text-align: center;"><br />See also <a class="GHUY-LPOB"
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939#editor/target=post;postID=5519294264223474694;onPublishedMenu=allposts;onClosedMenu=allposts;postNum=13;src=postname">Rivista
-      di Diritto Romano</a></div><div style="text-align: center;"><br
-      /></div><div style="text-align: center;">And see AWOL's list of <a
-      href="http://ancientworldonline.blogspot.com/2010/09/open-access-ancient-law-journals.html"><span
-      style="font-size: small;">Open Access Ancient Law Journals</span></a><br
-      /><br /><span style="font-size: small;"><span><span><span
-      style="font-weight: normal;"><span class="style3">And see AWOL's <a
-      href="http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html">Alphabetical
-      List of Open Access Monograph Series in Ancient
-      Studies</a></span></span></span></span>
-      </span></div><br /><br />]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Ancient"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Law"/>
+   <title type="text">Open Access Monograph Series: Collana della Rivista di Diritto Romano</title>
+   <content type="html"><![CDATA[<a href="http://www.ledonline.it/ledonline/ebooks.html#rdr">Collana della Rivista di Diritto Romano</a><br />ISSN: <span style="font-family: inherit;"><span class="linkneromenu"><span class="linkrossomenu"><span class="Stile1"><span style="color: #004000;"><span class="linkblumenu Stile12"><span class="linkblumenu "><span style="color: black;"><span class="Stile11">2499-6491</span></span></span></span></span></span></span></span></span><br /><blockquote class="tr_bq"><span style="font-family: inherit;"><span class="linkneromenu"><span class="linkrossomenu"><span class="Stile1"><span style="color: #004000;"><span class="linkblumenu Stile12"><span class="linkblumenu "><span style="color: black;"><span class="Stile11"><img alt="Led On Line" height="117" id="menu_led_r1_c1" name="menu_led_r1_c1" src="http://www.ledonline.it/css-frame/immaginimenu/menu_led_r1_c1.gif" style="border: medium none;" width="158" />&nbsp;</span></span></span></span></span></span></span></span></span> </blockquote><blockquote class="tr_bq"><b><table border="2" cellpadding="3" style="width: 100%px;"><tbody><tr><td class="Stile9"><div align="center"><span style="color: #004000; font-size: x-small;"><b><span class="Stile8">TESTI</span></b></span></div><span style="font-size: x-small;"><b><a class="linkrossomenu" href="http://www.ledonline.it/rivistadirittoromano/basilici.html" style="text-decoration: none;" target="_blank">BASILICORUM      LIBRI LX.  Ristampa digitale dell'edizione di K.W.E. Heimbach      (Lipsia 1833)</a><br />      A cura di Michele Fino e Massimo Miglietta<br />    <span class="linkazzurromenu"><br /> In corso di pubblicazione on line <br />      Disponibile anche in versione a stampa in allegato a «Rivista di diritto      romano»</span></b></span><br /><hr color="#00000" noshade="noshade" size="1" />    <div align="center" class="Stile8"><span style="color: #005300; font-size: x-small;"><b>RACCOLTE</b></span></div><span style="font-size: x-small;"><b><a class="linkrossomenu" href="http://www.ledonline.it/rivistadirittoromano/attipontignano.html" style="text-decoration: none;" target="_blank">ATTI      DEL CONVEGNO      «PROCESSO CIVILE E PROCESSO PENALE NELL’ESPERIENZA      GIURIDICA DEL MONDO ANTICO».       In memoria di Arnaldo      Biscardi – Siena, Certosa di Pontignano, 13-15 dicembre 2001 </a><br />  </b></span><br />   <span style="font-size: x-small;"><b><a class="linkrossomenu" href="http://www.ledonline.it/rivistadirittoromano/scrittiprovera.html" style="text-decoration: none;" target="_blank">SCRITTI      GIURIDICI DI GIUSEPPE PROVERA<br /> </a><span class="linkazzurromenu">In        corso di pubblicazione </span></b></span><hr color="#00000" noshade="noshade" size="1" />    <div align="center" class="Stile10"><span style="color: #005300; font-size: x-small;">SAGGI</span></div><span style="font-size: x-small;"><img alt="nEW" border="0" src="http://www.ledonline.it/immagini/NEW2.gif" /></span>  <span style="font-size: x-small;"><b><span class="linkrossomenu"><span class="linkrossomenu"><span style="color: #408080;"><b><span style="color: black;"><b><b><b>Raffaella Siracusa<br />      <a class="linkrossomenu" href="http://www.ledonline.it/rivistadirittoromano/789-nozione-universitas-diritto-romano.html" style="text-decoration: none;" target="_blank">LA NOZIONE DI «UNIVERSITAS» IN DIRITTO ROMANO</a></b></b></b></span></b></span></span></span></b></span>  <span style="font-size: x-small;"><b><span style="color: black;">P</span><span class="linkrossomenu"><span class="linkrossomenu"><span style="color: #408080;"><b><span style="color: black;"><b><b><b>ierfrancesco Arces<br />        <a class="linkrossomenu" href="http://www.ledonline.it/rivistadirittoromano/arces-studi.html" style="text-decoration: none;" target="_blank">STUDI SUL DISPORRE MORTIS CAUSA.        Dall’età decemvirale al diritto classico</a></b>  </b></b></span></b></span></span></span></b></span>    <span style="font-size: x-small;"><b><span class="linkrossomenu"><span class="linkrossomenu"><span style="color: #408080;"><b><span style="color: black;"><b><b>  </b></b></span></b></span></span></span></b></span><br /><span class="linkrossomenu" style="font-size: x-small;"><span class="linkrossomenu"><span style="color: #408080;"><b><span style="color: black;"><b><b><b>Lucia Di Cintio<br />        <a class="linkrossomenu" href="http://www.ledonline.it/rivistadirittoromano/dicintio-interpretatio.html" style="text-decoration: none;" target="_blank">L’«INTERPRETATIO VISIGOTHORUM» AL «CODEX THEODOSIANUS».        Il libro IX </a></b></b></b></span></b></span></span></span><br /><span class="linkrossomenu" style="font-size: x-small;"><span class="linkrossomenu"><span style="color: #408080;"><span style="color: black;"><b><b>	  </b></b></span></span></span></span><span style="font-size: x-small;"><b><span class="Stile1">Gianluca Mainino</span><br />      <a class="linkrossomenu" href="http://www.ledonline.it/rivistadirittoromano/mainino-studi.html" style="text-decoration: none;" target="_blank">STUDI SUL CAPUT XXI DELLA LEX RUBRIA DE GALLIA CISALPINA    </a></b></span>  <span style="font-size: x-small;"><b>    Paola Ombretta Cuneo <br />      <a class="linkrossomenu" href="http://www.ledonline.it/rivistadirittoromano/cuneo-anonymi.html" style="text-decoration: none;" target="_blank">ANONYMI GRAECI ORATIO FUNEBRIS IN CONSTANTINUM II      </a></b></span><br />   <span style="font-size: x-small;"><b>Lauretta      Maganzani <br />    <a class="linkrossomenu" href="http://www.ledonline.it/rivistadirittoromano/maganzanidiligentia.html" style="text-decoration: none;" target="_blank">LA        «DILIGENTIA QUAM SUIS» DEL DEPOSITARIO DAL DIRITTO ROMANO ALLE CODIFICAZIONI        NAZIONALI.        Casi e questioni di diritto civile nella prospettiva storico-comparatistica</a></b></span><br />   <span style="font-size: x-small;"><b><span class="Stile1">Filippo          Gallo </span><br />        <a class="linkrossomenu" href="http://www.ledonline.it/rivistadirittoromano/gallointerpretazione.html" style="text-decoration: none;" target="_blank">L’INTERPRETAZIONE            DEL DIRITTO E’ “AFFABULAZIONE”?<br />        </a></b></span>          <span style="font-size: x-small;"><b><span class="Stile1">Emanuele              Stolfi</span><br />              <a class="linkrossomenu" href="http://www.ledonline.it/rivistadirittoromano/stolfi.html" style="text-decoration: none;" target="_blank">STUDI    SUI «LIBRI AD EDICTUM» DI POMPONIO.  II. Contesti e pensiero</a></b></span></td>  </tr></tbody></table></b> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"></span></blockquote><div style="text-align: center;">See also <a class="GHUY-LPOB" href="http://draft.blogger.com/blogger.g?blogID=116259103207720939#editor/target=post;postID=5519294264223474694;onPublishedMenu=allposts;onClosedMenu=allposts;postNum=13;src=postname">Rivista di Diritto Romano</a></div><div style="text-align: center;"><br /></div><div style="text-align: center;">And see AWOL's list of <a href="http://ancientworldonline.blogspot.com/2010/09/open-access-ancient-law-journals.html"><span style="font-size: small;">Open Access Ancient Law Journals</span></a><br /><br /><span style="font-size: small;"><span style="font-weight: normal;"><span class="style3">And see AWOL's <a href="http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html">Alphabetical List of Open Access Monograph Series in Ancient Studies</a></span></span> </span></div><br /><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/309168326397231219/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/309168326397231219/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/09/monographs-collana-della-rivista-di.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/309168326397231219"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/309168326397231219"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/09/monographs-collana-della-rivista-di.html"
-         title="Open Access Monograph Series: Collana della Rivista di Diritto Romano Online"/>
-    <author>
+         title="Open Access Monograph Series: Collana della Rivista di Diritto Romano"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

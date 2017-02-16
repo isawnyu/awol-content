@@ -1,65 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-989966030884690843</id>
-    <published>2014-11-26T23:00:00.000-05:00</published>
-    <updated>2014-11-26T23:00:13.212-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-989966030884690843</id>
+   <published>2014-11-26T23:00:00.000-05:00</published>
+   <updated>2014-11-26T23:00:13.212-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Roman"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Pompeii: The First Navigation Map</title>
-    <content type="html"><![CDATA[<a href="http://digitalhumanities.umass.edu/pbmp/?p=1290" rel="bookmark"
-      title="Permalink to Pompeii: The First Navigation Map">Pompeii: The First Navigation
-      Map</a><br /><div class="entry-meta"> <span class="on-date">Posted on
-      <a href="http://digitalhumanities.umass.edu/pbmp/?p=1290" rel="bookmark" title="3:17
-      am"><time class="entry-date" datetime="2014-11-24T03:17:16+00:00">November 24,
-      2014</time></a></span><span class="by-author"> by <span
-      class="author vcard"><a class="url fn n"
-      href="http://digitalhumanities.umass.edu/pbmp/?author=1" rel="author" title="View all posts by
-      Eric Poehler">Eric Poehler</a></span></span></div><blockquote
-      class="tr_bq"><div class="entry-meta"><span class="by-author"><span
-      class="author vcard"><img
-      alt="http://digitalhumanities.umass.edu/pbmp/wp-content/uploads/2014/11/Slider2-e1416753144757.jpg"
-      class="decoded" height="94"
-      src="http://digitalhumanities.umass.edu/pbmp/wp-content/uploads/2014/11/Slider2-e1416753144757.jpg"
-      width="200" />&nbsp;</span></span>
-      </div></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">The PBMP’s first full map for navigation is now online. You can start to explore
-      Pompeii in the map embedded below, or go to the full site for more space&nbsp;and options.
-      If you want to customize the map or make a presentation from it, sign in to / sign up for your
-      ArcGIS Online account and save a copy to your own webspace. The link is at the upper right of
-      the embedded map page. [Coming: Click here if you want to download the files as a map package
-      (with minor improvements from online version) ].&nbsp;Below the map is additional
-      information about the files, the information they contain, and their
-      display.</span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Roman"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
+   <title type="text">Pompeii: The First Navigation Map</title>
+   <content type="html"><![CDATA[<a href="http://digitalhumanities.umass.edu/pbmp/?p=1290" rel="bookmark" title="Permalink to Pompeii: The First Navigation Map">Pompeii: The First Navigation Map</a><br /><div class="entry-meta">                    <span class="on-date">Posted on <a href="http://digitalhumanities.umass.edu/pbmp/?p=1290" rel="bookmark" title="3:17 am"><time class="entry-date" datetime="2014-11-24T03:17:16+00:00">November 24, 2014</time></a></span><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://digitalhumanities.umass.edu/pbmp/?author=1" rel="author" title="View all posts by Eric Poehler">Eric Poehler</a></span></span></div><blockquote class="tr_bq"><div class="entry-meta"><span class="by-author"><span class="author vcard"><img alt="http://digitalhumanities.umass.edu/pbmp/wp-content/uploads/2014/11/Slider2-e1416753144757.jpg" class="decoded" height="94" src="http://digitalhumanities.umass.edu/pbmp/wp-content/uploads/2014/11/Slider2-e1416753144757.jpg" width="200" />&nbsp;</span></span>                </div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The PBMP’s first full map for navigation is now  online. You can start to explore Pompeii in the map embedded below, or  go to the full site for more space&nbsp;and options. If you want to customize  the map or make a presentation from it, sign in to / sign up for your  ArcGIS Online account and save a copy to your own webspace. The link is  at the upper right of the embedded map page. [Coming: Click here if you  want to download the files as a map package (with minor improvements  from online version) ].&nbsp;Below the map is additional information about  the files, the information they contain, and their display.</span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/989966030884690843/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/989966030884690843/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/pompeii-first-navigation-map.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/989966030884690843"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/989966030884690843"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/pompeii-first-navigation-map.html"
          title="Pompeii: The First Navigation Map"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

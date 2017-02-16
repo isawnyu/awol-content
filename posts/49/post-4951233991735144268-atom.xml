@@ -1,131 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268</id>
-    <published>2010-08-10T11:59:00.000-04:00</published>
-    <updated>2014-09-22T11:53:51.449-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268</id>
+   <published>2016-09-09T14:23:00.000-04:00</published>
+   <updated>2016-09-09T14:23:59.991-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Balkan"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Balkan"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Croatia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Croatian Open Access Archaeology Journals</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[<span style="font-size:
-      xx-small;">F</span>irst posted on AWOL on 1/22/09, updated 10 April
-      2014]</span><br /><span style="font-size: xx-small;">&nbsp;</span>
-      <br /><a href="http://hrcak.srce.hr/">Hrcak: Portal of scientific journals of
-      Croatia&nbsp;</a><span style="font-size: xx-small;"></span><br
-      /><br /><blockquote><span style="font-size: x-small;"><a
-      href="http://hrcak.srce.hr/acta-turistica-nova">Acta Turistica Nova</a> <span
-      class="meta">ISSN:1846-4394 </span><br /><br /><a
-      href="http://hrcak.srce.hr/anali-dubrovnik">Anali Zavoda za povijesne znanosti Hrvatske
-      akademije znanosti i umjetnosti u Dubrovniku</a> <span class="meta">ISSN:1330-0598
-      </span><br /><br /><a href="http://hrcak.srce.hr/aia">Annales Instituti
-      Archaeologici</a> <span class="meta">ISSN:1845-4046 </span><br /><br
-      /><a href="http://hrcak.srce.hr/adriatica">Archaeologica Adriatica</a> <span
-      class="meta">ISSN:1846-4807 </span><br /><br /><a
-      href="http://hrcak.srce.hr/asseria">Asseria</a> <span
-      class="meta">ISSN:1334-2479 </span><br /><br /><a
-      href="http://hrcak.srce.hr/bp">Biblical Perspectives</a> <span
-      class="meta">ISSN:1330-1497 </span><br /><br /><a
-      href="http://hrcak.srce.hr/klesarstvo-i-graditeljstvo">Building and Stone-masonry</a>
-      <span class="meta">ISSN:0353-7897 </span><br /><br /><a
-      href="http://hrcak.srce.hr/paleodontology">Bulletin of the International Association for
-      Paleodontology</a> <span class="meta">e-ISSN:1846-6273</span><br
-      /><br /><a href="http://hrcak.srce.hr/prilozi-iaz">Contributions of Institute of
-      Archaeology in Zagreb</a> <span class="meta">ISSN:1330-0644 </span><br
-      /><br /><a href="http://hrcak.srce.hr/cris">Cris: Journal of the Historical
-      Society of Križevci</a> <span class="meta">ISSN:1332-2567 </span><br
-      /><br /><a href="http://hrcak.srce.hr/dubrovnik-annals">Dubrovnik
-      Annals</a> <span class="meta">ISSN:1331-3878</span>
-      </span></blockquote><span style="font-size:
-      x-small;"></span><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><a href="http://hrcak.srce.hr/povijesni-prilozi">Historical
-      Contributions</a> <span class="meta">ISSN:0351-9767 </span><br /><br
-      /><a href="http://hrcak.srce.hr/histria-antiqua">Histria antiqua</a> <span
-      class="meta">ISSN:1331-4270 </span><br /><br /><a
-      href="http://hrcak.srce.hr/histriaarchaeologica">Histria archaeologica</a> <span
-      class="meta">ISSN:0350-6320 </span><br /><br /><a
-      href="http://hrcak.srce.hr/histria">HISTRIA The Istrian Historical Society Review</a>
-      <span class="meta">ISSN:1848-1183 </span><br /><br /><a
-      href="http://hrcak.srce.hr/holon">Holon</a> <span
-      class="meta">e-ISSN:1848-3518</span><br /><br /><a
-      href="http://hrcak.srce.hr/indecs">Interdisciplinary Description of Complex
-      Systems</a> <span class="meta">ISSN:1334-4676 </span><span
-      class="meta">e-ISSN:1334-4676</span><br /><br /><a
-      href="http://hrcak.srce.hr/radovi-zhp">Journal - Institute of Croatian History</a>
-      <span class="meta">ISSN:0353-295X </span><br /><br /><a
-      href="http://hrcak.srce.hr/vapd">Journal of Dalmatian archaeology and history</a>
-      <span class="meta">ISSN:1845-7789 </span><br /><br /><a
-      href="http://hrcak.srce.hr/vjesnik-amz">Journal of the Zagreb Archaeological
-      Museum</a> <span class="meta">ISSN:0350-7165
-      </span></span></blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><a href="http://hrcak.srce.hr/latinaetgraeca">Latina et
-      Graeca</a> ISSN: 0350-414X </span></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;"><a
-      href="http://hrcak.srce.hr/mcpr">Media, Culture and Public Relations</a> <span
-      class="meta">ISSN:1333-6371 </span><br /><br /><a
-      href="http://hrcak.srce.hr/opuscula">Opuscula Archaeologica Papers of the Department of
-      Archaeology</a> <span class="meta">ISSN:0473-0992 </span><br /><br
-      /><a href="http://hrcak.srce.hr/podravina">Podravina: scientific multidisciplinary
-      research journal</a> <span class="meta">ISSN:1333-5286 </span><br
-      /><br /><a href="http://hrcak.srce.hr/portal">Portal, the Yearbook of the
-      Croatian Conservation Institute</a> <br /><br /><a
-      href="http://hrcak.srce.hr/povijesni-zbornik">Povijesni zbornik: godišnjak za kulturu i
-      povijesno nasljeđe</a> <span class="meta">ISSN:1846-3819 </span><br
-      /><br /><a
-      href="http://hrcak.srce.hr/radovi-zavoda-za-povijesne-znanosti-hazu-zadar">Radovi /
-      Institute for Historical Sciences of the Croatian Academy of Sciences and Arts in
-      Zadar</a> <span class="meta">ISSN:1330-0474 </span><br /><br
-      /><a href="http://hrcak.srce.hr/starohrvatska-prosvjeta">Starohrvatska
-      prosvjeta</a> <span class="meta">ISSN:0351-4536 </span><br /><br
-      /><a href="http://hrcak.srce.hr/muzejskivjesnik">The Museum Courier. Organ of the
-      Museums of Northwestern Croatia</a> <span class="meta">ISSN:0350-9370
-      </span><br /><br /><a
-      href="http://hrcak.srce.hr/godisnjak-zastite-spomenika-kulture-hrvatske">The Preservation of
-      Cultural Heritage in Croatia</a> <span class="meta">ISSN:0350-2589
-      </span><br /><br /><a href="http://hrcak.srce.hr/senjski-zbornik">The
-      Review of Senj</a> <span class="meta">ISSN:0582-673X </span><br
-      /><br /><a href="http://hrcak.srce.hr/godisnjakgmv">The Yearbook of the Varaždin
-      City Museum</a> <span class="meta">ISSN:0351-7926 </span> </span><br
-      /><table
-      border="0"><tbody></tbody></table></blockquote><table
-      border="0"><tbody> </tbody></table><br />All told, the <a
-      href="http://hrcak.srce.hr/">Hrčak</a> portal serves:<br /><ul
-      class="list-stat"><li>Journals: 356</li><li>Published issues:
-      8.950</li><li>Published articles: 113.015</li><li>Published articles
-      with full text: 107.248</li></ul><div style="text-align: center;"><div
-      style="text-align: center;"><span style="font-size: 85%;"></span>See the full
-      <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a> </div></div><br /><br
-      /><div style="text-align: center;">]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Croatia"/>
+   <title type="text">Croatian Open Access Archaeology Journals</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[<span style="font-size: xx-small;">F</span>irst posted on AWOL on 1/22/09, updated 9 September 2016]</span><br /><span style="font-size: xx-small;">&nbsp;</span> <br /><a href="http://hrcak.srce.hr/">Hrcak: Portal of scientific journals of Croatia </a><br /><blockquote class="tr_bq">  <span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/acta-turistica-nova">Acta turistica nova</a></strong>  <span class="meta">ISSN 1846-4394 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: inactive<br />published issues in Hrčak: 11 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/jankovic">Zbornik Janković</a></strong>  <span class="meta">ISSN 1849-6873 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 1 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/anali-dubrovnik">Anali Zavoda za povijesne znanosti Hrvatske akademije znanosti i umjetnosti u Dubrovniku</a></strong>  <span class="meta">ISSN 1330-0598 (Print)</span>,<span class="meta">ISSN 1848-7815 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 22 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/aia">Annales Instituti Archaeologici</a></strong>  <span class="meta">ISSN 1845-4046 (Print)</span>,<span class="meta">ISSN 1848-6363 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 11 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/adriatica">Archaeologia Adriatica</a></strong>  <span class="meta">ISSN 1846-4807 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 8 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/asseria">Asseria</a></strong>  <span class="meta">ISSN 1334-2479 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: inactive<br />published issues in Hrčak: 10 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/atti">Atti</a></strong>  <span class="meta">ISSN 0392-9493 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 3 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/bp">Biblical Perspectives</a></strong>  <span class="meta">ISSN 1330-1497 (Print)</span>,<span class="meta">ISSN 1849-0832 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 23 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/klesarstvo-i-graditeljstvo">Building and Stone-masonry</a></strong>  <span class="meta">ISSN 0353-7897 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 10 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/paleodontology">Bulletin of the International association for paleodontology</a></strong>  <span class="meta">ISSN 1846-6273 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 19 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/prilozi-iaz">Contributions of Institute of Archaeology in Zagreb</a></strong>  <span class="meta">ISSN 1330-0644 (Print)</span>,<span class="meta">ISSN 1848-6371 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 27 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/ppud">Contributions to the History of Art in Dalmatia</a></strong>  <span class="meta">ISSN 0555-1145 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 40 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/ppoh">Contributions to the History of Hvar Island</a></strong>  <span class="meta">ISSN 0353-0957 (Print)</span>,<span class="meta">ISSN 1849-5354 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 13 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/cris">Cris : journal of the Historical Society of Križevci</a></strong>  <span class="meta">ISSN 1332-2567 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 17 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/diadora">Diadora : journal of the Archaeological Museum in Zadar</a></strong>  <span class="meta">ISSN 0417-4046 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 2 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/dubrovnik-annals">Dubrovnik annals</a></strong>  <span class="meta">ISSN 1331-3878 (Print)</span>,<span class="meta">ISSN 1848-8153 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 19 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/hercegovina">Hercegovina : Časopis za kulturno i povijesno naslijeđe</a></strong>  <span class="meta">ISSN 0351-4552 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 1 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/povijesni-prilozi">Historical contributions&nbsp;= Historische Beiträge</a></strong>  <span class="meta">ISSN 0351-9767 (Print)</span>,<span class="meta">ISSN 1848-9087 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 46 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/histria-antiqua">Histria antiqua</a></strong>  <span class="meta">ISSN 1331-4270 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: inactive<br />published issues in Hrčak: 3 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/histriaarchaeologica">Histria archaeologica : Časopis Arheološkog muzeja Istre</a></strong>  <span class="meta">ISSN 0350-6320 (Print)</span>,<span class="meta">ISSN 1848-932X (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 10 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/histria">Histria : rivista della  Societ? Storica Istriana = Histria : časopis Istrskega zgodovinskega  društva = Histria : the Istrian Historical Society review</a></strong>  <span class="meta">ISSN 1848-1183 (Print)</span>,<span class="meta">ISSN 1849-5699 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 4 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/holon">Holon : postdisciplinary scientific-professional journal</a></strong>  <span class="meta">ISSN 1848-3518 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 8 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/indecs">Interdisciplinary Description of Complex Systems : INDECS</a></strong>  <span class="meta">ISSN 1334-4684 (Print)</span>,<span class="meta">ISSN 1334-4676 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 35 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/radovi-zhp">Journal of the Institute of Croatian History</a></strong>  <span class="meta">ISSN 0353-295X (Print)</span>,<span class="meta">ISSN 1849-0344 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 45 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/vapd">Journal of Dalmatian archaeology and history</a></strong>  <span class="meta">ISSN 1845-7789 (sv 98-106 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 11 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/zbornik-ffst">Journal of Faculty of Humanities and Social Sciences in Split</a></strong>  <span class="meta">ISSN 1846-9426 (Print)</span>,<span class="meta">ISSN 2459-5128 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 5 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/vjesnik-amz">Journal of the Archaeological Museum in Zagreb</a></strong>  <span class="meta">ISSN 0350-7165 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 74 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/kaj">KAJ : Literature, Art and Culture Periodical</a></strong>  <span class="meta">ISSN 0453-1116 (Print)</span>,<span class="meta">ISSN 1848-7920 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 26 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/latinaetgraeca">Latina et Graeca</a></strong>  <span class="meta">ISSN 0350-414X (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 7 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/mcpr">Media, culture and public relations</a></strong>  <span class="meta">ISSN 1333-6371 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 9 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/mhm">Miscellanea Hadriatica et Mediterranea</a></strong>  <span class="meta">ISSN 1849-0670 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: inactive<br />published issues in Hrčak: 1 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/mostariensia">Mostariensia : journal of social sciences and humanities</a></strong>  <span class="meta">ISSN 1023-8638 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 3 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/numizmatickevijesti">Numizmatičke Vijesti</a></strong>  <span class="meta">ISSN 0546-9422 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 1 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/opuscula">Opuscula Archaeologica : Papers of the Department of Archaeology</a></strong>  <span class="meta">ISSN 0473-0992 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 35 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/peristil">Peristil : zbornik radova za povijest umjetnosti</a></strong>  <span class="meta">ISSN 0553-6707 (Print)</span>,<span class="meta">ISSN 1849-6547 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 26 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/podravina">Podravina : scientific multidisciplinary research journal</a></strong>  <span class="meta">ISSN 1333-5286 (Print)</span>,<span class="meta">ISSN 1848-8854 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 28 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/portal">Portal, the Yearbook of the Croatian Conservation Institute</a></strong>  <span class="meta">ISSN 1847-9464 (Print)</span>,<span class="meta">ISSN 1848-6681 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 6 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/povijesni-zbornik">Povijesni zbornik : godišnjak za kulturu i povijesno naslijeđe</a></strong>  <span class="meta">ISSN 1846-3819 (Print)</span>,<span class="meta">ISSN 1849-0956 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: inactive<br />published issues in Hrčak: 4 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/radovi-zavoda-za-povijesne-znanosti-hazu-zadar">Radovi/Institute  for Historical Sciences of the Croatian Academy of Sciences and Arts in  Zadar : Institute for Historical Sciences of the Croatian Academy of  Sciences and Arts in Zadar</a></strong>  <span class="meta">ISSN 1330-0474 (Print)</span>,<span class="meta">ISSN 1848-8943 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 18 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/starohrvatska-prosvjeta">Starohrvatska prosvjeta</a></strong>  <span class="meta">ISSN 0351-4536 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: inactive<br />published issues in Hrčak: 51 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/muzejskivjesnik">The Museum Courier</a></strong>  <span class="meta">ISSN 0350-9370 (Print)</span>,<span class="meta">ISSN 1849-1774 (Online)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: stopped issuing<br />published issues in Hrčak: 14 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/senjski-zbornik">Senjer Jahrbuch :  Beiträge zur Geographie, Ethnologie, Ökonomik, Geschichte und Kultur =  The anthology of Senj : contributions to geography, ethnology, economy,  history and culture</a></strong>  <span class="meta">ISSN 0582-673X (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 34 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/godisnjakgmv">The Yearbook of the Varaždin City Museum</a></strong>  <span class="meta">ISSN 0351-7926 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 4 </span></div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><strong><a href="http://hrcak.srce.hr/vinodolski-zbornik">Vinodolski  zbornik : godišnjak za gospodarstvo-turizam, povijesnu i kulturnu  baštinu, ekologiju i promicanje ljudskog stvaralaštva</a></strong>  <span class="meta">ISSN 0351-5516 (Print)</span></span><div class="uvuceno"><span style="font-size: x-small;">status: active<br />published issues in Hrčak: 1 </span></div></blockquote><table border="0"><tbody> </tbody></table>All told, the <a href="http://hrcak.srce.hr/">Hrčak</a> portal serves:<br /><ul class="list-stat"><li><span style="font-size: x-small;">Journals: 420</span></li><li><span style="font-size: x-small;">Published issues: 12.248</span></li><li><span style="font-size: x-small;">Published articles: 156.384</span></li><li><span style="font-size: x-small;">Published articles with full text: 150.822</span></li></ul><div style="text-align: center;"><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: small;"><span>S</span><span><span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></div></div></div><br /><br /><div style="text-align: center;"></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4951233991735144268/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4951233991735144268/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/08/croatian-open-access-archaeology.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4951233991735144268"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4951233991735144268"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/08/croatian-open-access-archaeology.html"
          title="Croatian Open Access Archaeology Journals"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

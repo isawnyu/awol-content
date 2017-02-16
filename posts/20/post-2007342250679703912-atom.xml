@@ -1,87 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2007342250679703912</id>
-    <published>2009-09-01T10:21:00.000-04:00</published>
-    <updated>2009-09-01T10:27:17.173-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2007342250679703912</id>
+   <published>2009-09-01T10:21:00.000-04:00</published>
+   <updated>2009-09-01T10:27:17.173-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
-    <title type="text">Open Access Bibliography: Balkan Prehistory</title>
-    <content type="html"><![CDATA[<a href="http://www.iianthropology.org/biblref.html">Balkan Prehistory
-      in Eurasian Context: Bibliography</a><br />by Lolita Nikolova<br /><br
-      /><!--$end exclude$--> <span style="font-size:85%;"><span
-      class="text"><span style="font-size: 12px; line-height: 15px;">[Bulgarian Cyrillic
-      Alphabet]<br />А-B-V-G </span><a
-      href="http://www.iianthropology.org/biblrefDZ.html"><span style="font-size: 12px;
-      line-height: 15px;">D-E-Zh-Z</span></a><span style="font-size: 12px;
-      line-height: 15px;"> </span><a
-      href="http://www.iianthropology.org/biblrefIL.html"><span style="font-size: 12px;
-      line-height: 15px;">I-J-K-L</span></a><span style="font-size: 12px;
-      line-height: 15px;"> </span><a
-      href="http://www.iianthropology.org/biblrefMP.html"><span style="font-size: 12px;
-      line-height: 15px;">M-N-O-P</span></a><span style="font-size: 12px;
-      line-height: 15px;"> </span><a
-      href="http://www.iianthropology.org/biblrefRU.html"><span style="font-size: 12px;
-      line-height: 15px;">R-S-T-U</span></a><span style="font-size: 12px;
-      line-height: 15px;"> </span><a
-      href="http://www.iianthropology.org/biblrefFCh.html"><span style="font-size: 12px;
-      line-height: 15px;">F-H-Ts-Ch </span></a><span style="font-size: 12px;
-      line-height: 15px;"> Sh-Sht-Yu-Ya<br /><br />[English Alphabet]<br
-      /></span><a href="http://www.iianthropology.org/biblrefAC.html"><span
-      style="font-size: 12px; line-height: 15px;">A-B-C</span></a><span
-      style="font-size: 12px; line-height: 15px;"> </span><a
-      href="http://www.iianthropology.org/biblrefDF.html"><span style="font-size: 12px;
-      line-height: 15px;">D-E-F</span></a><span style="font-size: 12px;
-      line-height: 15px;"> </span><a
-      href="http://www.iianthropology.org/biblrefGI.html"><span style="font-size: 12px;
-      line-height: 15px;">G-H-I</span></a><span style="font-size: 12px;
-      line-height: 15px;"> </span><a
-      href="http://www.iianthropology.org/biblrefJL.html"><span style="font-size: 12px;
-      line-height: 15px;">J-K-L</span></a><span style="font-size: 12px;
-      line-height: 15px;"> </span><a
-      href="http://www.iianthropology.org/biblrefMO.html"><span style="font-size: 12px;
-      line-height: 15px;">M-N-O</span></a><a
-      href="http://www.iianthropology.org/biblrefMO.html"><span style="font-size: 12px;
-      line-height: 15px;">-Ö</span></a><span style="font-size: 12px; line-height:
-      15px;"> </span><a href="http://www.iianthropology.org/biblrefPR.html"><span
-      style="font-size: 12px; line-height: 15px;">P-Q-R</span></a><span
-      style="font-size: 12px; line-height: 15px;"> </span><a
-      href="http://www.iianthropology.org/biblrefS-U.html"><span style="font-size: 12px;
-      line-height: 15px;">S-T-U</span></a><span style="font-size: 12px;
-      line-height: 15px;"> </span><a
-      href="http://www.iianthropology.org/biblrefV-X.html"><span style="font-size: 12px;
-      line-height: 15px;">V-W-X </span></a><span style="font-size: 12px;
-      line-height: 15px;"> </span><a
-      href="http://www.iianthropology.org/biblrefY-Z.html"><span style="font-size: 12px;
-      line-height: 15px;">Y-Z</span></a><span style="font-size: 12px; line-height:
-      15px;"> </span></span></span>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
+   <title type="text">Open Access Bibliography: Balkan Prehistory</title>
+   <content type="html"><![CDATA[<a href="http://www.iianthropology.org/biblref.html">Balkan Prehistory in Eurasian Context: Bibliography</a><br />by Lolita Nikolova<br /><br /><!--$end exclude$-->         <span style="font-size:85%;"><span class="text"><span style="font-size: 12px; line-height: 15px;">[Bulgarian Cyrillic Alphabet]<br />А-B-V-G        </span><a href="http://www.iianthropology.org/biblrefDZ.html"><span style="font-size: 12px; line-height: 15px;">D-E-Zh-Z</span></a><span style="font-size: 12px; line-height: 15px;">        </span><a href="http://www.iianthropology.org/biblrefIL.html"><span style="font-size: 12px; line-height: 15px;">I-J-K-L</span></a><span style="font-size: 12px; line-height: 15px;">        </span><a href="http://www.iianthropology.org/biblrefMP.html"><span style="font-size: 12px; line-height: 15px;">M-N-O-P</span></a><span style="font-size: 12px; line-height: 15px;">        </span><a href="http://www.iianthropology.org/biblrefRU.html"><span style="font-size: 12px; line-height: 15px;">R-S-T-U</span></a><span style="font-size: 12px; line-height: 15px;">        </span><a href="http://www.iianthropology.org/biblrefFCh.html"><span style="font-size: 12px; line-height: 15px;">F-H-Ts-Ch </span></a><span style="font-size: 12px; line-height: 15px;">       Sh-Sht-Yu-Ya<br /><br />[English Alphabet]<br /></span><a href="http://www.iianthropology.org/biblrefAC.html"><span style="font-size: 12px; line-height: 15px;">A-B-C</span></a><span style="font-size: 12px; line-height: 15px;">        </span><a href="http://www.iianthropology.org/biblrefDF.html"><span style="font-size: 12px; line-height: 15px;">D-E-F</span></a><span style="font-size: 12px; line-height: 15px;">        </span><a href="http://www.iianthropology.org/biblrefGI.html"><span style="font-size: 12px; line-height: 15px;">G-H-I</span></a><span style="font-size: 12px; line-height: 15px;">        </span><a href="http://www.iianthropology.org/biblrefJL.html"><span style="font-size: 12px; line-height: 15px;">J-K-L</span></a><span style="font-size: 12px; line-height: 15px;">      </span><a href="http://www.iianthropology.org/biblrefMO.html"><span style="font-size: 12px; line-height: 15px;">M-N-O</span></a><a href="http://www.iianthropology.org/biblrefMO.html"><span style="font-size: 12px; line-height: 15px;">-Ö</span></a><span style="font-size: 12px; line-height: 15px;">        </span><a href="http://www.iianthropology.org/biblrefPR.html"><span style="font-size: 12px; line-height: 15px;">P-Q-R</span></a><span style="font-size: 12px; line-height: 15px;">       </span><a href="http://www.iianthropology.org/biblrefS-U.html"><span style="font-size: 12px; line-height: 15px;">S-T-U</span></a><span style="font-size: 12px; line-height: 15px;">        </span><a href="http://www.iianthropology.org/biblrefV-X.html"><span style="font-size: 12px; line-height: 15px;">V-W-X </span></a><span style="font-size: 12px; line-height: 15px;">       </span><a href="http://www.iianthropology.org/biblrefY-Z.html"><span style="font-size: 12px; line-height: 15px;">Y-Z</span></a><span style="font-size: 12px; line-height: 15px;"> </span></span></span>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2007342250679703912/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2007342250679703912/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/09/open-access-archaeology-excavations-at_01.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2007342250679703912"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2007342250679703912"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/09/open-access-archaeology-excavations-at_01.html"
          title="Open Access Bibliography: Balkan Prehistory"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

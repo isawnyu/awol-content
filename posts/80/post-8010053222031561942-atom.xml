@@ -1,99 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8010053222031561942</id>
-    <published>2011-04-06T09:25:00.003-04:00</published>
-    <updated>2011-05-04T10:19:33.448-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8010053222031561942</id>
+   <published>2011-04-06T09:25:00.003-04:00</published>
+   <updated>2011-05-04T10:19:33.448-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">MANTIS: American Numismatic Society's new collection interface</title>
-    <content type="html"><![CDATA[<a href="http://numismatics.org/search/">MANTIS: A Numismatic
-      Technologies Integration Service</a><br /><blockquote><span
-      style="font-size: x-small;">The ANS collections database contains information on more than
-      600,000 objects in the Society’s collections. These include, coins, paper money, tokens,
-      ‘primitive’ money, medals and decorations, from all parts of the world, and all periods in
-      which such objects have been produced. <a href="http://numismatics.org/search/#instructions"
-      id="show_instructions">Show search instructions.</a></span><br /><span
-      style="font-size: x-small;"><b>Click an image below to search a
-      department.</b></span><br /><table
-      class="collection_table"><tbody><tr> <td><span style="font-size:
-      x-small;"><a class="wikilink" href="http://numismatics.org/search/Greek"><img
-      alt="Greek" src="http://numismatics.org/search/images/greek.jpg" title="Greek" /><br
-      />Greek</a></span></td> <td><span style="font-size:
-      x-small;"><a class="wikilink" href="http://numismatics.org/search/Roman"><img
-      alt="Roman" src="http://numismatics.org/search/images/roman.jpg" title="Roman" /><br
-      />Roman</a></span></td> <td><span style="font-size:
-      x-small;"><a class="wikilink" href="http://numismatics.org/search/Byzantine"><img
-      alt="Byzantine" src="http://numismatics.org/search/images/byzantine.jpg" title="Byzantine"
-      /><br />Byzantine</a></span></td> <td><span
-      style="font-size: x-small;"><a class="wikilink"
-      href="http://numismatics.org/search/Islamic"><img alt="Islamic"
-      src="http://numismatics.org/search/images/islamic.jpg" title="Islamic" /><br
-      />Islamic</a></span></td> </tr><tr> <td><span
-      style="font-size: x-small;"><a class="wikilink"
-      href="http://numismatics.org/search/EastAsian"><img alt="East Asian"
-      src="http://numismatics.org/search/images/east_asian.jpg" title="East Asian" /><br
-      />East Asian</a></span></td> <td><span style="font-size:
-      x-small;"><a class="wikilink" href="http://numismatics.org/search/SouthAsian"><img
-      alt="South Asian" src="http://numismatics.org/search/images/south_asian.jpg" title="South
-      Asian" /><br />South Asian</a></span></td> <td><span
-      style="font-size: x-small;"><a class="wikilink"
-      href="http://numismatics.org/search/Medieval"><img alt="Medieval"
-      src="http://numismatics.org/search/images/medieval.jpg" title="Medieval" /><br
-      />Medieval</a></span></td> <td><span style="font-size:
-      x-small;"><a class="wikilink" href="http://numismatics.org/search/Modern"><img
-      alt="Modern" src="http://numismatics.org/search/images/modern.jpg" title="Modern" /><br
-      />Modern</a></span></td> </tr><tr> <td><span
-      style="font-size: x-small;"><a class="wikilink"
-      href="http://numismatics.org/search/UnitedStates"><img alt="United States"
-      src="http://numismatics.org/search/images/united_states.jpg" title="United States" /><br
-      />United States</a></span></td> <td><span style="font-size:
-      x-small;"><a class="wikilink"
-      href="http://numismatics.org/search/LatinAmerica"><img alt="Latin American"
-      src="http://numismatics.org/search/images/latin_american.jpg" title="Latin American"
-      /><br />Latin American</a></span></td> <td><span
-      style="font-size: x-small;"><a class="wikilink"
-      href="http://numismatics.org/search/MedalsAndDecorations"><img alt="Medals And
-      Decorations" src="http://numismatics.org/search/images/medal.jpg" title="Medals And
-      Decorations" /><br />Medals And Decorations</a></span></td>
-      <td><span style="font-size: x-small;"><br /></span></td>
-      </tr></tbody></table><span style="font-size: x-small;">ANS policies on
-      the acquisition and deacquisition of numismatic items are available <a class="wikilink"
-      href="http://numismatics.org/About/AcquisitionDeacquisition">online</a></span></blockquote><div
-      style="display: none;"><div id="instructions"><h1>Search
-      Instructions</h1>The collection maybe browsed and searched as whole, by using the
-      ‘Browse’ and ‘Search’ options on the tool bar above. Alternatively, searches and browsing may
-      be confined to individual ANS Departments, by clicking on the relevant link below. If you know
-      the area or period in which you are interested, we recommend using the Departmental search
-      pages. <br />The Greek, Roman, and U.S. collections may be searched by scalable and
-      clickable map, by clicking on ‘Maps’ in the tool bar above. This function is currently under
-      development for other areas of the collection </div></div>]]></content>
-    <link rel="replies"
+   <title type="text">MANTIS: American Numismatic Society's new collection interface</title>
+   <content type="html"><![CDATA[<a href="http://numismatics.org/search/">MANTIS: A Numismatic Technologies Integration Service</a><br /><blockquote><span style="font-size: x-small;">The ANS collections database contains information on more                                       than 600,000 objects in the Society’s collections. These                                       include, coins, paper money, tokens, ‘primitive’ money,                                       medals and decorations, from all parts of the world, and                                       all periods in which such objects have been produced. <a href="http://numismatics.org/search/#instructions" id="show_instructions">Show                                           search instructions.</a></span><br /><span style="font-size: x-small;"><b>Click an image below to search a department.</b></span><br /><table class="collection_table"><tbody><tr>                               <td><span style="font-size: x-small;"><a class="wikilink" href="http://numismatics.org/search/Greek"><img alt="Greek" src="http://numismatics.org/search/images/greek.jpg" title="Greek" /><br />Greek</a></span></td>                               <td><span style="font-size: x-small;"><a class="wikilink" href="http://numismatics.org/search/Roman"><img alt="Roman" src="http://numismatics.org/search/images/roman.jpg" title="Roman" /><br />Roman</a></span></td>                               <td><span style="font-size: x-small;"><a class="wikilink" href="http://numismatics.org/search/Byzantine"><img alt="Byzantine" src="http://numismatics.org/search/images/byzantine.jpg" title="Byzantine" /><br />Byzantine</a></span></td>                               <td><span style="font-size: x-small;"><a class="wikilink" href="http://numismatics.org/search/Islamic"><img alt="Islamic" src="http://numismatics.org/search/images/islamic.jpg" title="Islamic" /><br />Islamic</a></span></td>                            </tr><tr>                               <td><span style="font-size: x-small;"><a class="wikilink" href="http://numismatics.org/search/EastAsian"><img alt="East Asian" src="http://numismatics.org/search/images/east_asian.jpg" title="East Asian" /><br />East Asian</a></span></td>                               <td><span style="font-size: x-small;"><a class="wikilink" href="http://numismatics.org/search/SouthAsian"><img alt="South Asian" src="http://numismatics.org/search/images/south_asian.jpg" title="South Asian" /><br />South Asian</a></span></td>                               <td><span style="font-size: x-small;"><a class="wikilink" href="http://numismatics.org/search/Medieval"><img alt="Medieval" src="http://numismatics.org/search/images/medieval.jpg" title="Medieval" /><br />Medieval</a></span></td>                               <td><span style="font-size: x-small;"><a class="wikilink" href="http://numismatics.org/search/Modern"><img alt="Modern" src="http://numismatics.org/search/images/modern.jpg" title="Modern" /><br />Modern</a></span></td>                            </tr><tr>                               <td><span style="font-size: x-small;"><a class="wikilink" href="http://numismatics.org/search/UnitedStates"><img alt="United States" src="http://numismatics.org/search/images/united_states.jpg" title="United States" /><br />United States</a></span></td>                               <td><span style="font-size: x-small;"><a class="wikilink" href="http://numismatics.org/search/LatinAmerica"><img alt="Latin American" src="http://numismatics.org/search/images/latin_american.jpg" title="Latin American" /><br />Latin American</a></span></td>                               <td><span style="font-size: x-small;"><a class="wikilink" href="http://numismatics.org/search/MedalsAndDecorations"><img alt="Medals And Decorations" src="http://numismatics.org/search/images/medal.jpg" title="Medals And Decorations" /><br />Medals And Decorations</a></span></td>                               <td><span style="font-size: x-small;"><br /></span></td>                            </tr></tbody></table><span style="font-size: x-small;">ANS policies on the acquisition and                                       deacquisition of numismatic items are available <a class="wikilink" href="http://numismatics.org/About/AcquisitionDeacquisition">online</a></span></blockquote><div style="display: none;"><div id="instructions"><h1>Search Instructions</h1>The collection maybe browsed and searched as                                              whole, by using the ‘Browse’ and ‘Search’ options                                              on the tool bar above. Alternatively, searches and                                              browsing may be confined to individual ANS                                              Departments, by clicking on the relevant link                                              below. If you know the area or period in which you                                              are interested, we recommend using the                                              Departmental search pages.                               <br />The Greek, Roman, and U.S. collections may be                                              searched by scalable and clickable map, by                                              clicking on ‘Maps’ in the tool bar above. This                                              function is currently under development for other                                              areas of the collection                               </div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8010053222031561942/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8010053222031561942/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/04/american-numismatic-societys-new.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8010053222031561942"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8010053222031561942"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/04/american-numismatic-societys-new.html"
          title="MANTIS: American Numismatic Society's new collection interface"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

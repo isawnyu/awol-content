@@ -1,266 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3025512701723128413</id>
-    <published>2013-03-14T10:30:00.000-04:00</published>
-    <updated>2013-03-14T10:38:23.057-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3025512701723128413</id>
+   <published>2016-08-24T19:09:00.000-04:00</published>
+   <updated>2016-08-24T19:10:09.169-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Religion"/>
-    <title type="text">Open Access Journal: The Denver Journal</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 22 February
-      2011. Updated 14 March 2013] </span><br /><br /><a
-      href="http://www.denverseminary.edu/resources/the-denver-journal/">The Denver Journal: An
-      Online Review of Current Biblical and Theological Studies</a><br
-      /><blockquote><table
-      class="denver-journal"><tbody><tr><th><span style="font-size:
-      x-small;">Title &amp; Author</span></th> <th class="reviewer"><span
-      style="font-size: x-small;">Article Author(s)</span></th> </tr><tr
-      class="academic-classification"><td colspan="2"><span style="font-size:
-      x-small;">Old Testament</span></td></tr><tr><td><span
-      style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/article/annotated-old-testament-bibliography-2013">Annotated
-      Old Testament Bibliography - 2013</a></span></td><td><span
-      style="font-size: x-small;">M. Daniel Carroll R., Hélène Dallaire, and Richard S.
-      Hess</span></td></tr><tr><td><span style="font-size:
-      x-small;">Deborah O’Daniel Cantrell. <a
-      href="http://www.denverseminary.edu/article/the-horsemen-of-israel-horses-and-chariotry-in-monarchic-israel-ninth-eighth-centuries-bce">The
-      Horsemen of Israel: Horses and Chariotry in Monarchic Israel (Ninth-Eighth Centuries
-      B.C.E.)</a></span></td><td><span style="font-size:
-      x-small;">Richard S. Hess</span></td></tr><tr
-      class="academic-classification"><td colspan="2"><span style="font-size:
-      x-small;">New Testament</span></td></tr><tr><td><span
-      style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/article/new-testament-exegesis-bibliography-2013">New
-      Testament Exegesis Bibliography - 2013</a></span></td><td><span
-      style="font-size: x-small;">Craig L. Blomberg, William W. Klein, David
-      Mathewson</span></td></tr><tr><td><span style="font-size:
-      x-small;">Vern S. Poythress. <a
-      href="http://www.denverseminary.edu/article/inerrancy-and-the-gospels-a-god-centered-approach-to-the-challenges-of-harmonization">Inerrancy
-      and the Gospels: A God-Centered Approach to the Challenges of
-      Harmonization</a></span></td><td><span style="font-size:
-      x-small;">Craig L. Blomberg</span></td></tr><tr><td><span
-      style="font-size: x-small;">Murray J. Harris. <a
-      href="http://www.denverseminary.edu/article/prepositions-and-theology-in-the-greek-new-testament">Prepositions
-      and Theology in the Greek New Testament </a></span></td><td><span
-      style="font-size: x-small;">Craig L.
-      Blomberg</span></td></tr><tr><td><span style="font-size:
-      x-small;">Gareth Lee Cockerill. <a
-      href="http://www.denverseminary.edu/article/the-epistle-to-the-hebrews">The Epistle to the
-      Hebrews</a></span></td><td><span style="font-size:
-      x-small;">David Mathewson</span></td></tr><tr><td><span
-      style="font-size: x-small;">Frederick Dale Bruner, Paul Anderson. <a
-      href="http://www.denverseminary.edu/article/comparison-of-the-gospel-of-john-a-commentary-and-the-riddles-of-the-fourth-gospel-an-introduction-to-john">Comparison
-      of "The Gospel of John: A Commentary" and "The Riddles of the Fourth Gospel: An Introduction to
-      John"</a></span></td><td><span style="font-size: x-small;">Judith
-      A. Diehl, Ph.D</span></td></tr><tr><td><span style="font-size:
-      x-small;">Murray J. Harris. <a
-      href="http://www.denverseminary.edu/article/second-review-prepositions-and-theology-in-the-greek-new-testament">Second
-      Review: Prepositions and Theology in the Greek New
-      Testament</a></span></td><td><span style="font-size:
-      x-small;">David Mathewson</span></td></tr><tr><td><span
-      style="font-size: x-small;">Logos 5.0. <a
-      href="http://www.denverseminary.edu/article/logos-version-5">Logos Version
-      5</a></span></td><td><span style="font-size: x-small;">William W.
-      Klein</span></td></tr><tr><td><span style="font-size:
-      x-small;">Larry R. Helyer. <a
-      href="http://www.denverseminary.edu/article/the-life-and-witness-of-peter">The Life and
-      Witness of Peter</a></span></td></tr><tr
-      class="academic-classification"><td colspan="2"><span style="font-size:
-      x-small;">Apologetics and
-      Ethics</span></td></tr><tr><td><span style="font-size:
-      x-small;">Christopher Hitchens. <a
-      href="http://www.denverseminary.edu/article/mortality">Mortality</a></span></td><td><span
-      style="font-size: x-small;">Douglas
-      Groothuis</span></td></tr><tr><td><span style="font-size:
-      x-small;">J.P. Moreland. <a
-      href="http://www.denverseminary.edu/article/love-your-god-with-all-your-mind-the-role-of-reason-in-the-life-of-the-soul">Love
-      Your God with all Your Mind: The Role of Reason in the Life of the
-      Soul</a></span></td><td><span style="font-size: x-small;">Douglas
-      Groothuis</span></td></tr><tr><td><span style="font-size:
-      x-small;">Herman Leonard. <a href="http://www.denverseminary.edu/article/jazz">Jazz
-      </a></span></td><td><span style="font-size: x-small;">Douglas
-      Groothuis</span></td></tr><tr><td><span style="font-size:
-      x-small;">Charles Harrington Elster. <a
-      href="http://www.denverseminary.edu/article/the-accidents-of-style-good-advice-on-how-not-to-write-badly">The
-      Accidents of Style: Good Advice on How Not to Write
-      Badly</a></span></td><td><span style="font-size:
-      x-small;">Douglas Groothuis</span></td></tr><tr><td><span
-      style="font-size: x-small;">Peter Brötzmann. <a
-      href="http://www.denverseminary.edu/article/paintings-and-objects">Paintings and
-      Objects</a></span></td><td><span style="font-size:
-      x-small;">Douglas Groothuis</span></td></tr><tr><td><span
-      style="font-size: x-small;">Thomas S. Hibbs. <a
-      href="http://www.denverseminary.edu/article/rouault-fujimura-soliloquies">Rouault, Fujimura:
-      Soliloquies</a></span></td><td><span style="font-size:
-      x-small;">Douglas Groothuis</span></td></tr><tr><td><span
-      style="font-size: x-small;">Kevin Whitehead. <a
-      href="http://www.denverseminary.edu/article/why-jazz-a-concise-guide">Why Jazz? A Concise
-      Guide</a></span></td><td><span style="font-size:
-      x-small;">Douglas Groothuis</span></td></tr><tr><td><span
-      style="font-size: x-small;">Gary Cox. <a
-      href="http://www.denverseminary.edu/article/how-to-be-an-existentialist-or-how-to-get-real-get-a-grip-and-stop-making-excuses">How
-      to Be an Existentialist: or How to Get Real, Get a Grip, and Stop Making
-      Excuses</a></span></td><td><span style="font-size:
-      x-small;">Douglas Groothuis</span></td></tr><tr><td><span
-      style="font-size: x-small;">Douglas Coupland. <a
-      href="http://www.denverseminary.edu/article/marshal-mcluhan-you-know-nothing-of-my-work">Marshal
-      McLuhan: You Know Nothing of My Work </a></span></td><td><span
-      style="font-size: x-small;">Douglas
-      Groothuis</span></td></tr><tr><td><span style="font-size:
-      x-small;">Austin Kleon. <a
-      href="http://www.denverseminary.edu/article/steal-like-an-artist-ten-things-nobody-told-you-about-being-creative">Steal
-      Like an Artist: Ten Things Nobody Told You About Being
-      Creative</a></span></td><td><span style="font-size:
-      x-small;">Douglas Groothuis</span></td></tr><tr><td><span
-      style="font-size: x-small;">Makoto Fujimura. <a
-      href="http://www.denverseminary.edu/article/the-four-holy-gospels-paintings">The Four Holy
-      Gospels. Paintings</a></span></td><td><span style="font-size:
-      x-small;">Douglas Groothuis</span></td></tr><tr><td><span
-      style="font-size: x-small;">Karen Karbo. <a
-      href="http://www.denverseminary.edu/article/how-georgia-became-okeeffe-lessons-on-the-art-of-living">How
-      Georgia Became O’Keeffe: Lessons on the Art of Living
-      </a></span></td><td><span style="font-size: x-small;">Douglas
-      Groothuis</span></td></tr><tr><td><span style="font-size:
-      x-small;">Susan Danly, Barbara Buhler Lynes. <a
-      href="http://www.denverseminary.edu/article/georgia-okeeffe-and-the-camera">Georgia O’Keeffe
-      and the Camera</a></span></td><td><span style="font-size:
-      x-small;">Douglas Groothuis</span></td></tr><tr><td><span
-      style="font-size: x-small;">Mark Mittelberg. <a
-      href="http://www.denverseminary.edu/article/the-questions-christians-hope-no-one-will-ask-with-answers">The
-      Questions Christians Hope No One Will Ask (with
-      Answers)</a></span></td><td><span style="font-size:
-      x-small;">Douglas Groothuis</span></td></tr><tr><td><span
-      style="font-size: x-small;">Alain de Botton. <a
-      href="http://www.denverseminary.edu/article/religion-for-atheists-a-nonbelievers-guide-to-the-uses-of-religion">Religion
-      for Atheists: A Nonbelievers Guide to the Uses of
-      Religion</a></span></td><td><span style="font-size:
-      x-small;">Douglas Groothuis</span></td></tr><tr><td><span
-      style="font-size: x-small;">James S. Spiegel. <a
-      href="http://www.denverseminary.edu/article/the-making-of-an-atheist-how-immorality-leads-to-unbelief">The
-      Making of an Atheist: How Immorality Leads to
-      Unbelief</a></span></td><td><span style="font-size:
-      x-small;">Douglas Groothuis</span></td></tr><tr><td><span
-      style="font-size: x-small;">Luc Ferry. <a
-      href="http://www.denverseminary.edu/article/a-brief-history-of-thought-a-philosophical-guide-to-living">A
-      Brief History of Thought: A Philosophical Guide to
-      Living</a></span></td><td><span style="font-size: x-small;">Jonah
-      Haddad</span></td></tr><tr><td><span style="font-size:
-      x-small;">Franck Frommer. <a
-      href="http://www.denverseminary.edu/article/how-powerpoint-makes-you-stupid-the-faulty-causality-sloppy-logic-decontextualized-data-and-seductive-showmanship-that-have-taken-over-our-thinking">How
-      PowerPoint Makes You Stupid: the Faulty Causality, Sloppy Logic, Decontextualized Data, and
-      Seductive Showmanship that Have Taken Over Our
-      Thinking</a></span></td><td><span style="font-size:
-      x-small;">Douglas Groothuis</span></td></tr><tr><td><span
-      style="font-size: x-small;">David A. Horner. <a
-      href="http://www.denverseminary.edu/article/mind-your-faith-a-students-guide-to-thinking-and-living-well">Mind
-      Your Faith: A Student’s Guide to Thinking and Living
-      Well</a></span></td><td><span style="font-size: x-small;">Douglas
-      Groothuis</span></td></tr><tr><td><span style="font-size:
-      x-small;">Pat Martino, Bill Milkowski. <a
-      href="http://www.denverseminary.edu/article/here-and-now-the-autobiography-of-pat-martino">Here
-      and Now: The Autobiography of Pat Martino</a></span></td><td><span
-      style="font-size: x-small;">Douglas
-      Groothuis</span></td></tr><tr><td><span style="font-size:
-      x-small;">Michael Levin. <a
-      href="http://www.denverseminary.edu/article/zebrato">Zebrato</a></span></td><td><span
-      style="font-size: x-small;">Douglas
-      Groothuis</span></td></tr><tr><td><span style="font-size:
-      x-small;">Andrew Keen. <a
-      href="http://www.denverseminary.edu/article/digital-vertigo-how-todays-online-social-revolution-is-dividing-diminishing-and-disorienting-us">Digital
-      Vertigo: How Today's Online Social Revolution Is Dividing, Diminishing, and Disorienting
-      Us</a></span></td><td><span style="font-size: x-small;">Douglas
-      Groothuis</span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><br /><h5><span style="font-size:
-      x-small;">Volumes Available</span></h5><span style="font-size: x-small;">
-      </span><br /><ul><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/1998/">Volume 1 -
-      1998</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/1999/">Volume 2 -
-      1999</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/2000/">Volume 3 -
-      2000</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/2001/">Volume 4 -
-      2001</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/2002/">Volume 5 -
-      2002</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/2003/">Volume 6 -
-      2003</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/2004/">Volume 7 -
-      2004</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/2005/">Volume 8 -
-      2005</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/2006/">Volume 9 -
-      2006</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/2007/">Volume 10 -
-      2007</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/2008/">Volume 11 -
-      2008</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/2009/">Volume 12 -
-      2009</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/2010/">Volume 13 -
-      2010</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/2011/">Volume 14 -
-      2011</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/2012/">Volume 15 -
-      2012</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/the-denver-journal/denver-journal-2013/">Denver Journal
-      Volume 16 -
-      2013</a></span></li></ul></blockquote><blockquote><table
-      class="denver-journal"><tbody><tr><th><div style="text-align:
-      left;"><span style="font-weight: normal;"><span style="font-size: x-small;">The
-      following bibliographies are available on the Denver Journal. If you would like to create a
-      link from your web page to one of these bibliographies, click on the name of the bibliography
-      below to view instructions on how to do
-      this.&nbsp;</span></span></div><span style="font-weight:
-      normal;"><span style="font-size: x-small;"></span></span><br
-      /><ul><li style="text-align: left;"><span style="font-weight:
-      normal;"><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/how-to-link-to-bibliographies-on-the-denver-journal/#new">Annotated
-      Old Testament Bibliography</a></span></span><br />
-      </li><li><span style="font-weight: normal;"><span style="font-size:
-      x-small;"></span></span><div style="text-align: left;"><span
-      style="font-weight: normal;"><span style="font-size: x-small;"><a
-      href="http://www.denverseminary.edu/how-to-link-to-bibliographies-on-the-denver-journal/#new">New
-      Testament Exegesis
-      Bibliography</a></span></span></div></li></ul></th></tr></tbody></table></blockquote><div
-      style="text-align: center;"><br /><span style="font-size: small;">See the full
-      <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></span></div><div
-      style="text-align: center;"><br /><a
-      href="http://draft.blogger.com/post-edit.g?blogID=116259103207720939&amp;postID=8246424762897007409"
-      id="data:post.url" name="data:post.title" onclick="return addthis_sendto()"
-      onmouseout="addthis_close()" onmouseover="'return"></a><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Book Reviews"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Religion"/>
+   <title type="text">Open Access Journal: The Denver Journal: An Online Review of Current Biblical and Theological Studies </title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 22 February 2011. Updated 24 August 2016] </span><br /><br /><a href="http://www.denverseminary.edu/resources/the-denver-journal/">The Denver Journal: An Online Review of Current Biblical and Theological Studies</a> <br /><blockquote class="tr_bq">    		              <br /><span style="font-size: x-small;">Welcome to Denver Journal. The purpose of the Denver Journal is to  establish an online Evangelical review journal of biblical and  theological studies edited and produced by the faculty of Denver  Seminary for use by alumni and all who are interested in biblical and  theological ministry and research.</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Denver Journal is a review journal. It aims to include reviews of all  recent and significant books and published media relating to the major  fields of biblical and theological studies: Old Testament, New  Testament, Church History, Systematic Theology, World Christianity,  Pastoral Ministry and Evangelism, Counseling, Philosophy of Religion,  Education Ministries and Administration, Homiletics and Speech, and  Youth and Family Ministries. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Denver Journal will include reviews as well as review articles that  might include essays on the present state of studies in a field or  specific area of that field, annotated bibliographies, extensive reviews  of a work of particular significance, and other longer items. The  reviews themselves, divided according to the major fields of biblical  and theological studies, will normally be 500-800 words in length. An  additional section of book notes will include 100-200 word summaries and  evaluations of books that are worthy of note but not necessarily  deserving a full review in the journal.</span><br /> <span style="font-size: x-small;">Denver Journal is an Evangelical journal. Its choice of books and  reviewers reflects the Evangelical commitment and interests of the  seminary. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The journal is online. All contributions are written and edited electronically.</span><br /><ul><li id="subnav_resources_denver-journal_vol-19-2016"><span style="font-size: x-small;"><a href="http://www.denverseminary.edu/the-denver-journal/2016/">Vol. 19 - 2016</a></span></li></ul></blockquote><blockquote class="tr_bq"><blockquote class="tr_bq"><blockquote class="tr_bq"><div class="academic-classification"><span style="font-size: x-small;">Old Testament</span></div><article><span style="font-size: x-small;"><span class="title"><a href="http://www.denverseminary.edu/resources/news-and-articles/annotated-old-testament-bibliography-2016">Annotated Old Testament Bibliography - 2016</a></span><span class="author">M. Daniel Carroll R., Hélène Dallaire, and Richard S. Hess</span></span></article><article><span style="font-size: x-small;"><span class="title">Anne W. Stewart. <a href="http://www.denverseminary.edu/resources/news-and-articles/poetic-ethics-in-proverbs-wisdom-literature-and-the-shaping-of-the-moral-self">Poetic Ethics in Proverbs: Wisdom Literature and the Shaping of the Moral Self</a></span><span class="author">Brandon C. Benziger</span></span></article><article><span style="font-size: x-small;"><span class="title">John Byron and Joel N Lohr, eds. <a href="http://www.denverseminary.edu/resources/news-and-articles/i-still-believe-leading-bible-scholars-share-their-stories-of-faith-and-scholarship">I (Still) Believe: Leading Bible Scholars Share Their Stories of Faith and Scholarship</a></span><span class="author">M. Daniel Carroll R.</span></span></article><article><span style="font-size: x-small;"><span class="title">Daniel I. Block. <a href="http://www.denverseminary.edu/resources/news-and-articles/for-the-glory-of-god-recovering-a-biblical-theology-of-worship">For the Glory of God: Recovering a Biblical Theology of Worship</a></span><span class="author">Richard S. Hess</span></span></article><article><span style="font-size: x-small;"><span class="title">Esther J. Hamori. <a href="http://www.denverseminary.edu/resources/news-and-articles/womens-divination-in-biblical-literature-prophecy-necromancy-and-other-arts-of-knowledge">Women’s Divination in Biblical Literature: Prophecy, Necromancy, and Other Arts of Knowledge</a></span><span class="author">Richard S. Hess</span></span></article><div class="academic-classification"><span style="font-size: x-small;">New Testament</span></div><article><span style="font-size: x-small;"><span class="title"><a href="http://www.denverseminary.edu/resources/news-and-articles/new-testament-exegesis-bibliography-2016">New Testament Exegesis Bibliography - 2016</a></span><span class="author">William W. Klein, Craig L. Blomberg, David L. Mathewson, Erin M. Heim</span></span></article><article><span style="font-size: x-small;"><span class="title">Stanley E. Porter and Andrew W. Pitts. <a href="http://www.denverseminary.edu/resources/news-and-articles/fundamentals-of-new-testament-textual-criticism">Fundamentals of New Testament Textual Criticism</a></span><span class="author">Craig L. Blomberg</span></span></article><article><span style="font-size: x-small;"><span class="title">Michael J. Gorman. <a href="http://www.denverseminary.edu/resources/news-and-articles/becoming-the-gospel-paul-participation-and-mission">Becoming the Gospel: Paul, Participation, and Mission</a></span><span class="author">Darlene M. Seal</span></span></article><article><span style="font-size: x-small;"><span class="title">Terry L. Wilder, ed. <a href="http://www.denverseminary.edu/resources/news-and-articles/perspectives-on-our-struggle-with-sin-3-views-of-romans-7">Perspectives on our Struggle with Sin: 3 Views of Romans 7</a></span><span class="author">William W. Klein</span></span></article><article><span style="font-size: x-small;"><span class="title">Michael F. Bird, gen. ed. <a href="http://www.denverseminary.edu/resources/news-and-articles/four-views-on-the-apostle-paul">Four Views on the Apostle Paul</a></span><span class="author">William W. Klein</span></span></article><article><span style="font-size: x-small;"><span class="title">Gordon D. Fee. <a href="http://www.denverseminary.edu/resources/news-and-articles/the-first-epistle-to-the-corinthians-rev-ed">The First Epistle to the Corinthians, Rev. ed.</a></span><span class="author">William W. Klein</span></span></article><article><span style="font-size: x-small;"><span class="title">D. A. Carson, gen. ed. <a href="http://www.denverseminary.edu/resources/news-and-articles/niv-zondervan-study-bible">NIV Zondervan Study Bible</a></span><span class="author">William W. Klein</span></span></article><article><span style="font-size: x-small;"><span class="title">Mark L. Strauss. <a href="http://www.denverseminary.edu/resources/news-and-articles/mark-zondervan-exegetical-commentary-on-the-new-testament">Mark: Zondervan Exegetical Commentary on the New Testament</a></span><span class="author">David L. Mathewson</span></span></article><article><span style="font-size: x-small;"><span class="title">Stanley E. Porter. <a href="http://www.denverseminary.edu/resources/news-and-articles/linguistic-analysis-of-the-greek-new-testament-studies-in-tools-methods-and-practice">Linguistic Analysis of the Greek New Testament: Studies in Tools, Methods, and Practice</a></span><span class="author">Elodie Ballantine Emig</span></span></article><article><span style="font-size: x-small;"><span class="title">Osvaldo Padilla. <a href="http://www.denverseminary.edu/resources/news-and-articles/the-acts-of-the-apostles-interpretation-history-and-theology">The Acts of the Apostles: Interpretation, History and Theology</a></span><span class="author">Craig L. Blomberg</span></span></article><article><span style="font-size: x-small;"><span class="title">Rodney A. Whitacre. <a href="http://www.denverseminary.edu/resources/news-and-articles/using-and-enjoying-biblical-greek-reading-the-new-testament-with-fluency-and-devotion">Using and Enjoying Biblical Greek: Reading the New Testament with Fluency and Devotion</a></span><span class="author">Elodie Ballantine Emig</span></span></article><article><span style="font-size: x-small;"><span class="title">Joel B. Green. <a href="http://www.denverseminary.edu/resources/news-and-articles/conversion-in-luke-acts-divine-action-human-cognition-and-the-people-of-god">Conversion in Luke-Acts: Divine Action, Human Cognition, and the People of God</a></span><span class="author">Craig L. Blomberg</span></span></article><article><span style="font-size: x-small;"><span class="title">Michael Bird. <a href="http://www.denverseminary.edu/resources/news-and-articles/the-gospel-of-the-lord-how-the-early-church-wrote-the-story-of-jesus">The Gospel of the Lord: How the Early Church Wrote the Story of Jesus</a></span><span class="author">William W. Klein</span></span></article><article><span style="font-size: x-small;"><span class="title">Michael J. Gorman. <a href="http://www.denverseminary.edu/resources/news-and-articles/becoming-the-gospel-paul-participation-mission">Becoming the Gospel. Paul, Participation, &amp; Mission</a></span><span class="author">William W. Klein</span></span></article><div class="academic-classification"><span style="font-size: x-small;">Apologetics and Ethics</span></div><article><span style="font-size: x-small;"><span class="title"><a href="http://www.denverseminary.edu/resources/news-and-articles/apologetics-ethics-recommended-associations">Apologetics &amp; Ethics: Recommended Associations</a></span><span class="author">Chad E. Graham and Ben R. Crenshaw</span></span></article><article><span style="font-size: x-small;"><span class="title">Jonah Haddad. <a href="http://www.denverseminary.edu/resources/news-and-articles/insanity-god-and-the-theory-of-knowledge">Insanity:  God and the Theory of Knowledge</a></span><span class="author">John Byrne</span></span></article><article><span style="font-size: x-small;"><span class="title">Ryan T. Anderson. <a href="http://www.denverseminary.edu/resources/news-and-articles/truth-overruled-the-future-of-marriage-and-religious-freedom">Truth Overruled: The Future of Marriage and Religious Freedom</a></span><span class="author">Chad E. Graham</span></span></article><div class="academic-classification"><span style="font-size: x-small;">Theology</span></div><article><span style="font-size: x-small;"><span class="title">Christopher R. J. Holmes. <a href="http://www.denverseminary.edu/resources/news-and-articles/the-holy-spirit">The Holy Spirit</a></span><span class="author">Don Payne</span></span></article><div class="academic-classification"><span style="font-size: x-small;">Practical Theology</span></div><article><span style="font-size: x-small;"><span class="title">John Stott, edited by Greg Scharf. <a href="http://www.denverseminary.edu/resources/news-and-articles/the-challenge-of-preaching">The Challenge of Preaching</a></span><span class="author">Scott Wenig</span></span></article><article><span style="font-size: x-small;"><span class="title">Michelle Lee-Barnewall. <a href="http://www.denverseminary.edu/resources/news-and-articles/neither-complementarian-nor-egalitarian-a-kingdom-corrective-to-the-evangelical-gender-debate">Neither Complementarian nor Egalitarian: A Kingdom Corrective to the Evangelical Gender Debate</a></span><span class="author">Larry Lindquist</span></span></article></blockquote></blockquote></blockquote><blockquote class="tr_bq"><ul><li id="subnav_resources_denver-journal_denver-journal-archives"><span style="font-size: x-small;"><a href="http://www.denverseminary.edu/resources/denver-journal/denver-journal-archives/">Denver Journal Archives</a></span></li></ul></blockquote><blockquote class="tr_bq"><blockquote class="tr_bq"><blockquote class="tr_bq"><span style="font-size: x-small;"><a href="http://www.denverseminary.edu/the-denver-journal/2015/">Volume 18 - 2015</a><a href="http://www.denverseminary.edu/the-denver-journal/2014/"><br />Volume 17 - 2014</a><a href="http://www.denverseminary.edu/the-denver-journal/2013/"><br />Volume 16 - 2013</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/2012/">Volume 15 - 2012</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/2011/">Volume 14 - 2011</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/2010/">Volume 13 - 2010</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/2009/">Volume 12 - 2009</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/2008/">Volume 11 - 2008</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/2007/">Volume 10 - 2007</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/2006/">Volume 9 - 2006</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/2005/">Volume 8 - 2005</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/2004/">Volume 7 - 2004</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/2003/">Volume 6 - 2003</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/2002/">Volume 5 - 2002</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/2001/">Volume 4 - 2001</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/2000/">Volume 3 - 2000</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/1999/">Volume 2 - 1999</a><br /><a href="http://www.denverseminary.edu/the-denver-journal/1998/">Volume 1 - 1998</a></span><br />  </blockquote></blockquote></blockquote><blockquote><table class="denver-journal"><tbody><tr><th><div id="text"><span style="font-size: x-small;"><span style="font-weight: normal;">Linking Denver Journal Bibliographies</span></span></div></th></tr></tbody></table></blockquote><blockquote><table class="denver-journal"><tbody><tr><th><div id="text"><div style="text-align: left;"><span style="font-size: x-small;"><span style="font-weight: normal;">The following  bibliographies are available on the Denver Journal. If you would like to  create a link from your web page to one of these bibliographies, follow  the instructions below.</span></span></div><span style="font-size: x-small;"><span style="font-weight: normal;"></span></span><h2 style="text-align: left;"><span style="font-size: x-small;"><span style="font-weight: normal;">Linking to the Annotated Old Testament Bibliography</span></span></h2><span style="font-size: x-small;"><span style="font-weight: normal;"></span></span><div style="text-align: left;"><span style="font-size: x-small;"><span style="font-weight: normal;">Each year, the Denver Journal's Annotated Old Testament Bibliography,  compiled by Dr. M. Daniel Carroll R., Dr. Hélène Dallaire, and Dr. Rick  Hess, is updated with the top resources available for Old Testament  Study. If you would like to create a link on your web page to the most  recent version of this bibliography, copy the text link below and paste  it into the HTML on your web page. This link will always be redirected  to the most recent version of the Annotated Old Testament bibliography.</span></span></div><span style="font-size: x-small;"><span style="font-weight: normal;"></span></span><div style="text-align: left;"><span style="font-size: x-small;"><span style="font-weight: normal;">&lt;a  href="http://www.denverseminary.edu/resources/news-and-articles/annotated-old-testament-bibliography-2015/"&gt;Denver  Seminary's Denver Journal Annotated Old Testament  Bibliography&lt;/a&gt;</span></span></div><span style="font-size: x-small;"><span style="font-weight: normal;"></span></span><h2 style="text-align: left;"><span style="font-size: x-small;"><span style="font-weight: normal;">Linking to the New Testament Exegesis Bibliography</span></span></h2><span style="font-size: x-small;"><span style="font-weight: normal;"></span></span><div style="text-align: left;"><span style="font-size: x-small;"><span style="font-weight: normal;">Each year, the Denver Journal's New Testament Exegesis Bibliography,  compiled by Dr. William Klein, Dr. Craig L. Blomberg, and Dr. David  Mathewson is updated with the top resources available for New Testament  Study. If you would like to create a link on your web page to the most  recent version of this bibliography, copy the text link below and paste  it into the HTML on your web page. This link will always redirect  visitors to the most recent version of the New Testament Exegesis  bibliography.</span></span></div><span style="font-size: x-small;"><span style="font-weight: normal;"></span></span><div style="text-align: left;"><span style="font-size: x-small;"><span style="font-weight: normal;">&lt;a  href="http://www.denverseminary.edu/resources/news-and-articles/new-testament-exegesis-bibliography-2015/"&gt;Denver  Seminary's Denver Journal New Testament Exegesis Bibliography&lt;/a&gt;</span></span></div><span style="font-size: x-small;"><span style="font-weight: normal;">        	 			</span></span></div></th></tr></tbody></table></blockquote><div style="text-align: center;"><span style="font-size: small;">S<span><span><span><span style="font-family: &quot;primasans bt,verdana,sans-serif&quot;;"><span><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></span></span></span></div><div style="text-align: center;"><br /><a href="http://draft.blogger.com/post-edit.g?blogID=116259103207720939&amp;postID=8246424762897007409" id="data:post.url" name="data:post.title" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="'return"></a><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3025512701723128413/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3025512701723128413/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/02/open-access-journal-denver-journal.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3025512701723128413"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3025512701723128413"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/02/open-access-journal-denver-journal.html"
-         title="Open Access Journal: The Denver Journal"/>
-    <author>
+         title="Open Access Journal: The Denver Journal: An Online Review of Current Biblical and Theological Studies "/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,84 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3183772434061240233</id>
-    <published>2012-06-29T18:09:00.001-04:00</published>
-    <updated>2012-06-29T18:09:24.185-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3183772434061240233</id>
+   <published>2012-06-29T18:09:00.001-04:00</published>
+   <updated>2012-06-29T18:09:24.185-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
-    <title type="text">Nvmeri Innvmeri</title>
-    <content type="html"><![CDATA[<a href="http://www.nvmeri.org/">Nvmeri Innvmeri: Dr. Hendry’s Ancient
-      Numbers Page</a><br /><blockquote class="tr_bq"><h2><span
-      style="font-size: x-small;">Ancient Numbers</span></h2><span
-      style="font-size: x-small;">Welcome to the Ancient Numbers Page. It is a work in progress,
-      and many features will be added in the coming weeks and months.</span><br /><br
-      /><span style="font-size: x-small;"><b>Aim:</b> To help my students and
-      the general public better understand ancient Greek and Roman numbers, and how they were
-      represented. Different subpages will provide explanations, calculators, and graded quizzes.
-      Some in each category are already done, and can be reached through the links in the User
-      Menu...</span><br /><h2><span style="font-size: xx-small;">User
-      Menu</span></h2><ul class="actions1"><li><span style="font-size:
-      xx-small;"><b>Learn:</b></span></li><ul
-      class="actions2"><li><span style="font-size: xx-small;"><a
-      href="http://www.nvmeri.org/index.php">About This
-      Site</a></span></li><li><span style="font-size: xx-small;"><a
-      href="http://www.nvmeri.org/history.php">History</a> - <a
-      href="http://www.nvmeri.org/history.php#now">What’s
-      Next</a></span></li><li><span style="font-size: xx-small;">About
-      Roman Numerals</span></li><li><span style="font-size: xx-small;"><a
-      href="http://www.nvmeri.org/about_g.php">About Greek
-      Numerals</a></span></li></ul><span style="font-size:
-      xx-small;"><br /></span><li><span style="font-size:
-      xx-small;"><b>Calculate:</b></span></li><ul
-      class="actions2"><li><span style="font-size: xx-small;"><a
-      href="http://www.nvmeri.org/numeri1.php">Arabic →
-      Roman</a></span></li><li><span style="font-size: xx-small;"><a
-      href="http://www.nvmeri.org/numeri2.php">Roman →
-      Arabic</a></span></li><li><span style="font-size:
-      xx-small;">Roman → Latin</span></li><li><span style="font-size:
-      xx-small;">Latin → Roman</span></li><li><span style="font-size:
-      xx-small;">Arabic → Latin</span></li><li><span style="font-size:
-      xx-small;">Latin → Arabic</span></li><li><span style="font-size:
-      xx-small;"><a href="http://www.nvmeri.org/arithmoi1.php">Arabic →
-      Greek</a></span></li><li><span style="font-size: xx-small;">Greek
-      → Arabic</span></li></ul><span style="font-size: xx-small;"><br
-      /></span><li><span style="font-size: xx-small;"><b>Test
-      Yourself:</b></span></li><ul class="actions2"><li><span
-      style="font-size: xx-small;">Arabic → Roman</span></li><li><span
-      style="font-size: xx-small;"><a href="http://www.nvmeri.org/certamen_ra1.php">Roman →
-      Arabic</a></span></li><li><span style="font-size:
-      xx-small;">Latin → Arabic</span></li><li><span style="font-size:
-      xx-small;">Greek →
-      Arabic</span></li></ul></ul></blockquote><br /><br
-      />]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <title type="text">Nvmeri Innvmeri</title>
+   <content type="html"><![CDATA[<a href="http://www.nvmeri.org/">Nvmeri Innvmeri: Dr. Hendry’s Ancient Numbers Page</a><br /><blockquote class="tr_bq"><h2><span style="font-size: x-small;">Ancient Numbers</span></h2><span style="font-size: x-small;">Welcome to the Ancient Numbers Page.    It is a work in progress, and many features will be added in the coming weeks and months.</span><br /><br /><span style="font-size: x-small;"><b>Aim:</b> To help my students and the general public better understand ancient Greek and Roman numbers, and how they were represented.    Different subpages will provide explanations, calculators, and graded quizzes.    Some in each category are already done, and can be reached through the links in the User Menu...</span><br /><h2><span style="font-size: xx-small;">User Menu</span></h2><ul class="actions1"><li><span style="font-size: xx-small;"><b>Learn:</b></span></li><ul class="actions2"><li><span style="font-size: xx-small;"><a href="http://www.nvmeri.org/index.php">About This Site</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.nvmeri.org/history.php">History</a> - <a href="http://www.nvmeri.org/history.php#now">What’s Next</a></span></li><li><span style="font-size: xx-small;">About Roman Numerals</span></li><li><span style="font-size: xx-small;"><a href="http://www.nvmeri.org/about_g.php">About Greek Numerals</a></span></li></ul><span style="font-size: xx-small;"><br /></span><li><span style="font-size: xx-small;"><b>Calculate:</b></span></li><ul class="actions2"><li><span style="font-size: xx-small;"><a href="http://www.nvmeri.org/numeri1.php">Arabic → Roman</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.nvmeri.org/numeri2.php">Roman → Arabic</a></span></li><li><span style="font-size: xx-small;">Roman → Latin</span></li><li><span style="font-size: xx-small;">Latin → Roman</span></li><li><span style="font-size: xx-small;">Arabic → Latin</span></li><li><span style="font-size: xx-small;">Latin → Arabic</span></li><li><span style="font-size: xx-small;"><a href="http://www.nvmeri.org/arithmoi1.php">Arabic → Greek</a></span></li><li><span style="font-size: xx-small;">Greek → Arabic</span></li></ul><span style="font-size: xx-small;"><br /></span><li><span style="font-size: xx-small;"><b>Test Yourself:</b></span></li><ul class="actions2"><li><span style="font-size: xx-small;">Arabic → Roman</span></li><li><span style="font-size: xx-small;"><a href="http://www.nvmeri.org/certamen_ra1.php">Roman → Arabic</a></span></li><li><span style="font-size: xx-small;">Latin → Arabic</span></li><li><span style="font-size: xx-small;">Greek → Arabic</span></li></ul></ul></blockquote><br /><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3183772434061240233/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3183772434061240233/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/06/nvmeri-innvmeri.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3183772434061240233"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3183772434061240233"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/06/nvmeri-innvmeri.html"
          title="Nvmeri Innvmeri"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

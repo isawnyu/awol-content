@@ -1,299 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-339709093068995378</id>
-    <published>2015-02-26T08:21:00.000-05:00</published>
-    <updated>2015-02-26T08:22:19.345-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-339709093068995378</id>
+   <published>2015-02-26T08:21:00.000-05:00</published>
+   <updated>2015-02-26T08:22:19.345-05:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Neolithic"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Neolithic"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Ancient Near East"/>
-    <title type="text">Open Access Journal: NEO-LITHICS: The Newsletter of Southwest Asian Neolithic
-      Research</title>
-    <content type="html"><![CDATA[<div style="text-align: center;"><span style="font-size:
-      small;">&nbsp;<span><span><span><span><span><span><span><span><span>Have
-      you taken the <a
-      href="http://ancientworldonline.blogspot.com/2015/02/ancient-world-online-user-survey.html">AWOL
-      User
-      Survey</a>?</span></span></span></span></span></span></span></span></span></span></div><div
-      style="text-align: center;"><br /></div><a
-      href="http://www.exoriente.org/downloads/neolithics.php">NEO-LITHICS: The Newsletter of
-      Southwest Asian Neolithic Research</a><br />ISSN: 1434-6990<br
-      /><blockquote class="tr_bq"><img
-      alt="http://www.exoriente.org/bilder/logo/logo.png" class="decoded" height="42"
-      src="http://www.exoriente.org/bilder/logo/logo.png" width="400" /> </blockquote><br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">Edited by Gary O.
-      Rollefson and Hans Georg K. Gebel(managing editors: Hans Georg K. Gebel 1994-2002, Jürgen
-      Baumgarten 2003-2008, Dörte Rokitta-Krumnow 2009-today).</span><br /><span
-      style="font-size: x-small;">A Newsletter of Southwest Asian Lithic Research (appears since
-      1994, two issues per year, c. 40-50 pages each </span></blockquote><table
-      align="center" border="0" cellpadding="0" cellspacing="0" style="width:
-      580px;"><tbody></tbody></table><table align="center" border="0"
-      cellpadding="0" cellspacing="0" style="width: 580px;"><tbody><tr><td
-      height="30"><br /></td> </tr><tr> <td valign="top"> <div
-      class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width:
-      100%px;"> <tbody><tr> <td class="mitglieder_titel_txt"
-      width="300">Neo-Lithics 1/94</td> <td align="right"> <a class="navaktiv"
-      href="https://www.blogger.com/null">click to see content</a> <a class="navaktiv"
-      href="http://www.exoriente.org/docs/00001.pdf" target="_blank">Download as pdf
-      </a></td> </tr></tbody></table></div></td>
-      </tr><tr> <td valign="top"> <div class="mitglieder_titel"><table
-      border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"> <tbody><tr>
-      <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/94</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00002.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/95</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00003.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/95</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00004.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/96</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00007.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/96</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00008.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/97</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00009.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/97</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00010.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 3/97</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00011.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/98</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00012.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/98</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00013.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 3/98</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00014.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/99</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00015.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/99</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00016.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 3/99</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00017.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/00</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00018.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2+3/00</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00019.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/01</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00020.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/01</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00021.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/02</td> <td
-      align="right"> <a class="navaktiv" href="https://www.blogger.com/null">click to see
-      content</a> <a class="navaktiv" href="http://www.exoriente.org/docs/00043.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/02</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00044.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/03</td> <td
-      align="right"> <a class="navaktiv" href="https://www.blogger.com/null">click to see
-      content</a> <a class="navaktiv" href="http://www.exoriente.org/docs/00045.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/03</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00046.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/04</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00047.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/04</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00048.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/05</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00049.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/05</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00050.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/10</td> <td
-      align="right"> <a class="navaktiv" href="https://www.blogger.com/null">click to see
-      content</a> <a class="navaktiv" href="http://www.exoriente.org/docs/00051.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/06</td> <td
-      align="right"> <a class="navaktiv" href="https://www.blogger.com/null">click to see
-      content</a> <a class="navaktiv" href="http://www.exoriente.org/docs/00065.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/06</td> <td
-      align="right"> <a class="navaktiv" href="https://www.blogger.com/null">click to see
-      content</a> <a class="navaktiv" href="http://www.exoriente.org/docs/00066.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/07</td> <td
-      align="right"> <a class="navaktiv" href="https://www.blogger.com/null">click to see
-      content</a> <a class="navaktiv" href="http://www.exoriente.org/docs/00067.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/07</td> <td
-      align="right"> <a class="navaktiv" href="https://www.blogger.com/null">click to see
-      content</a> <a class="navaktiv" href="http://www.exoriente.org/docs/00068.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/08</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00069.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/08</td> <td
-      align="right"> <a class="navaktiv" href="http://www.exoriente.org/docs/00070.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 1/09</td> <td
-      align="right"> <a class="navaktiv" href="https://www.blogger.com/null">click to see
-      content</a> <a class="navaktiv" href="http://www.exoriente.org/docs/00071.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/09</td> <td
-      align="right"> <a class="navaktiv" href="https://www.blogger.com/null">click to see
-      content</a> <a class="navaktiv" href="http://www.exoriente.org/docs/00072.pdf"
-      target="_blank">Download as pdf </a></td>
-      </tr></tbody></table></div></td> </tr><tr> <td
-      valign="top"> <div class="mitglieder_titel"><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr> <td
-      class="mitglieder_titel_txt" width="300">Neo-Lithics 2/13</td> <td
-      align="right"> <a class="navaktiv" href="https://www.blogger.com/null">click to see
-      content</a> <a class="navaktiv" href="http://www.exoriente.org/docs/00073.pdf"
-      target="_blank">Download as pdf
-      </a></td></tr></tbody></table></div></td></tr></tbody></table><div
-      style="text-align: center;"><br /><span style="font-size: small;">See the full
-      <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a> </span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Ancient Near East"/>
+   <title type="text">Open Access Journal: NEO-LITHICS: The Newsletter of Southwest Asian Neolithic Research</title>
+   <content type="html"><![CDATA[<div style="text-align: center;"><span style="font-size: small;">&nbsp;<span><span><span><span><span><span><span><span><span>Have you taken the <a href="http://ancientworldonline.blogspot.com/2015/02/ancient-world-online-user-survey.html">AWOL User Survey</a>?</span></span></span></span></span></span></span></span></span></span></div><div style="text-align: center;"><br /></div><a href="http://www.exoriente.org/downloads/neolithics.php">NEO-LITHICS: The Newsletter of Southwest Asian Neolithic Research</a><br />ISSN: 1434-6990<br /><blockquote class="tr_bq"><img alt="http://www.exoriente.org/bilder/logo/logo.png" class="decoded" height="42" src="http://www.exoriente.org/bilder/logo/logo.png" width="400" /> </blockquote><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Edited by Gary O. Rollefson and Hans Georg K. Gebel(managing editors: Hans Georg K. Gebel 1994-2002, Jürgen Baumgarten 2003-2008, Dörte Rokitta-Krumnow 2009-today).</span><br /><span style="font-size: x-small;">A Newsletter of Southwest Asian Lithic Research (appears since 1994, two issues per year, c. 40-50 pages each </span></blockquote><table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 580px;"><tbody></tbody></table><table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 580px;"><tbody><tr><td height="30"><br /></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/94</td>                  <td align="right">                                    <a class="navaktiv" href="https://www.blogger.com/null">click to see content</a>                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00001.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/94</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00002.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/95</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00003.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/95</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00004.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/96</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00007.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/96</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00008.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/97</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00009.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/97</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00010.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 3/97</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00011.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/98</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00012.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/98</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00013.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 3/98</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00014.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/99</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00015.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/99</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00016.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 3/99</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00017.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/00</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00018.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2+3/00</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00019.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/01</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00020.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/01</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00021.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/02</td>                  <td align="right">                                    <a class="navaktiv" href="https://www.blogger.com/null">click to see content</a>                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00043.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/02</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00044.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/03</td>                  <td align="right">                                    <a class="navaktiv" href="https://www.blogger.com/null">click to see content</a>                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00045.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/03</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00046.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/04</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00047.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/04</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00048.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/05</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00049.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/05</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00050.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/10</td>                  <td align="right">                                    <a class="navaktiv" href="https://www.blogger.com/null">click to see content</a>                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00051.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/06</td>                  <td align="right">                                    <a class="navaktiv" href="https://www.blogger.com/null">click to see content</a>                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00065.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/06</td>                  <td align="right">                                    <a class="navaktiv" href="https://www.blogger.com/null">click to see content</a>                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00066.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/07</td>                  <td align="right">                                    <a class="navaktiv" href="https://www.blogger.com/null">click to see content</a>                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00067.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/07</td>                  <td align="right">                                    <a class="navaktiv" href="https://www.blogger.com/null">click to see content</a>                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00068.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/08</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00069.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/08</td>                  <td align="right">                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00070.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 1/09</td>                  <td align="right">                                    <a class="navaktiv" href="https://www.blogger.com/null">click to see content</a>                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00071.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/09</td>                  <td align="right">                                    <a class="navaktiv" href="https://www.blogger.com/null">click to see content</a>                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00072.pdf" target="_blank">Download as pdf </a></td>                  </tr></tbody></table></div></td>          </tr><tr>            <td valign="top">              <div class="mitglieder_titel"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;">                <tbody><tr>                  <td class="mitglieder_titel_txt" width="300">Neo-Lithics 2/13</td>                  <td align="right">                                    <a class="navaktiv" href="https://www.blogger.com/null">click to see content</a>                                    <a class="navaktiv" href="http://www.exoriente.org/docs/00073.pdf" target="_blank">Download as pdf </a></td></tr></tbody></table></div></td></tr></tbody></table><div style="text-align: center;"><br /><span style="font-size: small;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a> </span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/339709093068995378/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/339709093068995378/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/01/open-access-journal-neo-lithics.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/339709093068995378"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/339709093068995378"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/01/open-access-journal-neo-lithics.html"
          title="Open Access Journal: NEO-LITHICS: The Newsletter of Southwest Asian Neolithic Research"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

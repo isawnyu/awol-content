@@ -1,64 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1056513428593203376</id>
-    <published>2014-03-22T09:07:00.002-04:00</published>
-    <updated>2014-03-22T09:07:37.294-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1056513428593203376</id>
+   <published>2014-03-22T09:07:00.002-04:00</published>
+   <updated>2016-08-18T11:13:10.528-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">New Open Access Journal: Nailos: Estudios Interdisciplinares de
-      Arqueologia</title>
-    <content type="html"><![CDATA[<a href="http://nailos.org/">Nailos: Estudios Interdisciplinares de
-      Arqueologia</a><br />ISSN: 2340-9126<br />e-ISSN: 2341-1074<br
-      /><blockquote class="tr_bq"><img
-      alt="http://nailos.org/wp-content/uploads/2014/02/cropped-cabecera-Nailos-Web-e1393443510986.jpg"
-      class="decoded" height="96"
-      src="http://nailos.org/wp-content/uploads/2014/02/cropped-cabecera-Nailos-Web-e1393443510986.jpg"
-      width="640" /></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Nailos admite para su publicación estudios relacionados directamente con la
-      Arqueología, entendida esta como la disciplina científica que estudia las sociedades a partir
-      de sus restos materiales, independientemente del periodo cronológico al que pertenezcan.
-      También acepta colaboraciones relativas a temas como la epistemología y metodología
-      arqueológica, historia de la ciencia arqueológica, geoarqueología, paleoantropología,
-      arqueometría, estudios de paleoambiente, museología y didáctica de la Arqueología, gestión del
-      patrimonio arqueológico o etnoarqueología.</span><br /><span style="font-size:
-      x-small;"><br /></span><span style="font-size:
-      x-small;"><strong><a href="http://nailos.org/nailos-1-2014/">2014 Nailos Volumen
-      1</a></strong></span></blockquote><br /><div
-      style="text-align: center;"><span style="font-size:
-      small;"><span><span><span><span>See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span>
-      </span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
+   <title type="text">New Open Access Journal: Nailos: Estudios Interdisciplinares de Arqueologia</title>
+   <content type="html"><![CDATA[<a href="http://nailos.org/">Nailos: Estudios Interdisciplinares de Arqueologia</a><br />ISSN: 2340-9126<br />e-ISSN: 2341-1074<br /><blockquote class="tr_bq"><img alt="http://nailos.org/wp-content/uploads/2014/02/cropped-cabecera-Nailos-Web-e1393443510986.jpg" class="decoded" src="http://nailos.org/wp-content/uploads/2014/02/cropped-cabecera-Nailos-Web-e1393443510986.jpg" height="60" width="400" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Nailos admite para su publicación estudios relacionados directamente con  la Arqueología, entendida esta como la disciplina científica que  estudia las sociedades a partir de sus restos materiales,  independientemente del periodo cronológico al que pertenezcan. También  acepta colaboraciones relativas a temas como la epistemología y  metodología arqueológica, historia de la ciencia arqueológica,  geoarqueología, paleoantropología, arqueometría, estudios de  paleoambiente, museología y didáctica de la Arqueología, gestión del  patrimonio arqueológico o etnoarqueología.</span><br /><ul><li><span style="font-size: x-small;"><strong><a href="http://nailos.org/nailos-1-2014/">Volumen 1 (2014)</a></strong></span></li></ul><span style="font-size: x-small;"></span><ul><li><span style="font-size: x-small;"><strong><a href="http://nailos.org/nailos-2-2015/">Volumen 2 (2015)</a></strong></span></li></ul><span style="font-size: x-small;"></span><ul><li><span style="font-size: x-small;"><a href="http://nailos.org/nailos-3-2016/"><strong>Volumen 3 (2016)</strong></a></span></li></ul></blockquote><br /><div style="text-align: center;"><span style="font-size: x-small;"></span><span style="font-size: small;"><span><span style="font-family: &quot;primasans bt,verdana,sans-serif&quot;;"><span><span style="font-weight: normal;">See AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1056513428593203376/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1056513428593203376/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/new-open-access-journal-nailos-estudios.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1056513428593203376"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1056513428593203376"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/new-open-access-journal-nailos-estudios.html"
          title="New Open Access Journal: Nailos: Estudios Interdisciplinares de Arqueologia"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,175 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1862134636646060613</id>
-    <published>2013-12-26T10:30:00.000-05:00</published>
-    <updated>2013-12-26T11:01:51.612-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1862134636646060613</id>
+   <published>2016-04-14T07:13:00.000-04:00</published>
+   <updated>2016-04-14T07:13:32.929-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Documenta Catholica Omnia online</title>
-    <content type="html"><![CDATA[<a href="http://www.documentacatholicaomnia.eu/">Documenta Catholica
-      Omnia - Multilanguage Catholic E-Book Database of all the Writings of Holy Popes, Councils,
-      Church Fathers and Doctors, and Allied Auctors</a><br /><blockquote><span
-      style="font-size: x-small;">... Documenta Cattolica omnia est Corpus quod omnia documenta
-      publici dominii redacta in præcipuis linguis cristianitatis continet. Iuxta Constitutionem
-      Apostolicam ‘Veterum Sapientia’ de latinitatis Studio Provenendo a Beato Summo Pontifice Ioanne
-      XXIII anno 1962 promulgatam, lingua latina semper prælata est aliquando adhiberi potuit.
-      Verificata originalibus versionibus conformitate, correptionibus et impaginationibus firmo modo
-      (ex procedura “standard”) peractibus, talia documenta ex “internet” extracta in unico file modo
-      *.doc vel *.pdf collecta sunt, in quo integrum textum continetur ut viteatur excursum in linea
-      qua revera impedit et impossibilem integralem “download” nonnumquam reddit. Ita ut prædictum
-      locum informaticum aptum ad studium et ricercam præcipue apparet. Ante “download” attendendum
-      est de amplitudinibus (vel ad amplitudines) selecti documenti quæ adsequere possunt etiam
-      multos MB. Etenim nonnulla documenta qua in internet posita sunt in tractatibus hodie sine
-      copyright continentur...</span></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;"><span lang="EN-US">... Documenta
-      Catholica Omnia is the collection of all catholic available texts, declared of public
-      knowledge, written in the main Christianity’s languages. In obedience to Blessed Sovereign
-      Pontiff John XXIII’s 1962 Constitutio Apostolica 'Veterum Sapientia' de Latinitatis Studio
-      Provenendo, the Latin language has been chosen every time it was possible. These documents have
-      been collected in the Web and are verified to comply with the official on paper version,
-      corrected in case of need, made up according to the standard procedure and each and every one
-      of them is shown in a *.doc or *pdf format with the whole text in order to avoid the very
-      tiresome on line thumbing through that makes difficult and sometimes impossible its complete
-      downloading. For this reason this Website seems to be very useful for both study and research.
-      Before the downloading pay attention carefully to the chosen document’s dimensions, that may
-      reach 250 MB. Some of the texts have been digitalized from treatises no more copyright
-      covered...</span></span><br /><table border="1" cellpadding="0"
-      cellspacing="0"><tbody><tr><td bgcolor="yellow" colspan="3"
-      width="1260"><span style="font-size:
-      xx-small;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;<b>Conspectus Rerum Ratione Argumentorum Distributus Seu 'Index of
-      Available Topics'</b>&nbsp;&nbsp; </span></td></tr><tr>
-      <td width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/00_De_Sacrae_Scripturae_Libris.html">00- De
-      Sacrae Scripturae Libris</a>&nbsp;&nbsp;&nbsp;&nbsp;
-      </span></td> <td width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/07_De_Sanctis_Beatisque_Ac_Martyribus.html">07-
-      De Sanctis Beatisque Ac Martyribus</a>&nbsp;&nbsp;&nbsp;&nbsp;
-      </span></td> <td width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/40_De_Precibus.html">40- De
-      Precibus</a>&nbsp;&nbsp;&nbsp;&nbsp;
-      </span></td></tr><tr> <td width="420"><span style="font-size:
-      xx-small;"> &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/01_De_Ecclesiae_Magisterio.html">01- De
-      Ecclesiae Magisterio</a>&nbsp;&nbsp;&nbsp;&nbsp; </span></td>
-      <td width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/10_De_Ecclesiae_Gentiumque_Iure.html">10- De
-      Ecclesiae Gentiumque Iure</a>&nbsp;&nbsp;&nbsp;&nbsp;
-      </span></td> <td width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/50_De_Rebus_Laicorum.html">50- De Rebus
-      Laicorum</a>&nbsp;&nbsp;&nbsp;&nbsp;
-      </span></td></tr><tr> <td width="420"><span style="font-size:
-      xx-small;"> &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/02_De_Ecclesiae_Structura.html">02- De Ecclesiae
-      Structura</a>&nbsp;&nbsp;&nbsp;&nbsp; </span></td> <td
-      width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/20_De_Ecclesiae_Patribus_Doctoribusque.html">20-
-      De Ecclesiae Patribus Doctoribusque</a>&nbsp;&nbsp;&nbsp;&nbsp;
-      </span></td> <td width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/70_Auctorum_Lexica_Propria_Seu_%27Concordances%27.html">70-
-      Auctorum Lexica Propria Seu 'Concordances'</a>&nbsp;&nbsp;&nbsp;&nbsp;
-      </span></td></tr><tr> <td width="420"><span style="font-size:
-      xx-small;"> &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/04_De_Sacra_Latina_Liturgia.html">04- De Sacra
-      Latina Liturgia</a>&nbsp;&nbsp;&nbsp;&nbsp; </span></td>
-      <td width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/25_Migne.html">25-
-      Migne</a>&nbsp;&nbsp;&nbsp;&nbsp; </span></td> <td
-      width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/90_De_Ceteris_Opinionibus_Superstitionibusque.html">90-
-      De Ceteris Opinionibus Superstitionibusque</a>&nbsp;&nbsp;&nbsp;&nbsp;
-      </span></td></tr><tr> <td width="420"><span style="font-size:
-      xx-small;"> &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/05_De_Ordinibus_Christifideliumque_Consociationibus.html">05-
-      De Ordinibus Christifideliumque
-      Consociationibus</a>&nbsp;&nbsp;&nbsp;&nbsp; </span></td>
-      <td width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/30_De_Scriptoribus_Ecclesiae_Relatis.html">30-
-      De Scriptoribus Ecclesiae Relatis</a>&nbsp;&nbsp;&nbsp;&nbsp;
-      </span></td> <td width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;&nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/91_De_Illis_Qui_Deum_Ecclesiamque_in_Odium_Habent.html">91-
-      De Illis Qui Deum Ecclesiamque in Odium
-      Habent</a>&nbsp;&nbsp;&nbsp;&nbsp;
-      </span></td></tr></tbody></table><span style="font-size:
-      xx-small;"></span><table border="1" cellpadding="0"
-      cellspacing="0"><tbody><tr> <td bgcolor="yellow" colspan="3"
-      width="1260"><span style="font-size:
-      xx-small;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;<b>Ad Omnia Conspectus seu 'Indexes of the whole
-      Site'</b>&nbsp;&nbsp; </span></td></tr><tr> <td
-      width="420"><span style="font-size: xx-small;"> &nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/a_1010_Conspectus_Omnium_Rerum_Alphabeticus_Littera.html">Conspectus
-      Rerum Auctorumque Alphabeticus</a>&nbsp;&nbsp; </span></td> <td
-      width="420"><span style="font-size: xx-small;"> &nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/a_1020_Conspectus_Alphabeticus_Secundum_Sermones_Qui_Innati_Sunt_LT.html">Conspectus
-      Alphabeticus Secundum Sermones Qui Innati Sunt</a>&nbsp;&nbsp;
-      </span></td> <td width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/a_1003_Bibliothecae_Partes_seu_%27Site_Map%27.html">Bibliothecae
-      Partes seu 'Site Map'&nbsp;&nbsp;</a>&nbsp;&nbsp;
-      </span></td></tr><tr> <td width="420"><span style="font-size:
-      xx-small;"> &nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/a_1011_Conspectus_Omnium_Rerum_Ratione_Temporum_Distributus_0000-0099.html">Conspectus
-      Rerum Ratione Temporum Distributus</a>&nbsp;&nbsp; </span></td>
-      <td width="420"><span style="font-size: xx-small;"> &nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/a_1021_Conspectus_Chronologicus_Secundum_Sermones_Qui_Innati_Sunt.html">Conspectus
-      Chronologicus Secundum Sermones Qui Innati Sunt</a>&nbsp;&nbsp;
-      </span></td> <td width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;<img src="http://www.documentacatholicaomnia.eu/img/mano_a_destra.gif"
-      /><a
-      href="http://www.documentacatholicaomnia.eu/a_9999_Recentissima_Incrementa.html">Recentissima
-      Incrementa seu 'What's New'</a>&nbsp;&nbsp;
-      </span></td></tr><tr> <td width="420"><span style="font-size:
-      xx-small;"> &nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/a_1050_Sanctorum_Paparum_Conspectus_Alphabeticus.html">Sanctorum
-      Paparum Conspectus Alphabeticus.html</a>&nbsp;&nbsp; </span></td>
-      <td width="420"><span style="font-size: xx-small;"> &nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/a_1051_Sanctorum_Paparum_Decretalia_Ac_Argumenta_Quae_Pertinent.html">Sanctorum_Paparum_Decretalia_Ac_Argumenta_Quae_Pertinent</a>&nbsp;&nbsp;
-      </span></td> <td width="420"><span style="font-size: xx-small;">
-      &nbsp;&nbsp;<a
-      href="http://www.documentacatholicaomnia.eu/a_1101_Chronica_Historiaeque.html">Chronica
-      Historiaeque</a>&nbsp;&nbsp;
-      </span></td></tr></tbody></table></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Documenta Catholica Omnia online</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 26 December 2013, updated 14 April 2016]</span><br /><br /><a href="http://www.documentacatholicaomnia.eu/">Documenta Catholica Omnia - Multilanguage Catholic E-Book Database of all the Writings of Holy Popes, Councils, Church Fathers and Doctors, and Allied Auctors</a><br /><blockquote><span style="font-size: x-small;">... Documenta Cattolica omnia est Corpus quod omnia documenta publici dominii redacta in præcipuis linguis cristianitatis continet. Iuxta Constitutionem Apostolicam ‘Veterum Sapientia’ de latinitatis Studio Provenendo a Beato Summo Pontifice Ioanne XXIII anno 1962 promulgatam, lingua latina semper prælata est aliquando adhiberi potuit. Verificata originalibus versionibus conformitate, correptionibus et impaginationibus firmo modo (ex procedura “standard”) peractibus, talia documenta ex “internet” extracta in unico file modo *.doc vel *.pdf collecta sunt, in quo integrum textum continetur ut viteatur excursum in linea qua revera impedit et impossibilem integralem “download” nonnumquam reddit. Ita ut prædictum locum informaticum aptum ad studium et ricercam præcipue apparet. Ante “download” attendendum est de amplitudinibus (vel ad amplitudines) selecti documenti quæ adsequere possunt etiam multos MB. Etenim nonnulla documenta qua in internet posita sunt in tractatibus hodie sine copyright continentur...</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><span lang="EN-US">... Documenta Catholica   Omnia is the collection of all catholic available texts, declared of public   knowledge, written in the main Christianity’s languages. In obedience to   Blessed Sovereign Pontiff John XXIII’s 1962 Constitutio Apostolica 'Veterum   Sapientia' de Latinitatis Studio Provenendo, the Latin language has been   chosen every time it was possible. These documents have been collected in the   Web and are verified to comply with the official on paper version, corrected   in case of need, made up according to the standard procedure and each and   every one of them is shown in a *.doc or *pdf format with the whole text in   order to avoid the very tiresome on line thumbing through that makes   difficult and sometimes impossible its complete downloading. For this reason   this Website seems to be very useful for both study and research. Before the   downloading pay attention carefully to the chosen document’s dimensions, that   may reach 250 MB. Some of the texts have been digitalized from treatises no   more copyright covered...</span></span><br /><hr /><span style="font-size: x-small;"></span><center><span style="font-size: x-small;"></span><table border="1" cellpadding="0" cellspacing="0"><tbody><tr>    <td bgcolor="yellow" colspan="3" width="1260"><span style="font-size: x-small;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         &nbsp;&nbsp;<b>Conspectus Rerum Ratione Argumentorum Distributus Seu 'Index of Available Topics'</b>&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/00_De_Sacrae_Scripturae_Libris.html">00- De Sacrae Scripturae Libris</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/07_De_Sanctis_Beatisque_Ac_Martyribus.html">07- De Sanctis Beatisque Ac Martyribus</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/40_De_Precibus.html">40- De Precibus</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/01_De_Ecclesiae_Magisterio.html">01- De Ecclesiae Magisterio</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/10_De_Ecclesiae_Gentiumque_Iure.html">10- De Ecclesiae Gentiumque Iure</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/50_De_Rebus_Laicorum.html">50- De Rebus Laicorum</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/02_De_Ecclesiae_Structura.html">02- De Ecclesiae Structura</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/20_De_Ecclesiae_Patribus_Doctoribusque.html">20- De Ecclesiae Patribus Doctoribusque</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/70_Auctorum_Lexica_Propria_Seu_%27Concordances%27.html">70- Auctorum Lexica Propria Seu 'Concordances'</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/04_De_Sacra_Latina_Liturgia.html">04- De Sacra Latina Liturgia</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_Migne.html">25- Migne</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/90_De_Ceteris_Opinionibus_Superstitionibusque.html">90- De Ceteris Opinionibus Superstitionibusque</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/05_De_Ordinibus_Christifideliumque_Consociationibus.html">05- De Ordinibus Christifideliumque Consociationibus</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/30_De_Scriptoribus_Ecclesiae_Relatis.html">30- De Scriptoribus Ecclesiae Relatis</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/91_De_Illis_Qui_Deum_Ecclesiamque_in_Odium_Habent.html">91- De Illis Qui Deum Ecclesiamque in Odium Habent</a>&nbsp;&nbsp;&nbsp;&nbsp;     </span></td></tr></tbody></table><span style="font-size: x-small;"></span><table border="1" cellpadding="0" cellspacing="0"><tbody><tr>    <td bgcolor="yellow" colspan="3" width="1260"><span style="font-size: x-small;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         &nbsp;&nbsp;<b>Ad Omnia Conspectus seu 'Indexes of the whole Site'</b>&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/a_1010_Conspectus_Omnium_Rerum_Alphabeticus_Littera.html">Conspectus Rerum Auctorumque Alphabeticus</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/a_1020_Conspectus_Alphabeticus_Secundum_Sermones_Qui_Innati_Sunt_LT.html">Conspectus Alphabeticus Secundum Sermones Qui Innati Sunt</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/a_1003_Bibliothecae_Partes_seu_%27Site_Map%27.html">Bibliothecae Partes seu 'Site Map'&nbsp;&nbsp;</a>&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/a_1011_Conspectus_Omnium_Rerum_Ratione_Temporum_Distributus_0000-0099.html">Conspectus Rerum Ratione Temporum Distributus</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/a_1021_Conspectus_Chronologicus_Secundum_Sermones_Qui_Innati_Sunt.html">Conspectus Chronologicus Secundum Sermones Qui Innati Sunt</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<img src="http://www.documentacatholicaomnia.eu/img/mano_a_destra.gif" /><a href="http://www.documentacatholicaomnia.eu/a_9999_Recentissima_Incrementa.html">Recentissima Incrementa seu 'What's New'</a>&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/a_1050_Sanctorum_Paparum_Conspectus_Alphabeticus.html">Sanctorum Paparum Conspectus Alphabeticus.html</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/a_1051_Sanctorum_Paparum_Decretalia_Ac_Argumenta_Quae_Pertinent.html">Sanctorum_Paparum_Decretalia_Ac_Argumenta_Quae_Pertinent</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/a_1101_Chronica_Historiaeque.html">Chronica Historiaeque</a>&nbsp;&nbsp;     </span></td></tr></tbody></table><span style="font-size: x-small;"></span><table border="1" cellpadding="0" cellspacing="0"><tbody><tr>    <td bgcolor="yellow" colspan="3" width="1260"><span style="font-size: x-small;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         &nbsp;&nbsp;<b>Documentorum Amplissimae Collectiones Monumentaque</b>&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/01_01_9999-9990-_Sancta_Sedes.html"><b>Sancta Sedes: </b>«Acta Sanctae Sedis»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/01_01_9999-9990-_Sancta_Sedes.html"><b>Sancta Sedes: </b>«Acta Apostolicae Sedis»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1876-1903-_Bruel_A.html"><b>Bruel A: </b>«Recueil des Chartes de l'Abbaye de Cluny»</a>&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/01_60_1692-1692-_Cherubini_Laerzio.html"><b>Cherubini Laerzio: </b>«Magnum Bullarium Romanum»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1865-1869-_Congregation_de_Saint-Maur.html"><b>Congr S Maur: </b>«Histoire Litteraire de la France»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1844-1895-_Recueil_des_Historiens_des_Croisades.html"><b>Coaevi Historici: </b>«Historiens des Croisades»</a>&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1828-1897-_Corpus_Scriptorum_Historiae_Byzantinae.html"><b>CSHB: </b>«Corpus Scriptorum Historiae Byzantinae»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1609-1685-_D%27Achery_Mabillon.html"><b>D'Achery Mabillon,: </b>«Acta Sanctorum Ordinis S Benedicti»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1601-1678-_Du_Boulay.html"><b>Du_Boulay: </b>«Historia Universitatis Parisiensis»</a>&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1610-1688-_Du_Cange_C.html"><b>Du Cange: </b>«Glossarium Mediae et Infimae Latinitatis»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1772-1772-_Du_Fresne_Carpentier.html"><b>Du Fresne Carpentier: </b>«Gloss Man ad Script Med et Inf Lat»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1668-1736-_Fabricius_JA.html"><b>Fabricius JA: </b>«Bibliotheca Latina et Graeca»</a>&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1858-1858-_Ferraris_L.html"><b>Ferraris L: </b>Prompta Bibliotheca Canonica Juridica»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1688-1768-_Forcellini_Aeg.html"><b>Forcellini Aeg: </b>«Lexicon Totius Latinitatis»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1809-1893-_Hefele_KJ.html"><b>Hefele KJ: </b>«Histoire des Concilies»</a>&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/01_50_1692-1769-_Mansi_JD.html"><b>Mansi JD: </b>«Sacrorum Conciliorum Nova Amplissima Collectio»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1724-1724-_Martene-Durand.html"><b>Martene-Durand: </b>«Veterum Scriptorum Collectio»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/01_60_1860-1860-_Miklosich_Mueller.html"><b>Miklosich-Mueller: </b>«Acta Graeca Medii Aevi»</a>&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1925-1933-_Monumenta_Germaniae_Historica.html"><b>MGH: </b>«Monumenta Germaniae Historica»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1672-1750-_Muratori_LA.html"><b>Muratori LA: </b>«Annali d'Italia»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1643-1925-_Acta_Sanctorum.html"><b>Societé des Bollandistes: </b>«Acta Sanctorum»</a>&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1857-1882-_Tomassetti_Aloysius.html"><b>Tomassetti Aloysius: </b>«Bull Dipl Priv Sanc Rom Pont»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1538-1607-_Baronius_Caesar.html"><b>Baronius Caesar: </b>«Annales Ecclesiastici»</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_1904-1984-_Graffin-Nau.html"><b>Graffin Nau: </b>«Patrologia Orientalis»</a>&nbsp;&nbsp;     </span></td></tr><tr>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/25_90_Ad_Migne_Intelligendum.html"><b>Reliquae Collectiones Monumentaque: </b>XXXVII Opera</a>&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;     </span></td>    <td width="420"><span style="font-size: x-small;">        &nbsp;&nbsp;&nbsp;&nbsp;     </span></td></tr></tbody></table><span style="font-size: x-small;"></span><span style="font-size: x-small;"></span><table border="1" cellpadding="0" cellspacing="0"><tbody><tr>    <td bgcolor="yellow" colspan="3" width="1260">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         &nbsp;&nbsp;<b><img src="http://www.documentacatholicaomnia.eu/img/mano_a_destra.gif" />Documenta  ad hunc Situm recte intellegendum utilissima, seu 'Documents that are  useful to understand and properly utilize this Site'</b>&nbsp;&nbsp;     </td></tr><tr>    <td width="420">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/a_1001_Nexus_seu_%27Links%27.html">Nexus seu 'Links'</a>&nbsp;&nbsp;     </td>    <td width="420">        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     </td>    <td width="420">        &nbsp;&nbsp;<a href="http://www.documentacatholicaomnia.eu/a_1000_About_Us.html">Animadverte seu 'About Us - Materials and Methods'</a>&nbsp;&nbsp;     </td></tr></tbody></table></center></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1862134636646060613/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1862134636646060613/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/10/documenta-catholica-omnia-online.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1862134636646060613"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1862134636646060613"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/10/documenta-catholica-omnia-online.html"
          title="Documenta Catholica Omnia online"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

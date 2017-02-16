@@ -1,121 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-846344328080308232</id>
-    <published>2013-01-28T11:22:00.001-05:00</published>
-    <updated>2013-01-28T11:22:49.149-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-846344328080308232</id>
+   <published>2013-01-28T11:22:00.001-05:00</published>
+   <updated>2013-01-28T11:22:49.149-05:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Vietnam"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Cambodia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Vietnam"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
-    <title type="text">Online Corpus of the Inscriptions of Campā</title>
-    <content type="html"><![CDATA[<a href="http://isaw.nyu.edu/publications/inscriptions/campa/">Corpus
-      of the Inscriptions of Campā</a><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;">The <span class="title">Corpus of the Inscriptions of
-      Campā</span> is a publication of the <a href="http://www.efeo.fr/">École française
-      d'Extrême-Orient</a>, realized in collaboration with the <a
-      href="http://isaw.nyu.edu/">Institute for the Study of the Ancient World</a> at New
-      York University. </span><br /> <span style="font-size: x-small;">This project
-      aims to recover, preserve, study and make accessible the corpus of inscriptions of ancient
-      Campā (in present Việt Nam), written either in Sanskrit or in Old Cam. </span><br
-      /> <div class="bait"><span style="font-size: x-small;"><a
-      href="http://isaw.nyu.edu/publications/inscriptions/campa/about.html">learn more about the
-      project</a></span></div></blockquote><div
-      id="availability"><blockquote> <div><span style="font-size:
-      x-small;"><a href="http://creativecommons.org/licenses/by/3.0/deed.en_US"
-      rel="license"><img alt="Creative Commons License"
-      src="http://i.creativecommons.org/l/by/3.0/80x15.png" style="border-width: 0px;"
-      /></a><br /><span class="title">Corpus of the Inscriptions of
-      Campā</span> is copyright © 2012 by the contributors and editors. It is licensed under a
-      <a href="http://creativecommons.org/licenses/by/3.0/deed.en_US" rel="license">Creative
-      Commons Attribution 3.0 Unported License</a>.
-      </span></div></blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">In 2009, the French School of Asian Studies (<a
-      href="http://www.efeo.fr/">École française d'Extrême-Orient</a>, EFEO) launched the
-      project <span class="title">Corpus of the Inscriptions of Campā</span> (CIC),
-      aiming to renew the tradition of scholarship on these inscriptions that had thrived at the
-      institution in the early 20th century. </span><br /><span style="font-size:
-      x-small;"> </span><span style="font-size: x-small;">The primary aim of the
-      project is <strong>to update and to continue the EFEO inventory of the inscriptions of
-      Campā</strong>, compiled in the early decades of the 20th century by the renowned scholar
-      George Cœdès. In this inventory, each inscription received a unique 'C.' number (C = Campā),
-      under which were recorded various types of useful information, such as: the place where the
-      inscription had been found; the place where it was currently located (if it had been moved
-      after discovery); the language(s) used in it; its date; availability of reproductions of it in
-      public libraries; bibliography of publications about the inscription. A first version of this
-      inventory was published in 1908, comprising 118 entries; a revised and updated version came out
-      in 1923, and at that time the list comprised 170 entries; supplements published in 1937 and
-      1942 raised the total first to 196, and finally to 200 entries. After this, the inventory fell
-      into disuse, and for many decades there was no central registration of newly discovered
-      inscriptions, or of changes in the situation of previously registered items.
-      </span><br /><span style="font-size: x-small;"> </span><span
-      style="font-size: x-small;">And it was not only the maintenance of an inventory that came to
-      be neglected. After a small handful of publications of inscriptions of Campā by EFEO scholars
-      that appeared in the 1920s and 1930s, the study of these inscriptions, inside and outside the
-      EFEO, came to a complete stop due to World War II and the subsequent period of Vietnamese
-      struggle for independence and reunification. At that time, only about half of all known
-      inscriptions had been published, and in general the study of inscriptions in Sanskrit language
-      had received much more attention — at least it had advanced more significantly — than that of
-      inscriptions in Cam. Most Cam-language inscriptions whose texts had been published, had been
-      published without translations. Even the existing translations were almost never precise
-      renderings of the originals, but rather loose patch-works of understood, guessed and ignored
-      elements of the originals. In this situation, the second important aim of the CIC project is
-      <strong>to publish texts and translations</strong> of the inscriptions whose
-      existence was known but had not yet been published; bring out texts and translations of newly
-      discovered inscriptions; publish translations of texts that had been published without any
-      translations; and, last but not least, review the texts published by previous scholars, which
-      often allows the correction of wrong readings, and hence improvement in the interpretation of
-      texts published a long time ago. </span><br /><span style="font-size:
-      x-small;"> </span><span style="font-size: x-small;">The project has opted for a
-      two-pronged <strong>publication strategy</strong>. We are publishing our results
-      piecemeal in traditional paper publications, both through international journals (mainly in
-      French), and through publications in Vietnam (using Vietnamese). But we are simultaneously
-      preparing the present online publication which will, in due course, bring together the corpus
-      in its entirety, and present the most up-to-date versions of our treatment of the individual
-      inscriptions. </span></blockquote><blockquote class="tr_bq"><ul
-      class="hnav"><li class="selected"><span style="font-size: x-small;"><a
-      href="http://isaw.nyu.edu/publications/inscriptions/campa/about.html">about</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://isaw.nyu.edu/publications/inscriptions/campa/credits.html">credits</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://isaw.nyu.edu/publications/inscriptions/campa/inscriptions/index.html">inscriptions</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://isaw.nyu.edu/publications/inscriptions/campa/bibliography/index.html">bibliography</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://isaw.nyu.edu/publications/inscriptions/campa/search.html">search</a></span></li></ul></blockquote><div
-      id="pagebody"><blockquote> </blockquote><div
-      id="widetextcontent"><blockquote> </blockquote><div
-      id="about"><blockquote> </blockquote><div id=""><blockquote>
-      </blockquote><h2><br
-      /></h2></div></div></div></div><br /><br />
-      </div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Cambodia"/>
+   <title type="text">Online Corpus of the Inscriptions of Campā</title>
+   <content type="html"><![CDATA[<a href="http://isaw.nyu.edu/publications/inscriptions/campa/">Corpus of the Inscriptions of Campā</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">The <span class="title">Corpus of the Inscriptions of Campā</span> is a publication of the                         <a href="http://www.efeo.fr/">École française d'Extrême-Orient</a>, realized in                         collaboration with the <a href="http://isaw.nyu.edu/">Institute for the Study of the                            Ancient World</a> at New York University.                      </span><br />                      <span style="font-size: x-small;">This project aims to recover, preserve, study and make accessible the corpus of                         inscriptions of ancient Campā (in present Việt Nam), written either in Sanskrit or                         in Old                         Cam.                      </span><br />                      <div class="bait"><span style="font-size: x-small;"><a href="http://isaw.nyu.edu/publications/inscriptions/campa/about.html">learn more about the project</a></span></div></blockquote><div id="availability"><blockquote>                                                 <div><span style="font-size: x-small;"><a href="http://creativecommons.org/licenses/by/3.0/deed.en_US" rel="license"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by/3.0/80x15.png" style="border-width: 0px;" /></a><br /><span class="title">Corpus of the Inscriptions of Campā</span>                             is copyright © 2012 by the contributors and editors.                            It is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/deed.en_US" rel="license">Creative Commons Attribution 3.0 Unported License</a>.                                                     </span></div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">In 2009, the French School of Asian Studies (<a href="http://www.efeo.fr/">École française d'Extrême-Orient</a>, EFEO) launched the project <span class="title">Corpus of the Inscriptions of Campā</span> (CIC), aiming to renew the tradition of scholarship on these inscriptions that had                            thrived at the institution in the early 20th century.                         </span><br /><span style="font-size: x-small;">                                                 </span><span style="font-size: x-small;">The primary aim of the project is <strong>to update and to continue the EFEO inventory of the inscriptions of Campā</strong>,  compiled in the early decades of the 20th century by the renowned  scholar George                            Cœdès. In this inventory, each inscription  received a unique 'C.' number (C = Campā),                            under which were recorded various types of  useful information, such as: the place                            where the inscription had been found; the  place where it was currently located (if                            it had been moved after discovery); the  language(s) used in it; its date; availability                            of reproductions of it in public libraries;  bibliography of publications about the                            inscription. A first version of this  inventory was published in 1908, comprising 118                            entries; a revised and updated version came  out in 1923, and at that time the list                            comprised 170 entries; supplements published  in 1937 and 1942 raised the total first                            to 196, and finally to 200 entries. After  this, the inventory fell into disuse, and for many decades there was no  central                            registration of newly discovered  inscriptions, or of changes in the situation of previously                            registered items.                         </span><br /><span style="font-size: x-small;">                                                 </span><span style="font-size: x-small;">And it was not only the maintenance of an inventory that came to be neglected. After                            a small handful of publications of inscriptions of Campā by EFEO scholars that appeared                            in the 1920s and 1930s, the study of these inscriptions, inside and outside the EFEO,                            came to a complete stop due to World War II and the subsequent period of Vietnamese                            struggle for independence and reunification. At that time, only about half of all                            known inscriptions had been published, and in general the study of inscriptions in                            Sanskrit language had received much more attention — at least it had advanced more                            significantly — than that of inscriptions in Cam. Most Cam-language inscriptions whose                            texts had been published, had been published without translations. Even the existing                            translations were almost never precise renderings of the originals, but rather loose                            patch-works of understood, guessed and ignored elements of the originals. In this                            situation, the second  important aim of the CIC project is <strong>to publish texts and translations</strong> of the inscriptions whose existence was known but had not yet been published; bring                            out texts and translations of newly discovered inscriptions; publish translations                            of texts that had been published without any translations; and, last but not least,                            review the texts published by previous scholars, which often allows the correction                            of wrong readings, and hence improvement in the interpretation of texts published                            a long time ago.                         </span><br /><span style="font-size: x-small;">                                                 </span><span style="font-size: x-small;">The project has opted for a two-pronged <strong>publication strategy</strong>. We are publishing our results piecemeal in traditional paper publications, both                            through international journals (mainly in French), and through publications in Vietnam                            (using Vietnamese). But we are simultaneously preparing the present online publication                            which will, in due course, bring together the corpus in its entirety, and present                            the most up-to-date versions of our treatment of the individual inscriptions.                         </span></blockquote><blockquote class="tr_bq"><ul class="hnav"><li class="selected"><span style="font-size: x-small;"><a href="http://isaw.nyu.edu/publications/inscriptions/campa/about.html">about</a></span></li><li><span style="font-size: x-small;"><a href="http://isaw.nyu.edu/publications/inscriptions/campa/credits.html">credits</a></span></li><li><span style="font-size: x-small;"><a href="http://isaw.nyu.edu/publications/inscriptions/campa/inscriptions/index.html">inscriptions</a></span></li><li><span style="font-size: x-small;"><a href="http://isaw.nyu.edu/publications/inscriptions/campa/bibliography/index.html">bibliography</a></span></li><li><span style="font-size: x-small;"><a href="http://isaw.nyu.edu/publications/inscriptions/campa/search.html">search</a></span></li></ul></blockquote><div id="pagebody"><blockquote>               </blockquote><div id="widetextcontent"><blockquote>                                     </blockquote><div id="about"><blockquote>                                           </blockquote><div id=""><blockquote>                                                 </blockquote><h2><br /></h2></div></div></div></div><br /><br />                                               </div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/846344328080308232/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/846344328080308232/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/01/online-corpus-of-inscriptions-of-campa.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/846344328080308232"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/846344328080308232"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/01/online-corpus-of-inscriptions-of-campa.html"
          title="Online Corpus of the Inscriptions of Campā"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

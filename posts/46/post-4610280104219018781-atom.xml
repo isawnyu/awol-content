@@ -1,89 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4610280104219018781</id>
-    <published>2014-05-21T21:32:00.000-04:00</published>
-    <updated>2014-05-21T21:32:29.224-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4610280104219018781</id>
+   <published>2014-05-21T21:32:00.000-04:00</published>
+   <updated>2014-05-21T21:32:29.224-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Israel"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
-    <title type="text">Open Access Journal: The Shekel</title>
-    <content type="html"><![CDATA[<a href="http://www.theshekel.org/shekel.html">The
-      Shekel</a><br /><blockquote class="tr_bq"><img
-      alt="http://www.theshekel.org/images/shekelmagazinecover.jpg" class="decoded"
-      src="http://www.theshekel.org/images/shekelmagazinecover.jpg" />
-      </blockquote><blockquote class="tr_bq"><span style="font-family: Arial,
-      Helvetica, sans-serif; font-size: x-small;">In Biblical times a "Shekel" was a weight of
-      silver. When the ancient Judeans fought for religious freedom against the Romans, the 'Shekel'
-      was a silver coin. Since 1967, <b>"The Shekel"</b> has been an award winning
-      entertaining and informing bi-monthly magazine - that has been called "The Jewish Readers
-      Digest."But you don't have to be Jewish to enjoy this fully illustrated information-packed
-      magazine. For instance articles have included Bible Quotations on Mormon Coins, Shroud of Turin
-      Coin Theory Disputed, the Widow's Mite, and so on. Plus articles about Anne Frank, Albert
-      Einstein, Raoul Wallenberg, Hank Greenberg, etc. Members can read original articles and
-      selected material from around the world in each 48-page issue of <b>"The
-      Shekel"</b> - at a cost of less than 10 cents per day.</span><span
-      style="font-size: x-small;"> </span></blockquote><blockquote
-      class="tr_bq"><h1><span style="font-size: x-small;">Shekel Online
-      Project</span></h1><div id="DecadeNav"> <span style="font-size:
-      x-small;">Browse by Decade</span><br /> <table border="1" cellpadding="3"
-      cellspacing="0" style="width: 100%px;"> <tbody><tr><td
-      align="center"><span style="font-size: x-small;"><a
-      href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/1960.html">1960's</a></span></td>
-      <td align="center"><span style="font-size: x-small;"><a
-      href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/1970.html">1970's</a></span></td>
-      <td align="center"><span style="font-size: x-small;"><a
-      href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/1980.html">1980's</a></span></td>
-      <td align="center"><span style="font-size: x-small;"><a
-      href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/1990.html">1990's</a></span></td>
-      <td align="center"><span style="font-size: x-small;"><a
-      href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/2000.html">2000's</a></span></td>
-      <td align="center"><span style="font-size: x-small;"><a
-      href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/2010.html">2010's</a></span></td>
-      <td align="center"><span style="font-size: x-small;"><a
-      href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/search.html">Search
-      Archive</a></span></td> <td align="center"><span style="font-size:
-      x-small;"><a
-      href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/indexs.html">Indexes</a></span></td></tr></tbody></table></div><span
-      style="font-size: x-small;">2010: Browse by Year</span><br />
-      <ul><li><span style="font-size: x-small;"><a
-      href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/2010s/2010/">2010</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/2010s/2011/">2011</a></span></li></ul></blockquote><div
-      style="text-align: center;"><div style="text-align: center;"><span
-      class="Apple-style-span" style="color: #333333; font-family: 'Times New Roman'; line-height:
-      25px;">See the full&nbsp;</span><span class="Apple-style-span" style="color:
-      #333333; font-family: 'Times New Roman'; line-height: 25px;"><a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html"
-      style="color: #5588aa; text-decoration: none;">List of Open Access Journals in Ancient
-      Studies</a></span></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Israel"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
+   <title type="text">Open Access Journal: The Shekel</title>
+   <content type="html"><![CDATA[<a href="http://www.theshekel.org/shekel.html">The Shekel</a><br /><blockquote class="tr_bq"><img alt="http://www.theshekel.org/images/shekelmagazinecover.jpg" class="decoded" src="http://www.theshekel.org/images/shekelmagazinecover.jpg" /> </blockquote><blockquote class="tr_bq"><span style="font-family: Arial, Helvetica, sans-serif; font-size: x-small;">In                  Biblical times a "Shekel" was a weight of silver. When the ancient                  Judeans fought for religious freedom against the Romans, the 'Shekel'                  was a silver coin. Since 1967, <b>"The Shekel"</b> has been an                  award winning entertaining and informing bi-monthly magazine -                  that has been called "The Jewish Readers Digest."But you don't                  have to be Jewish to enjoy this fully illustrated information-packed                  magazine. For instance articles have included Bible Quotations                  on Mormon Coins, Shroud of Turin Coin Theory Disputed, the Widow's                  Mite, and so on. Plus articles about Anne Frank, Albert Einstein,                  Raoul Wallenberg, Hank Greenberg, etc. Members can read original                  articles and selected material from around the world in each 48-page                  issue of <b>"The Shekel"</b> - at a cost of less than 10 cents                  per day.</span><span style="font-size: x-small;"> </span></blockquote><blockquote class="tr_bq"><h1><span style="font-size: x-small;">Shekel Online Project</span></h1><div id="DecadeNav">     <span style="font-size: x-small;">Browse by Decade</span><br />      <table border="1" cellpadding="3" cellspacing="0" style="width: 100%px;">      <tbody><tr><td align="center"><span style="font-size: x-small;"><a href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/1960.html">1960's</a></span></td>      <td align="center"><span style="font-size: x-small;"><a href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/1970.html">1970's</a></span></td>      <td align="center"><span style="font-size: x-small;"><a href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/1980.html">1980's</a></span></td>      <td align="center"><span style="font-size: x-small;"><a href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/1990.html">1990's</a></span></td>      <td align="center"><span style="font-size: x-small;"><a href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/2000.html">2000's</a></span></td>      <td align="center"><span style="font-size: x-small;"><a href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/2010.html">2010's</a></span></td>      <td align="center"><span style="font-size: x-small;"><a href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/search.html">Search Archive</a></span></td>      <td align="center"><span style="font-size: x-small;"><a href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/indexs.html">Indexes</a></span></td></tr></tbody></table></div><span style="font-size: x-small;">2010: Browse by Year</span><br />                  <ul><li><span style="font-size: x-small;"><a href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/2010s/2010/">2010</a></span></li><li><span style="font-size: x-small;"><a href="https://googledrive.com/host/0B68uBERW6rHYdVgydDBiLUxDbTA/2010s/2011/">2011</a></span></li></ul></blockquote><div style="text-align: center;"><div style="text-align: center;"><span class="Apple-style-span" style="color: #333333; font-family: 'Times New Roman'; line-height: 25px;">See the full&nbsp;</span><span class="Apple-style-span" style="color: #333333; font-family: 'Times New Roman'; line-height: 25px;"><a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html" style="color: #5588aa; text-decoration: none;">List of Open Access Journals in Ancient Studies</a></span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4610280104219018781/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4610280104219018781/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/open-access-journal-shekel.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4610280104219018781"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4610280104219018781"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/open-access-journal-shekel.html"
          title="Open Access Journal: The Shekel"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

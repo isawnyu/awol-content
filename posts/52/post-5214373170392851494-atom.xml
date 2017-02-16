@@ -1,57 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5214373170392851494</id>
-    <published>2015-01-05T16:30:00.000-05:00</published>
-    <updated>2015-01-05T18:56:23.372-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5214373170392851494</id>
+   <published>2015-01-05T16:30:00.000-05:00</published>
+   <updated>2015-01-05T18:56:23.372-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">2015 AIA/SCS Annual Meeting App</title>
-    <content type="html"><![CDATA[<a
-      href="https://itunes.apple.com/us/app/2015-aia-scs-annual-meeting/id948818250">2015 AIA/SCS
-      Annual Meeting App</a><br /><a
-      href="https://play.google.com/store/apps/details?id=com.quickmobile.aiascs2015">Android
-      version </a><br /><a href="https://aiascs.quickmobile.com/home/index/1">Web
-      Version</a><br /><blockquote class="tr_bq"><img
-      alt="http://a1.mzstatic.com/us/r30/Purple5/v4/e2/ec/bd/e2ecbd5c-74b7-0d3a-3248-33228c1e6f57/screen322x572.jpeg"
-      class="decoded"
-      src="http://a1.mzstatic.com/us/r30/Purple5/v4/e2/ec/bd/e2ecbd5c-74b7-0d3a-3248-33228c1e6f57/screen322x572.jpeg"
-      height="200" width="116" /> </blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">This is the official App for the 116th Joint Annual Meeting of
-      the Archaeological Institute of America (AIA) and the Society for Classical Studies (SCS). The
-      Joint Annual Meeting will be held in New Orleans, Louisiana from January 8-11, 2015. With this
-      App you can view the entire program of academic sessions and events for both organizations and
-      create a custom schedule of those you plan on attending. You can also browse the complete list
-      of speakers, find your way with maps of the venues, receive updates on last minute changes, see
-      what events are happening in real time, and explore the exhibit hall with an interactive map.
-      Registered meeting attendees can also connect through direct messaging (meeting login
-      required).</span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">2015 AIA/SCS Annual Meeting App</title>
+   <content type="html"><![CDATA[<a href="https://itunes.apple.com/us/app/2015-aia-scs-annual-meeting/id948818250">2015 AIA/SCS Annual Meeting App</a><br /><a href="https://play.google.com/store/apps/details?id=com.quickmobile.aiascs2015">Android version </a><br /><a href="https://aiascs.quickmobile.com/home/index/1">Web Version</a><br /><blockquote class="tr_bq"><img alt="http://a1.mzstatic.com/us/r30/Purple5/v4/e2/ec/bd/e2ecbd5c-74b7-0d3a-3248-33228c1e6f57/screen322x572.jpeg" class="decoded" src="http://a1.mzstatic.com/us/r30/Purple5/v4/e2/ec/bd/e2ecbd5c-74b7-0d3a-3248-33228c1e6f57/screen322x572.jpeg" height="200" width="116" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">This is the official App for the 116th Joint Annual Meeting of the  Archaeological Institute of America (AIA) and the Society for Classical  Studies (SCS).  The Joint Annual Meeting will be held in New Orleans,  Louisiana from January 8-11, 2015.  With this App you can view the  entire program of academic sessions and events for both organizations  and create a custom schedule of those you plan on attending.  You can  also browse the complete list of speakers, find your way with maps of  the venues, receive updates on last minute changes, see what events are  happening in real time, and explore the exhibit hall with an interactive  map. Registered meeting attendees can also connect through direct  messaging (meeting login required).</span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5214373170392851494/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5214373170392851494/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/01/2015-aiascs-annual-meeting-app.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5214373170392851494"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5214373170392851494"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/01/2015-aiascs-annual-meeting-app.html"
          title="2015 AIA/SCS Annual Meeting App"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

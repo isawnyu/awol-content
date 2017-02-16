@@ -1,372 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3152921216295895396</id>
-    <published>2012-03-01T16:29:00.001-05:00</published>
-    <updated>2014-06-02T15:15:13.568-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3152921216295895396</id>
+   <published>2015-09-22T23:26:00.000-04:00</published>
+   <updated>2015-09-22T23:27:31.724-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Lebanon"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Open Access Monograph Series: Kāmid el-Lōz</title>
-    <content type="html"><![CDATA[<span class="maintext">Kāmid el-Lōz</span> in <a
-      href="http://ancientworldonline.blogspot.com/2009/07/open-access-digital-library-amar.html">AMAR</a><br
-      /><br /><span style="font-size: x-small;">One of a series of AWOL pages seeking
-      to pull together publication series digitized and served through <a
-      href="http://amar.hsclib.sunysb.edu/amar/">AMAR: Archive of Mesopotamian Archaeological Site
-      Reports</a></span><br /><br /><table border="0" cellpadding="3"
-      cellspacing="0" summary="Search results for"><tbody><tr><td
-      colspan="6"><table border="0" cellpadding="3" cellspacing="0" summary="Search results
-      for"><tbody><tr><td class="tdtext" nowrap="nowrap"><span
-      class="maintext"> </span></td><td align="left" class="tdimage"
-      style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=87884&amp;REC=1"
-      target="_top" title="Bericht über die Ergebnisse der Ausgrabungen in Kamid el-Loz (Libanon) in
-      den Jahren 1963 und 1964 "><img alt="Bericht über die Ergebnisse der Ausgrabungen in
-      Kamid el-Loz (Libanon) in den Jahren 1963 und 1964 " border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=87884"
-      height="80" title="Bericht über die Ergebnisse der Ausgrabungen in Kamid el-Loz (Libanon) in
-      den Jahren 1963 und 1964 " width="58" /></a></span></td><td
-      class="tdtext" style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=87884&amp;REC=1"
-      target="_top" title="Bericht über die Ergebnisse der Ausgrabungen in Kamid el-Loz (Libanon) in
-      den Jahren 1963 und 1964 ">Bericht über die Ergebnisse der Ausgrabungen in Kamid el-Loz
-      (Libanon) in den Jahren 1963 und 1964 </a></span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext">Hachmann, Rolf
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><nobr>1966</nobr>
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">OK </span></td></tr><tr>
-      <td colspan="6"><hr color="#cccccc" noshade="noshade" size="1" /></td>
-      </tr><tr> <td class="tdtext" nowrap="nowrap"><span class="maintext">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=87769&amp;REC=2"
-      target="_top" title="Kāmid el-Lōz. 2: Der eisenzeitliche Friedhof ; befunde und funde
-      "><img alt="Kāmid el-Lōz. 2: Der eisenzeitliche Friedhof ; befunde und funde "
-      border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=87769"
-      height="80" title="Kāmid el-Lōz. 2: Der eisenzeitliche Friedhof ; befunde und funde "
-      width="56" /></a></span></td><td class="tdtext" style="border-left: 8px
-      solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=87769&amp;REC=2"
-      target="_top" title="Kāmid el-Lōz. 2: Der eisenzeitliche Friedhof ; befunde und funde
-      ">Kāmid el-Lōz. 2: Der eisenzeitliche Friedhof ; befunde und funde
-      </a></span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">Poppa, Rudolf </span></td><td
-      class="tdtext" style="border-left: 8px solid #ffffff;"><span
-      class="maintext"><nobr>1978</nobr> </span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext">OK
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext"> </span></td><td align="left"
-      class="tdimage" style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=85285&amp;REC=3"
-      target="_top" title="Bericht über die Ergebnisse der Ausgrabungen in Kāmid el-Lōz in den
-      Jahren 1971 bis 1974 "><img alt="Bericht über die Ergebnisse der Ausgrabungen in Kāmid
-      el-Lōz in den Jahren 1971 bis 1974 " border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=85285"
-      height="80" title="Bericht über die Ergebnisse der Ausgrabungen in Kāmid el-Lōz in den
-      Jahren 1971 bis 1974 " width="56" /></a></span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=85285&amp;REC=3"
-      target="_top" title="Bericht über die Ergebnisse der Ausgrabungen in Kāmid el-Lōz in den
-      Jahren 1971 bis 1974 ">Bericht über die Ergebnisse der Ausgrabungen in Kāmid el-Lōz in
-      den Jahren 1971 bis 1974 </a></span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext">Hachmann, Rolf.
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><nobr>1982</nobr>
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">OK </span></td></tr><tr>
-      <td colspan="6"><hr color="#cccccc" noshade="noshade" size="1" /></td>
-      </tr><tr> <td class="tdtext" nowrap="nowrap"><span class="maintext">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=92752&amp;REC=4"
-      target="_top" title="Frühe Phöniker im Libanon: 20 Jahre deutsche Ausgrabungen in Kāmid
-      el-Lōz "><img alt="Frühe Phöniker im Libanon: 20 Jahre deutsche Ausgrabungen in Kāmid
-      el-Lōz " border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=92752"
-      height="80" title="Frühe Phöniker im Libanon: 20 Jahre deutsche Ausgrabungen in Kāmid
-      el-Lōz " width="71" /></a></span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=92752&amp;REC=4"
-      target="_top" title="Frühe Phöniker im Libanon: 20 Jahre deutsche Ausgrabungen in Kāmid
-      el-Lōz ">Frühe Phöniker im Libanon: 20 Jahre deutsche Ausgrabungen in Kāmid el-Lōz
-      </a></span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">Hachmann, Rolf </span></td><td
-      class="tdtext" style="border-left: 8px solid #ffffff;"><span
-      class="maintext"><nobr>1983</nobr> </span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext">OK
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext"> </span></td><td align="left"
-      class="tdimage" style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=75707&amp;REC=5"
-      target="_top" title="Kāmid el-Lōz. 5: Die Stratigraphie "><img alt="Kāmid el-Lōz. 5:
-      Die Stratigraphie " border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=75707"
-      height="80" title="Kāmid el-Lōz. 5: Die Stratigraphie " width="54"
-      /></a></span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=75707&amp;REC=5"
-      target="_top" title="Kāmid el-Lōz. 5: Die Stratigraphie ">Kāmid el-Lōz. 5: Die
-      Stratigraphie </a></span></td><td class="tdtext" style="border-left: 8px
-      solid #ffffff;"><span class="maintext">Echt, Rudolf </span></td><td
-      class="tdtext" style="border-left: 8px solid #ffffff;"><span
-      class="maintext"><nobr>1984</nobr> </span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext">OK
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext"> </span></td><td align="left"
-      class="tdimage" style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=75354&amp;REC=6"
-      target="_top" title="Kāmid el-Lōz. 6: Die Werkstätten der spätbronzezeitlichen Paläste
-      "><img alt="Kāmid el-Lōz. 6: Die Werkstätten der spätbronzezeitlichen Paläste "
-      border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=75354"
-      height="80" title="Kāmid el-Lōz. 6: Die Werkstätten der spätbronzezeitlichen Paläste "
-      width="57" /></a></span></td><td class="tdtext" style="border-left: 8px
-      solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=75354&amp;REC=6"
-      target="_top" title="Kāmid el-Lōz. 6: Die Werkstätten der spätbronzezeitlichen Paläste
-      ">Kāmid el-Lōz. 6: Die Werkstätten der spätbronzezeitlichen Paläste
-      </a></span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">Frisch, Bertram </span></td><td
-      class="tdtext" style="border-left: 8px solid #ffffff;"><span
-      class="maintext"><nobr>1985</nobr> </span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext">OK
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext"> </span></td><td align="left"
-      class="tdimage" style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=84085&amp;REC=7"
-      target="_top" title="Bericht uber die Ergebnisse der Ausgrabungen in Kamid el-Loz in den Jahren
-      1977 bis 1981 "><img alt="Bericht uber die Ergebnisse der Ausgrabungen in Kamid el-Loz in
-      den Jahren 1977 bis 1981 " border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=84085"
-      height="80" title="Bericht uber die Ergebnisse der Ausgrabungen in Kamid el-Loz in den Jahren
-      1977 bis 1981 " width="53" /></a></span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=84085&amp;REC=7"
-      target="_top" title="Bericht uber die Ergebnisse der Ausgrabungen in Kamid el-Loz in den Jahren
-      1977 bis 1981 ">Bericht uber die Ergebnisse der Ausgrabungen in Kamid el-Loz in den Jahren
-      1977 bis 1981 </a></span></td><td class="tdtext" style="border-left: 8px
-      solid #ffffff;"><span class="maintext">Hachmann, Rolf </span></td><td
-      class="tdtext" style="border-left: 8px solid #ffffff;"><span
-      class="maintext"><nobr>1986</nobr> </span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext">OK
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext"> </span></td><td align="left"
-      class="tdimage" style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=76850&amp;REC=8"
-      target="_top" title="Kāmid el-Lōz. 10: Das &quot;Schatzhaus&quot; im Palastbereich:
-      die Funde "><img alt="Kāmid el-Lōz. 10: Das &quot;Schatzhaus&quot; im
-      Palastbereich: die Funde " border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=76850"
-      height="80" title="Kāmid el-Lōz. 10: Das &quot;Schatzhaus&quot; im Palastbereich: die
-      Funde " width="53" /></a></span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=76850&amp;REC=8"
-      target="_top" title="Kāmid el-Lōz. 10: Das &quot;Schatzhaus&quot; im Palastbereich:
-      die Funde ">Kāmid el-Lōz. 10: Das "Schatzhaus" im Palastbereich: die Funde
-      </a></span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">Miron, Renate </span></td><td
-      class="tdtext" style="border-left: 8px solid #ffffff;"><span
-      class="maintext"><nobr>1990</nobr> </span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext">OK
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext"> </span></td><td align="left"
-      class="tdimage" style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=80226&amp;REC=9"
-      target="_top" title="Kāmid el-Lōz. 12: Tierhaltung und Jagd: Tierknochenfunde der
-      Ausgrabungen 1964 bis 1981 "><img alt="Kāmid el-Lōz. 12: Tierhaltung und Jagd:
-      Tierknochenfunde der Ausgrabungen 1964 bis 1981 " border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=80226"
-      height="80" title="Kāmid el-Lōz. 12: Tierhaltung und Jagd: Tierknochenfunde der Ausgrabungen
-      1964 bis 1981 " width="53" /></a></span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=80226&amp;REC=9"
-      target="_top" title="Kāmid el-Lōz. 12: Tierhaltung und Jagd: Tierknochenfunde der
-      Ausgrabungen 1964 bis 1981 ">Kāmid el-Lōz. 12: Tierhaltung und Jagd: Tierknochenfunde der
-      Ausgrabungen 1964 bis 1981 </a></span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext">Bökönyi, Sándor
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><nobr>1990</nobr>
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">OK </span></td></tr><tr>
-      <td colspan="6"><hr color="#cccccc" noshade="noshade" size="1" /></td>
-      </tr><tr> <td class="tdtext" nowrap="nowrap"><span class="maintext">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=157883&amp;REC=10"
-      target="_top" title="Kāmid el-Lōz. 8: Die Spätbronzezeitlichen Tempelanlagen ; die
-      Kleinfunde ; Tafeln "><img alt="Kāmid el-Lōz. 8: Die Spätbronzezeitlichen
-      Tempelanlagen ; die Kleinfunde ; Tafeln " border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=157883"
-      height="80" title="Kāmid el-Lōz. 8: Die Spätbronzezeitlichen Tempelanlagen ; die Kleinfunde
-      ; Tafeln " width="57" /></a></span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=157883&amp;REC=10"
-      target="_top" title="Kāmid el-Lōz. 8: Die Spätbronzezeitlichen Tempelanlagen ; die
-      Kleinfunde ; Tafeln ">Kāmid el-Lōz. 8: Die Spätbronzezeitlichen Tempelanlagen ; die
-      Kleinfunde ; Tafeln </a></span></td><td class="tdtext" style="border-left:
-      8px solid #ffffff;"><span class="maintext"><nobr></nobr>
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><nobr>1993</nobr>
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">OK </span></td></tr><tr>
-      <td colspan="6"><hr color="#cccccc" noshade="noshade" size="1" /></td>
-      </tr><tr> <td class="tdtext" nowrap="nowrap"><span class="maintext">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=133101&amp;REC=11"
-      target="_top" title="Kāmid el-Lōz. 8: Die Spätbronzezeitlichen Tempelanlagen ; die
-      Kleinfunde ; Text "><img alt="Kāmid el-Lōz. 8: Die Spätbronzezeitlichen Tempelanlagen
-      ; die Kleinfunde ; Text " border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=133101"
-      height="80" title="Kāmid el-Lōz. 8: Die Spätbronzezeitlichen Tempelanlagen ; die Kleinfunde
-      ; Text " width="57" /></a></span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=133101&amp;REC=11"
-      target="_top" title="Kāmid el-Lōz. 8: Die Spätbronzezeitlichen Tempelanlagen ; die
-      Kleinfunde ; Text ">Kāmid el-Lōz. 8: Die Spätbronzezeitlichen Tempelanlagen ; die
-      Kleinfunde ; Text </a></span></td><td class="tdtext" style="border-left:
-      8px solid #ffffff;"><span class="maintext"><nobr></nobr>
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><nobr>1993</nobr>
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">OK </span></td></tr><tr>
-      <td colspan="6"><hr color="#cccccc" noshade="noshade" size="1" /></td>
-      </tr><tr> <td class="tdtext" nowrap="nowrap"><span class="maintext">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=91215&amp;REC=12"
-      target="_top" title="Kāmid el-Lōz. 13: The prehistoric and early historic context of the
-      site: catalog and commentary "><img alt="Kāmid el-Lōz. 13: The prehistoric and early
-      historic context of the site: catalog and commentary " border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=91215"
-      height="80" title="Kāmid el-Lōz. 13: The prehistoric and early historic context of the site:
-      catalog and commentary " width="55" /></a></span></td><td
-      class="tdtext" style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=91215&amp;REC=12"
-      target="_top" title="Kāmid el-Lōz. 13: The prehistoric and early historic context of the
-      site: catalog and commentary ">Kāmid el-Lōz. 13: The prehistoric and early historic
-      context of the site: catalog and commentary </a></span></td><td
-      class="tdtext" style="border-left: 8px solid #ffffff;"><span class="maintext">Marfoe,
-      Leon </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><nobr>1995</nobr>
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">OK </span></td></tr><tr>
-      <td colspan="6"><hr color="#cccccc" noshade="noshade" size="1" /></td>
-      </tr><tr> <td class="tdtext" nowrap="nowrap"><span class="maintext">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=133452&amp;REC=13"
-      target="_top" title="Kāmid el-Lōz. 15: Die Glyptik "><img alt="Kāmid el-Lōz. 15: Die
-      Glyptik " border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=133452"
-      height="80" title="Kāmid el-Lōz. 15: Die Glyptik " width="55"
-      /></a></span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=133452&amp;REC=13"
-      target="_top" title="Kāmid el-Lōz. 15: Die Glyptik ">Kāmid el-Lōz. 15: Die Glyptik
-      </a></span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">Kühne, Hartmut </span></td><td
-      class="tdtext" style="border-left: 8px solid #ffffff;"><span
-      class="maintext"><nobr>1996</nobr> </span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext">OK
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext"> </span></td><td align="left"
-      class="tdimage" style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=83791&amp;REC=14"
-      target="_top" title="Kāmid el-Lōz. 16: &quot;Schatzhaus&quot;-Studien "><img
-      alt="Kāmid el-Lōz. 16: &quot;Schatzhaus&quot;-Studien " border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=83791"
-      height="80" title="Kāmid el-Lōz. 16: &quot;Schatzhaus&quot;-Studien " width="56"
-      /></a></span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=83791&amp;REC=14"
-      target="_top" title="Kāmid el-Lōz. 16: &quot;Schatzhaus&quot;-Studien ">Kāmid
-      el-Lōz. 16: "Schatzhaus"-Studien </a></span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext">Hachmann, Rolf
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><nobr>1996</nobr>
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">OK </span></td></tr><tr>
-      <td colspan="6"><hr color="#cccccc" noshade="noshade" size="1" /></td>
-      </tr><tr> <td class="tdtext" nowrap="nowrap"><span class="maintext">
-      </span></td><td align="left" class="tdimage" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=165827&amp;REC=15"
-      target="_top" title="Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen ; Text
-      "><img alt="Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen ; Text "
-      border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=165827"
-      height="80" title="Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen ; Text "
-      width="53" /></a></span></td><td class="tdtext" style="border-left: 8px
-      solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=165827&amp;REC=15"
-      target="_top" title="Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen ; Text
-      ">Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen ; Text
-      </a></span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">Adler, Wolfgang </span></td><td
-      class="tdtext" style="border-left: 8px solid #ffffff;"><span
-      class="maintext"><nobr>2001</nobr> </span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext">OK
-      </span></td></tr><tr> <td colspan="6"><hr color="#cccccc"
-      noshade="noshade" size="1" /></td> </tr><tr> <td class="tdtext"
-      nowrap="nowrap"><span class="maintext"> </span></td><td align="left"
-      class="tdimage" style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=165450&amp;REC=16"
-      target="_top" title="Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen ; Katalog,
-      Anhang und Tafeln "><img alt="Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen
-      ; Katalog, Anhang und Tafeln " border="0"
-      src="http://amar.hsclib.sunysb.edu/cgi-bin/thumbnail.exe?CISOROOT=/amar&amp;CISOPTR=165450"
-      height="80" title="Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen ; Katalog,
-      Anhang und Tafeln " width="54" /></a></span></td><td class="tdtext"
-      style="border-left: 8px solid #ffffff;"><span class="maintext"><a
-      href="http://amar.hsclib.sunysb.edu/cdm4/document.php?CISOROOT=/amar&amp;CISOPTR=165450&amp;REC=16"
-      target="_top" title="Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen ; Katalog,
-      Anhang und Tafeln ">Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen ; Katalog,
-      Anhang und Tafeln </a></span></td><td class="tdtext" style="border-left:
-      8px solid #ffffff;"><span class="maintext">Adler, Wolfgang
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext"><nobr>2001</nobr>
-      </span></td><td class="tdtext" style="border-left: 8px solid
-      #ffffff;"><span class="maintext">OK
-      </span></td></tr></tbody></table><br /><br />See more
-      <a href="http://ancientworldonline.blogspot.com/2012/03/series-in-amar.html">Series in
-      AMAR</a> </td></tr></tbody></table>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Lebanon"/>
+   <title type="text">Open Access Monograph Series: Kāmid el-Lōz</title>
+   <content type="html"><![CDATA[<span class="maintext"><span style="font-size: xx-small;">&nbsp;[First posted in AWOL 1 March 2012, updated 22 September 2015]</span></span><br /><br /><span class="maintext">Kāmid el-Lōz</span> in <a href="http://ancientworldonline.blogspot.com/2009/07/open-access-digital-library-amar.html">AMAR</a><br /><br /><span style="font-size: x-small;">One of a series of AWOL pages seeking to pull together publication series digitized and served through <a href="http://amar.hsclib.sunysb.edu/amar/">AMAR: Archive of Mesopotamian Archaeological Site Reports</a></span><br /><br /><blockquote class="tr_bq"><ul id="cdmResultsGridList"><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative; z-index: 0;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;87884&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;87884&gt;/" name="amar&lt;87884&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a class="bt-active" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/87884/rec/1" tabindex="58" title="">                                                <img alt="Bericht über die Ergebnisse der Ausgrabungen in Kamid el-Loz (Libanon) in den Jahren 1963 und 1964" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/87884" />                                                </a><br />                        </span>                                                                     <br />                                            </span></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative; z-index: 0;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11 bt-active" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/87884/rec/1" id="firstSearchResultLink" tabindex="60" title="">Bericht über die Ergebnisse der Ausgrabungen in Kamid el-Loz (Libanon) in den Jahren 1963 und 1964</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Excavations (Archaeology) -- Lebanon</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Hachmann, Rolf</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="61">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;">                  <span class="clear"></span>                </span></li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;85285&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;85285&gt;/" name="amar&lt;85285&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/85285/rec/2" tabindex="62" title="">                                                <img alt="Bericht über die Ergebnisse der Ausgrabungen in Kāmid el-Lōz in den Jahren 1971 bis 1974" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/85285" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/85285/rec/2" tabindex="64" title="">Bericht über die Ergebnisse der Ausgrabungen in Kāmid el-Lōz in den Jahren 1971 bis 1974</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Excavations (Archaeology) -- Lebanon</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Hachmann, Rolf</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="65">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;84085&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;84085&gt;/" name="amar&lt;84085&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/84085/rec/3" tabindex="66" title="">                                                <img alt="Bericht uber die Ergebnisse der Ausgrabungen in Kamid el-Loz in den Jahren 1977 bis 1981" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/84085" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/84085/rec/3" tabindex="68" title="">Bericht uber die Ergebnisse der Ausgrabungen in Kamid el-Loz in den Jahren 1977 bis 1981</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Excavations (Archaeology) -- Lebanon</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Hachmann, Rolf</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="69">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;92752&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;92752&gt;/" name="amar&lt;92752&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/92752/rec/4" tabindex="70" title="">                                                <img alt="Frühe Phöniker im Libanon: 20 Jahre deutsche Ausgrabungen in Kāmid el-Lōz" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/92752" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/92752/rec/4" tabindex="72" title="">Frühe Phöniker im Libanon: 20 Jahre deutsche Ausgrabungen in Kāmid el-Lōz</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Phoenicians -- Lebanon</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Hachmann, Rolf</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="73">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;76850&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;76850&gt;/" name="amar&lt;76850&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/76850/rec/5" tabindex="74" title="">                                                <img alt="Kāmid el-Lōz. 10: Das &quot;Schatzhaus&quot; im Palastbereich: die Funde" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/76850" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/76850/rec/5" tabindex="76" title="">Kāmid el-Lōz. 10: Das "Schatzhaus" im Palastbereich: die Funde</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;"><span style="font-size: x-small;">                                                      &nbsp;                        </span></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Miron, Renate</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="77">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;80226&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;80226&gt;/" name="amar&lt;80226&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/80226/rec/6" tabindex="78" title="">                                                <img alt="Kāmid el-Lōz. 12: Tierhaltung und Jagd: Tierknochenfunde der Ausgrabungen 1964 bis 1981" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/80226" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/80226/rec/6" tabindex="80" title="">Kāmid el-Lōz. 12: Tierhaltung und Jagd: Tierknochenfunde der Ausgrabungen 1964 bis 1981</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;"><span style="font-size: x-small;">                                                      &nbsp;                        </span></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Bökönyi, Sándor</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="81">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;91215&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;91215&gt;/" name="amar&lt;91215&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/91215/rec/7" tabindex="82" title="">                                                <img alt="Kāmid el-Lōz. 13: The prehistoric and early historic context of the site: catalog and commentary" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/91215" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/91215/rec/7" tabindex="84" title="">Kāmid el-Lōz. 13: The prehistoric and early historic context of the site: catalog and commentary</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;"><span style="font-size: x-small;">                                                      &nbsp;                        </span></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Marfoe, Leon</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="85">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;133452&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;133452&gt;/" name="amar&lt;133452&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/133452/rec/8" tabindex="86" title="">                                                <img alt="Kāmid el-Lōz. 15: Die Glyptik" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/133452" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/133452/rec/8" tabindex="88" title="">Kāmid el-Lōz. 15: Die Glyptik</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Glyptics --  Middle East</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Kühne, Hartmut</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="89">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;83791&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;83791&gt;/" name="amar&lt;83791&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/83791/rec/9" tabindex="90" title="">                                                <img alt="Kāmid el-Lōz. 16: &quot;Schatzhaus&quot;-Studien" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/83791" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/83791/rec/9" tabindex="92" title="">Kāmid el-Lōz. 16: "Schatzhaus"-Studien</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Excavations (Archaeology) -- Lebanon</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Hachmann, Rolf</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="93">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;165450&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;165450&gt;/" name="amar&lt;165450&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/165450/rec/10" tabindex="94" title="">                                                <img alt="Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen ; Katalog, Anhang und Tafeln" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/165450" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/165450/rec/10" tabindex="96" title="">Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen ; Katalog, Anhang und Tafeln</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;"><span style="font-size: x-small;">                                                      &nbsp;                        </span></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Adler, Wolfgang</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="97">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;165827&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;165827&gt;/" name="amar&lt;165827&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/165827/rec/11" tabindex="98" title="">                                                <img alt="Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen ; Text" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/165827" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/165827/rec/11" tabindex="100" title="">Kāmid el-Lōz. 18: Die spätbronzezeitlichen Palastanlagen ; Text</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;"><span style="font-size: x-small;">                                                      &nbsp;                        </span></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Adler, Wolfgang</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="101">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;87769&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;87769&gt;/" name="amar&lt;87769&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/87769/rec/12" tabindex="102" title="">                                                <img alt="Kāmid el-Lōz. 2: Der eisenzeitliche Friedhof ; befunde und funde" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/87769" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/87769/rec/12" tabindex="104" title="">Kāmid el-Lōz. 2: Der eisenzeitliche Friedhof ; befunde und funde</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Iron age -- Lebanon</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Poppa, Rudolf</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="105">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;75707&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;75707&gt;/" name="amar&lt;75707&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/75707/rec/13" tabindex="106" title="">                                                <img alt="Kāmid el-Lōz. 5: Die Stratigraphie" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/75707" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/75707/rec/13" tabindex="108" title="">Kāmid el-Lōz. 5: Die Stratigraphie</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Excavations (Archaeology) -- Lebanon -- Kāmid al-Lawz Site</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Echt, Rudolf</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="109">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;75354&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;75354&gt;/" name="amar&lt;75354&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/75354/rec/14" tabindex="110" title="">                                                <img alt="Kāmid el-Lōz. 6: Die Werkstätten der spätbronzezeitlichen Paläste" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/75354" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/75354/rec/14" tabindex="112" title="">Kāmid el-Lōz. 6: Die Werkstätten der spätbronzezeitlichen Paläste</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Palaces -- Lebanon -- Kāmid al-Lawz Site</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Frisch, Bertram</span></div></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="113">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;157883&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;157883&gt;/" name="amar&lt;157883&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/157883/rec/15" tabindex="114" title="">                                                <img alt="Kāmid el-Lōz. 8: Die Spätbronzezeitlichen Tempelanlagen ; die Kleinfunde ; Tafeln" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/157883" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/157883/rec/15" tabindex="116" title="">Kāmid el-Lōz. 8: Die Spätbronzezeitlichen Tempelanlagen ; die Kleinfunde ; Tafeln</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Excavations (Archaeology) -- Lebanon-- Kāmid al-Lawz Site</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;"><span style="font-size: x-small;">                                                      &nbsp;                        </span></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="117">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li><li class="listItem">                  <ul><li class="cdmResultsGridItemImg float_left cdmFavoritesGridLIWidthThumbnail" style="position: relative;">                                                    <span style="font-size: x-small;"><span class="cdmFavoritesCheckboxWrapper"><label for="amar&lt;133101&gt;/">Save to favorites</label><input class="cdmFavoritesCheckbox" id="amar&lt;133101&gt;/" name="amar&lt;133101&gt;" title="Save to favorites" type="checkbox" value="on" /></span>                                                  <span class="float_left spacePad30L">                        <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/133101/rec/16" tabindex="118" title="">                                                <img alt="Kāmid el-Lōz. 8: Die Spätbronzezeitlichen Tempelanlagen ; die Kleinfunde ; Text" class="results_tn_img" src="http://digital.library.stonybrook.edu/utils/getthumbnail/collection/amar/id/133101" />                                                </a><br />                        </span></span>                                                                     <span style="font-size: x-small;"><br /></span>                                            </li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                                                    <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/133101/rec/16" tabindex="120" title="">Kāmid el-Lōz. 8: Die Spätbronzezeitlichen Tempelanlagen ; die Kleinfunde ; Text</a></span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;">                                                      <div class="marginTopTextAdjuster"><span style="font-size: x-small;">Excavations (Archaeology) -- Lebanon-- Kāmid al-Lawz Site</span></div></li><li class="cdmResultsGridItemText float_left line_breaker cdmFavoritesGridLIWidthData" style="position: relative;"><span style="font-size: x-small;">                                                      &nbsp;                        </span></li><li class="cdmResultsGridItemLink float_left line_breaker cdmFavoritesGridLIWidthData">                          <div class="marginTopTextAdjuster"><span style="font-size: x-small;"><a class="body_link_11" href="http://digital.library.stonybrook.edu/cdm/landingpage/collection/amar" tabindex="121">Archive of Mesopotamian Archaeological Reports (AMAR)</a></span></div></li></ul><span style="font-size: x-small;"><span class="clear"></span></span>                </li></ul><span style="font-size: x-small;">        <span class="clear"></span>             <span class="clear"></span></span></blockquote><table border="0" cellpadding="3" cellspacing="0" summary="Search results for"><tbody><tr align="center"><td colspan="6"><br /></td><td colspan="6"><div style="text-align: center;"></div></td></tr></tbody></table><div style="text-align: center;"><br /></div><div style="text-align: center;"><span style="font-size: small;"><span>See more <a href="http://ancientworldonline.blogspot.com/2012/03/series-in-amar.html">Series in AMAR</a></span></span></div><div style="text-align: center;"><span style="font-size: small;"><span>&nbsp;</span></span></div><div style="text-align: center;"><span style="font-size: small;"><span>And see </span><span><span>See AWOL's <a href="http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html">Alphabetical List of Open Access Monograph Series in Ancient Studies</a></span> </span></span></div><div style="text-align: center;"><span style="font-size: small;"><span>&nbsp;</span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3152921216295895396/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3152921216295895396/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/kamid-el-loz-in-amar.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3152921216295895396"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3152921216295895396"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/kamid-el-loz-in-amar.html"
          title="Open Access Monograph Series: Kāmid el-Lōz"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

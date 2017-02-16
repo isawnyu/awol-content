@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6858494842546306271</id>
+   <published>2016-03-24T16:52:00.000-04:00</published>
+   <updated>2016-03-24T16:52:02.864-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Literature"/>
+   <title type="text">Database: The Meters of Roman Comedy</title>
+   <content type="html"><![CDATA[<a href="http://romancomedy.wulib.wustl.edu/">The Meters of Roman Comedy</a><br /><blockquote class="tr_bq"><img alt="The Music of Roman Comedy" height="200" src="http://ecx.images-amazon.com/images/I/51fEzqdiSxL._SX312_BO1,204,203,200_.jpg" width="125" /> </blockquote><blockquote class="tr_bq"><h2><span style="font-size: x-small;">Timothy J. Moore, <i>The Meters of Roman Comedy</i></span></h2><span style="font-size: x-small;">        </span><span style="font-size: x-small;">This database is dedicated to the memory of Cesare Questa (1934-2016), the incomparable master of Roman Comedy’s <i>numeri innumeri,</i> without whom it would not have been possible.</span><br /><span style="font-size: x-small;">                 </span><h3><span style="font-size: x-small;">Introduction</span></h3><span style="font-size: x-small;">        </span><span style="font-size: x-small;">This is a database of all metrical units (passages in an  individual meter) in the extant plays of Plautus and Terence except for  the fragmentary <i>Vidularia</i>.</span><br /><span style="font-size: x-small;">        </span><span style="font-size: x-small;">Each record represents a metrical unit, or a passage in a  single meter (these range from one verse to over 200 verses), and  includes the following fields:</span><br /><span style="font-size: x-small;">                 </span><h4><span style="font-size: x-small;"><strong>Fields immediately visible in each record:</strong></span></h4><span style="font-size: x-small;">        </span><ul class="bulleted"><li><span style="font-size: x-small;">Playwright</span></li><li><span style="font-size: x-small;">Play</span></li><li><span style="font-size: x-small;">Starting Line: the number of the first verse of this metrical unit</span></li><li><span style="font-size: x-small;">Ending Line: number of the last verse of this metrical unit</span></li><li><span style="font-size: x-small;">Line Count: total number of verses in this metrical unit</span></li><li><span style="font-size: x-small;">Starting Text: a quotation of the first verse in the passage</span></li><li><span style="font-size: x-small;">Ending Text: a quotation of the last verse in the passage</span></li><li><span style="font-size: x-small;">Meter: the meter of the passage (in the case of verses  that include more than one meter, all are recorded as one: e.g.:  ba2bacol counts as one meter, as does a versus reizianus and cr2tr4cat)</span></li><li><span style="font-size: x-small;">Meter Before: the meter of the passage immediately preceding this one</span></li><li><span style="font-size: x-small;">Meter After: the meter of the passage immediately following this one</span></li><li><span style="font-size: x-small;">Character, Character Verses, Character Type: The name of  each character who speaks or sings in the passage, the number of verses  in which that character speaks or sings in the passage (in verses where  one or more characters speak, one verse is attributed to each character,  regardless of how much or how little of the verse that character  delivers); and the character's type.</span></li><li><span style="font-size: x-small;">Meter Type: the type of meter to which the meter of the  passage belongs (if two or more meter types occur in the same verse,  both are counted: e.g.: cr2tr4cat counts as both cretic and trochaic)...</span></li></ul><div class="row" id="navigation">	<a href="http://romancomedy.wulib.wustl.edu/index.html">Home</a>	<a href="http://romancomedy.wulib.wustl.edu/database.html">Database</a>      </div></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/6858494842546306271/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/03/database-meters-of-roman-comedy.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6858494842546306271"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6858494842546306271"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/03/database-meters-of-roman-comedy.html"
+         title="Database: The Meters of Roman Comedy"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

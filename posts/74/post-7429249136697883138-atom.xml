@@ -1,88 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7429249136697883138</id>
-    <published>2014-02-08T19:41:00.000-05:00</published>
-    <updated>2014-02-08T19:41:02.000-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7429249136697883138</id>
+   <published>2014-02-08T19:41:00.000-05:00</published>
+   <updated>2014-02-08T19:41:02.000-05:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Prosopography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="onomastics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
-    <title type="text">Standards for Networking Ancient Prosopographies</title>
-    <content type="html"><![CDATA[<a href="https://blog.snapdrgn.dighum.kcl.ac.uk/" rel="home">Standards
-      for Networking Ancient Prosopographies</a><br /><blockquote
-      class="tr_bq"><span style="font-size: x-small;">A consortium led by scholars in
-      Digital Humanities at King’s College London has been awarded an AHRC Digital Transformations
-      Big Data grant to develop links between several databases of people from classical antiquity.
-      The SNAP:DRGN project (“Standards for Networking Ancient Prosopographies: Data and Relations in
-      Greco-roman Names”), will work with partners at Oxford, Southampton, Edinburgh, Leuven in
-      Belgium, and Duke in the United States, to create standards for bringing together references
-      that are to the same or related people from ancient Greek and Latin texts.</span><br
-      /><br /><span style="font-size: x-small;">Scholars in the field of classical
-      prosopography (publishing information about known people, their lives, and their relationships)
-      have produced dozens of different collections, organized by region, time period, or political
-      entity, and differing widely in scholarly approaches and technical standards. Dr Gabriel
-      Bodard, the principal investigator of the project, says, “We can only do this work by working
-      closely with both academic and professional experts in the study of ancient people and names,
-      and information scientists who specialize in networked datasets. All of our work will be based
-      on example data from partner projects who record and collate data from Classical Greece, the
-      Roman Empire, Hellenistic Babylon, Greco-Roman Egypt and the Byzantine world. We’re not
-      attempting to impose new models, but rather to reflect the diverse scholarly practices already
-      in use to enable links between collections of people.”</span><br /><br />
-      <span style="font-size: x-small;">Dr K. Faith Lawrence, the development lead, says, “This
-      is really exciting work because it offers us the opportunity to apply Big Data methodology to
-      bridge existing collections that are currently restricted to their respective data silos.
-      Linked Open Data offers a very powerful way to bring together distributed knowledge, and
-      especially to define entry points. Projects can refer to a figure, name or office within the
-      classical world using the network of collected information from different sources as an
-      authority. This has already been done very successfully for ancient places, but the possibility
-      for scholars to link person and name authorities has been sadly lagging behind. This project
-      will change that.”</span><br /><br /> <span style="font-size:
-      x-small;">By focusing on the way datasets can be brought together, SNAP embraces wider
-      questions of person-tracking, applicable far beyond the Classical world. Without the important
-      issues of privacy that constrain modern networks, the project is able to reflect on the
-      ubiquity of tracking in the modern day. While initially working with data from the Greco-Roman
-      period, we are in discussion with projects that look at other times and places. We hope that
-      our standards can lead to linking prosopographical and biographical information across
-      historical periods and contemporary data.</span></blockquote><blockquote
-      class="tr_bq"><div class="nav-menu"><ul><li class="page_item
-      page-item-14"><span style="font-size: x-small;"><a
-      href="https://blog.snapdrgn.dighum.kcl.ac.uk/?page_id=14">About</a></span></li><li
-      class="page_item page-item-17"><span style="font-size: x-small;"><a
-      href="https://blog.snapdrgn.dighum.kcl.ac.uk/?page_id=17">Ontology</a></span></li><li
-      class="page_item page-item-38"><span style="font-size: x-small;"><a
-      href="https://blog.snapdrgn.dighum.kcl.ac.uk/?page_id=38">Proposal</a></span></li><li
-      class="page_item page-item-19"><span style="font-size: x-small;"><a
-      href="https://blog.snapdrgn.dighum.kcl.ac.uk/?page_id=19">Workshops</a></span></li></ul></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="onomastics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Prosopography"/>
+   <title type="text">Standards for Networking Ancient Prosopographies</title>
+   <content type="html"><![CDATA[<a href="https://blog.snapdrgn.dighum.kcl.ac.uk/" rel="home">Standards for Networking Ancient Prosopographies</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">A consortium led by scholars in Digital Humanities at King’s College  London has been awarded an AHRC Digital Transformations Big Data grant  to develop links between several databases of people from classical  antiquity. The SNAP:DRGN project (“Standards for Networking Ancient  Prosopographies: Data and Relations in Greco-roman Names”), will work  with partners at Oxford, Southampton, Edinburgh, Leuven in Belgium, and  Duke in the United States, to create standards for bringing together  references that are to the same or related people from ancient Greek and  Latin texts.</span><br /><br /><span style="font-size: x-small;">Scholars in the field of classical prosopography (publishing  information about known people, their lives, and their relationships)  have produced dozens of different collections, organized by region, time  period, or political entity, and differing widely in scholarly  approaches and technical standards. Dr Gabriel Bodard, the principal  investigator of the project, says, “We can only do this work by working  closely with both academic and professional experts in the study of  ancient people and names, and information scientists who specialize in  networked datasets. All of our work will be based on example data from  partner projects who record and collate data from Classical Greece, the  Roman Empire, Hellenistic Babylon, Greco-Roman Egypt and the Byzantine  world. We’re not attempting to impose new models, but rather to reflect  the diverse scholarly practices already in use to enable links between  collections of people.”</span><br /><br /> <span style="font-size: x-small;">Dr K. Faith Lawrence, the development lead, says, “This is really  exciting work because it offers us the opportunity to apply Big Data  methodology to bridge existing collections that are currently restricted  to their respective data silos. Linked Open Data offers a very powerful  way to bring together distributed knowledge, and especially to define  entry points. Projects can refer to a figure, name or office within the  classical world using the network of collected information from  different sources as an authority. This has already been done very  successfully for ancient places, but the possibility for scholars to  link person and name authorities has been sadly lagging behind. This  project will change that.”</span><br /><br /> <span style="font-size: x-small;">By focusing on the way datasets can be brought together, SNAP  embraces wider questions of person-tracking, applicable far beyond the  Classical world. Without the important issues of privacy that constrain  modern networks, the project is able to reflect on the ubiquity of  tracking in the modern day. While initially working with data from the  Greco-Roman period, we are in discussion with projects that look at  other times and places. We hope that our standards can lead to linking  prosopographical and biographical information across historical periods  and contemporary data.</span></blockquote><blockquote class="tr_bq"><div class="nav-menu"><ul><li class="page_item page-item-14"><span style="font-size: x-small;"><a href="https://blog.snapdrgn.dighum.kcl.ac.uk/?page_id=14">About</a></span></li><li class="page_item page-item-17"><span style="font-size: x-small;"><a href="https://blog.snapdrgn.dighum.kcl.ac.uk/?page_id=17">Ontology</a></span></li><li class="page_item page-item-38"><span style="font-size: x-small;"><a href="https://blog.snapdrgn.dighum.kcl.ac.uk/?page_id=38">Proposal</a></span></li><li class="page_item page-item-19"><span style="font-size: x-small;"><a href="https://blog.snapdrgn.dighum.kcl.ac.uk/?page_id=19">Workshops</a></span></li></ul></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7429249136697883138/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7429249136697883138/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/02/standards-for-networking-ancient.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7429249136697883138"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7429249136697883138"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/02/standards-for-networking-ancient.html"
          title="Standards for Networking Ancient Prosopographies"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

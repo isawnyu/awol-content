@@ -1,61 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6304191921552130608</id>
-    <published>2014-06-20T10:27:00.000-04:00</published>
-    <updated>2014-06-20T10:27:30.481-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6304191921552130608</id>
+   <published>2014-06-20T10:27:00.000-04:00</published>
+   <updated>2014-06-20T10:27:30.481-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">The Florida State University Digital Library: Cuneiform Tablet
-      Collection</title>
-    <content type="html"><![CDATA[<span style="font-family: inherit;"><span style="font-size:
-      small;"><a
-      href="https://fsu.digital.flvc.org/islandora/search?type=edismax&amp;collection=fsu:cuniformtablets">The
-      Florida State University Digital Library: Cuneiform Tablet
-      Collection</a></span></span><br /><blockquote
-      class="tr_bq"><span style="font-size: x-small;">While excavating in Babylonia
-      (present-day Iraq) for the University of Chicago in 1903-1904, archeologist Dr. Edgar J. Banks
-      (1866 –1945) acquired a magnificent collection of ancient inscribed Babylonian clay tablets
-      which illustrate the oldest of writings. They are mostly temple records and business documents
-      dating from over 4000 years ago.</span><br /><br /> <span
-      style="font-size: x-small;">In 1922, Dr. Josiah Bethea Game (1869-1935) negotiated the
-      purchase of twenty-five tablets for the Florida State College for Women (FSCW). The tablets
-      range in size from one to two square inches, and are square, rounded and cone
-      shaped.</span><br /><br /> <span style="font-size: x-small;">Among the
-      cuneiform artifacts are a ritual tablet from Warka dated 2100 BC; a memorandum from Senkereh,
-      the ancient Larsa, 22 BC; a temple record, sealed with the royal seal of the King of Ur of the
-      Chaldees, 2350 BC; sundried business contract, 220 BC; sundried exercise tablet, 2200 BC;
-      butchers bill for four sheep, 2150 BC; a votive cone, King of Amanu, from the temple of the
-      goddess Ishtar, which he built in the royal residence of his kingdom 2100 BC; a tax bill, 2350
-      BC; and a business contract dated in Nebuchadnezzar’s reign.</span><br /><br
-      /><span style="font-size: x-small;"> This selection of our cuneiform collection was
-      digitized and translated as part of a project in 2008</span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">The Florida State University Digital Library: Cuneiform Tablet Collection</title>
+   <content type="html"><![CDATA[<span style="font-family: inherit;"><span style="font-size: small;"><a href="https://fsu.digital.flvc.org/islandora/search?type=edismax&amp;collection=fsu:cuniformtablets">The Florida State University Digital Library: Cuneiform Tablet Collection</a></span></span><br /><blockquote class="tr_bq"><span style="font-size: x-small;">While excavating in Babylonia (present-day Iraq) for the University of Chicago in 1903-1904,  archeologist Dr. Edgar J. Banks (1866 –1945) acquired a magnificent  collection of ancient inscribed Babylonian clay tablets which illustrate  the oldest of writings. They are mostly temple records and business  documents dating from over 4000 years ago.</span><br /><br />   <span style="font-size: x-small;">In 1922, Dr. Josiah Bethea Game (1869-1935) negotiated the purchase  of twenty-five tablets for the Florida State College for Women (FSCW).  The tablets range in size from one to two square inches, and are square,  rounded and cone shaped.</span><br /><br />   <span style="font-size: x-small;">Among the cuneiform artifacts are a ritual tablet from Warka dated  2100 BC; a memorandum from Senkereh, the ancient Larsa, 22 BC; a temple  record, sealed with the royal seal of the King of Ur of the Chaldees,  2350 BC; sundried business contract, 220 BC; sundried exercise tablet,  2200 BC; butchers bill for four sheep, 2150 BC; a votive cone, King of  Amanu, from the temple of the goddess Ishtar, which he built in the  royal residence of his kingdom 2100 BC; a tax bill, 2350 BC; and a  business contract dated in Nebuchadnezzar’s reign.</span><br /><br /><span style="font-size: x-small;"> This selection of our cuneiform collection was digitized and translated as part of a project in 2008</span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6304191921552130608/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6304191921552130608/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/06/the-florida-state-university-digital.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6304191921552130608"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6304191921552130608"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/06/the-florida-state-university-digital.html"
          title="The Florida State University Digital Library: Cuneiform Tablet Collection"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3602809293646203648</id>
+   <published>2016-01-25T07:38:00.000-05:00</published>
+   <updated>2016-01-25T07:38:36.122-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="UK"/>
+   <title type="text">Vindolanda Tablets Online II</title>
+   <content type="html"><![CDATA[<span><a href="http://vto2.classics.ox.ac.uk/" rel="home" title="Vindolanda Tablets Online II">Vindolanda Tablets Online II</a></span><br /><blockquote class="tr_bq"><span><img alt="http://vto2.classics.ox.ac.uk/wp-content/themes/vto/images/header20.png" class="transparent" height="60" src="http://vto2.classics.ox.ac.uk/wp-content/themes/vto/images/header20.png" width="400" /> </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><span>Welcome to Vindolanda Tablets Online II (VTO2), a sister website to <a href="http://vindolanda.csad.ox.ac.uk/" target="_blank" title="Vindolanda Tablets Online">Vindolanda Tablets Online (VTO)</a>.  VTO2 is meant not as a replacement but as an addition to VTO. It also  is an online edition of the Vindolanda writing tablets, excavated from  the <a href="http://www.vindolanda.com/" target="_blank" title="For at Vindolanda">Roman fort at Vindolanda</a> in northern England. </span></span><br /><span style="font-size: x-small;">In addition to tablets 118-573 from The Vindolanda Writing Tablets volume<a href="http://vto2.classics.ox.ac.uk/index.php/references/bibliography?ref=all#Tab.Vindol.I" title="Tab.Vindol.I"> I</a> and <a href="http://vto2.classics.ox.ac.uk/index.php/references/bibliography?ref=all#Tab.Vindol.II" title="Tab.Vindol.II">II</a>, which have also been published on <a href="http://vindolanda.csad.ox.ac.uk/" target="_blank" title="Vindolanda Tablets Online">VTO</a>, VTO2 also contains tablets 574-853 from volume <a href="http://vto2.classics.ox.ac.uk/index.php/references/bibliography?ref=all#Tab.Vindol.III" title="Tab.Vindol.III">III</a>.</span><br /><br /> <span style="font-size: x-small;">VTO2 differs further from VTO in the approach to publishing the  tablets online. Where VTO is based on a database containing all the  tablet information, VTO2 is based on a series of <a href="http://epidoc.sourceforge.net/" title="EpiDoc">EpiDoc</a> encoded XML documents – one for each tablet. Information is then extracted from these documents by the&nbsp; APPELLO Web Service.</span><br /><br /> <span style="font-size: x-small;">VTO2 enables access to the tablets from different angles. You can use the direct approach of <a href="http://vto2.classics.ox.ac.uk/index.php/tablets/search-for-tablets" title="Search for Tablet">searching for tablets</a> and choose a tablet to view from the drop-down menu. Once viewing a  tablet it is also possible to navigate to the previous and next tablet.  You can furthermore <a href="http://vto2.classics.ox.ac.uk/index.php/tablets/view-all-tablets" title="View all tablets in table">view all tablets</a> in a list that can be sorted and filtered accourding to source, period and location of the tablets.</span><br /><br /> <span style="font-size: x-small;">Unique to VTO2 is the <a href="http://vto2.classics.ox.ac.uk/index.php/search-indices" title="Index searcher">index searcher </a>which  makes use of APPELLO’s word search capability. You can choose to search  through all indices at once or one particular index at a time. The  index searcher uses AJAX Livesearch technology, meaning that it will  list suggestions while you are typing your search.</span><br /><br /> <span style="font-size: x-small;">Finally the edition in each tablet view is linked for interaction  between tablets. When you click on a coloured word in the edition you  will see a pop-up with other tablets containing this word. These pages  also contain links to other tablets and bibliographic references  mentioned in the text.<span></span> </span></blockquote><blockquote class="tr_bq"><ul class="sf-menu sf-js-enabled"><li class="page_item page-item-78"><span style="font-size: x-small;"><a href="http://vto2.classics.ox.ac.uk/">Tablets</a></span></li><li class="page_item page-item-11"><span style="font-size: x-small;"><a href="http://vto2.classics.ox.ac.uk/index.php/search-indices">Indices</a></span></li><li class="page_item page-item-9"><span style="font-size: x-small;"><a href="http://vto2.classics.ox.ac.uk/index.php/references">References</a></span></li><li class="page_item page-item-182 current_page_item sfHover"><span style="font-size: x-small;"><a href="http://vto2.classics.ox.ac.uk/index.php/about">About</a></span></li></ul></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/3602809293646203648/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/01/vindolanda-tablets-online-ii.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3602809293646203648"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3602809293646203648"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/01/vindolanda-tablets-online-ii.html"
+         title="Vindolanda Tablets Online II"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

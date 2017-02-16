@@ -1,151 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8079806810744277458</id>
-    <published>2011-04-12T06:21:00.000-04:00</published>
-    <updated>2011-04-12T06:21:18.342-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8079806810744277458</id>
+   <published>2011-04-12T06:21:00.000-04:00</published>
+   <updated>2011-04-12T06:21:18.342-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Libraries: Ircica Farabi Digital Library</title>
-    <content type="html"><![CDATA[<a href="http://e-library.ircica.org/">Ircica Farabi Digital
-      Library</a><br /><br /><blockquote><span style="font-size:
-      x-small;"><b>IRCICA FARABİ</b> digital library is a software Project developed
-      through great care and effort of our expert crews. The project took three years in the making
-      and the updating and the maintanence of the project still continues with ever increasing zeal
-      and vigor. Our software is developed as a stand alone software enabling it to work as a
-      software package in other digital libraries as well, fort he dorementioned purposes any
-      instution that requests can install and setup <b>FARABİ</b> digital library
-      software.</span><br /><br /><span style="font-size: x-small;">Our
-      libraries and cultural instutions can, by utilising the <b>FARABİ</b> software,
-      display and make available their digital collections for and to their users regardless of
-      distance or time. Consequently many institutions will be able to organise and setup their
-      digital collections on the internet. In summation <b>FARABİ</b> is a software
-      solely designed to facilitate and help our libraries, in displaying their digital collections
-      through internet and intranet for <b>researchers, historians, academicians, graduate,
-      undergraduate</b> and <b>Phd student</b>s for their needs in the digital
-      domain.</span><br /><br /><span style="font-size: x-small;">Libraries
-      around the world can with great ease use the <b>FARABİ</b> software, with its
-      strong software build and support, to make available their digital collections, comprising of
-      items such as books, periodicals, maps, postcards and the like, to the public domain and
-      edxperts in their field of research.&nbsp;</span><br /><br /><h1
-      style="padding: 0px 0px 15px 15px; text-align: center;"><span style="font-size:
-      x-small;">Collections</span></h1><div class="no_border_left"
-      id="collection"><span style="font-size: x-small;"><img
-      src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/periodical.jpg"
-      /></span> <br /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=1">Ottoman
-      Periodicals</a></span></h3><span style="font-size: x-small;">Periodical
-      collection in Ottoman Turkish in IRCICA Library</span></div><div class=""
-      id="collection"><span style="font-size: x-small;"><img
-      src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/yearbook.jpg"
-      /></span> <br /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=2">Ottoman
-      Yearbooks</a></span></h3><span style="font-size: x-small;">Collection
-      of Official Ottoman State Yearbooks (Salname) </span></div><div
-      class="no_border_right" id="collection"><span style="font-size: x-small;"><img
-      src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/international.png"
-      /></span> <br /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=3">International
-      Relations</a></span></h3><span style="font-size: x-small;">Collection
-      of selected books on international relations in IRCICA Library</span></div><div
-      class="no_border_left" id="collection"><span style="font-size: x-small;"><img
-      src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/map.jpg" /></span>
-      <br /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=4">Map
-      Collection</a></span></h3><span style="font-size: x-small;">Map
-      collection printed in different countries and languages in IRCICA Library
-      </span></div><div class="" id="collection"><span style="font-size:
-      x-small;"><img
-      src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/turkey.jpg"
-      /></span> <br /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=5">Historical
-      Photograph Collection</a></span></h3><span style="font-size:
-      x-small;">Photograph collection of various topics including the archive of Sultan Abdulhamid
-      II. </span></div><div class="no_border_right" id="collection"><span
-      style="font-size: x-small;"><img
-      src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/literature.jpg"
-      /></span> <br /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=6">Literature
-      Collection</a></span></h3><span style="font-size: x-small;">Literature
-      collection of Turkey and various countries </span></div><div
-      class="no_border_left" id="collection"><span style="font-size: x-small;"><img
-      src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/calligraphy.jpg"
-      /></span> <br /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=7">Calligraphy
-      Collection</a></span></h3><span style="font-size: x-small;">Collection
-      of calligraphies which consists of the works done for the international competition to revive
-      and encourage the development of classical Islamic Calligraphy</span></div><div
-      class="" id="collection"><span style="font-size: x-small;"><img
-      src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/koran.jpg"
-      /></span> <br /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=8">Koran
-      Collection</a></span></h3><span style="font-size: x-small;">Collection
-      of Qur'an and it’s translations printed in various countries, which are available in the IRCICA
-      Library</span></div><div class="no_border_right" id="collection"><span
-      style="font-size: x-small;"><img
-      src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/middleeast.jpg"
-      /></span> <br /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=9">Voyages
-      in the Middle East</a></span></h3><span style="font-size:
-      x-small;">Selected collection of media about Middle East and its history, culture &amp;
-      geography</span></div><div class="no_border_left" id="collection"><span
-      style="font-size: x-small;"><img
-      src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/turkey.jpg"
-      /></span> <br /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=10">World
-      War Collection</a></span></h3><span style="font-size:
-      x-small;">Selected media about 1st and 2nd World Wars</span></div><div
-      class="" id="collection"><span style="font-size: x-small;"><img
-      src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/turkish.jpg"
-      /></span> <br /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=11">Turkish
-      History Collection</a></span></h3><span style="font-size:
-      x-small;">Selected media about Turkish and Turkey history</span></div><div
-      class="no_border_right" id="collection"><span style="font-size: x-small;"><img
-      src="http://e-library.ircica.org/images/gen.gif" /></span> <br
-      /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=12">Turkey
-      Yearbooks</a></span></h3><span style="font-size: x-small;">Collection
-      of Official Turkey State Yearbooks</span></div><div class="no_border_left"
-      id="collection"><span style="font-size: x-small;"><img
-      src="http://e-library.ircica.org/images/gen.gif" /></span> <br
-      /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=13">Historical
-      Postcard Collection</a></span></h3><span style="font-size:
-      x-small;">Postcard collection from Ottoman Empire</span></div><div class=""
-      id="collection"><span style="font-size: x-small;"><img
-      src="http://e-library.ircica.org/images/gen.gif" /></span> <br
-      /><h3><span style="font-size: x-small;"><a
-      href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=16">Voyages
-      in the Balkan peninsula</a></span></h3><span style="font-size:
-      x-small;">Selected collection of media about Balkan Peninsula and its history, culture
-      &amp; geography</span></div></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Libraries: Ircica Farabi Digital Library</title>
+   <content type="html"><![CDATA[<a href="http://e-library.ircica.org/">Ircica Farabi Digital Library</a><br /><br /><blockquote><span style="font-size: x-small;"><b>IRCICA FARABİ</b> digital library is a software Project  developed through great care and effort of our expert crews. The project  took three years in the making and the updating and the maintanence of  the project still continues with ever increasing zeal and vigor. Our  software is developed as a stand alone software enabling it to work as a  software package in other digital libraries as well, fort he  dorementioned purposes any instution that requests can install and setup  <b>FARABİ</b> digital library software.</span><br /><br /><span style="font-size: x-small;">Our libraries and cultural instutions can, by utilising the <b>FARABİ</b>  software, display and make available their digital collections for and  to their users regardless of distance or time. Consequently many  institutions will be able to organise and setup their digital  collections on the internet. In summation <b>FARABİ</b> is a  software solely designed to facilitate and help our libraries, in  displaying their digital collections through internet and intranet for <b>researchers, historians, academicians, graduate, undergraduate</b> and <b>Phd student</b>s for their needs in the digital domain.</span><br /><br /><span style="font-size: x-small;">Libraries around the world can with great ease use the <b>FARABİ</b>  software, with its strong software build and support, to make available  their digital collections, comprising of items such as books,  periodicals, maps, postcards and the like, to the public domain and  edxperts in their field of research.&nbsp;</span><br /><br /><h1 style="padding: 0px 0px 15px 15px; text-align: center;"><span style="font-size: x-small;">Collections</span></h1><div class="no_border_left" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/periodical.jpg" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=1">Ottoman Periodicals</a></span></h3><span style="font-size: x-small;">Periodical collection in Ottoman Turkish in IRCICA Library</span></div><div class="" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/yearbook.jpg" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=2">Ottoman Yearbooks</a></span></h3><span style="font-size: x-small;">Collection of Official Ottoman State Yearbooks (Salname) </span></div><div class="no_border_right" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/international.png" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=3">International Relations</a></span></h3><span style="font-size: x-small;">Collection of selected books on international relations in IRCICA Library</span></div><div class="no_border_left" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/map.jpg" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=4">Map Collection</a></span></h3><span style="font-size: x-small;">Map collection printed in different countries and languages in IRCICA Library </span></div><div class="" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/turkey.jpg" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=5">Historical Photograph Collection</a></span></h3><span style="font-size: x-small;">Photograph collection of various topics including the archive of Sultan Abdulhamid II.  </span></div><div class="no_border_right" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/literature.jpg" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=6">Literature Collection</a></span></h3><span style="font-size: x-small;">Literature collection of Turkey and various countries </span></div><div class="no_border_left" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/calligraphy.jpg" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=7">Calligraphy Collection</a></span></h3><span style="font-size: x-small;">Collection of calligraphies which consists of the works  done for the international competition to revive and encourage the  development of classical Islamic Calligraphy</span></div><div class="" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/koran.jpg" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=8">Koran Collection</a></span></h3><span style="font-size: x-small;">Collection of Qur'an and it’s translations printed in various countries, which are available in the IRCICA Library</span></div><div class="no_border_right" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/middleeast.jpg" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=9">Voyages in the Middle East</a></span></h3><span style="font-size: x-small;">Selected collection of media about Middle East and its history, culture &amp; geography</span></div><div class="no_border_left" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/turkey.jpg" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=10">World War Collection</a></span></h3><span style="font-size: x-small;">Selected media about 1st and 2nd World Wars</span></div><div class="" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/gorunum/farabi-v3/images/web_icons/turkish.jpg" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=11">Turkish History Collection</a></span></h3><span style="font-size: x-small;">Selected media about Turkish and Turkey history</span></div><div class="no_border_right" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/images/gen.gif" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=12">Turkey Yearbooks</a></span></h3><span style="font-size: x-small;">Collection of Official Turkey State Yearbooks</span></div><div class="no_border_left" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/images/gen.gif" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=13">Historical Postcard Collection</a></span></h3><span style="font-size: x-small;">Postcard collection from Ottoman Empire</span></div><div class="" id="collection"><span style="font-size: x-small;"><img src="http://e-library.ircica.org/images/gen.gif" /></span>             <br /><h3><span style="font-size: x-small;"><a href="http://e-library.ircica.org/search/?act=direct-search&amp;collections=16">Voyages in the Balkan peninsula</a></span></h3><span style="font-size: x-small;">Selected collection of media about Balkan Peninsula and its history, culture &amp; geography</span></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8079806810744277458/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8079806810744277458/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/04/open-access-libraries-ircica-farabi.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8079806810744277458"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8079806810744277458"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/04/open-access-libraries-ircica-farabi.html"
          title="Open Access Libraries: Ircica Farabi Digital Library"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

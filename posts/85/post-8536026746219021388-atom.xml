@@ -1,274 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8536026746219021388</id>
-    <published>2014-08-25T10:00:00.000-04:00</published>
-    <updated>2014-08-25T11:19:42.836-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8536026746219021388</id>
+   <published>2016-05-25T06:54:00.000-04:00</published>
+   <updated>2016-05-25T11:54:18.712-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Anatolia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Open Access Journal: Kazı Sonuçları Toplantıları</title>
-    <content type="html"><![CDATA[<span style="font-size: x-small;">[First posted in AWOL 18 March 2011,
-      updated 25 August 2014] </span><br /><br /><a class="Altbaglantilar"
-      href="http://www.kulturvarliklari.gov.tr/TR,44760/kazi-sonuclari-toplantilari.html">Kazı
-      Sonuçları Toplantıları</a><br />ISSN: 1017-7655<br
-      /><ul></ul><ul><li><span style="font-family: verdana; font-size:
-      11px;">&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/02_kazi.pdf"><span
-      style="font-size: 11px;">2. Kazı Sonuçları Toplantısı
-      [1980]</span></a></span></li><li><span style="color: white;
-      font-family: verdana; font-size: 11px;">0</span><span style="font-family: verdana;
-      font-size: 11px;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/03_kazi.pdf"><span
-      style="font-size: 11px;">3. Kazı Sonuçları Toplantısı
-      [1981]</span></a></span></li><li><span style="color: white;
-      font-family: verdana; font-size: 11px;">0</span><span style="font-family: verdana;
-      font-size: 11px;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/04_kazi.pdf"><span
-      style="font-size: 11px;">4. Kazı Sonuçları Toplantısı
-      [1982]</span></a></span></li><li><span style="color: white;
-      font-family: verdana; font-size: 11px;">0</span><span style="font-family: verdana;
-      font-size: 11px;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/05_kazi.pdf"><span
-      style="font-size: 11px;">5. Kazı Sonuçları Toplantısı
-      [1983]</span></a></span></li><li><span style="color: white;
-      font-family: verdana; font-size: 11px;">0</span><span style="font-family: verdana;
-      font-size: 11px;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/06_kazi.pdf"><span
-      style="font-size: 11px;">6. Kazı Sonuçları Toplantısı
-      [1984]</span></a></span></li><li><span style="color: white;
-      font-family: verdana; font-size: 11px;">0</span><span style="font-family: verdana;
-      font-size: 11px;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/07_kazi.pdf"><span
-      style="font-size: 11px;">7. Kazı Sonuçları Toplantısı
-      [1985]</span></a></span></li><li><span style="color: white;
-      font-family: verdana; font-size: 11px;">0</span><span style="font-family: verdana;
-      font-size: 11px;">8. Kazı Sonuçları Toplantısı [1986]&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/08_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/08_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="color: white; font-family:
-      verdana; font-size: 11px;">0</span><span style="font-family: verdana; font-size:
-      11px;">9. Kazı Sonuçları Toplantısı<span style="font-family: verdana; font-size:
-      11px;"> [1987]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/09_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/09_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">10. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [1988]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/10_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/10_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">11. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [1989]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/11_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/11_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">12. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [1990]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/12_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/12_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">13. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [1991]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/13_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/13_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">14. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [1992]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/14_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/14_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">15. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [1993]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/15_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/15_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">16. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [1994]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/16_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/16_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">17. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [1995]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/17_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/17_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">18. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [1996]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/18_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/18_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">19. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [1997]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/19_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/19_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">20. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [1998]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/20_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/20_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">21. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [1999]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/21_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/21_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">22. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [2000]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/22_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/22_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">23. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [2001]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/23_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/23_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">24. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [2002]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/24_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/24_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">25. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [2003]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/25_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/25_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">26. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [2004]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/26_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/26_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">27. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [2005]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/27_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/27_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">28. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [2006]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/28_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/28_kazi_2.pdf">2.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">29. Kazı Sonuçları Toplantısı<span style="font-family: verdana;
-      font-size: 11px;"> [2007]</span>&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/29_kazi_1.pdf">1.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/29_kazi_2.pdf">2.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/29_kazi_3.pdf">3.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;"><span style="font-size: 11px;">30. Kazı Sonuçları Toplantısı<span
-      style="font-family: verdana; font-size: 11px;">
-      [2008]</span>&nbsp;&nbsp;</span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/30_kazi_1.pdf">1.
-      Cilt</a><span style="font-size: 11px;">&nbsp; /&nbsp;<a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/30_kazi_2.pdf">2.
-      Cilt</a>&nbsp; /&nbsp;<a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/30_kazi_3.pdf">3.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/30_kazi_4.pdf">4.
-      Cilt</a></span></span></li><li><span style="font-family:
-      verdana; font-size: 11px;">31. Kazı Sonuçları Toplantısı<span style="font-family:
-      verdana; font-size: 11px;"> [2009]</span>&nbsp;&nbsp;<span
-      style="font-size: 11px;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/31_kazi_1.pdf">1.
-      Cilt</a>&nbsp; /&nbsp;<a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/31_kazi_2.pdf">2.
-      Cilt</a>&nbsp; /&nbsp;<a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/31_kazi_3.pdf">3.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/31_kazi_4.pdf">4.
-      Cilt</a></span></span></li><li><span style="font-family:
-      verdana; font-size: 11px;">32. Kazı Sonuçları Toplantısı [2010]&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/32_kazi_1.pdf">1.
-      Cilt</a>&nbsp; /&nbsp;<a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/32_kazi_2.pdf">2.
-      Cilt</a>&nbsp; /&nbsp;<a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/32_kazi_3.pdf">3.
-      Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/32_kazi_4.pdf">4.
-      Cilt</a></span></li><li><span style="font-family: verdana;
-      font-size: 11px;">33. Kazı Sonuçları Toplantısı [2011]&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/Eklenti/4651,33kazi1.pdf?0" target="_blank"
-      title="">1. Cilt</a><span style="color: black;">&nbsp; / <a
-      href="https://www.blogger.com/null" title="href=4652">2. Cilt</a>&nbsp;
-      /&nbsp;<a href="https://www.blogger.com/null" title="href=4653">3.
-      Cilt</a>&nbsp; /&nbsp;<a href="https://www.blogger.com/null"
-      title="href=4654">4. Cilt</a></span></span></li><li><span
-      style="font-family: verdana; font-size: 11px;"><span style="color: black;">34. Kazı
-      Sonuçları Toplantısı [2012]&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/Eklenti/7332,34kazi1.pdf?0" target="_blank"
-      title="">1. Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/Eklenti/7334,34kazi2.pdf?0" target="_blank"
-      title="">2. Cilt</a>&nbsp; / <a
-      href="http://www.kulturvarliklari.gov.tr/Eklenti/7335,34kazi3.pdf?0" target="_blank"
-      title="">3. Cilt</a></span></span></li><li><span
-      style="font-family: verdana; font-size: 11px;"><span style="color: black;">35. Kazı
-      Sonuçları Toplantısı [2013]&nbsp; <a
-      href="http://www.kulturvarliklari.gov.tr/Eklenti/27146,35kazi1.pdf?0" target="_blank"
-      title="">1. Cilt</a><span style="color: black;"><span style="color:
-      black;">&nbsp; / </span></span><a
-      href="http://www.kulturvarliklari.gov.tr/Eklenti/27147,35kazi2.pdf?0" target="_blank"
-      title="">2. Cilt</a><span style="color: black;">&nbsp; / </span><a
-      href="http://www.kulturvarliklari.gov.tr/Eklenti/27148,35kazi3.pdf?0" target="_blank"
-      title="">3.
-      Cilt</a></span></span></li></ul><ul></ul><ul></ul><div
-      style="text-align: center;"><span style="font-size: small;">See <a
-      href="http://ancientworldonline.blogspot.com/2010/05/seven-open-access-turkish.html">Seven
-      Open Access Turkish Archaeological Journals</a></span></div><div
-      style="text-align: center;"><span style="font-size:
-      small;"><span>&nbsp;<span style="font-family: inherit;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></span></span></span>
-      </div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Anatolia"/>
+   <title type="text">Open Access Journal: Kazı Sonuçları Toplantıları</title>
+   <content type="html"><![CDATA[<span style="font-size: x-small;">[First posted in AWOL 18 March 2011, updated 25 May 2016] </span><br /><br /><a class="Altbaglantilar" href="http://www.kulturvarliklari.gov.tr/TR,44760/kazi-sonuclari-toplantilari.html">Kazı  Sonuçları Toplantıları</a><br />ISSN: 1017-7655<br /><blockquote class="tr_bq">            <style><!--  /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal 	{mso-style-unhide:no; 	mso-style-qformat:yes; 	mso-style-parent:""; 	margin:0in; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman"; 	mso-fareast-font-family:"Times New Roman"; 	mso-ansi-language:TR; 	mso-fareast-language:TR;} p.MsoHeader, li.MsoHeader, div.MsoHeader 	{mso-style-unhide:no; 	mso-style-link:"Header Char"; 	margin:0in; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	tab-stops:center 3.15in right 6.3in; 	font-size:12.0pt; 	font-family:"Times New Roman"; 	mso-fareast-font-family:"Times New Roman"; 	mso-ansi-language:TR; 	mso-fareast-language:TR;} span.HeaderChar 	{mso-style-name:"Header Char"; 	mso-style-unhide:no; 	mso-style-locked:yes; 	mso-style-link:Header; 	mso-ansi-font-size:12.0pt; 	mso-bidi-font-size:12.0pt; 	mso-ansi-language:TR; 	mso-fareast-language:TR;} .MsoChpDefault 	{mso-style-type:export-only; 	mso-default-props:yes; 	font-size:10.0pt; 	mso-ansi-font-size:10.0pt; 	mso-bidi-font-size:10.0pt;} @page WordSection1 	{size:8.5in 11.0in; 	margin:1.0in 1.25in 1.0in 1.25in; 	mso-header-margin:.5in; 	mso-footer-margin:.5in; 	mso-paper-source:0;} div.WordSection1 	{page:WordSection1;} --></style>      <br /><div class="MsoHeader" style="text-align: left;"><span style="font-size: x-small;"><span><span>REPUBLIC OF TURKEY<span style="color: black;"> </span></span></span></span></div><div style="text-align: left;"><span style="font-size: x-small;"> </span></div><div class="MsoNormal" style="text-align: left;"><span style="font-size: x-small;"><span><span>MINISTRY OF CULTURE AND TOURISM<span style="color: black;"> </span></span></span></span></div><div style="text-align: left;"><span style="font-size: x-small;"> </span></div><div class="MsoNormal" style="text-align: left;"><span style="font-size: x-small;"><span><span>GENERAL DIRECTORATE FOR CULTURAL HERITAGE AND MUSEUMS<span style="color: black;"></span></span></span></span></div><div style="text-align: left;"><span style="font-size: x-small;"> </span></div><div style="text-align: left;"><span style="font-size: x-small;"> </span></div><div class="MsoNormal" style="text-align: left;"><span style="font-size: x-small;"><span style="color: black;"></span></span><span style="font-size: x-small;"><span><span>INTERNATIONAL SYMPOSIUM OF EXCAVATIONS, SURVEYS AND ARCHAEOMETRY</span></span></span></div></blockquote><ul></ul><ul><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/02_kazi.pdf">2. Kazı Sonuçları Toplantısı [1980]</a></span></li><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/03_kazi.pdf">3. Kazı Sonuçları Toplantısı [1981]</a></span></li><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/04_kazi.pdf">4. Kazı Sonuçları Toplantısı [1982]</a></span></li><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/05_kazi.pdf">5. Kazı Sonuçları Toplantısı [1983]</a></span></li><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/06_kazi.pdf">6. Kazı Sonuçları Toplantısı [1984]</a></span></li><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/07_kazi.pdf">7. Kazı Sonuçları Toplantısı [1985]</a></span></li><li><span style="font-size: x-small;">08. Kazı Sonuçları Toplantısı [1986]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/08_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/08_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">09. Kazı Sonuçları Toplantısı [1987]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/09_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/09_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">10. Kazı Sonuçları Toplantısı [1988]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/10_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/10_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">11. Kazı Sonuçları Toplantısı [1989]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/11_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/11_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">12. Kazı Sonuçları Toplantısı [1990]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/12_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/12_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">13. Kazı Sonuçları Toplantısı [1991]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/13_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/13_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">14. Kazı Sonuçları Toplantısı [1992]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/14_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/14_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">15. Kazı Sonuçları Toplantısı [1993]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/15_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/15_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">16. Kazı Sonuçları Toplantısı [1994]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/16_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/16_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">17. Kazı Sonuçları Toplantısı [1995]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/17_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/17_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">18. Kazı Sonuçları Toplantısı [1996]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/18_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/18_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">19. Kazı Sonuçları Toplantısı [1997]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/19_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/19_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">20. Kazı Sonuçları Toplantısı [1998]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/20_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/20_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">21. Kazı Sonuçları Toplantısı [1999]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/21_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/21_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">22. Kazı Sonuçları Toplantısı [2000]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/22_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/22_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">23. Kazı Sonuçları Toplantısı [2001]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/23_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/23_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">24. Kazı Sonuçları Toplantısı [2002]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/24_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/24_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">25. Kazı Sonuçları Toplantısı [2003]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/25_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/25_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">26. Kazı Sonuçları Toplantısı [2004]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/26_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/26_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">27. Kazı Sonuçları Toplantısı [2005]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/27_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/27_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">28. Kazı Sonuçları Toplantısı [2006]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/28_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/28_kazi_2.pdf">2. Cilt</a></span></li><li><span style="font-size: x-small;">29. Kazı Sonuçları Toplantısı [2007]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/29_kazi_1.pdf">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/29_kazi_2.pdf">2. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/29_kazi_3.pdf">3. Cilt</a></span></li><li><span style="font-size: x-small;">30. Kazı Sonuçları Toplantısı [2008]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/30_kazi_1.pdf">1. Cilt</a>&nbsp; /&nbsp;<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/30_kazi_2.pdf">2. Cilt</a>&nbsp; /&nbsp;<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/30_kazi_3.pdf">3. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/30_kazi_4.pdf">4. Cilt</a></span></li><li><span style="font-size: x-small;">31. Kazı Sonuçları Toplantısı [2009]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/31_kazi_1.pdf">1. Cilt</a>&nbsp; /&nbsp;<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/31_kazi_2.pdf">2. Cilt</a>&nbsp; /&nbsp;<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/31_kazi_3.pdf">3. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/31_kazi_4.pdf">4. Cilt</a></span></li><li><span style="font-size: x-small;">32. Kazı Sonuçları Toplantısı [2010]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/32_kazi_1.pdf">1. Cilt</a>&nbsp; /&nbsp;<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/32_kazi_2.pdf">2. Cilt</a>&nbsp; /&nbsp;<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/32_kazi_3.pdf">3. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/32_kazi_4.pdf">4. Cilt</a></span></li><li><span style="font-size: x-small;">33. Kazı Sonuçları Toplantısı [2011]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/Eklenti/4651,33kazi1.pdf?0" target="_blank">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/Eklenti/4652,33kazi2.pdf?0" target="_blank">2. Cilt</a>&nbsp; /&nbsp;<a href="http://www.kulturvarliklari.gov.tr/Eklenti/4653,33kazi3.pdf?0" target="_blank">3. Cilt</a>&nbsp; /&nbsp;<a href="http://www.kulturvarliklari.gov.tr/Eklenti/4654,33kazi4.pdf?0" target="_blank">4. Cilt</a></span></li><li><span style="font-size: x-small;">34. Kazı Sonuçları Toplantısı [2012]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/Eklenti/7332,34kazi1.pdf?0" target="_blank">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/Eklenti/7334,34kazi2.pdf?0" target="_blank">2. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/Eklenti/7335,34kazi3.pdf?0" target="_blank">3. Cilt</a></span></li><li><span style="font-size: x-small;">35. Kazı Sonuçları Toplantısı [2013]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/Eklenti/27146,35kazi1.pdf?0" target="_blank">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/Eklenti/27147,35kazi2.pdf?0" target="_blank">2. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/Eklenti/27148,35kazi3.pdf?0" target="_blank">3. Cilt</a></span></li><li><span style="font-size: x-small;">36. Kazı Sonuçları Toplantısı [2014]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/Eklenti/43561,36kazi1.pdf?0" target="_blank">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/Eklenti/43562,36kazi2.pdf?0" target="_blank">2. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/Eklenti/43563,36kazi3.pdf?0" target="_blank">3. Cilt</a></span></li><li><span style="font-size: x-small;">37. Kazı Sonuçları Toplantısı [2015]&nbsp; <a href="http://www.kulturvarliklari.gov.tr/Eklenti/45229,37kazi1.pdf?0" target="_blank">1. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/Eklenti/45230,37kazi2.pdf?0" target="_blank">2. Cilt</a>&nbsp; / <a href="http://www.kulturvarliklari.gov.tr/Eklenti/45231,37kazi3.pdf?0" target="_blank">3. Cilt</a></span></li></ul><span style="color: black; font-family: &quot;verdana&quot;;"></span><br /><ul></ul><ul></ul><ul></ul><div style="text-align: center;"><span style="font-size: small;">See <a href="http://ancientworldonline.blogspot.com/2010/05/seven-open-access-turkish.html">Seven Open Access Turkish Archaeological Journals</a>&nbsp;</span><br /><span style="font-size: small;">&nbsp;</span></div><div style="text-align: center;"><span style="font-size: small;">&nbsp;<span style="font-family: inherit;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span> </div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8536026746219021388/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8536026746219021388/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/open-access-journal-kaz-sonuclar.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8536026746219021388"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8536026746219021388"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/open-access-journal-kaz-sonuclar.html"
          title="Open Access Journal: Kazı Sonuçları Toplantıları"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

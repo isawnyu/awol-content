@@ -1,55 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7752882412812598343</id>
-    <published>2012-09-25T16:14:00.000-04:00</published>
-    <updated>2012-09-25T16:14:28.218-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7752882412812598343</id>
+   <published>2016-04-11T14:51:00.000-04:00</published>
+   <updated>2016-04-11T14:51:54.817-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Manuscripts"/>
-    <title type="text">Announcing: vHMML: An online environment for manuscript studies </title>
-    <content type="html"><![CDATA[<a href="http://vhmml.wordpress.com/">vHMML</a>: An online
-      environment for manuscript studies<br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><span style="color:
-      red;"><em>v</em></span>HMML is a project developed by the Hill Museum
-      <span style="color: red;">&amp;<span style="color: black;"> Manuscript
-      L</span></span>ibrary in collaboration with scholars and software developers drawn
-      from a variety of institutions. The goal is to support both new and advanced users of
-      manuscripts by providing a rich online environment for manuscript studies in a variety of
-      languages. <span style="color: red;"><em>v</em></span>HMML is being
-      developed with a major grant from the Institute of Museum &amp; Library Services, a federal
-      agency (<a href="http://www.imls.gov/" title="IMLS">www.imls.gov</a>), and
-      additional support from the Arcadia Fund of London. Initial development work will be done over
-      a two-year period beginning in October 2012. </span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Manuscripts"/>
+   <title type="text">vHMML: Resources for Manuscript Studies</title>
+   <content type="html"><![CDATA[<a href="http://www.vhmml.org/">vHMML: Resources for Manuscript Studies</a><div class="date"></div><blockquote class="tr_bq"><div class="date"><a href="https://vhmml.wordpress.com/2015/10/07/launch/#respond"><img alt="http://vhmml.org/static/img/bralanvhmmlimage.png" class="transparent" src="http://vhmml.org/static/img/bralanvhmmlimage.png" height="163" width="320" /></a></div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><span class="redtext italicstext">v</span>HMML offers researchers at    every level of experience the resources and tools they need to work    with manuscripts. <span class="redtext italicstext">v</span>HMML will    ultimately cover several manuscript cultures from Europe, Africa, the    Middle East, and South Asia. It makes abundant use of high-resolution    images of manuscripts from libraries around the world, many of them    digitized as part of <a href="http://www.hmml.org/" target="_blank">HMML</a>’s    mission to preserve and share important, endangered, and inaccessible    manuscript collections through digital photography, archiving, and    cataloging.&nbsp;</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">    Introductions to each component of <span class="redtext italicstext">v</span>HMML     are readily available as you explore.    </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">READING ROOM will launch in early 2016 with thousands of digitized    manuscripts in several languages. New search tools will be supported    by a completely rebuilt manuscript catalog. Until then, <a class="home-link" href="http://www.hmml.org/" target="_blank">HMML</a>'s    existing catalog <a class="reading-room-link" href="http://www.hmml.org/oliver.html" target="_blank">OLIVER</a> and other finding aids will help you find    what you need.         </span></blockquote><blockquote class="tr_bq">    <span style="font-size: x-small;"><a href="http://www.vhmml.org/about#INTRODUCTION">INTRODUCTION</a>&nbsp;|&nbsp;<a href="http://www.vhmml.org/about#HISTORY">HISTORY</a>&nbsp;|&nbsp;<a href="http://www.vhmml.org/about#FUNDING">FUNDING</a>&nbsp;|&nbsp;<a href="http://www.vhmml.org/about#PEOPLE">PEOPLE</a>&nbsp;|&nbsp;<a href="http://www.vhmml.org/about#TECHNICAL">TECHNICAL</a></span>        <br /></blockquote><div class="row"><span style="font-size: x-small;">   </span><blockquote class="tr_bq"><div class="col-lg-12 text-center"><span style="font-size: x-small;">      <a class="school-hover" href="http://www.vhmml.org/school">School</a>&nbsp;|&nbsp;    <a class="folio-hover" href="http://folio.as.uky.edu/">Folio</a>&nbsp;|&nbsp;  <a class="lexicon-hover" href="http://www.vhmml.org/lexicon">Lexicon</a>&nbsp;|&nbsp; <a class="reference-hover" href="http://www.vhmml.org/reference">Reference</a>&nbsp;|&nbsp; <a class="reading-room-hover" href="http://www.hmml.org/oliver.html" target="_blank">Manuscript Catalog </a></span>    </div></blockquote></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7752882412812598343/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7752882412812598343/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/09/announcing-vhmml-online-environment-for.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7752882412812598343"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7752882412812598343"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/09/announcing-vhmml-online-environment-for.html"
-         title="Announcing: vHMML: An online environment for manuscript studies "/>
-    <author>
+         title="vHMML: Resources for Manuscript Studies"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

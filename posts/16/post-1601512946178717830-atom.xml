@@ -1,145 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1601512946178717830</id>
-    <published>2011-10-10T14:10:00.001-04:00</published>
-    <updated>2011-10-10T14:10:50.246-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1601512946178717830</id>
+   <published>2011-10-10T14:10:00.001-04:00</published>
+   <updated>2011-10-10T14:10:50.246-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: Senjski zbornik</title>
-    <content type="html"><![CDATA[<span style="font-size: small;"><span style="font-size:
-      xx-small;">[First posted in AWOL <a
-      href="http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html">10
-      August 2010</a>. Updated 10 October 2011]</span><b><br
-      /></b></span><br /><br /><span style="font-size: small;"><a
-      href="http://hrcak.srce.hr/senjski-zbornik">Senjski zbornik</a></span><br
-      /><div style="color: black;"><span style="font-size: small;">ISSN:
-      0582-673X&nbsp;</span><br /><blockquote><span style="font-size:
-      x-small;">Senj Museum Society and City Museum Senj have published the scientific magazine
-      Senjski zbornik (The Review of Senj) since 1965. To date 33 issues have been published with
-      papers from numerous eminent scientists in history, culture, literature, economy, geography and
-      other scientific areas. The subjects, which have been discussed in the magazine, have been
-      mostly related to the city of Senj and its surroundings as well as the wider area of the
-      eastern Adriatic coast and its hinterland.
-      </span></blockquote><blockquote><span style="font-size: small;">
-      </span><br /><span style="font-size:
-      xx-small;"><b>Archive</b></span><br /><table border="0"
-      cellpadding="0" cellspacing="2"><tbody><tr> <th align="left"
-      width="60px"><span style="font-size:
-      xx-small;"><b>2010</b></span></th> <td></td>
-      </tr><tr> <td></td> <td align="left"><span style="font-size:
-      xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=5611">
-      <b>Vol. 37</b> &nbsp; <b>No. 1</b> </a></span>
-      </td> </tr><tr> <th align="left" width="60px"><span
-      style="font-size: xx-small;"><b>2009</b></span></th>
-      <td></td> </tr><tr> <td></td> <td
-      align="left"><span style="font-size: xx-small;"><a
-      href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=4516"> <b>Vol.
-      36</b> &nbsp; <b>No. 1</b> </a></span> </td>
-      </tr><tr> <th align="left" width="60px"><span style="font-size:
-      xx-small;"><b>2008</b></span></th> <td></td>
-      </tr><tr> <td></td> <td align="left"><span style="font-size:
-      xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=3550">
-      <b>Vol. 35</b> &nbsp; <b>No. 1</b> </a></span>
-      </td> </tr><tr> <th align="left" width="60px"><span
-      style="font-size: xx-small;"><b>2007</b></span></th>
-      <td></td> </tr><tr> <td></td> <td
-      align="left"><span style="font-size: xx-small;"><a
-      href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=3551"> <b>Vol.
-      34</b> &nbsp; <b>No. 1</b> </a></span> </td>
-      </tr><tr> <th align="left" width="60px"><span style="font-size:
-      xx-small;"><b>2006</b></span></th> <td></td>
-      </tr><tr> <td></td> <td align="left"><span style="font-size:
-      xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=1598">
-      <b>Vol. 33</b> &nbsp; <b>No. 1</b> </a></span>
-      </td> </tr><tr> <th align="left" width="60px"><span
-      style="font-size: xx-small;"><b>2005</b></span></th>
-      <td></td> </tr><tr> <td></td> <td
-      align="left"><span style="font-size: xx-small;"><a
-      href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=1603"> <b>Vol.
-      32</b> &nbsp; <b>No. 1</b> </a></span> </td>
-      </tr><tr> <th align="left" width="60px"><span style="font-size:
-      xx-small;"><b>2004</b></span></th> <td></td>
-      </tr><tr> <td></td> <td align="left"><span style="font-size:
-      xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=1608">
-      <b>Vol. 31</b> &nbsp; <b>No. 1</b> </a></span>
-      </td> </tr><tr> <th align="left" width="60px"><span
-      style="font-size: xx-small;"><b>2003</b></span></th>
-      <td></td> </tr><tr> <td></td> <td
-      align="left"><span style="font-size: xx-small;"><a
-      href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=1609"> <b>Vol.
-      30</b> &nbsp; <b>No. 1</b> </a></span> </td>
-      </tr><tr> <th align="left" width="60px"><span style="font-size:
-      xx-small;"><b>2002</b></span></th> <td></td>
-      </tr><tr> <td></td> <td align="left"><span style="font-size:
-      xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=1612">
-      <b>Vol. 29</b> &nbsp; <b>No. 1</b> </a></span>
-      </td> </tr><tr> <th align="left" width="60px"><span
-      style="font-size: xx-small;"><b>2001</b></span></th>
-      <td></td> </tr><tr> <td></td> <td
-      align="left"><span style="font-size: xx-small;"><a
-      href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=1615"> <b>Vol.
-      28</b> &nbsp; <b>No. 1</b> </a></span> </td>
-      </tr><tr> <th align="left" width="60px"><span style="font-size:
-      xx-small;"><b>2000</b></span></th> <td></td>
-      </tr><tr> <td></td> <td align="left"><span style="font-size:
-      xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=2538">
-      <b>Vol. 27</b> &nbsp; <b>No. 1</b> </a></span>
-      </td> </tr><tr> <th align="left" width="60px"><span
-      style="font-size: xx-small;"><b>1999</b></span></th>
-      <td></td> </tr><tr> <td></td> <td
-      align="left"><span style="font-size: xx-small;"><a
-      href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=3470"> <b>Vol.
-      26</b> &nbsp; <b>No. 1</b> </a></span> </td>
-      </tr><tr> <th align="left" width="60px"><span style="font-size:
-      xx-small;"><b>1998</b></span></th> <td></td>
-      </tr><tr> <td></td> <td align="left"><span style="font-size:
-      xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=3553">
-      <b>Vol. 25</b> &nbsp; <b>No. 1</b> </a></span>
-      </td> </tr><tr> <th align="left" width="60px"><span
-      style="font-size: xx-small;"><b>1997</b></span></th>
-      <td></td> </tr><tr> <td></td> <td
-      align="left"><span style="font-size: xx-small;"><a
-      href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=3554"> <b>Vol.
-      24</b> &nbsp; <b>No. 1</b> </a></span> </td>
-      </tr><tr> <th align="left" width="60px"><span style="font-size:
-      xx-small;"><b>1996</b></span></th> <td></td>
-      </tr><tr> <td></td> <td align="left"><a
-      href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=3592"><span
-      style="font-size: xx-small;"> <b>Vol. 23</b> &nbsp; <b>No.
-      1</b></span></a></td></tr></tbody></table></blockquote><br
-      /><div style="text-align: center;"><span style="font-size:
-      small;"><span>And see AWOL's<a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">
-      List of Open Access Journals in Ancient Studies</a></span>
-      </span></div></div><div style="color: black;"><span
-      style="font-size: small;"> </span></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: Senjski zbornik</title>
+   <content type="html"><![CDATA[<span style="font-size: small;"><span style="font-size: xx-small;">[First posted in AWOL <a href="http://ancientworldonline.blogspot.com/2009/01/croatian-open-access-archaeology.html">10 August 2010</a>. Updated 10 October 2011]</span><b><br /></b></span><br /><br /><span style="font-size: small;"><a href="http://hrcak.srce.hr/senjski-zbornik">Senjski zbornik</a></span><br /><div style="color: black;"><span style="font-size: small;">ISSN: 0582-673X&nbsp;</span><br /><blockquote><span style="font-size: x-small;">Senj Museum Society and City Museum Senj have published the scientific  magazine Senjski zbornik (The Review of Senj) since 1965. To date 33  issues have been published with papers from numerous eminent scientists  in history, culture, literature, economy, geography and other scientific  areas. The subjects, which have been discussed in the magazine, have  been mostly related to the city of Senj and its surroundings as well as  the wider area of the eastern Adriatic coast and its hinterland. </span></blockquote><blockquote><span style="font-size: small;"> </span><br /><span style="font-size: xx-small;"><b>Archive</b></span><br /><table border="0" cellpadding="0" cellspacing="2"><tbody><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>2010</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=5611">            <b>Vol. 37</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>2009</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=4516">            <b>Vol. 36</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>2008</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=3550">            <b>Vol. 35</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>2007</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=3551">            <b>Vol. 34</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>2006</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=1598">            <b>Vol. 33</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>2005</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=1603">            <b>Vol. 32</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>2004</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=1608">            <b>Vol. 31</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>2003</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=1609">            <b>Vol. 30</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>2002</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=1612">            <b>Vol. 29</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>2001</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=1615">            <b>Vol. 28</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>2000</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=2538">            <b>Vol. 27</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>1999</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=3470">            <b>Vol. 26</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>1998</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=3553">            <b>Vol. 25</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>1997</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><span style="font-size: xx-small;"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=3554">            <b>Vol. 24</b> &nbsp;                           <b>No. 1</b>           </a></span>    </td>   </tr><tr>    <th align="left" width="60px"><span style="font-size: xx-small;"><b>1996</b></span></th>    <td></td>   </tr><tr>    <td></td>    <td align="left"><a href="http://hrcak.srce.hr/index.php?show=toc&amp;id_broj=3592"><span style="font-size: xx-small;">            <b>Vol. 23</b> &nbsp;                           <b>No. 1</b></span></a></td></tr></tbody></table></blockquote><br /><div style="text-align: center;"><span style="font-size: small;"><span>And see AWOL's<a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html"> List  of Open Access Journals in Ancient Studies</a></span> </span></div></div><div style="color: black;"><span style="font-size: small;">      </span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1601512946178717830/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1601512946178717830/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/10/open-access-journal-senjski-zbornik.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1601512946178717830"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1601512946178717830"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/10/open-access-journal-senjski-zbornik.html"
          title="Open Access Journal: Senjski zbornik"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

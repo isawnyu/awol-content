@@ -1,74 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2811563735597032611</id>
-    <published>2014-09-30T14:51:00.003-04:00</published>
-    <updated>2014-09-30T14:51:58.885-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2811563735597032611</id>
+   <published>2014-09-30T14:51:00.003-04:00</published>
+   <updated>2014-09-30T14:51:58.885-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="3D"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Pedagogy"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Sculpture"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="portraiture"/>
-    <title type="text">Identify Imperial Portraits</title>
-    <content type="html"><![CDATA[<a
-      href="http://sebastianheath.com/teaching-rome/identify-imperial-portraits/index.xhtml">Identify
-      Imperial Portraits</a><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><a
-      href="http://isaw.nyu.edu/people/faculty/sebastian-heath">Sebastian Heath</a>,
-      NYU/ISAW<br />Introduction<br /><br />Put simply, this page collects 3D
-      models of Roman imperial figures so that students can gain skills in identifying them. It is
-      part of a sequence and readers are encouraged to begin on the <a
-      href="http://sebastianheath.com/teaching-rome/identify-imperial-portraits/coins.xhtml">coin
-      identification page</a>.<br /><br />The portraits shown below come from the
-      following institutions or collections: Capitoline Museum, Corinth Museum, Getty Villa,
-      Metropolitan Museum of Art, an Art Institute of Chicago via Anonymous Loan from Private
-      Collector, North Carolina Museum of Art, Vatican Museums, and Yale University Art Gallery. The
-      3D models are generated from personal photographs and images from wikipedia/flickr or were
-      dowloaded from public internet sources. </span></blockquote><blockquote
-      class="tr_bq">&nbsp;&nbsp;&nbsp;&nbsp; <img
-      alt="http://numismatics.org/collectionimages/19001949/1948/1948.19.1032.obv.width350.jpg"
-      class="decoded" height="189"
-      src="http://numismatics.org/collectionimages/19001949/1948/1948.19.1032.obv.width350.jpg"
-      width="200" /></blockquote><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;">The above [<a
-      href="http://sebastianheath.com/teaching-rome/identify-imperial-portraits/index.xhtml">click
-      through</a>] model of a portrait now on display in the Getty Villa, and images of a coin,
-      now in the collection of the American Numismatic Society, both show an image of Augustus, the
-      first Roman Emperor. Click on the model and rotate it to view Augustus in profile. That
-      emphasizes the similarity of the small numismatic portrait and the larger sculptural
-      representation. Also note that the coin identifies its subject. Specialists use such
-      "self-identifying" Roman coins to identify portraits. Follow this same procedure for the
-      unidentified portraits below.<br /><br />One hint before you start, none of the
-      portraits shown below are also of Augustus. That would be too easy.
-      </span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="portraiture"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Sculpture"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="3D"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Pedagogy"/>
+   <title type="text">Identify Imperial Portraits</title>
+   <content type="html"><![CDATA[<a href="http://sebastianheath.com/teaching-rome/identify-imperial-portraits/index.xhtml">Identify Imperial Portraits</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;"><a href="http://isaw.nyu.edu/people/faculty/sebastian-heath">Sebastian Heath</a>, NYU/ISAW<br />Introduction<br /><br />Put simply, this page collects 3D models of Roman imperial figures so that students can gain skills in identifying them. It is part of a sequence and readers are encouraged to begin on the <a href="http://sebastianheath.com/teaching-rome/identify-imperial-portraits/coins.xhtml">coin identification page</a>.<br /><br />The portraits shown below come from the following institutions or collections: Capitoline Museum, Corinth Museum, Getty Villa, Metropolitan Museum of Art, an Art Institute of Chicago via Anonymous Loan from Private Collector, North Carolina Museum of Art, Vatican Museums, and Yale University Art Gallery. The 3D models are generated from personal photographs and images from wikipedia/flickr or were dowloaded from public internet sources. </span></blockquote><blockquote class="tr_bq">&nbsp;&nbsp;&nbsp;&nbsp; <img alt="http://numismatics.org/collectionimages/19001949/1948/1948.19.1032.obv.width350.jpg" class="decoded" height="189" src="http://numismatics.org/collectionimages/19001949/1948/1948.19.1032.obv.width350.jpg" width="200" /></blockquote><br /><blockquote class="tr_bq"><span style="font-size: x-small;">The above [<a href="http://sebastianheath.com/teaching-rome/identify-imperial-portraits/index.xhtml">click through</a>] model of a portrait now on display in the Getty Villa, and images of a coin, now in the collection of the American Numismatic Society, both show an image of Augustus, the first Roman Emperor. Click on the model and rotate it to view Augustus in profile. That emphasizes the similarity of the small numismatic portrait and the larger sculptural representation. Also note that the coin identifies its subject. Specialists use such "self-identifying" Roman coins to identify portraits. Follow this same procedure for the unidentified portraits below.<br /><br />One hint before you start, none of the portraits shown below are also of Augustus. That would be too easy. </span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2811563735597032611/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2811563735597032611/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/identify-imperial-portraits.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2811563735597032611"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2811563735597032611"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/identify-imperial-portraits.html"
          title="Identify Imperial Portraits"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

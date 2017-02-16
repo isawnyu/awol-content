@@ -1,131 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5307346863184030521</id>
-    <published>2014-06-16T10:50:00.000-04:00</published>
-    <updated>2014-06-16T10:50:10.683-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5307346863184030521</id>
+   <published>2014-06-16T10:50:00.000-04:00</published>
+   <updated>2014-06-16T10:50:10.683-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Music"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Music"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Ancient"/>
-    <title type="text">De musicis: An Annotated Bibliography of Works on Ancient Greek and Roman
-      Music</title>
-    <content type="html"><![CDATA[<a href="http://www.moisasociety.org/de-musicis-overview">De musicis:
-      An Annotated Bibliography of Works on Ancient Greek and Roman Music</a><br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">Founding
-      Bibliographer (2000-2009):&nbsp; Gianfranco Mosconi; bibliographies for the years 2000-2005
-      (lists revised and supplemented by Maggi Creese)</span><br /><span
-      style="font-size: x-small;">Current Bibliographer (from 2009):&nbsp; Maggi
-      Creese&nbsp;</span><br /><br /><span style="font-size:
-      x-small;">Notes to the user:</span><br /><br /><span style="font-size:
-      x-small;">Many bibliographical entries include an abstract, whose author is indicated at
-      the&nbsp;bottom of the summary itself, after the full stop, between square brackets (e.g.
-      in this&nbsp;manner: '...end of the summary. [Gianfranco Mosconi]')</span><br
-      /><br /><span style="font-size: x-small;">Sometimes, the summary is an abstract
-      which was already available within the text of the&nbsp;item, or which was taken from some
-      other source, such as another internet database; in these cases, the source of the abstract is
-      also indicated in square brackets (e.g. '...end of the summary. [Gianfranco Mosconi]
-      &nbsp;[POIESIS]')</span><br /><br /><span style="font-size:
-      x-small;">When an abstract is not included but available within the text of the item itself,
-      this is indicated in the abstract field.&nbsp; Page numbers are provided for abstracts that
-      are printed elsewhere in the volume.</span><br /><br /><span
-      style="font-size: x-small;">The bibliography is managed by Maggi Creese, MOISA
-      Bibliographer; corrections and proposed additions may be addressed to her at bibl<a
-      href="http://www.google.com/recaptcha/mailhide/d?k=01LRYCdj5-5pNNJjcot2wLrQ==&amp;c=aWahofSBtOXcjyANTH6MErHkdAasvL0F6tzLYKcMhEg="
-      title="Reveal this e-mail address">...</a>@moisasociety.org .&nbsp; Notice of
-      forthcoming publications is welcome: please consider including a brief (c. 300-350 word)
-      abstract of your work.&nbsp;</span></blockquote><blockquote
-      class="tr_bq"><ul class="menu"><li class="expanded active-trail"><span
-      style="font-size: x-small;"><a class="active"
-      href="http://www.moisasociety.org/de-musicis-overview" title="">De
-      musicis</a></span><ul class="menu"><li class="collapsed first"><span
-      style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis"
-      title="">De musicis bibliography</a></span></li><li
-      class="expanded"><span style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2012?sort=author&amp;order=asc"
-      title="">De musicis by year</a></span><ul class="menu"><li class="leaf
-      first"><span style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2014?sort=author&amp;order=asc"
-      title="">2014</a></span></li><li class="leaf"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2013?sort=author&amp;order=asc"
-      title="">2013</a></span></li><li class="leaf"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2012?sort=author&amp;order=asc"
-      title="">2012</a></span></li><li class="leaf"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2011?sort=author&amp;order=asc"
-      title="">2011</a></span></li><li class="leaf"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2010?sort=author&amp;order=asc"
-      title="">2010</a></span></li><li class="leaf"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2009?sort=author&amp;order=asc"
-      title="">2009</a></span></li><li class="leaf"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2008?sort=author&amp;order=asc"
-      title="">2008</a></span></li><li class="leaf"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2007?sort=author&amp;order=asc"
-      title="">2007</a></span></li><li class="leaf"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2006?sort=author&amp;order=asc"
-      title="">2006</a></span></li><li class="leaf"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2005?sort=author&amp;order=asc"
-      title="">2005</a></span></li><li class="leaf"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2004?sort=author&amp;order=asc"
-      title="">2004</a></span></li><li class="leaf"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2003?sort=author&amp;order=asc"
-      title="">2003</a></span></li><li class="leaf"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2002?sort=author&amp;order=asc"
-      title="">2002</a></span></li><li class="leaf"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2001?sort=author&amp;order=asc"
-      title="">2001</a></span></li><li class="leaf last"><span
-      style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/year/2000?sort=author&amp;order=asc"
-      title="">2000</a></span></li></ul></li><li
-      class="leaf"><span style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/authors" title="">Modern
-      authors</a></span></li><li class="leaf"><span style="font-size:
-      x-small;"><a href="http://www.moisasociety.org/de-musicis/ancient-authors"
-      title="">Ancient authors</a></span></li><li class="leaf
-      last"><span style="font-size: x-small;"><a
-      href="http://www.moisasociety.org/de-musicis/keywords" title="">Keywords (for years
-      2000-2002,
-      2004)</a></span></li></ul></li></ul></blockquote><br
-      />]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Ancient"/>
+   <title type="text">De musicis: An Annotated Bibliography of Works on Ancient Greek and Roman Music</title>
+   <content type="html"><![CDATA[<a href="http://www.moisasociety.org/de-musicis-overview">De musicis: An Annotated Bibliography of Works on Ancient Greek and Roman Music</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Founding Bibliographer (2000-2009):&nbsp; Gianfranco Mosconi;  bibliographies for the years 2000-2005 (lists revised and supplemented  by Maggi Creese)</span><br /><span style="font-size: x-small;">Current Bibliographer (from 2009):&nbsp; Maggi Creese&nbsp;</span><br /><br /><span style="font-size: x-small;">Notes to the user:</span><br /><br /><span style="font-size: x-small;">Many bibliographical entries include an abstract, whose author is  indicated at the&nbsp;bottom of the summary itself, after the full stop,  between square brackets (e.g. in this&nbsp;manner: '...end of the summary.  [Gianfranco Mosconi]')</span><br /><br /><span style="font-size: x-small;">Sometimes, the summary is an abstract which was already available  within the text of the&nbsp;item, or which was taken from some other source,  such as another internet database; in these cases, the source of the  abstract is also indicated in square brackets (e.g. '...end of the  summary. [Gianfranco Mosconi] &nbsp;[POIESIS]')</span><br /><br /><span style="font-size: x-small;">When an abstract is not included but available within the text of the  item itself, this is indicated in the abstract field.&nbsp; Page numbers are  provided for abstracts that are printed elsewhere in the volume.</span><br /><br /><span style="font-size: x-small;">The bibliography is managed by Maggi Creese, MOISA Bibliographer;  corrections and proposed additions may be addressed to her at bibl<a href="http://www.google.com/recaptcha/mailhide/d?k=01LRYCdj5-5pNNJjcot2wLrQ==&amp;c=aWahofSBtOXcjyANTH6MErHkdAasvL0F6tzLYKcMhEg=" title="Reveal this e-mail address">...</a>@moisasociety.org  .&nbsp; Notice of forthcoming publications is welcome: please consider  including a brief (c. 300-350 word) abstract of your work.&nbsp;</span></blockquote><blockquote class="tr_bq"><ul class="menu"><li class="expanded active-trail"><span style="font-size: x-small;"><a class="active" href="http://www.moisasociety.org/de-musicis-overview" title="">De musicis</a></span><ul class="menu"><li class="collapsed first"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis" title="">De musicis bibliography</a></span></li><li class="expanded"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2012?sort=author&amp;order=asc" title="">De musicis by year</a></span><ul class="menu"><li class="leaf first"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2014?sort=author&amp;order=asc" title="">2014</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2013?sort=author&amp;order=asc" title="">2013</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2012?sort=author&amp;order=asc" title="">2012</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2011?sort=author&amp;order=asc" title="">2011</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2010?sort=author&amp;order=asc" title="">2010</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2009?sort=author&amp;order=asc" title="">2009</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2008?sort=author&amp;order=asc" title="">2008</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2007?sort=author&amp;order=asc" title="">2007</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2006?sort=author&amp;order=asc" title="">2006</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2005?sort=author&amp;order=asc" title="">2005</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2004?sort=author&amp;order=asc" title="">2004</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2003?sort=author&amp;order=asc" title="">2003</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2002?sort=author&amp;order=asc" title="">2002</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2001?sort=author&amp;order=asc" title="">2001</a></span></li><li class="leaf last"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/year/2000?sort=author&amp;order=asc" title="">2000</a></span></li></ul></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/authors" title="">Modern authors</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/ancient-authors" title="">Ancient authors</a></span></li><li class="leaf last"><span style="font-size: x-small;"><a href="http://www.moisasociety.org/de-musicis/keywords" title="">Keywords (for years 2000-2002, 2004)</a></span></li></ul></li></ul></blockquote><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5307346863184030521/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5307346863184030521/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/06/de-musicis-annotated-bibliography-of.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5307346863184030521"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5307346863184030521"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/06/de-musicis-annotated-bibliography-of.html"
          title="De musicis: An Annotated Bibliography of Works on Ancient Greek and Roman Music"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

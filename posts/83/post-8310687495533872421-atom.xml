@@ -1,171 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8310687495533872421</id>
-    <published>2013-04-29T09:16:00.000-04:00</published>
-    <updated>2013-04-29T09:16:08.758-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8310687495533872421</id>
+   <published>2016-02-10T10:35:00.000-05:00</published>
+   <updated>2016-02-10T10:35:51.922-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Canada"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Byzantine"/>
-    <title type="text">Open Access Journal: Canadio-Byzantina: A newsletter published by the Canadian
-      Committee of Byzantinists</title>
-    <content type="html"><![CDATA[<a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/index">Canadio-Byzantina: A
-      newsletter published by the Canadian Committee of Byzantinists</a><br
-      /><blockquote class="tr_bq"><img
-      alt="https://uottawa.scholarsportal.info/ojs/public/journals/9/pageHeaderTitleImage_en_US.gif"
-      class="decoded" height="48"
-      src="https://uottawa.scholarsportal.info/ojs/public/journals/9/pageHeaderTitleImage_en_US.gif"
-      width="320" /></blockquote><div style="float: left; width: 100%;">
-      <blockquote class="tr_bq"><h3><span style="font-size:
-      x-small;">2013</span></h3><div id="issue" style="clear: left;">
-      <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/194">No. 24 (January
-      2013)</a></span></h4></div></blockquote></div><blockquote>
-      <span style="font-size: x-small;"><br /></span> <div style="float: left;
-      width: 100%;"> <h3><span style="font-size:
-      x-small;">2012</span></h3><div id="issue" style="clear: left;">
-      <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/157">No. 23 (January
-      2012)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">2011</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/89">No. 22 (January
-      2011)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">2010</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/130">No. 21 (February
-      2010)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">2009</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/129">No. 20 (February
-      2009)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">2008</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/128">No. 19 (February
-      2008)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">2007</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/127">No. 18 (January
-      2007)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">2006</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/126">No. 17 (January
-      2006)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">2005</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/125">No. 16 (February
-      2005)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">2004</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/124">No. 15 (March
-      2004)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">2003</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/123">No. 14 (January
-      2003)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">2002</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/87">No. 13 (January
-      2002)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">2001</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/122">No. 12 (January
-      2001)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">2000</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/121">No. 11 (January
-      2000)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">1999</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/120">No. 10 (January
-      1999)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">1998</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/119">No. 9 (January
-      1998)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">1996</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/118">No. 8 (September
-      1996)</a></span></h4></div><div id="issue" style="clear: left;">
-      <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/117">No. 7 (March
-      1996)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">1995</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/116">No. 6 (October
-      1995)</a></span></h4></div><div id="issue" style="clear: left;">
-      <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/115">No. 5 (January
-      1995)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">1994</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/114">No. 4 (April
-      1994)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: x-small;">1993</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/113">No. 3 (July
-      1993)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <h3><span style="font-size:
-      x-small;">1992</span></h3><div id="issue" style="clear: left;">
-      <h4><span style="font-size: x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/112">No. 2 (November
-      1992)</a></span></h4></div><h4><span style="font-size:
-      x-small;"><a
-      href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/86">No. 1 (January
-      1992)</a></span></h4></blockquote><br /><div
-      style="text-align: center;"><span style="font-size: small;"><span
-      class="titol"><span><span class="text"><span><span>See the full
-      <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span></span>
-      </span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Canada"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Byzantine"/>
+   <title type="text">Open Access Journal: Canadio-Byzantina: A newsletter published by the Canadian Committee of Byzantinists</title>
+   <content type="html"><![CDATA[<a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/index">Canadio-Byzantina: A newsletter published by the Canadian Committee of Byzantinists</a><br /><blockquote class="tr_bq"><img alt="https://uottawa.scholarsportal.info/ojs/public/journals/9/pageHeaderTitleImage_en_US.gif" class="decoded" height="48" src="https://uottawa.scholarsportal.info/ojs/public/journals/9/pageHeaderTitleImage_en_US.gif" width="320" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">A newsletter published by the Canadian Committee of Byzantinists.</span></blockquote><blockquote class="tr_bq"><ul><li><span style="font-size: x-small;">The Canadian Committee for Byzantine Studies est la section canadienne  de <a href="http://www.aiebnet.gr/introduction.html">l'Association  Internationale des Études Byzantines</a>.</span></li><li><span style="font-size: x-small;">The Canadian Committee for Byzantine Studies is the national section  of the <a href="http://www.aiebnet.gr/introduction.html">Association  Internationale des Études Byzantines</a>.</span></li><li><span style="font-size: x-small;">Des détails sur l'AIEB (en allemand) se trouvent <a href="http://de.wikipedia.org/wiki/Association_Internationale_des_Etudes_Byzantines">ici</a>. Details on the AIEB (in German) may be found <a href="http://de.wikipedia.org/wiki/Association_Internationale_des_Etudes_Byzantines">here</a>.</span></li></ul></blockquote><blockquote class="tr_bq">  <div id="content">  <div id="issues">          <div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2016</span></h3><span style="font-size: x-small;">     </span><div id="issue-249" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/249">No. 27 (January 2016)</a></span></h4></div><span style="font-size: x-small;">       </span></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2015</span></h3><div id="issue-229" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/229">No. 26 (January 2015)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2014</span></h3><div id="issue-205" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/205">No. 25 (January 2014)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2013</span></h3><div id="issue-194" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/194">No. 24 (January 2013)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2012</span></h3><div id="issue-157" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/157">No. 23 (January 2012)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2011</span></h3><div id="issue-89" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/89">No. 22 (January 2011)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2010</span></h3><div id="issue-130" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/130">No. 21 (February 2010)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2009</span></h3><div id="issue-129" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/129">No. 20 (February 2009)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2008</span></h3><div id="issue-128" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/128">No. 19 (February 2008)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2007</span></h3><div id="issue-127" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/127">No. 18 (January 2007)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2006</span></h3><div id="issue-126" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/126">No. 17 (January 2006)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2005</span></h3><div id="issue-125" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/125">No. 16 (February 2005)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2004</span></h3><div id="issue-124" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/124">No. 15 (March 2004)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2003</span></h3><div id="issue-123" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/123">No. 14 (January 2003)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2002</span></h3><div id="issue-87" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/87">No. 13 (January 2002)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2001</span></h3><div id="issue-122" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/122">No. 12 (January 2001)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2000</span></h3><div id="issue-121" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/121">No. 11 (January 2000)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">1999</span></h3><div id="issue-120" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/120">No. 10 (January 1999)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">1998</span></h3><div id="issue-119" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/119">No. 9 (January 1998)</a></span></h4></div></div><span style="font-size: x-small;">   </span></div></div></blockquote><br /><br /><br /><br /><br /><br /><br /><blockquote class="tr_bq"><div id="content"><div id="issues"><span style="font-size: x-small;">        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">1996</span></h3><div id="issue-118" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/118">No. 8 (September 1996)</a></span></h4></div><div id="issue-117" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/117">No. 7 (March 1996)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">1995</span></h3><div id="issue-116" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/116">No. 6 (October 1995)</a></span></h4></div><div id="issue-115" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/115">No. 5 (January 1995)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">1994</span></h3><div id="issue-114" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/114">No. 4 (April 1994)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">1993</span></h3><div id="issue-113" style="clear: left;">       <h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/113">No. 3 (July 1993)</a></span></h4></div></div></div></div></blockquote><span style="font-size: x-small;"><br /></span><blockquote><h3><span style="font-size: x-small;">1992</span></h3><div id="issue" style="clear: left;"><h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/112">No. 2 (November 1992)</a></span></h4></div><h4><span style="font-size: x-small;"><a href="https://uottawa.scholarsportal.info/ojs/index.php/cb/issue/view/86">No. 1 (January 1992)</a></span></h4></blockquote><br /><div style="text-align: center;"><span style="font-size: small;"><span class="titol"><span class="text">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span> </span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8310687495533872421/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8310687495533872421/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/04/open-access-journal-canadio-byzantina.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8310687495533872421"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8310687495533872421"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/04/open-access-journal-canadio-byzantina.html"
          title="Open Access Journal: Canadio-Byzantina: A newsletter published by the Canadian Committee of Byzantinists"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

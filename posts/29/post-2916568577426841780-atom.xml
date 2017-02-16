@@ -1,136 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2916568577426841780</id>
-    <published>2014-09-19T10:23:00.000-04:00</published>
-    <updated>2014-09-19T10:23:53.901-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2916568577426841780</id>
+   <published>2014-09-19T10:23:00.000-04:00</published>
+   <updated>2014-09-19T10:23:53.901-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Digital Humanities and the Ancient World</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.biblicalarchaeology.org/scholars-study/digital-humanities-and-the-ancient-world/">Digital
-      Humanities and the Ancient World</a><br /> <blockquote class="tr_bq">
-      <span class="author vcard full-author"> <span style="font-size: x-small;"><a
-      class="url fn"
-      href="http://www.biblicalarchaeology.org/author/biblical-archaeology-society-staff/"
-      title="View all posts by Biblical Archaeology Society Staff">Biblical Archaeology Society
-      Staff</a> </span></span><span style="font-size: x-small;"> <span
-      class="date full-date">&nbsp; •&nbsp; <abbr
-      title="08/13/2014T15:02">08/13/2014</abbr></span></span>
-      </blockquote><blockquote class="tr_bq"><div class="by-line"><span
-      style="font-size: x-small;"> </span></div><span style="font-size:
-      x-small;"> </span><span style="font-size: x-small;">What would happen if the
-      Pope’s library were accidentally burnt? How can we reconstruct and visualize ancient and
-      medieval pilgrimage routes? Technology is changing the way we study and preserve texts and
-      artifacts. In a series of web-exclusive articles written by scholars engaged in the Digital
-      Humanities, learn how this growing field of study is helping to analyze textual and
-      archaeological data—and how you can help.<br />&nbsp;</span><br /><hr
-      /><span style="font-size: x-small;">&nbsp;</span><h2><span
-      style="font-size: x-small;">Digital Humanities: An
-      Introduction</span></h2><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a
-      href="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/recovery2-lg.jpg"><img
-      alt="Jewish-Iraqi-manuscripts" class="alignright size-medium wp-image-32358" height="200"
-      src="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/recovery2-lg-260x260.jpg"
-      width="200" /></a>What if the Dead Sea Scrolls were damaged? What if the Pope’s
-      library burned down? In <a
-      href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/digital-humanities/"
-      target="_blank">“Digital Humanities: How Everyone Can Get a Library Card to the World’s Most
-      Exclusive Collections Online,”</a> George Washington University associate professor of
-      history Diane H. Cline explores the research opportunities and potential impact of Digital
-      Humanities projects. This new field not only preserves publications, it extends access to the
-      humanities to anyone with Internet access.</span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a
-      href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/digital-humanities/"
-      target="_blank">Read “Digital Humanities: How Everyone Can Get a Library Card to the World’s
-      Most Exclusive Collections Online” by Diane H. Cline &gt;&gt;</a><br
-      />&nbsp;</span><br /><hr /><span style="font-size:
-      x-small;">&nbsp; </span><h2><span style="font-size: x-small;">Mapping
-      Technologies</span></h2><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a
-      href="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/image-1-pleiades.stoa_.org_.png"><img
-      alt="pleiades-stoa-org" class="alignright size-medium wp-image-32853" height="132"
-      src="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/image-1-pleiades.stoa_.org_-260x171.png"
-      width="200" /></a>Want to follow a fourth-century pilgrim itinerary from Bordeaux via
-      Constantinople to the Holy Land? Experiment with ancient travel times and their costs over
-      land, sea and sand in the Roman Empire? University of Iowa assistant professor of classics
-      Sarah E. Bond explains in <a
-      href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/map-quests-geography-digital-humanities-and-the-ancient-world/"
-      target="_blank">“Map Quests: Geography, Digital Humanities and the Ancient World”</a>
-      how the Digital Humanities offers opportunities to explore, interact with and contribute to
-      maps of the ancient world. </span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a
-      href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/map-quests-geography-digital-humanities-and-the-ancient-world/"
-      target="_blank">Read “Map Quests: Geography, Digital Humanities and the Ancient World” by
-      Sarah E. Bond &gt;&gt;</a><br />&nbsp;</span><br /><hr
-      /><span style="font-size: x-small;">&nbsp; </span><h2><span
-      style="font-size: x-small;">Open Access to Digital Data</span></h2><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      href="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/Open-Context-1.jpg"><img
-      alt="Open-Context-1" class="alignright size-medium wp-image-34484" height="128"
-      src="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/Open-Context-1-260x145.jpg"
-      width="230" /></a>Interested in exploring the results of archaeology projects directly
-      from the researchers? Cutting-edge technology is helping archaeologists generate a tremendous
-      amount of digital data each year. At the same time, the scientific community increasingly
-      expects direct access to the data. In <a
-      href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/open-context/"
-      target="_blank">“Open Context: Making the Most of Archaeological Data,”</a> Alexandria
-      Archive Institute cofounders Sarah Whitcher Kansa and Eric Kansa describe Open Context, an open
-      access, peer-reviewed data publishing service that has published over one million digital
-      resources, from archaeological survey data to excavation documentation and artifact analyses.
-      </span><br /><span style="font-size: x-small;"></span><span
-      style="font-size: x-small;"><a
-      href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/open-context/"
-      target="_blank">Read “Open Context: Making the Most of Archaeological Data” by Sarah
-      Whitcher Kansa and Eric Kansa &gt;&gt;</a><br
-      />&nbsp;</span><br /><hr /><span style="font-size:
-      x-small;">&nbsp; </span><h2><span style="font-size: x-small;">Making
-      University Collections Accessible to All</span></h2><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a
-      href="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/CNERS-tablet.jpg"><img
-      alt="CNERS-tablet" class="alignright size-full wp-image-34579" height="200"
-      src="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/CNERS-tablet.jpg"
-      width="179" /></a>Many university departments across the world have shelves and
-      storerooms full of books, artifacts and research collected over several decades. What do you do
-      when the “skeletons in your closet” are a box of 2,000-year-old artifacts? That was the
-      question facing the University of British Columbia’s Department of Classical, Near Eastern, and
-      Religious Studies. In <a
-      href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/from-stone-to-screen/"
-      target="_blank">“From Stone to Screen: Bringing 21st-Century Access to Ancient
-      Artifacts,”</a> members of the <em>From Stone to Screen</em> graduate student
-      project at UBC discuss their ongoing efforts to create digital archives of their department’s
-      artifact collection—making these fascinating objects accessible to a global audience
-      online.</span><br /><span style="font-size: x-small;"><a
-      href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/from-stone-to-screen/"
-      target="_blank">Read “From Stone to Screen: Bringing 21st-Century Access to Ancient
-      Artifacts” &gt;&gt;</a><br />&nbsp;
-      </span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Digital Humanities and the Ancient World</title>
+   <content type="html"><![CDATA[<a href="http://www.biblicalarchaeology.org/scholars-study/digital-humanities-and-the-ancient-world/">Digital Humanities and the Ancient World</a><br /> 				 								 				 				 				         		         		         		  	 	<blockquote class="tr_bq">   	          <span class="author vcard full-author">                <span style="font-size: x-small;"><a class="url fn" href="http://www.biblicalarchaeology.org/author/biblical-archaeology-society-staff/" title="View all posts by Biblical Archaeology Society Staff">Biblical Archaeology Society Staff</a>            </span></span><span style="font-size: x-small;">		        		<span class="date full-date">&nbsp; •&nbsp; <abbr title="08/13/2014T15:02">08/13/2014</abbr></span></span> </blockquote><blockquote class="tr_bq"><div class="by-line"><span style="font-size: x-small;">  	</span></div><span style="font-size: x-small;">		 	 		 		 </span><span style="font-size: x-small;">What would happen if the Pope’s library were accidentally burnt? How  can we reconstruct and visualize ancient and medieval pilgrimage routes?  Technology is changing the way we study and preserve texts and  artifacts. In a series of web-exclusive articles written by scholars  engaged in the Digital Humanities, learn how this growing field of study  is helping to analyze textual and archaeological data—and how you can  help.<br />&nbsp;</span><br /><hr /><span style="font-size: x-small;">&nbsp;</span><h2><span style="font-size: x-small;">Digital Humanities: An Introduction</span></h2><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/recovery2-lg.jpg"><img alt="Jewish-Iraqi-manuscripts" class="alignright size-medium wp-image-32358" height="200" src="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/recovery2-lg-260x260.jpg" width="200" /></a>What if the Dead Sea Scrolls were damaged? What if the Pope’s library burned down? In <a href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/digital-humanities/" target="_blank">“Digital Humanities: How Everyone Can Get a Library Card to the World’s Most Exclusive Collections Online,”</a> George Washington University associate professor of history Diane H.  Cline explores the research opportunities and potential impact of  Digital Humanities projects. This new field not only preserves  publications, it extends access to the humanities to anyone with  Internet access.</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/digital-humanities/" target="_blank">Read  “Digital Humanities: How Everyone Can Get a Library Card to the World’s  Most Exclusive Collections Online” by Diane H. Cline &gt;&gt;</a><br />&nbsp;</span><br /><hr /><span style="font-size: x-small;">&nbsp; </span><h2><span style="font-size: x-small;">Mapping Technologies</span></h2><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/image-1-pleiades.stoa_.org_.png"><img alt="pleiades-stoa-org" class="alignright size-medium wp-image-32853" height="132" src="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/image-1-pleiades.stoa_.org_-260x171.png" width="200" /></a>Want  to follow a fourth-century pilgrim itinerary from Bordeaux via  Constantinople to the Holy Land? Experiment with ancient travel times  and their costs over land, sea and sand in the Roman Empire? University  of Iowa assistant professor of classics Sarah E. Bond explains in <a href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/map-quests-geography-digital-humanities-and-the-ancient-world/" target="_blank">“Map Quests: Geography, Digital Humanities and the Ancient World”</a> how the Digital Humanities offers opportunities to explore, interact with and contribute to maps of the ancient world. </span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/map-quests-geography-digital-humanities-and-the-ancient-world/" target="_blank">Read “Map Quests: Geography, Digital Humanities and the Ancient World” by Sarah E. Bond &gt;&gt;</a><br />&nbsp;</span><br /><hr /><span style="font-size: x-small;">&nbsp; </span><h2><span style="font-size: x-small;">Open Access to Digital Data</span></h2><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/Open-Context-1.jpg"><img alt="Open-Context-1" class="alignright size-medium wp-image-34484" height="128" src="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/Open-Context-1-260x145.jpg" width="230" /></a>Interested  in exploring the results of archaeology projects directly from the  researchers? Cutting-edge technology is helping archaeologists generate a  tremendous amount of digital data each year. At the same time, the  scientific community increasingly expects direct access to the data. In <a href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/open-context/" target="_blank">“Open Context: Making the Most of Archaeological Data,”</a> Alexandria Archive Institute cofounders Sarah Whitcher Kansa and Eric  Kansa describe Open Context, an open access, peer-reviewed data  publishing service that has published over one million digital  resources, from archaeological survey data to excavation documentation  and artifact analyses. </span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/open-context/" target="_blank">Read “Open Context: Making the Most of Archaeological Data” by Sarah Whitcher Kansa and Eric Kansa &gt;&gt;</a><br />&nbsp;</span><br /><hr /><span style="font-size: x-small;">&nbsp; </span><h2><span style="font-size: x-small;">Making University Collections Accessible to All</span></h2><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/CNERS-tablet.jpg"><img alt="CNERS-tablet" class="alignright size-full wp-image-34579" height="200" src="http://dbcfaa79b34c8f5dfffa-7d3a62c63519b1618047ef2108473a39.r81.cf2.rackcdn.com/wp-content/uploads/CNERS-tablet.jpg" width="179" /></a>Many  university departments across the world have shelves and storerooms  full of books, artifacts and research collected over several decades.  What do you do when the “skeletons in your closet” are a box of  2,000-year-old artifacts? That was the question facing the University of  British Columbia’s Department of Classical, Near Eastern, and Religious  Studies. In <a href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/from-stone-to-screen/" target="_blank">“From Stone to Screen: Bringing 21st-Century Access to Ancient Artifacts,”</a> members of the <em>From Stone to Screen</em> graduate student project at UBC discuss their ongoing efforts to create  digital archives of their department’s artifact collection—making these  fascinating objects accessible to a global audience online.</span><br /><span style="font-size: x-small;"><a href="http://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/from-stone-to-screen/" target="_blank">Read “From Stone to Screen: Bringing 21st-Century Access to Ancient Artifacts” &gt;&gt;</a><br />&nbsp; </span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2916568577426841780/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2916568577426841780/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/digital-humanities-and-ancient-world.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2916568577426841780"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2916568577426841780"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/digital-humanities-and-ancient-world.html"
          title="Digital Humanities and the Ancient World"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

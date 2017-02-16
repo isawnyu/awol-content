@@ -1,115 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7419098689622718191</id>
-    <published>2015-05-03T21:00:00.000-04:00</published>
-    <updated>2015-05-03T21:00:08.788-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7419098689622718191</id>
+   <published>2015-05-03T21:00:00.000-04:00</published>
+   <updated>2015-05-03T21:00:08.788-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="New Testament"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="New Testament"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Translations"/>
-    <title type="text">Electronic Editions of the Gospel According to John in Greek, Latin, Syriac
-      and Coptic</title>
-    <content type="html"><![CDATA[<a href="http://www.iohannes.com/"><span style="font-size:
-      small;"><span style="font-family: inherit;">Electronic Editions of the Gospel
-      According to John in Greek, Latin, Syriac and Coptic</span></span></a><br
-      /><blockquote class="tr_bq"><span style="font-size: small;"><span
-      style="font-family: inherit;"><img alt="http://www.iohannes.com/images/EagleOvalBG2.gif"
-      class="transparent" height="167" src="http://www.iohannes.com/images/EagleOvalBG2.gif"
-      width="200" /> </span></span></blockquote><blockquote
-      class="tr_bq"><div style="text-align: left;"><span style="font-family: Arial,
-      Helvetica, sans-serif; font-size: small;"><span style="font-size: x-small;"><a
-      href="http://www.iohannes.com/majuscule/index.html" target="_top">The International Greek
-      New Testament Project edition of the <br />Greek majuscule manuscripts of
-      John</a></span></span></div><div style="text-align:
-      left;"><span style="font-family: Arial, Helvetica, sans-serif; font-size:
-      x-small;"><div align="center"><span style="font-family: Arial, Helvetica,
-      sans-serif;"><a href="http://www.iohannes.com/vetuslatina/index.html"
-      target="_top">Vetus Latina
-      Iohannes</a></span></div></span></div><div style="text-align:
-      left;"><span style="font-size: x-small;"><br /></span><div
-      style="text-align: left;"><span style="font-family: Arial, Helvetica, sans-serif;
-      font-size: x-small;"><div align="center"><span style="font-family: Arial,
-      Helvetica, sans-serif;"><i>An edition of the manuscripts with Old Latin versions of
-      John</i></span></div><span style="font-family: Arial, Helvetica,
-      sans-serif;"><div align="center"><span style="font-family: Arial, Helvetica,
-      sans-serif;"><a href="http://www.iohannes.com/byzantine/index.html" target="_top">The
-      United Bible Societies Byzantine Text of John</a></span></div><span
-      style="font-family: Arial, Helvetica, sans-serif;"><div align="center"><span
-      style="font-family: Arial, Helvetica, sans-serif;">Biblia
-      Coptica</span></div></span></span></span></div></div><div
-      style="text-align: left;"><span style="font-size: x-small;"><br /><span
-      style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial,
-      Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica,
-      sans-serif;"><div align="center"><span style="font-family: Arial, Helvetica,
-      sans-serif;"><i>Facsimiles and transcriptions of Sahidic Coptic manuscripts of
-      John</i></span></div><span style="font-family: Arial, Helvetica,
-      sans-serif;"><div align="center"><span style="font-family: Arial, Helvetica,
-      sans-serif;"><a href="http://www.iohannes.com/IGNTPtranscripts/index.html"
-      target="_top">IGNTP
-      Transcripts</a></span></div></span></span></span></span></span></div><div
-      style="text-align: left;"><span style="font-size: x-small;"><br /><span
-      style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial,
-      Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica,
-      sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><div
-      align="center"><span style="font-family: Arial, Helvetica, sans-serif;">Transcriptions
-      of Greek Papyri, Majuscules and Minuscules <span style="color: red;">(work in
-      progress)</span></span></div></span></span></span></span></span></div><span
-      style="font-size: x-small;"><br /><span style="font-family: Arial, Helvetica,
-      sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><span
-      style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial,
-      Helvetica, sans-serif;"><div align="center"><span style="font-family: Arial,
-      Helvetica, sans-serif;">Transcriptions of the <a
-      href="http://www.iohannes.com/XML/transcriptions/coptic/ac1.xml" target="_top">Minor Coptic
-      Versions</a></span></div><span style="font-family: Arial, Helvetica,
-      sans-serif;"><br
-      /></span></span></span></span></span></span><span
-      style="font-family: Arial, Helvetica, sans-serif; font-size: x-small;"><span
-      style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial,
-      Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica,
-      sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><div
-      align="center"><span style="font-family: Arial, Helvetica, sans-serif;">These pages
-      are maintained by the Institute for Textual Scholarship and Electronic Editing, University of
-      Birmingham.
-      </span></div></span></span></span></span></span><span
-      style="font-size: x-small;"><br /></span><span style="font-family: Arial,
-      Helvetica, sans-serif; font-size: x-small;"><span style="font-family: Arial, Helvetica,
-      sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><span
-      style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial,
-      Helvetica, sans-serif;"><div align="center"><span style="font-family: Arial,
-      Helvetica, sans-serif;">For further information, please <a
-      href="mailto:%22webmaster@iohannes.com%22">contact the
-      webmaster</a>.</span></div><span style="font-family: Arial, Helvetica,
-      sans-serif;">The image of the eagle is courtesy of the <a href="http://www.crsbi.ac.uk/"
-      target="_new">Corpus of Romanesque Sculpture in Britain and
-      Ireland</a>.</span></span></span></span></span></span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Translations"/>
+   <title type="text">Electronic Editions of the Gospel According to John in Greek, Latin, Syriac and Coptic</title>
+   <content type="html"><![CDATA[<a href="http://www.iohannes.com/"><span style="font-size: small;"><span style="font-family: inherit;">Electronic Editions of the Gospel According to John in Greek, Latin, Syriac and Coptic</span></span></a><br /><blockquote class="tr_bq"><span style="font-size: small;"><span style="font-family: inherit;"><img alt="http://www.iohannes.com/images/EagleOvalBG2.gif" class="transparent" height="167" src="http://www.iohannes.com/images/EagleOvalBG2.gif" width="200" /> </span></span></blockquote><blockquote class="tr_bq"><div style="text-align: left;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="font-size: x-small;"><a href="http://www.iohannes.com/majuscule/index.html" target="_top">The International Greek New Testament Project edition of the <br />Greek majuscule manuscripts of John</a></span></span></div><div style="text-align: left;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: x-small;"><div align="center"><span style="font-family: Arial, Helvetica, sans-serif;"><a href="http://www.iohannes.com/vetuslatina/index.html" target="_top">Vetus Latina Iohannes</a></span></div></span></div><div style="text-align: left;"><span style="font-size: x-small;"><br /></span><div style="text-align: left;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: x-small;"><div align="center"><span style="font-family: Arial, Helvetica, sans-serif;"><i>An edition of the manuscripts with Old Latin versions of John</i></span></div><span style="font-family: Arial, Helvetica, sans-serif;"><div align="center"><span style="font-family: Arial, Helvetica, sans-serif;"><a href="http://www.iohannes.com/byzantine/index.html" target="_top">The United Bible Societies Byzantine Text of John</a></span></div><span style="font-family: Arial, Helvetica, sans-serif;"><div align="center"><span style="font-family: Arial, Helvetica, sans-serif;">Biblia Coptica</span></div></span></span></span></div></div><div style="text-align: left;"><span style="font-size: x-small;"><br /><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><div align="center"><span style="font-family: Arial, Helvetica, sans-serif;"><i>Facsimiles and transcriptions of Sahidic Coptic manuscripts of John</i></span></div><span style="font-family: Arial, Helvetica, sans-serif;"><div align="center"><span style="font-family: Arial, Helvetica, sans-serif;"><a href="http://www.iohannes.com/IGNTPtranscripts/index.html" target="_top">IGNTP Transcripts</a></span></div></span></span></span></span></span></div><div style="text-align: left;"><span style="font-size: x-small;"><br /><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><div align="center"><span style="font-family: Arial, Helvetica, sans-serif;">Transcriptions of Greek Papyri, Majuscules and Minuscules <span style="color: red;">(work in progress)</span></span></div></span></span></span></span></span></div><span style="font-size: x-small;"><br /><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><div align="center"><span style="font-family: Arial, Helvetica, sans-serif;">Transcriptions of the <a href="http://www.iohannes.com/XML/transcriptions/coptic/ac1.xml" target="_top">Minor Coptic Versions</a></span></div><span style="font-family: Arial, Helvetica, sans-serif;"><br /></span></span></span></span></span></span><span style="font-family: Arial, Helvetica, sans-serif; font-size: x-small;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><div align="center"><span style="font-family: Arial, Helvetica, sans-serif;">These pages are maintained by the Institute for Textual Scholarship and Electronic Editing, University of Birmingham.  </span></div></span></span></span></span></span><span style="font-size: x-small;"><br /></span><span style="font-family: Arial, Helvetica, sans-serif; font-size: x-small;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-family: Arial, Helvetica, sans-serif;"><div align="center"><span style="font-family: Arial, Helvetica, sans-serif;">For further information, please <a href="mailto:%22webmaster@iohannes.com%22">contact the webmaster</a>.</span></div><span style="font-family: Arial, Helvetica, sans-serif;">The image of the eagle is courtesy of the <a href="http://www.crsbi.ac.uk/" target="_new">Corpus of Romanesque Sculpture in Britain and Ireland</a>.</span></span></span></span></span></span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7419098689622718191/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7419098689622718191/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/05/electronic-editions-of-gospel-according.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7419098689622718191"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7419098689622718191"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/05/electronic-editions-of-gospel-according.html"
          title="Electronic Editions of the Gospel According to John in Greek, Latin, Syriac and Coptic"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

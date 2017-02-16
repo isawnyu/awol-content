@@ -1,102 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-599844028473380336</id>
-    <published>2013-08-17T07:30:00.000-04:00</published>
-    <updated>2013-08-18T10:05:59.140-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-599844028473380336</id>
+   <published>2013-08-17T07:30:00.000-04:00</published>
+   <updated>2013-08-18T10:05:59.140-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Archaeological Science"/>
-    <title type="text">Open Access Journal: Remote Sensing &amp; Photogrammetry Society Archaeology
-      Special Interest Group Newsletter</title>
-    <content type="html"><![CDATA[<a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left:
-      1em;"></a><a
-      href="http://www.rspsoc.org.uk/index.php/special-interest-groups/archaeology-sig.html">Remote
-      Sensing &amp; Photogrammetry Society Archaeology Special Interest Group
-      Newsletter</a><br /><blockquote class="tr_bq"><img
-      alt="http://www.rspsoc.org.uk/templates/freshock-fjt/images/logo.png" class="decoded"
-      height="44" src="http://www.rspsoc.org.uk/templates/freshock-fjt/images/logo.png" width="320"
-      /> </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">The Archaeology <span class="caps">SIG</span> aims to encourage the
-      exchange of research and methodology between remote sensing scientists and archaeologists,
-      especially those concerned with methods of site prospection and novel
-      applications.</span> <br /><br /><span style="font-size:
-      x-small;">Meetings concentrate on a mixture of case studies and developing methodology and
-      include ground-based methods, photogrammetry, <span class="caps">LIDAR</span>,
-      laser scanning, and geophysical prospection, as well as aerial photography and thermal
-      imaging.</span><br /><h3><span style="font-size: x-small;">SIG
-      Activities</span></h3><span style="font-size: x-small;">The Archaeology
-      Special Interest Group of the Remote Sensing and Photogrammetry Society aims
-      to:</span><br /><ul><li><span style="font-size: x-small;">Promote
-      the development &amp; use of remote sensing in archaeological
-      surveying</span></li><li><span style="font-size: x-small;">Encourage
-      research in all aspects of remote site location and
-      interpretation</span></li><li><span style="font-size: x-small;">Provide
-      a forum for the exchange of information &amp;
-      ideas</span></li></ul><span style="font-size: x-small;">Current areas
-      of interest include the following:</span><br /><ul><li><span
-      style="font-size: x-small;">Satellite data
-      interpretation</span></li><li><span style="font-size: x-small;">Aerial
-      photographic analysis</span></li><li><span style="font-size:
-      x-small;">Digital image processing</span></li><li><span
-      style="font-size: x-small;">Ground-based
-      applications</span></li><li><span style="font-size:
-      x-small;">High-resolution photographic techniques</span></li><li><span
-      style="font-size: x-small;">Radar</span></li><li><span
-      style="font-size: x-small;">Thermal line scanning</span></li><li><span
-      style="font-size: x-small;"><span
-      class="caps">GIS</span></span></li><li><span style="font-size:
-      x-small;"><span
-      class="caps">UAV</span>s</span></li></ul><div
-      class="module-body"><div class="custom"><span style="font-size: x-small;"><a
-      href="http://www.rspsoc.org.uk/SIG/ARCHSIG/NEWSLETTER/ArchSIG%20Newsletter%20Spring%202013.pdf"
-      target="new"><img alt="" border="0" src="http://www.rspsoc.org.uk/images/pdf_icon.png"
-      /> Newsletter Spring 2013</a></span><br /><span style="font-size:
-      x-small;"><a
-      href="http://www.rspsoc.org.uk/SIG/ARCHSIG/NEWSLETTER/ArchSIG%20Newsletter%20Spring%202012.pdf"
-      target="new"><img alt="" border="0" src="http://www.rspsoc.org.uk/images/pdf_icon.png"
-      /> Newsletter Spring 2012</a></span><br /><span style="font-size:
-      x-small;"><a
-      href="http://www.rspsoc.org.uk/SIG/ARCHSIG/NEWSLETTER/ArchSIG%20Newsletter%20Spring%202011.pdf"
-      target="new"><img alt="" border="0" src="http://www.rspsoc.org.uk/images/pdf_icon.png"
-      /> Newsletter Spring 2011</a></span><br /><span style="font-size:
-      x-small;"><a
-      href="http://www.rspsoc.org.uk/SIG/ARCHSIG/NEWSLETTER/ArchSIG%20Newsletter%20Autumn%202010.pdf"
-      target="new"><img alt="" border="0" src="http://www.rspsoc.org.uk/images/pdf_icon.png"
-      /> Newsletter Autumn
-      2010</a></span></div></div></blockquote><div
-      class="module-body" style="text-align: center;"><span style="font-size:
-      small;">&nbsp;<span style="font-family: inherit;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></span></span>
-      </div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Archaeological Science"/>
+   <title type="text">Open Access Journal: Remote Sensing &amp; Photogrammetry Society Archaeology Special Interest Group Newsletter</title>
+   <content type="html"><![CDATA[<a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"></a><a href="http://www.rspsoc.org.uk/index.php/special-interest-groups/archaeology-sig.html">Remote Sensing &amp; Photogrammetry Society Archaeology Special Interest Group Newsletter</a><br /><blockquote class="tr_bq"><img alt="http://www.rspsoc.org.uk/templates/freshock-fjt/images/logo.png" class="decoded" height="44" src="http://www.rspsoc.org.uk/templates/freshock-fjt/images/logo.png" width="320" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The Archaeology <span class="caps">SIG</span> aims to encourage the  exchange of research and methodology between remote sensing scientists  and archaeologists, especially those concerned with methods of site  prospection and novel applications.</span>  <br /><br /><span style="font-size: x-small;">Meetings concentrate on a mixture of case studies and developing methodology and include ground-based methods, photogrammetry, <span class="caps">LIDAR</span>, laser scanning, and geophysical prospection, as well as aerial photography and thermal imaging.</span><br /><h3><span style="font-size: x-small;">SIG Activities</span></h3><span style="font-size: x-small;">The Archaeology Special Interest Group of the Remote Sensing and Photogrammetry Society aims to:</span><br /><ul><li><span style="font-size: x-small;">Promote the development &amp; use of remote sensing in archaeological surveying</span></li><li><span style="font-size: x-small;">Encourage research in all aspects of remote site location and interpretation</span></li><li><span style="font-size: x-small;">Provide a forum for the exchange of information &amp; ideas</span></li></ul><span style="font-size: x-small;">Current areas of interest include the following:</span><br /><ul><li><span style="font-size: x-small;">Satellite data interpretation</span></li><li><span style="font-size: x-small;">Aerial photographic analysis</span></li><li><span style="font-size: x-small;">Digital image processing</span></li><li><span style="font-size: x-small;">Ground-based applications</span></li><li><span style="font-size: x-small;">High-resolution photographic techniques</span></li><li><span style="font-size: x-small;">Radar</span></li><li><span style="font-size: x-small;">Thermal line scanning</span></li><li><span style="font-size: x-small;"><span class="caps">GIS</span></span></li><li><span style="font-size: x-small;"><span class="caps">UAV</span>s</span></li></ul><div class="module-body"><div class="custom"><span style="font-size: x-small;"><a href="http://www.rspsoc.org.uk/SIG/ARCHSIG/NEWSLETTER/ArchSIG%20Newsletter%20Spring%202013.pdf" target="new"><img alt="" border="0" src="http://www.rspsoc.org.uk/images/pdf_icon.png" /> Newsletter Spring 2013</a></span><br /><span style="font-size: x-small;"><a href="http://www.rspsoc.org.uk/SIG/ARCHSIG/NEWSLETTER/ArchSIG%20Newsletter%20Spring%202012.pdf" target="new"><img alt="" border="0" src="http://www.rspsoc.org.uk/images/pdf_icon.png" /> Newsletter Spring 2012</a></span><br /><span style="font-size: x-small;"><a href="http://www.rspsoc.org.uk/SIG/ARCHSIG/NEWSLETTER/ArchSIG%20Newsletter%20Spring%202011.pdf" target="new"><img alt="" border="0" src="http://www.rspsoc.org.uk/images/pdf_icon.png" /> Newsletter Spring 2011</a></span><br /><span style="font-size: x-small;"><a href="http://www.rspsoc.org.uk/SIG/ARCHSIG/NEWSLETTER/ArchSIG%20Newsletter%20Autumn%202010.pdf" target="new"><img alt="" border="0" src="http://www.rspsoc.org.uk/images/pdf_icon.png" /> Newsletter Autumn 2010</a></span></div></div></blockquote><div class="module-body" style="text-align: center;"><span style="font-size: small;">&nbsp;<span style="font-family: inherit;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span> </div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/599844028473380336/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/599844028473380336/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/04/remote-sensing-and-photogrammetry.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/599844028473380336"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/599844028473380336"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/04/remote-sensing-and-photogrammetry.html"
          title="Open Access Journal: Remote Sensing &amp; Photogrammetry Society Archaeology Special Interest Group Newsletter"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

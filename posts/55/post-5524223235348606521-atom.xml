@@ -1,104 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5524223235348606521</id>
-    <published>2014-05-13T16:09:00.001-04:00</published>
-    <updated>2014-05-13T17:09:09.868-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5524223235348606521</id>
+   <published>2014-05-13T16:09:00.001-04:00</published>
+   <updated>2016-10-24T11:21:56.407-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
-    <title type="text">Open Access Journal: FORTVNATAE: Revista Canaria de Filología, Cultura y
-      Humanidades clásicas </title>
-    <content type="html"><![CDATA[<blockquote class="tr_bq"><a
-      href="http://publica.webs.ull.es/publicaciones/detalle/revista-fortvnatae/fortunatae-revista-canaria-de-filologia-cultura-y-humanidades-clasicas/">FORTVNATAE:
-      Revista Canaria de Filología, Cultura y Humanidades clásicas</a>
-      </blockquote><blockquote class="tr_bq">ISSN: 1131-6810
-      </blockquote><blockquote class="tr_bq"><img border="0"
-      src="http://publica.webs.ull.es/upload/publicaciones/f5a65a2a26a77fc6.png" height="178"
-      width="128" />&nbsp;</blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">Fortunatae, revista canaria de Filología, Cultura y Humanidades
-      Clásicas, publicación del Departamento de Filología Clásica de la Universidad de La Laguna
-      (Tenerife. España), se trazó, desde el año de su inicio (1991), el objetivo de acoger los
-      estudios e investigaciones de los miembros de las distintas áreas del mencionado departamento,
-      así como la de otros departamentos afines de otras universidades españolas con las que mantiene
-      relación, especialmente el de la Universidad de Las Palmas de Gran Canaria. Los números que
-      Fortunatae lleva publicados hasta el momento actual, han conseguido que sea considerada una
-      publicación periódica de prestigio por la Calidad y originalidad de algunas de sus
-      contribuciones, y que sea tenida en cuenta habitualmente en los repertorios bibliográficos del
-      ámbito científico al que pertenece.</span></blockquote><div
-      id="central"><blockquote class="tr_bq"><div
-      id="contenido-lista-volumenes"><ul><li><span style="font-size:
-      x-small;"><a
-      href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-24-2013/">Revista
-      Fortvnatae volumen: 24 (2013)</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-23-2012/">Revista
-      Fortvnatae volumen: 23 (2012)</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-22-2011/">Revista
-      Fortvnatae volumen: 22 (2011)</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-21-2010/">Revista
-      Fortvnatae volumen: 21 (2010)</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-20-2009/">
-      Revista Fortvnatae volumen: 20 (2009)</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-19-2008/">Revista
-      Fortvnatae volumen: 19 (2008)</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-18-2007/">Revista
-      Fortvnatae volumen: 18 (2007)</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-17-2006/">Revista
-      Fortvnatae volumen: 17 (2006)</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-16-2005/">
-      Revista Fortvnatae volumen: 16 (2005)</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-15-2004/">Revista
-      Fortvnatae volumen: 15 (2004)</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-14-2003/">Revista
-      Fortvnatae volumen: 14 (2003)</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-13-2002/">Revista
-      Fortvnatae volumen: 13
-      (2002)</a></span></li></ul></div></blockquote></div><br
-      /><div style="text-align: center;"><span class="Apple-style-span" style="color:
-      #333333; font-family: 'Times New Roman'; line-height: 25px;">See the
-      full&nbsp;</span><span class="Apple-style-span" style="color: #333333;
-      font-family: 'Times New Roman'; line-height: 25px;"><a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html"
-      style="color: #5588aa; text-decoration: none;">List of Open Access Journals in Ancient
-      Studies</a></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
+   <title type="text">Open Access Journal: FORTVNATAE: Revista Canaria de Filología, Cultura y Humanidades clásicas </title>
+   <content type="html"><![CDATA[<a href="http://publica.webs.ull.es/publicaciones/detalle/revista-fortvnatae/fortunatae-revista-canaria-de-filologia-cultura-y-humanidades-clasicas/">FORTVNATAE: Revista Canaria de Filología, Cultura y Humanidades clásicas</a><br />ISSN: 1131-6810  <br /><blockquote class="tr_bq"><img border="0" height="200" src="http://publica.webs.ull.es/upload/publicaciones/e69c4565aab2c039.png" width="143" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Fortunatae,  revista canaria de Filología, Cultura y Humanidades Clásicas,  publicación del Departamento de Filología Clásica de la Universidad de  La Laguna (Tenerife. España), se trazó, desde el año de su inicio  (1991), el objetivo de acoger los estudios e investigaciones de los  miembros de las distintas áreas del mencionado departamento, así como la  de otros departamentos afines de otras universidades españolas con las  que mantiene relación, especialmente el de la Universidad de Las Palmas  de Gran Canaria.  Los números que Fortunatae lleva publicados hasta el momento actual, han  conseguido que sea considerada una publicación periódica de prestigio  por la Calidad y originalidad de algunas de sus contribuciones, y que  sea tenida en cuenta habitualmente en los repertorios bibliográficos del  ámbito científico al que pertenece.</span></blockquote><div id="central"><blockquote class="tr_bq"><div id="contenido-lista-volumenes"><ul></ul><div id="central"> <div id="contenido-lista-volumenes"><ul><li><span style="font-size: x-small;"><a href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortunatae-volumen-25-2014/">Revista Fortunatae volumen: 25 (2014)</a></span></li><li><span style="font-size: x-small;"><a href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-24-2013/">Revista Fortvnatae volumen: 24 (2013)</a></span></li><li><span style="font-size: x-small;"><a href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-23-2012/">Revista Fortvnatae volumen: 23 (2012)</a></span></li><li><span style="font-size: x-small;"><a href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-22-2011/">Revista Fortvnatae volumen: 22 (2011)</a></span></li><li><span style="font-size: x-small;"><a href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-21-2010/">Revista Fortvnatae volumen: 21 (2010)</a></span></li><li><span style="font-size: x-small;"><a href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-20-2009/"> Revista Fortvnatae volumen: 20 (2009)</a></span></li><li><span style="font-size: x-small;"><a href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-19-2008/">Revista Fortvnatae volumen: 19 (2008)</a></span></li><li><span style="font-size: x-small;"><a href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-18-2007/">Revista Fortvnatae volumen: 18 (2007)</a></span></li><li><span style="font-size: x-small;"><a href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-17-2006/">Revista Fortvnatae volumen: 17 (2006)</a></span></li><li><span style="font-size: x-small;"><a href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-16-2005/"> Revista Fortvnatae volumen: 16 (2005)</a></span></li><li><span style="font-size: x-small;"><a href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-15-2004/">Revista Fortvnatae volumen: 15 (2004)</a></span></li><li><span style="font-size: x-small;"><a href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-14-2003/">Revista Fortvnatae volumen: 14 (2003)</a></span></li><li><span style="font-size: x-small;"><a href="http://publica.webs.ull.es/publicaciones/volumen/revista-fortvnatae-volumen-13-2002/">Revista Fortvnatae volumen: 13 (2002)</a></span></li></ul></div></div><ul></ul></div></blockquote></div><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: small;">S<span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></div><span style="font-size: small;"></span><div style="text-align: center;"><span style="font-size: small;"><br /></span></div><span style="font-size: small;"></span><div style="text-align: center;"><span style="font-size: small;"><a href="http://ancientworldonline.blogspot.com/2014/12/spanishcatalanportugese-journals-on.html">Spanish/Catalan/Portuguese Open Access Journals on the Ancient World</a></span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5524223235348606521/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5524223235348606521/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/open-access-journal-fortvnatae-revista.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5524223235348606521"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5524223235348606521"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/open-access-journal-fortvnatae-revista.html"
          title="Open Access Journal: FORTVNATAE: Revista Canaria de Filología, Cultura y Humanidades clásicas "/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

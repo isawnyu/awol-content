@@ -1,86 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3267924207388048367</id>
-    <published>2014-01-13T14:30:00.000-05:00</published>
-    <updated>2015-02-02T18:36:49.336-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3267924207388048367</id>
+   <published>2015-10-23T10:24:00.000-04:00</published>
+   <updated>2016-07-26T16:11:59.225-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Open Access Journal: Les Mélanges de l’École française de Rome – Antiquité
-      (MEFRA) [current]</title>
-    <content type="html"><![CDATA[<a href="http://mefra.revues.org/">Les Mélanges de l’École française
-      de Rome – Antiquité (MEFRA)</a> <br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><i>Les Mélanges de l’École française de Rome – Antiquité
-      (MEFRA)</i> publient des articles portant sur l’histoire, la culture et l’archéologie des
-      mondes anciens en Méditerranée, en particulier en Italie, en Afrique du Nord et dans les
-      Balkans, mais portant également sur les interactions entre cet espace et le reste du monde
-      antique. Ils publient aussi des dossiers thématiques en lien avec les fouilles et les
-      programmes scientifiques de l’EFR, et plus généralement des études relevant de diverses
-      disciplines (histoire, archéologie, archéométrie, épigraphie, philologie, droit etc.), de la
-      Préhistoire à la fin de l’Antiquité.</span><br /><ul class="collection
-      summary"><li><div id="navIssues"> <h2><span style="font-weight:
-      normal;"><span style="font-size: x-small;">Numéros en texte
-      intégral</span></span></h2><span style="font-size: x-small;">
-      </span><ul class="issues"><li><span style="font-size:
-      x-small;"><span class="year">2014</span>&nbsp;: <a
-      href="http://mefra.revues.org/1962" title="Ostia antica – Varia">126-1</a>&nbsp;|
-      <a href="http://mefra.revues.org/2261" title="« Origines » : percorsi di ricerca sulle
-      identità etniche nell'Italia antica – Identity problems in Early Italy : a workshop on
-      methodology – Varia – Regards
-      croisés">126–2</a></span></li><li><span style="font-size:
-      x-small;"><span class="year">2013</span>&nbsp;: <a
-      href="http://mefra.revues.org/1165" title="Archéologie et religion : le sanctuaire dionysiaque
-      de S. Abbondio à Pompéi - Varia">125-1</a>&nbsp;| <a
-      href="http://mefra.revues.org/1511" title="Codifications et réformes dans l'Empire tardif et
-      les royaumes barbares – Varia">125-2</a></span></li><li><span
-      style="font-size: x-small;"><span class="year">2012</span>&nbsp;: <a
-      href="http://mefra.revues.org/76" title="Varia">124-1</a>&nbsp;| <a
-      href="http://mefra.revues.org/691" title="Régler l'usage : norme et standard dans l'Italie
-      préromaine - Varia">124-2</a></span></li><li><span
-      style="font-size: x-small;"><span class="year">2011</span>&nbsp;: <a
-      href="http://mefra.revues.org/421" title="Mélanges">123-1</a>&nbsp;| <a
-      href="http://mefra.revues.org/423" title="Regards croisés -
-      Mélanges">123-2</a></span></li><li><span style="font-size:
-      x-small;"><span class="year">2010</span>&nbsp;: <a
-      href="http://mefra.revues.org/319" title="Le Quotidien institutionnel des cités
-      municipales">122-1</a>&nbsp;| <a href="http://mefra.revues.org/286" title="Il
-      nuovo museo del castello di Baia">122-2</a></span></li></ul><span
-      style="font-size: x-small;"> </span><h2 id="allIssues"><span
-      style="font-weight: normal;"><span style="font-size: x-small;"><a
-      href="http://mefra.revues.org/70">Tous les
-      numéros</a></span></span></h2></div></li></ul></blockquote><br
-      /><div class="texte" dir="ltr" style="text-align:
-      center;"><i>&nbsp;</i>See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
+   <title type="text">Open Access Journal: Les Mélanges de l’École française de Rome – Antiquité (MEFRA) [current]</title>
+   <content type="html"><![CDATA[<a href="http://ancientworldonline.blogspot.com/2012/12/open-access-jpurnal-melanges-de-lecole.html">See now here.</a>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3267924207388048367/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3267924207388048367/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/12/newly-open-access-journal-les-melanges.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3267924207388048367"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3267924207388048367"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/12/newly-open-access-journal-les-melanges.html"
          title="Open Access Journal: Les Mélanges de l’École française de Rome – Antiquité (MEFRA) [current]"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

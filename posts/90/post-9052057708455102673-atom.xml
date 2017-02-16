@@ -1,155 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-9052057708455102673</id>
-    <published>2013-04-30T06:04:00.001-04:00</published>
-    <updated>2013-04-30T06:04:04.522-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-9052057708455102673</id>
+   <published>2017-01-19T15:06:00.000-05:00</published>
+   <updated>2017-01-19T15:08:00.865-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
-    <title type="text">Open Access Journal: Polis: revista de ideas y formas políticas de la
-      Antigüedad</title>
-    <content type="html"><![CDATA[<a href="http://dspace.uah.es/dspace/handle/10017/5291">Polis: revista
-      de ideas y formas políticas de la Antigüedad</a><br />ISSN: 1130-0728<br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">Editada por el
-      Departamento de Historia I y Filosofía, Área de Historia Antigua, y Servicio de Publicaciones
-      de la Universidad de Alcalá.<br />Coordinador: Dr. Luis A. García Moreno
-      </span></blockquote><blockquote class="tr_bq"><h3
-      class="ds-list-head"><span style="font-size: x-small;">Collections in this
-      community</span></h3><ul><li class="ds-artifact-item odd"><span
-      style="font-size: x-small;"><img alt="Marcador" class="marcador"
-      src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span
-      class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5293">Polis -
-      Número 01, 1989</a> [6]</span></span></li><li
-      class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador"
-      class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png"
-      /><span class="collection"><a
-      href="http://dspace.uah.es/dspace/handle/10017/5294">Polis - Número 02, 1990</a>
-      [8]</span></span></li><li class="ds-artifact-item odd"><span
-      style="font-size: x-small;"><img alt="Marcador" class="marcador"
-      src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span
-      class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5295">Polis -
-      Número 03, 1991</a> [11]</span></span></li><li
-      class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador"
-      class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png"
-      /><span class="collection"><a
-      href="http://dspace.uah.es/dspace/handle/10017/5296">Polis - Número 04, 1992</a>
-      [12]</span></span></li><li class="ds-artifact-item odd"><span
-      style="font-size: x-small;"><img alt="Marcador" class="marcador"
-      src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span
-      class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5297">Polis -
-      Número 05, 1993</a> [14]</span></span></li><li
-      class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador"
-      class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png"
-      /><span class="collection"><a
-      href="http://dspace.uah.es/dspace/handle/10017/5298">Polis - Número 06, 1994</a>
-      [11]</span></span></li><li class="ds-artifact-item odd"><span
-      style="font-size: x-small;"><img alt="Marcador" class="marcador"
-      src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span
-      class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5299">Polis -
-      Número 07, 1995</a> [9]</span></span></li><li
-      class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador"
-      class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png"
-      /><span class="collection"><a
-      href="http://dspace.uah.es/dspace/handle/10017/5300">Polis - Número 08, 1996</a>
-      [9]</span></span></li><li class="ds-artifact-item odd"><span
-      style="font-size: x-small;"><img alt="Marcador" class="marcador"
-      src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span
-      class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5301">Polis -
-      Número 09, 1997</a> [9]</span></span></li><li
-      class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador"
-      class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png"
-      /><span class="collection"><a
-      href="http://dspace.uah.es/dspace/handle/10017/5302">Polis - Número 10, 1998</a>
-      [11]</span></span></li><li class="ds-artifact-item odd"><span
-      style="font-size: x-small;"><img alt="Marcador" class="marcador"
-      src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span
-      class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5303">Polis -
-      Número 11, 1999</a> [11]</span></span></li><li
-      class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador"
-      class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png"
-      /><span class="collection"><a
-      href="http://dspace.uah.es/dspace/handle/10017/5304">Polis - Número 12, 2000</a>
-      [7]</span></span></li><li class="ds-artifact-item odd"><span
-      style="font-size: x-small;"><img alt="Marcador" class="marcador"
-      src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span
-      class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5305">Polis -
-      Número 13, 2001</a> [6]</span></span></li><li
-      class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador"
-      class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png"
-      /><span class="collection"><a
-      href="http://dspace.uah.es/dspace/handle/10017/5306">Polis - Número 14, 2002</a>
-      [9]</span></span></li><li class="ds-artifact-item odd"><span
-      style="font-size: x-small;"><img alt="Marcador" class="marcador"
-      src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span
-      class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5307">Polis -
-      Número 15, 2003</a> [8]</span></span></li><li
-      class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador"
-      class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png"
-      /><span class="collection"><a
-      href="http://dspace.uah.es/dspace/handle/10017/5308">Polis - Número 16, 2004</a>
-      [8]</span></span></li><li class="ds-artifact-item odd"><span
-      style="font-size: x-small;"><img alt="Marcador" class="marcador"
-      src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span
-      class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5309">Polis -
-      Número 17, 2005</a> [6]</span></span></li><li
-      class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador"
-      class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png"
-      /><span class="collection"><a
-      href="http://dspace.uah.es/dspace/handle/10017/5310">Polis - Número 18, 2006</a>
-      [7]</span></span></li><li class="ds-artifact-item odd"><span
-      style="font-size: x-small;"><img alt="Marcador" class="marcador"
-      src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span
-      class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/9361">Polis -
-      Número 19, 2007</a> [7]</span></span></li><li
-      class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador"
-      class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png"
-      /><span class="collection"><a
-      href="http://dspace.uah.es/dspace/handle/10017/9362">Polis - Número 20, 2008</a>
-      [6]</span></span></li><li class="ds-artifact-item odd"><span
-      style="font-size: x-small;"><img alt="Marcador" class="marcador"
-      src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span
-      class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/11381">Polis -
-      Número 21, 2009</a> [4]</span></span></li><li
-      class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador"
-      class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png"
-      /><span class="collection"><a
-      href="http://dspace.uah.es/dspace/handle/10017/11470">Polis - Número 22, 2010</a>
-      [6]</span>&nbsp;</span></li></ul></blockquote><div
-      style="text-align: center;"><span style="font-size: small;"><span
-      class="titol"><span><span class="text"><span><span>See the full
-      <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span></span>
-      </span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
+   <title type="text">Open Access Journal: Polis: revista de ideas y formas políticas de la Antigüedad</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 30 April 2013, updated 19 January 2017]</span><br /><br /><a href="http://dspace.uah.es/dspace/handle/10017/5291">Polis: revista de ideas y formas políticas de la Antigüedad</a><br />ISSN: 1130-0728<br /><blockquote class="tr_bq"><img align="LEFT" height="200" hspace="9" src="http://www3.uah.es/histant/polis/portada.JPG" width="138" /> </blockquote><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />&nbsp;<span style="font-size: x-small;">&nbsp;</span><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Editada por el Departamento de Historia I y Filosofía, Área de Historia  Antigua, y Servicio de Publicaciones de la Universidad de Alcalá.<br />Coordinador: Dr. Luis A. García Moreno </span></blockquote><blockquote class="tr_bq"><h3 class="ds-list-head"><span style="font-size: x-small;">Collections in this community</span></h3><ul></ul><span style="font-size: x-small;"></span><ul><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5293">Polis - Número 01, 1989</a> [6]</span></span></li><li class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5294">Polis - Número 02, 1990</a> [8]</span></span></li><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5295">Polis - Número 03, 1991</a> [11]</span></span></li><li class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5296">Polis - Número 04, 1992</a> [12]</span></span></li><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5297">Polis - Número 05, 1993</a> [14]</span></span></li><li class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5298">Polis - Número 06, 1994</a> [11]</span></span></li><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5299">Polis - Número 07, 1995</a> [9]</span></span></li><li class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5300">Polis - Número 08, 1996</a> [9]</span></span></li><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5301">Polis - Número 09, 1997</a> [9]</span></span></li><li class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5302">Polis - Número 10, 1998</a> [11]</span></span></li><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5303">Polis - Número 11, 1999</a> [11]</span></span></li><li class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5304">Polis - Número 12, 2000</a> [7]</span></span></li><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5305">Polis - Número 13, 2001</a> [6]</span></span></li><li class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5306">Polis - Número 14, 2002</a> [9]</span></span></li><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5307">Polis - Número 15, 2003</a> [8]</span></span></li><li class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5308">Polis - Número 16, 2004</a> [8]</span></span></li><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5309">Polis - Número 17, 2005</a> [6]</span></span></li><li class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/5310">Polis - Número 18, 2006</a> [7]</span></span></li><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/9361">Polis - Número 19, 2007</a> [7]</span></span></li><li class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/9362">Polis - Número 20, 2008</a> [6]</span></span></li><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/11381">Polis - Número 21, 2009</a> [4]</span></span></li><li class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/11470">Polis - Número 22, 2010</a> [6]</span></span></li><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/19637">Polis - Número 23, 2011</a> [6]</span></span></li><li class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/21523">Polis - Número 24, 2012</a> [7]</span></span></li><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/22753">Polis - Número 25, 2013</a> [7]</span></span></li><li class="ds-artifact-item even"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/27559">Polis - Número 26, 2014</a> [6]</span></span></li><li class="ds-artifact-item odd"><span style="font-size: x-small;"><img alt="Marcador" class="marcador" src="http://dspace.uah.es/dspace/themes/Basico/images/Green%20Ball.png" /><span class="collection"><a href="http://dspace.uah.es/dspace/handle/10017/27538">Polis - Número 27, 2015</a> [0]</span></span></li></ul><ul></ul></blockquote><div style="text-align: center;"><h4><span style="font-size: xx-small;"></span></h4><span style="font-size: x-small;">     </span><span style="font-size: x-small;"> </span><div style="float: left; width: 100%;"><div id="issue" style="clear: left;"><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: x-small;"></span><div style="text-align: center;"><span style="font-size: x-small;"></span><div style="text-align: center;"><span style="font-size: x-small;"></span><div style="text-align: center;"><span style="font-size: small;"><span><span>See AWOL's List of&nbsp; <a href="http://ancientworldonline.blogspot.com/2014/12/spanishcatalanportugese-journals-on.html">Spanish/Catalan/Portuguese Open Access Journals on the Ancient World</a></span></span></span></div><span style="font-size: small;"><span><span></span> </span></span><blockquote class="tr_bq"><span style="font-size: small;"></span><div style="text-align: center;"><span style="font-size: small;"><span></span></span><div style="text-align: center;"><span style="font-size: small;"><span><span><span><span>S</span><span><span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></span></span></span></div></div></blockquote></div></div></div></div></div></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/9052057708455102673/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/9052057708455102673/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/04/open-access-journal-polis-revista-de.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/9052057708455102673"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/9052057708455102673"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/04/open-access-journal-polis-revista-de.html"
          title="Open Access Journal: Polis: revista de ideas y formas políticas de la Antigüedad"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

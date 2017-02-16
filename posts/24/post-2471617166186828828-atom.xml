@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2471617166186828828</id>
+   <published>2016-05-11T18:05:00.000-04:00</published>
+   <updated>2016-05-11T18:05:12.988-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">The Digital Hill Project</title>
+   <content type="html"><![CDATA[<div class="tr_bq"><a href="http://www.dh.uni-leipzig.de/wo/4932-2/">The Digital Hill Project</a></div>by Marcel Mernitz<br /><blockquote><span style="font-size: x-small;">This is a quick overview about the <em>Digital Hill</em> project,  which is part of the Open Greek and Latin project at the Humboldt Chair  of Digital Humanities at the University of Leipzig. When I started  working on the project, the first step was to create a spreadsheet that  gathered all sources mentioned by G.F. Hill (<a href="http://www.archive.org/stream/sourcesforgreekh00hilluoft#page/n7/mode/2up" target="_blank"><em>Sources for Greek History between the Persian and Peloponnesian Wars</em>, Oxford 1897</a>)  in his third chapter about the “Revolt of Samos”. The spreadsheet  contains further information about each source, e.g. if an XML file  already exists in one of our repositories and a link to it or a link to  the new created XML file. Furthermore, any text left out by Hill has  been stored in a separate column and the spreadsheet provides links to  the treebanking and text alignment files I created for the project. The  spreadsheet can be accessed via the following link:&nbsp;<a href="https://goo.gl/zEcevt" target="_blank">https://goo.gl/zEcevt</a></span> </blockquote><blockquote><span style="font-size: x-small;"><a href="https://goo.gl/zEcevt" target="_blank"></a>There is a legend in column M that explains the coloured cells.</span><br /><br /> <span style="font-size: x-small;">As part of the project we have created a new repository on GitHub  where all the XML and EpiDoc files of the project are stored. In the  GitHubo repo it is possible to find the treebank and text alignment data  and also the data for the web page. The link for this repository is: <a href="https://github.com/DigitalHill" target="_blank">https://github.com/DigitalHill</a></span><br /><br /> <span style="font-size: x-small;">Speaking of the webpage, it is accessible online at <a href="http://digitalhill.github.io/" target="_blank">http://digitalhill.github.io/</a></span><br /><span style="font-size: x-small;"><br />The results can be found in “Chapter III” –&gt; “Revolt of Samos”.  There are two subchapters that can be unfolded by clicking on them,  “bilingual alignments” and “ancient alignments”. The first is divided in  several tables that can be opened by the user, providing mixed results  from treebanking and text aligning. When clicking on one of the  pen-buttons, the aligned words (all, only verbs, only nouns; according  to the button clicked) switch colours according to Arethusa and when  hovered over an aligned word, it becomes highlighted as well as the  aligned words as in Alpheios. There are Greek/Latin – English and Greek –  German alignments to show the possibility of using languages other than  English.</span><br /><br /> <span style="font-size: x-small;">The ancient alignments contain Greek – Greek and Greek – Latin  alignments. The aligned words switch colours when the pen-button is  clicked, similar to the bilingual alignments. Of course the aligned  words are highlighted when hovered over. I also added additional  information to the ancient text alignments that the user can make  visible by hovering over the red attention sign (see Figure 1). The web  page is working with jQuery scripts I wrote.</span><br /><br /> <div class="wp-caption aligncenter" id="attachment_4933" style="width: 656px;"><span style="font-size: x-small;"><img alt="DigitalHillBlog1" class="wp-image-4933" height="626" src="http://www.dh.uni-leipzig.de/wo/wp-content/uploads/2016/05/DigitalHillBlog1.jpg" width="646" /></span><div class="wp-caption-text"><span style="font-size: x-small;">Figure 1: Detail of the web page with additional information.</span></div><div class="wp-caption-text"><br /></div></div><span style="font-size: x-small;">A paper is going to be published in the “Digital Classics Online” journal in which all the results are going to be presented.</span><br /><br /> <span style="font-size: x-small;">Working on the treebanking and text alignment files I was bothered by  brackets or exiting backslashes that sometimes I had to correct  manually in the XML file. For that reason I wrote a little program based  on a web crawler I found teaching myself Python3 (I had to edit the  code on several occasions and add a new method), that cleans up texts  automatically. The second screenshot shows the GUI I created for this  program (it is by any means not very pretty though and is missing menus)  with a short sentence typed in several times on the left side and the  result on the right side (see Figure 2). There is a method for  statistics that shows the words of the text and how often they occurred  in it, but this method is not yet implemented in the GUI. There are  still issues in the DH community about how ancient Greek characters and  diacritics should be encoded and displayed. As soon as they will be (at  least partially) solved, it will be quite easy to change the algorithm.</span><br /><br /> <div class="wp-caption aligncenter" id="attachment_4935" style="width: 838px;"><span style="font-size: x-small;"><img alt="DigitalHillBlog2" class="wp-image-4935" height="272" src="http://www.dh.uni-leipzig.de/wo/wp-content/uploads/2016/05/DigitalHillBlog2.jpg" width="828" /></span><div class="wp-caption-text"><span style="font-size: x-small;">Figure 2: The transformation / clean-up tool GUI.</span></div><div class="wp-caption-text"><br /></div></div><span style="font-size: x-small;">Currently the GUI is only stored on my laptop and is not available online.<br />I am still trying to figure out how to use XSLT 2.0 for the inscriptions  mentioned by Hill to implement them in the webpage as well.</span></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/2471617166186828828/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/05/the-digital-hill-project.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/2471617166186828828"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/2471617166186828828"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/05/the-digital-hill-project.html"
+         title="The Digital Hill Project"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

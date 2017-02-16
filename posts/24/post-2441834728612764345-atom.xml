@@ -1,72 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2441834728612764345</id>
-    <published>2011-11-11T08:32:00.001-05:00</published>
-    <updated>2011-11-11T08:35:17.494-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2441834728612764345</id>
+   <published>2011-11-11T08:32:00.001-05:00</published>
+   <updated>2011-11-11T08:35:17.494-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Additions to the Corpus of South Arabian Inscriptions</title>
-    <content type="html"><![CDATA[<a
-      href="http://ancientworldonline.blogspot.com/2010/10/open-access-corpus-of-south-arabian.html">Corpus
-      of South Arabian Inscriptions</a><br /><blockquote class="tr_bq"><img
-      alt="http://csai.humnet.unipi.it/csai/html/immagini/testata_home.jpg"
-      src="http://csai.humnet.unipi.it/csai/html/immagini/testata_home.jpg" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">November 2011 </span><br /><h4><span style="font-size:
-      x-small;"><a href="http://csai.humnet.unipi.it/csai/html/15news.html">Maps and
-      archeological sites information</a></span></h4><span style="font-size:
-      x-small;">New section of CSAI on archeological sites' info and new map's functions<br
-      /><br /><br />September 2011 </span> <h4><span style="font-size:
-      x-small;"><a href="http://csai.humnet.unipi.it/csai/html/14news.html">Corpora of
-      Inscriptions of undefined language</a></span></h4><span style="font-size:
-      x-small;">The Corpus collecting the texts of undefined South Arabian language has been added
-      to CSAI<br /><br /><br />September 2011 </span> <h4><span
-      style="font-size: x-small;"><a
-      href="http://csai.humnet.unipi.it/csai/html/13news.html">Corpora of Sabaic
-      inscriptions</a></span></h4><span style="font-size: x-small;">Corpora
-      of Ancient Sabaic, Middle Sabaic, Raydanite and Undated Sabaic texts added to CSAI<br
-      /><a class="toggler toggler-opened"
-      href="http://csai.humnet.unipi.it/csai/html/news.html#" title=""></a><br
-      />September 2011 </span><h4><span style="font-size: x-small;"><a
-      href="http://csai.humnet.unipi.it/csai/html/12news.html">Corpus of Marginal Minaic
-      inscriptions</a></span></h4><span style="font-size: x-small;">The new
-      corpus of the Minaic texts from outside South Arabia has been added to CSAI<br /><br
-      /><br />April 2011 </span> <h4><span style="font-size:
-      x-small;"><a href="http://csai.humnet.unipi.it/csai/html/11news.html">Corpora
-      updated</a></span></h4><span style="font-size: x-small;">Unpublished
-      inscriptions from the British Museum and the Yemeni Museums added to the corpora by
-      language<br /><br /><br />February 2011 </span> <h4><span
-      style="font-size: x-small;"><a
-      href="http://csai.humnet.unipi.it/csai/html/10news.html">Corpus of Minaic
-      Inscriptions</a></span></h4><span style="font-size: x-small;">Minaic
-      corpus updated</span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Additions to the Corpus of South Arabian Inscriptions</title>
+   <content type="html"><![CDATA[<a href="http://ancientworldonline.blogspot.com/2010/10/open-access-corpus-of-south-arabian.html">Corpus of South Arabian Inscriptions</a><br /><blockquote class="tr_bq"><img alt="http://csai.humnet.unipi.it/csai/html/immagini/testata_home.jpg" src="http://csai.humnet.unipi.it/csai/html/immagini/testata_home.jpg" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">November 2011 </span><br /><h4><span style="font-size: x-small;"><a href="http://csai.humnet.unipi.it/csai/html/15news.html">Maps and archeological sites information</a></span></h4><span style="font-size: x-small;">New section of CSAI on archeological sites' info and new map's functions<br /><br /><br />September 2011 </span>  <h4><span style="font-size: x-small;"><a href="http://csai.humnet.unipi.it/csai/html/14news.html">Corpora of Inscriptions of undefined language</a></span></h4><span style="font-size: x-small;">The Corpus collecting the texts of undefined South Arabian language has been added to CSAI<br /><br /><br />September 2011 </span>  <h4><span style="font-size: x-small;"><a href="http://csai.humnet.unipi.it/csai/html/13news.html">Corpora of Sabaic inscriptions</a></span></h4><span style="font-size: x-small;">Corpora of Ancient Sabaic, Middle Sabaic, Raydanite and Undated Sabaic texts added to CSAI<br /><a class="toggler toggler-opened" href="http://csai.humnet.unipi.it/csai/html/news.html#" title=""></a><br />September 2011 </span><h4><span style="font-size: x-small;"><a href="http://csai.humnet.unipi.it/csai/html/12news.html">Corpus of Marginal Minaic inscriptions</a></span></h4><span style="font-size: x-small;">The new corpus of the Minaic texts from outside South Arabia has been added to CSAI<br /><br /><br />April 2011 </span>   <h4><span style="font-size: x-small;"><a href="http://csai.humnet.unipi.it/csai/html/11news.html">Corpora updated</a></span></h4><span style="font-size: x-small;">Unpublished inscriptions from the British Museum and the Yemeni Museums added to the corpora by language<br /><br /><br />February 2011 </span>   <h4><span style="font-size: x-small;"><a href="http://csai.humnet.unipi.it/csai/html/10news.html">Corpus of Minaic Inscriptions</a></span></h4><span style="font-size: x-small;">Minaic corpus updated</span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2441834728612764345/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2441834728612764345/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/11/additions-to-corpus-of-south-arabian.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2441834728612764345"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2441834728612764345"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/11/additions-to-corpus-of-south-arabian.html"
          title="Additions to the Corpus of South Arabian Inscriptions"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

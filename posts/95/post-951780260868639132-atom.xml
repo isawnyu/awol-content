@@ -1,77 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-951780260868639132</id>
-    <published>2012-03-21T14:36:00.000-04:00</published>
-    <updated>2012-03-21T14:36:12.652-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-951780260868639132</id>
+   <published>2012-03-21T14:36:00.000-04:00</published>
+   <updated>2012-03-21T14:36:12.652-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Digital Web Centre for the History of Science in the Low Countries</title>
-    <content type="html"><![CDATA[<a href="http://www.dwc.knaw.nl/">Digitaal Wetenschapshistorisch
-      Centrum (DWC) - Digital Web Centre for the History of Science in the Low
-      Countries</a><br /><img
-      alt="http://www.dwc.knaw.nl/wp-content/themes/dwc-2012/images/dwc-head.png"
-      src="http://www.dwc.knaw.nl/wp-content/themes/dwc-2012/images/dwc-head.png" /> <br
-      /><br /><blockquote class="tr_bq"><a
-      href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/">KNAW Digital
-      Library</a></blockquote>&nbsp;Including, among other things: <br
-      /><blockquote class="tr_bq"><br /><span style="font-size: x-small;"><a
-      href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?pagetype=publDetail&amp;pId=PU00010113">Natural
-      Phenomena. Their Meaning, Depiction and Description in the Ancient Near
-      East</a></span><br /><span style="font-size: x-small;">Authors: Amiet,
-      P. | Collon, D. | Hawkins, J.D. | Houwink ten Cate, Ph.H.J. | Matthiae, P. | Meijer, Diederik
-      J.W. | Mellink, M.J. | Orthmann, W. | Porada, E. | Stol, M. | Wiggermann, F. | Loon, M. van |
-      Driel, G. van | <br /><strong>Pages</strong>: 1-304<br
-      /><strong>Reference</strong>: Verhandelingen Letterkunde, Nieuwe Reeks, deel 152
-      (1992), 1-304 </span></blockquote><blockquote
-      class="tr_bq"><strong><a
-      href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?page_id=&amp;pagetype=publDetail&amp;pId=PU00009933">
-      <span style="font-size: x-small;">Progress in the Greece of
-      Thycidides</span></a></strong><span style="font-size: x-small;"><br
-      /><em>Mededelingen Letterkunde, Nieuwe Reeks, deel 40, nummer 2 (1986),
-      27-81</em><br />Authors: <a
-      href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?page_id=&amp;pagetype=authorDetail&amp;aId=PE00003179">Boer,
-      W. den</a> | </span>&nbsp;</blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;"><strong><a
-      href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?page_id=&amp;pagetype=publDetail&amp;pId=PU00009936">
-      The art of memory and its mnemotechnical traditions</a></strong><br
-      /><em>Mededelingen Letterkunde, Nieuwe Reeks, deel 49, nummer 3 (1986),
-      90-126</em><br />Authors: <a
-      href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?page_id=&amp;pagetype=authorDetail&amp;aId=PE00003179">Boer,
-      W. den</a> |&nbsp; </span></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;"><strong><a
-      href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?page_id=&amp;pagetype=publDetail&amp;pId=PU00009851">
-      Heersercultus en ex-voto's in het Romeinse rijk</a></strong><br
-      /><em>Mededelingen Letterkunde, Nieuwe Reeks, deel 36, nummer 4 (1973),
-      99-115</em><br />Authors: <a
-      href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?page_id=&amp;pagetype=authorDetail&amp;aId=PE00003179">Boer,
-      W. den</a> | </span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Digital Web Centre for the History of Science in the Low Countries</title>
+   <content type="html"><![CDATA[<a href="http://www.dwc.knaw.nl/">Digitaal Wetenschapshistorisch Centrum (DWC) - Digital Web Centre for the History of Science in the Low Countries</a><br /><img alt="http://www.dwc.knaw.nl/wp-content/themes/dwc-2012/images/dwc-head.png" src="http://www.dwc.knaw.nl/wp-content/themes/dwc-2012/images/dwc-head.png" /> <br /><br /><blockquote class="tr_bq"><a href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/">KNAW Digital Library</a></blockquote>&nbsp;Including, among other things: <br /><blockquote class="tr_bq"><br /><span style="font-size: x-small;"><a href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?pagetype=publDetail&amp;pId=PU00010113">Natural Phenomena. Their Meaning, Depiction and Description in the Ancient Near East</a></span><br /><span style="font-size: x-small;">Authors:  Amiet, P. | Collon, D. | Hawkins, J.D. | Houwink ten Cate, Ph.H.J. |  Matthiae, P. | Meijer, Diederik J.W. | Mellink, M.J. | Orthmann, W. |  Porada, E. | Stol, M. | Wiggermann, F. | Loon, M. van | Driel, G. van | <br /><strong>Pages</strong>: 1-304<br /><strong>Reference</strong>: Verhandelingen Letterkunde, Nieuwe Reeks, deel 152 (1992), 1-304 </span></blockquote><blockquote class="tr_bq"><strong><a href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?page_id=&amp;pagetype=publDetail&amp;pId=PU00009933"> <span style="font-size: x-small;">Progress in the Greece of Thycidides</span></a></strong><span style="font-size: x-small;"><br /><em>Mededelingen Letterkunde, Nieuwe Reeks, deel 40, nummer 2 (1986), 27-81</em><br />Authors: <a href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?page_id=&amp;pagetype=authorDetail&amp;aId=PE00003179">Boer, W. den</a> | </span>&nbsp;</blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><strong><a href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?page_id=&amp;pagetype=publDetail&amp;pId=PU00009936"> The art of memory and its mnemotechnical traditions</a></strong><br /><em>Mededelingen Letterkunde, Nieuwe Reeks, deel 49, nummer 3 (1986), 90-126</em><br />Authors: <a href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?page_id=&amp;pagetype=authorDetail&amp;aId=PE00003179">Boer, W. den</a> |&nbsp; </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><strong><a href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?page_id=&amp;pagetype=publDetail&amp;pId=PU00009851"> Heersercultus en ex-voto's in het Romeinse rijk</a></strong><br /><em>Mededelingen Letterkunde, Nieuwe Reeks, deel 36, nummer 4 (1973), 99-115</em><br />Authors: <a href="http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?page_id=&amp;pagetype=authorDetail&amp;aId=PE00003179">Boer, W. den</a> | </span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/951780260868639132/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/951780260868639132/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/digital-web-centre-for-history-of.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/951780260868639132"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/951780260868639132"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/digital-web-centre-for-history-of.html"
          title="Digital Web Centre for the History of Science in the Low Countries"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

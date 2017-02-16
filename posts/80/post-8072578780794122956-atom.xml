@@ -1,124 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8072578780794122956</id>
-    <published>2014-02-22T08:11:00.000-05:00</published>
-    <updated>2014-02-24T09:31:26.908-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8072578780794122956</id>
+   <published>2014-02-22T08:11:00.000-05:00</published>
+   <updated>2014-02-24T09:31:26.908-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Online Course"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
-    <title type="text">MOOC: The Bible's Prehistory, Purpose, and Political Future</title>
-    <content type="html"><![CDATA[<a href="https://www.coursera.org/course/biblefuture">The Bible's
-      Prehistory, Purpose, and Political Future</a><br /><div
-      class="coursera-course2-instructors-info"><a class="internal-home"
-      data-link-type="instructor-name"
-      href="https://www.coursera.org/instructor/jacobwright"><span
-      class="coursera-course2-instructor-name">Jacob L. Wright</span></a><span
-      class="coursera-course2-instructor-university">&nbsp;</span></div><div
-      class="coursera-course2-instructors-info"><a class="internal-home"
-      data-link-type="instructor-university" href="https://www.coursera.org/emory"><span
-      class="coursera-course2-instructor-university">Emory
-      University</span></a></div><blockquote class="tr_bq"><div
-      data-user-generated="data-user-generated" style="margin-top: 12px;"><span
-      style="font-size: x-small;">How and why was the Bible written? This course synthesizes
-      fascinating recent research in biblical studies and presents a powerful new thesis: The Bible's
-      primary purpose is not religious but political. Facing catastrophic defeat, the biblical
-      authors created a new form of community. Their achievements bear directly on modern questions
-      of politics, economics, and theology.</span></div><hr
-      class="coursera-full-page-divider-no_padding" style="clear: both;" /><h2
-      class="coursera-course-heading" data-msg="coursera-course-about"><span style="font-size:
-      x-small;">About the Course</span></h2><div class="coursera-course-detail"
-      data-user-generated="data-user-generated"><span style="font-size: x-small;">With its
-      walls razed to ground by Babylon’s armies, Jerusalem joined a long line of ancient vanquished
-      cities—from Ur and Nineveh and Persepolis to Babylon itself. While some recovered from the
-      destruction, others did not.&nbsp; But none responded to political catastrophe by
-      fashioning the kind of elaborate and enduring monument to their own downfall that we find in
-      the Bible. Most conquered populations viewed their subjugation as a source of shame. They
-      consigned it to oblivion, opting instead to extol the golden ages of the past.&nbsp; The
-      biblical authors in contrast reacted to loss by composing extensive writings that acknowledge
-      collective failure, reflect deeply upon its causes, and discover thereby a ground for
-      collective hope. <br /><br />Working through colorful biblical and ancient Near
-      Eastern texts, and drawing on an array of comparative examples, the course illustrates the
-      thoroughgoing manner with which biblical authors responded to defeat by advancing a demotic
-      agenda that places the community at the center. The aim of the biblical authors was to create a
-      nation, and they sought to realize this goal via a shared text, which includes stories and
-      songs, wisdom and laws. This corpus of writings belongs, without a doubt, to humanity’s
-      greatest achievements. Whereas the great civilizations of the Near East invested their energies
-      and resources into monuments of stone that could be destroyed by invading armies, the biblical
-      authors left a literary legacy that has been intensively studied until the present day. More
-      important, these authors’ visionary response to defeat brought to light a radical new
-      wisdom:&nbsp; the notion that a people is greater than the state which governs it, and that
-      a community can survive collapse when all of its members can claim a piece of the pie and
-      therefore have a reason to take an active part in its collective life. <br /><br
-      />The objectives of the course are to show: <br />—how the Bible emerged from
-      large-scale corporate crisis and rupture;<br />—that in our present state of uncertainty
-      and instability we have much to learn from the various strategies the biblical authors adopted
-      to create an enduring “people of the book”;<br />—that one doesn’t have to believe in God
-      or accept the historicity of the Bible in order to appreciate its profound political
-      messages;<br />—that the Bible offers modern societies a model for creating communities
-      around a shared collection of texts, songs, and laws;<br />—and that the Bible itself has
-      a major role to play in our futures.</span></div><h2
-      class="coursera-course-heading" data-msg="coursera-course-syllabus" style="clear:
-      both;"><span style="font-size: x-small;">Course
-      Syllabus</span></h2><span style="font-size: x-small;"><b>Week 1: The
-      Riddle That Has Yet To Be Solved</b><br />The Bible's Purpose<br />Books in
-      Ancient Religions<br />Between "Church and State"<br />Theologies of the
-      Bible<br />A Shared Text<br />The Bible as a "Pedagogical Program of
-      Peoplehood"<br /><br /><b>Week 2: The Rise and Fall</b><br
-      />Israel's Place in the World of the Ancient Near East<br />The Emergence of Two
-      Competing Kingdoms<br />Military Triumphs<br />The Onslaught of Imperial
-      Powers<br />Defeat and Deportation <br />Conditions of Conquest<br /><br
-      /><b>Week 3: The Making of the Bible as a Response to Defeat</b><br
-      />Diaspora and Divided Communities<br />Creating a Shared Past and Common
-      Ancestors<br />The Pentateuch and Historical Narratives<br />One People with
-      Multiple Law Codes<br />Creating a Collection of National Songs and Laments<br
-      />Reinterpreting Prophecies<br />Comparative Cases: English and German
-      History&nbsp; <br /><br /><b>Week 4: Reinventing the Hero</b><br
-      />Martial Valor, Masculinity, and Martyrdom<br />Long Life versus Glorified Heroic
-      Death<br />The New Role of the Family<br />From Battles to Building<br
-      />Comparatives Cases: From the Crow Nation to Jane Austen<br /><br
-      /><b>Week 5: A Wise and Discerning People&nbsp; </b><br />The Role of
-      Education<br />National Education Programs: From 19th Century Germany to the Dalai
-      Lama<br />From Deuteronomy to Ezra-Nehemiah<br />Freedom of Information and Open
-      Access<br />Making Priestly Knowledge Public<br />The Attempts of the State to
-      Control Prophets <br />Divine Knowledge for the People, Not Solely the King <br
-      />The Reason Why Biblical Writings Survived Catastrophes <br /><br
-      /><b>Week 6: Covenant and Kinship</b><br />The Rise of Empires<br
-      />One God<br />A New "Political-Theology"<br />Covenantal Ethics of
-      Peoplehood<br />The Power of Law<br />Protecting the Individual and Defending
-      Difference<br />Caring for the Land<br /><br /><b>Week 7: The Bible's
-      Future</b><br />The Bible's Pedagogical and Political Purpose<br />The
-      Bible's Radical Theology<br />The Bible as an Attempt to Unify Rival Communities<br
-      />The Bible's Impact on Political Identities Throughout the World<br />The Bible's
-      Role in the Public Sphere and in Secular Society<br />The Bible as a Model for New Forms
-      of Community </span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Online Course"/>
+   <title type="text">MOOC: The Bible's Prehistory, Purpose, and Political Future</title>
+   <content type="html"><![CDATA[<a href="https://www.coursera.org/course/biblefuture">The Bible's Prehistory, Purpose, and Political Future</a><br /><div class="coursera-course2-instructors-info"><a class="internal-home" data-link-type="instructor-name" href="https://www.coursera.org/instructor/jacobwright"><span class="coursera-course2-instructor-name">Jacob L. Wright</span></a><span class="coursera-course2-instructor-university">&nbsp;</span></div><div class="coursera-course2-instructors-info"><a class="internal-home" data-link-type="instructor-university" href="https://www.coursera.org/emory"><span class="coursera-course2-instructor-university">Emory University</span></a></div><blockquote class="tr_bq"><div data-user-generated="data-user-generated" style="margin-top: 12px;"><span style="font-size: x-small;">How  and why was the Bible written? This course synthesizes fascinating  recent research in biblical studies and presents a powerful new thesis:  The Bible's primary purpose is not religious but political. Facing  catastrophic defeat, the biblical authors created a new form of  community. Their achievements bear directly on modern questions of  politics, economics, and theology.</span></div><hr class="coursera-full-page-divider-no_padding" style="clear: both;" /><h2 class="coursera-course-heading" data-msg="coursera-course-about"><span style="font-size: x-small;">About the Course</span></h2><div class="coursera-course-detail" data-user-generated="data-user-generated"><span style="font-size: x-small;">With  its walls razed to ground by Babylon’s armies, Jerusalem joined a long  line of ancient vanquished cities—from Ur and Nineveh and Persepolis to  Babylon itself. While some recovered from the destruction, others did  not.&nbsp; But none responded to political catastrophe by fashioning the kind  of elaborate and enduring monument to their own downfall that we find  in the Bible. Most conquered populations viewed their subjugation as a  source of shame. They consigned it to oblivion, opting instead to extol  the golden ages of the past.&nbsp; The biblical authors in contrast reacted  to loss by composing extensive writings that acknowledge collective  failure, reflect deeply upon its causes, and discover thereby a ground  for collective hope. <br /><br />Working through colorful biblical and  ancient Near Eastern texts, and drawing on an array of comparative  examples, the course illustrates the thoroughgoing manner with which  biblical authors responded to defeat by advancing a demotic agenda that  places the community at the center. The aim of the biblical authors was  to create a nation, and they sought to realize this goal via a shared  text, which includes stories and songs, wisdom and laws. This corpus of  writings belongs, without a doubt, to humanity’s greatest achievements.  Whereas the great civilizations of the Near East invested their energies  and resources into monuments of stone that could be destroyed by  invading armies, the biblical authors left a literary legacy that has  been intensively studied until the present day. More important, these  authors’ visionary response to defeat brought to light a radical new  wisdom:&nbsp; the notion that a people is greater than the state which  governs it, and that a community can survive collapse when all of its  members can claim a piece of the pie and therefore have a reason to take  an active part in its collective life. <br /><br />The objectives of the course are to show: <br />—how the Bible emerged from large-scale corporate crisis and rupture;<br />—that  in our present state of uncertainty and instability we have much to  learn from the various strategies the biblical authors adopted to create  an enduring “people of the book”;<br />—that one doesn’t have to believe  in God or accept the historicity of the Bible in order to appreciate its  profound political messages;<br />—that the Bible offers modern societies a model for creating communities around a shared collection of texts, songs, and laws;<br />—and that the Bible itself has a major role to play in our futures.</span></div><h2 class="coursera-course-heading" data-msg="coursera-course-syllabus" style="clear: both;"><span style="font-size: x-small;">Course Syllabus</span></h2><span style="font-size: x-small;"><b>Week 1: The Riddle That Has Yet To Be Solved</b><br />The Bible's Purpose<br />Books in Ancient Religions<br />Between "Church and State"<br />Theologies of the Bible<br />A Shared Text<br />The Bible as a "Pedagogical Program of Peoplehood"<br /><br /><b>Week 2: The Rise and Fall</b><br />Israel's Place in the World of the Ancient Near East<br />The Emergence of Two Competing Kingdoms<br />Military Triumphs<br />The Onslaught of Imperial Powers<br />Defeat and Deportation <br />Conditions of Conquest<br /><br /><b>Week 3: The Making of the Bible as a Response to Defeat</b><br />Diaspora and Divided Communities<br />Creating a Shared Past and Common Ancestors<br />The Pentateuch and Historical Narratives<br />One People with Multiple Law Codes<br />Creating a Collection of National Songs and Laments<br />Reinterpreting Prophecies<br />Comparative Cases: English and German History&nbsp; <br /><br /><b>Week 4: Reinventing the Hero</b><br />Martial Valor, Masculinity, and Martyrdom<br />Long Life versus Glorified Heroic Death<br />The New Role of the Family<br />From Battles to Building<br />Comparatives Cases: From the Crow Nation to Jane Austen<br /><br /><b>Week 5: A Wise and Discerning People&nbsp; </b><br />The Role of Education<br />National Education Programs: From 19th Century Germany to the Dalai Lama<br />From Deuteronomy to Ezra-Nehemiah<br />Freedom of Information and Open Access<br />Making Priestly Knowledge Public<br />The Attempts of the State to Control Prophets <br />Divine Knowledge for the People, Not Solely the King <br />The Reason Why Biblical Writings Survived Catastrophes <br /><br /><b>Week 6: Covenant and Kinship</b><br />The Rise of Empires<br />One God<br />A New "Political-Theology"<br />Covenantal Ethics of Peoplehood<br />The Power of Law<br />Protecting the Individual and Defending Difference<br />Caring for the Land<br /><br /><b>Week 7: The Bible's Future</b><br />The Bible's Pedagogical and Political Purpose<br />The Bible's Radical Theology<br />The Bible as an Attempt to Unify Rival Communities<br />The Bible's Impact on Political Identities Throughout the World<br />The Bible's Role in the Public Sphere and in Secular Society<br />The Bible as a Model for New Forms of Community </span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8072578780794122956/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8072578780794122956/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/02/open-mooc-bibles-prehistory-purpose-and.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8072578780794122956"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8072578780794122956"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/02/open-mooc-bibles-prehistory-purpose-and.html"
          title="MOOC: The Bible's Prehistory, Purpose, and Political Future"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

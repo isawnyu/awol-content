@@ -1,103 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1399842626383954010</id>
-    <published>2013-06-16T09:05:00.000-04:00</published>
-    <updated>2013-06-16T09:06:13.381-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1399842626383954010</id>
+   <published>2016-12-06T06:51:00.000-05:00</published>
+   <updated>2016-12-06T06:52:08.260-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
-    <title type="text">AVI : Attic Vase Inscriptions : Attische Vaseninschriften</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted
-      9/24/09.&nbsp; Updated 16 June 2013]</span><br /><br /><a
-      href="http://avi.unibas.ch/home.html">AVI : Attic Vase Inscriptions : Attische
-      Vaseninschriften</a><br />Wachter, Rudolf<br /><span style="font-size:
-      85%;"></span><br /><blockquote class="tr_bq"><span style="font-size:
-      x-small;">AVI (Attic Vase Inscriptions / Attische Vaseninschriften) is an extended and
-      web-based continuation and development of Henry R. Immerwahr's CAVI (Corpus of Attic Vase
-      Inscriptions). AVI's main part is the interactive <strong>database</strong>, which
-      is now ready in its preliminary version, but we also provide informations about the
-      <strong>project's</strong> prehistory (by Henry Immerwahr), protohistory, and
-      present and future aims, <strong>bibliography</strong> (more than 3000 titles), as
-      well as some <strong>texts</strong> on alphabets and phonology of the Attic
-      dialect.</span> </blockquote><blockquote class="tr_bq"> <span
-      style="font-size: x-small;">You can download Henry Immerwahr's original CAVI as a pdf (<a
-      href="http://avi.unibas.ch/images/pdf/Inscriptions.pdf" target="_blank">version of January
-      2008</a>, 7.7 MB, <a
-      href="http://avi.unibas.ch/images/pdf/InscriptionsJanuary2009.pdf" target="_blank">new
-      versionof January 2009</a>, 6.8 MB, here mirrored from the <a
-      href="http://www.unc.edu/%7Ehri/" target="_blank">original website</a>, see also <a
-      href="http://www.lib.unc.edu/dc/attic/index.html"
-      target="_blank">http://www.lib.unc.edu/dc/attic/index.html</a>).</span><br
-      /><br /> <span style="font-size: x-small;">CAVI has been completely integrated
-      into the AVI database, whereby, as a first step, the bibliographical references and many more
-      things have been unified in order to make them searchable. The content has not been changed,
-      however, except for small additions by R.W., added in double square brackets [[...]], and quite
-      a few corrections, mainly in the bibliographical sections.</span><br /><br />
-      <span style="font-size: x-small;">On 17 February 2010, I was happy to present our new
-      site, designed and programmed by Simone Hiltscher. It replaces the first site of 2004. In the
-      meantime many new features have been added, mainly in the bibliographical section. On 13
-      December our search form was put online, which allows you to search the database according to
-      precise criteria. In February 2011, the free text search followed, which has now been brought
-      to near perfection. The next step will be the entry form for additions and corrections. The
-      next step will be the entry form for additions and corrections. And finally, there will be
-      photographs. So do come back regularly!</span><br /><br /> <span
-      style="font-size: x-small;">We hope you will find AVI useful and interesting, and we will
-      welcome all contributions and comments, made by e-mail for the time being, but soon also
-      directly into the database.</span></blockquote><div id="submenuColumn"
-      style="height: 500px;"><blockquote class="tr_bq"><span style="font-size:
-      x-small;">AVI database</span> <span style="font-size: x-small;"><a
-      href="http://avi.unibas.ch/databasesearch.html" target="_self"> database
-      search</a></span><br /> <span style="font-size: x-small;"><a
-      href="http://avi.unibas.ch/howtocontribute.html" target="_self"> how to
-      contribute</a></span><br /> <span style="font-size: x-small;"><a
-      href="http://avi.unibas.ch/abbrGeneral.html" target="_self"> gen.
-      abbreviations</a></span><br /> <span style="font-size: x-small;"><a
-      href="http://avi.unibas.ch/abbrEpigraphical.html" target="_self"> epigr.<br
-      /> abbreviations</a></span><br /> <span style="font-size:
-      x-small;"><a href="http://avi.unibas.ch/collections.html"
-      target="_self"> collections</a></span><br /> <span style="font-size:
-      x-small;"><a href="http://avi.unibas.ch/shapes.html"
-      target="_self"> shapes</a></span><br /> <span style="font-size:
-      x-small;"><a href="http://avi.unibas.ch/painters_A.html"
-      target="_self"> painters</a></span><br /> <span style="font-size:
-      x-small;"><a href="http://avi.unibas.ch/potters.html"
-      target="_self"> potters</a></span><br /> <span style="font-size:
-      x-small;"><a href="http://avi.unibas.ch/dates.html"
-      target="_self"> dates</a></span></blockquote></div><div
-      style="text-align: center;"><a
-      href="http://draft.blogger.com/post-edit.g?blogID=116259103207720939&amp;postID=1399842626383954010"
-      id="data:post.url" name="data:post.title" onclick="return addthis_sendto()"
-      onmouseout="addthis_close()" onmouseover="'return"></a><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <title type="text">AVI : Attic Vase Inscriptions : Attische Vaseninschriften</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted 9/24/09.&nbsp; Updated 6 December 2016]</span><br /><br /><a href="http://avi.unibas.ch/home.html">AVI : Attic Vase Inscriptions : Attische Vaseninschriften</a><br />Wachter, Rudolf<br /><span style="font-size: x-small;"><br /></span><blockquote class="tr_bq"><span style="font-size: x-small;">AVI (Attic Vase Inscriptions / Attische Vaseninschriften) is an  extended and web-based continuation and development of Henry R.  Immerwahr's CAVI (Corpus of Attic Vase Inscriptions). AVI's main part is  the interactive <strong>database</strong>, which is now ready in its preliminary version, but we also provide informations about the <strong>project's</strong> prehistory (by Henry Immerwahr), protohistory, and present and future aims, <strong>bibliography</strong> (more than 3000 titles), as well as some <strong>texts</strong> on alphabets and phonology of the Attic dialect.&nbsp;</span><br /><br /><span style="font-size: x-small;">     </span><span style="font-size: x-small;">You can download Henry Immerwahr's original CAVI as a pdf (<a href="https://avi.unibas.ch/images/pdf/Inscriptions.pdf" target="_blank">version of January 2008</a>, 7.7 MB, <a href="https://avi.unibas.ch/images/pdf/InscriptionsJanuary2009.pdf" target="_blank">new version of January 2009</a>, 6.8 MB, here mirrored from the <a href="http://www.unc.edu/%7Ehri/" target="_blank">original website</a>, see also <a href="http://www.lib.unc.edu/dc/attic/index.html" target="_blank">http://www.lib.unc.edu/dc/attic/index.html</a>).</span><br /><br /><span style="font-size: x-small;">    </span><span style="font-size: x-small;">CAVI has been completely integrated into the AVI database,  whereby, as a first step, the bibliographical references and many more  things have been unified in order to make them searchable. The content  has not been changed, however, except for small additions by R.W., added  in double square brackets [[...]], and quite a few corrections, mainly  in the bibliographical sections.</span><br /><span style="font-size: x-small;">    </span><br /><span style="font-size: x-small;">On 17 February 2010, I was happy to present our new site,  designed and programmed by Simone Hiltscher. It replaces the first site  of 2004. On 13 December our search form was put online, which allows you  to search the database according to precise criteria. In February 2011,  the free text search followed. In the meantime many new features have  been added (see the <a href="https://avi.unibas.ch/present.html" target="_blank">third report</a>).  The next big step was to prepare the entry forms for additions,  corrections, and photographs. The first (Insert Data) is ready and  currently being tested, the second (Update Data) and third (Upload  Images) will be ready by September 2016. From then on it will be very  comfortable to enhance the AVI Database both for ourselves and for  external (registered) collaborators. In November 2016 everything will be  clear. </span><br /><span style="font-size: x-small;">    </span><br /><span style="font-size: x-small;">We hope you find AVI useful and interesting and hope you come back regularly.</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Rudolf Wachter</span><br /><br /><span style="font-size: x-small;">Last update 2016-04-15</span><br /><br /><span style="font-size: x-small;"><a href="https://avi.unibas.ch/images/pdf/Inscriptions.pdf" target="_blank">CAVI PDF (Jan. 2008)</a> &nbsp;</span><br /><span style="font-size: x-small;"><a href="https://avi.unibas.ch/images/pdf/InscriptionsJanuary2009.pdf" target="_blank">CAVI PDF (Jan. 2009)</a> </span></blockquote><div style="text-align: center;"><a href="http://draft.blogger.com/post-edit.g?blogID=116259103207720939&amp;postID=1399842626383954010" id="data:post.url" name="data:post.title" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="'return"></a><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1399842626383954010/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1399842626383954010/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/09/v-i-attic-vase-inscriptions-attische.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1399842626383954010"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1399842626383954010"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/09/v-i-attic-vase-inscriptions-attische.html"
          title="AVI : Attic Vase Inscriptions : Attische Vaseninschriften"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

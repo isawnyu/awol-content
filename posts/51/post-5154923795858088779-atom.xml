@@ -1,178 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5154923795858088779</id>
-    <published>2014-06-01T19:06:00.000-04:00</published>
-    <updated>2014-06-01T19:07:31.340-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5154923795858088779</id>
+   <published>2017-01-18T16:47:00.000-05:00</published>
+   <updated>2017-01-18T16:48:20.781-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classsics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
-    <title type="text">Dickinson College Commentaries</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 18
-      May 2012, updated 1 June 2014]</span><br /><br /><a
-      href="http://dcc.dickinson.edu/">Dickinson College Commentaries</a><br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">Latin and Greek
-      texts with explanatory notes, vocabulary, and graphic, video and audio elements, for readers of
-      Greek and Latin. Submissions to the series are
-      welcome.</span></blockquote><blockquote class="tr_bq"><img
-      src="http://dcc.dickinson.edu/sites/all/files/templogo.gif" height="46" width="320"
-      /></blockquote><br /><blockquote class="tr_bq"><div class="node
-      node-sitepages view-mode-full clearfix" id="node-19"><div class="content"><div
-      class="field field-name-body field-type-text-with-summary field-label-hidden"><div
-      class="field-items"><div class="field-item even"><span style="font-size:
-      x-small;">DCC publishes born digital scholarly commentaries on classical texts intended to
-      provide an effective reading and learning experience for classicists at all levels of
-      experience. In contrast to other digital projects that conceive of classical texts as a
-      database, or foreground hypertext—focusing on chunking or linking the text—DCC aims at a
-      readerly approach, and one responsive to the needs of readers, teachers, and students. Texts
-      are presented in a clean, readable format, with custom-authored notes, specially selected
-      images and maps, and original audio and video content. Core vocabulary lists of the most common
-      Latin and Greek words are provided, and all words not in the core lists are fully and
-      accurately defined in running vocabulary lists that accompany each section of text. DCC
-      commentaries are peer-reviewed, citable scholarly resources, licensed under <a
-      href="http://creativecommons.org/licenses/by-nc-nd/3.0/" target="_blank">Creative Commons
-      Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>. Funding for this project
-      comes from the Roberts Fund for Classical Studies at Dickinson College. The Project Director is
-      Chris Francese, Professor of Classical Studies at Dickinson College (<a
-      href="mailto:francese@dickinson.edu">francese@dickinson.edu</a>).</span></div></div></div></div></div></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;">&nbsp; </span><br
-      /><table border="0" class="front-page" style="width:
-      100%;"><tbody><tr><td class="home-tbl" width="213"><div
-      class="home-box"><span style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/caesar/caesar-introduction" target="_self"><img
-      alt="Portrait of Julius Caesar in Greek marble, recently found in a cistern (#861) from the
-      Pantelleria acropolis in Sicily. Photo: Roger B. Ulrich" height="172"
-      src="http://dcc.dickinson.edu/sites/all/files/caesarhome.jpg" width="213"
-      /></a></span><div class="home-box-pad"><h4><span
-      style="font-size: x-small;">Caesar</span></h4><span style="font-size:
-      x-small;"><strong>Selections from the <em>Gallic
-      War</em></strong></span><br /> <span style="font-size:
-      x-small;">edited by<br />Christopher Francese</span><br /> <span
-      style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/caesar/book-1/chapter-1-1">Read</a></span><br
-      /> <span style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/caesar/caesar-introduction"
-      target="_self">Introduction</a></span><br />
-      </div></div></td><td class="home-tbl" width="213"><div
-      class="home-box"><span style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/ovid-amores/preface"><img height="172"
-      src="http://dcc.dickinson.edu/sites/all/files/styles/large/public/Cupid%20for%20Amores%20text.jpg"
-      width="213" /></a></span><div class="home-box-pad"><h4><span
-      style="font-size: x-small;">Ovid</span></h4><span style="font-size:
-      x-small;"><strong><em>Amores</em> Book 1<br
-      />&nbsp;</strong></span><br /> <span style="font-size:
-      x-small;">edited by<br />William Turpin</span><br /> <span
-      style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/ovid-amores/amores-1-1">Read</a></span><br
-      /> <span style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/ovid-amores/preface"
-      target="_self">Introduction</a></span><br />
-      </div></div></td><td class="home-tbl" width="213"><div
-      class="home-box"><span style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/nepos-hannibal/preface"><img height="172"
-      src="http://dcc.dickinson.edu/sites/all/files/nepos.jpg" width="213"
-      /></a></span><div class="home-box-pad"><h4><span
-      style="font-size: x-small;">Cornelius Nepos</span></h4><span
-      style="font-size: x-small;"><em><strong>Life of Hannibal<br
-      />&nbsp;</strong></em></span><br /> <span style="font-size:
-      x-small;">edited by<br />Bret Mulligan</span><br /> <span
-      style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/nepos-hannibal/chapter-1">Read</a></span><br
-      /> <span style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/nepos-hannibal/preface"
-      target="_self">Introduction</a></span><br />
-      </div></div></td></tr><tr><td class="home-tbl"><span
-      style="font-size: x-small;">&nbsp;</span></td><td
-      class="home-tbl"><span style="font-size:
-      x-small;">&nbsp;</span></td><td class="home-tbl"><span
-      style="font-size: x-small;">&nbsp;</span></td></tr><tr><td
-      class="home-tbl"><div class="home-box"><span style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/sulpicius-severus/introduction"><img height="172"
-      src="http://dcc.dickinson.edu/sites/all/files/sulpiciushome.jpg" width="213"
-      /></a></span><div class="home-box-pad"><h4><span
-      style="font-size: x-small;">Sulpicius Severus</span></h4><span
-      style="font-size: x-small;"><em><strong>The Life of Saint Martin of
-      Tours</strong></em></span><br /> <span style="font-size:
-      x-small;">edited by<br /> Christopher Francese</span><br /> <span
-      style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/sulpicius-severus/preface">Read</a></span><br
-      /> <span style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/sulpicius-severus/introduction"
-      target="_self">Introduction</a></span><br />
-      </div></div></td><td class="home-tbl"><div
-      class="home-box"><span style="font-size: x-small;"><a class="noborder"
-      href="http://dcc.dickinson.edu/#"><img height="172"
-      src="http://dcc.dickinson.edu/sites/all/files/lucian.jpg" width="213"
-      /></a></span><div class="home-box-pad"><h4><span
-      style="font-size: x-small;">Lucian</span></h4><span style="font-size:
-      x-small;"><em><strong>True History</strong></em></span><br
-      /> <span style="font-size: x-small;">edited by<br /> Evan Hayes and Stephen
-      Nimis</span><br /> <span style="font-size:
-      x-small;"><strong>Forthcoming 2013</strong></span><br />
-      </div></div></td><td class="home-tbl"><div
-      class="home-box"><span style="font-size: x-small;"><a class="noborder"
-      href="http://dcc.dickinson.edu/#"><img height="172"
-      src="http://dcc.dickinson.edu/sites/all/files/callimachus.jpg" width="213"
-      /></a></span><div class="home-box-pad"><h4><span
-      style="font-size: x-small;">Callimachus</span></h4><span style="font-size:
-      x-small;"><em><strong>Aetia</strong></em></span><br />
-      <span style="font-size: x-small;">edited by<br />Susan Stephens</span><br
-      /> <span style="font-size: x-small;"><strong>Forthcoming
-      2014</strong></span><br />
-      </div></div></td></tr></tbody></table></blockquote><div
-      class="block block-system footer-menu block-menu last even"
-      id="block-system-main-menu"><blockquote><blockquote class="tr_bq"><h2
-      class="block-title"><span style="font-size: x-small;"> </span><span
-      style="font-size:
-      xx-small;">Navigation</span></h2></blockquote></blockquote><div
-      class="content"><blockquote><ul class="menu"><li class="menu-198 first
-      active"><span style="font-size: x-small;"><a class="active"
-      href="http://dcc.dickinson.edu/" title="">Home</a></span></li><li
-      class="menu-892"><span style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/resources">Resources</a></span></li><li
-      class="menu-660"><span style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/search/node"
-      title="">Search</a></span></li><li class="menu-890"><span
-      style="font-size: x-small;"><a
-      href="http://dcc.dickinson.edu/about-dcc">About</a></span></li><li
-      class="menu-1335"><span style="font-size: x-small;"><a
-      href="http://blogs.dickinson.edu/dcc/" title="">Blog</a></span></li><li
-      class="menu-1336"><span style="font-size: x-small;"><a
-      href="http://www.facebook.com/DickinsonCommentaries"
-      title="">Facebook</a></span></li><li class="menu-1337 last"><span
-      style="font-size: x-small;"><a href="http://twitter.com/DCComm"
-      title="">Twitter</a></span></li></ul></blockquote></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classsics"/>
+   <title type="text">Dickinson College Commentaries</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 18 May 2012, updated 18 January 2017]</span><br /><br /><a href="http://dcc.dickinson.edu/">Dickinson College Commentaries</a><br /><blockquote class="tr_bq"><a href="https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fdcc.dickinson.edu%2Fsites%2Fall%2Ffiles%2Ftemplogo.gif&amp;container=blogger&amp;gadget=a&amp;rewriteMime=image%2F*" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://dcc.dickinson.edu/sites/all/files/templogo.gif" height="46" width="320" /></a><span style="font-size: x-small;"></span></blockquote><br /><br />&nbsp; <br /><blockquote class="tr_bq"><span style="font-size: x-small;">Latin and Greek texts with explanatory notes, vocabulary, and graphic,  video and audio elements, for readers of Greek and Latin. Submissions to  the series are welcome.</span></blockquote><blockquote class="tr_bq"></blockquote><blockquote class="tr_bq"><div class="node node-sitepages view-mode-full clearfix" id="node-19"><div class="content"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><span style="font-size: x-small;">Dickinson College Commentaries presents Latin and Greek texts for  reading, with explanatory notes, interpretive essays, vocabulary, and  multimedia elements. The format has two columns, one with plain text on  the left, and another on the right with three tabs for notes,  vocabulary, and media. The commentaries are peer-reviewed, citable  scholarly resources, licensed under a&nbsp;Creative  Commons&nbsp;Attribution-ShareAlike License&nbsp;(<a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>).&nbsp;Support  for the project comes from the Christopher Roberts Fund for Classical  Studies at Dickinson College, the Mellon Fund for Digital Humanities at  Dickinson College, and Dickinson's Research and Development Committee.  The Project Director is Christopher Francese, Asbury J. Clarke Professor  of Classical Studies at Dickinson College (<a href="mailto:francese@dickinson.edu">francese@dickinson.edu</a>).</span></div></div></div></div></div></blockquote><blockquote class="tr_bq">         <div class="column" id="content">                   <div class="section">              	   	                                                            <div class="region region-content">    <div class="block block-system first odd" id="block-system-main">          <div class="content">    <div class="node node-page view-mode-full clearfix" id="node-8">                   <div class="content">    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div class="front-page-font"><table border="0" class="front-page" style="width: 100%;"><tbody><tr><td class="home-tbl"><div class="home-box"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/tacitus-agricola/1" target="_self"><img alt="Portrait of Julius Caesar in Greek marble, recently found in a cistern (#861) from the Pantelleria acropolis in Sicily. Photo: Roger B. Ulrich" height="172" src="http://dcc.dickinson.edu/sites/all/files/tacitus-agricola-home.jpg" width="213" /></a></span><div class="home-box-pad"><h4><span style="font-size: x-small;">Tacitus</span></h4><span style="font-size: x-small;"><strong>Agricola</strong></span><br /> <span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/tacitus-agricola/1">Read Online</a></span><br /> </div></div></td><td class="home-tbl"><div class="home-box"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/vergil-aeneid/preface" target="_self"><img alt="Portrait of Julius Caesar in Greek marble, recently found in a cistern (#861) from the Pantelleria acropolis in Sicily. Photo: Roger B. Ulrich" height="172" src="http://dcc.dickinson.edu/sites/all/files/vergil-home.jpg" width="213" /></a></span><div class="home-box-pad"><h4><span style="font-size: x-small;">Vergil</span></h4><span style="font-size: x-small;"><strong><em>Aeneid</em>&nbsp; Selections</strong></span><br /> <span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/vergil-aeneid/preface">Read Online</a></span><br /> </div></div></td><td class="home-tbl"><div class="home-box"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/tacitus-annals/preface-and-acknowledgments" target="_self"><img height="172" src="http://dcc.dickinson.edu/sites/all/files/tacitus-annals.jpg" width="213" /></a></span><div class="home-box-pad"><h4><span style="font-size: x-small;">Tacitus, <em>Annals</em> 15.20–23, 33–45</span></h4><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/tacitus-annals/preface-and-acknowledgments" target="_self">Read Online</a></span><br /> <span style="font-size: x-small;"><a href="http://www.openbookpublishers.com/product/215/tacitus--annals--15-20--23--33--45--latin-text--study-aids-with-vocabulary--and-commentary">Get Print Book</a></span><br /> </div></div></td></tr><tr><td class="home-tbl"><div class="home-box"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/grammar/latin/credits-and-reuse" target="_self"><img height="172" src="http://dcc.dickinson.edu/sites/all/files/allen-greenough.jpg" width="213" /></a></span><div class="home-box-pad"><h4><span style="font-size: x-small;">Allen &amp; Greenough’s Latin Grammar</span></h4><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/grammar/latin/credits-and-reuse" target="_self">Read Online</a></span><br />  </div></div></td><td class="home-tbl"><div class="home-box"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/caesar/caesar-introduction" target="_self"><img alt="Portrait of Julius Caesar in Greek marble, recently found in a cistern (#861) from the Pantelleria acropolis in Sicily. Photo: Roger B. Ulrich" height="172" src="http://dcc.dickinson.edu/sites/all/files/caesarhome.jpg" width="213" /></a></span><div class="home-box-pad"><h4><span style="font-size: x-small;">Caesar</span></h4><span style="font-size: x-small;"><strong><em>Gallic War</em>&nbsp;selections</strong></span><br /> <span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/caesar/book-1/chapter-1-1">Read Online</a></span><br /> </div></div></td><td class="home-tbl"><div class="home-box"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/callimachus-aetia/preface" target="_self"><img height="172" src="http://dcc.dickinson.edu/sites/all/files/Gonzaga%20Cameo%20Hermitage%20213x172.jpg" width="213" /></a></span><div class="home-box-pad"><h4><span style="font-size: x-small;">Callimachus</span></h4><span style="font-size: x-small;"><em><strong>Aetia</strong></em></span><br /> <span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/callimachus-aetia/prologue-against-telchines" target="_self">Read Online</a></span><br /> </div></div></td></tr><tr><td class="home-tbl" width="213"><div class="home-box"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/cicero-verres/preface-and-acknowledgements" target="_self"><img height="172" src="http://dcc.dickinson.edu/sites/all/files/styles/large/public/Met_Fresco_213x172.jpg" width="213" /></a></span><div class="home-box-pad"><h4><span style="font-size: x-small;">Cicero</span></h4><span style="font-size: x-small;"><em><strong>Against Verres 2.1.53–86</strong></em></span><br /> <span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/cicero-verres/53" target="_self">Read Online</a></span><br /> <span style="font-size: x-small;"><a href="http://www.openbookpublishers.com/product/96/cicero--against-verres--2-1-53-86--latin-text-with-introduction--study-questions--commentary-and-english-translation">Get Print Book</a></span><br />  </div></div></td><td class="home-tbl"><div class="home-box"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/cicero-de-imperio/preface-and-acknowledgments"><img height="172" src="http://dcc.dickinson.edu/sites/all/files/Pompey_bust_213x161.jpg" width="213" /></a></span><div class="home-box-pad"><h4><span style="font-size: x-small;">Cicero</span></h4><span style="font-size: x-small;"><b><i>On Pompey’s Command (De Imperio), 27-49</i></b></span><br /> <span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/cicero-de-imperio/27" target="_self">Read Online</a></span><br /> <span style="font-size: x-small;"><a href="http://www.openbookpublishers.com/product/284/cicero--on-pompey-s-command--de-imperio---27-49--latin-text--study-aids-with-vocabulary--commentary--and-translation" target="_blank">Get Print Book</a></span><br /> </div></div></td><td class="home-tbl"><div class="home-box"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/vocab/core-vocabulary" target="_self"><img height="172" src="http://dcc.dickinson.edu/sites/all/files/styles/large/public/Greek_Latin_bilingual_text_213x172.jpg?itok=_65hSwEQ" width="213" /></a></span><div class="home-box-pad"><h4><span style="font-size: x-small;">Core Vocabularies</span></h4><span style="font-size: x-small;"><em><strong>Latin and Ancient Greek</strong></em></span><br /> <span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/vocab/core-vocabulary" target="_self">Read Online</a></span><br /> </div></div></td></tr><tr><td class="home-tbl" width="213"><div class="home-box"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/nepos-hannibal/preface"><img height="172" src="http://dcc.dickinson.edu/sites/all/files/nepos.jpg" width="213" /></a></span><div class="home-box-pad"><h4><span style="font-size: x-small;">Cornelius Nepos</span></h4><span style="font-size: x-small;"><em><strong>Life of Hannibal</strong></em></span><br /> <span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/nepos-hannibal/chapter-1">Read online</a></span><br /> <span style="font-size: x-small;"><a href="http://www.openbookpublishers.com/product/341" target="_blank">Get Print Book</a></span><br /> </div></div></td><td class="home-tbl"><div class="home-box"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/lucian-true/introduction"><img height="172" src="http://dcc.dickinson.edu/sites/all/files/lucian.jpg" width="213" /></a></span><div class="home-box-pad"><h4><span style="font-size: x-small;">Lucian</span></h4><span style="font-size: x-small;"><em><strong>True Histories, Book 1</strong></em></span><br /> <span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/lucian-true/book-1/1-1">Read Online</a></span><br /> <span style="font-size: x-small;"><a href="http://www.faenumpublishing.com/lucians-a-true-story.html" target="_blank">Get Print Book</a></span><br /> </div></div></td><td class="home-tbl"><div class="home-box"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/ovid-amores/preface"><img height="172" src="http://dcc.dickinson.edu/sites/all/files/styles/large/public/Cupid%20for%20Amores%20text.jpg" width="213" /></a></span><div class="home-box-pad"><h4><span style="font-size: x-small;">Ovid</span></h4><span style="font-size: x-small;"><strong><em>Amores</em> Book 1</strong></span><br /> <span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/ovid-amores/epigram-0">Read Online</a></span><br /> <span style="font-size: x-small;"><a href="http://www.openbookpublishers.com/product/348/ovid--amores--book-1-" target="_blank">Get Print Book</a></span><br /> </div></div></td></tr><tr><td class="home-tbl" width="213"><div class="home-box"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/sulpicius-severus/introduction"><img height="172" src="http://dcc.dickinson.edu/sites/all/files/sulpiciushome.jpg" width="213" /></a></span><div class="home-box-pad"><h4><span style="font-size: x-small;">Sulpicius Severus</span></h4><span style="font-size: x-small;"><em><strong>The Life of Saint Martin of Tours</strong></em></span><br /> <span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/sulpicius-severus/preface">Read Online</a></span><br /> </div></div></td><td class="home-tbl" width="213"><span style="font-size: x-small;">&nbsp;</span></td><td class="home-tbl" width="213"><span style="font-size: x-small;">&nbsp;</span></td></tr></tbody></table></div></div></div></div><fieldset class="fieldset group-article-nav collapsible  form-wrapper collapse-processed" id="node_page_full_group_article_nav"></fieldset></div></div></div></div></div></div></div></blockquote><div class="block block-system footer-menu block-menu last even" id="block-system-main-menu"><div class="content"><blockquote><ul class="menu"><li class="menu-198 first active"><span style="font-size: x-small;"><a class="active" href="http://dcc.dickinson.edu/" title="">Home</a></span></li><li class="menu-890"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/about-dcc">About</a></span></li><li class="menu-892"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/resources">Resources</a></span></li><li class="menu-1812"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/images" title="">Images</a></span></li><li class="menu-660"><span style="font-size: x-small;"><a href="http://dcc.dickinson.edu/search/node" title="">Search</a></span></li><li class="menu-1335 last"><span style="font-size: x-small;"><a href="http://blogs.dickinson.edu/dcc/" title="">Blog</a></span></li></ul></blockquote></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5154923795858088779/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5154923795858088779/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/05/dickinson-college-commentaries.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5154923795858088779"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5154923795858088779"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/05/dickinson-college-commentaries.html"
          title="Dickinson College Commentaries"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

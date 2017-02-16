@@ -1,121 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5391155342753184457</id>
-    <published>2013-11-05T11:30:00.001-05:00</published>
-    <updated>2013-11-05T11:59:28.802-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5391155342753184457</id>
+   <published>2015-11-20T18:45:00.000-05:00</published>
+   <updated>2015-11-20T18:46:28.056-05:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Jordan"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Atlas"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Maps"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Jordan"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Geography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Atlas"/>
-    <title type="text">The Jordanian National Heritage Documentation and Management System</title>
-    <content type="html"><![CDATA[<a href="http://megajordan.org/">MEGA-Jordan:&nbsp; The National
-      Heritage Documentation and Management System</a><br /><blockquote
-      class="tr_bq"><img alt="http://megajordan.org/Media/images/mega-banner-left.gif"
-      class="decoded" src="http://megajordan.org/Media/images/mega-banner-left.gif"
-      /></blockquote><div id="content"><blockquote><h3> <span
-      style="font-size: x-small;">A State-of-the-Art System for Jordan’s Archaeological
-      Sites</span></h3><span style="font-size: x-small;"> MEGA-Jordan is a
-      purpose-built geographic information system (GIS) to inventory and manage archaeology sites at
-      a national level. It has been developed using state-of-the-art technology and requires no more
-      than basic computer skills to enter site and site element boundaries and buffer zones; site
-      details such as condition, threats, and other monitoring updates; and to print out detailed,
-      up-to-date reports on Jordan’s vast number of archaeological sites. The system, in both Arabic
-      and English, is web-based and will standardize and centralize data throughout the
-      Kingdom.</span></blockquote><h3 style="text-align: center;"><span
-      style="font-size: xx-small;">Tutorials</span></h3><table border="0"
-      cellpadding="0" cellspacing="0" style="width: 279px;"><tbody><tr> <td
-      align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size:
-      xx-small;"><br /></span></td> <td style="padding: 5px;" valign="top"
-      width="170"><span style="font-size: xx-small;"><a
-      href="http://www.youtube.com/watch?v=pWplhPgW6J4">Overview: System overview of the MEGA
-      application</a></span> </td> </tr><tr> <td align="center"
-      style="padding: 5px;" valign="top" width="109"><span style="font-size:
-      xx-small;"><br /></span></td> <td style="padding: 5px;" valign="top"
-      width="170"><span style="font-size: xx-small;"><a
-      href="http://www.youtube.com/watch?v=jIRQCp_YirM">Tutorial 1: Basic Map
-      Navigation</a></span> </td> </tr><tr style="padding: 5px;">
-      <td align="center" style="padding: 5px;" valign="top" width="109"><span
-      style="font-size: xx-small;"><br /></span></td> <td style="padding:
-      5px;" valign="top" width="170"><span style="font-size: xx-small;"><a
-      href="http://www.youtube.com/watch?v=JQJ0-EH7ehY">Tutorial 2: Layers and the
-      Legend</a></span> </td> </tr><tr style="padding: 5px;"> <td
-      align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size:
-      xx-small;"><br /></span></td> <td style="padding: 5px;" valign="top"
-      width="170"><span style="font-size: xx-small;"><a
-      href="http://www.youtube.com/watch?v=8Rv7J5sNoB0">Tutorial 3: Viewing and Printing Reports
-      and Exporting Dat</a>a</span> </td> </tr><tr style="padding:
-      5px;"> <td align="center" style="padding: 5px;" valign="top" width="109"><span
-      style="font-size: xx-small;"><br /></span></td> <td style="padding:
-      5px;" valign="top" width="170"><span style="font-size: xx-small;"><a
-      href="http://www.youtube.com/watch?v=Yg5K3asltXc">Tutorial 4: Add a New
-      Site</a></span> </td> </tr><tr style="padding: 5px;"> <td
-      align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size:
-      xx-small;"><br /></span></td> <td style="padding: 5px;" valign="top"
-      width="170"><span style="font-size: xx-small;"><a
-      href="http://www.youtube.com/watch?v=EQnT7jh9PMo">Tutorial 5: Enter Site Attribute
-      Information</a></span> </td> </tr><tr style="padding: 5px;">
-      <td align="center" style="padding: 5px;" valign="top" width="109"><span
-      style="font-size: xx-small;"><br /></span></td> <td style="padding:
-      5px;" valign="top" width="170"><span style="font-size: xx-small;"><a
-      href="http://www.youtube.com/watch?v=W9FWXnNQgVY">Tutorial 6: Edit a
-      Site</a></span> </td> </tr><tr style="padding: 5px;"> <td
-      align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size:
-      xx-small;"><br /></span></td> <td style="padding: 5px;" valign="top"
-      width="170"><span style="font-size: xx-small;"><a
-      href="http://www.youtube.com/watch?v=IAxc6EmnBLs"> Tutorial 7: Add a New Site
-      Element</a></span> </td> </tr><tr style="padding: 5px;"> <td
-      align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size:
-      xx-small;"><br /></span></td> <td style="padding: 5px;" valign="top"
-      width="170"><span style="font-size: xx-small;"><a
-      href="http://www.youtube.com/watch?v=HiEg6MQLEF4">Tutorial 8: Enter Site Element Attribute
-      Information</a></span> </td> </tr><tr style="padding: 5px;">
-      <td align="center" style="padding: 5px;" valign="top" width="109"><span
-      style="font-size: xx-small;"><br /></span></td> <td style="padding:
-      5px;" valign="top" width="170"><span style="font-size: xx-small;"><a
-      href="http://www.youtube.com/watch?v=uOGllIlOkCA">Tutorial 9: Edit a Site
-      Element</a></span> </td> </tr><tr style="padding: 5px;"> <td
-      align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size:
-      xx-small;"><br /></span></td> <td style="padding: 5px;" valign="top"
-      width="170"><span style="font-size: xx-small;"><a
-      href="http://www.youtube.com/watch?v=mppYsNYojzw">Tutorial 10: Add a Monitoring
-      Event</a></span> </td> </tr><tr style="padding: 5px;"> <td
-      align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size:
-      xx-small;"><br /></span></td> <td style="padding: 5px;" valign="top"
-      width="170"><span style="font-size: xx-small;"><a
-      href="http://www.youtube.com/watch?v=m-JInP8gXY8">Tutorial 11: Edit a Monitoring
-      Event</a></span></td></tr></tbody></table></div><br
-      /><br /><div style="text-align: center;">And see AWOL's <a
-      href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup
-      of Resources on Ancient Geography</a></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Geography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Maps"/>
+   <title type="text">MEGA-Jordan:  The National Heritage Documentation and Management System</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 5 November 2015, updated 20 November 2015] </span><br /><br /><a href="http://megajordan.org/">MEGA-Jordan:&nbsp; The National Heritage Documentation and Management System</a><br /><blockquote class="tr_bq"><img alt="http://megajordan.org/Media/images/mega-banner-left.gif" class="decoded" src="http://megajordan.org/Media/images/mega-banner-left.gif" /></blockquote><div id="content"><blockquote><h3>                             <span style="font-size: x-small;">A State-of-the-Art System for Jordan’s Archaeological Sites</span></h3><span style="font-size: x-small;">                             MEGA-Jordan is a purpose-built geographic  information system (GIS) to inventory and manage archaeology sites at a  national level. It has been developed using state-of-the-art technology  and requires no more than basic computer skills to enter site and site  element boundaries and buffer zones; site details such as condition,  threats, and other monitoring updates; and to print out detailed,  up-to-date reports on Jordan’s vast number of archaeological sites. The  system, in both Arabic and English, is web-based and will standardize  and centralize data throughout the Kingdom.</span></blockquote><h3 style="text-align: center;"><span style="font-size: xx-small;">Tutorials</span></h3><table border="0" cellpadding="0" cellspacing="0" style="width: 279px;"><tbody><tr>                                 <td align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size: xx-small;"><br /></span></td>                                 <td style="padding: 5px;" valign="top" width="170"><span style="font-size: xx-small;"><a href="http://www.youtube.com/watch?v=pWplhPgW6J4">Overview: System overview of the MEGA application</a></span>                                 </td>                             </tr><tr>                                 <td align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size: xx-small;"><br /></span></td>                                 <td style="padding: 5px;" valign="top" width="170"><span style="font-size: xx-small;"><a href="http://www.youtube.com/watch?v=jIRQCp_YirM">Tutorial 1: Basic Map Navigation</a></span>                                 </td>                             </tr><tr style="padding: 5px;">                                 <td align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size: xx-small;"><br /></span></td>                                 <td style="padding: 5px;" valign="top" width="170"><span style="font-size: xx-small;"><a href="http://www.youtube.com/watch?v=JQJ0-EH7ehY">Tutorial 2: Layers and the Legend</a></span>                                 </td>                             </tr><tr style="padding: 5px;">                                 <td align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size: xx-small;"><br /></span></td>                                 <td style="padding: 5px;" valign="top" width="170"><span style="font-size: xx-small;"><a href="http://www.youtube.com/watch?v=8Rv7J5sNoB0">Tutorial 3: Viewing and Printing Reports and Exporting Dat</a>a</span>                                 </td>                             </tr><tr style="padding: 5px;">                                 <td align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size: xx-small;"><br /></span></td>                                 <td style="padding: 5px;" valign="top" width="170"><span style="font-size: xx-small;"><a href="http://www.youtube.com/watch?v=Yg5K3asltXc">Tutorial 4: Add a New Site</a></span>                                 </td>                             </tr><tr style="padding: 5px;">                                 <td align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size: xx-small;"><br /></span></td>                                 <td style="padding: 5px;" valign="top" width="170"><span style="font-size: xx-small;"><a href="http://www.youtube.com/watch?v=EQnT7jh9PMo">Tutorial 5: Enter Site Attribute Information</a></span>                                 </td>                             </tr><tr style="padding: 5px;">                                 <td align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size: xx-small;"><br /></span></td>                                 <td style="padding: 5px;" valign="top" width="170"><span style="font-size: xx-small;"><a href="http://www.youtube.com/watch?v=W9FWXnNQgVY">Tutorial 6: Edit a Site</a></span>                                 </td>                             </tr><tr style="padding: 5px;">                                 <td align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size: xx-small;"><br /></span></td>                                 <td style="padding: 5px;" valign="top" width="170"><span style="font-size: xx-small;"><a href="http://www.youtube.com/watch?v=IAxc6EmnBLs">                                     Tutorial 7: Add a New Site Element</a></span>                                 </td>                             </tr><tr style="padding: 5px;">                                 <td align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size: xx-small;"><br /></span></td>                                 <td style="padding: 5px;" valign="top" width="170"><span style="font-size: xx-small;"><a href="http://www.youtube.com/watch?v=HiEg6MQLEF4">Tutorial 8: Enter Site Element Attribute Information</a></span>                                 </td>                             </tr><tr style="padding: 5px;">                                 <td align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size: xx-small;"><br /></span></td>                                 <td style="padding: 5px;" valign="top" width="170"><span style="font-size: xx-small;"><a href="http://www.youtube.com/watch?v=uOGllIlOkCA">Tutorial 9: Edit a Site Element</a></span>                                 </td>                             </tr><tr style="padding: 5px;">                                 <td align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size: xx-small;"><br /></span></td>                                 <td style="padding: 5px;" valign="top" width="170"><span style="font-size: xx-small;"><a href="http://www.youtube.com/watch?v=mppYsNYojzw">Tutorial 10: Add a Monitoring Event</a></span>                                 </td>                             </tr><tr style="padding: 5px;">                                 <td align="center" style="padding: 5px;" valign="top" width="109"><span style="font-size: xx-small;"><br /></span></td>                                 <td style="padding: 5px;" valign="top" width="170"><span style="font-size: xx-small;"><a href="http://www.youtube.com/watch?v=m-JInP8gXY8">Tutorial 11: Edit a Monitoring Event</a></span></td></tr></tbody></table></div><br /><br /><div style="text-align: center;">And see AWOL's <a href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup of Resources on Ancient Geography</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5391155342753184457/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5391155342753184457/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/04/jordanian-national-heritage.html#comment-form"
          title="1 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5391155342753184457"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5391155342753184457"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/04/jordanian-national-heritage.html"
-         title="The Jordanian National Heritage Documentation and Management System"/>
-    <author>
+         title="MEGA-Jordan:  The National Heritage Documentation and Management System"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

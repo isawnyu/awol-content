@@ -1,128 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7394410318840146712</id>
-    <published>2013-01-28T17:00:00.000-05:00</published>
-    <updated>2013-01-28T17:03:08.705-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7394410318840146712</id>
+   <published>2015-09-11T14:59:00.000-04:00</published>
+   <updated>2015-09-11T14:59:48.621-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Database"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Art"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Reception"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Ancient"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Art"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Renaissance"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Reception"/>
-    <title type="text">Census of Antique Works of Art and Architecture Known in the
-      Renaissance</title>
-    <content type="html"><![CDATA[<a href="http://www.census.de/census">Census of Antique Works of Art
-      and Architecture Known in the Renaissance</a><br /><blockquote><table
-      class="plain"><tbody><tr><td><img alt="census logo"
-      class="image-inline" src="http://www.census.de/census/cenlogoklein.gif" /></td>
-      <td></td> <td><span style="font-size:
-      x-small;"></span></td></tr></tbody></table></blockquote><br
-      /><blockquote><table class="plain"><tbody><tr><td><span
-      style="font-size: x-small;">Der<b> Census of Antique Works of Art and Architecture
-      Known in the Renaissance </b> ist eine interdisziplinäre Forschungsdatenbank, die einem
-      zentralen Problemfeld der Renaissanceforschung, der Antikenrezeption, gewidmet ist.
-      </span><br /><span style="font-size: x-small;">Erfasst werden die in der
-      Renaissance bekannten antiken Monumente mit den zugehörigen bildlichen und schriftlichen
-      Renaissancedokumenten und Orts-, Personen- und Zeitangaben sowie Abbildungen und
-      bibliographischen Daten. </span><br /><span style="font-size: x-small;">Als
-      Forschungsinstrument richtet sich der Census nicht nur an die Fächer Kunstgeschichte und
-      Archäologie, sondern an alle am Nachleben der Antike interessierten
-      Disziplinen.</span></td></tr></tbody></table></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;">&nbsp;The <b>Census of
-      Antique Works of Art and Architecture Known in the Renaissance </b>is an
-      interdisciplinary research database containing documentation centering on the classical
-      tradition, a focus of Renaissance studies.<br />Registered are the antique monuments
-      known in the Renaissance together with the related Renaissance documents in the form of texts
-      and images, and related information about locations, persons and periods as well as
-      bibliographic data. <br />The Census is a useful tool of research, not only in the field
-      of art history and archaeology, but also for any discipline focussing on the Nachleben of the
-      Antique. </span></blockquote><blockquote><table
-      class="plain"><tbody></tbody></table><dl class="portlet"
-      id="portlet-navigation-tree"><dd class="portletItem lastItem"><span
-      style="font-size: x-small;"> </span><br /><ul class="portletNavigationTree
-      navTreeLevel0"><li class="navTreeItem"> <div
-      class="contenttype-plone-site"><span style="font-size: x-small;"><a
-      class="navTreeCurrentItem visualIconPadding" href="http://www.census.de/census" title="Mit dem
-      Design-Update vom 3. August 2012 wurden zwei wesentliche Verbesserungen in die
-      Benutzeroberfläche der Census-Datenbank aufgenommen."> Home </a></span>
-      </div></li><li class="navTreeItem visualNoMarker"> <div
-      class="contenttype-folder"><span style="font-size: x-small;"><a
-      class="state-published visualIconPadding" href="http://www.census.de/census/the-project"
-      title="">The Project</a></span> </div></li><li class="navTreeItem
-      visualNoMarker"> <div class="contenttype-folder"><span style="font-size:
-      x-small;"><a class="state-published visualIconPadding"
-      href="http://www.census.de/census/corpus-winckelmann-1" title="">Corpus
-      Winckelmann</a></span> </div></li><li class="navTreeItem
-      visualNoMarker"> <div class="contenttype-folder"><span style="font-size:
-      x-small;"><a class="state-published visualIconPadding"
-      href="http://www.census.de/census/translatio-nummorum-en" title="">Translatio
-      nummorum</a></span> </div></li><li class="navTreeItem
-      visualNoMarker"> <div class="contenttype-folder"><span style="font-size:
-      x-small;"><a class="state-published visualIconPadding"
-      href="http://www.census.de/census/corpus-medii-aevi-1" title="">Corpus Medii Aevi
-      </a></span> </div></li><li class="navTreeItem visualNoMarker">
-      <div class="contenttype-folder"><span style="font-size: x-small;"><a
-      class="state-published visualIconPadding" href="http://www.census.de/census/search"
-      title="">Search</a></span> </div></li><li class="navTreeItem
-      visualNoMarker"> <div class="contenttype-folder"><span style="font-size:
-      x-small;"><a class="state-published visualIconPadding"
-      href="http://www.census.de/census/help-1" title="">Help</a></span>
-      </div></li><li class="navTreeItem visualNoMarker"> <div
-      class="contenttype-folder"><span style="font-size: x-small;"><a
-      class="state-published visualIconPadding" href="http://www.census.de/census/geocensus-1"
-      title="">GeoCensus</a></span> </div></li><li class="navTreeItem
-      visualNoMarker"> <div class="contenttype-folder"><span style="font-size:
-      x-small;"><a class="state-published visualIconPadding"
-      href="http://www.census.de/census/pegasus" title="">Pegasus</a></span>
-      </div></li><li class="navTreeItem visualNoMarker"> <div
-      class="contenttype-folder"><span style="font-size: x-small;"><a
-      class="state-published visualIconPadding" href="http://www.census.de/census/staff"
-      title="">Staff</a></span> </div></li><li class="navTreeItem
-      visualNoMarker"> <div class="contenttype-folder"><span style="font-size:
-      x-small;"><a class="state-published visualIconPadding"
-      href="http://www.census.de/census/contact" title="">Contact</a></span>
-      </div></li><li class="navTreeItem visualNoMarker"> <div
-      class="contenttype-link"><span style="font-size: x-small;"><a
-      class="state-published visualIconPadding"
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" title="">Census
-      Database</a></span> </div></li><li class="navTreeItem
-      visualNoMarker"><span style="font-size: x-small;"> </span><div
-      class="contenttype-ploneformmailer"><span style="font-size: x-small;"> <a
-      class="state-anoymous-send visualIconPadding" href="http://www.census.de/census/get-login"
-      title="">Get Login</a></span> </div></li></ul><span
-      class="portletBottomLeft"></span> <span class="portletBottomRight"></span>
-      </dd></dl><a class="tile"
-      href="http://www.census.de/census/201etranslatio-nummorum-2013-die-ersten-zwolf-caesaren-in-der-renaissance201c"
-      title="Ausstellungseröffnung am Donnerstag, 22. November 2012, 18 Uhr im Gobelinsaal des
-      Bode-Museums, Museumsinsel Berlin"> </a><br /><ul
-      class="portletNavigationTree navTreeLevel0"></ul></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Ancient"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Renaissance"/>
+   <title type="text">Census of Antique Works of Art and Architecture Known in the Renaissance</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 28 January 2013, updated 11 September 2015]</span><br /><br /><a href="http://www.census.de/census">Census of Antique Works of Art and Architecture Known in the Renaissance</a><br /><blockquote><table class="plain"><tbody><tr><td><img alt="census logo" class="image-inline" src="http://www.census.de/census/cenlogoklein.gif" height="200" width="198" /></td> <td></td> <td><span style="font-size: x-small;"></span></td></tr></tbody></table></blockquote><blockquote><table class="plain"><tbody><tr><td><span style="font-size: x-small;">Der <b>Census of Antique Works of Art and Architecture Known in the Renaissance</b> ist ein interdisziplinäres Forschungsprojekt, das dem zentralen  Problemfeld der Renaissance-forschung, der Antikenrezeption, gewidmet  ist. Herzstück des Projekts ist die <a class="internal-link" href="http://www.census.de/census/datenbank/copy_of_einfuehrung">Datenbank</a>,  in der die in der Renaissance bekannten antiken Monumente mit den  zugehörigen bildlichen und schriftlichen Dokumenten erfasst werden.<br />Durch  Kooperationen mit Forschungsprojekten, die dem Nachleben der Antike in  anderen Epochen gewidmet sind, erweitert sich die Datensammlung  mittlerweile sowohl um die antiken Denkmäler, die Johann Joachim  Winckelmann und seiner Zeit bekannt waren (<a href="http://www.census.de/census/corpus-winckelmann/corpus-winckelmann">Corpus Winckelmann</a>), als auch um die Rezeption und Adaption antiker Kunst während des Mittelalters (<a href="http://www.census.de/census/corpus-medii-aevi/corpus-medii-aevi">Corpus Medii Aevi</a>). Aus dem Projekt gehen regelmäßig <a href="http://www.census.de/census/publikationen/publikationen-1">Publikationen</a> hervor.</span></td></tr></tbody></table></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">&nbsp;The <b>Census of Antique Works of Art and Architecture Known in the Renaissance</b> is an interdisciplinary research project centering on the classical  tradition, a focus of Renaissance studies. The core of the project is  the <a href="http://www.census.de/census/start2/database">database</a>  registering antique monuments known in the Renaissance together with the  related Renaissance documents in form of texts and images.<br />The collection of data has been extended by the antique monuments known to Johann Joachim Winckelmann and his contemporaries (<a href="http://www.census.de/census/start2/corpus-winckelmann-1">Corpus Winckelmann</a>) as well as the reception and adaption of antique art of the Middle Ages (<a href="http://www.census.de/census/start2/corpus-medii-aevi-1">Corpus Medii Aevi</a>) in cooperation with research projects dedicated to the ‘Nachleben’ of Antiquity. The project regularly issues <a href="http://www.census.de/census/start2/publications">publications</a>.</span></blockquote><blockquote class="tr_bq"><ul id="portal-globalnav"><li class="selected" id="portaltab-index_html"><a class="plain" href="http://www.census.de/census" title="">Home</a></li><li class="plain" id="portaltab-database"><a class="plain" href="http://www.census.de/census/database" title="">Database</a>                             </li><li class="plain" id="portaltab-project"><a class="plain" href="http://www.census.de/census/project" title="">Project</a>                             </li><li class="plain" id="portaltab-publications"><a class="plain" href="http://www.census.de/census/publications" title="">Publications</a>                             </li><li class="plain" id="portaltab-full-texts"><a class="plain" href="http://www.census.de/census/full-texts" title="">Census Full Texts</a>                             </li><li class="plain" id="portaltab-translatio-nummorum-en"><a class="plain" href="http://www.census.de/census/translatio-nummorum-en" title="">Translatio nummorum</a>                             </li><li class="plain" id="portaltab-corpus-winckelmann-1"><a class="plain" href="http://www.census.de/census/corpus-winckelmann-1" title="">Corpus Winckelmann</a>                             </li><li class="plain" id="portaltab-corpus-medii-aevi-1"><a class="plain" href="http://www.census.de/census/corpus-medii-aevi-1" title="">Corpus Medii Aevi </a></li></ul></blockquote><blockquote class="tr_bq"><h3><span style="font-size: x-small;"><a href="http://www.census.de/census/news">Latest news</a></span></h3><span style="font-size: x-small;">                                                                    </span><dl><dt class="">                     <span style="font-size: x-small;"><span class="summary">                                                 <a class="contenttype-news-item state-published url" href="http://www.census.de/census/new-re-design-for-the-start-page-of-the-database">New: Re-design for the start page of the database</a>                    </span></span>                     <span style="font-size: x-small;"><span class="documentByLine">                                                                                                                                                  </span></span>                 </dt><dd>                    <span style="font-size: x-small;"><span class="description">With an update on August 26, 2015 the start page of the Census database gets a new design and improved functionalities</span></span>                </dd><dt class="">                     <span style="font-size: x-small;"><span class="summary">                                                 <a class="contenttype-news-item state-published url" href="http://www.census.de/census/news/pegasus-issue-16.2014-available">Pegasus issue 16.2014 available! </a>                    </span></span>                     <span style="font-size: x-small;"><span class="documentByLine">                                                                                                                                                  </span></span>                 </dt><dd>                    <span style="font-size: x-small;"><span class="description">Includes contributions by  Michael Waters, Franz Engel, Paul Davies, Andreas Huth, Andreas Raub,  Paola Zampa, Timo Strauch, David Hemsoll, Lilla Mátyók, Francesca Mattei  and Horst Bredekamp</span></span>                </dd><dt class="">                     <span style="font-size: x-small;"><span class="summary">                                                 <a class="contenttype-news-item state-published url" href="http://www.census.de/census/news/coin-exhibition-at-the-pushkin-museum">Coin Exhibition at the Pushkin!</a>                    </span></span>                     <span style="font-size: x-small;"><span class="documentByLine">                                                                                                                                                  </span></span>                 </dt><dd>                    <span style="font-size: x-small;"><span class="description">The Pushkin Museum in Moscow shows "Translatio Nummorum. Coins language.  Roman Emperors. Roman antiques in the Renaissance period" from 12/12/14  to 08/02/15.</span></span>                </dd><dt class="">                     <span style="font-size: x-small;"><span class="summary">                                                 <a class="contenttype-news-item state-visible url" href="http://www.census.de/census/news/exhibition-opening-...-zur-gottlichen-fruhstuckspause">Exhibition opening "... zur göttlichen Frühstückspause"</a>                    </span></span>                     <span style="font-size: x-small;"><span class="documentByLine">                                                                                                                                                  </span></span>                 </dt><dd>                    <span style="font-size: x-small;"><span class="description">'Eine Motivwanderung von der Antike bis heute'. Opening on October 23, 2014, 7 p.m., in the atrium of Pergamonpalais, Georgenstraße 47, 10117 Berlin</span></span>                </dd><dt class="">                     <span style="font-size: x-small;"><span class="summary">                                                 <a class="contenttype-news-item state-published url" href="http://www.census.de/census/news/new-inscriptions-now-within-document-search-and-view">NEW: "Text on Document" (form. Inscriptions) integrated in  Document Search and Viewer</a>                    </span></span>                     <span style="font-size: x-small;"><span class="documentByLine">                                                                                                                                                  </span></span>                 </dt><dd><span style="font-size: x-small;">                    <span class="description">The update of August 13, 2014 now permits searching for document transcriptions in the Document Search mask</span></span>                </dd></dl></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7394410318840146712/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7394410318840146712/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/12/open-access-database-census-of-antique.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7394410318840146712"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7394410318840146712"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/12/open-access-database-census-of-antique.html"
          title="Census of Antique Works of Art and Architecture Known in the Renaissance"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

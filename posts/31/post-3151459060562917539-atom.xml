@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3151459060562917539</id>
+   <published>2016-03-06T07:20:00.000-05:00</published>
+   <updated>2016-03-06T07:20:13.240-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Priene"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
+   <title type="text">Excavation coins from Priene available in OCRE</title>
+   <content type="html"><![CDATA[<a href="http://numishare.blogspot.com/2016/03/excavation-coins-from-priene-available.html">Excavation coins from Priene available in OCRE</a><br />Via Ethan Gruber on Numishare <br /> <div class="post-header"> </div><blockquote class="tr_bq"><div dir="ltr" style="text-align: left;">The Berlin Münzkabinett is setting up a <a href="http://ww2.smb.museum/mk_priene/">new database</a> for coin finds from German excavations of <a href="http://nomisma.org/id/priene">Priene</a>:<br /><br /><blockquote class="tr_bq">This database includes the coins of the excavations since 1998 (Museum  Balat) and the old excavations of the Berlin Museums (Münzkabinett,  Staatliche Museen zu Berlin). By Bernhard Weisser and Johannes Eberhardt  (Staatliche Museen zu Berlin) in cooperation with the German  Archaeological Institute and the universities in Frankfurt (Wulf Raeck,  Axel Filges), Bonn (Frank Rumscheid) and Bursa (Hakan Mert). IT: Jürgen  Freundel, Editor: Karsten Dahmen.</blockquote><br />So far there are two coins connected to currently published RIC types in <a href="http://numismatics.org/ocre">OCRE</a> (as a proof of concept), but more coins will be published eventually. The associated types are:<br /><ul style="text-align: left;"><li><a href="http://numismatics.org/ocre/id/ric.5.cg.98">http://numismatics.org/ocre/id/ric.5.cg.98</a></li><li><a href="http://numismatics.org/ocre/id/ric.5.gall%282%29.574">http://numismatics.org/ocre/id/ric.5.gall(2).574</a></li></ul><br />Since the two coins connected to these types have findspots, Priene will  appear as a findspot on the map in OCRE. Additionally, with the more  advanced mapping features recently introduced on <a href="http://nomisma.org/">Nomisma.org</a>,  the Priene findspot will appear on any map associated with any  individual skos:Concepts connected to these coin types, e.g., Claudius  Gothicus (<a href="http://nomisma.org/id/claudius_ii_gothicus">http://nomisma.org/id/claudius_ii_gothicus</a>), whose map shows a findspot for Priene and two hoards in Britain--<a href="http://nomisma.org/id/normanby_hoard">Normanby</a> and <a href="http://nomisma.org/id/olivers_orchard_hoards">Oliver's Orchard Hoards</a>--connected to coins from the <a href="http://coins.lib.virginia.edu/">University of Virginia</a>.<br /><br />Nomisma's new interface upgrades will be discussed in further detail in another blog post.</div></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/3151459060562917539/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/03/excavation-coins-from-priene-available.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3151459060562917539"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3151459060562917539"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/03/excavation-coins-from-priene-available.html"
+         title="Excavation coins from Priene available in OCRE"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

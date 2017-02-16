@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2911908357165822006</id>
+   <published>2016-03-14T15:14:00.002-04:00</published>
+   <updated>2016-03-14T16:00:32.657-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">EAGLE Storytelling App available on wordpress.org</title>
+   <content type="html"><![CDATA[<a href="http://www.currentepigraphy.org/2016/03/13/eagle-storytelling-app-available-on-wordpress-org/">EAGLE Storytelling App available on wordpress.org</a><br /><div class="entry-meta"><span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.currentepigraphy.org/2016/03/13/eagle-storytelling-app-available-on-wordpress-org/" rel="bookmark" title="07:53"><span class="entry-date">13 March, 2016</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://www.currentepigraphy.org/author/pietroliuzzo/" title="View all posts by Pietro Liuzzo">Pietro Liuzzo</a></span></div><div class="entry-meta"><span class="author vcard">&nbsp;In <a href="http://www.currentepigraphy.org/" rel="home" title="Current Epigraphy">Current Epigraphy</a>&nbsp;</span>     </div><blockquote class="tr_bq"><span style="font-size: x-small;">The EAGLE  Storytelling App is a WordPress plugin that allows users to write  blogpost, news, stories and narratives by citing and embedding content  from various web repositories related to the Ancient World (like  Pelagios, the iDAI.gazetteer, Finds.org and many more).</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The web app is available on the <a href="http://www.eagle-network.eu/">EAGLE project’s official website</a>. Users can create an EAGLE account and start writing their epigraphic-related narratives right away and publish them on the <a href="http://www.eagle-network.eu/stories/">Stories</a> page.</span> </blockquote><blockquote class="tr_bq"><div class="wp-caption alignnone" id="attachment_2224" style="width: 1229px;"><span style="font-size: x-small;"><a href="http://www.currentepigraphy.org/wp-content/uploads/2016/03/editor.png" rel="attachment wp-att-2224"><img alt="the interface to insert epigraphy-related content " class="size-full wp-image-2224" src="http://www.currentepigraphy.org/wp-content/uploads/2016/03/editor.png" height="297" width="640" /></a></span></div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">But right now, epigraphers that want to experiment with the  application can also install it on their WordPress-powered site easily  from the <a href="https://wordpress.org/plugins/eagle-storytelling-application/">official plugin repositories</a>!</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The application is designed to work within the EAGLE user-dedicated  ecosystem (the search engine and the EAGLE collection of inscriptions  and images), but it’s easily customizable: new plugins to parse and  embed content from various sources can be implemented with minimal  effort.</span><br /><span style="font-size: x-small;">Currently, the EAGLE Storytelling App support content from:</span><br /><ul><li><span style="font-size: x-small;">the <a href="http://www.eagle-network.eu/collections/">EAGLE epigraphic collection</a></span></li><li><span style="font-size: x-small;"><a href="http://gazetteer.dainst.org/app/#%21/home">iDAI.gazetteer</a></span></li><li><span style="font-size: x-small;"><a href="http://pelagios.org/">Pelagios</a> (and Pleiades maps)</span></li><li><span style="font-size: x-small;"><a href="https://finds.org.uk/">Find</a><a href="https://finds.org.uk/">s</a><a href="https://finds.org.uk/">.org</a></span></li><li><span style="font-size: x-small;"><a href="https://www.wikipedia.org/">Wikipedia</a></span></li><li><span style="font-size: x-small;"><a href="https://commons.wikimedia.org/wiki/Main_Page">Wikimedia Commons</a></span></li><li><span style="font-size: x-small;"><a href="http://europeana.eu/portal/">EUROPEANA</a></span></li><li><span style="font-size: x-small;"><a href="http://www.ancient.eu/">Ancient History Encyclopedia</a></span></li></ul><span style="font-size: x-small;">What’s more, we provide an “<a href="https://sourceforge.net/p/epidoc/wiki/Home/">EpiDoc</a> generic reader” that can transform any EpiDoc-compliant XML file into a  human-readable edition, with formatted text, images and all the  information.</span></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/2911908357165822006/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/03/eagle-storytelling-app-available-on.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/2911908357165822006"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/2911908357165822006"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/03/eagle-storytelling-app-available-on.html"
+         title="EAGLE Storytelling App available on wordpress.org"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

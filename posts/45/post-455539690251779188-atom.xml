@@ -1,65 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-455539690251779188</id>
-    <published>2009-10-10T16:05:00.000-04:00</published>
-    <updated>2009-10-10T16:09:20.449-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-455539690251779188</id>
+   <published>2016-08-13T17:15:00.000-04:00</published>
+   <updated>2016-08-13T17:15:05.032-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">American Numismatic Society Online</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.numismatics.org/OnlineResources/OnlineResources">American Numismatic
-      Society Online Resources</a><br /><p><span
-      style="font-size:85%;"></span></p><blockquote><p><span
-      style="font-size:85%;">The ANS actively promotes the online use of its resources. The
-      collections database and library catalog are available online and have become essential parts
-      of numismatic research. The <em>Digital Publications Project</em> presents
-      individual projects and pursues research in the area of digital publication. The ANS also
-      provides web hosting to the <a class="urllink" href="http://digitalcoins.org/"
-      rel="nofollow">Digital Coins Network</a>.<br /></span>
-      </p><ul><li><span style="font-size:85%;"><a class="wikilink"
-      href="http://www.numismatics.org/Collections/CollectionDatabase">Collection
-      Database</a></span> </li><li> <span style="font-size:85%;"><a
-      target="_blank" class="urllink" href="http://data.numismatics.org/cgi-bin/libsearch"
-      rel="nofollow">Library Catalog</a></span> </li><li><span
-      style="font-size:85%;"><a class="wikilink"
-      href="http://www.numismatics.org/OnlineResources/Links">Links</a></span>
-      </li><li><span style="font-size:85%;"><em><a class="wikilink"
-      href="http://www.numismatics.org/CNL/CNL">Colonial
-      Newsletter</a></em></span> </li><li><span
-      style="font-size:85%;"><em><a class="wikilink"
-      href="http://www.numismatics.org/Numlit/Numlit">Numismatic Literature</a></em>
-      [Described in more detail in AWOL <a
-      href="http://ancientworldonline.blogspot.com/2009/07/open-access-journal-numismatic.html">here</a>]</span>
-      </li><li><span style="font-size:85%;"><a class="wikilink"
-      href="http://www.numismatics.org/DigitalPublications/DigitalPublications">Digital
-      Publications Project</a></span></li></ul></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">American Numismatic Society Online Resources</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 10 October 2009, updated 13 August 2016]</span><br /><br /><a href="http://numismatics.org/resources/">American Numismatic Society Online Resources</a><br /><span style="font-size: 85%;"></span><br /><blockquote><span style="font-size: x-small;">The ANS actively promotes the online use of its resources as both open source and Open Access with <a href="http://numismatics.org/archive/citationformat/">appropriate citation</a>.  The collections database and library catalog are available online and  have become essential parts of numismatic research, along with major  international collaborations such as Online Coins of the Roman Empire,  Coinage of the Roman Republic Online, Pella, and Dar al-Kutub. The ANS  also provides web hosting to the&nbsp;<a href="http://nomisma.org/" rel="nofollow" target="_blank" title="">Nomisma</a>&nbsp;project, a collaborative effort to provide stable digital representations of numismatic concepts and entities. </span></blockquote><blockquote><span style="font-size: x-small;">Nomisma serves as the backbone of two corpus projects currently under  development: OCRE (Online coins of the Roman Empire) and, in  collaboration with the&nbsp;<a href="http://kittredgecollection.org/" rel="nofollow" target="_blank" title="">Kittredge Numismatic Foundation</a>, Coins of the Papal States.</span><br /> <ul><li><span style="font-size: x-small;"><a href="http://numismatics.org/search" rel="nofollow" target="_blank" title="">MANTIS: The ANS Collection Database:</a> MANTIS serves as the online home for the ANS's permanent collection.  Hundreds of thousands of records, related images, and other contextual  data are constantly updated while new records are added regularly.</span></li></ul><ul><li><span style="font-size: x-small;"><a href="http://donum.numismatics.org/" rel="nofollow" target="_blank" title="">DONUM: The ANS Library Catalog</a>:  The Database of Online Numismatic Materials (DONUM) is the online  catalogue for the ANS library. Search the collections for books,  journals, periodicals, auction catalogues, and more.</span></li></ul><ul><li><span style="font-size: x-small;"><a href="http://numismatics.org/archives" rel="nofollow" target="_blank" title="">ARCHER: The ANS Archives Catalog</a>:  ARCHER is the online repository for the ANS Archives, which includes  notes, letters, and other ephemera associated with the institutions  history.</span></li></ul><ul><li><span style="font-size: x-small;"><a href="http://numismatics.org/digitallibrary/">ANS Digital Library</a>:  The ANS Digital Library houses unpublished American and international  PhD dissertations and MA theses on numismatic topics. Open Access eBooks  and scanned auction catalogues will soon be available for free use.</span></li></ul><ul><li><span style="font-size: x-small;"><a class="urllink" href="http://www.anspocketchange.org/" rel="nofollow" target="_blank">Pocket Change Blog</a>:  Pocketchange is the ANS's award-winning blog featuring regular new  content on everything numismatic, past, present, and future.</span></li></ul><ul><li><span style="font-size: x-small;"><a href="http://nomisma.org/" rel="nofollow" target="_blank" title="">Nomisma: Stable Numismatic Concepts</a>:  Nomisma.org is a collaborative project to provide stable digital  representations of numismatic concepts according to the principles of <a href="http://www.w3.org/DesignIssues/LinkedData.html">Linked Open Data</a>.  These take the form of http URIs that also provide access to reusable  information about those concepts, along with links to other resources.</span></li></ul><ul><li><span style="font-size: x-small;"><a href="http://numismatics.org/ocre" rel="nofollow" target="_blank" title="">OCRE: Online Coins of the Roman Empire</a>: Online Coins of the Roman Empire (OCRE), a joint project of the <a href="http://numismatics.org/">American Numismatic Society</a> and the <a href="http://isaw.nyu.edu/">Institute for the Study of the Ancient World</a> at New York University, is a revolutionary new tool designed to help in  the identification, cataloging, and research of the rich and varied  coinage of the Roman Empire.</span></li></ul><ul><li><span style="font-size: x-small;"><a class="urllink" href="http://numismatics.org/chrr/" rel="nofollow" target="_blank">CHRR: Coin Hoards of the Roman Republic</a>:  Coin hoards of the Roman Republic Online is a database of Roman  Republican coin hoards mainly from the period 155 BC to AD 2. This  database began life as a personal research database constructed by Kris  Lockyear using a combination of published data and Michael Crawford's  personal archive now housed the in the British Museum.</span></li></ul><ul><li><span style="font-size: x-small;"><a href="http://numismatics.org/crro">CRRO: Coinage of the Roman Republic Online</a>: Coinage of the Roman Republic Online aims to provide in effect an online version of Michael Crawford's 1974 publication <i>Roman Republican Coinage</i> (RRC), which is still the primary typology used for the identification of Roman Republican coin types.</span></li></ul><ul><li><span style="font-size: x-small;"><a href="http://numismatics.org/pella">PELLA: Coinage of the Macedonian Kings of the Argead Dynasty</a>:  PELLA is a research tool designed to present the catalog of the  individual coin types of the Argead kings from Alexander I (ruled  498–454 BC), the first of the Macedonian kings to strike coins, down to  Philip III Arrhidaeus (ruled 323–317 BC), the last of the titular kings  to do so. Included as well as are the numerous posthumous civic and  successor coinages struck in the names of the kings.</span></li></ul><ul><li><span style="font-size: x-small;"><a class="urllink" href="http://enl.numismatics.org/" rel="nofollow" target="_blank">ENL: Dar al-Kutub, Collection of the Egyptian National Library</a>:  The Egyptian National Library's catalog of 6,500 numismatic pieces –  coins, glass weights, dies, medals, etc. - is the third major catalog of  Islamic numismatic material held at the ENL, formerly the Khedivial  Library, Egypt’s most important library. This project is a result of the  cooperation of the <a href="http://darelkotob.gov.eg/">Egyptian National Library and Archives</a> and the <a href="http://numismatics.org/">American Numismatic Society</a> with funding from USAID through the American Research Center in Egypt.</span></li></ul><ul><li><span style="font-size: x-small;"><a class="urllink" href="http://numismatics.org/aod/" rel="nofollow" target="_blank">Art of Devastation: A Web-based Catalogue of First World War Medallic Art</a>:  The Art of Devastation is a research tool designed to help in the  identification, cataloguing, and contextualization of the abundant and  varied types of non-monetary numismatic items issued during and  immediately after the First World War (1914-1918). These items include  art medals, commemorative medals, and tokens, but do not include  military decorations.</span></li></ul><ul><li><span style="font-size: x-small;"><a href="http://numismatics.org/resources/links/">Links</a>: List of links for various American and international numismatic resources and collections.</span></li></ul><ul><li><span style="font-size: x-small;"><a href="http://numismatics.org/archive/otherrepositories/">Numismatic Archival Collections</a> in Other U.S. Repositories</span></li></ul><ul><li><span style="font-size: x-small;"><em><a href="http://numismatics.org/CNL/CNL">Colonial Newsletter</a></em>: <em>The Colonial Newsletter (CNL)</em> is a research journal dedicated to the study of early American  numismatics. Focusing on the study of the coinages produced by the  states during the Confederation period of the United States, <em>CNL</em> also investigates a variety of other specie that the United States' forefathers used in their daily lives.</span></li></ul><ul><li><span style="font-size: x-small;"><em><a href="http://numismatics.org/store/store/numlit/" target="_blank">Numismatic Literature</a></em>: <em>Numismatic Literature</em> was the ANS's annotated bibliography of published work in all fields of numismatics. Browse Open Access volumes free at <a href="https://babel.hathitrust.org/cgi/ls?field1=ocr;q1=%22numismatic%20literature%22;a=srchls;lmt=ft" target="_blank">HathiTrust</a>.</span></li></ul><ul><li><span style="font-size: x-small;"><a href="http://numismatics.org/DigitalPublications/DigitalPublications">Digital Publications Project</a>:  The Digital Publications Project is a legacy collection of early  attempts at digitizing the ANS's collections and resulting publications.</span></li></ul><ul><li><span style="font-size: x-small;"><a href="http://www.amuseum.org/" rel="nofollow" title="">Jewish-American Hall of Fame</a>:  The Jewish-American Hall of Fame was founded by Mel Wacks in 1969 at  the Magnes Museum, and became a division of the American Jewish  Historical Society in 2001. The JAHoF website came under the auspices of  the ANS in 2012.</span></li></ul></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/455539690251779188/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/455539690251779188/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/10/american-numismatic-society-online.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/455539690251779188"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/455539690251779188"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/10/american-numismatic-society-online.html"
-         title="American Numismatic Society Online"/>
-    <author>
+         title="American Numismatic Society Online Resources"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

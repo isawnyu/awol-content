@@ -1,65 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2271101941474896720</id>
-    <published>2012-05-08T21:29:00.002-04:00</published>
-    <updated>2012-05-08T21:29:45.042-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2271101941474896720</id>
+   <published>2012-05-08T21:29:00.002-04:00</published>
+   <updated>2012-05-08T21:29:45.042-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">The Association for Computers and the Humanities: Open Agenda-Setting
-      2012</title>
-    <content type="html"><![CDATA[<a href="http://ach.org/open-agenda-setting-2012">The Association for
-      Computers and the Humanities: Open Agenda-Setting 2012</a><br /> <div
-      class="node"> <em class="info"></em> <blockquote class="tr_bq"><div
-      class="content"> <span style="font-size: x-small;">This year, the ACH is working
-      toward more open and transparent agenda-setting as a professional society. We look to
-      <strong>you</strong> to help us better serve our diverse, international digital
-      humanities community -- by generating new ideas for us to explore, and helping to prioritize
-      items that are already on our <a href="http://ach.org/officers">Executive
-      Council</a>'s agenda.</span><br /><br /> <span style="font-size:
-      x-small;"> To that end, we are launching an "idea marketplace" using a transparent,
-      grassroots, pairwise voting system called "<a href="http://www.allourideas.org/">All Our
-      Ideas</a>." Below, you'll find two ideas chosen at random from our community-generated
-      pool, and will be asked to click on the one you find more important for ACH in 2012. You can
-      also decline to decide between the two ideas, or add a suggestion of your own. A "view results"
-      tab reveals the whole set of contributed ideas (helpful to read before suggesting a new one!)
-      as ranked by the community.</span><br /><br /> <span style="font-size:
-      x-small;"> ACH can't undertake every project you suggest, but we do promise to take our
-      members' and community's views very seriously and to address as many of them as we can, in open
-      dialogue.</span> </div></blockquote><blockquote class="tr_bq"><div
-      class="content"> <span style="font-size: x-small;"> Both association <a
-      href="http://ach.org/membership">members</a> and non-members are welcome to contribute
-      to this process, and we are only moderating new submissions to prevent unproductive overlap or
-      to clarify language.</span> </div></blockquote><blockquote
-      class="tr_bq"><div class="content"> <span style="font-size: x-small;"> <a
-      href="http://ach.org/open-agenda-setting-2012">Please take a moment to share your
-      views</a></span></div></blockquote></div>]]></content>
-    <link rel="replies"
+   <title type="text">The Association for Computers and the Humanities: Open Agenda-Setting 2012</title>
+   <content type="html"><![CDATA[<a href="http://ach.org/open-agenda-setting-2012">The Association for Computers and the Humanities: Open Agenda-Setting 2012</a><br />          <div class="node">           <em class="info"></em>    <blockquote class="tr_bq"><div class="content">      <span style="font-size: x-small;">This year, the ACH is working toward more open and transparent agenda-setting as a professional society. We look to <strong>you</strong> to help us better serve our diverse, international digital humanities  community -- by generating new ideas for us to explore, and helping to  prioritize items that are already on our <a href="http://ach.org/officers">Executive Council</a>'s agenda.</span><br /><br /> <span style="font-size: x-small;"> To that end, we are launching an "idea marketplace" using a transparent, grassroots, pairwise voting system called "<a href="http://www.allourideas.org/">All Our Ideas</a>."  Below, you'll find two ideas chosen at random from our  community-generated pool, and will be asked to click on the one you find  more important for ACH in 2012. You can also decline to decide between  the two ideas, or add a suggestion of your own. A "view results" tab  reveals the whole set of contributed ideas (helpful to read before  suggesting a new one!) as ranked by the community.</span><br /><br /> <span style="font-size: x-small;"> ACH can't undertake every project you suggest, but we do promise to  take our members' and community's views very seriously and to address as  many of them as we can, in open dialogue.</span> </div></blockquote><blockquote class="tr_bq"><div class="content"> <span style="font-size: x-small;"> Both association <a href="http://ach.org/membership">members</a> and  non-members are welcome to contribute to this process, and we are only  moderating new submissions to prevent unproductive overlap or to clarify  language.</span> </div></blockquote><blockquote class="tr_bq"><div class="content"> <span style="font-size: x-small;"> <a href="http://ach.org/open-agenda-setting-2012">Please take a moment to share your views</a></span></div></blockquote></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2271101941474896720/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2271101941474896720/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/05/association-for-computers-and.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2271101941474896720"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2271101941474896720"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/05/association-for-computers-and.html"
          title="The Association for Computers and the Humanities: Open Agenda-Setting 2012"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

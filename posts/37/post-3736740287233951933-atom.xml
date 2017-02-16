@@ -1,120 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3736740287233951933</id>
-    <published>2014-05-12T12:00:00.002-04:00</published>
-    <updated>2014-05-12T12:00:33.260-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3736740287233951933</id>
+   <published>2014-05-12T12:00:00.002-04:00</published>
+   <updated>2016-08-17T11:30:16.914-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Early Journal Content In JSTOR</title>
-    <content type="html"><![CDATA[On September 6, 2011, JSTOR <a
-      href="http://about.jstor.org/service/early-journal-content">announced </a>that journal
-      content in JSTOR published prior to 1923 in the United States and prior to 1870 elsewhere would
-      be freely available to anyone, anywhere in the world.&nbsp; This “Early Journal Content”
-      includes discourse and scholarship in the arts and humanities, economics and politics, and in
-      mathematics and other sciences.&nbsp; It includes nearly 500,000 articles from more than
-      200 journals. This represents 6% of the content on JSTOR.<br /><br />Following is
-      the list of Open Access Early Journal Content" relating to Antiquity <br
-      /><ul><li><span style="font-size: small;"><a
-      href="http://www.jstor.org/action/showPublication?journalCode=amerjarch"
-      target="_blank"><span class="journalTitle langMatch">American Journal of
-      Archaeology</span></a> <span class="journalTitle
-      langMatch">(</span>Open Access Backfiles)</span></li><li><span
-      style="font-size: small;"><a
-      href="http://www.jstor.org/action/showPublication?journalCode=amerjphil"
-      target="_blank"><span class="journalTitle langMatch">The American Journal of
-      Philology</span></a><span class="journalTitle langMatch">
-      </span><span class="journalTitle langMatch"><span class="journalTitle
-      langMatch">(</span>Open Access Backfiles)
-      </span></span></li><li><span style="font-size: small;"><span
-      class="journalTitle langMatch"><a href="http://www.jstor.org/journals/10620516.html"
-      target="_blank"><span class="journalTitle langMatch">The American Journal of Semitic
-      Languages and Literatures</span></a><span class="journalTitle
-      langMatch">&nbsp;</span></span><span class="journalTitle
-      langMatch"><span class="journalTitle langMatch"> <span class="journalTitle
-      langMatch">(</span>Open Access Backfiles)&nbsp;</span>
-      </span></span></li><li><span style="font-size: small;"><span
-      class="journalTitle langMatch"><a href="http://www.jstor.org/journals/1940641X.html"
-      target="_blank">The Classical Weekly</a><span class="journalTitle langMatch">
-      <span class="journalTitle langMatch">(</span>Open Access
-      Backfiles)&nbsp;</span> </span></span></li><li><span
-      style="font-size: small;"><a
-      href="http://www.jstor.org/action/showPublication?journalCode=classicalj"><span><span
-      style="font-weight: normal;"><span class="journalTitle langMatch">The Classical
-      Journal</span></span></span></a><span><span
-      style="font-weight: normal;"><span class="journalTitle
-      langMatch">&nbsp;</span></span></span> <span class="journalTitle
-      langMatch">(</span>Open Access Backfiles)</span></li><li><span
-      style="font-size: small;"><a
-      href="http://www.jstor.org/action/showPublication?journalCode=clasphil"><span
-      class="journalTitle langMatch">Classical Philology</span></a><span
-      class="journalTitle langMatch"> (</span>Open Access
-      Backfiles)</span></li><li><span style="font-size: small;"><a
-      href="http://www.jstor.org/journals/00730688.html" target="_blank"><span><span
-      style="font-weight: normal;"><span class="journalTitle langMatch">Harvard Studies in
-      Classical Philology</span></span></span></a><span><span
-      style="font-weight: normal;"><span class="journalTitle
-      langMatch">&nbsp;</span></span></span>&nbsp; <span><span
-      style="font-weight: normal;"><span class="journalTitle langMatch"><span
-      class="journalTitle langMatch">(</span>Open Access
-      Backfiles)&nbsp;</span></span></span></span>
-      </li><li><span style="font-size: small;"><a
-      href="http://www.jstor.org/action/showPublication?journalCode=hebraica"
-      target="_blank"><span><span style="font-weight: normal;"><span
-      class="journalTitle
-      langMatch">Hebraica</span></span></span></a><span><span
-      style="font-weight: normal;"><span class="journalTitle
-      langMatch">&nbsp;</span></span></span><span><span
-      style="font-weight: normal;"><span class="journalTitle langMatch"> <span
-      class="journalTitle langMatch">(</span>Open Access Backfiles)
-      </span></span></span></span></li><li><span
-      style="font-size: small;"><a
-      href="http://www.jstor.org/action/showPublication?journalCode=jewiquarrevi">The Jewish
-      Quarterly Review</a> (Open Access Backfiles)</span></li><li><span
-      style="font-size: small;"><a href="http://www.jstor.org/journals/00030279.html"
-      target="_blank"><span><span style="font-weight: normal;"><span
-      class="journalTitle langMatch">Journal of the American Oriental
-      Society</span></span></span></a><span class="journalTitle
-      langMatch">(</span>Open Access Backfiles)</span></li><li><span
-      style="font-size: small;"><a
-      href="http://www.jstor.org/action/showPublication?journalCode=jbibllite">The Journal of
-      Biblical Literature</a> (Open Access Backfiles)</span></li><li><span
-      style="font-size: small;"><a
-      href="http://www.jstor.org/action/showPublication?journalCode=tranprocamerphil">Transactions
-      and Proceedings of the American Philological Association</a> (Open Access
-      Backfiles)</span></li></ul><div style="text-align: center;"><span
-      class="Apple-style-span" style="color: #333333; font-family: 'Times New Roman'; line-height:
-      25px;">See the full&nbsp;</span><span class="Apple-style-span" style="color:
-      #333333; font-family: 'Times New Roman'; line-height: 25px;"><a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html"
-      style="color: #5588aa; text-decoration: none;">List of Open Access Journals in Ancient
-      Studies</a></span></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Early Journal Content In JSTOR</title>
+   <content type="html"><![CDATA[On September 6, 2011, JSTOR <a href="http://about.jstor.org/service/early-journal-content">announced </a>that journal content in JSTOR published prior to 1923 in the United States  and prior to 1870 elsewhere would be freely available to anyone, anywhere in the  world.&nbsp; This “Early Journal Content” includes discourse and scholarship  in the arts and humanities, economics and politics, and in mathematics  and other sciences.&nbsp; It includes nearly 500,000 articles from more than  200 journals. This represents 6% of the content on JSTOR.<br /><br />Following is the list of Open Access Early Journal Content" relating to Antiquity <br /><ul><li><span style="font-size: small;"><a href="http://www.jstor.org/action/showPublication?journalCode=amerjarch" target="_blank"><span class="journalTitle langMatch">American Journal of Archaeology</span></a> <span class="journalTitle langMatch">(</span>Open Access Backfiles)</span></li><li><span style="font-size: small;"><a href="http://www.jstor.org/action/showPublication?journalCode=amerjphil" target="_blank"><span class="journalTitle langMatch">The American Journal of Philology</span></a><span class="journalTitle langMatch"> </span><span class="journalTitle langMatch"><span class="journalTitle langMatch">(</span>Open Access Backfiles) </span></span></li><li><span style="font-size: small;"><span class="journalTitle langMatch"><a href="http://www.jstor.org/journals/10620516.html" target="_blank"><span class="journalTitle langMatch">The American Journal of Semitic Languages and Literatures</span></a><span class="journalTitle langMatch">&nbsp;</span></span><span class="journalTitle langMatch"><span class="journalTitle langMatch"> <span class="journalTitle langMatch">(</span>Open Access Backfiles)&nbsp;</span> </span></span></li><li><span style="font-size: small;"><span class="journalTitle langMatch"><a href="http://www.jstor.org/journals/1940641X.html" target="_blank">The Classical Weekly</a><span class="journalTitle langMatch"> <span class="journalTitle langMatch">(</span>Open Access Backfiles)&nbsp;</span> </span></span></li><li><span style="font-size: small;"><a href="http://www.jstor.org/action/showPublication?journalCode=classicalj"><span style="font-weight: normal;"><span class="journalTitle langMatch">The Classical Journal</span></span></a><span style="font-weight: normal;"><span class="journalTitle langMatch">&nbsp;</span></span> <span class="journalTitle langMatch">(</span>Open Access Backfiles)</span></li><li><span style="font-size: small;"><a href="http://www.jstor.org/action/showPublication?journalCode=clasphil"><span class="journalTitle langMatch">Classical Philology</span></a><span class="journalTitle langMatch"> (</span>Open Access Backfiles)</span></li><li><span style="font-size: small;"><a href="http://www.jstor.org/journals/00730688.html" target="_blank"><span style="font-weight: normal;"><span class="journalTitle langMatch">Harvard Studies in Classical Philology</span></span></a><span style="font-weight: normal;"><span class="journalTitle langMatch">&nbsp;</span></span>&nbsp; <span style="font-weight: normal;"><span class="journalTitle langMatch"><span class="journalTitle langMatch">(</span>Open Access Backfiles)&nbsp;</span></span></span> </li><li><span style="font-size: small;"><a href="http://www.jstor.org/action/showPublication?journalCode=hebraica" target="_blank"><span style="font-weight: normal;"><span class="journalTitle langMatch">Hebraica</span></span></a><span style="font-weight: normal;"><span class="journalTitle langMatch">&nbsp;</span></span><span style="font-weight: normal;"><span class="journalTitle langMatch"> <span class="journalTitle langMatch">(</span>Open Access Backfiles) </span></span></span></li><li><span style="font-size: small;"><a href="http://www.jstor.org/action/showPublication?journalCode=jewiquarrevi">The Jewish Quarterly Review</a> (Open Access Backfiles)</span></li><li><span style="font-size: small;"><a href="http://www.jstor.org/journals/00030279.html" target="_blank"><span style="font-weight: normal;"><span class="journalTitle langMatch">Journal of the American Oriental Society</span></span></a><span class="journalTitle langMatch">(</span>Open Access Backfiles)</span></li><li><span style="font-size: small;"><a href="http://www.jstor.org/action/showPublication?journalCode=jbibllite">The Journal of Biblical Literature</a> (Open Access Backfiles)</span></li><li><span style="font-size: small;"><span><a href="https://www.jstor.org/journal/newyorklatileaf">The New York Latin Leaflet</a></span></span><span style="font-size: small;"><span>&nbsp;</span></span><span style="font-size: small;"><span><span style="font-size: small;"> (Open Access Backfiles)</span></span> </span></li><li><span style="font-size: small;"><a href="http://www.jstor.org/action/showPublication?journalCode=tranprocamerphil">Transactions and Proceedings of the American Philological Association</a> (Open Access Backfiles)</span></li></ul><div style="text-align: center;"><span class="Apple-style-span" style="color: #333333; font-family: &quot;times new roman&quot;; line-height: 25px;">See the full&nbsp;</span><span class="Apple-style-span" style="color: #333333; font-family: &quot;times new roman&quot;; line-height: 25px;"><a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html" style="color: #5588aa; text-decoration: none;">List of Open Access Journals in Ancient Studies</a></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3736740287233951933/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3736740287233951933/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/open-access-early-journal-content-in.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3736740287233951933"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3736740287233951933"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/open-access-early-journal-content-in.html"
          title="Open Access Early Journal Content In JSTOR"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

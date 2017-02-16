@@ -1,95 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5689959411101172819</id>
-    <published>2014-07-03T14:49:00.000-04:00</published>
-    <updated>2014-07-03T14:49:26.758-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5689959411101172819</id>
+   <published>2014-07-03T14:49:00.000-04:00</published>
+   <updated>2014-07-03T14:49:26.758-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="SBL"/>
-    <title type="text">Bible Odyssey</title>
-    <content type="html"><![CDATA[<a href="http://www.bibleodyssey.com/">Bible Odyssey</a><br
-      /><blockquote class="tr_bq"><img
-      alt="http://www.bibleodyssey.com/~/media/Images/SiteImages/logo.ashx?h=35&amp;w=326"
-      class="decoded"
-      src="http://www.bibleodyssey.com/%7E/media/Images/SiteImages/logo.ashx?h=35&amp;w=326"
-      /> </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><em>About the Society of Biblical Literature</em></span><br
-      /><span style="font-size: x-small;"><em>&nbsp;</em></span><br
-      /><span style="font-size: x-small;"></span><span style="font-size:
-      x-small;">Founded in 1880, the Society of Biblical Literature is the oldest and largest
-      learned society devoted to the critical investigation of the Bible based on the Humanities’
-      core disciplines. With over 8,000 members worldwide, it represents and convenes scholars whose
-      life work is in biblical and ancient Near Eastern studies. The SBL promotes the academic study
-      of the Bible and of sacred texts generally.</span><br /><br /><span
-      style="font-size: x-small;"></span><span style="font-size:
-      x-small;"><em>Why Bible Odyssey Website?</em></span><br /><br
-      /><span style="font-size: x-small;"></span><span style="font-size:
-      x-small;">The Bible is a revered text for many and holds an iconic status in American and
-      even global culture. And yet, studies show that people are unfamiliar with its key themes or
-      stories—and who can blame them? The Bible is not one book, but many: a compilation of poetry,
-      law codes, novellas, proverbs, gospels, and letters that were pulled together over the
-      centuries. Being literate about the Bible is a tall order—but an important one. Given the
-      Bible’s immense impact, our civic conversations and cultural awareness can only improve when we
-      are able to recognize key people, places, and passages of the
-      Bible.&nbsp;</span><br /><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;">In addition, readers are also
-      unfamiliar with critical approaches to the text. There is a big difference between
-      <em>Bible study</em>, which happens in a religious setting, and <em>study of
-      the Bible</em>, which happens in an academic one.&nbsp; Bible Odyssey addresses not
-      only the literacy gap but also the gap between the academy and the “street.” Why should Bible
-      scholars have all the fun? Wouldn’t <em>you</em> like to know about the Synoptic
-      Question, or about J, E, P, and D?</span></blockquote><div
-      id="nav"><blockquote> </blockquote><div
-      class="container_16"><blockquote> </blockquote><div class="grid_16 clearfix
-      omega"><blockquote> </blockquote><blockquote class="tr_bq"><ul
-      class="clearfix sf-js-enabled sf-shadow"><li class="gray"
-      id="ctl19_rptLeftNav_liContent_0"><blockquote><span style="font-size: x-small;">
-      <a href="http://www.bibleodyssey.com/en.aspx">Home</a>
-      </span></blockquote></li><li class="people"
-      id="ctl19_rptLeftNav_liContent_1"> <span style="font-size: x-small;"><a
-      href="http://www.bibleodyssey.com/en/people.aspx">People</a></span>
-      </li><li class="places" id="ctl19_rptLeftNav_liContent_2"> <span
-      style="font-size: x-small;"><a
-      href="http://www.bibleodyssey.com/en/places.aspx">Places</a></span>
-      </li><li class="passages" id="ctl19_rptLeftNav_liContent_3"> <span
-      style="font-size: x-small;"><a
-      href="http://www.bibleodyssey.com/en/passages.aspx">Passages</a></span>
-      </li></ul><span style="font-size: x-small;"> </span><ul class="right
-      clearfix sf-js-enabled sf-shadow"><li class="black"
-      id="ctl19_rptRightNav_liContent2_0"> <span style="font-size: x-small;"><a
-      href="http://www.bibleodyssey.com/en/bibles.aspx">Bibles</a></span>
-      </li><li class="black" id="ctl19_rptRightNav_liContent2_1"><span
-      style="font-size: x-small;"> <a class="sf-with-ul"
-      href="http://www.bibleodyssey.com/en/tools.aspx">Tools</a></span>
-      </li></ul></blockquote></div></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="SBL"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
+   <title type="text">Bible Odyssey</title>
+   <content type="html"><![CDATA[<a href="http://www.bibleodyssey.com/">Bible Odyssey</a><br /><blockquote class="tr_bq"><img alt="http://www.bibleodyssey.com/~/media/Images/SiteImages/logo.ashx?h=35&amp;w=326" class="decoded" src="http://www.bibleodyssey.com/%7E/media/Images/SiteImages/logo.ashx?h=35&amp;w=326" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><em>About the Society of Biblical Literature</em></span><br /><span style="font-size: x-small;"><em>&nbsp;</em></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Founded in 1880, the Society of Biblical Literature is the oldest and  largest learned society devoted to the critical investigation of the  Bible based on the Humanities’ core disciplines. With over 8,000 members  worldwide, it represents and convenes scholars whose life work is in  biblical and ancient Near Eastern studies. The SBL promotes the academic  study of the Bible and of sacred texts generally.</span><br /><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><em>Why Bible Odyssey Website?</em></span><br /><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">The Bible is a revered text for many and holds an iconic status in  American and even global culture. And yet, studies show that people are  unfamiliar with its key themes or stories—and who can blame them? The  Bible is not one book, but many: a compilation of poetry, law codes,  novellas, proverbs, gospels, and letters that were pulled together over  the centuries. Being literate about the Bible is a tall order—but an  important one. Given the Bible’s immense impact, our civic conversations  and cultural awareness can only improve when we are able to recognize  key people, places, and passages of the Bible.&nbsp;</span><br /><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">In addition, readers are also unfamiliar with critical approaches to the text. There is a big difference between <em>Bible study</em>, which happens in a religious setting, and <em>study of the Bible</em>,  which happens in an academic one.&nbsp; Bible Odyssey addresses not only the  literacy gap but also the gap between the academy and the “street.” Why  should Bible scholars have all the fun? Wouldn’t <em>you</em> like to know about the Synoptic Question, or about J, E, P, and D?</span></blockquote><div id="nav"><blockquote>	</blockquote><div class="container_16"><blockquote>		</blockquote><div class="grid_16 clearfix omega"><blockquote>             			        </blockquote><blockquote class="tr_bq"><ul class="clearfix sf-js-enabled sf-shadow"><li class="gray" id="ctl19_rptLeftNav_liContent_0"><blockquote><span style="font-size: x-small;">                        <a href="http://www.bibleodyssey.com/en.aspx">Home</a>                         			        </span></blockquote></li><li class="people" id="ctl19_rptLeftNav_liContent_1">                        <span style="font-size: x-small;"><a href="http://www.bibleodyssey.com/en/people.aspx">People</a></span>                         			        </li><li class="places" id="ctl19_rptLeftNav_liContent_2">                        <span style="font-size: x-small;"><a href="http://www.bibleodyssey.com/en/places.aspx">Places</a></span>                         			        </li><li class="passages" id="ctl19_rptLeftNav_liContent_3">                        <span style="font-size: x-small;"><a href="http://www.bibleodyssey.com/en/passages.aspx">Passages</a></span>                         			        </li></ul><span style="font-size: x-small;">                               			        </span><ul class="right clearfix sf-js-enabled sf-shadow"><li class="black" id="ctl19_rptRightNav_liContent2_0">                        <span style="font-size: x-small;"><a href="http://www.bibleodyssey.com/en/bibles.aspx">Bibles</a></span>                                             </li><li class="black" id="ctl19_rptRightNav_liContent2_1"><span style="font-size: x-small;">                        <a class="sf-with-ul" href="http://www.bibleodyssey.com/en/tools.aspx">Tools</a></span>                                             </li></ul></blockquote></div></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5689959411101172819/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5689959411101172819/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/07/bible-odyssey.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5689959411101172819"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5689959411101172819"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/07/bible-odyssey.html"
          title="Bible Odyssey"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,196 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7659231527249388890</id>
-    <published>2014-09-22T18:25:00.003-04:00</published>
-    <updated>2014-09-23T05:52:13.807-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7659231527249388890</id>
+   <published>2014-09-22T18:25:00.003-04:00</published>
+   <updated>2014-09-23T05:52:13.807-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Iraq"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Mesopotamia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Open Access Monograph Series: Ur Excavations </title>
-    <content type="html"><![CDATA[Publications of the Joint Expedition of the British Museum and of the
-      University Museum,University of Pennsylvania, Philadelphia to Mesopotamia: Ur Excavations
-      <span style="font-size: xx-small;"><span class="views-field-view-node">
-      </span></span> <br /><ul><li> <span style="font-size:
-      xx-small;"><span class="views-field-field-abzu-creator-value"> <span
-      style="font-family: inherit;"><span class="field-content" style="font-size:
-      x-small;">Woolley, Leonard, Sir, 1880-1960.</span><span style="font-size:
-      x-small;"> </span></span></span><span style="font-family:
-      inherit;"><span style="font-size: x-small;"> <span class="views-field-title">
-      <span class="field-content"><a
-      href="http://www.etana.org/sites/default/files/coretexts/20263.pdf">Ur Excavations II: The
-      Royal Cemetery, Text</a>.</span> </span> <span
-      class="views-field-field-abzu-source-value"> <span
-      class="field-content"><i>ETANA</i>.</span> </span> <span
-      class="views-field-field-abzu-pubdate-value"> <span
-      class="field-content">1927.</span> </span><span
-      class="views-field-view-node"> </span></span></span></span><span
-      style="font-family: inherit;"><span style="font-size: x-small;">
-      </span></span></li><span style="font-family: inherit;"><span
-      style="font-size: x-small;"></span></span><li> <span
-      style="font-family: inherit;"><span class="views-field-field-abzu-creator-value"
-      style="font-size: x-small;"> <span class="field-content">Woolley, Leonard, Sir,
-      1880-1960.</span> </span><span style="font-size: x-small;"> <span
-      class="views-field-title"> <span class="field-content"><a
-      href="http://www.etana.org/sites/default/files/coretexts/20264.pdf">Ur Excavations II: The
-      Royal Cemetery, Plates.</a>.</span> </span> <span
-      class="views-field-field-abzu-source-value"> <span
-      class="field-content"><i>ETANA</i>.</span> </span> <span
-      class="views-field-field-abzu-pubdate-value"> <span
-      class="field-content">1927.</span>&nbsp;</span><span
-      class="views-field-view-node"> </span></span></span> </li><span
-      style="font-family: inherit;"><span style="font-size:
-      x-small;"></span></span><li> <span style="font-family:
-      inherit;"><span class="views-field-field-abzu-creator-value" style="font-size:
-      x-small;"> <span class="field-content">Woolley, Leonard, Sir, 1880-1960.</span>
-      </span><span style="font-size: x-small;"> <span class="views-field-title">
-      <span class="field-content"><a
-      href="http://www.etana.org/sites/default/files/coretexts/20262.pdf">Ur excavations IV: The
-      Early Periods</a>.</span> </span> <span
-      class="views-field-field-abzu-source-value"> <span
-      class="field-content"><i>ETANA</i>.</span> </span> <span
-      class="views-field-field-abzu-pubdate-value"> <span
-      class="field-content">1927.</span> </span><span
-      class="views-field-view-node"> </span></span></span> </li><span
-      style="font-family: inherit;"><span style="font-size:
-      x-small;"></span></span><li> <span style="font-family:
-      inherit;"><span class="views-field-field-abzu-creator-value" style="font-size:
-      x-small;"> <span class="field-content">Woolley, Leonard, Sir, 1880-1960.</span>
-      </span><span style="font-size: x-small;"> <span class="views-field-title">
-      <span class="field-content"><a
-      href="http://www.etana.org/sites/default/files/coretexts/">Ur Excavations V: The ziggurat
-      and its surroundings</a>.</span> </span> <span
-      class="views-field-field-abzu-pubdate-value"> <span
-      class="field-content">1939.</span>&nbsp;</span></span></span></li><span
-      style="font-family: inherit;"><span style="font-size:
-      x-small;"></span></span><li> <span style="font-family:
-      inherit;"><span class="views-field-field-abzu-creator-value" style="font-size:
-      x-small;"> <span class="field-content">Woolley, Leonard, Sir, 1880-1960.</span>
-      </span><span style="font-size: x-small;"> <span class="views-field-title">
-      <span class="field-content"><a
-      href="http://www.etana.org/sites/default/files/coretexts/20260.pdf">Ur Excavations VI: The
-      Ur III Period</a>.</span> </span> <span
-      class="views-field-field-abzu-source-value"> <span
-      class="field-content"><i>ETANA</i>.</span> </span> <span
-      class="views-field-field-abzu-pubdate-value"> <span
-      class="field-content">1927.</span> </span><span
-      class="views-field-view-node"> </span></span></span> </li><span
-      style="font-family: inherit;"><span style="font-size:
-      x-small;"></span></span><li> <span style="font-family:
-      inherit;"><span class="views-field-field-abzu-creator-value" style="font-size:
-      x-small;"> <span class="field-content">Woolley, Leonard, Sir, 1880-1960; Mallowan,
-      Max.</span> </span><span style="font-size: x-small;"> <span
-      class="views-field-title"> <span class="field-content"><a
-      href="http://www.etana.org/sites/default/files/coretexts/20259.pdf">Ur Excavations VII: The
-      Old Babylonian Period</a>.</span> </span> <span
-      class="views-field-field-abzu-source-value"> <span
-      class="field-content"><i>ETANA</i>.</span> </span> <span
-      class="views-field-field-abzu-pubdate-value"> <span
-      class="field-content">1927.</span>&nbsp;</span></span></span></li><span
-      style="font-family: inherit;"><span style="font-size:
-      x-small;"></span></span><li> <span style="font-family:
-      inherit;"><span class="views-field-field-abzu-creator-value" style="font-size:
-      x-small;"> <span class="field-content">Woolley, Leonard, Sir, 1880-1960.</span>
-      </span><span style="font-size: x-small;"> <span class="views-field-title">
-      <span class="field-content"><a
-      href="http://www.etana.org/sites/default/files/coretexts/20258.pdf">Ur Excavations VIII: The
-      Kassite Period</a>.</span> </span> <span
-      class="views-field-field-abzu-source-value"> <span
-      class="field-content"><i>ETANA</i>.</span> </span> <span
-      class="views-field-field-abzu-pubdate-value"> <span
-      class="field-content">1927.</span>&nbsp;</span></span></span></li><span
-      style="font-family: inherit;"><span style="font-size:
-      x-small;"></span></span><li><span style="font-family:
-      inherit;"><span class="views-field-view-node" style="font-size: x-small;">Woolley,
-      Leonard, Sir 1880-1960 <a
-      href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/3507/rec/3">Ur
-      Excavations IX: The Neo-Basbylonian and Persian Period</a>s. <i>AMAR</i>,
-      1962&nbsp;&nbsp; </span></span></li><span style="font-family:
-      inherit;"><span style="font-size:
-      x-small;"></span></span></ul><ul><li><span
-      style="font-family: inherit;"><span style="font-size: x-small;"><span><span
-      class="views-field-field-abzu-creator-value"><span class="field-content">Gadd, C. J.;
-      Legrain, L.</span> </span> <span class="views-field-title"> <span
-      class="field-content"><a
-      href="http://www.etana.org/sites/default/files/coretexts/20361.pdf">Ur Excavation Texts I:
-      Royal Inscriptions. Text.</a>.</span> </span> <span
-      class="views-field-field-abzu-source-value"> <span
-      class="field-content"><em>ETANA</em>.</span> </span> <span
-      class="views-field-field-abzu-pubdate-value"> <span
-      class="field-content">1928.</span></span><span
-      class="views-field-view-node"><span
-      class="field-content"></span></span></span><span><span
-      class="views-field-field-abzu-creator-value"><span
-      class="field-content">&nbsp;</span></span></span></span></span></li><li><span
-      style="font-size: xx-small;"><span style="font-family: inherit;"><span
-      style="font-size: x-small;"><span
-      class="views-field-field-abzu-creator-value"><span class="field-content">Gadd, C. J.;
-      Legrain, L.</span> </span> <span class="views-field-title"> <span
-      class="field-content"><a
-      href="http://www.etana.org/sites/default/files/coretexts/20362.pdf">Ur Excavation Texts I:
-      Royal Inscriptions. Plates.</a>.</span> </span> <span
-      class="views-field-field-abzu-source-value"> <span
-      class="field-content"><em>ETANA</em>.</span> </span> <span
-      class="views-field-field-abzu-pubdate-value"> <span
-      class="field-content">1928.</span></span></span></span></span></li><li><span
-      style="font-size: xx-small;"><span style="font-family: inherit;"><span
-      style="font-size: x-small;"><span
-      class="views-field-field-abzu-pubdate-value"><span class="field-content"><span
-      style="font-family: inherit;"><span style="font-size: x-small;"><span><span
-      class="views-field-field-abzu-creator-value"> <span class="field-content">Burrows,
-      Eric R.</span> </span> <span class="views-field-title"> <span
-      class="field-content"><a
-      href="http://www.etana.org/sites/default/files/coretexts/20128.pdf">Ur Excavation Texts II:
-      Archaic Texts</a>.</span> </span> <span
-      class="views-field-field-abzu-source-value"> <span
-      class="field-content"><em>ETANA</em>.</span> </span> <span
-      class="views-field-field-abzu-pubdate-value"> <span
-      class="field-content">1935</span></span></span></span></span>
-      </span></span></span></span><span
-      class="views-field-view-node"><span class="field-content"></span>
-      </span></span> </li></ul><br /><div style="text-align:
-      center;"><span style="font-size: small;">See <a
-      href="http://urcrowdsource.org/omeka/">UrCrowdsource</a></span></div><div
-      style="text-align: center;"><span style="font-size: small;">And see&nbsp; <a
-      href="http://www.urarchaeology.org/">Ur Region Archaeology
-      Project</a></span></div><div class="subTitle lightGrey" style="text-align:
-      center;"><span style="font-size: small;">And see <a
-      href="http://www.britishmuseum.org/research/research_projects/all_current_projects/ur_project.aspx">Ur
-      of the Chaldees: A virtual vision of Woolley's
-      excavations</a></span></div><div class="subTitle lightGrey"
-      style="text-align: center;"><br /></div><div class="subTitle lightGrey"
-      style="text-align: center;"><span style="font-size: small;">And see AWOL's <a
-      href="http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html">Alphabetical
-      List of Open Access Monograph Series in Ancient Studies</a>
-      </span></div><div class="heading"></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Mesopotamia"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Iraq"/>
+   <title type="text">Open Access Monograph Series: Ur Excavations </title>
+   <content type="html"><![CDATA[Publications of the Joint Expedition of the British Museum and of the University Museum,University of Pennsylvania, Philadelphia to Mesopotamia: Ur Excavations  <span style="font-size: xx-small;"><span class="views-field-view-node">  </span></span>  <br /><ul><li>         <span style="font-size: xx-small;"><span class="views-field-field-abzu-creator-value">                <span style="font-family: inherit;"><span class="field-content" style="font-size: x-small;">Woolley, Leonard, Sir, 1880-1960.</span><span style="font-size: x-small;">  </span></span></span><span style="font-family: inherit;"><span style="font-size: x-small;">     <span class="views-field-title">                <span class="field-content"><a href="http://www.etana.org/sites/default/files/coretexts/20263.pdf">Ur Excavations II:  The Royal Cemetery, Text</a>.</span>  </span>     <span class="views-field-field-abzu-source-value">                <span class="field-content"><i>ETANA</i>.</span>  </span>     <span class="views-field-field-abzu-pubdate-value">                <span class="field-content">1927.</span> </span><span class="views-field-view-node">  </span></span></span></span><span style="font-family: inherit;"><span style="font-size: x-small;">        </span></span></li><span style="font-family: inherit;"><span style="font-size: x-small;"></span></span><li>         <span style="font-family: inherit;"><span class="views-field-field-abzu-creator-value" style="font-size: x-small;">                <span class="field-content">Woolley, Leonard, Sir, 1880-1960.</span>  </span><span style="font-size: x-small;">     <span class="views-field-title">                <span class="field-content"><a href="http://www.etana.org/sites/default/files/coretexts/20264.pdf">Ur Excavations II:  The Royal Cemetery, Plates.</a>.</span>  </span>     <span class="views-field-field-abzu-source-value">                <span class="field-content"><i>ETANA</i>.</span>  </span>     <span class="views-field-field-abzu-pubdate-value">                <span class="field-content">1927.</span>&nbsp;</span><span class="views-field-view-node">  </span></span></span>        </li><span style="font-family: inherit;"><span style="font-size: x-small;"></span></span><li>         <span style="font-family: inherit;"><span class="views-field-field-abzu-creator-value" style="font-size: x-small;">                <span class="field-content">Woolley, Leonard, Sir, 1880-1960.</span>  </span><span style="font-size: x-small;">     <span class="views-field-title">                <span class="field-content"><a href="http://www.etana.org/sites/default/files/coretexts/20262.pdf">Ur excavations IV:  The Early Periods</a>.</span>  </span>     <span class="views-field-field-abzu-source-value">                <span class="field-content"><i>ETANA</i>.</span>  </span>     <span class="views-field-field-abzu-pubdate-value">                <span class="field-content">1927.</span> </span><span class="views-field-view-node">  </span></span></span>        </li><span style="font-family: inherit;"><span style="font-size: x-small;"></span></span><li>         <span style="font-family: inherit;"><span class="views-field-field-abzu-creator-value" style="font-size: x-small;">                <span class="field-content">Woolley, Leonard, Sir, 1880-1960.</span>  </span><span style="font-size: x-small;">     <span class="views-field-title">                <span class="field-content"><a href="http://www.etana.org/sites/default/files/coretexts/">Ur Excavations V:  The ziggurat and its surroundings</a>.</span>  </span>     <span class="views-field-field-abzu-pubdate-value">                <span class="field-content">1939.</span>&nbsp;</span></span></span></li><span style="font-family: inherit;"><span style="font-size: x-small;"></span></span><li>         <span style="font-family: inherit;"><span class="views-field-field-abzu-creator-value" style="font-size: x-small;">                <span class="field-content">Woolley, Leonard, Sir, 1880-1960.</span>  </span><span style="font-size: x-small;">     <span class="views-field-title">                <span class="field-content"><a href="http://www.etana.org/sites/default/files/coretexts/20260.pdf">Ur Excavations VI:  The Ur III Period</a>.</span>  </span>     <span class="views-field-field-abzu-source-value">                <span class="field-content"><i>ETANA</i>.</span>  </span>     <span class="views-field-field-abzu-pubdate-value">                <span class="field-content">1927.</span> </span><span class="views-field-view-node">  </span></span></span>        </li><span style="font-family: inherit;"><span style="font-size: x-small;"></span></span><li>         <span style="font-family: inherit;"><span class="views-field-field-abzu-creator-value" style="font-size: x-small;">                <span class="field-content">Woolley, Leonard, Sir, 1880-1960; Mallowan, Max.</span>  </span><span style="font-size: x-small;">     <span class="views-field-title">                <span class="field-content"><a href="http://www.etana.org/sites/default/files/coretexts/20259.pdf">Ur Excavations VII: The Old Babylonian Period</a>.</span>  </span>     <span class="views-field-field-abzu-source-value">                <span class="field-content"><i>ETANA</i>.</span>  </span>     <span class="views-field-field-abzu-pubdate-value">                <span class="field-content">1927.</span>&nbsp;</span></span></span></li><span style="font-family: inherit;"><span style="font-size: x-small;"></span></span><li>         <span style="font-family: inherit;"><span class="views-field-field-abzu-creator-value" style="font-size: x-small;">                <span class="field-content">Woolley, Leonard, Sir, 1880-1960.</span>  </span><span style="font-size: x-small;">     <span class="views-field-title">                <span class="field-content"><a href="http://www.etana.org/sites/default/files/coretexts/20258.pdf">Ur Excavations VIII:  The Kassite Period</a>.</span>  </span>     <span class="views-field-field-abzu-source-value">                <span class="field-content"><i>ETANA</i>.</span>  </span>     <span class="views-field-field-abzu-pubdate-value">                <span class="field-content">1927.</span>&nbsp;</span></span></span></li><span style="font-family: inherit;"><span style="font-size: x-small;"></span></span><li><span style="font-family: inherit;"><span class="views-field-view-node" style="font-size: x-small;">Woolley, Leonard, Sir 1880-1960 <a href="http://digital.library.stonybrook.edu/cdm/compoundobject/collection/amar/id/3507/rec/3">Ur Excavations IX: The Neo-Basbylonian and Persian Period</a>s. <i>AMAR</i>, 1962&nbsp;&nbsp; </span></span></li><span style="font-family: inherit;"><span style="font-size: x-small;"></span></span></ul><ul><li><span style="font-family: inherit;"><span style="font-size: x-small;"><span><span class="views-field-field-abzu-creator-value"><span class="field-content">Gadd, C. J.; Legrain, L.</span>  </span>     <span class="views-field-title">                <span class="field-content"><a href="http://www.etana.org/sites/default/files/coretexts/20361.pdf">Ur Excavation Texts I: Royal Inscriptions. Text.</a>.</span>  </span>     <span class="views-field-field-abzu-source-value">                <span class="field-content"><em>ETANA</em>.</span>  </span>     <span class="views-field-field-abzu-pubdate-value">                <span class="field-content">1928.</span></span><span class="views-field-view-node"><span class="field-content"></span></span></span><span><span class="views-field-field-abzu-creator-value"><span class="field-content">&nbsp;</span></span></span></span></span></li><li><span style="font-size: xx-small;"><span style="font-family: inherit;"><span style="font-size: x-small;"><span class="views-field-field-abzu-creator-value"><span class="field-content">Gadd, C. J.; Legrain, L.</span>  </span>     <span class="views-field-title">                <span class="field-content"><a href="http://www.etana.org/sites/default/files/coretexts/20362.pdf">Ur Excavation Texts I: Royal Inscriptions.  Plates.</a>.</span>  </span>     <span class="views-field-field-abzu-source-value">                <span class="field-content"><em>ETANA</em>.</span>  </span>     <span class="views-field-field-abzu-pubdate-value">                <span class="field-content">1928.</span></span></span></span></span></li><li><span style="font-size: xx-small;"><span style="font-family: inherit;"><span style="font-size: x-small;"><span class="views-field-field-abzu-pubdate-value"><span class="field-content"><span style="font-family: inherit;"><span style="font-size: x-small;"><span><span class="views-field-field-abzu-creator-value">                <span class="field-content">Burrows, Eric R.</span>  </span>     <span class="views-field-title">                <span class="field-content"><a href="http://www.etana.org/sites/default/files/coretexts/20128.pdf">Ur Excavation Texts II: Archaic Texts</a>.</span>  </span>     <span class="views-field-field-abzu-source-value">                <span class="field-content"><em>ETANA</em>.</span>  </span>     <span class="views-field-field-abzu-pubdate-value">                <span class="field-content">1935</span></span></span></span></span> </span></span></span></span><span class="views-field-view-node"><span class="field-content"></span>  </span></span>        </li></ul><br /><div style="text-align: center;"><span style="font-size: small;">See <a href="http://urcrowdsource.org/omeka/">UrCrowdsource</a></span></div><div style="text-align: center;"><span style="font-size: small;">And see&nbsp; <a href="http://www.urarchaeology.org/">Ur Region Archaeology Project</a></span></div><div class="subTitle lightGrey" style="text-align: center;"><span style="font-size: small;">And see <a href="http://www.britishmuseum.org/research/research_projects/all_current_projects/ur_project.aspx">Ur of the Chaldees: A virtual vision of Woolley's excavations</a></span></div><div class="subTitle lightGrey" style="text-align: center;"><br /></div><div class="subTitle lightGrey" style="text-align: center;"><span style="font-size: small;">And see AWOL's <a href="http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html">Alphabetical List of Open Access Monograph Series in Ancient Studies</a> </span></div><div class="heading"></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7659231527249388890/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7659231527249388890/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/open-access-monograph-series-ur.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7659231527249388890"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7659231527249388890"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/open-access-monograph-series-ur.html"
          title="Open Access Monograph Series: Ur Excavations "/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

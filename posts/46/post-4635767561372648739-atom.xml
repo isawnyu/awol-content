@@ -1,90 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4635767561372648739</id>
-    <published>2014-09-02T10:30:00.000-04:00</published>
-    <updated>2014-09-02T17:54:10.963-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4635767561372648739</id>
+   <published>2014-09-02T10:30:00.000-04:00</published>
+   <updated>2014-09-02T17:54:10.963-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Atlas"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Maps"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Atlas"/>
-    <title type="text">OmnesViae: Roman Routeplanner: a reconstruction of an antique Roman map with
-      internet technology</title>
-    <content type="html"><![CDATA[<a href="http://www.omnesviae.org/">OmnesViae: Roman Routeplanner: a
-      reconstruction of an antique Roman map with internet technology</a><br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">OmnesViae.org is
-      an initiative by René Voorburg. It is born out of a fascination for the culture of the ancient
-      Romans. OmnesViae wouldn't have been possible without <a
-      href="http://cambridge.org/us/talbert/">Richard Talbert's research work</a> on the
-      Tabula Peutingeriana.</span> </blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">Between March and September 2011, I've spent hundreds of hours
-      of scarce spare time creating OmnesViae. Therefor I would like to thank my wife Mariet above
-      all for her patience with my obsessive zeal.</span> </blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;">OmnesViae is not just the work of one
-      person. The website <a
-      href="http://www.tabula-peutingeriana.de/">http://www.tabula-peutingeriana.de/</a> by
-      Martin Weber proved to be a useful reference and a handy source for current day place names.
-      The geolocations in OmnesViae are for a large part obtained from the <a
-      href="http://pleiades.stoa.org/">Pleiades initiative</a>. Many people gave me feedback
-      or helped me with translations. I particularly would like to thank Maria Tzaneti, Marlene
-      Sturm, Tim Koster, Martin Weber, Hans de Bode, Ben Mugnier, Eric Rulier, Wouter Kool, Aad
-      Oliehoek and Claude Chauviere.</span><br /><h2><span style="font-size:
-      x-small;">Rights</span></h2><span style="font-size: x-small;">I don't
-      claim ownership of any underlying data, not even for the parts that are the fruit of my own
-      research work. I kindly ask the creators of derived works to make the data behind those works
-      also freely available. When using data or output from OmnesViae, please create a link or
-      reference to this work. Please let me know when you use OmnesViae in your publications or
-      derived works. </span><br /><h2><span style="font-size:
-      x-small;">Participate</span></h2><span style="font-size: x-small;">You can
-      help to improve OmnesViae!</span><br /><ul><li><span
-      style="font-size: x-small;">Not all places have a geolocation yet. The route network of the
-      Peutingeriana can offer a great help in finding candidates for the locations of currently
-      un-alocated places. Let me know if you have aquired evidence for a missing location. When
-      adding new locations I aim to cooperate with the Pleiades
-      initiative.</span></li><li><span style="font-size: x-small;">Routes
-      sometimes follow strange curves or even cross themselves. The cause for this might be
-      (copying?) errors in the Tabula Peutingeriana itself (this seems to be the case near 'Catispi')
-      but incorrect geolocations could also be a cause. Substantiated suggestions for the better
-      gelocations for given places are very welcome. I aim to cooperate in this with the Pleiades
-      initiative.</span></li><li><span style="font-size: x-small;">In
-      reality, a planned route is not always the shortest possible route. This is caused by missing
-      distance figures on the Peutingeriana. My aim is to solve this by adding reconstructed
-      distances when required. Please let me know if you have suggestions for connections where the
-      lack of a distance figure leads to suboptimal routes.</span></li><li><span
-      style="font-size: x-small;">I think it would be great to have OmnesViae available in each
-      language spoken in the countries that were part of the Roman empire. If you are willing to
-      help, please let me know and I'll be happy to send you some
-      instructions.</span></li></ul></blockquote><div style="text-align:
-      center;"><br /></div><div style="text-align: center;">&nbsp;And see
-      AWOL's <a
-      href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup
-      of Resources on Ancient Geography</a></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Maps"/>
+   <title type="text">OmnesViae: Roman Routeplanner: a reconstruction of an antique Roman map with internet technology</title>
+   <content type="html"><![CDATA[<a href="http://www.omnesviae.org/">OmnesViae: Roman Routeplanner: a reconstruction of an antique Roman map with internet technology</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">OmnesViae.org is an initiative by René Voorburg. It is born out of a  fascination for the culture of the ancient Romans. OmnesViae wouldn't  have been possible without <a href="http://cambridge.org/us/talbert/">Richard Talbert's research work</a> on the Tabula Peutingeriana.</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Between March and September 2011, I've spent hundreds of hours of scarce  spare time creating OmnesViae. Therefor I would like to thank my wife  Mariet above all for her patience with my obsessive zeal.</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">OmnesViae is not just the work of one person. The website <a href="http://www.tabula-peutingeriana.de/">http://www.tabula-peutingeriana.de/</a> by Martin Weber proved to be a useful reference and a handy source for  current day place names. The geolocations in OmnesViae are for a large  part obtained from the <a href="http://pleiades.stoa.org/">Pleiades initiative</a>.  Many people gave me feedback or helped me with translations. I  particularly would like to thank Maria Tzaneti, Marlene Sturm, Tim  Koster, Martin Weber, Hans de Bode, Ben Mugnier, Eric Rulier, Wouter  Kool, Aad Oliehoek and Claude Chauviere.</span><br /><h2><span style="font-size: x-small;">Rights</span></h2><span style="font-size: x-small;">I don't claim ownership of any underlying data, not even for the  parts that are the fruit of my own research work. I kindly ask the  creators of derived works to make the data behind those works also  freely available. When using data or output from OmnesViae, please  create a link or reference to this work. Please let me know when you use  OmnesViae in your publications or derived works. </span><br /><h2><span style="font-size: x-small;">Participate</span></h2><span style="font-size: x-small;">You can help to improve OmnesViae!</span><br /><ul><li><span style="font-size: x-small;">Not all places have a geolocation yet. The route network of the  Peutingeriana can offer a great help in finding candidates for the  locations of currently un-alocated places. Let me know if you have  aquired evidence for a missing location. When adding new locations I aim  to cooperate with the Pleiades initiative.</span></li><li><span style="font-size: x-small;">Routes sometimes follow strange curves or even cross themselves. The  cause for this might be (copying?) errors in the Tabula Peutingeriana  itself (this seems to be the case near 'Catispi') but incorrect  geolocations could also be a cause. Substantiated suggestions for the  better gelocations for given places are very welcome. I aim to cooperate  in this with the Pleiades initiative.</span></li><li><span style="font-size: x-small;">In reality, a planned route is not always the shortest possible  route. This is caused by missing distance figures on the Peutingeriana.  My aim is to solve this by adding reconstructed distances when required.  Please let me know if you have suggestions for connections where the  lack of a distance figure leads to suboptimal routes.</span></li><li><span style="font-size: x-small;">I think it would be great to have OmnesViae available in each  language spoken in the countries that were part of the Roman empire. If  you are willing to help, please let me know and I'll be happy to send  you some instructions.</span></li></ul></blockquote><div style="text-align: center;"><br /></div><div style="text-align: center;">&nbsp;And see AWOL's <a href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup of Resources on Ancient Geography</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4635767561372648739/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4635767561372648739/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/07/roman-roads-omnes-viae-itinerarium.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4635767561372648739"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4635767561372648739"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/07/roman-roads-omnes-viae-itinerarium.html"
          title="OmnesViae: Roman Routeplanner: a reconstruction of an antique Roman map with internet technology"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

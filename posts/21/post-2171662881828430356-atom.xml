@@ -1,71 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2171662881828430356</id>
-    <published>2011-05-27T11:54:00.000-04:00</published>
-    <updated>2011-05-27T11:54:31.520-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2171662881828430356</id>
+   <published>2016-04-08T08:26:00.000-04:00</published>
+   <updated>2016-04-08T08:26:38.958-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Archives of the Laboratoire Orient et Méditerranée</title>
-    <content type="html"><![CDATA[<a href="http://www.orient-mediterranee.com/">Le Laboratoire Orient et
-      Méditerranée</a><br /><blockquote><span class="spip_document_540
-      spip_documents spip_documents_right" style="float: right; width: 198px;"> <a
-      class="spip_in"
-      href="http://www.orient-mediterranee.com/IMG/swfclip_o_m_2009_320x240_.swf"><img alt=""
-      height="130" src="http://www.orient-mediterranee.com/IMG/jpg/image-initiale-clip_-_Copie.jpg"
-      width="198" /></a></span> <span style="font-size: x-small;"><a
-      class="spip_out" href="http://www.orient-mediterranee.com/">Orient &amp;
-      Méditerranée</a> est une Unité Mixte de Recherche, UMR 8167 en Sciences historiques,
-      philologiques et religieuses, associant le <a class="spip_out" href="http://www.cnrs.fr/"
-      rel="external">Centre National de la Recherche Scientifique, CNRS</a>, l’<a
-      class="spip_out" href="http://www.paris-sorbonne.fr/fr/" rel="external">Université
-      Paris-Sorbonne, Paris IV</a>, l’<a class="spip_out" href="http://www.univ-paris1.fr/"
-      rel="external">Université Panthéon-Sorbonne, Paris 1</a> et l’<a class="spip_out"
-      href="http://www.ephe.sorbonne.fr/" rel="external">École Pratique des Hautes
-      Études</a></span></blockquote><br /><br /><br /><br
-      /><blockquote><a href="http://halshs.archives-ouvertes.fr/OM/fr/">Archives
-      ouvertes : la collection de l’UMR Orient et Méditerranée</a></blockquote>Much (but
-      not all) of the output of the Laboratoire Orient et Méditerranée is available in open access.
-      Items accessible are marked by this icon: &nbsp;&nbsp;&nbsp; <a class="lienpage"
-      href="http://halshs.archives-ouvertes.fr/view_by_stamp.php?&amp;halsid=oogekpivecttecq83suj5g5j13&amp;label=OM&amp;langue=fr&amp;action_todo=view&amp;id=halshs-00587842&amp;version=1"><img
-      alt="fulltext access" border="0" src="http://static.archives-ouvertes.fr/images/havefile.gif"
-      valign="absmiddle" /></a><br /><blockquote><ul><li><a
-      href="http://halshs.archives-ouvertes.fr/view_by_stamp.php?&amp;halsid=oogekpivecttecq83suj5g5j13&amp;label=OM&amp;langue=fr&amp;action_todo=browse_byDate"
-      target="_self">Liste des articles</a></li><li><a
-      href="http://halshs.archives-ouvertes.fr/view_by_stamp.php?&amp;halsid=oogekpivecttecq83suj5g5j13&amp;label=OM&amp;langue=fr&amp;action_todo=browse_byDomain"
-      target="_self">Liste par domaine</a></li><li><a
-      href="http://halshs.archives-ouvertes.fr/view_by_stamp.php?&amp;halsid=oogekpivecttecq83suj5g5j13&amp;label=OM&amp;langue=fr&amp;action_todo=browse_byAuthor"
-      target="_self">Liste par auteurs</a></li><li><a
-      href="http://halshs.archives-ouvertes.fr/view_by_stamp.php?&amp;halsid=oogekpivecttecq83suj5g5j13&amp;label=OM&amp;langue=fr&amp;action_todo=browse_byLast"
-      target="_self">Derniers dépôts</a></li><li><a
-      href="http://halshs.archives-ouvertes.fr/view_by_stamp.php?&amp;halsid=oogekpivecttecq83suj5g5j13&amp;label=OM&amp;langue=fr&amp;action_todo=browse_byAnnee"
-      target="_self">Par année</a></li></ul></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Le Laboratoire Orient et Méditerranée</title>
+   <content type="html"><![CDATA[<a href="http://www.orient-mediterranee.com/">Le Laboratoire Orient et Méditerranée</a><br /><blockquote class="tr_bq"><img alt="http://www.orient-mediterranee.com/squelettes/images/orientmed/bg_logo.png" src="http://www.orient-mediterranee.com/squelettes/images/orientmed/bg_logo.png" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><a class="spip_out" href="http://www.orient-mediterranee.com/" target="_blank">Orient &amp; Méditerranée</a> est une Unité Mixte de Recherche, UMR 8167 en Sciences historiques, philologiques et religieuses, associant le <a class="spip_out" href="http://www.cnrs.fr/" rel="external" target="_blank">Centre National de la Recherche Scientifique, CNRS</a>, l’<a class="spip_out" href="http://www.paris-sorbonne.fr/fr/" rel="external" target="_blank">Université Paris-Sorbonne  Paris IV</a>, l’<a class="spip_out" href="http://www.univ-paris1.fr/" rel="external" target="_blank">Université Panthéon-Sorbonne, Paris 1</a>, l’<a class="spip_out" href="http://www.ephe.sorbonne.fr/" rel="external" target="_blank">École Pratique des Hautes Études</a> et <a class="spip_out" href="http://www.college-de-france.fr/site/college/index.htm" rel="external" target="_blank">le Collège de France</a>.</span><br />  <span style="font-size: x-small;">L’Unité rassemble <strong>six équipes</strong></span><br /> <ul class="spip"><li> <span style="font-size: x-small;"><a class="spip_in" href="http://www.orient-mediterranee.com/spip.php?rubrique574"><strong>Mondes pharaoniques</strong></a></span></li><li> <span style="font-size: x-small;"><a class="spip_in" href="http://www.orient-mediterranee.com/spip.php?rubrique102"><strong>Mondes sémitiques</strong></a></span></li><li> <span style="font-size: x-small;"><a class="spip_in" href="http://www.orient-mediterranee.com/spip.php?rubrique683"><strong>Antiquité classique et tardive</strong></a></span></li><li> <span style="font-size: x-small;"><a class="spip_in" href="http://www.orient-mediterranee.com/spip.php?rubrique314"><strong>Médecine grecque</strong></a></span></li><li> <span style="font-size: x-small;"><a class="spip_in" href="http://www.orient-mediterranee.com/spip.php?rubrique474"><strong>Monde byzantin</strong></a></span></li><li> <span style="font-size: x-small;"><a class="spip_in" href="http://www.orient-mediterranee.com/spip.php?rubrique570"><strong>Islam médiéval</strong></a></span></li></ul><span style="font-size: x-small;">Les recherches portent sur le Proche-Orient et le Monde méditerranéen  dans l’ensemble des disciplines des sciences humaines aux époques  antique et médiévale</span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2171662881828430356/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2171662881828430356/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/05/open-archives-of-laboratoire-orient-et.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2171662881828430356"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2171662881828430356"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/05/open-archives-of-laboratoire-orient-et.html"
-         title="Open Archives of the Laboratoire Orient et Méditerranée"/>
-    <author>
+         title="Le Laboratoire Orient et Méditerranée"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

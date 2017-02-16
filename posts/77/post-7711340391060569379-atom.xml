@@ -1,94 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7711340391060569379</id>
-    <published>2009-05-12T12:00:00.001-04:00</published>
-    <updated>2009-05-12T12:05:11.063-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7711340391060569379</id>
+   <published>2009-05-12T12:00:00.001-04:00</published>
+   <updated>2009-05-12T12:05:11.063-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Even more Oriental Institute publications online open access</title>
-    <content type="html"><![CDATA[On May 12st, 2009, the Oriental Institute published <a
-      href="http://oi.uchicago.edu/news/">another suite</a> of Egyptological titles from its
-      backlist:<br /><ul><br /><li><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oic/oic12.html">OIC 12. The Alphabet: Its
-      Rise and Development from the Sinai Inscriptions.</a> By Martin Sprengling. Originally
-      published in 1931.</li><br /><li><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oic/oic27.html">OIC 27. The Registry of
-      the Photographic Archives of the Epigraphic Survey, with Plates from Key Plans Showing
-      Locations of Theban Temple Decorations (H. H. Nelson).</a> The Epigraphic Survey.
-      Originally published in 1995.</li><br /><li><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oic/oic28.html">OIC 28. Bir Umm Fawakhir
-      Survey Project 1993: A Byzantine Gold-Mining Town in Egypt.</a> C. Meyer, L.A. Heidorn,
-      W.E. Kaegi, and T. Wilfong. Originally published in 2000.</li><br /><li><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip18.html">OIP 18. Paleolithic Man
-      and the Nile Valley in Upper and Middle Egypt: A Study of the Region during Pliocene and
-      Pleistocene Times.</a> By K. S. Sandford. Prehistoric Survey of Egypt and Western Asia,
-      Volume III. Originally published in 1934.</li><br /><li><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip46.html">OIP 46. Paleolithic Man
-      and the Nile Valley in Lower Egypt with Some Notes upon a Part of the Red Sea Littoral: A Study
-      of the Regions during Pliocene and Pleistocene Times.</a> By K. S. Sandford and W. J.
-      Arkell. Prehistoric Survey of Egypt and Western Asia, Volume IV. Originally published in
-      1939.</li><br /><li><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip73.html">OIP 73. The Egyptian
-      Coffin Texts 5: Texts of Spells 355-471.</a> By Adriaan de Buck. Originally published in
-      1954.</li><br /><li><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip113.html">OIP 113. The Oriental
-      Institute Hawara Papyri: Demotic and Greek Texts from an Egyptian Family Archive in the Fayum
-      (Fourth to Third Century B.C.).</a> G. R. Hughes and R. Jasnow. Originally published in
-      1997.</li><br /><li><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc26.html">SAOC 26. The Calendars
-      of Ancient Egypt.</a> By Richard A. Parker. Originally published in
-      1950.</li><br /><li><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc27.html">SAOC 27. Occurrences of
-      Pyramid Texts with Cross Indexes of These and Other Egyptian Mortuary Texts.</a> By
-      Thomas George Allen. Originally published in 1950.</li><br /><li><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc28.html">SAOC 28. Saite Demotic
-      Land Leases.</a> By George Robert Hughes. Originally published in 1952.</li><br
-      /><li><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc30.html">SAOC 30. Wall Scenes
-      from the Mortuary Chapel of the Mayor Paser at Medinet Habu.</a> By Siegfried Schott.
-      Translated By Elizabeth B. Hauser. Originally published in 1957.</li></ul>My list
-      of all Oriental Institute publications online is now updated to include these eleven
-      titles:<br /><br /><a
-      href="http://ancientworldbloggers.blogspot.com/2008/04/awol-ancient-world-online-2.html">AWOL
-      - The Ancient World Online - 2</a><br /><blockquote>The Oriental Institute
-      Electronic Publications Initiative. Originally posted April 9, 2008. Updated April 30, 2007
-      with the addition of more CAD and CHD volumes; updated September 16, 2008 with the addition of
-      OIP 130; updated January 6, 2009 with the addition of OIP 135; Updated January 27, 2009 with
-      the addition of OIMP 29. Updated March 16, 2009 with the addition of OIS 5. Update April 28,
-      2009 with the addition of a suite of older OI volumes on Egyptian subjects.<br /><br
-      />Starting in 2005, the Oriental Institute committed to digitizing all of its publications
-      and making them available online, without charge. The minimum for each volume, old and new,
-      current and forthcoming, will be a Portable Document Format (PDF) version following current
-      resolution standards. New publications appear online at or near the time they appear in print.
-      Older publications will be processed as time and funding permits. More than one hundred volumes
-      are now online.</blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Even more Oriental Institute publications online open access</title>
+   <content type="html"><![CDATA[On May 12st, 2009, the Oriental Institute published <a href="http://oi.uchicago.edu/news/">another suite</a> of Egyptological titles from its backlist:<br /><ul><br /><li><a href="http://oi.uchicago.edu/research/pubs/catalog/oic/oic12.html">OIC 12. The Alphabet: Its Rise and Development from the Sinai Inscriptions.</a> By Martin Sprengling. Originally published in 1931.</li><br /><li><a href="http://oi.uchicago.edu/research/pubs/catalog/oic/oic27.html">OIC 27. The Registry of the Photographic Archives of the Epigraphic Survey, with Plates from Key Plans Showing Locations of Theban Temple Decorations (H. H. Nelson).</a> The Epigraphic Survey. Originally published in 1995.</li><br /><li><a href="http://oi.uchicago.edu/research/pubs/catalog/oic/oic28.html">OIC 28. Bir Umm Fawakhir Survey Project 1993: A Byzantine Gold-Mining Town in Egypt.</a> C. Meyer, L.A. Heidorn, W.E. Kaegi, and T. Wilfong. Originally published in 2000.</li><br /><li><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip18.html">OIP 18. Paleolithic Man and the Nile Valley in Upper and Middle Egypt: A Study of the Region during Pliocene and Pleistocene Times.</a> By K. S. Sandford. Prehistoric Survey of Egypt and Western Asia, Volume III. Originally published in 1934.</li><br /><li><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip46.html">OIP 46. Paleolithic Man and the Nile Valley in Lower Egypt with Some Notes upon a Part of the Red Sea Littoral: A Study of the Regions during Pliocene and Pleistocene Times.</a> By K. S. Sandford and W. J. Arkell. Prehistoric Survey of Egypt and Western Asia, Volume IV. Originally published in 1939.</li><br /><li><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip73.html">OIP 73. The Egyptian Coffin Texts 5: Texts of Spells 355-471.</a> By Adriaan de Buck. Originally published in 1954.</li><br /><li><a href="http://oi.uchicago.edu/research/pubs/catalog/oip/oip113.html">OIP 113. The Oriental Institute Hawara Papyri: Demotic and Greek Texts from an Egyptian Family Archive in the Fayum (Fourth to Third Century B.C.).</a> G. R. Hughes and R. Jasnow. Originally published in 1997.</li><br /><li><a href="http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc26.html">SAOC 26. The Calendars of Ancient Egypt.</a> By Richard A. Parker. Originally published in 1950.</li><br /><li><a href="http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc27.html">SAOC 27. Occurrences of Pyramid Texts with Cross Indexes of These and Other Egyptian Mortuary Texts.</a> By Thomas George Allen. Originally published in 1950.</li><br /><li><a href="http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc28.html">SAOC 28. Saite Demotic Land Leases.</a> By George Robert Hughes. Originally published in 1952.</li><br /><li><a href="http://oi.uchicago.edu/research/pubs/catalog/saoc/saoc30.html">SAOC 30. Wall Scenes from the Mortuary Chapel of the Mayor Paser at Medinet Habu.</a> By Siegfried Schott. Translated By Elizabeth B. Hauser. Originally published in 1957.</li></ul>My list of all Oriental Institute publications online is now updated to include these eleven titles:<br /><br /><a href="http://ancientworldbloggers.blogspot.com/2008/04/awol-ancient-world-online-2.html">AWOL - The Ancient World Online - 2</a><br /><blockquote>The Oriental Institute Electronic Publications Initiative. Originally posted April 9, 2008. Updated April 30, 2007 with the addition of more CAD and CHD volumes; updated September 16, 2008 with the addition of OIP 130; updated January 6, 2009 with the addition of OIP 135; Updated January 27, 2009 with the addition of OIMP 29. Updated March 16, 2009 with the addition of OIS 5. Update April 28, 2009 with the addition of a suite of older OI volumes on Egyptian subjects.<br /><br />Starting in 2005, the Oriental Institute committed to digitizing all of its publications and making them available online, without charge. The minimum for each volume, old and new, current and forthcoming, will be a Portable Document Format (PDF) version following current resolution standards. New publications appear online at or near the time they appear in print. Older publications will be processed as time and funding permits. More than one hundred volumes are now online.</blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7711340391060569379/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7711340391060569379/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/05/even-more-oriental-institute.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7711340391060569379"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7711340391060569379"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/05/even-more-oriental-institute.html"
          title="Even more Oriental Institute publications online open access"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

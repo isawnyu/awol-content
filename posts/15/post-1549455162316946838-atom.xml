@@ -1,59 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1549455162316946838</id>
-    <published>2010-02-18T15:58:00.000-05:00</published>
-    <updated>2010-02-18T17:23:36.003-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1549455162316946838</id>
+   <published>2010-02-18T15:58:00.000-05:00</published>
+   <updated>2010-02-18T17:23:36.003-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">New Publication Series from the Oriental Institute: Oriental Institute Digital
-      Archives (OIDA)</title>
-    <content type="html"><![CDATA[<a href="http://oi.uchicago.edu/research/pubs/catalog/oida/">Oriental
-      Institute Digital Archives (OIDA)</a> Volume I<br /><span
-      style="font-size:85%;"></span><blockquote><a
-      href="http://oi.uchicago.edu/research/pubs/catalog/oida/oida1.html"><span
-      style="font-size:85%;">Letters from James Henry Breasted to His Family, August 1919 - July
-      1920</span></a><span style="font-size:85%;"><br /><br />Edited by
-      John A. Larson<br /><br />This presentation is based on the letters that James
-      Henry Breasted wrote home to his family during the first expedition of the Oriental Institute
-      to the Middle East (August 1919-July 1920). These original letters in the Oriental Institute
-      Archives were transcribed into digital form and are presented - unedited - with supporting
-      illustrations.<br /><br />* Oriental Institute Digital Archives 1<br />*
-      Chicago: The Oriental Institute of the University of Chicago, 2010<br />* Pp. 281; 7
-      figures, 9 illustrations<br /></span></blockquote><br />For an up to
-      date list of all Oriental Institute publications available online see <a
-      href="http://ancientworldbloggers.blogspot.com/2008/04/awol-ancient-world-online-2.html">AWOL
-      - The Ancient World Online - 2: The Oriental Institute Electronic Publications
-      Initiative</a>.<br /><br /><a title="data:post.title" url="data:post.url"
-      class="addthis_button"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif"
-      alt="Bookmark and Share" style="border: 0pt none ;" height="16" width="125"
-      /></a>]]></content>
-    <link rel="replies"
+   <title type="text">New  Publication Series from the Oriental Institute: Oriental Institute Digital Archives (OIDA)</title>
+   <content type="html"><![CDATA[<a href="http://oi.uchicago.edu/research/pubs/catalog/oida/">Oriental Institute Digital Archives (OIDA)</a> Volume I<br /><span style="font-size:85%;"></span><blockquote><a href="http://oi.uchicago.edu/research/pubs/catalog/oida/oida1.html"><span style="font-size:85%;">Letters from James Henry Breasted to His Family, August 1919 - July 1920</span></a><span style="font-size:85%;"><br /><br />Edited by John A. Larson<br /><br />This presentation is based on the letters that James Henry Breasted wrote home to his family during the first expedition of the Oriental Institute to the Middle East (August 1919-July 1920). These original letters in the Oriental Institute Archives were transcribed into digital form and are presented - unedited - with supporting illustrations.<br /><br />* Oriental Institute Digital Archives 1<br />* Chicago: The Oriental Institute of the University of Chicago, 2010<br />* Pp. 281; 7 figures, 9 illustrations<br /></span></blockquote><br />For an up to date list of all Oriental Institute publications available online see <a href="http://ancientworldbloggers.blogspot.com/2008/04/awol-ancient-world-online-2.html">AWOL - The Ancient World Online - 2: The Oriental Institute Electronic Publications Initiative</a>.<br /><br /><a title="data:post.title" url="data:post.url" class="addthis_button"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" alt="Bookmark and Share" style="border: 0pt none ;" height="16" width="125" /></a>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1549455162316946838/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1549455162316946838/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/02/newly-publication-series-from-oriental.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1549455162316946838"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1549455162316946838"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/02/newly-publication-series-from-oriental.html"
          title="New  Publication Series from the Oriental Institute: Oriental Institute Digital Archives (OIDA)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

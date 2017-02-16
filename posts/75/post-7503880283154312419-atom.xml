@@ -1,214 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7503880283154312419</id>
-    <published>2014-07-03T11:52:00.000-04:00</published>
-    <updated>2014-07-03T11:52:01.409-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7503880283154312419</id>
+   <published>2014-07-03T11:52:00.000-04:00</published>
+   <updated>2014-07-03T11:52:01.409-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Patrologia Graeca</title>
-    <content type="html"><![CDATA[<a href="http://graeca.patristica.net/"><span style="font-size:
-      small;">Patrologia Graeca</span></a><br /><blockquote
-      class="tr_bq"><span style="font-size: small;"><img alt=""
-      src="http://graeca.patristica.net/greek-fathers.jpg" height="158" width="200"
-      /></span> </blockquote><blockquote class="tr_bq"><span class="sglzh"
-      id="sglzh_8" style="font-size: x-small;">Jacques</span><span style="font-size:
-      x-small;"> Paul <b>Migne</b>. <i>Patrologiae <span class="sglzh"
-      id="sglzh_5">Cursus</span> Completus. Series
-      <b>Graeca</b>.</i></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"></span><span
-      style="font-size: x-small;"></span><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"></span><span
-      style="font-size: x-small;"></span><span style="font-size:
-      x-small;"></span><table border="1" class="table" style="width:
-      630px;"><tbody><tr><td><a
-      href="http://graeca.patristica.net/#t001">001</a></td><td><a
-      href="http://graeca.patristica.net/#t002">002</a></td><td><a
-      href="http://graeca.patristica.net/#t003">003</a></td><td><a
-      href="http://graeca.patristica.net/#t004">004</a></td><td><a
-      href="http://graeca.patristica.net/#t005">005</a></td><td><a
-      href="http://graeca.patristica.net/#t006">006</a></td><td><a
-      href="http://graeca.patristica.net/#t007-1">007</a></td><td><a
-      href="http://graeca.patristica.net/#t008">008</a></td><td><a
-      href="http://graeca.patristica.net/#t009">009</a></td><td><a
-      href="http://graeca.patristica.net/#t010">010</a></td><td><a
-      href="http://graeca.patristica.net/#t011">011</a></td><td><a
-      href="http://graeca.patristica.net/#t012">012</a></td><td><a
-      href="http://graeca.patristica.net/#t013">013</a></td><td><a
-      href="http://graeca.patristica.net/#t014">014</a></td><td><a
-      href="http://graeca.patristica.net/#t015">015</a></td><td><a
-      href="http://graeca.patristica.net/#t016-1">016</a></td><td><a
-      href="http://graeca.patristica.net/#t017">017</a></td><td><a
-      href="http://graeca.patristica.net/#t018">018</a></td><td><a
-      href="http://graeca.patristica.net/#t019">019</a></td><td><a
-      href="http://graeca.patristica.net/#t020">020</a></td><td><a
-      href="http://graeca.patristica.net/#t021">021</a></td><td><a
-      href="http://graeca.patristica.net/#t022">022</a></td><td><a
-      href="http://graeca.patristica.net/#t023">023</a></td></tr><tr><td><a
-      href="http://graeca.patristica.net/#t024">024</a></td><td><a
-      href="http://graeca.patristica.net/#t025">025</a></td><td><a
-      href="http://graeca.patristica.net/#t026">026</a></td><td><a
-      href="http://graeca.patristica.net/#t027">027</a></td><td><a
-      href="http://graeca.patristica.net/#t028">028</a></td><td><a
-      href="http://graeca.patristica.net/#t029">029</a></td><td><a
-      href="http://graeca.patristica.net/#t030">030</a></td><td><a
-      href="http://graeca.patristica.net/#t031">031</a></td><td><a
-      href="http://graeca.patristica.net/#t032">032</a></td><td><a
-      href="http://graeca.patristica.net/#t033">033</a></td><td><a
-      href="http://graeca.patristica.net/#t034">034</a></td><td><a
-      href="http://graeca.patristica.net/#t035">035</a></td><td><a
-      href="http://graeca.patristica.net/#t036">036</a></td><td><a
-      href="http://graeca.patristica.net/#t037">037</a></td><td><a
-      href="http://graeca.patristica.net/#t038">038</a></td><td><a
-      href="http://graeca.patristica.net/#t039">039</a></td><td><a
-      href="http://graeca.patristica.net/#t040">040</a></td><td><a
-      href="http://graeca.patristica.net/#t041">041</a></td><td><a
-      href="http://graeca.patristica.net/#t042">042</a></td><td><a
-      href="http://graeca.patristica.net/#t043">043</a></td><td><a
-      href="http://graeca.patristica.net/#t044">044</a></td><td><a
-      href="http://graeca.patristica.net/#t045">045</a></td><td><a
-      href="http://graeca.patristica.net/#t046">046</a></td></tr><tr><td><a
-      href="http://graeca.patristica.net/#t047">047</a></td><td><a
-      href="http://graeca.patristica.net/#t048">048</a></td><td><a
-      href="http://graeca.patristica.net/#t049">049</a></td><td><a
-      href="http://graeca.patristica.net/#t050">050</a></td><td><a
-      href="http://graeca.patristica.net/#t051">051</a></td><td><a
-      href="http://graeca.patristica.net/#t052">052</a></td><td><a
-      href="http://graeca.patristica.net/#t053">053</a></td><td><a
-      href="http://graeca.patristica.net/#t054">054</a></td><td><a
-      href="http://graeca.patristica.net/#t055">055</a></td><td><a
-      href="http://graeca.patristica.net/#t056">056</a></td><td><a
-      href="http://graeca.patristica.net/#t057">057</a></td><td><a
-      href="http://graeca.patristica.net/#t058">058</a></td><td><a
-      href="http://graeca.patristica.net/#t059">059</a></td><td><a
-      href="http://graeca.patristica.net/#t060">060</a></td><td><a
-      href="http://graeca.patristica.net/#t061">061</a></td><td><a
-      href="http://graeca.patristica.net/#t062">062</a></td><td><a
-      href="http://graeca.patristica.net/#t063">063</a></td><td><a
-      href="http://graeca.patristica.net/#t064">064</a></td><td><a
-      href="http://graeca.patristica.net/#t065">065</a></td><td><a
-      href="http://graeca.patristica.net/#t066">066</a></td><td><a
-      href="http://graeca.patristica.net/#t067">067</a></td><td><a
-      href="http://graeca.patristica.net/#t068">068</a></td><td><a
-      href="http://graeca.patristica.net/#t069">069</a></td></tr><tr><td><a
-      href="http://graeca.patristica.net/#t070">070</a></td><td><a
-      href="http://graeca.patristica.net/#t071">071</a></td><td><a
-      href="http://graeca.patristica.net/#t072">072</a></td><td><a
-      href="http://graeca.patristica.net/#t073">073</a></td><td><a
-      href="http://graeca.patristica.net/#t074">074</a></td><td><a
-      href="http://graeca.patristica.net/#t075">075</a></td><td><a
-      href="http://graeca.patristica.net/#t076">076</a></td><td><a
-      href="http://graeca.patristica.net/#t077">077</a></td><td><a
-      href="http://graeca.patristica.net/#t078">078</a></td><td><a
-      href="http://graeca.patristica.net/#t079">079</a></td><td><a
-      href="http://graeca.patristica.net/#t080">080</a></td><td><a
-      href="http://graeca.patristica.net/#t081">081</a></td><td><a
-      href="http://graeca.patristica.net/#t082">082</a></td><td><a
-      href="http://graeca.patristica.net/#t083">083</a></td><td><a
-      href="http://graeca.patristica.net/#t084">084</a></td><td><a
-      href="http://graeca.patristica.net/#t085">085</a></td><td><a
-      href="http://graeca.patristica.net/#t086-1">086</a></td><td><a
-      href="http://graeca.patristica.net/#t087-1">087</a></td><td><a
-      href="http://graeca.patristica.net/#t088">088</a></td><td><a
-      href="http://graeca.patristica.net/#t089">089</a></td><td><a
-      href="http://graeca.patristica.net/#t090">090</a></td><td><a
-      href="http://graeca.patristica.net/#t091">091</a></td><td><a
-      href="http://graeca.patristica.net/#t092">092</a></td></tr><tr><td><a
-      href="http://graeca.patristica.net/#t093">093</a></td><td><a
-      href="http://graeca.patristica.net/#t094">094</a></td><td><a
-      href="http://graeca.patristica.net/#t095">095</a></td><td><a
-      href="http://graeca.patristica.net/#t096">096</a></td><td><a
-      href="http://graeca.patristica.net/#t097">097</a></td><td><a
-      href="http://graeca.patristica.net/#t098">098</a></td><td><a
-      href="http://graeca.patristica.net/#t099">099</a></td><td><a
-      href="http://graeca.patristica.net/#t100">100</a></td><td><a
-      href="http://graeca.patristica.net/#t101">101</a></td><td><a
-      href="http://graeca.patristica.net/#t102">102</a></td><td><a
-      href="http://graeca.patristica.net/#t103">103</a></td><td><a
-      href="http://graeca.patristica.net/#t104">104</a></td><td><a
-      href="http://graeca.patristica.net/#t105">105</a></td><td><a
-      href="http://graeca.patristica.net/#t106">106</a></td><td><a
-      href="http://graeca.patristica.net/#t107">107</a></td><td><a
-      href="http://graeca.patristica.net/#t108">108</a></td><td><a
-      href="http://graeca.patristica.net/#t109">109</a></td><td><a
-      href="http://graeca.patristica.net/#t110">110</a></td><td><a
-      href="http://graeca.patristica.net/#t111">111</a></td><td><a
-      href="http://graeca.patristica.net/#t112">112</a></td><td><a
-      href="http://graeca.patristica.net/#t113">113</a></td><td><a
-      href="http://graeca.patristica.net/#t114">114</a></td><td><a
-      href="http://graeca.patristica.net/#t115">115</a></td></tr><tr><td><a
-      href="http://graeca.patristica.net/#t116">116</a></td><td><a
-      href="http://graeca.patristica.net/#t117">117</a></td><td><a
-      href="http://graeca.patristica.net/#t118">118</a></td><td><a
-      href="http://graeca.patristica.net/#t119">119</a></td><td><a
-      href="http://graeca.patristica.net/#t120">120</a></td><td><a
-      href="http://graeca.patristica.net/#t121">121</a></td><td><a
-      href="http://graeca.patristica.net/#t122">122</a></td><td><a
-      href="http://graeca.patristica.net/#t123">123</a></td><td><a
-      href="http://graeca.patristica.net/#t124">124</a></td><td><a
-      href="http://graeca.patristica.net/#t125">125</a></td><td><a
-      href="http://graeca.patristica.net/#t126">126</a></td><td><a
-      href="http://graeca.patristica.net/#t127">127</a></td><td><a
-      href="http://graeca.patristica.net/#t128">128</a></td><td><a
-      href="http://graeca.patristica.net/#t129">129</a></td><td><a
-      href="http://graeca.patristica.net/#t130">130</a></td><td><a
-      href="http://graeca.patristica.net/#t131">131</a></td><td><a
-      href="http://graeca.patristica.net/#t132">132</a></td><td><a
-      href="http://graeca.patristica.net/#t133">133</a></td><td><a
-      href="http://graeca.patristica.net/#t134">134</a></td><td><a
-      href="http://graeca.patristica.net/#t135">135</a></td><td><a
-      href="http://graeca.patristica.net/#t136">136</a></td><td><a
-      href="http://graeca.patristica.net/#t137">137</a></td><td><a
-      href="http://graeca.patristica.net/#t138">138</a></td></tr><tr><td><a
-      href="http://graeca.patristica.net/#t139">139</a></td><td><a
-      href="http://graeca.patristica.net/#t140">140</a></td><td><a
-      href="http://graeca.patristica.net/#t141">141</a></td><td><a
-      href="http://graeca.patristica.net/#t142">142</a></td><td><a
-      href="http://graeca.patristica.net/#t143">143</a></td><td><a
-      href="http://graeca.patristica.net/#t144">144</a></td><td><a
-      href="http://graeca.patristica.net/#t145">145</a></td><td><a
-      href="http://graeca.patristica.net/#t146">146</a></td><td><a
-      href="http://graeca.patristica.net/#t147">147</a></td><td><a
-      href="http://graeca.patristica.net/#t148">148</a></td><td><a
-      href="http://graeca.patristica.net/#t149">149</a></td><td><a
-      href="http://graeca.patristica.net/#t150">150</a></td><td><a
-      href="http://graeca.patristica.net/#t151">151</a></td><td><a
-      href="http://graeca.patristica.net/#t152">152</a></td><td><a
-      href="http://graeca.patristica.net/#t153">153</a></td><td><a
-      href="http://graeca.patristica.net/#t154">154</a></td><td><a
-      href="http://graeca.patristica.net/#t155">155</a></td><td><a
-      href="http://graeca.patristica.net/#t156">156</a></td><td><a
-      href="http://graeca.patristica.net/#t157">157</a></td><td><a
-      href="http://graeca.patristica.net/#t158">158</a></td><td><a
-      href="http://graeca.patristica.net/#t159">159</a></td><td><a
-      href="http://graeca.patristica.net/#t160">160</a></td><td><a
-      href="http://graeca.patristica.net/#t161">161</a></td></tr></tbody></table></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Patrologia Graeca</title>
+   <content type="html"><![CDATA[<a href="http://graeca.patristica.net/"><span style="font-size: small;">Patrologia Graeca</span></a><br /><blockquote class="tr_bq"><span style="font-size: small;"><img alt="" src="http://graeca.patristica.net/greek-fathers.jpg" height="158" width="200" /></span> </blockquote><blockquote class="tr_bq"><span class="sglzh" id="sglzh_8" style="font-size: x-small;">Jacques</span><span style="font-size: x-small;"> Paul <b>Migne</b>. <i>Patrologiae <span class="sglzh" id="sglzh_5">Cursus</span> Completus. Series <b>Graeca</b>.</i></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"></span><span style="font-size: x-small;"></span><span style="font-size: x-small;"></span><span style="font-size: x-small;"></span><span style="font-size: x-small;"></span><span style="font-size: x-small;"></span><table border="1" class="table" style="width: 630px;"><tbody><tr><td><a href="http://graeca.patristica.net/#t001">001</a></td><td><a href="http://graeca.patristica.net/#t002">002</a></td><td><a href="http://graeca.patristica.net/#t003">003</a></td><td><a href="http://graeca.patristica.net/#t004">004</a></td><td><a href="http://graeca.patristica.net/#t005">005</a></td><td><a href="http://graeca.patristica.net/#t006">006</a></td><td><a href="http://graeca.patristica.net/#t007-1">007</a></td><td><a href="http://graeca.patristica.net/#t008">008</a></td><td><a href="http://graeca.patristica.net/#t009">009</a></td><td><a href="http://graeca.patristica.net/#t010">010</a></td><td><a href="http://graeca.patristica.net/#t011">011</a></td><td><a href="http://graeca.patristica.net/#t012">012</a></td><td><a href="http://graeca.patristica.net/#t013">013</a></td><td><a href="http://graeca.patristica.net/#t014">014</a></td><td><a href="http://graeca.patristica.net/#t015">015</a></td><td><a href="http://graeca.patristica.net/#t016-1">016</a></td><td><a href="http://graeca.patristica.net/#t017">017</a></td><td><a href="http://graeca.patristica.net/#t018">018</a></td><td><a href="http://graeca.patristica.net/#t019">019</a></td><td><a href="http://graeca.patristica.net/#t020">020</a></td><td><a href="http://graeca.patristica.net/#t021">021</a></td><td><a href="http://graeca.patristica.net/#t022">022</a></td><td><a href="http://graeca.patristica.net/#t023">023</a></td></tr><tr><td><a href="http://graeca.patristica.net/#t024">024</a></td><td><a href="http://graeca.patristica.net/#t025">025</a></td><td><a href="http://graeca.patristica.net/#t026">026</a></td><td><a href="http://graeca.patristica.net/#t027">027</a></td><td><a href="http://graeca.patristica.net/#t028">028</a></td><td><a href="http://graeca.patristica.net/#t029">029</a></td><td><a href="http://graeca.patristica.net/#t030">030</a></td><td><a href="http://graeca.patristica.net/#t031">031</a></td><td><a href="http://graeca.patristica.net/#t032">032</a></td><td><a href="http://graeca.patristica.net/#t033">033</a></td><td><a href="http://graeca.patristica.net/#t034">034</a></td><td><a href="http://graeca.patristica.net/#t035">035</a></td><td><a href="http://graeca.patristica.net/#t036">036</a></td><td><a href="http://graeca.patristica.net/#t037">037</a></td><td><a href="http://graeca.patristica.net/#t038">038</a></td><td><a href="http://graeca.patristica.net/#t039">039</a></td><td><a href="http://graeca.patristica.net/#t040">040</a></td><td><a href="http://graeca.patristica.net/#t041">041</a></td><td><a href="http://graeca.patristica.net/#t042">042</a></td><td><a href="http://graeca.patristica.net/#t043">043</a></td><td><a href="http://graeca.patristica.net/#t044">044</a></td><td><a href="http://graeca.patristica.net/#t045">045</a></td><td><a href="http://graeca.patristica.net/#t046">046</a></td></tr><tr><td><a href="http://graeca.patristica.net/#t047">047</a></td><td><a href="http://graeca.patristica.net/#t048">048</a></td><td><a href="http://graeca.patristica.net/#t049">049</a></td><td><a href="http://graeca.patristica.net/#t050">050</a></td><td><a href="http://graeca.patristica.net/#t051">051</a></td><td><a href="http://graeca.patristica.net/#t052">052</a></td><td><a href="http://graeca.patristica.net/#t053">053</a></td><td><a href="http://graeca.patristica.net/#t054">054</a></td><td><a href="http://graeca.patristica.net/#t055">055</a></td><td><a href="http://graeca.patristica.net/#t056">056</a></td><td><a href="http://graeca.patristica.net/#t057">057</a></td><td><a href="http://graeca.patristica.net/#t058">058</a></td><td><a href="http://graeca.patristica.net/#t059">059</a></td><td><a href="http://graeca.patristica.net/#t060">060</a></td><td><a href="http://graeca.patristica.net/#t061">061</a></td><td><a href="http://graeca.patristica.net/#t062">062</a></td><td><a href="http://graeca.patristica.net/#t063">063</a></td><td><a href="http://graeca.patristica.net/#t064">064</a></td><td><a href="http://graeca.patristica.net/#t065">065</a></td><td><a href="http://graeca.patristica.net/#t066">066</a></td><td><a href="http://graeca.patristica.net/#t067">067</a></td><td><a href="http://graeca.patristica.net/#t068">068</a></td><td><a href="http://graeca.patristica.net/#t069">069</a></td></tr><tr><td><a href="http://graeca.patristica.net/#t070">070</a></td><td><a href="http://graeca.patristica.net/#t071">071</a></td><td><a href="http://graeca.patristica.net/#t072">072</a></td><td><a href="http://graeca.patristica.net/#t073">073</a></td><td><a href="http://graeca.patristica.net/#t074">074</a></td><td><a href="http://graeca.patristica.net/#t075">075</a></td><td><a href="http://graeca.patristica.net/#t076">076</a></td><td><a href="http://graeca.patristica.net/#t077">077</a></td><td><a href="http://graeca.patristica.net/#t078">078</a></td><td><a href="http://graeca.patristica.net/#t079">079</a></td><td><a href="http://graeca.patristica.net/#t080">080</a></td><td><a href="http://graeca.patristica.net/#t081">081</a></td><td><a href="http://graeca.patristica.net/#t082">082</a></td><td><a href="http://graeca.patristica.net/#t083">083</a></td><td><a href="http://graeca.patristica.net/#t084">084</a></td><td><a href="http://graeca.patristica.net/#t085">085</a></td><td><a href="http://graeca.patristica.net/#t086-1">086</a></td><td><a href="http://graeca.patristica.net/#t087-1">087</a></td><td><a href="http://graeca.patristica.net/#t088">088</a></td><td><a href="http://graeca.patristica.net/#t089">089</a></td><td><a href="http://graeca.patristica.net/#t090">090</a></td><td><a href="http://graeca.patristica.net/#t091">091</a></td><td><a href="http://graeca.patristica.net/#t092">092</a></td></tr><tr><td><a href="http://graeca.patristica.net/#t093">093</a></td><td><a href="http://graeca.patristica.net/#t094">094</a></td><td><a href="http://graeca.patristica.net/#t095">095</a></td><td><a href="http://graeca.patristica.net/#t096">096</a></td><td><a href="http://graeca.patristica.net/#t097">097</a></td><td><a href="http://graeca.patristica.net/#t098">098</a></td><td><a href="http://graeca.patristica.net/#t099">099</a></td><td><a href="http://graeca.patristica.net/#t100">100</a></td><td><a href="http://graeca.patristica.net/#t101">101</a></td><td><a href="http://graeca.patristica.net/#t102">102</a></td><td><a href="http://graeca.patristica.net/#t103">103</a></td><td><a href="http://graeca.patristica.net/#t104">104</a></td><td><a href="http://graeca.patristica.net/#t105">105</a></td><td><a href="http://graeca.patristica.net/#t106">106</a></td><td><a href="http://graeca.patristica.net/#t107">107</a></td><td><a href="http://graeca.patristica.net/#t108">108</a></td><td><a href="http://graeca.patristica.net/#t109">109</a></td><td><a href="http://graeca.patristica.net/#t110">110</a></td><td><a href="http://graeca.patristica.net/#t111">111</a></td><td><a href="http://graeca.patristica.net/#t112">112</a></td><td><a href="http://graeca.patristica.net/#t113">113</a></td><td><a href="http://graeca.patristica.net/#t114">114</a></td><td><a href="http://graeca.patristica.net/#t115">115</a></td></tr><tr><td><a href="http://graeca.patristica.net/#t116">116</a></td><td><a href="http://graeca.patristica.net/#t117">117</a></td><td><a href="http://graeca.patristica.net/#t118">118</a></td><td><a href="http://graeca.patristica.net/#t119">119</a></td><td><a href="http://graeca.patristica.net/#t120">120</a></td><td><a href="http://graeca.patristica.net/#t121">121</a></td><td><a href="http://graeca.patristica.net/#t122">122</a></td><td><a href="http://graeca.patristica.net/#t123">123</a></td><td><a href="http://graeca.patristica.net/#t124">124</a></td><td><a href="http://graeca.patristica.net/#t125">125</a></td><td><a href="http://graeca.patristica.net/#t126">126</a></td><td><a href="http://graeca.patristica.net/#t127">127</a></td><td><a href="http://graeca.patristica.net/#t128">128</a></td><td><a href="http://graeca.patristica.net/#t129">129</a></td><td><a href="http://graeca.patristica.net/#t130">130</a></td><td><a href="http://graeca.patristica.net/#t131">131</a></td><td><a href="http://graeca.patristica.net/#t132">132</a></td><td><a href="http://graeca.patristica.net/#t133">133</a></td><td><a href="http://graeca.patristica.net/#t134">134</a></td><td><a href="http://graeca.patristica.net/#t135">135</a></td><td><a href="http://graeca.patristica.net/#t136">136</a></td><td><a href="http://graeca.patristica.net/#t137">137</a></td><td><a href="http://graeca.patristica.net/#t138">138</a></td></tr><tr><td><a href="http://graeca.patristica.net/#t139">139</a></td><td><a href="http://graeca.patristica.net/#t140">140</a></td><td><a href="http://graeca.patristica.net/#t141">141</a></td><td><a href="http://graeca.patristica.net/#t142">142</a></td><td><a href="http://graeca.patristica.net/#t143">143</a></td><td><a href="http://graeca.patristica.net/#t144">144</a></td><td><a href="http://graeca.patristica.net/#t145">145</a></td><td><a href="http://graeca.patristica.net/#t146">146</a></td><td><a href="http://graeca.patristica.net/#t147">147</a></td><td><a href="http://graeca.patristica.net/#t148">148</a></td><td><a href="http://graeca.patristica.net/#t149">149</a></td><td><a href="http://graeca.patristica.net/#t150">150</a></td><td><a href="http://graeca.patristica.net/#t151">151</a></td><td><a href="http://graeca.patristica.net/#t152">152</a></td><td><a href="http://graeca.patristica.net/#t153">153</a></td><td><a href="http://graeca.patristica.net/#t154">154</a></td><td><a href="http://graeca.patristica.net/#t155">155</a></td><td><a href="http://graeca.patristica.net/#t156">156</a></td><td><a href="http://graeca.patristica.net/#t157">157</a></td><td><a href="http://graeca.patristica.net/#t158">158</a></td><td><a href="http://graeca.patristica.net/#t159">159</a></td><td><a href="http://graeca.patristica.net/#t160">160</a></td><td><a href="http://graeca.patristica.net/#t161">161</a></td></tr></tbody></table></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7503880283154312419/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7503880283154312419/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/07/patrologia-graeca.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7503880283154312419"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7503880283154312419"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/07/patrologia-graeca.html"
          title="Patrologia Graeca"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

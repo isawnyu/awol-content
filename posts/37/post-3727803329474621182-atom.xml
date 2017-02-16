@@ -1,109 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3727803329474621182</id>
-    <published>2014-09-05T09:53:00.000-04:00</published>
-    <updated>2014-09-05T09:53:31.510-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3727803329474621182</id>
+   <published>2014-09-05T09:53:00.000-04:00</published>
+   <updated>2014-09-05T09:53:31.510-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: Society for Medieval Archaeology Newsletter</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.medievalarchaeology.co.uk/index.php/publications-2/newsletter/">Society for
-      Medieval Archaeology Newsletter</a><br />ISSN: 1740-7036<br /><blockquote
-      class="tr_bq"><img
-      alt="http://www.medievalarchaeology.co.uk/wp-content/uploads/sma-logo-091.png" class="decoded"
-      height="51" src="http://www.medievalarchaeology.co.uk/wp-content/uploads/sma-logo-091.png"
-      width="400" /> </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Our <a href="http://www.medievalarchaeology.co.uk/?page_id=372"
-      target="blank">Newsletter</a>, edited by Dr Niall Brady, director of <a
-      href="http://www.adco-ie.com/" target="blank">The Archaeological Diving Company
-      Ltd</a>, Ireland, serves to capture the essence of those events that are of interest to
-      the membership. The website includes archived editions of select newsletters which we hope to
-      build to accommodate a full archive of its various editions over the next few
-      months.</span></blockquote><blockquote class="tr_bq"><h3><span
-      style="font-size: x-small;">You can download the most recent edition of the newsletter here
-      (<a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN-51.pdf"
-      target="_blank">Newsletter 51</a>) or access archive editions
-      below.</span></h3><ul><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_30.pdf"
-      target="blank">Newsletter 30</a>&nbsp; Spring
-      2004</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_35.pdf"
-      target="blank">Newsletter 35</a>&nbsp; &nbsp;Autumn
-      2006</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_36.pdf"
-      target="blank">Newsletter 36</a>&nbsp; &nbsp;Spring
-      2007</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_37.pdf"
-      target="blank">Newsletter 37</a>&nbsp; &nbsp;Autumn
-      2007</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_38.pdf"
-      target="blank">Newsletter 38</a>&nbsp; &nbsp;Spring
-      2008</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_39.pdf"
-      target="blank">Newsletter 39</a>&nbsp; &nbsp;Autumn
-      2008</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_41.pdf"
-      target="blank">Newsletter 41</a>&nbsp; &nbsp; Spring
-      2009</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_42.pdf"
-      target="blank">Newsletter 42</a>&nbsp; &nbsp;Autumn
-      2009</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_43.pdf">Newsletter&nbsp;43</a>&nbsp;
-      &nbsp;Spring 2010</span></li><li><span style="font-size:
-      x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_44.pdf"
-      target="_blank">Newsletter 44</a>&nbsp; &nbsp;Autumn
-      2010</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_45.pdf"
-      target="_blank">Newsletter 45</a>&nbsp; &nbsp;Spring
-      2011</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_46w.pdf">Newsletter
-      46</a>&nbsp; &nbsp;Autumn 2011</span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_47w.pdf"
-      target="_blank">Newsletter 47</a>&nbsp; &nbsp;Spring
-      2012</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_48w.pdf"
-      target="_blank">Newsletter 48</a>&nbsp; &nbsp;Autumn
-      2012</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_49w.pdf"
-      target="_blank">Newsletter 49</a>&nbsp; &nbsp;Spring
-      2013</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_50-.pdf"
-      target="_blank">Newsletter 50</a> &nbsp; Autumn
-      2013</span></li><li><span style="font-size: x-small;"><a
-      href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN-51.pdf"
-      target="_blank">Newsletter 51</a> &nbsp; Spring
-      2014</span></li></ul></blockquote><div style="text-align:
-      center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: Society for Medieval Archaeology Newsletter</title>
+   <content type="html"><![CDATA[<a href="http://www.medievalarchaeology.co.uk/index.php/publications-2/newsletter/">Society for Medieval Archaeology Newsletter</a><br />ISSN:  1740-7036<br /><blockquote class="tr_bq"><img alt="http://www.medievalarchaeology.co.uk/wp-content/uploads/sma-logo-091.png" class="decoded" height="51" src="http://www.medievalarchaeology.co.uk/wp-content/uploads/sma-logo-091.png" width="400" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Our <a href="http://www.medievalarchaeology.co.uk/?page_id=372" target="blank">Newsletter</a>, edited by Dr Niall Brady, director of <a href="http://www.adco-ie.com/" target="blank">The Archaeological Diving Company Ltd</a>,  Ireland, serves to capture the essence of those events that are of  interest to the membership. The website includes archived editions of  select newsletters which we hope to build to accommodate a full archive  of its various editions over the next few months.</span></blockquote><blockquote class="tr_bq"><h3><span style="font-size: x-small;">You can download the most recent edition of the newsletter here (<a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN-51.pdf" target="_blank">Newsletter 51</a>) or access archive editions below.</span></h3><ul><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_30.pdf" target="blank">Newsletter 30</a>&nbsp; Spring 2004</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_35.pdf" target="blank">Newsletter 35</a>&nbsp; &nbsp;Autumn 2006</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_36.pdf" target="blank">Newsletter 36</a>&nbsp; &nbsp;Spring 2007</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_37.pdf" target="blank">Newsletter 37</a>&nbsp; &nbsp;Autumn 2007</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_38.pdf" target="blank">Newsletter 38</a>&nbsp; &nbsp;Spring 2008</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_39.pdf" target="blank">Newsletter 39</a>&nbsp; &nbsp;Autumn 2008</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_41.pdf" target="blank">Newsletter 41</a>&nbsp; &nbsp; Spring 2009</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMA_Newsletter_42.pdf" target="blank">Newsletter 42</a>&nbsp; &nbsp;Autumn 2009</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_43.pdf">Newsletter&nbsp;43</a>&nbsp; &nbsp;Spring 2010</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_44.pdf" target="_blank">Newsletter 44</a>&nbsp; &nbsp;Autumn 2010</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_45.pdf" target="_blank">Newsletter 45</a>&nbsp; &nbsp;Spring 2011</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_46w.pdf">Newsletter 46</a>&nbsp; &nbsp;Autumn 2011</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_47w.pdf" target="_blank">Newsletter 47</a>&nbsp; &nbsp;Spring 2012</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_48w.pdf" target="_blank">Newsletter 48</a>&nbsp; &nbsp;Autumn 2012</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_49w.pdf" target="_blank">Newsletter 49</a>&nbsp; &nbsp;Spring 2013</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN_50-.pdf" target="_blank">Newsletter 50</a> &nbsp; Autumn 2013</span></li><li><span style="font-size: x-small;"><a href="http://www.medievalarchaeology.co.uk/wp-content/uploads/SMAN-51.pdf" target="_blank">Newsletter 51</a> &nbsp; Spring 2014</span></li></ul></blockquote><div style="text-align: center;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3727803329474621182/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3727803329474621182/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/open-access-journal-society-for.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3727803329474621182"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3727803329474621182"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/open-access-journal-society-for.html"
          title="Open Access Journal: Society for Medieval Archaeology Newsletter"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

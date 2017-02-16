@@ -1,64 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2509639001419347761</id>
-    <published>2014-11-13T18:02:00.000-05:00</published>
-    <updated>2014-11-13T18:04:44.921-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2509639001419347761</id>
+   <published>2014-11-13T18:02:00.000-05:00</published>
+   <updated>2014-11-13T18:04:44.921-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="papyrology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Ancient Science"/>
-    <title type="text">Papyrus Graecus Holmiensis Online</title>
-    <content type="html"><![CDATA[<a href="http://www.wdl.org/en/item/14299/"><span
-      class="item_title" itemprop="name">Papyrus Graecus
-      Holmiensis</span></a><i>&nbsp;</i><br /><blockquote
-      class="tr_bq"><img alt="http://content.wdl.org/14299/thumbnail/308x255.jpg"
-      class="decoded" src="http://content.wdl.org/14299/thumbnail/308x255.jpg" height="165"
-      width="200" /></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><i>Papyrus Graecus Holmiensis</i> (The Stockholm papyrus) is a codex
-      consisting of 15 leaves containing 154 recipes for the manufacture of dyes and colors used in
-      fashioning artificial stones. Written in Greek around AD 300, it is one of the earliest
-      complete treatises of its kind and an important vehicle for the transmission of practical
-      information from the Alexandrian (Old Egyptian) world to Byzantium and Western Europe. The
-      manuscript appears to have been written by the same scribe as a similar codex in the
-      Rijksmuseum van Oudheden in Leiden, also containing different recipes for the manufacture of
-      materials. Both texts clearly include the recipes of practitioners. <i>Papyrus Graecus
-      Holmiensis</i> was presented to the Swedish Royal Academy of Antiquities in 1832 by the
-      consul general of Sweden and Norway at Alexandria. It most likely had been discovered shortly
-      before that date, possibly at Thebes.</span></blockquote><a class="item-zoom"
-      href="http://www.wdl.org/en/item/14299/view/1/1/"> </a> <br /><blockquote
-      class="tr_bq"><div class="itemnav"><span style="font-size: x-small;"><a
-      class="pageturner item-zoom" href="http://www.wdl.org/en/item/14299/zoom/">View
-      Item</a> | <a class="item-view"
-      href="http://www.wdl.org/en/item/14299/view/1/1/">Read Online</a></span>
-      </div></blockquote><br />]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="papyrology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Ancient Science"/>
+   <title type="text">Papyrus Graecus Holmiensis Online</title>
+   <content type="html"><![CDATA[<a href="http://www.wdl.org/en/item/14299/"><span class="item_title" itemprop="name">Papyrus Graecus Holmiensis</span></a><i>&nbsp;</i><br /><blockquote class="tr_bq"><img alt="http://content.wdl.org/14299/thumbnail/308x255.jpg" class="decoded" src="http://content.wdl.org/14299/thumbnail/308x255.jpg" height="165" width="200" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><i>Papyrus Graecus Holmiensis</i> (The Stockholm papyrus) is a codex consisting of 15 leaves containing  154 recipes for the manufacture of dyes and colors used in fashioning  artificial stones. Written in Greek around AD 300, it is one of the  earliest complete treatises of its kind and an important vehicle for the  transmission of practical information from the Alexandrian (Old  Egyptian) world to Byzantium and Western Europe. The manuscript appears  to have been written by the same scribe as a similar codex in the  Rijksmuseum van Oudheden in Leiden, also containing different recipes  for the manufacture of materials. Both texts clearly include the recipes  of practitioners. <i>Papyrus Graecus Holmiensis</i> was presented to  the Swedish Royal Academy of Antiquities in 1832 by the consul general  of Sweden and Norway at Alexandria. It most likely had been discovered  shortly before that date, possibly at Thebes.</span></blockquote><a class="item-zoom" href="http://www.wdl.org/en/item/14299/view/1/1/">                </a>                 <br /><blockquote class="tr_bq"><div class="itemnav"><span style="font-size: x-small;"><a class="pageturner item-zoom" href="http://www.wdl.org/en/item/14299/zoom/">View Item</a>                    | <a class="item-view" href="http://www.wdl.org/en/item/14299/view/1/1/">Read Online</a></span>                                     </div></blockquote><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2509639001419347761/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2509639001419347761/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/papyrus-graecus-holmiensis-omline.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2509639001419347761"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2509639001419347761"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/papyrus-graecus-holmiensis-omline.html"
          title="Papyrus Graecus Holmiensis Online"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

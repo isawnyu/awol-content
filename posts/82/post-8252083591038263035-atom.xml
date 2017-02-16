@@ -1,78 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8252083591038263035</id>
-    <published>2014-10-23T10:41:00.001-04:00</published>
-    <updated>2014-10-23T10:41:39.464-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8252083591038263035</id>
+   <published>2014-10-23T10:41:00.001-04:00</published>
+   <updated>2016-09-14T09:47:32.361-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <title type="text">TOCS-IN: Tables of Contents of Journals of Interest to Classicists</title>
-    <content type="html"><![CDATA[<a
-      href="http://projects.chass.utoronto.ca/amphoras/tocs.html">TOCS-IN: Tables of Contents of
-      Journals of Interest to Classicists</a><br /><blockquote
-      class="tr_bq"><img alt="http://projects.chass.utoronto.ca/amphoras/tdata/tocs.gif"
-      class="decoded" src="http://projects.chass.utoronto.ca/amphoras/tdata/tocs.gif" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">TOCS-IN provides the tables of contents of a selection of Classics, Near Eastern
-      Studies, and Religion journals, both in text format and through a Web search program. Where
-      possible, links are given with articles of which the full text or an abstract is available
-      online (about 15%).</span> </blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">The project began to archive current tables of contents in 1992,
-      and now contains nearly 200 journals, and over 75,000 articles, in a database at Toronto. In
-      addition, the Louvain mirror site archives much additional material for some of the journals
-      before 1992. Searches of all data can be made at both sites.&nbsp;</span><br
-      /><br /><span style="font-size: x-small;">Some collections of articles (e.g.,
-      Festschriften) are also now included. See the <a
-      href="http://projects.chass.utoronto.ca/amphoras/tdata/colls.htm"> list of
-      collections</a>. </span><br /><br /><span style="font-size:
-      x-small;"><a href="http://projects.chass.utoronto.ca/cgi-bin/amphoras/tocfind">SEARCH
-      (Toronto)</a></span><br /><span style="font-size: x-small;"><a
-      href="http://bcs.fltr.ucl.ac.be/tocs-in">RECHERCHE (à Louvain)</a></span><br
-      /><div style="text-align: left;"><span style="font-size: x-small;"><a
-      href="http://projects.chass.utoronto.ca/amphoras/tocs.html#data">data
-      organization</a>&nbsp; </span></div><div style="text-align:
-      left;"><span style="font-size: x-small;"><a
-      href="http://projects.chass.utoronto.ca/amphoras/tocs.html#new">new
-      articles</a>&nbsp;</span></div><div style="text-align:
-      left;"><span style="font-size: x-small;"><a
-      href="http://projects.chass.utoronto.ca/amphoras/tocs.html#jour">journals
-      covered</a>&nbsp;</span></div><div style="text-align:
-      left;"><span style="font-size: x-small;"><a
-      href="http://projects.chass.utoronto.ca/amphoras/tocs.html#arts">texts and
-      abstracts</a> &nbsp;</span></div><div style="text-align:
-      left;"><span style="font-size: x-small;"><a
-      href="http://projects.chass.utoronto.ca/amphoras/tocs.html#adr">email
-      addresses</a></span> </div></blockquote><div style="text-align:
-      left;"><span><span>&nbsp;</span>&nbsp;</span>
-      </div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <title type="text">TOCS-IN: Tables of Contents of Journals of Interest to Classicists</title>
+   <content type="html"><![CDATA[<a href="http://projects.chass.utoronto.ca/amphoras/tocs.html">TOCS-IN: Tables of Contents of Journals of Interest to Classicists</a><br /><blockquote class="tr_bq"><img align="bottom" alt="TOCS-IN" hspace="15" src="http://projects.chass.utoronto.ca/amphoras/tdata/tocs.gif" vspace="5" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">TOCS-IN provides the tables of contents of a selection of Classics, Near Eastern Studies, and Religion journals, both in text format and through a Web search program. Where possible, links are given with articles of which the full text or an abstract is available online (about 15%).</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The project began to archive current tables of contents in 1992, and now contains nearly 200 journals, and over 75,000 articles, in a database at Toronto.  In addition, the Louvain mirror site archives much additional material for some of the journals before 1992. Searches of all data can be made at both sites.&nbsp;</span><br /><br /><span style="font-size: x-small;">Some collections of articles (e.g., Festschriften) are also now included. See the <a href="http://projects.chass.utoronto.ca/amphoras/tdata/colls.htm">  list of collections</a>.  </span><br /><br /><span style="font-size: x-small;"><a href="http://projects.chass.utoronto.ca/cgi-bin/amphoras/tocfind">SEARCH (Toronto)</a></span><br /><span style="font-size: x-small;"><a href="http://bcs.fltr.ucl.ac.be/tocs-in">RECHERCHE (à Louvain)</a></span><br /><div style="text-align: left;"><span style="font-size: x-small;"><a href="http://projects.chass.utoronto.ca/amphoras/tocs.html#data">data organization</a>&nbsp; </span></div><div style="text-align: left;"><span style="font-size: x-small;"><a href="http://projects.chass.utoronto.ca/amphoras/tocs.html#new">new articles</a>&nbsp;</span></div><div style="text-align: left;"><span style="font-size: x-small;"><a href="http://projects.chass.utoronto.ca/amphoras/tocs.html#jour">journals covered</a>&nbsp;</span></div><div style="text-align: left;"><span style="font-size: x-small;"><a href="http://projects.chass.utoronto.ca/amphoras/tocs.html#arts">texts and abstracts</a> &nbsp;</span></div><div style="text-align: left;"><span style="font-size: x-small;"><a href="http://projects.chass.utoronto.ca/amphoras/tocs.html#adr">email addresses</a></span> </div></blockquote><div style="text-align: left;">&nbsp;&nbsp; </div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8252083591038263035/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8252083591038263035/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/tocs-in-tables-of-contents-of-journals.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8252083591038263035"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8252083591038263035"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/tocs-in-tables-of-contents-of-journals.html"
          title="TOCS-IN: Tables of Contents of Journals of Interest to Classicists"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,138 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-893179180695258974</id>
-    <published>2015-04-19T09:13:00.002-04:00</published>
-    <updated>2015-04-19T09:13:38.635-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-893179180695258974</id>
+   <published>2015-04-19T09:13:00.002-04:00</published>
+   <updated>2015-04-19T09:13:38.635-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Coptic"/>
-    <title type="text">Open Access Journal: Bulletin d’information du Groupe BCNH </title>
-    <content type="html"><![CDATA[<a href="http://www.naghammadi.org/bulletin/bulletin.aspx">Bulletin
-      d’information du Groupe BCNH&nbsp;</a><br /><blockquote
-      class="tr_bq"><img alt="http://www.naghammadi.org/img/nom.gif"
-      src="http://www.naghammadi.org/img/nom.gif" /> </blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;"><span class="stitre">La
-      Bibliothèque copte de Nag Hammadi</span></span> <br /> <span
-      style="font-size: x-small;">Lancée en 1974 à l’Université Laval (Québec, Canada), l’édition
-      de la Bibliothèque copte de Nag Hammadi (BCNH) est la seule initiative francophone d’envergure
-      consacrée à ces manuscrits; son but est de produire de ces textes des éditions critiques
-      accompagnées de traductions françaises et de commentaires explicatifs. Conservés au Musée copte
-      du Vieux Caire, les manuscrits sont accessibles par le truchement d’une édition photographique
-      patronnée par l’UNESCO et le service des antiquités de la République Arabe d’Égypte. Cette
-      publication photographique, qui reproduit les feuillets de papyrus tels quels, rend les textes
-      accessibles aux spécialistes et sert de base ensuite aux éditions critiques, qui reconstruisent
-      dans la mesure du possible les lacunes des manuscrits, pour ensuite donner lieu à des
-      traductions, à des analyses philologiques et à des commentaires explicatifs.
-      </span><br /> <span style="font-size: x-small;">C’est à cette entreprise
-      d’édition critique, de traduction française et d’analyse, que s’attaquèrent à l’Université
-      Laval en 1974 les regrettés Jacques É. Ménard et Hervé Gagné, entourés de jeunes chercheurs
-      québécois et étrangers. Deux entreprises analogues avaient été lancées quelques années
-      auparavant, l’une à Berlin par le <i>Berliner Arbeitskreis für koptisch-gnostische
-      Schriften</i>, l’autre à l’<i>Institute for Antiquity and Christianity</i> de
-      Claremont (CA). </span><br /><ul class="liste"><li><span
-      style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_1_1.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 1, no 1, janvier/février)</i></a>,
-      1999.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_1_2.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 1, no 2, mars/avril)</i></a>,
-      1999.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_1_3.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 1, no 3, mai/juin/juillet/août)</i></a>,
-      1999.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_1_4.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 1, no 4, septembre/octobre)</i></a>,
-      1999.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_1_5.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 1, no 5, novembre/décembre)</i></a>,
-      1999.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_2_1-2.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 2, no 1-2, janvier/février/mars/avril)</i></a>,
-      2000.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_2_3.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 2, no 3, mai/juin/juillet/août)</i></a>,
-      2000.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_2_4.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 2, no 4, septembre)</i></a>,
-      2000.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_3_1.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 3, no 1, janvier)</i></a>,
-      2001.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_3_2.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 3, no 2, juin)</i></a>,
-      2001.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_3_3.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 3, no 3, septembre)</i></a>,
-      2001.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_4_1.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 4, no 1, janvier)</i></a>,
-      2002.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_4_2.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 4, no 2, juin)</i></a>,
-      2002.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_4_3.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 4, no 3, septembre)</i></a>,
-      2002.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_5_1.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 5, no 1, janvier)</i></a>,
-      2003.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_5_2.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 5, no 2, juin)</i></a>,
-      2003.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_5_3.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 5, no 3, septembre)</i></a>,
-      2003.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_6_1.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 6, no 1, février)</i></a>,
-      2004.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_6_2.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 6, no 2, juin)</i></a>,
-      2004.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_6_3.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 6, no 3, septembre)</i></a>,
-      2004.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_7_1.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 7, no 1, janvier)</i></a>,
-      2005.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_7_2.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 7, no 2, octobre)</i></a>,
-      2005.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_8_1.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 8, no 1, février)</i></a>,
-      2006.</span></li><li><span style="font-size: x-small;">&nbsp;<a
-      href="http://www.naghammadi.org/_docs/bull_8_2.pdf" target="_blank"><i>Bulletin
-      d'information (vol. 8, no 2, septembre)</i></a>,
-      2006.</span></li></ul></blockquote><div style="text-align:
-      center;"><span style="font-size: 85%;">&nbsp;</span>See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Coptic"/>
+   <title type="text">Open Access Journal: Bulletin d’information du Groupe BCNH </title>
+   <content type="html"><![CDATA[<a href="http://www.naghammadi.org/bulletin/bulletin.aspx">Bulletin d’information du Groupe BCNH&nbsp;</a><br /><blockquote class="tr_bq"><img alt="http://www.naghammadi.org/img/nom.gif" src="http://www.naghammadi.org/img/nom.gif" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><span class="stitre">La Bibliothèque copte de Nag Hammadi</span></span>       <br />                    <span style="font-size: x-small;">Lancée en 1974 à l’Université Laval (Québec, Canada),  l’édition de la Bibliothèque copte de Nag Hammadi (BCNH) est la seule  initiative francophone d’envergure consacrée à ces manuscrits; son but  est de produire de ces textes des éditions critiques accompagnées de  traductions françaises et de commentaires explicatifs. Conservés au  Musée copte du Vieux Caire, les manuscrits sont accessibles par le  truchement d’une édition photographique patronnée par l’UNESCO et le  service des antiquités de la République Arabe d’Égypte. Cette  publication photographique, qui reproduit les feuillets de papyrus tels  quels,  rend les textes accessibles aux spécialistes et sert de base  ensuite aux éditions critiques, qui reconstruisent dans la mesure du  possible les lacunes des manuscrits, pour ensuite donner lieu à des  traductions, à des analyses philologiques et à des commentaires  explicatifs. </span><br />        <span style="font-size: x-small;">C’est à cette entreprise d’édition critique, de traduction  française et d’analyse, que s’attaquèrent à l’Université Laval en 1974  les regrettés Jacques É. Ménard et Hervé Gagné, entourés de jeunes  chercheurs québécois et étrangers. Deux entreprises analogues avaient  été lancées quelques années auparavant, l’une à Berlin par le <i>Berliner Arbeitskreis für koptisch-gnostische Schriften</i>, l’autre à l’<i>Institute for Antiquity and Christianity</i> de Claremont (CA). </span><br /><ul class="liste"><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_1_1.pdf" target="_blank"><i>Bulletin d'information (vol. 1, no 1, janvier/février)</i></a>, 1999.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_1_2.pdf" target="_blank"><i>Bulletin d'information (vol. 1, no 2, mars/avril)</i></a>, 1999.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_1_3.pdf" target="_blank"><i>Bulletin d'information (vol. 1, no 3, mai/juin/juillet/août)</i></a>, 1999.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_1_4.pdf" target="_blank"><i>Bulletin d'information (vol. 1, no 4, septembre/octobre)</i></a>, 1999.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_1_5.pdf" target="_blank"><i>Bulletin d'information (vol. 1, no 5, novembre/décembre)</i></a>, 1999.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_2_1-2.pdf" target="_blank"><i>Bulletin d'information (vol. 2, no 1-2, janvier/février/mars/avril)</i></a>, 2000.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_2_3.pdf" target="_blank"><i>Bulletin d'information (vol. 2, no 3, mai/juin/juillet/août)</i></a>, 2000.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_2_4.pdf" target="_blank"><i>Bulletin d'information (vol. 2, no 4, septembre)</i></a>, 2000.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_3_1.pdf" target="_blank"><i>Bulletin d'information (vol. 3, no 1, janvier)</i></a>, 2001.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_3_2.pdf" target="_blank"><i>Bulletin d'information (vol. 3, no 2, juin)</i></a>, 2001.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_3_3.pdf" target="_blank"><i>Bulletin d'information (vol. 3, no 3, septembre)</i></a>, 2001.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_4_1.pdf" target="_blank"><i>Bulletin d'information (vol. 4, no 1, janvier)</i></a>, 2002.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_4_2.pdf" target="_blank"><i>Bulletin d'information (vol. 4, no 2, juin)</i></a>, 2002.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_4_3.pdf" target="_blank"><i>Bulletin d'information (vol. 4, no 3, septembre)</i></a>, 2002.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_5_1.pdf" target="_blank"><i>Bulletin d'information (vol. 5, no 1, janvier)</i></a>, 2003.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_5_2.pdf" target="_blank"><i>Bulletin d'information (vol. 5, no 2, juin)</i></a>, 2003.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_5_3.pdf" target="_blank"><i>Bulletin d'information (vol. 5, no 3, septembre)</i></a>, 2003.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_6_1.pdf" target="_blank"><i>Bulletin d'information (vol. 6, no 1, février)</i></a>, 2004.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_6_2.pdf" target="_blank"><i>Bulletin d'information (vol. 6, no 2, juin)</i></a>, 2004.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_6_3.pdf" target="_blank"><i>Bulletin d'information (vol. 6, no 3, septembre)</i></a>, 2004.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_7_1.pdf" target="_blank"><i>Bulletin d'information (vol. 7, no 1, janvier)</i></a>, 2005.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_7_2.pdf" target="_blank"><i>Bulletin d'information (vol. 7, no 2, octobre)</i></a>, 2005.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_8_1.pdf" target="_blank"><i>Bulletin d'information (vol. 8, no 1, février)</i></a>, 2006.</span></li><li><span style="font-size: x-small;">&nbsp;<a href="http://www.naghammadi.org/_docs/bull_8_2.pdf" target="_blank"><i>Bulletin d'information (vol. 8, no 2, septembre)</i></a>, 2006.</span></li></ul></blockquote><div style="text-align: center;"><span style="font-size: 85%;">&nbsp;</span>See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/893179180695258974/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/893179180695258974/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/04/open-access-journal-bulletin.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/893179180695258974"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/893179180695258974"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/04/open-access-journal-bulletin.html"
          title="Open Access Journal: Bulletin d’information du Groupe BCNH "/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

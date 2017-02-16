@@ -1,116 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2252852464406995927</id>
-    <published>2013-10-04T11:30:00.000-04:00</published>
-    <updated>2013-10-04T12:01:09.133-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2252852464406995927</id>
+   <published>2013-10-04T11:30:00.000-04:00</published>
+   <updated>2013-10-04T12:01:09.133-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Digital Library"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">ArchIMAGE: Archives graphiques et photographiqes de l'École Française
-      d'Athènes</title>
-    <content type="html"><![CDATA[<a href="http://archimage.efa.gr/accueil">ArchIMAGE: Archives
-      graphiques et photographiqes de l'École Française d'Athènes</a><br /><blockquote
-      class="tr_bq"><div class="ArchimageHeaderImageEFA" style="text-align: left;"><img
-      alt="http://archimage.efa.gr/images/archimage.jpg" class="decoded" height="93"
-      src="http://archimage.efa.gr/images/archimage.jpg" width="200" />&nbsp;
-      </div></blockquote><blockquote class="tr_bq"><div
-      class="ArchimageHeaderImageEFA" style="text-align: left;"><h1
-      class="titre_accueil"><span style="font-size: x-small;"><span style="font-family:
-      inherit;">Archives graphiques et
-      photographiques</span></span></h1><span style="font-size:
-      x-small;"><span style="font-family: inherit;">l'École française d'Athènes, après la
-      mise en ligne <br />- de ses publications par le biais des portails <a
-      class="site_partenaire" href="http://cefael.efa.gr/" title="Aller consulter le site
-      CEFAEL">CEFAEL</a> et <a class="site_partenaire"
-      href="http://www.persee.fr/web/revues/home/prescript/revue/bch" title="Aller consulter le site
-      Persée">Persée</a>, <br /> - de la <a class="site_partenaire"
-      href="http://chronique.efa.gr/" title="Aller consulter le site de la chronique des
-      fouilles"> chronique des fouilles</a> en collaboration avec <a
-      class="site_partenaire" href="http://www.bsa.ac.uk/" title="Aller consulter le site de la
-      British School at Athens"> la British School at </a><a class="site_partenaire"
-      href="http://www.bsa.ac.uk/" title="Aller consulter le site de la British School at
-      Athens">Athens</a> </span><span style="font-family: inherit;">, <br
-      /> - de certaines de <a class="site_partenaire"
-      href="http://www.efa.gr/Documentation/Arch_man/doc_arch_man_ligne.htm" title="Aller consulter
-      le site l'École française d'Athènes"> ses archives manuscrites</a>, <br /> lance
-      le programme Archimage destiné à la mise en ligne progressive de ses documents graphiques et
-      photographiques, conservés respectivement à la planothèque et à la photothèque de l'EFA.<br
-      /><br /> Un certain nombre de ces images, protégées par un filigrane, peuvent être
-      achetées en ligne pour être utilisées dans le cadre d'une étude ou d'une publication,
-      scientifique ou commerciale.<br /><br /> D'autres images sont mises à disposition
-      sans filigrane, dans une définition adaptée à une utilisation uniquement pédagogique. Il est
-      demandé aux utilisateurs de signaler la provenance de chacune des images ainsi empruntées par
-      la brève mention «&nbsp;© École française d'Athènes - Nom de l'auteur&nbsp;». Ces
-      documents peuvent également faire l'objet d'une commande auprès du service concerné. <br
-      /><br /> Archimage est un outil de consultation et de commande en cours d'élaboration.
-      Le programme est appelé à s'enrichir et à s'améliorer au fur et à mesure de la conversion de
-      l'ancienne base de données et de la numérisation rétrospective des documents graphiques et des
-      photographies sur supports traditionnels.
-      </span></span></div></blockquote><div
-      class="ArchimageHeaderImageEFA" style="text-align: center;"><ul><li
-      style="text-align: left;"> <a
-      href="http://archimage.efa.gr/recherche-image-photographique-archives-ecole-francaise-athenes"
-      title="Recherche dans les Archives"> <span style="font-size: x-small;">Recherche
-      </span></a><span style="font-size: x-small;"></span></li><li
-      style="text-align: left;"> <span style="font-size: x-small;"><a
-      href="http://archimage.efa.gr/ma-commande" title="Ma commande"> Ma commande
-      </a></span></li><li style="text-align: left;"> <span
-      style="font-size: x-small;"><a href="http://archimage.efa.gr/grille-tarifaire-base-image"
-      title="Consulter la grille tarifaire"> Grille tarifaire
-      </a></span></li><li style="text-align: left;"> <span
-      style="font-size: x-small;"><a href="http://archimage.efa.gr/se-connecter" title="Se
-      connecter"> Se connecter </a></span></li><li style="text-align:
-      left;"> <span style="font-size: x-small;"><a
-      href="http://archimage.efa.gr/creer-un-compte" title="Créer un compte"> Créer un compte
-      </a></span></li><li style="text-align: left;"> <span
-      style="font-size: x-small;"><a href="http://archimage.efa.gr/mot-de-passe-oublie"
-      title="Mot de passe oublié"> Mot de passe oublié </a></span></li><li
-      style="text-align: left;"> <span style="font-size: x-small;"><a
-      href="http://archimage.efa.gr/nous-contacter" title="Nous contacter"> Nous contacter
-      </a></span></li><li style="text-align: left;"><span
-      style="font-size: x-small;"> <a href="http://archimage.efa.gr/liens-utiles" title="Liens
-      utiles"> Liens utiles
-      </a></span></li></ul><ul></ul></div><div
-      class="ArchimageHeaderImageEFA" style="text-align: left;">And see
-      also:&nbsp;</div><ul><li><a
-      href="http://ancientworldonline.blogspot.com/2010/01/cefael-collections-de-lecole-francaise.html">CEFAEL:
-      Collections de l'Ecole française d'Athènes en
-      ligne</a>&nbsp;</li><li><a
-      href="http://ancientworldonline.blogspot.com/2009/11/archaeology-in-greece-onlinechronique.html">Archaeology
-      in Greece Online/Chronique des fouilles en ligne</a></li></ul><div
-      class="ArchimageHeaderImageEFA" style="text-align: left;">&nbsp; </div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Digital Library"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <title type="text">ArchIMAGE: Archives graphiques et photographiqes de l'École Française d'Athènes</title>
+   <content type="html"><![CDATA[<a href="http://archimage.efa.gr/accueil">ArchIMAGE: Archives graphiques et photographiqes de l'École Française d'Athènes</a><br /><blockquote class="tr_bq"><div class="ArchimageHeaderImageEFA" style="text-align: left;"><img alt="http://archimage.efa.gr/images/archimage.jpg" class="decoded" height="93" src="http://archimage.efa.gr/images/archimage.jpg" width="200" />&nbsp; </div></blockquote><blockquote class="tr_bq"><div class="ArchimageHeaderImageEFA" style="text-align: left;"><h1 class="titre_accueil"><span style="font-size: x-small;"><span style="font-family: inherit;">Archives graphiques et photographiques</span></span></h1><span style="font-size: x-small;"><span style="font-family: inherit;">l'École française d'Athènes, après la mise en ligne <br />- de ses publications par le biais des portails  <a class="site_partenaire" href="http://cefael.efa.gr/" title="Aller consulter le site CEFAEL">CEFAEL</a>  et  <a class="site_partenaire" href="http://www.persee.fr/web/revues/home/prescript/revue/bch" title="Aller consulter le site Persée">Persée</a>, <br /> - de la <a class="site_partenaire" href="http://chronique.efa.gr/" title="Aller consulter le site de la chronique des fouilles"> chronique des fouilles</a> en collaboration avec <a class="site_partenaire" href="http://www.bsa.ac.uk/" title="Aller consulter le site de la British School at Athens"> la British School at </a><a class="site_partenaire" href="http://www.bsa.ac.uk/" title="Aller consulter le site de la British School at Athens">Athens</a>  </span><span style="font-family: inherit;">,  <br /> - de certaines de  <a class="site_partenaire" href="http://www.efa.gr/Documentation/Arch_man/doc_arch_man_ligne.htm" title="Aller consulter le site l'École française d'Athènes"> ses archives manuscrites</a>, <br /> lance le programme Archimage destiné à la mise en ligne progressive de ses documents  graphiques et photographiques, conservés respectivement à la planothèque et à la photothèque de l'EFA.<br /><br /> Un certain nombre de ces images, protégées par un filigrane, peuvent être achetées en ligne pour être  utilisées dans le cadre d'une étude ou d'une publication, scientifique ou commerciale.<br /><br />  D'autres images sont mises à disposition sans filigrane, dans une définition adaptée à une utilisation uniquement pédagogique. Il est demandé aux utilisateurs de signaler la provenance de chacune des images  ainsi empruntées par la brève mention «&nbsp;© École française d'Athènes - Nom de l'auteur&nbsp;».  Ces documents peuvent également faire l'objet d'une commande auprès du service concerné. <br /><br /> Archimage est un outil de consultation et de commande en cours d'élaboration. Le programme est appelé à  s'enrichir et à s'améliorer au fur et à mesure de la conversion de l'ancienne base de données et de la  numérisation rétrospective des documents graphiques et des photographies sur supports traditionnels. </span></span></div></blockquote><div class="ArchimageHeaderImageEFA" style="text-align: center;"><ul><li style="text-align: left;"> <a href="http://archimage.efa.gr/recherche-image-photographique-archives-ecole-francaise-athenes" title="Recherche dans les Archives"> <span style="font-size: x-small;">Recherche </span></a><span style="font-size: x-small;"></span></li><li style="text-align: left;"> <span style="font-size: x-small;"><a href="http://archimage.efa.gr/ma-commande" title="Ma commande"> Ma commande </a></span></li><li style="text-align: left;"> <span style="font-size: x-small;"><a href="http://archimage.efa.gr/grille-tarifaire-base-image" title="Consulter la grille tarifaire"> Grille tarifaire </a></span></li><li style="text-align: left;"> <span style="font-size: x-small;"><a href="http://archimage.efa.gr/se-connecter" title="Se connecter"> Se connecter </a></span></li><li style="text-align: left;"> <span style="font-size: x-small;"><a href="http://archimage.efa.gr/creer-un-compte" title="Créer un compte"> Créer un compte </a></span></li><li style="text-align: left;"> <span style="font-size: x-small;"><a href="http://archimage.efa.gr/mot-de-passe-oublie" title="Mot de passe oublié"> Mot de passe oublié </a></span></li><li style="text-align: left;"> <span style="font-size: x-small;"><a href="http://archimage.efa.gr/nous-contacter" title="Nous contacter"> Nous contacter </a></span></li><li style="text-align: left;"><span style="font-size: x-small;"> <a href="http://archimage.efa.gr/liens-utiles" title="Liens utiles"> Liens utiles </a></span></li></ul><ul></ul></div><div class="ArchimageHeaderImageEFA" style="text-align: left;">And see also:&nbsp;</div><ul><li><a href="http://ancientworldonline.blogspot.com/2010/01/cefael-collections-de-lecole-francaise.html">CEFAEL: Collections de l'Ecole française d'Athènes en ligne</a>&nbsp;</li><li><a href="http://ancientworldonline.blogspot.com/2009/11/archaeology-in-greece-onlinechronique.html">Archaeology in Greece Online/Chronique des fouilles en ligne</a></li></ul><div class="ArchimageHeaderImageEFA" style="text-align: left;">&nbsp;  </div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2252852464406995927/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2252852464406995927/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/12/archimage-archives-graphiques-et.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2252852464406995927"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2252852464406995927"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/12/archimage-archives-graphiques-et.html"
          title="ArchIMAGE: Archives graphiques et photographiqes de l'École Française d'Athènes"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

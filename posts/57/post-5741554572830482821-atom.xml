@@ -1,84 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5741554572830482821</id>
-    <published>2013-12-08T11:00:00.000-05:00</published>
-    <updated>2013-12-08T11:02:07.844-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5741554572830482821</id>
+   <published>2013-12-08T11:00:00.000-05:00</published>
+   <updated>2013-12-08T11:02:07.844-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Composite text search and score generation in CDLI</title>
-    <content type="html"><![CDATA[<b>Composite text search and score generation in <a
-      href="http://cdli.ucla.edu/">CDLI</a></b> [via email]<br /><blockquote
-      class="tr_bq"><span style="font-size: x-small;">I am pleased to announce, after the
-      recent implementation of a new search and aggregation tool keyed to cylinder seal occurrences
-      in&nbsp;<a href="http://cdli.ucla.edu/">CDLI</a> text transliterations, a
-      second, similar utility for searching and displaying composite and witness entries that
-      document the&nbsp;occasionally quite rich Mesopotamian tradition of text copying and
-      transmission. Supported by the programming skills of UCLA CS graduate students&nbsp;Eunice
-      Yuh-Jie Chen and Henry Li, we have begun entering to <a
-      href="http://cdli.ucla.edu/">CDLI</a> catalogue all “Q” identifiers&nbsp;of such
-      texts, following the numbering system of <a
-      href="http://oracc.museum.upenn.edu/qca">Oracc’s Qcat</a>, and, in line with
-      the&nbsp;system implemented for seals management, have made these Q numbers searchable at
-      our slightly revamped <a href="http://cdli.ucla.edu/search/">search page</a>. Thus
-      now a search for the Gudea text (RIME 3/1.1.7.41 =) Q000911 results in, currently but ever
-      growing, 399&nbsp;hits, led by Dan Foxvog’s transliteration and translation of the
-      composite version and followed by entries documenting 398 physical&nbsp;artifacts. While
-      the Q numbers will be less familiar to users, this system, like its cousin seals ID field,
-      allows a casual&nbsp;viewing of some random witness text, for instance a recently tagged
-      <a href="http://cdli.ucla.edu/P404780">cone fragment in the University of
-      Durham</a> collection, to expand, by clicking on its corresponding catalogue composite ID
-      Q000915, to a full view of the&nbsp;96 <a href="http://cdli.ucla.edu/">CDLI</a>
-      entries that are associated with that text, led again by Foxvog’s treatment of an idealized
-      composite version.&nbsp;Indeed, we limit all translations of such texts to these composite
-      entries.<br /><br />The corresponding tagging of composite text transliterations in
-      <a href="http://cdli.ucla.edu/">CDLI</a> for the purpose of generating score
-      versions of each text,&nbsp;that we delighted in producing as ambitious students of
-      Assyriology, will follow along at a slower pace.&nbsp;&lt;<a
-      href="http://cdli.ucla.edu/tools/scores/partitur-index.html">http://cdli.ucla.edu/tools/scores/partitur-index.html</a>&gt;
-      contains the first several dozen such completed score (“Partitur”) versions,&nbsp;primarily
-      now of the easier to tag RIME inscriptions, but in time the much more involved scores of
-      scholarly texts will be added.&nbsp;Given the great numbers of exemplars of royal
-      inscriptions catalogued by the RIM project, we have decided to limit Q-tagging
-      of&nbsp;transliterations to those that are better documented than by their simple entry in
-      RIM witness catalogues, usually with&nbsp;existing image files, with the exception of texts
-      with no such documentation. In these cases, the first otherwise minimally
-      registered&nbsp;transliteration will serve as a single witness until further documentation
-      is available to us. Thus while the <a
-      href="http://cdli.ucla.edu/tools/scores/Q000908.html">score&nbsp;of Gudea
-      37</a>&nbsp; seems imposing, it comprises just 250 of the 1365
-      registered&nbsp;witnesses to this inscription. These seals-and-composites tools are, for
-      us, primarily technical means to improve the standardization&nbsp;and reliability of our
-      existing transliterations, but should also be of general interest to colleagues who seek to
-      check the fidelity&nbsp;of the various published or circulated forms of Partitur apparatus
-      that represent some of our most treasured research tools.<br /><br />Bob
-      Englund<br />UCLA </span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Composite text search and score generation in CDLI</title>
+   <content type="html"><![CDATA[<b>Composite text search and score generation in <a href="http://cdli.ucla.edu/">CDLI</a></b> [via email]<br /><blockquote class="tr_bq"><span style="font-size: x-small;">I am pleased to announce, after the recent implementation of a new  search and aggregation tool keyed to cylinder seal occurrences in&nbsp;<a href="http://cdli.ucla.edu/">CDLI</a>  text transliterations, a second, similar utility for searching and  displaying composite and witness entries that document  the&nbsp;occasionally quite rich Mesopotamian tradition of text copying and  transmission. Supported by the programming skills of UCLA CS graduate  students&nbsp;Eunice Yuh-Jie Chen and Henry Li, we have begun entering to <a href="http://cdli.ucla.edu/">CDLI</a> catalogue all “Q” identifiers&nbsp;of such texts,  following the numbering system of <a href="http://oracc.museum.upenn.edu/qca">Oracc’s Qcat</a>,  and,  in line with the&nbsp;system implemented for seals management, have made  these Q numbers searchable at our slightly revamped <a href="http://cdli.ucla.edu/search/">search page</a>. Thus now a search for the  Gudea text (RIME 3/1.1.7.41 =) Q000911 results in, currently but ever  growing, 399&nbsp;hits, led by Dan Foxvog’s transliteration and translation  of the composite version and followed by entries documenting 398  physical&nbsp;artifacts. While the Q numbers will be less familiar to users,  this system, like its cousin seals ID field, allows  a casual&nbsp;viewing of some random witness text, for instance a recently  tagged <a href="http://cdli.ucla.edu/P404780">cone fragment in the University of Durham</a>  collection, to expand, by clicking  on its corresponding catalogue composite ID Q000915, to a full view of  the&nbsp;96 <a href="http://cdli.ucla.edu/">CDLI</a> entries that are associated with that text, led again by  Foxvog’s treatment of an idealized composite version.&nbsp;Indeed, we limit  all translations of such texts to these composite entries.<br /><br />The corresponding tagging of composite text transliterations in <a href="http://cdli.ucla.edu/">CDLI</a> for  the purpose of generating score versions of each text,&nbsp;that we  delighted in producing as ambitious students of Assyriology, will follow  along at a slower  pace.&nbsp;&lt;<a href="http://cdli.ucla.edu/tools/scores/partitur-index.html">http://cdli.ucla.edu/tools/scores/partitur-index.html</a>&gt;  contains the first several dozen such completed score (“Partitur”)  versions,&nbsp;primarily now of the easier to tag RIME inscriptions, but in  time the much more involved scores of scholarly texts will be  added.&nbsp;Given the great numbers of exemplars of royal inscriptions  catalogued by the RIM project, we have decided to limit Q-tagging  of&nbsp;transliterations to those that are better documented than by their  simple entry in RIM witness catalogues, usually with&nbsp;existing image  files, with the exception of texts with no such documentation.  In these cases, the first otherwise minimally  registered&nbsp;transliteration will serve as a single witness until further  documentation is available to us. Thus while the <a href="http://cdli.ucla.edu/tools/scores/Q000908.html">score&nbsp;of Gudea 37</a>&nbsp; seems imposing,  it  comprises just 250 of the 1365 registered&nbsp;witnesses to this  inscription. These seals-and-composites tools are, for us, primarily  technical means to improve the standardization&nbsp;and reliability of our  existing transliterations, but should also be of general  interest to colleagues who seek to check the fidelity&nbsp;of the various  published or circulated forms of Partitur apparatus that represent some  of our most treasured research tools.<br /><br />Bob Englund<br />UCLA </span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5741554572830482821/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5741554572830482821/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/12/composite-text-search-and-score.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5741554572830482821"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5741554572830482821"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/12/composite-text-search-and-score.html"
          title="Composite text search and score generation in CDLI"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

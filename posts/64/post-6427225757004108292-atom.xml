@@ -1,294 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6427225757004108292</id>
-    <published>2014-07-16T09:30:00.000-04:00</published>
-    <updated>2014-07-16T10:10:15.211-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6427225757004108292</id>
+   <published>2016-01-17T16:22:00.000-05:00</published>
+   <updated>2016-01-16T16:39:45.399-05:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Middle East"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Description and Travel"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Middle East"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
-    <title type="text">Open Access Journal: Bulletin of the Association for the Study of Travel in
-      Egypt and the Near East (ASTENE)</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 31 December
-      2011. Updated 16 July 2014] </span><br /><br /><a
-      href="http://www.astene.org.uk/bulletins/bulletins.htm">Bulletin of the Association for the
-      Study of Travel in Egypt and the Near East (ASTENE)</a><br /><span
-      class="text"><span style="font-size: small;">ISSN
-      1461-­4316</span></span><br /><blockquote><img
-      alt="http://wp.astene.org.uk/wp-content/uploads/2012/10/astene-header.png" class="decoded"
-      src="http://wp.astene.org.uk/wp-content/uploads/2012/10/astene-header.png" height="107"
-      width="640" /> <br /><div align="left"><span class="text" style="font-size:
-      x-small;"><b></b></span></div></blockquote><blockquote><div
-      align="left"><span class="text" style="font-size: x-small;"><b>The <a
-      href="http://www.astene.org.uk/">ASTENE</a> <i>Bulletin</i> is published
-      four times a year and aims to keep members informed of research interests and queries in the
-      field of travel in Egypt and the Near East. Members are encouraged to submit information and
-      material for the <i>Bulletin</i> relating to on-going research and interests,
-      conferences etc.</b></span><br /><span style="font-size:
-      x-small;"><br /></span><span style="font-size: x-small;">There is also a
-      focus on useful subject-related bibliographies and biographies. The <i>Bulletin</i>
-      contains the following regular or semi-regular features: articles — perhaps on work in
-      progress, which should be no more than 2,000 words; select bibliographies; features on research
-      resources; ASTENE news: publications, conferences, seminars, exhibitions etc.; other
-      exhibitions, conferences of interest; announcements of relevant books/articles — in
-      preparation, forthcoming, recently published; members' notes and queries.</span><br
-      /><span style="font-size: x-small;"><br /></span></div><div
-      align="left" class="text"><span style="font-size: x-small;">Submissions for the next
-      Bulletin must be received by 15th December 2010. We welcome articles, queries, replies and
-      other related matters from members. Please send the contributions to the Editors, Sheila and
-      Russell McGuirk via email at <a href="mailto:bulletin@astene.org.uk"
-      title="bulletin@astene.org.uk">bulletin@astene.org.uk</a></span>
-      </div></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><a class="mtli_attachment mtli_pdf"
-      href="http://www.astene.org.uk/wp-content/uploads/2014/05/Astene_bulletin57_Final_spreads_29Sep1.pdf"
-      rel="">Bulletin No.57 Autumn 2013</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://www.astene.org.uk/wp-content/uploads/2014/02/Astene_bulletin56_Final.pdf" rel=""
-      target="blank">Bulletin No.56 Summer 2013</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://www.astene.org.uk/wp-content/uploads/2013/11/Astene_bulletin55_Final.pdf" rel=""
-      target="blank">Bulletin No.55 Spring 2013</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://www.astene.org.uk/wp-content/uploads/2013/09/Astene_bulletin_v5-54.pdf" rel=""
-      target="blank">Bulletin No.54 Winter 2012/13</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://www.astene.org.uk/wp-content/uploads/2013/11/Bulletin_53_final.pdf" rel=""
-      target="blank">Bulletin No.53 Autumn 2012</a></span> <br /><span
-      style="font-size: x-small;"><a class="mtli_attachment mtli_pdf"
-      href="http://www.astene.org.uk/wp-content/uploads/2012/09/Bulletin-52-complete.pdf" rel=""
-      target="blank">Bulletin No.52 Summer 2012</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/09/bulletin51.pdf" rel=""
-      target="blank">Bulletin No.51 Spring 2012</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/09/bulletin50.pdf" rel=""
-      target="blank">Bulletin No.50 Winter 2011/12</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/09/Bulletin-49-Complete.pdf" rel=""
-      target="blank">Bulletin No.49 Autumn 2011</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/09/bulletin48.pdf" rel=""
-      target="blank">Bulletin No.48 Summer 2011</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://www.astene.org.uk/wp-content/uploads/2012/09/Bulletin_47.pdf" rel=""
-      target="blank">Bulletin No.47 Spring 2011</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/09/Bulletin46.pdf" rel=""
-      target="blank">Bulletin No.46 Winter 2010/11</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/09/Bulletin45.pdf" rel=""
-      target="blank">Bulletin No.45 Autumn 2010</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/09/Bulletin44.pdf" rel=""
-      target="blank">Bulletin No.44 Summer 2010</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/Bulletin43.pdf" rel=""
-      target="blank">Bulletin No.43 Spring 2010</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/Bulletin42.pdf" rel=""
-      target="blank">Bulletin No.42 Winter 2009/10</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/Bulletin41.pdf" rel=""
-      target="blank">Bulletin No.41 Autumn 2009</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.40.pdf" rel=""
-      target="blank">Bulletin No.40 Summer 2009</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.39.pdf" rel=""
-      target="blank">Bulletin No.39 Spring 2009</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.38.pdf" rel=""
-      target="blank">Bulletin No.38 Winter 2008/09</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.37.pdf" rel="" target="blank">
-      Bulletin No.37 Autumn 2008</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.36.pdf" rel=""
-      target="blank">Bulletin No.36 Summer 2008</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.35.pdf" rel="" target="blank">
-      Bulletin No.35 Spring 2008</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.34.pdf" rel=""
-      target="blank">Bulletin No.34 Winter 2007</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.33.pdf" rel="" target="blank">
-      Bulletin No.33 Autumn 2007</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.32.pdf" rel=""
-      target="blank"> Bulletin No.32 Summer 2007</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.31.pdf" rel=""
-      target="blank">Bulletin No.31 Spring 2007</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.30.pdf" rel=""
-      target="blank">Bulletin No.30 Winter 2006-7</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.29.pdf" rel="" target="blank">
-      Bulletin No.29 Winter 2006</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.28.pdf" rel=""
-      target="blank">Bulletin No.28 Summer 2006</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.27.pdf" rel="" target="blank">
-      Bulletin No.27 Spring 2006</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.26.pdf" rel=""
-      target="blank">Bulletin No.26 Winter 2005</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.25.pdf" rel="" target="blank">
-      Bulletin No.25 Autumn 2005</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.24.pdf" rel=""
-      target="blank">Bulletin No.24 Summer 2005</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.23.pdf" rel="" target="blank">
-      Bulletin No.23 Spring 2005</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.22.pdf" rel=""
-      target="blank">Bulletin No.22 Winter 2004</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.21.pdf" rel="" target="blank">
-      Bulletin No.21 Autumn 2004</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.20.pdf" rel=""
-      target="blank">Bulletin No.20 Summer 2004</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.19.pdf" rel="" target="blank">
-      Bulletin No.19 Spring 2004</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.18.pdf" rel=""
-      target="blank"> Bulletin No.18 Winter 2003</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.17.pdf" rel=""
-      target="blank">Bulletin No.17 Autumn 2003</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.16.pdf" rel=""
-      target="blank">Bulletin No.16 Summer 2003</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.15.pdf" rel="" target="blank">
-      Bulletin No.15 Spring 2003</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.14-Supplement.pdf" rel=""
-      target="blank">Bulletin No.14 Supplement Winter 2002</a></span><br
-      /><span style="font-size: x-small;"></span><span style="font-size:
-      x-small;"><a class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.14.pdf" rel="" target="blank">
-      Bulletin No. 14 Autumn 2002</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.13.pdf" rel=""
-      target="blank"> Bulletin No.13 Spring 2002</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.12.pdf" rel=""
-      target="blank">Bulletin No.12 October 2001</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.11.pdf" rel="" target="blank">
-      Bulletin No.11 April 2001</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.10.pdf" rel=""
-      target="blank"> Bulletin No.10 October 2000</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.9.pdf" rel=""
-      target="blank">Bulletin No.9 April 2000</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.8.pdf" rel="" target="blank">
-      Bulletin No.8 October 1999</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.7.pdf" rel=""
-      target="blank"> Bulletin No.7 April 1999</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.6.pdf" rel=""
-      target="blank">Bulletin No.6 October 1998</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.5.pdf" rel="" target="blank">
-      Bulletin No.5 April 1998</a></span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><a class="mtli_attachment
-      mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.4.pdf" rel=""
-      target="blank">Bulletin No.4 October 1997</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.3.pdf" rel=""
-      target="blank">Bulletin No.3 December 1996</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.2.pdf" rel=""
-      target="blank">Bulletin No.2 August 1996</a></span><br /><span
-      style="font-size: x-small;"></span><span style="font-size: x-small;"><a
-      class="mtli_attachment mtli_pdf"
-      href="http://wp.astene.org.uk/wp-content/uploads/2012/10/No.1.pdf" rel=""
-      target="blank">Bulletin No.1 July 1995</a></span></blockquote><div
-      style="text-align: center;">See AWOL's round up of <a
-      href="http://ancientworldonline.blogspot.com/2009/04/open-access-travel-literature.html">Open
-      access travel literature</a>&nbsp;</div><br /><center>See the full
-      <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></center>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Description and Travel"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
+   <title type="text">Open Access Journal: Bulletin of the Association for the Study of Travel in Egypt and the Near East (ASTENE)</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 31 December 2011. Updated 16 January 2016] </span><br /><br /><a href="http://www.astene.org.uk/bulletins/bulletins.htm">Bulletin of the Association for the Study of Travel in Egypt and the Near East (ASTENE)</a><br /><span class="text"><span style="font-size: small;">ISSN 1461-­4316</span></span><br /><blockquote><img alt="http://wp.astene.org.uk/wp-content/uploads/2012/10/astene-header.png" class="decoded" src="http://wp.astene.org.uk/wp-content/uploads/2012/10/astene-header.png" height="66" width="400" /> <br /><div align="left"><span class="text" style="font-size: x-small;"><b></b></span></div></blockquote><blockquote><div align="left"><span class="text" style="font-size: x-small;"><b>The <a href="http://www.astene.org.uk/">ASTENE</a> <i>Bulletin</i>          is published four times a year and aims to keep members informed of research          interests and queries in the field of travel in Egypt and the Near East.          Members are encouraged to submit information and material for the <i>Bulletin</i>          relating to on-going research and interests, conferences etc.</b></span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;">There is          also a focus on useful subject-related bibliographies and biographies.          The <i>Bulletin</i> contains the following regular or semi-regular features:          articles — perhaps on work in progress, which should be no more than 2,000          words; select bibliographies; features on research resources; ASTENE news:          publications, conferences, seminars, exhibitions etc.; other exhibitions,          conferences of interest; announcements of relevant books/articles — in          preparation, forthcoming, recently published; members' notes and queries.</span><br /><span style="font-size: x-small;"><br /></span></div><div align="left" class="text"><span style="font-size: x-small;">Submissions for the next Bulletin must  be received by 15th December 2010. We welcome articles, queries,  replies and other related matters from members. Please send the  contributions to the Editors, Sheila and Russell McGuirk via email at <a href="mailto:bulletin@astene.org.uk" title="bulletin@astene.org.uk">bulletin@astene.org.uk</a></span> </div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2012/09/ASTENE-Bulletin-Bibliography-Vols-1-63.pdf">ASTENE Bulletin Bibliography Vols 1-63</a></span><br /> <h5><span style="font-size: x-small;">click on link below for contents</span></h5><span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2012/09/Astene_bulletin60.pdf">Bulletin No. 60 Summer 2014</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2012/09/Astene_bulletin591.pdf">Bulletin No. 59 Spring 2014</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2012/09/bulletin-winter-2013-14.pdf" rel="" target="blank">Bulletin No.58 Winter 2013</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/Astene_bulletin57_Final_spreads_29Sep1.pdf" rel="" target="blank">Bulletin No.57 Autumn 2013</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/02/Astene_bulletin56_Final.pdf" rel="" target="blank">Bulletin No.56 Summer 2013</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2013/11/Astene_bulletin55_Final.pdf" rel="" target="blank">Bulletin No.55 Spring 2013</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2013/09/Astene_bulletin_v5-54.pdf" rel="" target="blank">Bulletin No.54 Winter 2012/13</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2013/11/Bulletin_53_final.pdf" rel="" target="blank">Bulletin No.53 Autumn 2012</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2012/09/Bulletin-52-complete.pdf" rel="" target="blank">Bulletin No.52 Summer 2012</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/09/bulletin51.pdf" rel="" target="blank">Bulletin No.51 Spring 2012</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/09/bulletin50.pdf" rel="" target="blank">Bulletin No.50 Winter 2011/12</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/09/Bulletin-49-Complete.pdf" rel="" target="blank">Bulletin No.49 Autumn 2011</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/09/bulletin48.pdf" rel="" target="blank">Bulletin No.48 Summer 2011</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2012/09/Bulletin_47.pdf" rel="" target="blank">Bulletin No.47 Spring 2011</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/09/Bulletin46.pdf" rel="" target="blank">Bulletin No.46 Winter 2010/11</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/09/Bulletin45.pdf" rel="" target="blank">Bulletin No.45 Autumn 2010</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/09/Bulletin44.pdf" rel="" target="blank">Bulletin No.44 Summer 2010</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/Bulletin43.pdf" rel="" target="blank">Bulletin No.43 Spring 2010</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/Bulletin42.pdf" rel="" target="blank">Bulletin No.42 Winter 2009/10</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://wp.astene.org.uk/wp-content/uploads/2012/10/Bulletin41.pdf" rel="" target="blank">Bulletin No.41 Autumn 2009</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.40.pdf" rel="" target="blank">Bulletin No.40 Summer 2009</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.39.pdf" rel="" target="blank">Bulletin No.39 Spring 2009</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.38.pdf" rel="" target="blank">Bulletin No.38 Winter 2008/09</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.37.pdf" rel="" target="blank">Bulletin No.37 Autumn 2008</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.36.pdf" rel="" target="blank">Bulletin No.36 Summer 2008</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.35.pdf" rel="" target="blank">Bulletin No.35 Spring 2008</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.34.pdf" rel="" target="blank">Bulletin No.34 Winter 2007</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.33.pdf" rel="" target="blank">Bulletin No.33 Autumn 2007</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.32.pdf" rel="" target="blank">Bulletin No.32 Summer 2007</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.31.pdf" rel="" target="blank">Bulletin No.31 Spring 2007</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.30.pdf" rel="" target="blank">Bulletin No.30 Winter 2006-7</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.29.pdf" rel="" target="blank">Bulletin No.29 Winter 2006</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.28.pdf" rel="" target="blank">Bulletin No.28 Summer 2006</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.27.pdf" rel="" target="blank">Bulletin No.27 Spring 2006</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.26.pdf" rel="" target="blank">Bulletin No.26 Winter 2005</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.25.pdf" rel="" target="blank">Bulletin No.25 Autumn 2005</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.24.pdf" rel="" target="blank">Bulletin No.24 Summer 2005</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.23.pdf" rel="" target="blank">Bulletin No.23 Spring 2005</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.22.pdf" rel="" target="blank">Bulletin No.22 Winter 2004</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.21.pdf" rel="" target="blank">Bulletin No.21 Autumn 2004</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.20.pdf" rel="" target="blank">Bulletin No.20 Summer 2004</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.19.pdf" rel="" target="blank">Bulletin No.19 Spring 2004</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.18.pdf" rel="" target="blank">Bulletin No.18 Winter 2003</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.17.pdf" rel="" target="blank">Bulletin No.17 Autumn 2003</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/08/No.16.pdf" rel="" target="blank">Bulletin No.16 Summer 2003</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-15.pdf" rel="" target="blank">Bulletin No.15 Spring 2003</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-14-Supplement.pdf" rel="" target="blank">Bulletin No.14 Supplement Winter 2002</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-14.pdf" rel="" target="blank">Bulletin No. 14 Autumn 2002</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-13.pdf" rel="" target="blank">Bulletin No.13 Spring 2002</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-12.pdf" rel="" target="blank">Bulletin No.12 October 2001</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-11.pdf" rel="" target="blank">Bulletin No.11 April 2001</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-10.pdf" rel="" target="blank">Bulletin No.10 October 2000</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-9.pdf" rel="" target="blank">Bulletin No.9 April 2000</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-8.pdf" rel="" target="blank">Bulletin No.8 October 1999</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-7.pdf" rel="" target="blank">Bulletin No.7 April 1999</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-6.pdf" rel="" target="blank">Bulletin No.6 October 1998</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-5.pdf" rel="" target="blank">Bulletin No.5 April 1998</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-4.pdf" rel="" target="blank">Bulletin No.4 October 1997</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-3.pdf" rel="" target="blank">Bulletin No.3 December 1996</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-2.pdf" rel="" target="blank">Bulletin No.2 August 1996</a></span><br /> <span style="font-size: x-small;"><a class="mtli_attachment mtli_pdf" href="http://www.astene.org.uk/wp-content/uploads/2014/05/BULLETIN-1.pdf" rel="" target="blank">Bulletin No.1 July 1995</a></span></blockquote><div style="text-align: center;">See AWOL's round up of <a href="http://ancientworldonline.blogspot.com/2009/04/open-access-travel-literature.html">Open access travel literature</a>&nbsp;</div><br /><center>See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></center>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6427225757004108292/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6427225757004108292/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/12/open-access-journal-bulletin-of.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6427225757004108292"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6427225757004108292"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/12/open-access-journal-bulletin-of.html"
          title="Open Access Journal: Bulletin of the Association for the Study of Travel in Egypt and the Near East (ASTENE)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

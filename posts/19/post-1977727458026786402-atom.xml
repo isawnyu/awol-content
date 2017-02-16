@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1977727458026786402</id>
+   <published>2016-05-03T14:40:00.003-04:00</published>
+   <updated>2016-05-03T14:40:43.603-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Geography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <title type="text">Orbis Latinus Online (OLO) beta</title>
+   <content type="html"><![CDATA[<a href="http://orbis-latinus.geog.uni-heidelberg.de/olo.php?l"><span class="Titlebar_l2_s2" style="font-size: 20px;">Orbis Latinus Online (OLO) beta</span></a><br /><blockquote class="tr_bq"><span class="Titlebar_l2_s2" style="font-size: 20px;"><img alt="http://orbis-latinus.geog.uni-heidelberg.de/icons/Orbis_Latinus_Banner.jpg" height="83" src="http://orbis-latinus.geog.uni-heidelberg.de/icons/Orbis_Latinus_Banner.jpg" width="400" /> </span></blockquote><blockquote class="tr_bq"><div style="margin-top: 18px;"><span style="font-size: x-small;">Orbis Latinus Online (OLO) is based on the three-part print publication of Orbus Latinus from 1972.</span></div><span style="font-size: x-small;">This online resource allows you to find the modern equivalent of  latin place names, as well as the latin names of modern places.  "Modern" is relative, because the geographical descriptors may date back  to the original time of writing. More information on this may be found  in the editorial notice of the digitised version of <a href="http://www.bayerische-landesbibliothek-online.de/orbis-latinus">Orbus Latinus at the Bayerische Staatsbibliothek in Munich</a>.</span><br /><br /><span style="font-size: x-small;">In OLO, every record has a link to the item in the  digitalised copy of Orbus Latinus. This enables you to check each record  with the original. All place-names have been automatically  geo-referenced with coordinates that allow the places to be located on a  map. The manual checking of the automatically generated coordinates is  still in progress.</span><br /><br /><span style="font-size: x-small;">In our GeoWiki you can register as a user, provide new  suggestions and evaluate the accuracy of existing entries. The rating  (1-5 stars) allows you to see if the coordinates have already been  manually checked by an OLO user. We're always happy to receive feedback!</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">            <span class="Titlebar_l2_s2" style="margin-top: 12px;">&nbsp;</span>  	    </span><span style="font-size: x-small;">Orbis Latinus Online (OLO) basiert auf der dreibändigen Druckausgabe von Orbis Latinus aus dem Jahr 1972.</span><br /><br /><span style="font-size: x-small;">Sie können sowohl die modernen Ortsnamen zu lateinischen  Namen recherchieren oder die lateinischen Schreibweisen moderner Orte.  "Modern" ist relativ, da die geografischen Bezeichnungen denen der  Druckfassung entsprechen. Hierzu mehr in der editorischen Notiz zur  digitalisierten Version des <a href="http://www.bayerische-landesbibliothek-online.de/orbis-latinus">Orbis Latinus (BSB München)</a>.</span><br /><br /><span style="font-size: x-small;">Auf dieses Digitalisat sind auch jeweils die einzelnen  Einträge in OLO verlinkt, um eine Kontrolle am Original zu ermöglichen.  Alle Orte wurden automatisiert georeferenziert, d.h. es wurden  Koordinaten zugeordnet, die eine Lokalisierung auf einer Karte erlauben.  Die händische Überprüfung der generierten Koordinaten dauert an.</span><br /><br /><span style="font-size: x-small;">Über das GeoWiki kann man als registrierte/r Benutzer/in  eigene Vorschläge unterbreiten, bzw. existierende Einträge bewerten. Der  Bewertung (1-5 Sternchen) können Sie auch entnehmen, ob die Koordinaten  bereits von uns bzw. einem Mitglied von OLO überprüft wurden. Gerne  nehmen wir Feedback entgegen!</span></blockquote><blockquote class="tr_bq"><div style="border: 1px dashed #900; height: 205px; width: 350px;"><ul style="font-size: 13px; text-align: left;"><li><span style="font-size: x-small;">Currently 140.000 Latin Place Names and 40.000 Modern Place Names</span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;">Based 1:1 on 1972 Ed. Of Orbis Latinus (3 Vols)</span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;">Links to printed Version</span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;">Multi-Language Web-GUI</span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;">Webservices via XML</span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;">Search Place Name: Latin - Modern | Modern - Latin</span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;">(Semi-) Autogenerated Coordinates</span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;">Embedded Map: Google Maps/Open Street Maps (OSM)</span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;">Plus "Geo-Wiki"-Extension</span></li><span style="font-size: x-small;"></span></ul></div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><a href="http://orbis-latinus.geog.uni-heidelberg.de/downloads/dh2012_rigeo_olo_geotwain_add_info.pdf" target="_blank">Project overview &lt;PDF&gt;</a></span></blockquote><blockquote class="tr_bq"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="Windowrand5_l2_s2"><span class="Titlebar_l2_s2">Navigation:</span>      <a class="Link_sidebar_s2" href="http://orbis-latinus.geog.uni-heidelberg.de/index.php?l=DEFAULT">Startseite</a>	    <a class="Link_sidebar_s2" href="http://orbis-latinus.geog.uni-heidelberg.de/search.php?l=DEFAULT">Suche</a>	    <a class="Link_sidebar_s2" href="http://orbis-latinus.geog.uni-heidelberg.de/letters.php?l=DEFAULT">A bis Z</a>	    <a class="Link_sidebar_s2" href="http://orbis-latinus.geog.uni-heidelberg.de/lands.php?l=DEFAULT">Länder</a>	    </td><td class="Windowrand6_l2_s2"><br /></td></tr><tr><td class="Windowrand7_l2_s2"><br /></td><td class="Windowrand8_l2_s2"><br /></td></tr></tbody></table><div style="text-align: center;">And see AWOL's <a href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup of Resources on Ancient Geography</a></div></blockquote><blockquote class="tr_bq"></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/1977727458026786402/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/05/orbis-latinus-online-olo-beta.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1977727458026786402"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1977727458026786402"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/05/orbis-latinus-online-olo-beta.html"
+         title="Orbis Latinus Online (OLO) beta"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

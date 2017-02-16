@@ -1,126 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8001095990232302632</id>
-    <published>2015-06-21T08:40:00.000-04:00</published>
-    <updated>2015-06-21T08:40:16.474-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8001095990232302632</id>
+   <published>2015-06-21T08:40:00.000-04:00</published>
+   <updated>2015-06-21T08:40:16.474-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="History"/>
-    <title type="text">Open Access Journal: Bulletin Analytique d'Histoire Romaine</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 10 October
-      2010. Update<span style="font-size: xx-small;">d</span> 21 June 2015]
-      </span><br /><br /><a
-      href="http://www2i.misha.fr/flora/jsp/index.jsp">Bulletin Analytique d'Histoire
-      Romaine</a><br /><span style="font-size: small;"><span style="color:
-      black;">Dernière mise à jour: 5 février 2014</span></span><br /><span
-      style="font-size: small;"><span style="color: black;">ISSN:
-      </span></span><span style="font-size: small;"><span style="color:
-      black;">0525-1044 </span></span><br /><br /><div
-      style="text-align: left;"><blockquote class="tr_bq"><blockquote
-      class="tr_bq"><img alt="http://www2i.misha.fr/flora/icons/css/flora2/misha/logo_bahr.jpg"
-      class="decoded" src="http://www2i.misha.fr/flora/icons/css/flora2/misha/logo_bahr.jpg"
-      height="200" width="117" /><span style="font-size: x-small;">
-      </span></blockquote></blockquote></div><div style="margin-left: 5px;
-      margin-right: 5px; text-align: justify; width: 98%;"><div style="text-align:
-      left;"><blockquote><span style="font-size: x-small;"></span><div
-      style="text-indent: 20px;"><span style="font-size: x-small;">Le Bulletin Analytique
-      d'Histoire Romaine (BAHR) a été créé en 1962 par Edmond Frézouls, professeur d’histoire romaine
-      à l’Université de Strasbourg de 1959 à 1995. Création en avance sur son temps, le BAHR s’est
-      d’emblée présenté comme une recension bibliographique et analytique de l’ensemble de la
-      production scientifique en histoire et en archéologie romaines publiée dans des revues, y
-      compris celles publiées dans des langues peu pratiquées et élargies aux revues de l’Europe
-      orientale. Dès l’origine de cette entreprise, E. Frézouls fut aidé dans sa tâche par Hélène
-      Jouffroy, ingénieur de recherche au CNRS, dont la vaste connaissance tant en histoire qu’en
-      archéologie romaine a largement bénéficié à la qualité des analyses du BAHR. Le BAHR a été
-      ensuite successivement dirigé par H. Jouffroy (1996-1998), A.-M. Adam (1996-2004) et M.-L.
-      Freyburger (2005-2012), et depuis début 2013, il est dirigé par M. Humm, professeur d'histoire
-      romaine à l'Université de Strasbourg.&nbsp;</span></div><div
-      style="text-indent: 20px;"><br /></div><span style="font-size:
-      x-small;"></span><div style="text-indent: 20px;"><span style="font-size:
-      x-small;">Le BAHR se présentait initialement comme une suite de résumés non critiques
-      classés thématiquement et publiés annuellement. À partir de 1992, l'analyse des articles a été
-      abandonnée au profit d'un choix de mots-clés (peuples, anthroponymes, théonymes, lieux
-      géographiques, sources littéraires, épigraphiques, papyrologiques), de thèmes et de mots-clés
-      divers (ces derniers regroupés et classés dans un thésaurus). Cette grille d’analyse a été
-      inspirée par les PACTOLS de la base FRANTIQ (Fichiers de Recherche sur l’ANTIQuité).
-      L’ouverture sur le web grâce au serveur de la MISHA permet au chercheur de découvrir les
-      travaux, publiés parfois dans des revues rares, qui concernent l’objet de sa
-      recherche.&nbsp;</span></div><div style="text-indent: 20px;"><br
-      /></div><span style="font-size: x-small;"></span><div
-      style="text-indent: 20px;"><span style="font-size: x-small;">Aujourd’hui, le BAHR se
-      présente toujours comme une base de données bibliographique et analytique unique pour la
-      connaissance et la recherche en histoire et en archéologie du monde romain antique. Cette base
-      de données est fondée sur le dépouillement de plus de 800 revues françaises et étrangères
-      traitant du monde romain antique (en histoire, archéologie, épigraphie, numismatique,
-      papyrologie...). Depuis 2007, une analyse des articles (en texte libre) accompagne les
-      mots-clés de la plupart des notices. En 2013, l’équipe du BAHR a décidé d’adapter cet outil
-      bibliographique aux nouvelles exigences de la recherche en histoire ancienne : le BAHR intègre
-      désormais le dépouillement des actes de colloque et d’autres ouvrages collectifs traitant de
-      l’histoire romaine (publiés à partir de 2012, à condition que l’équipe du BAHR reçoive
-      directement un exemplaire de ces ouvrages).&nbsp;</span></div><div
-      style="text-indent: 20px;"><br /></div><span style="font-size:
-      x-small;"></span><div style="text-indent: 20px;"><span style="font-size:
-      x-small;">Le BAHR repose sur le travail d’une équipe composée d’ingénieurs CNRS de l'UMR
-      7044 « ArcHiMède » et d’un informaticien de l’USR-MISHA. S’y ajoute l'aide
-      d'enseignants-chercheurs de l'équipe et aussi d'étudiants en master et en doctorat des
-      universités de Strasbourg (UDS) et de Mulhouse (UHA), des collègues de diverses universités
-      françaises (Paris IV, Grenoble) ainsi que des collègues et doctorants québécois de l’Université
-      de Laval, et enfin de quelques chercheurs extérieurs (Pavie,
-      Italie).&nbsp;</span></div><div style="text-indent: 20px;"><br
-      /></div><span style="font-size: x-small;"></span><div
-      style="text-indent: 20px;"><span style="font-size: x-small;">Depuis 1999, l'ensemble
-      des données de la base est accessible gratuitement sur le web (http://www.misha.fr/antiquite).
-      En 2004, grâce à une initiative du Réseau des Maisons des Sciences de l'Homme, le BAHR a
-      participé à la mise en place du portail DAPHNE (Données en Archéologie Préhistoire et Histoire
-      sur le Net), commun à FRANTIQ et à FRANCIS – Archéologie / Préhistoire / Religion – (<a
-      href="http://www.daphne.cnrs.fr/" target="_blank">http://www.daphne.cnrs.fr/</a>).
-      Enfin, depuis septembre 2013, les données du BAHR sont également disponibles sur la plateforme
-      de recherche ISIDORE : <a href="http://rechercheisidore.fr/"
-      target="_blank">http://rechercheisidore.fr</a></span></div><div
-      style="text-indent: 20px;"><span style="font-size: x-small;">&nbsp;
-      </span></div><span style="font-size: x-small;"></span><div
-      style="text-indent: 20px;"><span style="font-size: x-small;">Fidèle à ses objectifs
-      initiaux et à l’ambition de son fondateur, le BAHR constitue une base de données unique,
-      exclusivement consacrée au monde romain, et reste un outil au service des scientifiques
-      français et étrangers</span>.
-      </div></blockquote></div></div><div style="text-align:
-      center;"><span style="font-size: small;"><span style="font-family: Georgia,Times
-      New Roman,Times,serif;"><span>See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></div><br /><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="History"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
+   <title type="text">Open Access Journal: Bulletin Analytique d'Histoire Romaine</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 10 October 2010. Update<span style="font-size: xx-small;">d</span> 21 June 2015] </span><br /><br /><a href="http://www2i.misha.fr/flora/jsp/index.jsp">Bulletin Analytique d'Histoire Romaine</a><br /><span style="font-size: small;"><span style="color: black;">Dernière mise à jour: 5 février 2014</span></span><br /><span style="font-size: small;"><span style="color: black;">ISSN: </span></span><span style="font-size: small;"><span style="color: black;">0525-1044 </span></span><br /><br /><div style="text-align: left;"><blockquote class="tr_bq"><blockquote class="tr_bq"><img alt="http://www2i.misha.fr/flora/icons/css/flora2/misha/logo_bahr.jpg" class="decoded" src="http://www2i.misha.fr/flora/icons/css/flora2/misha/logo_bahr.jpg" height="200" width="117" /><span style="font-size: x-small;"> </span></blockquote></blockquote></div><div style="margin-left: 5px; margin-right: 5px; text-align: justify; width: 98%;"><div style="text-align: left;"><blockquote><span style="font-size: x-small;"></span><div style="text-indent: 20px;"><span style="font-size: x-small;">Le Bulletin Analytique d'Histoire Romaine (BAHR) a été créé en 1962 par  Edmond Frézouls, professeur d’histoire romaine à l’Université de  Strasbourg de 1959 à 1995. Création en avance sur son temps, le BAHR  s’est d’emblée présenté comme une recension bibliographique et  analytique de l’ensemble de la production scientifique en histoire et en  archéologie romaines publiée dans des revues, y compris celles publiées  dans des langues peu pratiquées et élargies aux revues de l’Europe  orientale. Dès l’origine de cette entreprise, E. Frézouls fut aidé dans  sa tâche par Hélène Jouffroy, ingénieur de recherche au CNRS, dont la  vaste connaissance tant en histoire qu’en archéologie romaine a  largement bénéficié à la qualité des analyses du BAHR. Le BAHR a été  ensuite successivement dirigé par H. Jouffroy (1996-1998), A.-M. Adam  (1996-2004) et M.-L. Freyburger (2005-2012), et depuis début 2013, il  est dirigé par M. Humm, professeur d'histoire romaine à l'Université de  Strasbourg.&nbsp;</span></div><div style="text-indent: 20px;"><br /></div><span style="font-size: x-small;"></span><div style="text-indent: 20px;"><span style="font-size: x-small;">Le BAHR se présentait initialement comme une suite de résumés non  critiques classés thématiquement et publiés annuellement. À partir de  1992, l'analyse des articles a été abandonnée au profit d'un choix de  mots-clés (peuples, anthroponymes, théonymes, lieux géographiques,  sources littéraires, épigraphiques, papyrologiques), de thèmes et de  mots-clés divers (ces derniers regroupés et classés dans un thésaurus).  Cette grille d’analyse a été inspirée par les PACTOLS de la base FRANTIQ  (Fichiers de Recherche sur l’ANTIQuité). L’ouverture sur le web grâce  au serveur de la MISHA permet au chercheur de découvrir les travaux,  publiés parfois dans des revues rares, qui concernent l’objet de sa  recherche.&nbsp;</span></div><div style="text-indent: 20px;"><br /></div><span style="font-size: x-small;"></span><div style="text-indent: 20px;"><span style="font-size: x-small;">Aujourd’hui, le BAHR se présente toujours comme une base de données  bibliographique et analytique unique pour la connaissance et la  recherche en histoire et en archéologie du monde romain antique. Cette  base de données est fondée sur le dépouillement de plus de 800 revues  françaises et étrangères traitant du monde romain antique (en histoire,  archéologie, épigraphie, numismatique, papyrologie...). Depuis 2007, une  analyse des articles (en texte libre) accompagne les mots-clés de la  plupart des notices. En 2013, l’équipe du BAHR a décidé d’adapter cet  outil bibliographique aux nouvelles exigences de la recherche en  histoire ancienne : le BAHR intègre désormais le dépouillement des actes  de colloque et d’autres ouvrages collectifs traitant de l’histoire  romaine (publiés à partir de 2012, à condition que l’équipe du BAHR  reçoive directement un exemplaire de ces ouvrages).&nbsp;</span></div><div style="text-indent: 20px;"><br /></div><span style="font-size: x-small;"></span><div style="text-indent: 20px;"><span style="font-size: x-small;">Le BAHR repose sur le travail d’une équipe composée d’ingénieurs CNRS de  l'UMR 7044 « ArcHiMède » et d’un informaticien de l’USR-MISHA. S’y  ajoute l'aide d'enseignants-chercheurs de l'équipe et aussi d'étudiants  en master et en doctorat des universités de Strasbourg (UDS) et de  Mulhouse (UHA), des collègues de diverses universités françaises (Paris  IV, Grenoble) ainsi que des collègues et doctorants québécois de  l’Université de Laval, et enfin de quelques chercheurs extérieurs  (Pavie, Italie).&nbsp;</span></div><div style="text-indent: 20px;"><br /></div><span style="font-size: x-small;"></span><div style="text-indent: 20px;"><span style="font-size: x-small;">Depuis 1999, l'ensemble des données de la base est accessible  gratuitement sur le web (http://www.misha.fr/antiquite). En 2004, grâce à  une initiative du Réseau des Maisons des Sciences de l'Homme, le BAHR a participé à la mise en place  du portail DAPHNE (Données en Archéologie Préhistoire et Histoire sur le  Net), commun à FRANTIQ et à FRANCIS – Archéologie / Préhistoire / Religion – (<a href="http://www.daphne.cnrs.fr/" target="_blank">http://www.daphne.cnrs.fr/</a>). Enfin, depuis septembre 2013, les données du BAHR sont également disponibles sur la plateforme de recherche ISIDORE : <a href="http://rechercheisidore.fr/" target="_blank">http://rechercheisidore.fr</a></span></div><div style="text-indent: 20px;"><span style="font-size: x-small;">&nbsp; </span></div><span style="font-size: x-small;"></span><div style="text-indent: 20px;"><span style="font-size: x-small;">Fidèle à ses objectifs initiaux et à l’ambition de son fondateur, le  BAHR constitue une base de données unique, exclusivement consacrée au  monde romain, et reste un outil au service des scientifiques français et  étrangers</span>. </div></blockquote></div></div><div style="text-align: center;"><span style="font-size: small;"><span style="font-family: Georgia,Times New Roman,Times,serif;"><span>See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></div><br /><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8001095990232302632/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8001095990232302632/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/10/open-access-journal-bulletin-analytique.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8001095990232302632"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8001095990232302632"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/10/open-access-journal-bulletin-analytique.html"
          title="Open Access Journal: Bulletin Analytique d'Histoire Romaine"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

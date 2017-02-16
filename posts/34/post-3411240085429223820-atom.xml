@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3411240085429223820</id>
+   <published>2016-07-12T14:17:00.000-04:00</published>
+   <updated>2016-07-12T14:17:43.003-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Introducing Nammu, ORACC's new ATF editor</title>
+   <content type="html"><![CDATA[<a href="http://oracc.blogspot.com/2016/07/editing-atf-with-nammu.html">Editing ATF with Nammu</a><br /><blockquote class="tr_bq"><img alt="Oracc Notes and News" height="81" id="Header1_headerimg" src="https://1.bp.blogspot.com/-Dz4eF-YFCzI/T-OWR6gQ-2I/AAAAAAAAADU/Kizc9vXqf3Q/s320/oracc-blog-header.png" style="display: block;" width="320" /></blockquote><div class="post-header"> </div><blockquote class="tr_bq"><h1><span style="font-size: x-small;">Introducing Nammu, Oracc's new ATF editor</span></h1><span style="font-size: x-small;">Nammu is Oracc's new, platform-independent editing software for  creating transliterations, lemmatisations and translations of cuneiform  texts. It is being written for us by Raquel Alegre and Jens Nielsen of  UCL's Research Software Development Team.</span><br />  <ul><li><span style="font-size: x-small;">Download <a href="https://github.com/oracc/nammu/releases/download/v0.3.1/nammu-0.3.1.jar">the current release</a> of Nammu</span></li><li><span style="font-size: x-small;">Follow <a href="http://https//github.com/oracc/nammu/blob/master/README.md#how-to-run-nammu">these installation instructions</a></span></li></ul><span style="font-size: x-small;">If you are an existing Oracc content-creator and have been editing  ATF in Emacs, that's all you need to do. You'll find that Nammu is an  intuitive replacement for Emacs, and that you can use all the Oracc  keyboard shortcuts as usual.</span><br />   <h2><span style="font-size: x-small;">New to ATF?</span></h2><span style="font-size: x-small;">If you haven't edited ATF before, you may also want to download:</span><br /> <ul><li><span style="font-size: x-small;">our <a href="http://oracc.museum.upenn.edu/doc/help/visitingoracc/keyboards/index.html">keyboard</a> for cuneiform transliteration</span></li><li><span style="font-size: x-small;">and/or one or more <a href="http://oracc.museum.upenn.edu/doc/help/visitingoracc/fonts/#h_unicodetransliterationfonts">unicode transliteration fonts</a></span></li></ul><span style="font-size: x-small;">You should also read the online <a href="http://oracc.museum.upenn.edu/doc/help/editinginatf/#h_learningoraccatf">help pages</a> on learning and using Oracc ATF and on <a href="http://oracc.museum.upenn.edu/doc/help/lemmatising/index.html">lemmatising</a>.</span><br />  <span style="font-size: x-small;">Do contact any one of the Oracc Steering Group (Eleanor, Jamie, Niek,  or Steve) if you would like to have your own Oracc project space (which  can be public or private, as you like).</span><br />  <h2><span style="font-size: x-small;">Tips and tricks</span></h2><span style="font-size: x-small;">Nammu now has all its core funcationality – you can edit real texts  with it unproblematically -- but it is still under development. If you  like you can <a href="https://github.com/oracc/nammu">join the oracc/nammu group</a> on Github to:  </span><br /><ul><li><span style="font-size: x-small;">watch for <a href="https://github.com/oracc/nammu/releases">new releases</a></span></li><li><span style="font-size: x-small;">see which aspects of Nammu are <a href="https://github.com/oracc/nammu/issues">currently being worked on</a>, and</span></li><li><span style="font-size: x-small;">most helpfully for us, <a href="https://github.com/oracc/nammu/issues/new">report bugs and issues</a>.</span></li></ul><span style="font-size: x-small;">Here are some ease-of-use features that we're currently working to enhance:</span><br /> <ul><li><span style="font-size: x-small;">At the moment there is no line-wrapping, so you have to scroll across for long lines.</span></li><li><span style="font-size: x-small;">Nor is there any search/replace facility yet — also coming soon, we hope.</span></li><li><span style="font-size: x-small;">There's no split screen option yet, either, so for the moment I  suggest that you create translations in your usual word processor as you  lemmatise, then paste them into Nammu for validation when you finish.  It works for me!</span></li></ul><span style="font-size: x-small;">For more details <a href="https://github.com/oracc/nammu/blob/master/README.md#known-problems-and-features-under-development">see here</a>.</span><br />  <h2><span style="font-size: x-small;">More about Nammu</span></h2><span style="font-size: x-small;">Nammu has some built-in help but you can also:</span><br /> <ul><li><span style="font-size: x-small;"><a href="https://youtu.be/fILSiUjTzAY?t=40m37s">watch a video</a> of me using Nammu to edit a tablet from Tell Khaiber</span></li><li><span style="font-size: x-small;"><a href="https://youtu.be/fILSiUjTzAY">watch the whole video</a>, in which I introduce Oracc and Tell Khaiber</span></li><li><span style="font-size: x-small;"><a href="http://slides.com/raquelalegre/oracc-7#/">read Raquel's slides</a> about the programming and principles behind Nammu</span></li><li><span style="font-size: x-small;">ask any one of the Oracc Steering Group (Eleanor, Jamie, Niek, or Steve) for further help!</span></li></ul></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/3411240085429223820/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/07/introducing-nammu-oraccs-new-atf-editor.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3411240085429223820"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/3411240085429223820"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/07/introducing-nammu-oraccs-new-atf-editor.html"
+         title="Introducing Nammu, ORACC's new ATF editor"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

@@ -1,247 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4369870470413536737</id>
-    <published>2014-05-10T09:30:00.000-04:00</published>
-    <updated>2014-05-10T09:32:01.024-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4369870470413536737</id>
+   <published>2014-05-10T09:30:00.000-04:00</published>
+   <updated>2016-04-08T15:48:52.556-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Spasin"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Spasin"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Hebrew Jewish Studies"/>
-    <title type="text">Open Access Journal: Sefarad</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a
-      href="http://ancientworldonline.blogspot.com/2009/11/more-open-access-journals-group-9.html">9
-      November 2009</a>. Updated 10 May 2014]</span><br /><br /><span
-      class="title"><a
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/index">Sefarad: Estudios hebraicos,
-      sefardíes y de Oriente Próximo</a></span><br /><span
-      class="title">eISSN: 1988-320X</span><br /><span class="title">ISSN:
-      0037-0894</span><br /><blockquote class="tr_bq"><img
-      alt="http://sefarad.revistas.csic.es/public/journals/5/sefarad_barra.jpg"
-      src="http://sefarad.revistas.csic.es/public/journals/5/sefarad_barra.jpg" height="40"
-      width="400" /></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><b>Sefarad</b> inició su publicación en 1941 en el seno de la Escuela
-      de Estudios Hebraicos de la mano de Francisco Cantera Burgos (Madrid) y José María Millás
-      Vallicrosa (Barcelona). Se publica en forma de dos fascículos anuales, con 500 páginas de
-      artículos originales y reseñas de filología y crítica textual de la Biblia Hebrea (y sus
-      versiones antiguas y comentarios); filología y lingüística de las lenguas hebrea y aramea;
-      historia y cultura de los judíos en España; y lengua y literatura, historia y producción
-      cultural de los sefardíes.<span class="title"> </span></span><br
-      /><span class="title" style="font-size: x-small;"><br /></span><br
-      /><span style="font-size: x-small;"></span><table
-      border="0"><tbody><tr><td><h4 class="rojo"> </h4><table
-      border="0" style="width: 90%px;"><tbody><tr><td><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;">2013</span></span></h4></td><td width="15%"><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"> Vol 73</span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/69"
-      title="">1</a></span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/70"
-      title="">2</a></span></span></h4></td> <td
-      width="15%"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><br /></span></span></td> <td> <h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;">2012</span></span></h4></td><td width="15%"><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"> Vol 72</span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/67"
-      title="">1</a></span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/68"
-      title="">2</a></span></span></h4></td>
-      </tr><tr><td> <h4 class="rojo"><span style="font-size:
-      x-small;"><span style="font-family:
-      inherit;">2011</span></span></h4></td><td width="15%"><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"> Vol 71</span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/65"
-      title="">1</a></span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/66"
-      title="">2</a></span></span></h4></td> <td
-      width="15%"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><br /></span></span></td> <td> <h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;">2010</span></span></h4></td><td width="15%"><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"> Vol 70</span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/62"
-      title="">1</a></span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/63"
-      title="">2</a></span></span></h4></td>
-      </tr><tr><td> <h4 class="rojo"><span style="font-size:
-      x-small;"><span style="font-family:
-      inherit;">2009</span></span></h4></td><td width="15%"><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"> Vol 69</span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/50"
-      title="">1</a></span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/61"
-      title="">2</a></span></span></h4></td> <td
-      width="15%"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><br /></span></span></td> <td> <h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;">2008</span></span></h4></td><td width="15%"><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"> Vol 68</span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/48"
-      title="">1</a></span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/49"
-      title="">2</a></span></span></h4></td>
-      </tr><tr><td> <h4 class="rojo"><span style="font-size:
-      x-small;"><span style="font-family:
-      inherit;">2007</span></span></h4></td><td width="15%"><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"> Vol 67</span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/45"
-      title="">1</a></span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/47"
-      title="">2</a></span></span></h4></td> <td
-      width="15%"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><br /></span></span></td> <td> <h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;">2006</span></span></h4></td><td width="15%"><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"> Vol 66</span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/31"
-      title="">1</a></span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/44"
-      title="">2</a></span></span></h4></td>
-      </tr><tr><td> <h4 class="rojo"><span style="font-size:
-      x-small;"><span style="font-family:
-      inherit;">2005</span></span></h4></td><td width="15%"><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"> Vol 65</span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/51"
-      title="">1</a></span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/52"
-      title="">2</a></span></span></h4></td> <td
-      width="15%"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><br /></span></span></td> <td> <h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;">2004</span></span></h4></td><td width="15%"><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"> Vol 64</span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/53"
-      title="">1</a></span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/54"
-      title="">2</a></span></span></h4></td>
-      </tr><tr><td> <h4 class="rojo"><span style="font-size:
-      x-small;"><span style="font-family:
-      inherit;">2003</span></span></h4></td><td width="15%"><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"> Vol 63</span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/55"
-      title="">1</a></span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/56"
-      title="">2</a></span></span></h4></td> <td
-      width="15%"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><br /></span></span></td> <td> <h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;">2002</span></span></h4></td><td width="15%"><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"> Vol 62</span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/57"
-      title="">1</a></span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/58"
-      title="">2</a></span></span></h4></td>
-      </tr><tr><td> <h4 class="rojo"><span style="font-size:
-      x-small;"><span style="font-family:
-      inherit;">2001</span></span></h4></td><td width="15%"><h4
-      class="rojo"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"> Vol 61</span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/59"
-      title="">1</a></span></span></h4></td> <td><h4
-      class="enlaces"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><a class="enlaces"
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/60"
-      title="">2</a></span></span></h4></td>
-      </tr></tbody></table></td></tr></tbody></table></blockquote><div
-      style="text-align: center;"><div style="text-align: center;"><span
-      class="Apple-style-span" style="color: #333333; font-family: 'Times New Roman'; line-height:
-      25px;">See the full&nbsp;</span><span class="Apple-style-span" style="color:
-      #333333; font-family: 'Times New Roman'; line-height: 25px;"><a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html"
-      style="color: #5588aa; text-decoration: none;">List of Open Access Journals in Ancient
-      Studies</a></span></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Hebrew Jewish Studies"/>
+   <title type="text">Open Access Journal:  Sefarad: Estudios hebraicos, sefardíes y de Oriente Próximo</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a href="http://ancientworldonline.blogspot.com/2009/11/more-open-access-journals-group-9.html">9 November 2009</a>. Updated 10 May 2014]</span><br /><br /><span class="title"><a href="http://sefarad.revistas.csic.es/index.php/sefarad/index">Sefarad: Estudios hebraicos, sefardíes y de Oriente Próximo</a></span><br /><span class="title">eISSN: 1988-320X</span><br /><span class="title">ISSN: 0037-0894</span><br /><blockquote class="tr_bq"><img alt="http://sefarad.revistas.csic.es/public/journals/5/sefarad_barra.jpg" src="http://sefarad.revistas.csic.es/public/journals/5/sefarad_barra.jpg" height="40" width="400" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><b>Sefarad</b> inició su publicación en 1941 en el seno de la  Escuela de Estudios Hebraicos de la mano de Francisco Cantera Burgos  (Madrid) y José María Millás Vallicrosa (Barcelona). Se publica en forma  de dos fascículos anuales, con 500 páginas de artículos originales y  reseñas de filología y crítica textual de la Biblia Hebrea (y sus  versiones antiguas y comentarios); filología y lingüística de las  lenguas hebrea y aramea; historia y cultura de los judíos en España; y  lengua y literatura, historia y producción cultural de los sefardíes.<span class="title"> </span></span><br /><span class="title" style="font-size: x-small;"><br /></span><br /><span style="font-size: x-small;"></span><table border="0"><tbody><tr><td><h4 class="rojo"> </h4><table border="0" style="width: 90%px;"><tbody><tr><td><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;">2013</span></span></h4></td><td width="15%"><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;"> Vol 73</span></span></h4></td>     <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/69" title="">1</a></span></span></h4></td>               <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/70" title="">2</a></span></span></h4></td>                                                           <td width="15%"><span style="font-size: x-small;"><span style="font-family: inherit;"><br /></span></span></td>         <td><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;">2012</span></span></h4></td><td width="15%"><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;"> Vol 72</span></span></h4></td>     <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/67" title="">1</a></span></span></h4></td>               <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/68" title="">2</a></span></span></h4></td>                                                    </tr><tr><td><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;">2011</span></span></h4></td><td width="15%"><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;"> Vol 71</span></span></h4></td>     <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/65" title="">1</a></span></span></h4></td>               <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/66" title="">2</a></span></span></h4></td>                                                           <td width="15%"><span style="font-size: x-small;"><span style="font-family: inherit;"><br /></span></span></td>         <td><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;">2010</span></span></h4></td><td width="15%"><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;"> Vol 70</span></span></h4></td>     <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/62" title="">1</a></span></span></h4></td>               <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/63" title="">2</a></span></span></h4></td>                                                    </tr><tr><td><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;">2009</span></span></h4></td><td width="15%"><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;"> Vol 69</span></span></h4></td>     <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/50" title="">1</a></span></span></h4></td>               <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/61" title="">2</a></span></span></h4></td>                                                           <td width="15%"><span style="font-size: x-small;"><span style="font-family: inherit;"><br /></span></span></td>         <td><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;">2008</span></span></h4></td><td width="15%"><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;"> Vol 68</span></span></h4></td>     <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/48" title="">1</a></span></span></h4></td>               <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/49" title="">2</a></span></span></h4></td>                                                    </tr><tr><td><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;">2007</span></span></h4></td><td width="15%"><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;"> Vol 67</span></span></h4></td>     <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/45" title="">1</a></span></span></h4></td>               <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/47" title="">2</a></span></span></h4></td>                                                           <td width="15%"><span style="font-size: x-small;"><span style="font-family: inherit;"><br /></span></span></td>         <td><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;">2006</span></span></h4></td><td width="15%"><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;"> Vol 66</span></span></h4></td>     <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/31" title="">1</a></span></span></h4></td>               <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/44" title="">2</a></span></span></h4></td>                                                    </tr><tr><td><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;">2005</span></span></h4></td><td width="15%"><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;"> Vol 65</span></span></h4></td>     <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/51" title="">1</a></span></span></h4></td>               <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/52" title="">2</a></span></span></h4></td>                                                           <td width="15%"><span style="font-size: x-small;"><span style="font-family: inherit;"><br /></span></span></td>         <td><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;">2004</span></span></h4></td><td width="15%"><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;"> Vol 64</span></span></h4></td>     <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/53" title="">1</a></span></span></h4></td>               <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/54" title="">2</a></span></span></h4></td>                                                    </tr><tr><td><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;">2003</span></span></h4></td><td width="15%"><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;"> Vol 63</span></span></h4></td>     <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/55" title="">1</a></span></span></h4></td>               <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/56" title="">2</a></span></span></h4></td>                                                           <td width="15%"><span style="font-size: x-small;"><span style="font-family: inherit;"><br /></span></span></td>         <td><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;">2002</span></span></h4></td><td width="15%"><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;"> Vol 62</span></span></h4></td>     <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/57" title="">1</a></span></span></h4></td>               <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/58" title="">2</a></span></span></h4></td>                                                    </tr><tr><td><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;">2001</span></span></h4></td><td width="15%"><h4 class="rojo"><span style="font-size: x-small;"><span style="font-family: inherit;"> Vol 61</span></span></h4></td>     <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/59" title="">1</a></span></span></h4></td>               <td><h4 class="enlaces"><span style="font-size: x-small;"><span style="font-family: inherit;"><a class="enlaces" href="http://sefarad.revistas.csic.es/index.php/sefarad/issue/view/60" title="">2</a></span></span></h4></td>           </tr></tbody></table></td></tr></tbody></table></blockquote><div style="text-align: center;"><div style="text-align: center;"><span class="Apple-style-span" style="color: #333333; font-family: &quot;times new roman&quot;; line-height: 25px;">See the full&nbsp;</span><span class="Apple-style-span" style="color: #333333; font-family: &quot;times new roman&quot;; line-height: 25px;"><a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html" style="color: #5588aa; text-decoration: none;">List of Open Access Journals in Ancient Studies</a></span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4369870470413536737/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4369870470413536737/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/01/open-accesss-journal-sefarad.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4369870470413536737"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4369870470413536737"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/01/open-accesss-journal-sefarad.html"
-         title="Open Access Journal: Sefarad"/>
-    <author>
+         title="Open Access Journal:  Sefarad: Estudios hebraicos, sefardíes y de Oriente Próximo"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

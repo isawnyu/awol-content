@@ -1,72 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-590125092966267143</id>
-    <published>2014-11-12T18:22:00.000-05:00</published>
-    <updated>2014-11-12T18:22:36.961-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-590125092966267143</id>
+   <published>2014-11-12T18:22:00.000-05:00</published>
+   <updated>2014-11-12T18:22:36.961-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">CDLI News: Free Library of Philadelphia cuneiform collection</title>
-    <content type="html"><![CDATA[Mellon-funded digitization of the Free Library of Philadelphia cuneiform
-      collection<br /><blockquote class="tr_bq"><span style="font-size:
-      x-small;">We are delighted to announce a successful digitization collaboration between the
-      Free Library of Philadelphia (<a href="http://freelibrary.org/">FLP</a>) and the
-      Andrew W. Mellon Foundation-supported research project "Creating a Sustainable Cuneiform
-      Digital Library" (CSCDL).<br /><br />Under the general direction of the Cuneiform
-      Digital Library Initiative (<a href="http://cdli.ucla.edu/">CDLI - Los
-      Angeles/Berlin/Oxford</a>), CSCDL is dedicated to the digital capture, persistent
-      archiving and web dissemination of major collections in the US, Europe and the Middle East. The
-      2916 cuneiform artifacts of the FLP represent a very substantial, yet still only partially
-      published American collection. Janine Pollock, then Head of FLP’s Rare Book Department,
-      provided the CDLI with a full concordance of the collection, and Los Angeles staff began in
-      August of 2012 with preparations for its digitization. In January of 2013, CDLI postdoctoral
-      associate Lance Allred initiated scanning work in Philadelphia, followed by subsequent missions
-      undertaken by graduate student researcher Michael Heinle and research associate Stephen Hughey.
-      All three were aided in no small part by the dedicated efforts of the Rare Book Department’s
-      staff. Following fatcross-processing of the raw images by Heinle and Hughey, these files have
-      been posted to the CDLI website, and can be viewed in search at &lt;<a
-      href="http://cdli.ucla.edu/search/">http://cdli.ucla.edu/search/</a>&gt;, and in
-      overview at &lt;<a
-      href="http://cdli.ucla.edu/collections/flp/flp.html">http://cdli.ucla.edu/collections/flp/flp.html</a>&gt;.
-      In the interest of a speedy exposure of the full collection, we have done only preliminary work
-      on the nearly 1400 texts currently registered as "unpublished unassigned”; and a final short
-      mission to the FLP by UCLA staff is planned to correct or supplement some of our online files.
-      All inquiries regarding further publication of the FLP collection should be directed to the
-      <a href="mailto:erefrbd@freelibrary.org">Rare Book Department</a>; we welcome
-      corrections or additions to our files, sent to<a href="mailto:cdli@ucla.edu">
-      CDLI</a>.<br /><br />In opening cuneiform collections to world-wide
-      inspection, the FLP joins other cultural heritage and research institutions in CDLI's "extended
-      family" who support efforts to permanently archive, and to make available to the public all
-      artifacts of shared world history that are in their immediate, or indirect care.<br
-      /><br />Janine Pollock, Assistant Chief, Central Public Services Division, Free
-      Library of Philadelphia<br />Robert K. Englund, Director, CDLI (Los
-      Angeles)</span></blockquote><br />]]></content>
-    <link rel="replies"
+   <title type="text">CDLI News: Free Library of Philadelphia cuneiform collection</title>
+   <content type="html"><![CDATA[Mellon-funded digitization of the Free Library of Philadelphia cuneiform collection<br /><blockquote class="tr_bq"><span style="font-size: x-small;">We are delighted to announce a successful digitization collaboration between the Free Library of Philadelphia (<a href="http://freelibrary.org/">FLP</a>) and the Andrew W. Mellon Foundation-supported research project "Creating a Sustainable Cuneiform Digital Library" (CSCDL).<br /><br />Under the general direction of the Cuneiform Digital Library Initiative (<a href="http://cdli.ucla.edu/">CDLI - Los Angeles/Berlin/Oxford</a>), CSCDL is dedicated to the digital capture, persistent archiving and web dissemination of major collections in the US, Europe and the Middle East. The 2916 cuneiform artifacts of the FLP represent a very substantial, yet still only partially published American collection. Janine Pollock, then Head of FLP’s Rare Book Department, provided the CDLI with a full concordance of the collection, and Los Angeles staff began in August of 2012 with preparations for its digitization. In January of 2013, CDLI postdoctoral associate Lance Allred initiated scanning work in Philadelphia, followed by subsequent missions undertaken by graduate student researcher Michael Heinle and research associate Stephen Hughey. All three were aided in no small part by the dedicated efforts of the Rare Book Department’s staff. Following fatcross-processing of the raw images by Heinle and Hughey, these files have been posted to the CDLI website, and can be viewed in search at &lt;<a href="http://cdli.ucla.edu/search/">http://cdli.ucla.edu/search/</a>&gt;, and in overview at &lt;<a href="http://cdli.ucla.edu/collections/flp/flp.html">http://cdli.ucla.edu/collections/flp/flp.html</a>&gt;. In the interest of a speedy exposure of the full collection, we have done only preliminary work on the nearly 1400 texts currently registered as "unpublished unassigned”; and a final short mission to the FLP by UCLA staff is planned to correct or supplement some of our online files. All inquiries regarding further publication of the FLP collection should be directed to the <a href="mailto:erefrbd@freelibrary.org">Rare Book Department</a>; we welcome corrections or additions to our files, sent to<a href="mailto:cdli@ucla.edu"> CDLI</a>.<br /><br />In opening cuneiform collections to world-wide inspection, the FLP joins other cultural heritage and research institutions in CDLI's "extended family" who support efforts to permanently archive, and to make available to the public all artifacts of shared world history that are in their immediate, or indirect care.<br /><br />Janine Pollock, Assistant Chief, Central Public Services Division, Free Library of Philadelphia<br />Robert K. Englund, Director, CDLI (Los Angeles)</span></blockquote><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/590125092966267143/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/590125092966267143/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/cdli-news-free-library-of-philadelphia.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/590125092966267143"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/590125092966267143"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/cdli-news-free-library-of-philadelphia.html"
          title="CDLI News: Free Library of Philadelphia cuneiform collection"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

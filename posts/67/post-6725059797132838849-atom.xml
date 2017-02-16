@@ -1,101 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6725059797132838849</id>
-    <published>2014-04-06T18:24:00.004-04:00</published>
-    <updated>2014-04-06T18:24:52.516-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6725059797132838849</id>
+   <published>2014-04-06T18:24:00.004-04:00</published>
+   <updated>2014-04-06T18:24:52.516-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">News from the Cuneiform Digital Library Notes (CDLN)</title>
-    <content type="html"><![CDATA[<span style="font-size: x-small;"><span style="font-size:
-      10pt;">We are pleased to announce the publication of several new contributions to the <a
-      href="http://cdli.ucla.edu/pubs/cdln/php/index.php" target="_blank">Cuneiform Digital
-      Library Notes (CDLN)</a><br /><br />CDLN 2014:005<br />Liu Changyu,
-      <a href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000032" target="_blank">A Note
-      on gal-tab-bu-um</a><br /><br />CDLN 2014:006<br />Liu Changyu, <a
-      href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000033" target="_blank">A Note on the
-      Regular Offering to Ninlil at Tummal</a><br /><br />CDLN 2014:007<br
-      />Moudhy Al-Rashid, <a href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000034"
-      target="_blank">A Note on the Meaning of husu and
-      hussu</a></span></span><br /><span style="font-size:
-      x-small;"><span style="font-size: 10pt;"><br />CDLN 2014:008<br />Klaus
-      Wagensonner, <a href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000035"
-      target="_blank">Digitizing in the round</a><br /><br />CDLN 2014:009<br
-      />Christina Tsouparopoulou, <a
-      href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000036" target="_blank">A Note on Ur
-      III administrative procrastination</a><br /><br />CDLN 2014:010<br
-      />Klaus Wagensonner, <a href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000037"
-      target="_blank">Šulpa'e Re-joined</a><a
-      href="https://xmail.uchicago.edu/owa/redir.aspx?C=SM_l6azrF0qs49cAcoed2Y0VhABsJdEI9DGpEzDE89AgupkPxuJwW10liHpkY4YYz-AFlNX4FXc.&amp;URL=http%3a%2f%2fcdli.ucla.edu%2fpubs%2fcdln%2fphp%2fsingle.php%3fid%3d000037"
-      target="_blank"></a><br /><br />CDLN 2014:011<br />Kamran V. Zand,
-      <a href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000038" target="_blank">What
-      happened to Zuzu, King of Akšak?</a><br /><br /><br />Important
-      note:<br /><br />As of now some major changes to the technical side of CDLN take
-      effect. All Notes and relevant information is stored and maintained via a MySQL database, from
-      which the data is directly drawn. As a result the link to each Note changed, for instance,
-      from<br /><br /><a
-      href="https://xmail.uchicago.edu/owa/redir.aspx?C=SM_l6azrF0qs49cAcoed2Y0VhABsJdEI9DGpEzDE89AgupkPxuJwW10liHpkY4YYz-AFlNX4FXc.&amp;URL=http%3a%2f%2fcdli.ucla.edu%2fpubs%2fcdln%2farchives%2f000031.html"
-      target="_blank">http://cdli.ucla.edu/pubs/cdln/archives/000031.html</a><br
-      /><br />to<br /><br /><a
-      href="https://xmail.uchicago.edu/owa/redir.aspx?C=SM_l6azrF0qs49cAcoed2Y0VhABsJdEI9DGpEzDE89AgupkPxuJwW10liHpkY4YYz-AFlNX4FXc.&amp;URL=http%3a%2f%2fcdli.ucla.edu%2fpubs%2fcdln%2fphp%2fsingle.php%3fid%3d000031"
-      target="_blank">http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000031</a><br
-      /><br />Please note, that this does not have any effect to the old links, for you are
-      automatically re-directed to the new ones instantly. We do hope that these changes will
-      increase the efficiency of CDLN and are<br />therefore happy to receive contributions for
-      the next publication of Notes on July 1.<br /><br />The CDLN, together with its
-      sister publications <a href="http://cdli.ucla.edu/pubs/cdlb.html"
-      target="_blank">Cuneiform DigitalLibrary Bulletin</a> (CDLB) and<br /><a
-      href="http://cdli.ucla.edu/pubs/cdlj.html" target="_blank">Cuneiform Digital Library
-      Journal</a> (CDLJ), are peer-reviewed publications that offer a persistent web presence
-      under the auspices of the University of California system. As e-journals, the delay
-      between<br />submission and publication is well below that of academic print journals,
-      while the interaction with cuneiform artifacts documented in the CDLI database offers obvious
-      strengths for an interactive<br />discourse. Authors should expect a two to four month
-      interval between submission of a draft text with illustrations and its publication for
-      substantive contributions to the CDLJ, at most two months for those made to the Bulletin, and
-      approximately two weeks for the Notes that are conceived as an online venue for NABU-style
-      communications that can include short philological or lexicographical contributions as well as
-      regular updates of a more substantial nature describing the background or progress of, in
-      particular, web-based research efforts. For submission guidelines including technicalities
-      regarding bibliographical citations etc. please consult the information at<br
-      />&lt;<a
-      href="https://xmail.uchicago.edu/owa/redir.aspx?C=SM_l6azrF0qs49cAcoed2Y0VhABsJdEI9DGpEzDE89AgupkPxuJwW10liHpkY4YYz-AFlNX4FXc.&amp;URL=http%3a%2f%2fcdli.ucla.edu%2f%3fq%3dabout-cdln"
-      target="_blank">http://cdli.ucla.edu/?q=about-cdln</a>&gt;.<br /><br
-      />New submissions will appear in preprint status four times a year (January 1, April 1, July
-      1, and October 1; notices of new submissions will be made to this list) and are clearly marked
-      as such. During the preprint period, authors will be able to make small, non-substantive<br
-      />changes (e.g., typographical errors) to their submissions. After two weeks, these
-      submissions are then archived.<br /><br />Scholars are encouraged to send
-      contributions to the CDLN at<br
-      />&lt;klaus.wagensonner@orinst.ox.ac.uk&gt;.<br /><br />On behalf of the
-      CDLI<br /><br />Jacob L. Dahl and Klaus Wagensonner<br />University of
-      Oxford<br /></span></span>]]></content>
-    <link rel="replies"
+   <title type="text">News from the Cuneiform Digital Library Notes (CDLN)</title>
+   <content type="html"><![CDATA[<span style="font-size: x-small;"><span style="font-size: 10pt;">We are pleased to announce the publication of several new contributions to the <a href="http://cdli.ucla.edu/pubs/cdln/php/index.php" target="_blank">Cuneiform Digital Library Notes (CDLN)</a><br /><br />CDLN 2014:005<br />Liu Changyu, <a href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000032" target="_blank">A Note on gal-tab-bu-um</a><br /><br />CDLN 2014:006<br />Liu Changyu, <a href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000033" target="_blank">A Note on the Regular Offering to Ninlil at Tummal</a><br /><br />CDLN 2014:007<br />Moudhy Al-Rashid, <a href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000034" target="_blank">A Note on the Meaning of husu and hussu</a></span></span><br /><span style="font-size: x-small;"><span style="font-size: 10pt;"><br />CDLN 2014:008<br />Klaus Wagensonner, <a href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000035" target="_blank">Digitizing in the round</a><br /><br />CDLN 2014:009<br />Christina Tsouparopoulou, <a href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000036" target="_blank">A Note on Ur III administrative procrastination</a><br /><br />CDLN 2014:010<br />Klaus Wagensonner, <a href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000037" target="_blank">Šulpa'e Re-joined</a><a href="https://xmail.uchicago.edu/owa/redir.aspx?C=SM_l6azrF0qs49cAcoed2Y0VhABsJdEI9DGpEzDE89AgupkPxuJwW10liHpkY4YYz-AFlNX4FXc.&amp;URL=http%3a%2f%2fcdli.ucla.edu%2fpubs%2fcdln%2fphp%2fsingle.php%3fid%3d000037" target="_blank"></a><br /><br />CDLN 2014:011<br />Kamran V. Zand, <a href="http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000038" target="_blank">What happened to Zuzu, King of Akšak?</a><br /><br /><br />Important note:<br /><br />As of now some major changes to the technical side of CDLN take effect. All Notes and relevant information is stored and maintained via a MySQL database, from which the data is directly drawn. As a result the link to each Note changed, for instance, from<br /><br /><a href="https://xmail.uchicago.edu/owa/redir.aspx?C=SM_l6azrF0qs49cAcoed2Y0VhABsJdEI9DGpEzDE89AgupkPxuJwW10liHpkY4YYz-AFlNX4FXc.&amp;URL=http%3a%2f%2fcdli.ucla.edu%2fpubs%2fcdln%2farchives%2f000031.html" target="_blank">http://cdli.ucla.edu/pubs/cdln/archives/000031.html</a><br /><br />to<br /><br /><a href="https://xmail.uchicago.edu/owa/redir.aspx?C=SM_l6azrF0qs49cAcoed2Y0VhABsJdEI9DGpEzDE89AgupkPxuJwW10liHpkY4YYz-AFlNX4FXc.&amp;URL=http%3a%2f%2fcdli.ucla.edu%2fpubs%2fcdln%2fphp%2fsingle.php%3fid%3d000031" target="_blank">http://cdli.ucla.edu/pubs/cdln/php/single.php?id=000031</a><br /><br />Please note, that this does not have any effect to the old links, for you are automatically re-directed to the new ones instantly. We do hope that these changes will increase the efficiency of CDLN and are<br />therefore happy to receive contributions for the next publication of Notes on July 1.<br /><br />The CDLN, together with its sister publications <a href="http://cdli.ucla.edu/pubs/cdlb.html" target="_blank">Cuneiform DigitalLibrary Bulletin</a> (CDLB) and<br /><a href="http://cdli.ucla.edu/pubs/cdlj.html" target="_blank">Cuneiform Digital Library Journal</a> (CDLJ), are peer-reviewed publications that offer a persistent web presence under the auspices of the University of California system. As e-journals, the delay between<br />submission and publication is well below that of academic print journals, while the interaction with cuneiform artifacts documented in the CDLI database offers obvious strengths for an interactive<br />discourse. Authors should expect a two to four month interval between submission of a draft text with illustrations and its publication for substantive contributions to the CDLJ, at most two months for those made to the Bulletin, and approximately two weeks for the Notes that are conceived as an online venue for NABU-style communications that can include short philological or lexicographical contributions as well as regular updates of a more substantial nature describing the background or progress of, in particular, web-based research efforts. For submission guidelines including technicalities regarding bibliographical citations etc. please consult the information at<br />&lt;<a href="https://xmail.uchicago.edu/owa/redir.aspx?C=SM_l6azrF0qs49cAcoed2Y0VhABsJdEI9DGpEzDE89AgupkPxuJwW10liHpkY4YYz-AFlNX4FXc.&amp;URL=http%3a%2f%2fcdli.ucla.edu%2f%3fq%3dabout-cdln" target="_blank">http://cdli.ucla.edu/?q=about-cdln</a>&gt;.<br /><br />New submissions will appear in preprint status four times a year (January 1, April 1, July 1, and October 1; notices of new submissions will be made to this list) and are clearly marked as such. During the preprint period, authors will be able to make small, non-substantive<br />changes (e.g., typographical errors) to their submissions. After two weeks, these submissions are then archived.<br /><br />Scholars are encouraged to send contributions to the CDLN at<br />&lt;klaus.wagensonner@orinst.ox.ac.uk&gt;.<br /><br />On behalf of the CDLI<br /><br />Jacob L. Dahl and Klaus Wagensonner<br />University of Oxford<br /></span></span>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6725059797132838849/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6725059797132838849/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/04/news-from-cuneiform-digital-library.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6725059797132838849"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6725059797132838849"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/04/news-from-cuneiform-digital-library.html"
          title="News from the Cuneiform Digital Library Notes (CDLN)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

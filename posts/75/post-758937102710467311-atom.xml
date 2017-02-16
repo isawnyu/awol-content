@@ -1,122 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-758937102710467311</id>
-    <published>2013-02-06T10:56:00.001-05:00</published>
-    <updated>2013-02-06T10:56:21.745-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-758937102710467311</id>
+   <published>2016-10-15T16:23:00.000-04:00</published>
+   <updated>2016-10-15T16:23:18.317-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Language"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Ancient"/>
-    <title type="text">Open Access Journal: Revue Informatique et Statistique dans les Sciences
-      Humaines</title>
-    <content type="html"><![CDATA[<div class="tr_bq"><a
-      href="http://www.cipl.ulg.ac.be/rissh/rissh.htm">Revue Informatique et Statistique dans les
-      Sciences Humaines</a></div><blockquote><img
-      alt="http://www.cipl.ulg.ac.be/rissh/couverture.jpg" class="decoded" height="320"
-      src="http://www.cipl.ulg.ac.be/rissh/couverture.jpg" width="210"
-      /></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Cette annexe au site du C.I.P.L. a pour but de proposer aux personnes le
-      souhaitant un accès simplifié à divers articles et comptes rendus concernant des applications
-      de l'informatique ou de la statistique en sciences humaines et publiés dans la <i>Revue
-      Informatique et Statistique dans les Sciences Humaines</i> à partir de
-      1983.</span><br /><br /><div class="contentarea"><span
-      style="font-size: x-small;">Le site se veut extrêmement simple d'utilisation. Ainsi, chaque
-      année dispose de sa propre table des matières, à partir de laquelle il vous est désormais
-      possible de télécharger les différents articles proposés au format
-      pdf.</span></div><span class="bodyText">Selectionnez une date pour accéder à
-      sa table des matières.</span> <br />&nbsp; <br /><table border="0"
-      style="width: 400px;"> <tbody><tr> <td><div
-      align="center"><ul><li><span style="font-size: x-small;"><a
-      href="http://www.cipl.ulg.ac.be/rissh/annee83.html"
-      target="_self">1983</a></span></li></ul></div></td>
-      <td><div align="center"><ul><li><span style="font-size:
-      x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee93.html"
-      target="_self">1993</a></span></li></ul></div></td>
-      </tr><tr> <td><div align="center"><ul><li><span
-      style="font-size: x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee84.html"
-      target="_self">1984</a></span></li></ul></div></td>
-      <td><div align="center"><ul><li><span style="font-size:
-      x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee94.html"
-      target="_self">1994</a></span></li></ul></div></td>
-      </tr><tr> <td><div align="center"><ul><li><span
-      style="font-size: x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee85.html"
-      target="_self">1985</a></span></li></ul></div></td>
-      <td><div align="center"><ul><li><span style="font-size:
-      x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee95.html"
-      target="_self">1995</a></span></li></ul></div></td>
-      </tr><tr> <td><div align="center"><ul><li><span
-      style="font-size: x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee86.html"
-      target="_self">1986</a></span></li></ul></div></td>
-      <td><div align="center"><ul><li><span style="font-size:
-      x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee96.html"
-      target="_self">1996</a></span></li></ul></div></td>
-      </tr><tr> <td><div align="center"><ul><li><span
-      style="font-size: x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee87.html"
-      target="_self">1987</a></span></li></ul></div></td>
-      <td><div align="center"><ul><li><span style="font-size:
-      x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee97.html"
-      target="_self">1997</a></span></li></ul></div></td>
-      </tr><tr> <td><div align="center"><ul><li><span
-      style="font-size: x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee88.html"
-      target="_self">1988</a></span></li></ul></div></td>
-      <td><div align="center"><ul><li><span style="font-size:
-      x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee98.html"
-      target="_self">1998</a></span></li></ul></div></td>
-      </tr><tr> <td><div align="center"><ul><li><span
-      style="font-size: x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee89.html"
-      target="_self">1989</a></span></li></ul></div></td>
-      <td><div align="center"><ul><li><span style="font-size:
-      x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee99.html"
-      target="_self">1999</a></span></li></ul></div></td>
-      </tr><tr> <td><div align="center"><ul><li><span
-      style="font-size: x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee90.html"
-      target="_self">1990</a></span></li></ul></div></td>
-      <td><div align="center"><ul><li><span style="font-size:
-      x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee00.html"
-      target="_self">2000</a></span></li></ul></div></td>
-      </tr><tr> <td><div align="center"><ul><li><span
-      style="font-size: x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee91.html"
-      target="_self">1991</a></span></li></ul></div></td>
-      <td><div align="center"><ul><li><span style="font-size:
-      x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee03.html"
-      target="_self">2003</a></span></li></ul></div></td>
-      </tr><tr> <td><div align="center"><ul><li><span
-      style="font-size: x-small;"><a href="http://www.cipl.ulg.ac.be/rissh/annee92.html"
-      target="_self">1992</a></span></li></ul></div></td>
-      <td><span style="font-size: x-small;"><br /></span></td>
-      </tr></tbody></table></blockquote><div style="text-align:
-      center;"><span style="font-size: small;"><span><span><span>See the
-      full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Ancient"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Language"/>
+   <title type="text">Open Access Journal: Revue Informatique et Statistique dans les Sciences Humaines</title>
+   <content type="html"><![CDATA[<div class="tr_bq"><a href="http://web.philo.ulg.ac.be/rissh/">Revue Informatique et Statistique dans les Sciences Humaines</a><br />ISSN: 0030-4972 </div><blockquote><img alt="Sans titre 1" class="alignleft  wp-image-3353" src="http://web.philo.ulg.ac.be/rissh/wp-content/uploads/2013/11/Sans-titre-1.png" height="200" width="127" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Cette annexe au site du C.I.P.L. a pour  but de proposer aux personnes le souhaitant un accès simplifié à divers  articles et comptes rendus concernant des applications de l’informatique  ou de la statistique en sciences humaines et publiés dans la <i>Revue Informatique et Statistique dans les Sciences Humaines</i> à partir de 1965. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Le site se veut extrêmement simple  d’utilisation. Ainsi, chaque année dispose de sa propre table des  matières, accessible depuis le menu principal au sommet de la page ou  depuis les onglets déroulants ci-dessous. Chaque article y figurant est  désormais téléchargeable au format pdf. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">D’avance, nous vous souhaitons une agréable recherche et une bonne lecture !</span><span style="font-size: x-small;">&nbsp; </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Années 1965 - 1969</span><br /><div class="su-spoiler-content" style="display: block;"><span style="font-size: x-small;"><a href="http://web.philo.ulg.ac.be/rissh/1965-2/" title="Année 1965">1965</a> – <a href="http://web.philo.ulg.ac.be/rissh/1966-2/" title="Année 1966">1966</a> – <a href="http://web.philo.ulg.ac.be/rissh/1967-2/" title="Année 1967">1967</a> – <a href="http://web.philo.ulg.ac.be/rissh/1968-2/" title="Année 1968">1968</a> – <a href="http://web.philo.ulg.ac.be/rissh/1969-2/" title="Année 1969">1969</a></span></div><div class="su-spoiler su-spoiler-style-2 su-spoiler-open"><div class="su-spoiler-title"><span style="font-size: x-small;">Années 1970 - 1979</span></div><div class="su-spoiler-content" style="display: block;"><span style="font-size: x-small;"><a href="http://web.philo.ulg.ac.be/rissh/1970-2/" title="Année 1970">1970</a> – <a href="http://web.philo.ulg.ac.be/rissh/1971-2/" title="Année 1971">1971</a> – <a href="http://web.philo.ulg.ac.be/rissh/1972-2/" title="Année 1972">1972</a> – <a href="http://web.philo.ulg.ac.be/rissh/1973-2/" title="Année 1973">1973</a> – <a href="http://web.philo.ulg.ac.be/rissh/1974-2/" title="Année 1974">1974</a> – <a href="http://web.philo.ulg.ac.be/rissh/1975-2/" title="Année 1975">1975</a> – <a href="http://web.philo.ulg.ac.be/rissh/1976-2/" title="Année 1976">1976</a> – <a href="http://web.philo.ulg.ac.be/rissh/1977-2/" title="Année 1977">1977</a> – <a href="http://web.philo.ulg.ac.be/rissh/1978-2/" title="Année 1978">1978</a> – <a href="http://web.philo.ulg.ac.be/rissh/1979-2/" title="Année 1979">1979</a></span></div></div><div class="su-spoiler su-spoiler-style-2 su-spoiler-open"><div class="su-spoiler-title"><span style="font-size: x-small;">Années 1980 - 1989</span></div><div class="su-spoiler-content" style="display: block;"><span style="font-size: x-small;"><a href="http://web.philo.ulg.ac.be/rissh/1980-2/" title="Année 1980">1980</a> – <a href="http://web.philo.ulg.ac.be/rissh/1981-2/" title="Année 1981">1981</a> – <a href="http://web.philo.ulg.ac.be/rissh/1982-2/" title="Année 1982">1982</a> – <a href="http://web.philo.ulg.ac.be/rissh/1983-2/" title="Année 1983">1983</a> – <a href="http://web.philo.ulg.ac.be/rissh/1984-2/" title="Année 1984">1984</a> – <a href="http://web.philo.ulg.ac.be/rissh/1985-2/" title="Année 1985">1985</a> – <a href="http://web.philo.ulg.ac.be/rissh/1986-2/" title="Année 1986">1986</a> – <a href="http://web.philo.ulg.ac.be/rissh/1987-2/" title="Année 1987">1987</a> – <a href="http://web.philo.ulg.ac.be/rissh/1988-2/" title="Année 1988">1988</a> – <a href="http://web.philo.ulg.ac.be/rissh/1989-2/" title="Année 1989">1989</a></span></div></div><div class="su-spoiler su-spoiler-style-2 su-spoiler-open"><div class="su-spoiler-title"><span style="font-size: x-small;">Années 1990 - 1999</span></div><div class="su-spoiler-content" style="display: block;"><span style="font-size: x-small;"><a href="http://web.philo.ulg.ac.be/rissh/1990-2/" title="Année 1990">1990</a> – <a href="http://web.philo.ulg.ac.be/rissh/1991-2/" title="Année 1991">1991</a> – <a href="http://web.philo.ulg.ac.be/rissh/1992-2/" title="Année 1992">1992</a> – <a href="http://web.philo.ulg.ac.be/rissh/1993-2/" title="Année 1993">1993</a> – <a href="http://web.philo.ulg.ac.be/rissh/1994-2/" title="Année 1994">1994</a> – <a href="http://web.philo.ulg.ac.be/rissh/1995-2/" title="Année 1995">1995</a> – <a href="http://web.philo.ulg.ac.be/rissh/1996-2/" title="Année 1996">1996</a> – <a href="http://web.philo.ulg.ac.be/rissh/1997-2/" title="Année 1997">1997</a> – <a href="http://web.philo.ulg.ac.be/rissh/1998-2/" title="Année 1998">1998</a> – <a href="http://web.philo.ulg.ac.be/rissh/1999-2/" title="Année 1999">1999</a></span></div></div><div class="su-spoiler su-spoiler-style-2 su-spoiler-open"><div class="su-spoiler-title"><span style="font-size: x-small;">Années 2000</span></div><div class="su-spoiler-content" style="display: block;"><span style="font-size: x-small;"><a href="http://web.philo.ulg.ac.be/rissh/2000-2/" title="Année 2000">2000</a> – <a href="http://web.philo.ulg.ac.be/rissh/2003-2/" title="Année 2003">2003</a></span></div></div></blockquote><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: small;"><span>S</span><span><span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/758937102710467311/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/758937102710467311/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-informatique.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/758937102710467311"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/758937102710467311"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-informatique.html"
          title="Open Access Journal: Revue Informatique et Statistique dans les Sciences Humaines"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

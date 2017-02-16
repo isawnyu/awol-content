@@ -1,238 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-191928554507254710</id>
-    <published>2013-07-17T11:00:00.001-04:00</published>
-    <updated>2013-07-17T11:00:41.045-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-191928554507254710</id>
+   <published>2013-07-17T11:00:00.001-04:00</published>
+   <updated>2013-07-17T11:00:41.045-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Prosopography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Religion"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Asia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Roman"/>
-    <title type="text">Prêtres Civique: Les prêtres du culte impérial romain dans les cités de la
-      province d'Asie</title>
-    <content type="html"><![CDATA[<a href="http://www.pretres-civiques.org/">Prêtres Civique: Les
-      prêtres du culte impérial romain dans les cités de la province d'Asie</a><br
-      /><br /><blockquote class="tr_bq"><img
-      alt="http://www.pretres-civiques.org/sites/default/files/priests_logo.gif" class="decoded"
-      height="88" src="http://www.pretres-civiques.org/sites/default/files/priests_logo.gif"
-      width="320" /></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Cette base de données des prêtres du culte impérial romain dans les cités de la
-      province d’Asie est issue d’un travail de doctorat effectué entre 2005 et 2009 sous la
-      direction de Jean-Louis Ferrary (École Pratique des Hautes Études, Paris) par <a
-      href="http://www.pretres-civiques.org/contact" title="Contacter l'auteur du site">Gabrielle
-      Frija (École Pratique des Hautes Études, Paris - Université Rennes
-      2)</a></span><br /><br /> <span style="font-size: x-small;">La
-      prosopographie des prêtres et grands-prêtres des empereurs repose sur un dépouillement
-      systématique des inscriptions des cités d’Asie. Cette recherche a permis de recenser un peu
-      plus de 460 prêtres dans 80 cités différentes ; rapporté à l’ensemble des cités de la province
-      d’Asie et à la période concernée, de l’arrivée au pouvoir d’Auguste à la fin du IIIe siècle, ce
-      nombre est faible pour une charge qui était en général annuelle. Le catalogue des prêtres
-      civiques demande donc à être complété au fur et à mesure des découvertes
-      épigraphiques.</span><br /> <span style="font-size: x-small;">L’objectif de
-      la mise en ligne de la base de données est de faciliter la consultation de la prosopographie ;
-      celle-ci est également disponible auprès de l’auteur sous la forme classique d’un
-      catalogue.</span></blockquote><blockquote class="tr_bq"><ul class="links"
-      id="navlist"><li class="menu-402 active-trail first active"><span style="font-size:
-      x-small;"><a class="active" href="http://www.pretres-civiques.org/"
-      title="">accueil</a></span></li><li class="menu-403"><span
-      style="font-size: x-small;"><a
-      href="http://www.pretres-civiques.org/rechercher-un-pretre-par-cite" title="Rechercher un
-      prêtre par cité">cités</a></span></li><li class="menu-404"><span
-      style="font-size: x-small;"><a
-      href="http://www.pretres-civiques.org/rechercher-un-pretre-par-titre" title="Rechercher un
-      prêtre en fonction de son titre">prêtrises</a></span></li><li
-      class="menu-582"><span style="font-size: x-small;"><a
-      href="http://www.pretres-civiques.org/liste-des-pretres" title="Consultez la liste des prêtres
-      classée par ordre alphabétique">prêtres</a></span></li><li
-      class="menu-498"><span style="font-size: x-small;"><a
-      href="http://www.pretres-civiques.org/rechercher-une-source" title="Rechercher une source
-      citée">sources</a></span></li><li class="menu-525"><span
-      style="font-size: x-small;"><a
-      href="http://www.pretres-civiques.org/content/bibliographie"
-      title="Bibliographie">bibliographie</a></span></li><li
-      class="menu-113"><span style="font-size: x-small;"><a
-      href="http://www.pretres-civiques.org/contact"
-      title="">contact</a></span></li><li class="menu-706 last"><span
-      style="font-size: x-small;"><a href="http://www.pretres-civiques.org/conversion"
-      title="Convertir en unicode du texte grec saisi en
-      iso">conversion</a></span></li></ul></blockquote><div
-      id="front_bottom"> <div id="frontpage_bottom_left"> <div class="block
-      block-tagadelic" id="block-tagadelic-3"> <blockquote class="tr_bq"><h2
-      class="title"><span style="font-size: x-small;">LES
-      SOURCES</span></h2><div class="content"><span style="font-size:
-      x-small;"><a class="tagadelic level10"
-      href="http://www.pretres-civiques.org/sources/publication/619"
-      rel="tag">I.Stratonikeia</a> <a class="tagadelic level10"
-      href="http://www.pretres-civiques.org/sources/publication/622" rel="tag">IAph2007</a>
-      <a class="tagadelic level6" href="http://www.pretres-civiques.org/sources/publication/640"
-      rel="tag">TAM V 2</a> <a class="tagadelic level6"
-      href="http://www.pretres-civiques.org/sources/publication/596" rel="tag">I.Didyma</a>
-      <a class="tagadelic level6" href="http://www.pretres-civiques.org/sources/publication/459"
-      rel="tag">IG XII 2</a> <a class="tagadelic level6"
-      href="http://www.pretres-civiques.org/sources/publication/419" rel="tag">I.Ephesos</a>
-      <a class="tagadelic level5" href="http://www.pretres-civiques.org/sources/publication/585"
-      rel="tag">I.Magnesia</a> <a class="tagadelic level5"
-      href="http://www.pretres-civiques.org/sources/publication/487" rel="tag">RPC I</a>
-      <a class="tagadelic level4" href="http://www.pretres-civiques.org/sources/publication/421"
-      rel="tag">I.Pergamon</a> <a class="tagadelic level4"
-      href="http://www.pretres-civiques.org/sources/publication/476" rel="tag">RPC
-      Online</a> <a class="tagadelic level4"
-      href="http://www.pretres-civiques.org/sources/publication/449" rel="tag">Iscr. di Cos
-      EV</a> <a class="tagadelic level4"
-      href="http://www.pretres-civiques.org/sources/publication/425" rel="tag">IGR 4</a>
-      <a class="tagadelic level4" href="http://www.pretres-civiques.org/sources/publication/614"
-      rel="tag">I.Tralleis</a> <a class="tagadelic level3"
-      href="http://www.pretres-civiques.org/sources/publication/453" rel="tag">I.Cos</a>
-      <a class="tagadelic level3" href="http://www.pretres-civiques.org/sources/publication/609"
-      rel="tag">I.Mylasa</a> <a class="tagadelic level3"
-      href="http://www.pretres-civiques.org/sources/publication/616" rel="tag">MAMA 6</a>
-      <a class="tagadelic level3" href="http://www.pretres-civiques.org/sources/publication/499"
-      rel="tag">IG XII 5</a> <a class="tagadelic level3"
-      href="http://www.pretres-civiques.org/sources/publication/587" rel="tag">IG XII 6</a>
-      <a class="tagadelic level2" href="http://www.pretres-civiques.org/sources/publication/639"
-      rel="tag">TAM V 3</a> <a class="tagadelic level2"
-      href="http://www.pretres-civiques.org/sources/publication/593" rel="tag">LW</a> <a
-      class="tagadelic level2" href="http://www.pretres-civiques.org/sources/publication/430"
-      rel="tag">EA</a> <a class="tagadelic level2"
-      href="http://www.pretres-civiques.org/sources/publication/428" rel="tag">La Carie
-      II</a> <a class="tagadelic level1"
-      href="http://www.pretres-civiques.org/sources/publication/598" rel="tag">Milet VI
-      3</a> <a class="tagadelic level1"
-      href="http://www.pretres-civiques.org/sources/publication/463" rel="tag">CIG</a> <a
-      class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/628"
-      rel="tag">Alt.v.Hierapolis</a> <a class="tagadelic level1"
-      href="http://www.pretres-civiques.org/sources/publication/647" rel="tag">BMC Lydia</a>
-      <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/645"
-      rel="tag">I.Kibyra</a> <a class="tagadelic level1"
-      href="http://www.pretres-civiques.org/sources/publication/474"
-      rel="tag">I.Alexandria</a> <a class="tagadelic level1"
-      href="http://www.pretres-civiques.org/sources/publication/600" rel="tag">RPC II</a>
-      <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/465"
-      rel="tag">I.Ilion</a> <a class="tagadelic level1"
-      href="http://www.pretres-civiques.org/sources/publication/495" rel="tag">IG XII 3</a>
-      <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/588"
-      rel="tag">I.Smyrna</a> <a class="tagadelic level1"
-      href="http://www.pretres-civiques.org/sources/publication/653" rel="tag">BMC
-      Phrygia</a></span> <div class="more-link"><span style="font-size:
-      x-small;"><a href="http://www.pretres-civiques.org/rechercher-une-source">» voir
-      toutes les
-      sources</a></span></div></div></blockquote></div><blockquote>
-      </blockquote></div><blockquote> <div id="frontpage_bottom_middle">
-      <div class="block block-tagadelic" id="block-tagadelic-2"> <h2
-      class="title"><span style="font-size: x-small;">LES
-      PRÊTRISES</span></h2><div class="content"><div
-      class="item-list"><ul><li class="first"><span style="font-size:
-      x-small;"><a class="tagadelic level10"
-      href="http://www.pretres-civiques.org/pretres/pretrises/2" rel="tag"><span
-      class="small-greek">ἀρχιερεύς</span></a></span>
-      </li><li><span style="font-size: x-small;"><a class="tagadelic level8"
-      href="http://www.pretres-civiques.org/pretres/pretrises/715" rel="tag"><span
-      class="small-greek">ἀρχιέρεια</span></a></span>
-      </li><li><span style="font-size: x-small;"><a class="tagadelic level5"
-      href="http://www.pretres-civiques.org/pretres/pretrises/16" rel="tag"><span
-      class="small-greek">ἀρχιερεὺς τῶν Σεβαστῶν</span></a></span>
-      </li><li><span style="font-size: x-small;"><a class="tagadelic level4"
-      href="http://www.pretres-civiques.org/pretres/pretrises/80" rel="tag"><span
-      class="small-greek">ἰερεὺς τῶν Σεβαστῶν</span></a></span>
-      </li><li><span style="font-size: x-small;"><a class="tagadelic level3"
-      href="http://www.pretres-civiques.org/pretres/pretrises/716" rel="tag"><span
-      class="small-greek">ἀρχιερεὺς τῆς πατρίδος</span></a></span>
-      </li><li><span style="font-size: x-small;"><a class="tagadelic level2"
-      href="http://www.pretres-civiques.org/pretres/pretrises/830" rel="tag"><span
-      class="small-greek">ἱερεὺς Καίσαρος</span></a></span>
-      </li><li><span style="font-size: x-small;"><a class="tagadelic level1"
-      href="http://www.pretres-civiques.org/pretres/pretrises/760" rel="tag"><span
-      class="small-greek">ἀρχιέρεια τῶν Σεβαστῶν</span></a></span>
-      </li><li><span style="font-size: x-small;"><a class="tagadelic level1"
-      href="http://www.pretres-civiques.org/pretres/pretrises/762" rel="tag"><span
-      class="small-greek">[ἀρχιερεύς]</span></a></span>
-      </li><li><span style="font-size: x-small;"><a class="tagadelic level1"
-      href="http://www.pretres-civiques.org/pretres/pretrises/733" rel="tag"><span
-      class="small-greek">ἀρχιερεὺς τῆς πόλεως</span></a></span>
-      </li><li><span style="font-size: x-small;"><a class="tagadelic level1"
-      href="http://www.pretres-civiques.org/pretres/pretrises/109" rel="tag"><span
-      class="small-greek">ἱερεὺς Σεβαστοῦ</span></a></span>
-      </li><li><span style="font-size: x-small;"><a class="tagadelic level1"
-      href="http://www.pretres-civiques.org/pretres/pretrises/592" rel="tag"><span
-      class="small-greek">Sevir Augustalis</span></a></span> </li><li
-      class="last"><span style="font-size: x-small;"><a class="tagadelic level1"
-      href="http://www.pretres-civiques.org/pretres/pretrises/786" rel="tag"><span
-      class="small-greek">ἀρχιερεὺς τῶν Σεβαστῶν Aὐτοκρατόρων</span></a></span>
-      </li></ul></div><div class="more-link"><span style="font-size:
-      x-small;"><a href="http://www.pretres-civiques.org/rechercher-un-pretre-par-titre">»
-      voir toutes les
-      prêtrises</a></span></div></div></div></div></blockquote><div
-      id="frontpage_bottom_right"><blockquote> </blockquote><div class="block
-      block-pretres" id="block-pretres-0"><blockquote> <h2 class="title"><span
-      style="font-size: x-small;">LES PRÊTRES</span></h2><div
-      class="content"><ul><li><span style="font-size: x-small;"><span
-      class="greek" style="font-weight: bold;"><a
-      href="http://www.pretres-civiques.org/pretre/aurelius-annianus">[Aὐρήλιος]
-      ...</a></span></span></li><li><span style="font-size:
-      x-small;"><span class="greek" style="font-weight: bold;"><a
-      href="http://www.pretres-civiques.org/pretre/flavia-tatia">Φλαβία
-      Τατία</a></span></span></li><li><span style="font-size:
-      x-small;"><span class="greek" style="font-weight: bold;"><a
-      href="http://www.pretres-civiques.org/pretre/aurelius-zenon">Aὐρήλιος
-      Ζήνων</a></span></span></li><li><span style="font-size:
-      x-small;"><span class="greek" style="font-weight: bold;"><a
-      href="http://www.pretres-civiques.org/pretre/claudius">(Κλαύδιος)
-      [-]</a></span></span></li><li><span style="font-size:
-      x-small;"><span class="greek" style="font-weight: bold;"><a
-      href="http://www.pretres-civiques.org/pretre/flavius-craterus">Φλάβιος
-      Κρατερός...</a></span></span></li><li><span style="font-size:
-      x-small;"><span class="greek" style="font-weight: bold;"><a
-      href="http://www.pretres-civiques.org/pretre/s">Σ[-]</a></span></span></li><li><span
-      style="font-size: x-small;"><span class="greek" style="font-weight: bold;"><a
-      href="http://www.pretres-civiques.org/pretre/aurelia-flavia-artemonis">Αὐρηλία
-      Φλα|βία...</a></span></span></li><li><span style="font-size:
-      x-small;"><span class="greek" style="font-weight: bold;"><a
-      href="http://www.pretres-civiques.org/pretre/domitius-aelianus">Γν.
-      Δομίτιος...</a></span></span></li><li><span style="font-size:
-      x-small;"><span class="greek" style="font-weight: bold;"><a
-      href="http://www.pretres-civiques.org/pretre/flavius-pinarius">Φλαούιος
-      Πειναρίος...</a></span></span></li><li><span style="font-size:
-      x-small;"><span class="greek" style="font-weight: bold;"><a
-      href="http://www.pretres-civiques.org/pretre/aemilius-hypsicl%C3%A8s">Aἰμιλίος
-      Ὑψικλῆς...</a></span></span></li><li><span style="font-size:
-      x-small;"><span class="greek" style="font-weight: bold;"><a
-      href="http://www.pretres-civiques.org/pretre/celer">[-]
-      Κέλερ</a></span></span></li><li><span style="font-size:
-      x-small;"><span class="greek" style="font-weight: bold;"><a
-      href="http://www.pretres-civiques.org/pretre/nonius-aristodamus">Λ.
-      Νώνιος...</a></span></span></li></ul><div
-      class="more-link"><span style="font-size: x-small;"><a
-      href="http://www.pretres-civiques.org/liste-des-pretres">» voir tous les
-      prêtres</a></span></div></div></blockquote></div></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Roman"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Prosopography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Religion"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Asia"/>
+   <title type="text">Prêtres Civique: Les prêtres du culte impérial romain dans les cités de la province d'Asie</title>
+   <content type="html"><![CDATA[<a href="http://www.pretres-civiques.org/">Prêtres Civique: Les prêtres du culte impérial romain dans les cités de la province d'Asie</a><br /><br /><blockquote class="tr_bq"><img alt="http://www.pretres-civiques.org/sites/default/files/priests_logo.gif" class="decoded" height="88" src="http://www.pretres-civiques.org/sites/default/files/priests_logo.gif" width="320" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Cette base de données des prêtres du culte impérial romain dans les  cités de la province d’Asie est issue d’un travail de doctorat effectué  entre 2005 et 2009 sous la direction de Jean-Louis Ferrary (École  Pratique des Hautes Études, Paris) par <a href="http://www.pretres-civiques.org/contact" title="Contacter l'auteur du site">Gabrielle Frija (École Pratique des Hautes Études, Paris - Université Rennes 2)</a></span><br /><br /> <span style="font-size: x-small;">La prosopographie des prêtres et grands-prêtres des empereurs repose  sur un dépouillement systématique des inscriptions des cités d’Asie.  Cette recherche a permis de recenser un peu plus de 460 prêtres dans 80  cités différentes ; rapporté à l’ensemble des cités de la province  d’Asie et à la période concernée, de l’arrivée au pouvoir d’Auguste à la  fin du IIIe siècle, ce nombre est faible pour une charge qui était en  général annuelle. Le catalogue des prêtres civiques demande donc à être  complété au fur et à mesure des découvertes épigraphiques.</span><br /> <span style="font-size: x-small;">L’objectif de la mise en ligne de la base de données est de faciliter  la consultation de la prosopographie ; celle-ci est également  disponible auprès de l’auteur sous la forme classique d’un catalogue.</span></blockquote><blockquote class="tr_bq"><ul class="links" id="navlist"><li class="menu-402 active-trail first active"><span style="font-size: x-small;"><a class="active" href="http://www.pretres-civiques.org/" title="">accueil</a></span></li><li class="menu-403"><span style="font-size: x-small;"><a href="http://www.pretres-civiques.org/rechercher-un-pretre-par-cite" title="Rechercher un prêtre par cité">cités</a></span></li><li class="menu-404"><span style="font-size: x-small;"><a href="http://www.pretres-civiques.org/rechercher-un-pretre-par-titre" title="Rechercher un prêtre en fonction de son titre">prêtrises</a></span></li><li class="menu-582"><span style="font-size: x-small;"><a href="http://www.pretres-civiques.org/liste-des-pretres" title="Consultez la liste des prêtres classée par ordre alphabétique">prêtres</a></span></li><li class="menu-498"><span style="font-size: x-small;"><a href="http://www.pretres-civiques.org/rechercher-une-source" title="Rechercher une source citée">sources</a></span></li><li class="menu-525"><span style="font-size: x-small;"><a href="http://www.pretres-civiques.org/content/bibliographie" title="Bibliographie">bibliographie</a></span></li><li class="menu-113"><span style="font-size: x-small;"><a href="http://www.pretres-civiques.org/contact" title="">contact</a></span></li><li class="menu-706 last"><span style="font-size: x-small;"><a href="http://www.pretres-civiques.org/conversion" title="Convertir en unicode du texte grec saisi en iso">conversion</a></span></li></ul></blockquote><div id="front_bottom">          <div id="frontpage_bottom_left">        <div class="block block-tagadelic" id="block-tagadelic-3">    <blockquote class="tr_bq"><h2 class="title"><span style="font-size: x-small;">LES SOURCES</span></h2><div class="content"><span style="font-size: x-small;"><a class="tagadelic level10" href="http://www.pretres-civiques.org/sources/publication/619" rel="tag">I.Stratonikeia</a>  <a class="tagadelic level10" href="http://www.pretres-civiques.org/sources/publication/622" rel="tag">IAph2007</a>  <a class="tagadelic level6" href="http://www.pretres-civiques.org/sources/publication/640" rel="tag">TAM V 2</a>  <a class="tagadelic level6" href="http://www.pretres-civiques.org/sources/publication/596" rel="tag">I.Didyma</a>  <a class="tagadelic level6" href="http://www.pretres-civiques.org/sources/publication/459" rel="tag">IG XII 2</a>  <a class="tagadelic level6" href="http://www.pretres-civiques.org/sources/publication/419" rel="tag">I.Ephesos</a>  <a class="tagadelic level5" href="http://www.pretres-civiques.org/sources/publication/585" rel="tag">I.Magnesia</a>  <a class="tagadelic level5" href="http://www.pretres-civiques.org/sources/publication/487" rel="tag">RPC I</a>  <a class="tagadelic level4" href="http://www.pretres-civiques.org/sources/publication/421" rel="tag">I.Pergamon</a>  <a class="tagadelic level4" href="http://www.pretres-civiques.org/sources/publication/476" rel="tag">RPC Online</a>  <a class="tagadelic level4" href="http://www.pretres-civiques.org/sources/publication/449" rel="tag">Iscr. di Cos EV</a>  <a class="tagadelic level4" href="http://www.pretres-civiques.org/sources/publication/425" rel="tag">IGR 4</a>  <a class="tagadelic level4" href="http://www.pretres-civiques.org/sources/publication/614" rel="tag">I.Tralleis</a>  <a class="tagadelic level3" href="http://www.pretres-civiques.org/sources/publication/453" rel="tag">I.Cos</a>  <a class="tagadelic level3" href="http://www.pretres-civiques.org/sources/publication/609" rel="tag">I.Mylasa</a>  <a class="tagadelic level3" href="http://www.pretres-civiques.org/sources/publication/616" rel="tag">MAMA 6</a>  <a class="tagadelic level3" href="http://www.pretres-civiques.org/sources/publication/499" rel="tag">IG XII 5</a>  <a class="tagadelic level3" href="http://www.pretres-civiques.org/sources/publication/587" rel="tag">IG XII 6</a>  <a class="tagadelic level2" href="http://www.pretres-civiques.org/sources/publication/639" rel="tag">TAM V 3</a>  <a class="tagadelic level2" href="http://www.pretres-civiques.org/sources/publication/593" rel="tag">LW</a>  <a class="tagadelic level2" href="http://www.pretres-civiques.org/sources/publication/430" rel="tag">EA</a>  <a class="tagadelic level2" href="http://www.pretres-civiques.org/sources/publication/428" rel="tag">La Carie II</a>  <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/598" rel="tag">Milet VI 3</a>  <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/463" rel="tag">CIG</a>  <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/628" rel="tag">Alt.v.Hierapolis</a>  <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/647" rel="tag">BMC Lydia</a>  <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/645" rel="tag">I.Kibyra</a>  <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/474" rel="tag">I.Alexandria</a>  <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/600" rel="tag">RPC II</a>  <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/465" rel="tag">I.Ilion</a>  <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/495" rel="tag">IG XII 3</a>  <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/588" rel="tag">I.Smyrna</a>  <a class="tagadelic level1" href="http://www.pretres-civiques.org/sources/publication/653" rel="tag">BMC Phrygia</a></span>  <div class="more-link"><span style="font-size: x-small;"><a href="http://www.pretres-civiques.org/rechercher-une-source">» voir toutes les sources</a></span></div></div></blockquote></div><blockquote>                 </blockquote></div><blockquote>          <div id="frontpage_bottom_middle">        <div class="block block-tagadelic" id="block-tagadelic-2">    <h2 class="title"><span style="font-size: x-small;">LES PRÊTRISES</span></h2><div class="content"><div class="item-list"><ul><li class="first"><span style="font-size: x-small;"><a class="tagadelic level10" href="http://www.pretres-civiques.org/pretres/pretrises/2" rel="tag"><span class="small-greek">ἀρχιερεύς</span></a></span>  </li><li><span style="font-size: x-small;"><a class="tagadelic level8" href="http://www.pretres-civiques.org/pretres/pretrises/715" rel="tag"><span class="small-greek">ἀρχιέρεια</span></a></span>  </li><li><span style="font-size: x-small;"><a class="tagadelic level5" href="http://www.pretres-civiques.org/pretres/pretrises/16" rel="tag"><span class="small-greek">ἀρχιερεὺς τῶν Σεβαστῶν</span></a></span>  </li><li><span style="font-size: x-small;"><a class="tagadelic level4" href="http://www.pretres-civiques.org/pretres/pretrises/80" rel="tag"><span class="small-greek">ἰερεὺς τῶν Σεβαστῶν</span></a></span>  </li><li><span style="font-size: x-small;"><a class="tagadelic level3" href="http://www.pretres-civiques.org/pretres/pretrises/716" rel="tag"><span class="small-greek">ἀρχιερεὺς τῆς πατρίδος</span></a></span>  </li><li><span style="font-size: x-small;"><a class="tagadelic level2" href="http://www.pretres-civiques.org/pretres/pretrises/830" rel="tag"><span class="small-greek">ἱερεὺς Καίσαρος</span></a></span>  </li><li><span style="font-size: x-small;"><a class="tagadelic level1" href="http://www.pretres-civiques.org/pretres/pretrises/760" rel="tag"><span class="small-greek">ἀρχιέρεια τῶν Σεβαστῶν</span></a></span>  </li><li><span style="font-size: x-small;"><a class="tagadelic level1" href="http://www.pretres-civiques.org/pretres/pretrises/762" rel="tag"><span class="small-greek">[ἀρχιερεύς]</span></a></span>  </li><li><span style="font-size: x-small;"><a class="tagadelic level1" href="http://www.pretres-civiques.org/pretres/pretrises/733" rel="tag"><span class="small-greek">ἀρχιερεὺς τῆς πόλεως</span></a></span>  </li><li><span style="font-size: x-small;"><a class="tagadelic level1" href="http://www.pretres-civiques.org/pretres/pretrises/109" rel="tag"><span class="small-greek">ἱερεὺς Σεβαστοῦ</span></a></span>  </li><li><span style="font-size: x-small;"><a class="tagadelic level1" href="http://www.pretres-civiques.org/pretres/pretrises/592" rel="tag"><span class="small-greek">Sevir Augustalis</span></a></span>  </li><li class="last"><span style="font-size: x-small;"><a class="tagadelic level1" href="http://www.pretres-civiques.org/pretres/pretrises/786" rel="tag"><span class="small-greek">ἀρχιερεὺς τῶν Σεβαστῶν Aὐτοκρατόρων</span></a></span>  </li></ul></div><div class="more-link"><span style="font-size: x-small;"><a href="http://www.pretres-civiques.org/rechercher-un-pretre-par-titre">» voir toutes les prêtrises</a></span></div></div></div></div></blockquote><div id="frontpage_bottom_right"><blockquote>        </blockquote><div class="block block-pretres" id="block-pretres-0"><blockquote>    <h2 class="title"><span style="font-size: x-small;">LES PRÊTRES</span></h2><div class="content"><ul><li><span style="font-size: x-small;"><span class="greek" style="font-weight: bold;"><a href="http://www.pretres-civiques.org/pretre/aurelius-annianus">[Aὐρήλιος] ...</a></span></span></li><li><span style="font-size: x-small;"><span class="greek" style="font-weight: bold;"><a href="http://www.pretres-civiques.org/pretre/flavia-tatia">Φλαβία Τατία</a></span></span></li><li><span style="font-size: x-small;"><span class="greek" style="font-weight: bold;"><a href="http://www.pretres-civiques.org/pretre/aurelius-zenon">Aὐρήλιος Ζήνων</a></span></span></li><li><span style="font-size: x-small;"><span class="greek" style="font-weight: bold;"><a href="http://www.pretres-civiques.org/pretre/claudius">(Κλαύδιος) [-]</a></span></span></li><li><span style="font-size: x-small;"><span class="greek" style="font-weight: bold;"><a href="http://www.pretres-civiques.org/pretre/flavius-craterus">Φλάβιος Κρατερός...</a></span></span></li><li><span style="font-size: x-small;"><span class="greek" style="font-weight: bold;"><a href="http://www.pretres-civiques.org/pretre/s">Σ[-]</a></span></span></li><li><span style="font-size: x-small;"><span class="greek" style="font-weight: bold;"><a href="http://www.pretres-civiques.org/pretre/aurelia-flavia-artemonis">Αὐρηλία Φλα|βία...</a></span></span></li><li><span style="font-size: x-small;"><span class="greek" style="font-weight: bold;"><a href="http://www.pretres-civiques.org/pretre/domitius-aelianus">Γν. Δομίτιος...</a></span></span></li><li><span style="font-size: x-small;"><span class="greek" style="font-weight: bold;"><a href="http://www.pretres-civiques.org/pretre/flavius-pinarius">Φλαούιος Πειναρίος...</a></span></span></li><li><span style="font-size: x-small;"><span class="greek" style="font-weight: bold;"><a href="http://www.pretres-civiques.org/pretre/aemilius-hypsicl%C3%A8s">Aἰμιλίος Ὑψικλῆς...</a></span></span></li><li><span style="font-size: x-small;"><span class="greek" style="font-weight: bold;"><a href="http://www.pretres-civiques.org/pretre/celer">[-] Κέλερ</a></span></span></li><li><span style="font-size: x-small;"><span class="greek" style="font-weight: bold;"><a href="http://www.pretres-civiques.org/pretre/nonius-aristodamus">Λ. Νώνιος...</a></span></span></li></ul><div class="more-link"><span style="font-size: x-small;"><a href="http://www.pretres-civiques.org/liste-des-pretres">» voir tous les prêtres</a></span></div></div></blockquote></div></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/191928554507254710/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/191928554507254710/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/07/pretres-civique-les-pretres-du-culte.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/191928554507254710"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/191928554507254710"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/07/pretres-civique-les-pretres-du-culte.html"
          title="Prêtres Civique: Les prêtres du culte impérial romain dans les cités de la province d'Asie"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

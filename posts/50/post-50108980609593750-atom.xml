@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-50108980609593750</id>
+   <published>2016-03-07T18:16:00.000-05:00</published>
+   <updated>2016-03-07T18:16:07.284-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Software"/>
+   <title type="text"> Edition Visualization Technology V. 1 release</title>
+   <content type="html"><![CDATA[<a href="https://visualizationtechnology.wordpress.com/2016/03/07/evt-version-1-0-has-been-released/">EVT version 1.0 has been&nbsp;released!					</a><br /> 	 				<div class="date">			<blockquote class="tr_bq"><div class="bg">									<span style="font-size: x-small;"><span class="day">07</span>					<span>Mar</span>							</span></div><span style="font-size: x-small;">		</span></blockquote></div><blockquote>	 	 		 		<span style="font-size: x-small;">After a couple of intermediate releases, <strong>EVT version 1.0</strong> is finally available! There are many new features in this version:</span><br /> <ul><li><span style="font-size: x-small;">a full <strong>text search</strong> engine, with result highlighting in the text frame;</span></li><li><span style="font-size: x-small;">support for <strong>named entities</strong>: name highlighting in the edition text, browsable full lists with links to single documents;</span></li><li><span style="font-size: x-small;">support for &lt;listPlace&gt; and &lt;listPerson&gt; elements;</span></li><li><span style="font-size: x-small;">support for diplomatic documents (regesto) and for general information about specific texts;</span></li><li><span style="font-size: x-small;">support for bibliography, manuscript and project information;</span></li><li><span style="font-size: x-small;">User Interface <strong>localization</strong>;</span></li><li><span style="font-size: x-small;">lots of bugs fixed!</span></li></ul><span style="font-size: x-small;">Go download it and check for yourself on the <a href="https://sourceforge.net/p/evt-project/" target="_blank">SourceForge site</a>. For more information about how to use and/or customize EVT please refer to the <em>EVT Manual</em> included in the archive you downloaded, just look in the “doc” folder.</span><br /> <span style="font-size: x-small;">Please send all feedback to <a href="mailto:evt.developers@gmail.com" target="_blank">evt.developers@gmail.com</a>[1],  we would love to hear from you: bug reports, suggestions, even your  general impressions about how EVT has worked for you are more than  welcome. If you want to check an actual edition made with EVT, possibly  showing all the latest features, the excellent <a href="http://pelavicino.labcd.unipi.it/evt/" target="_blank">Codice Pelavicino Digitale</a> [2] is just what you want to browse.</span></blockquote><div style="text-align: center;"><blockquote class="tr_bq"><img alt="CP-03" class="alignnone size-full wp-image-178" height="249" src="https://visualizationtechnology.files.wordpress.com/2016/03/cp-03.jpg?w=1250" width="320" /></blockquote></div>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/50108980609593750/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/03/edition-visualization-technology-v-1.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/50108980609593750"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/50108980609593750"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/03/edition-visualization-technology-v-1.html"
+         title=" Edition Visualization Technology V. 1 release"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

@@ -1,142 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-900804193098972991</id>
-    <published>2014-12-26T17:24:00.000-05:00</published>
-    <updated>2014-12-26T17:25:32.328-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-900804193098972991</id>
+   <published>2014-12-26T17:24:00.000-05:00</published>
+   <updated>2014-12-26T17:25:32.328-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
-    <title type="text">Open Access Journal: Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      Yayınları</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 18 March
-      2012, updated 26 December 2014] </span><br /><br /><a
-      class="Altbaglantilar"
-      href="http://www.kulturvarliklari.gov.tr/Yonlendir.aspx?F6E10F8892433CFF3D828A179298319F882D53A8A1E323A5">Müze
-      Çalışmaları ve Kurtarma Kazıları Sempozyumu Yayınları</a><br />ISSN: 1300-5626
-      <br /><ul><li><span style="color: black; font-family: verdana; font-size:
-      11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/01.muze.kurtarma.pdf"
-      style="text-decoration: none;">1. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [1990]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/02.muze.kurtarma.pdf"
-      style="text-decoration: none;">2. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [1991]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/03.muze.kurtarma.pdf"
-      style="text-decoration: none;">3. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [1992]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/04.muze.kurtarma.pdf"
-      style="text-decoration: none;">4. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [1993]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/05.muze.kurtarma.pdf"
-      style="text-decoration: none;">5. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [1994]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/06.muze.kurtarma.pdf"
-      style="text-decoration: none;">6. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [1995]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/07.muze.kurtarma.pdf"
-      style="text-decoration: none;">7. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [1996]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/08.muze.kurtarma.pdf"
-      style="text-decoration: none;">8. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [1997]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/09.muze.kurtarma.pdf"
-      style="text-decoration: none;">9. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [1998]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/10.muze.kurtarma.pdf"
-      style="text-decoration: none;">10. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [1999]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/11.muze.kurtarma.pdf"
-      style="text-decoration: none;">11. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [2000]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/12.muze.kurtarma.pdf"
-      style="text-decoration: none;">12. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [2001]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/13.muze.kurtarma.pdf"
-      style="text-decoration: none;">13. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [2002]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/14.muze.kurtarma.pdf"
-      style="text-decoration: none;">14. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [2004]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/15_muze_kurtarma.pdf"
-      style="text-decoration: none;">15. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [2006]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/16_muze_kurtarma.pdf"
-      style="text-decoration: none;">16. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [2007]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/17_muze_kurtarma.pdf"
-      style="text-decoration: none;">17. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [2008]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/18_muze_kurtarma.pdf"
-      style="text-decoration: none;">18. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [2009]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/19_muze_kurtarma.pdf"
-      style="text-decoration: none;">19. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu
-      [2010]</a></span></li><li><span style="color: black; font-family:
-      verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/Eklenti/4350,20muzekurtarmapdf.pdf?0"
-      style="text-decoration: none;" target="_blank">20. Müze Çalışmaları ve Kurtarma Kazıları
-      Sempozyumu [2011]</a></span></li><li><span style="color: black;
-      font-family: verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/Eklenti/6111,muzecalis21.pdf?0"
-      style="text-decoration: none;" target="_blank">21. Müze Çalışmaları ve Kurtarma Kazıları
-      Sempozyumu [2012]</a></span></li><li><span style="color: black;
-      font-family: verdana; font-size: 11px; text-decoration: none;"><a
-      href="http://www.kulturvarliklari.gov.tr/Eklenti/31925,muzecalis22.pdf?0"
-      style="text-decoration: none;" target="_blank">22. Müze Çalışmaları ve Kurtarma Kazıları
-      Sempozyumu [2013]</a></span></li></ul><ul></ul><div
-      style="text-align: center;">See <a
-      href="http://ancientworldonline.blogspot.com/2010/05/seven-open-access-turkish.html">Seven
-      Open Access Turkish Archaeological Journals</a></div><div style="text-align:
-      center;"><br /><span style="font-size: small;"><span>&nbsp;See the
-      full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></span>
-      </span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
+   <title type="text">Open Access Journal: Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu Yayınları</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 18 March 2012, updated 26 December 2014] </span><br /><br /><a class="Altbaglantilar" href="http://www.kulturvarliklari.gov.tr/Yonlendir.aspx?F6E10F8892433CFF3D828A179298319F882D53A8A1E323A5">Müze  Çalışmaları ve Kurtarma Kazıları Sempozyumu Yayınları</a><br />ISSN: 1300-5626 <br /><ul><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/01.muze.kurtarma.pdf" style="text-decoration: none;">1. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1990]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/02.muze.kurtarma.pdf" style="text-decoration: none;">2. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1991]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/03.muze.kurtarma.pdf" style="text-decoration: none;">3. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1992]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/04.muze.kurtarma.pdf" style="text-decoration: none;">4. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1993]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/05.muze.kurtarma.pdf" style="text-decoration: none;">5. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1994]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/06.muze.kurtarma.pdf" style="text-decoration: none;">6. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1995]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/07.muze.kurtarma.pdf" style="text-decoration: none;">7. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1996]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/08.muze.kurtarma.pdf" style="text-decoration: none;">8. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1997]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/09.muze.kurtarma.pdf" style="text-decoration: none;">9. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1998]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/10.muze.kurtarma.pdf" style="text-decoration: none;">10. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1999]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/11.muze.kurtarma.pdf" style="text-decoration: none;">11. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2000]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/12.muze.kurtarma.pdf" style="text-decoration: none;">12. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2001]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/13.muze.kurtarma.pdf" style="text-decoration: none;">13. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2002]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/14.muze.kurtarma.pdf" style="text-decoration: none;">14. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2004]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/15_muze_kurtarma.pdf" style="text-decoration: none;">15. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2006]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/16_muze_kurtarma.pdf" style="text-decoration: none;">16. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2007]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/17_muze_kurtarma.pdf" style="text-decoration: none;">17. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2008]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/18_muze_kurtarma.pdf" style="text-decoration: none;">18. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2009]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/19_muze_kurtarma.pdf" style="text-decoration: none;">19. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2010]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/Eklenti/4350,20muzekurtarmapdf.pdf?0" style="text-decoration: none;" target="_blank">20. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2011]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/Eklenti/6111,muzecalis21.pdf?0" style="text-decoration: none;" target="_blank">21. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2012]</a></span></li><li><span style="color: black; font-family: verdana; font-size: 11px; text-decoration: none;"><a href="http://www.kulturvarliklari.gov.tr/Eklenti/31925,muzecalis22.pdf?0" style="text-decoration: none;" target="_blank">22. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2013]</a></span></li></ul><ul></ul><div style="text-align: center;">See <a href="http://ancientworldonline.blogspot.com/2010/05/seven-open-access-turkish.html">Seven Open Access Turkish Archaeological Journals</a></div><div style="text-align: center;"><br /><span style="font-size: small;"><span>&nbsp;See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span> </span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/900804193098972991/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/900804193098972991/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/open-access-journal-muze-calsmalar-ve.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/900804193098972991"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/900804193098972991"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/open-access-journal-muze-calsmalar-ve.html"
          title="Open Access Journal: Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu Yayınları"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,92 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-880451274778823568</id>
-    <published>2010-12-22T17:48:00.000-05:00</published>
-    <updated>2010-12-22T17:48:40.549-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-880451274778823568</id>
+   <published>2010-12-22T17:48:00.000-05:00</published>
+   <updated>2010-12-22T17:48:40.549-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">News from CDLI: Arizona State Museum cuneiform collection in CDLI</title>
-    <content type="html"><![CDATA[<span style="font-family: 'PrimaSans
-      BT,Verdana,sans-serif';"><span><a href="http://tinyurl.com/2factnc">Arizona
-      State Museum cuneiform collection in CDLI</a>&nbsp; </span></span><br
-      /><blockquote><div><div><div><div style="font-family: 'Times New
-      Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size: x-small;">The
-      Cuneiform Digital Library Initiative, in partnership with the <a
-      href="http://www.statemuseum.arizona.edu/">Arizona State Museum (ASM)</a> in Tucson,
-      Arizona--established in 1893&nbsp;by the Arizona Territorial Legislature, the ASM&nbsp;
-      is&nbsp;the oldest and largest anthropology museum in the American Southwest--is pleased to
-      announce the addition of new digital content to its web
-      offerings.&nbsp;</span></div></div><div><div style="font-family:
-      'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size:
-      x-small;">&nbsp;</span></div></div><div><div
-      style="font-family: 'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span
-      style="font-size: x-small;">In early December of this year, UCLA staff member Jared Wolfe
-      scanned 117 ASM tablets, and further processed the tablet surface images according to CDLI's
-      "fat-cross" standards. The majority of the text artifacts in the collection were published in
-      hand copy and transliteration by&nbsp;David I.&nbsp;Owen
-      &amp;&nbsp;Ewa&nbsp;Wasilewska ten years ago (JCS 52, 7-53); earlier publications
-      are,&nbsp;with this effort, complemented with an additional 20 heretofore unpublished
-      texts. The entire ASM collection can be <a href="http://tinyurl.com/2factnc">accessed
-      here</a>. We note that during his stay in Tucson, Mr. Wolfe was kindly given imaging
-      access to the small private collection of Prof. Anne Kilmer; the five texts, published in part
-      by Daniel Foxvog in 1993-1994 (ASJ 15, 79 and JCS 46, 11), may be <a
-      href="http://tinyurl.com/27n6gtk">viewed
-      here</a>.</span></div></div><div><div style="font-family:
-      'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size:
-      x-small;">&nbsp;</span></div></div><div><div
-      style="font-family: 'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span
-      style="font-size: x-small;">This imaging and image processing was made possible by funding
-      from the Andrew W. Mellon Foundation, and is part of the on-going mission of CDLI to ensure the
-      long-term digital preservation of ancient insc-riptions on cuneiform tablets,
-      and,&nbsp;<span class="Apple-style-span" style="font-family: 'Times New
-      Roman',serif;">in furtherance of cuneiform research,</span>&nbsp;to provide free
-      global access to all available text artifact
-      data.&nbsp;</span></div></div><div><div style="font-family:
-      'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size:
-      x-small;">&nbsp;</span></div></div><div><div
-      style="font-family: 'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span
-      style="font-size: x-small;">For the CDLI and the
-      ASM:&nbsp;</span></div></div><div><div style="font-family:
-      'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size:
-      x-small;">Robert K. Englund,
-      UCLA</span></div></div></div></div><div><div
-      style="font-family: 'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span
-      style="font-size: x-small;">Michael Jacobs,&nbsp;Archaeological Collections Curator,
-      ASM</span></div></div></blockquote><span style="font-family:
-      'PrimaSans BT,Verdana,sans-serif';"><span><b><br
-      /></b></span></span><br /><div style="text-align:
-      center;"><br /><a
-      href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" id="data:post.url"
-      name="data:post.title"><img alt="Bookmark and Share so Your Real Friends Know that You
-      Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt
-      none;" width="125" /></a></div>]]></content>
-    <link rel="replies"
+   <title type="text">News from CDLI: Arizona State Museum cuneiform collection in CDLI</title>
+   <content type="html"><![CDATA[<span style="font-family: 'PrimaSans BT,Verdana,sans-serif';"><span><a href="http://tinyurl.com/2factnc">Arizona State Museum cuneiform collection in CDLI</a>&nbsp; </span></span><br /><blockquote><div><div><div><div style="font-family: 'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size: x-small;">The  Cuneiform Digital Library Initiative, in partnership with the <a href="http://www.statemuseum.arizona.edu/">Arizona  State Museum (ASM)</a> in Tucson, Arizona--established in 1893&nbsp;by the  Arizona Territorial Legislature, the ASM&nbsp; is&nbsp;the  oldest and largest anthropology museum in the American Southwest--is  pleased to announce the addition of new digital content to its web  offerings.&nbsp;</span></div></div><div><div style="font-family: 'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size: x-small;">&nbsp;</span></div></div><div><div style="font-family: 'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size: x-small;">In  early December of this year, UCLA staff member Jared Wolfe scanned 117  ASM tablets, and further processed the tablet surface images according  to CDLI's "fat-cross" standards. The majority of the text artifacts in  the collection were published in hand copy and transliteration by&nbsp;David  I.&nbsp;Owen &amp;&nbsp;Ewa&nbsp;Wasilewska ten years ago (JCS 52, 7-53); earlier  publications are,&nbsp;with this effort, complemented with an additional 20  heretofore unpublished texts. The entire ASM collection can be <a href="http://tinyurl.com/2factnc">accessed here</a>.  We note that during his stay in Tucson, Mr. Wolfe was kindly given  imaging access to the small private collection of Prof. Anne Kilmer; the  five texts, published in part by Daniel Foxvog in 1993-1994 (ASJ 15, 79  and JCS 46, 11), may be <a href="http://tinyurl.com/27n6gtk">viewed here</a>.</span></div></div><div><div style="font-family: 'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size: x-small;">&nbsp;</span></div></div><div><div style="font-family: 'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size: x-small;">This  imaging and image processing was made possible by funding from the  Andrew W. Mellon Foundation, and is part of the on-going mission of CDLI  to ensure the long-term digital preservation of ancient insc-riptions  on cuneiform tablets, and,&nbsp;<span class="Apple-style-span" style="font-family: 'Times New Roman',serif;">in furtherance of cuneiform research,</span>&nbsp;to provide free global access to all available text artifact data.&nbsp;</span></div></div><div><div style="font-family: 'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size: x-small;">&nbsp;</span></div></div><div><div style="font-family: 'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size: x-small;">For the CDLI and the ASM:&nbsp;</span></div></div><div><div style="font-family: 'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size: x-small;">Robert K. Englund, UCLA</span></div></div></div></div><div><div style="font-family: 'Times New Roman',serif; margin: 0in 0in 0.0001pt;"><span style="font-size: x-small;">Michael Jacobs,&nbsp;Archaeological Collections Curator, ASM</span></div></div></blockquote><span style="font-family: 'PrimaSans BT,Verdana,sans-serif';"><span><b><br /></b></span></span><br /><div style="text-align: center;"><br /><a href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" id="data:post.url" name="data:post.title"><img alt="Bookmark and Share so Your Real Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt none;" width="125" /></a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/880451274778823568/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/880451274778823568/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/12/news-from-cdli-arizona-state-museum.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/880451274778823568"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/880451274778823568"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/12/news-from-cdli-arizona-state-museum.html"
          title="News from CDLI: Arizona State Museum cuneiform collection in CDLI"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

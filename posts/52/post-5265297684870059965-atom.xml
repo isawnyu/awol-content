@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5265297684870059965</id>
+   <published>2016-02-04T18:28:00.000-05:00</published>
+   <updated>2016-02-04T18:28:46.811-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Analysis"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <title type="text">Computational Historical Semantics – for Analysing Latin Texts Semantically</title>
+   <content type="html"><![CDATA[<a href="http://www.comphistsem.org/home.html">Computational Historical Semantics – for Analysing Latin Texts Semantically</a><br /><blockquote class="tr_bq"><img alt="Logo Computational Historical Semantic" height="120" src="http://www.comphistsem.org/fileadmin/templates/images/CHS_GraueSeite_Beta.png" /></blockquote><blockquote class="tr_bq"><h2><span style="font-size: x-small;">Welcome to Computational Historical Semantics – for Analysing Latin Texts Semantically</span></h2><article><span style="font-size: x-small;">This site offers linguistic tools for all historical and  philological disciplines working with Latin texts. It provides a  database of Latin texts&nbsp; </span><br /> <span style="font-size: x-small;">and a morphological structured Latin Lexicon. All texts are lemmatized and ready for comparative analysis of word frequencies.  </span><br /> <br /> <span style="font-size: x-small;"><i><b>The </b></i><a href="http://www.comphistsem.org/48.html" title="Öffnet internen Link im aktuellen Fenster"><b><i>Latin texts </i></b><i><b>database&nbsp;</b></i></a>- for a initial statistical approach towards texts. In the column "Function" on the left margin you can &nbsp;</span><br /><ul><li><span style="font-size: x-small;">via <img alt="" data-htmlarea-file-table="sys_file" data-htmlarea-file-uid="188" height="16" src="http://www.comphistsem.org/uploads/RTEmagicC_Fulltexttable_dark.png" title="Fulltexttable_dark.png" width="16" />&nbsp;("full text view") read the complete text&nbsp;</span></li><li><span style="font-size: x-small;">via <img alt="" data-htmlarea-file-table="sys_file" data-htmlarea-file-uid="189" height="16" src="http://www.comphistsem.org/uploads/RTEmagicC_kdbtable_dark_01.png" title="kdbtable_dark.png" width="16" />&nbsp;("general term list") compute a list of all words occurring in a text (or via <img alt="" data-htmlarea-file-table="sys_file" data-htmlarea-file-uid="104" height="16" src="http://www.comphistsem.org/uploads/RTEmagicC_kdbtableplus_03.png" title="kdbtableplus.png" width="16" />&nbsp;at the bottom of the table&nbsp;for more than one chosen&nbsp;text)</span></li><li><span style="font-size: x-small;">via <img alt="" data-htmlarea-file-table="sys_file" data-htmlarea-file-uid="190" height="16" src="http://www.comphistsem.org/uploads/RTEmagicC_viewmagglass_dark_01.png" title="viewmagglass_dark.png" width="16" />&nbsp;("specific term list") compute a list of all words&nbsp;co-occurring&nbsp;in the same sentences as the searched word (or via&nbsp;<img alt="" data-htmlarea-file-table="sys_file" data-htmlarea-file-uid="124" height="16" src="http://www.comphistsem.org/uploads/RTEmagicC_viewmagglassplus_03.png" title="viewmagglassplus.png" width="16" />&nbsp;for more than one chosen text)</span></li><li><span style="font-size: x-small;">via&nbsp;<img alt="" data-htmlarea-file-table="sys_file" data-htmlarea-file-uid="98" height="16" src="http://www.comphistsem.org/uploads/RTEmagicC_compareResults_03.png" title="compareResults.png" width="16" />&nbsp;("compare lists") compare result lists&nbsp;</span></li><li><span style="font-size: x-small;">via&nbsp;<img alt="" data-htmlarea-file-table="sys_file" data-htmlarea-file-uid="101" height="16" src="http://www.comphistsem.org/uploads/RTEmagicC_download_05.png" title="download.png" width="16" />&nbsp;("download") download all lists for further hermeneutical analysis</span></li></ul><span style="font-size: x-small;"><b><i>The </i></b><b><i><a class="internal-link" href="http://www.comphistsem.org/lexicon.html" title="Öffnet internen Link im aktuellen Fenster">Frankfurt Latin Lexicon</a>&nbsp;</i></b></span><br /><ul><li><span style="font-size: x-small;">incorporates different spellings of a lemma subsumed under a normalized lemma (Superlemma).</span></li><li><span style="font-size: x-small;">offers morphological information for every Latin word form</span></li><li><span style="font-size: x-small;">provides traceability of every situation of use for all Latin word forms</span></li></ul><span style="font-size: x-small;">No registration needed. If you register (for free), however, you get access to the advanced version of HSCM on the eHUDesk </span><br /> <span style="font-size: x-small;"> offering many more options as well as the opportunity to analyse your own texts. Click here for the <a class="internal-link" href="http://www.comphistsem.org/60.html" title="Öffnet internen Link im aktuellen Fenster">latest news</a> about comphistsem.org.</span><br /><br /><ul class="sf-menu sf-js-enabled sf-arrows" id="example"><li class=""><span style="font-size: x-small;"><a class="current sf-with-ul" href="http://www.comphistsem.org/home.html">Home</a></span><hr class="linieNavAct" /> </li><li class=""><span style="font-size: x-small;"><a class="sf-with-ul" href="http://www.comphistsem.org/about.html">Historical Semantics</a></span><hr class="linieNav" /></li><li><span style="font-size: x-small;"><a href="http://www.comphistsem.org/hudesk.html">eHUDesk</a></span><hr class="linieNav" /></li><li><span style="font-size: x-small;"><a href="http://www.comphistsem.org/lexicon.html">Lexicon</a></span><hr class="linieNav" /></li><li><span style="font-size: x-small;"><a href="http://www.comphistsem.org/48.html">Texts</a></span><hr class="linieNav" /></li><li class=""><span style="font-size: x-small;"><a class="sf-with-ul" href="http://www.comphistsem.org/manual.html" target="_blank">Instructions</a></span><hr class="linieNav" /></li><li class=""><span style="font-size: x-small;"><a class="sf-with-ul" href="http://www.comphistsem.org/contact.html">Contact</a></span><hr class="linieNav" /></li><li class="sfHover" id="zeigen"><span style="font-size: x-small;"><a class="sf-with-ul" href="http://www.comphistsem.org/home.html#">Log-in</a></span></li></ul></article></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/5265297684870059965/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/02/computational-historical-semantics-for.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5265297684870059965"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5265297684870059965"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/02/computational-historical-semantics-for.html"
+         title="Computational Historical Semantics – for Analysing Latin Texts Semantically"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

@@ -1,89 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2996933517505453388</id>
-    <published>2014-02-06T13:30:00.000-05:00</published>
-    <updated>2014-02-06T13:38:56.428-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2996933517505453388</id>
+   <published>2016-07-03T03:56:00.000-04:00</published>
+   <updated>2016-07-03T03:57:14.516-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Argentina"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Argentina"/>
-    <title type="text">Open Access Journal: De Rebus Antiquis</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 20 December
-      2011. Updated 6 February 2014]</span><br /><br /><a
-      href="http://www.uca.edu.ar/index.php/site/index/es/uca/facultades/buenos-aires/cs-sociales-politicas-y-de-la-comunicacion/investigacion/proyecto-de-estudios-greco-romanos/de-rebus-antiquis/">De
-      Rebus Antiquis</a><br />ISSN 2250-4923<br /><blockquote><img
-      alt="http://www.uca.edu.ar/uca/common/grupo82/images/De-Rebus-Antiquis-tapa-2011.jpg"
-      src="http://www.uca.edu.ar/uca/common/grupo82/images/De-Rebus-Antiquis-tapa-2011.jpg"
-      height="200" width="139" /> </blockquote><blockquote><table
-      class="tabla_sin_borde" id="tabla_centrada"><tbody><tr><td><span
-      style="font-size: x-small;">DE REBUS ANTIQUIS es la publicación electrónica del Proyecto de
-      Estudios Históricos Grecorromanos (PEHG) del Departamento de Historia de la Facultad de
-      Ciencias Sociales, Políticas y de la Comunicación de la Universidad Católica Argentina. Esta
-      revista ha nacido con el objeto de dar marco institucional para la publicación de todas
-      aquellas investigaciones de especialistas en esta área del conocimiento y gestar así un ámbito
-      de debate en las temáticas y líneas de investigación más novedosas del tema que nos convoca.
-      Hemos elegido el formato electrónico para garantizar el ágil acceso a sus contenidos a
-      cualquier especialista interesado como un rápido alcance nacional e internacional a sus
-      articulistas. Asimismo, desde la perspectiva histórica, convocamos el aporte de otras áreas del
-      conocimiento como la Ciencia Política, la Antropología, la Sociología, la Economía, las Letras,
-      la Filosofía, etc., que son bienvenidos a participar y nos ayudarán a satisfacer las exigencias
-      que implica el conocimiento
-      interdisciplinario.</span></td></tr></tbody></table></blockquote><blockquote><span
-      style="font-size: x-small;"> </span><span style="font-size: x-small;">
-      </span><table class="tabla_sin_borde"
-      id="tabla_centrada"><tbody><tr><td><span style="font-size:
-      x-small;"><b><a
-      href="http://www.uca.edu.ar/index.php/site/index/es/uca/facultades/buenos-aires/cs-sociales-politicas-y-de-la-comunicacion/investigacion/proyecto-de-estudios-greco-romanos/de-rebus-antiquis/de-rebus-antiquis-nro-1/">Año
-      I, Núm.1 / 2011</a></b></span></td><td><br
-      /></td><td><br /><b><a
-      href="http://www.uca.edu.ar/index.php/site/index/es/uca/facultades/buenos-aires/cs-sociales-politicas-y-de-la-comunicacion/investigacion/proyecto-de-estudios-greco-romanos/de-rebus-antiquis/de-rebus-antiquis-nro-2/"></a></b></td></tr></tbody></table></blockquote><blockquote><table
-      class="tabla_sin_borde" id="tabla_centrada"><tbody><tr><td><span
-      style="font-size: x-small;"><b><a
-      href="http://www.uca.edu.ar/index.php/site/index/es/uca/facultades/buenos-aires/cs-sociales-politicas-y-de-la-comunicacion/investigacion/proyecto-de-estudios-greco-romanos/de-rebus-antiquis/de-rebus-antiquis-nro-2/">Año
-      II, Núm. 2 /
-      2012</a></b></span></td></tr></tbody></table></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;"><strong><a
-      href="http://www.uca.edu.ar/index.php/site/index/es/uca/facultades/buenos-aires/cs-sociales-politicas-y-de-la-comunicacion/investigacion/proyecto-de-estudios-greco-romanos/de-rebus-antiquis/de-rebus-antiquis-nro-3/">Año
-      III, Núm.3 /
-      2013</a></strong></span></blockquote><strong>&nbsp;</strong>
-      <br /><div style="text-align: center;"><span style="font-size:
-      small;"><span style="font-family: inherit;"><span style="font-weight:
-      normal;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <title type="text">Open Access Journal: De Rebus Antiquis</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 20 December 2011. Updated 3 July 2016]</span><br /><br /><a href="http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-sociales/publicaciones/de-rebus-antiquis/">De Rebus Antiquis</a><br />ISSN 2250-4923<br /><blockquote><img alt="http://www.uca.edu.ar/uca/common/grupo82/images/De-Rebus-Antiquis-tapa-2011.jpg" src="http://www.uca.edu.ar/uca/common/grupo82/images/De-Rebus-Antiquis-tapa-2011.jpg" height="200" width="139" /> </blockquote><blockquote><table class="tabla_sin_borde" id="tabla_centrada"><tbody><tr><td><span style="font-size: x-small;">DE REBUS ANTIQUIS es la publicación electrónica del <a href="http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-sociales/investigacion/pehg/">Proyecto de Estudios Históricos Grecorromanos</a> (PEHG) del Departamento de Historia de la Facultad de Ciencias Sociales de la Universidad Católica Argentina.</span></td></tr></tbody></table></blockquote><blockquote><table class="tabla_sin_borde" id="tabla_centrada"><tbody><tr><td><span style="font-size: x-small;">Esta  revista ha nacido con el objeto de dar marco institucional para la  publicación de todas aquellas investigaciones de especialistas en esta  área del conocimiento y gestar así un ámbito de debate en las temáticas y  líneas de investigación más novedosas del tema que nos convoca.</span></td></tr></tbody></table></blockquote><blockquote><table class="tabla_sin_borde" id="tabla_centrada"><tbody><tr><td><span style="font-size: x-small;">Hemos  elegido el formato electrónico para garantizar el ágil acceso a sus  contenidos a cualquier especialista interesado como un rápido alcance  nacional e internacional a sus articulistas. Asimismo, desde la  perspectiva histórica, convocamos el aporte de otras áreas del  conocimiento como la Ciencia Política, la Antropología, la Sociología,  la Economía, las Letras, la Filosofía, etc., que son bienvenidos a  participar y nos ayudarán a satisfacer las exigencias que implica el  conocimiento interdisciplinario.</span></td></tr></tbody></table></blockquote><blockquote><br />             <a href="http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-sociales/publicaciones/de-rebus-antiquis/de-rebus-antiquis-nro-5/">Año V, Num. 5 / 2015</a><br />                          <table class="tabla_sin_borde" id="tabla_centrada"><tbody><tr><td><br /></td><td><br /></td>            <td><br /></td>            <td><br /></td>        </tr><tr>            <td>            <br />             <a href="http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-sociales/publicaciones/de-rebus-antiquis/de-rebus-antiquis-nro-1">Año I, Núm.1 / 2011</a><br />             </td>            <td>            <br />             <a href="http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-sociales/publicaciones/de-rebus-antiquis/de-rebus-antiquis-nro-2">Año II, Núm. 2 / 2012</a><br />             </td>            <td>            <br />             <a href="http://www.uca.edu.ar/index.php/site/index/es/uca/facultad-de-ciencias-sociales/publicaciones/de-rebus-antiquis/de-rebus-antiquis-nro-3">Año III, Núm.3 / 2013</a><br />             </td>            <td>            <br /></td></tr></tbody></table></blockquote><br /><div style="text-align: center;">See AWOL's List of&nbsp; <a href="http://ancientworldonline.blogspot.com/2014/12/spanishcatalanportugese-journals-on.html">Spanish/Catalan/Portuguese Open Access Journals on the Ancient World</a></div><br /><div style="text-align: center;"><span style="font-size: small;"><span style="font-family: inherit;"><span style="font-weight: normal;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2996933517505453388/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2996933517505453388/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/12/new-open-access-journal-de-rebus.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2996933517505453388"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2996933517505453388"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/12/new-open-access-journal-de-rebus.html"
          title="Open Access Journal: De Rebus Antiquis"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

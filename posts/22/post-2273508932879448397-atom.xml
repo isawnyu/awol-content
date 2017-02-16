@@ -1,98 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2273508932879448397</id>
-    <published>2014-04-04T18:03:00.000-04:00</published>
-    <updated>2014-04-04T18:03:06.823-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2273508932879448397</id>
+   <published>2014-04-04T18:03:00.000-04:00</published>
+   <updated>2014-04-04T18:03:06.823-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: The Bulletin of the John Rylands Library</title>
-    <content type="html"><![CDATA[<a href="http://www.johncassidy.org.uk/bulletin/"
-      target="_blank"><span style="font-size: small;">The <i>Bulletin</i> of the
-      John Rylands Library</span></a><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;">The John Rylands Library in Manchester, England was conceived by
-      Mrs Enriqueta Rylands as a memorial to her late husband John Rylands, a textile merchant and
-      manufacturer. After several years in construction, it opened to the public in 1900. Appointed
-      as Librarian, after a period as Joint Librarian, was Henry Guppy. Among his other achievements,
-      he founded a journal which has continued until the present day: the
-      <i>Bulletin</i>, which he edited until his death, while still in post as&nbsp;
-      Librarian,&nbsp; in 1948. His introduction to the first issue, Vol.1 No.1 dated April -
-      June 1903, included what in modern parlance might be called a 'mission
-      statement':</span><span style="font-size: x-small;"><br /></span><br
-      /><blockquote><span style="font-size: x-small;"><span style="font-size:
-      xx-small;">The primary purpose of this bulletin is to record the titles of works acquired
-      for the library during the quarter preceding the date of each issue, in order that students,
-      not only in Manchester, but also in other and distant parts of the world, may be kept informed
-      of the growth of its collections. In short, it will be made a vehicle for conveying information
-      respecting the library, its progress, and even its wants. But there are other and more
-      ambitious designs that we have in view, and it may be well in this our first number to state
-      that we shall hope from time to time to deal with much that concerns bibliography. When we
-      speak of bibliography, we use the term in its broadest sense, as the science of books
-      considered under all aspects. This will include occasional lists of works on specific subjects,
-      in the nature of reading-lists, bibliographical and historical notes on any specially
-      noteworthy additions, and articles on the special collections and famous books in which the
-      library is so rich, with the object of extending the usefulness of the library and of making
-      its resources better known...</span></span></blockquote><h3><span
-      style="font-size: x-small;">About these pages</span></h3><span
-      style="font-size: x-small;">While researching the life of John Cassidy, and other local
-      history subjects, I needed to access the John Rylands Library and its Bulletin, and was pleased
-      to find that most volumes of that publication are now available online through the <a
-      href="https://www.escholar.manchester.ac.uk/" target="_blank">University of Manchester
-      eScholar service</a>.</span><br /><span style="font-size:
-      x-small;"><br /></span><span style="font-size: x-small;">However, that
-      site is search-based, and unsuited to presentatation of the contents of a journal in
-      chronological order of publication, ordered by volume and issue numbers. As an exercise, I have
-      created these pages to provide that access, with links to the entries in
-      eScholar.</span><br /><span style="font-size: x-small;"><br
-      /></span><span style="font-size: x-small;">Please note that this interface is
-      purely a personal project, in no way an official publication of the Library or the University;
-      I offer it here in the hope that it may be of use to others. I have taken the liberty of
-      correcting a few errors in the original data; all mistakes in this presentation are, of course,
-      mine. If you find any, please let me know.</span><br /><span style="font-size:
-      x-small;"><br /></span><span style="font-size: x-small;">Comments and
-      corrections are welcome at: charlie[at]johncassidy.org.uk
-      </span></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><a
-      href="http://www.johncassidy.org.uk/bulletin/index.html">Introduction</a> | <a
-      href="http://www.johncassidy.org.uk/bulletin/bull01.html">Vol. 1-10 </a> | <a
-      href="http://www.johncassidy.org.uk/bulletin/bull11.html">11-20 </a> | <a
-      href="http://www.johncassidy.org.uk/bulletin/bull21.html">21-30 </a> | <a
-      href="http://www.johncassidy.org.uk/bulletin/bull31.html">31-40 </a> | <a
-      href="http://www.johncassidy.org.uk/bulletin/bull41.html">41-50 </a> | <a
-      href="http://www.johncassidy.org.uk/bulletin/bull51.html">51-60 </a> | <a
-      href="http://www.johncassidy.org.uk/bulletin/bull61.html">61-70 </a> | <a
-      href="http://www.johncassidy.org.uk/bulletin/bull71.html">71-80 </a> | <a
-      href="http://www.johncassidy.org.uk/bulletin/bull81.html">81-89 </a></span>
-      </blockquote><div style="text-align: center;"><br /></div><div
-      style="text-align: center;"><span style="font-size: small;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a> </span></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: The Bulletin of the John Rylands Library</title>
+   <content type="html"><![CDATA[<a href="http://www.johncassidy.org.uk/bulletin/" target="_blank"><span style="font-size: small;">The <i>Bulletin</i> of the John Rylands Library</span></a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">The John Rylands Library in Manchester, England was conceived by Mrs Enriqueta Rylands as a memorial to her late husband John Rylands, a textile merchant and manufacturer. After several years in construction, it opened to the public in 1900. Appointed as Librarian, after a period as Joint Librarian, was Henry Guppy. Among his other achievements, he founded a journal which has continued until the present day: the <i>Bulletin</i>, which he edited until his death, while still in post as&nbsp; Librarian,&nbsp; in 1948. His introduction to the first issue, Vol.1 No.1 dated April - June 1903, included what in modern parlance might be called a 'mission statement':</span><span style="font-size: x-small;"><br /></span><br /><blockquote><span style="font-size: x-small;"><span style="font-size: xx-small;">The primary purpose of this bulletin is to record the titles of works acquired for the library during the quarter preceding the date of each issue, in order that students, not only in Manchester, but also in other and distant parts of the world, may be kept informed of the growth of its collections. In short, it will be made a vehicle for conveying information respecting the library, its progress, and even its wants. But there are other and more ambitious designs that we have in view, and it may be well in this our first number to state that we shall hope from time to time to deal with much that concerns bibliography. When we speak of bibliography, we use the term in its broadest sense, as the science of books considered under all aspects. This will include occasional lists of works on specific subjects, in the nature of reading-lists, bibliographical and historical notes on any specially noteworthy additions, and articles on the special collections and famous books in which the library is so rich, with the object of extending the usefulness of the library and of making its resources better known...</span></span></blockquote><h3><span style="font-size: x-small;">About these pages</span></h3><span style="font-size: x-small;">While researching the life of John Cassidy, and other local history subjects, I needed to access the John Rylands Library and its Bulletin, and was pleased to find that most volumes of that publication are now available online through the <a href="https://www.escholar.manchester.ac.uk/" target="_blank">University of Manchester eScholar service</a>.</span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;">However, that site is search-based, and unsuited to presentatation of the contents of a journal in chronological order of publication, ordered by volume and issue numbers. As an exercise, I have created these pages to provide that access, with links to the entries in eScholar.</span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;">Please note that this interface is purely a personal project, in no way an official publication of the Library or the University; I offer it here in the hope that it may be of use to others. I have taken the liberty of correcting a few errors in the original data; all mistakes in this presentation are, of course, mine. If you find any, please let me know.</span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;">Comments and corrections are welcome at: charlie[at]johncassidy.org.uk </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><a href="http://www.johncassidy.org.uk/bulletin/index.html">Introduction</a> | <a href="http://www.johncassidy.org.uk/bulletin/bull01.html">Vol. 1-10 </a> | <a href="http://www.johncassidy.org.uk/bulletin/bull11.html">11-20 </a> | <a href="http://www.johncassidy.org.uk/bulletin/bull21.html">21-30 </a> | <a href="http://www.johncassidy.org.uk/bulletin/bull31.html">31-40 </a> | <a href="http://www.johncassidy.org.uk/bulletin/bull41.html">41-50 </a> | <a href="http://www.johncassidy.org.uk/bulletin/bull51.html">51-60 </a> | <a href="http://www.johncassidy.org.uk/bulletin/bull61.html">61-70 </a> | <a href="http://www.johncassidy.org.uk/bulletin/bull71.html">71-80 </a> | <a href="http://www.johncassidy.org.uk/bulletin/bull81.html">81-89 </a></span> </blockquote><div style="text-align: center;"><br /></div><div style="text-align: center;"><span style="font-size: small;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a> </span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2273508932879448397/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2273508932879448397/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/04/open-access-journal-bulletin-of-john.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2273508932879448397"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2273508932879448397"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/04/open-access-journal-bulletin-of-john.html"
          title="Open Access Journal: The Bulletin of the John Rylands Library"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

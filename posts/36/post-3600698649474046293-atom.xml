@@ -1,98 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3600698649474046293</id>
-    <published>2014-05-20T15:56:00.000-04:00</published>
-    <updated>2014-05-20T15:56:25.816-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3600698649474046293</id>
+   <published>2014-05-20T15:56:00.000-04:00</published>
+   <updated>2014-05-20T15:56:25.816-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Karnak"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Luxor"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
-    <title type="text">CFEETK News: Début de la mise en ligne des inscriptions des parois de la salle
-      hypostyle, de la chapelle rouge, de la chapelle de calcite de Thoutmosis IV et du temple
-      Opet</title>
-    <content type="html"><![CDATA[<div class="titre-axes"><a
-      href="http://www.cfeetk.cnrs.fr/index.php?page=debut-mise-en-ligne-opet-shp-cr-ct4">Projet
-      Karnak : Début de la mise en ligne des inscriptions des parois de la salle hypostyle, de la
-      chapelle rouge, de la chapelle de calcite de Thoutmosis IV et du temple
-      Opet.</a></div><blockquote class="tr_bq"><div align="right"><span
-      style="font-size: x-small;">Read this page in <a
-      href="http://www.cfeetk.cnrs.fr/uk/index.php?page=debut-mise-en-ligne-opet-shp-cr-ct4">English
-      <img alt="uk" class="abs" height="12" src="http://www.cfeetk.cnrs.fr/utl/img/uk.png"
-      width="18" /></a> or <a
-      href="http://www.cfeetk.cnrs.fr/eg/index.php?page=debut-mise-en-ligne-opet-shp-cr-ct4"> عربي
-      <img alt="eg" class="abs" height="12" src="http://www.cfeetk.cnrs.fr/utl/img/eg.png"
-      width="18" /></a></span></div><br /> <span style="font-size:
-      x-small;"><br />Depuis quelques semaines a débuté la mise en ligne dans le projet
-      Karnak des premières inscriptions des parois de la salle hypostyle, de la chapelle rouge, de la
-      chapelle de calcite de Thoutmosis IV et, plus récemment, du temple d'Opet.</span><br
-      /> <br /> <span style="font-size: x-small;"><strong>Salle hypostyle
-      :</strong></span><br /> <span style="font-size: x-small;"><a
-      href="http://www.cfeetk.cnrs.fr/karnak/?iu=859">http://www.cfeetk.cnrs.fr/karnak/?iu=859</a></span><br
-      /> <div style="text-align: center;"><span style="font-size: x-small;"><a
-      href="http://www.cfeetk.cnrs.fr/karnak/?iu=859"><img alt="Salle hypostyle" height="316"
-      src="http://www.cfeetk.cnrs.fr/utl/copy.php?path=../fichiers/Image/pk-salle-hypostyle.jpg"
-      width="450" /></a></span></div><br /> <span style="font-size:
-      x-small;"><strong>Chapelle rouge :</strong></span><br /> <span
-      style="font-size: x-small;"><a
-      href="http://www.cfeetk.cnrs.fr/karnak/?iu=1192">http://www.cfeetk.cnrs.fr/karnak/?iu=1192</a></span><br
-      /> <div style="text-align: center;"><span style="font-size: x-small;"><a
-      href="http://www.cfeetk.cnrs.fr/karnak/?iu=1192"><img alt="Chapelle rouge" height="298"
-      src="http://www.cfeetk.cnrs.fr/utl/copy.php?path=../fichiers/Image/pk-chapelle-rouge.jpg"
-      width="450" /></a></span></div><br /> <span style="font-size:
-      x-small;"><strong>Chapelle de Thoutmosis IV :</strong></span><br />
-      <span style="font-size: x-small;"><a
-      href="http://www.cfeetk.cnrs.fr/karnak/?iu=3214">http://www.cfeetk.cnrs.fr/karnak/?iu=3214</a></span><br
-      /> <div style="text-align: center;"><span style="font-size: x-small;"><a
-      href="http://www.cfeetk.cnrs.fr/karnak/?iu=3214"><img alt="Chapelle de calcite de
-      Thoutmosis IV" height="367"
-      src="http://www.cfeetk.cnrs.fr/utl/copy.php?path=../fichiers/Image/pk-chapelle-thoutmosis-4.jpg"
-      width="450" /></a></span></div><br /> <span style="font-size:
-      x-small;"><strong>Temple d’Opet : </strong></span><br /> <span
-      style="font-size: x-small;"><a
-      href="http://www.cfeetk.cnrs.fr/karnak/?iu=1747">http://www.cfeetk.cnrs.fr/karnak/?iu=1747</a></span><br
-      /> <div style="text-align: center;"><span style="font-size: x-small;"><a
-      href="http://www.cfeetk.cnrs.fr/karnak/?iu=1747"><img alt="Temple d’Opet" height="317"
-      src="http://www.cfeetk.cnrs.fr/utl/copy.php?path=../fichiers/Image/pk-temple-opet.jpg"
-      width="450" /></a></span></div><br /> <span style="font-size:
-      x-small;">Pour chacun de ces monuments, les inscriptions non encore disponibles seront mises
-      en ligne progressivement.</span><br /> <br /> <span style="font-size:
-      x-small;">Liste des derniers documents mis en ligne : <a
-      href="http://www.cfeetk.cnrs.fr/karnak/?derniers=y">www.cfeetk.cnrs.fr/karnak/</a></span><br
-      /> <br /> <span style="font-size: x-small;">Carnet de recherche hypothèse.org :
-      <a href="http://karnak.hypotheses.org/"
-      rel="nofollow">karnak.hypotheses.org/</a></span><br /> <br />
-      <span style="font-size: x-small;">Sébastien Biston-Moulin, Christophe Thiers, Cédric
-      Larcher, Anaïs Tillier.</span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Karnak"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Luxor"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
+   <title type="text">CFEETK News: Début de la mise en ligne des inscriptions des parois de la salle hypostyle, de la chapelle rouge, de la chapelle de calcite de Thoutmosis IV et du temple Opet</title>
+   <content type="html"><![CDATA[<div class="titre-axes"><a href="http://www.cfeetk.cnrs.fr/index.php?page=debut-mise-en-ligne-opet-shp-cr-ct4">Projet Karnak : Début de la mise en ligne des inscriptions des parois de la salle hypostyle, de la chapelle rouge, de la chapelle de calcite de Thoutmosis IV et du temple Opet.</a></div><blockquote class="tr_bq"><div align="right"><span style="font-size: x-small;">Read this page in <a href="http://www.cfeetk.cnrs.fr/uk/index.php?page=debut-mise-en-ligne-opet-shp-cr-ct4">English <img alt="uk" class="abs" height="12" src="http://www.cfeetk.cnrs.fr/utl/img/uk.png" width="18" /></a> or <a href="http://www.cfeetk.cnrs.fr/eg/index.php?page=debut-mise-en-ligne-opet-shp-cr-ct4"> عربي <img alt="eg" class="abs" height="12" src="http://www.cfeetk.cnrs.fr/utl/img/eg.png" width="18" /></a></span></div><br /> <span style="font-size: x-small;"><br />Depuis quelques semaines a débuté la mise en ligne dans le projet Karnak  des premières inscriptions des parois de la salle hypostyle, de la  chapelle rouge, de la chapelle de calcite de Thoutmosis IV et, plus  récemment, du temple d'Opet.</span><br /> <br /> <span style="font-size: x-small;"><strong>Salle hypostyle :</strong></span><br /> <span style="font-size: x-small;"><a href="http://www.cfeetk.cnrs.fr/karnak/?iu=859">http://www.cfeetk.cnrs.fr/karnak/?iu=859</a></span><br /> <div style="text-align: center;"><span style="font-size: x-small;"><a href="http://www.cfeetk.cnrs.fr/karnak/?iu=859"><img alt="Salle hypostyle" height="316" src="http://www.cfeetk.cnrs.fr/utl/copy.php?path=../fichiers/Image/pk-salle-hypostyle.jpg" width="450" /></a></span></div><br /> <span style="font-size: x-small;"><strong>Chapelle rouge :</strong></span><br /> <span style="font-size: x-small;"><a href="http://www.cfeetk.cnrs.fr/karnak/?iu=1192">http://www.cfeetk.cnrs.fr/karnak/?iu=1192</a></span><br /> <div style="text-align: center;"><span style="font-size: x-small;"><a href="http://www.cfeetk.cnrs.fr/karnak/?iu=1192"><img alt="Chapelle rouge" height="298" src="http://www.cfeetk.cnrs.fr/utl/copy.php?path=../fichiers/Image/pk-chapelle-rouge.jpg" width="450" /></a></span></div><br /> <span style="font-size: x-small;"><strong>Chapelle de Thoutmosis IV :</strong></span><br /> <span style="font-size: x-small;"><a href="http://www.cfeetk.cnrs.fr/karnak/?iu=3214">http://www.cfeetk.cnrs.fr/karnak/?iu=3214</a></span><br /> <div style="text-align: center;"><span style="font-size: x-small;"><a href="http://www.cfeetk.cnrs.fr/karnak/?iu=3214"><img alt="Chapelle de calcite de Thoutmosis IV" height="367" src="http://www.cfeetk.cnrs.fr/utl/copy.php?path=../fichiers/Image/pk-chapelle-thoutmosis-4.jpg" width="450" /></a></span></div><br /> <span style="font-size: x-small;"><strong>Temple d’Opet : </strong></span><br /> <span style="font-size: x-small;"><a href="http://www.cfeetk.cnrs.fr/karnak/?iu=1747">http://www.cfeetk.cnrs.fr/karnak/?iu=1747</a></span><br /> <div style="text-align: center;"><span style="font-size: x-small;"><a href="http://www.cfeetk.cnrs.fr/karnak/?iu=1747"><img alt="Temple d’Opet" height="317" src="http://www.cfeetk.cnrs.fr/utl/copy.php?path=../fichiers/Image/pk-temple-opet.jpg" width="450" /></a></span></div><br /> <span style="font-size: x-small;">Pour chacun de ces monuments, les inscriptions non encore disponibles seront mises en ligne progressivement.</span><br /> <br /> <span style="font-size: x-small;">Liste des derniers documents mis en ligne : <a href="http://www.cfeetk.cnrs.fr/karnak/?derniers=y">www.cfeetk.cnrs.fr/karnak/</a></span><br /> <br /> <span style="font-size: x-small;">Carnet de recherche hypothèse.org : <a href="http://karnak.hypotheses.org/" rel="nofollow">karnak.hypotheses.org/</a></span><br /> <br /> <span style="font-size: x-small;">Sébastien Biston-Moulin, Christophe Thiers, Cédric Larcher, Anaïs Tillier.</span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3600698649474046293/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3600698649474046293/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/cfeetk-news-debut-de-la-mise-en-ligne.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3600698649474046293"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3600698649474046293"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/cfeetk-news-debut-de-la-mise-en-ligne.html"
          title="CFEETK News: Début de la mise en ligne des inscriptions des parois de la salle hypostyle, de la chapelle rouge, de la chapelle de calcite de Thoutmosis IV et du temple Opet"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

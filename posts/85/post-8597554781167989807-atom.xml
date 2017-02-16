@@ -1,111 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8597554781167989807</id>
-    <published>2013-12-02T15:45:00.002-05:00</published>
-    <updated>2013-12-02T15:45:35.177-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8597554781167989807</id>
+   <published>2015-08-03T09:55:00.000-04:00</published>
+   <updated>2015-08-03T09:55:00.525-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Romania"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="History"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">New Open Access Journal: ReDIVA: Revista Doctoranzilor în Istorie Veche şi
-      Arheologie - The Postgraduate Journal of Ancient History and Archaeology</title>
-    <content type="html"><![CDATA[<a href="http://rediva.ro/">ReDIVA: Revista Doctoranzilor în Istorie
-      Veche şi Arheologie - The Postgraduate Journal of Ancient History and
-      Archaeology</a><br /><div style="text-align: left;">ISSN
-      2344-5548</div><div style="text-align: left;">ISSN-L 2344-5548</div><br
-      /><blockquote class="tr_bq"><img
-      alt="http://rediva.ro/wp-content/uploads/2013/06/banner_rediva2.gif" class="decoded"
-      height="101" src="http://rediva.ro/wp-content/uploads/2013/06/banner_rediva2.gif" width="400"
-      /></blockquote><blockquote class="tr_bq"><div style="text-align:
-      justify;"><span style="font-size: x-small;">Revista Doctoranzilor în Istorie Veche şi
-      Arheologie (ReDIVA) reprezintă o iniţiativă editorială a doctoranzilor Universităţii
-      „Babeş-Bolyai” din Cluj-Napoca, cu specializarea în istorie veche şi arheologie. Aceasta a luat
-      naştere din dorinţa de a încuraja şi fructifica cercetarea tinerilor în aceste
-      domenii.</span></div><div style="text-align: justify;"><br
-      /></div><div style="text-align: justify;"><span style="font-size:
-      x-small;"><b>Misiunea</b> revistei este aceea de a oferi doctoranzilor din
-      centrele universitare naţionale și din afara țării un spaţiu de dialog și, în același timp, de
-      a susţine tinerii cercetători în integrarea lor în mediul academic. Din acest motiv, dar și
-      pentru a asigura legătura între generațiile de actuali și viitori doctoranzi, se acceptă şi
-      lucrări ale masteranzilor cu potenţial.</span></div><div style="text-align:
-      justify;"><span style="font-size: x-small;">Publicaţia este <b>anuală</b>,
-      iar materialele acoperă domeniul istoriei antice şi arheologiei, sub forma unor
-      <b>articole, note și recenzii.</b>&nbsp;Limbile de redactare acceptate sunt:
-      <b>engleza</b>, <b>franceza</b>, <b>germana</b>,
-      <b>italiana</b> şi <b>spaniola</b>.</span></div><div
-      style="text-align: justify;"><span style="font-size: x-small;"><strong>Nr. I /
-      2013</strong></span></div><div style="text-align: center;"><span
-      style="font-size: x-small;"><a
-      href="http://rediva.ro/wp-content/uploads/2013/12/ReDIVA_I_2013.pdf" style="color: #d54e21;
-      font-family: 'Droid Sans','Helvetica Neue','Nimbus Sans L',sans-serif; font-style: normal;
-      font-variant: normal; line-height: 24.2969px;"><img alt="coperta new 2 B"
-      class="size-medium wp-image-331 aligncenter" height="300"
-      src="http://rediva.ro/wp-content/uploads/2013/03/coperta-new-2-B-211x300.jpg" title="Click pe
-      imagine pentru a descarca volumul" width="211"
-      /></a></span></div><ul><li><span style="font-size:
-      x-small;"><a
-      href="http://rediva.ro/wp-content/uploads/2013/12/Berzovan_ReDIVA_I_2013.pdf"><strong>Alexandru
-      Berzovan</strong>,&nbsp;Some remarks on the Dacian silver hoard found at
-      Gura&nbsp;Văii (Pleșcuța town, Arad
-      County)</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://rediva.ro/wp-content/uploads/2013/12/Petan_ReDIVA_I_2013.pdf"><strong>Aurora
-      Pețan</strong>,&nbsp;Sarmizegetusa Regia in the Austrian map of
-      1804</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://rediva.ro/wp-content/uploads/2013/12/Szabo_ReDIVA_I_2013.pdf"><strong>Szabó
-      Csaba</strong>,&nbsp;The Mithraic Statue of Secundinus from
-      <em>Apulum</em></a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://rediva.ro/wp-content/uploads/2013/12/Deac_ReDIVA_I_2013.pdf"><strong>Dan
-      Deac</strong>,&nbsp;Being an Isiac
-      in&nbsp;<em>Potaissa.</em>&nbsp;Short remarks
-      on&nbsp;<em>RICIS</em>&nbsp;616/0102
-      (=&nbsp;<em>CIL</em>&nbsp;III
-      882)</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://rediva.ro/wp-content/uploads/2013/12/Boda_ReDIVA_I_2013.pdf"><strong>Boda
-      Imola</strong>,&nbsp;Torma Károly (1829-1897) and the archaeological research in
-      Roman Dacia. Case study: Ilişua</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://rediva.ro/wp-content/uploads/2013/12/Ceban_ReDIVA_I_2013.pdf"><strong>Ion
-      Ceban</strong>,&nbsp;Archäologische Denkmäler in der Gemeinde Slobozia Mare, Bezirk
-      Cahul, Republik Moldau</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://rediva.ro/wp-content/uploads/2013/12/Ovtcharov_ReDIVA_I_2013.pdf"><strong>Vladimir
-      Ovtchearov</strong>,&nbsp;Detailed investigation of countermarked coinage from
-      Dobrudja Despotat (case
-      report)</a></span></li></ul></blockquote><div
-      style="text-align: center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div><div style="text-align:
-      justify;"><br /></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="History"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Romania"/>
+   <title type="text">Open Access Journal: ReDIVA: Revista Doctoranzilor în Istorie Veche şi Arheologie - The Postgraduate Journal of Ancient History and Archaeology</title>
+   <content type="html"><![CDATA[<a href="http://rediva.ro/">ReDIVA: Revista Doctoranzilor în Istorie Veche şi Arheologie - The Postgraduate Journal of Ancient History and Archaeology</a><br /><div style="text-align: left;">ISSN 2344-6218</div><div style="text-align: left;">ISSN-L 2344-5548</div><br /><blockquote class="tr_bq"><img alt="http://rediva.ro/wp-content/uploads/2013/06/banner_rediva2.gif" class="decoded" src="http://rediva.ro/wp-content/uploads/2013/06/banner_rediva2.gif" height="101" width="400" /></blockquote><blockquote class="tr_bq"><div style="text-align: justify;"><span style="font-size: x-small;">Revista Doctoranzilor în Istorie Veche  şi Arheologie (ReDIVA) reprezintă o iniţiativă editorială a  doctoranzilor Universităţii „Babeş-Bolyai” din Cluj-Napoca, cu  specializarea în istorie veche şi arheologie. Aceasta a luat naştere din  dorinţa de a încuraja şi fructifica cercetarea tinerilor în aceste  domenii.</span></div><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;"><b>Misiunea</b> revistei este aceea de a  oferi doctoranzilor din centrele universitare naţionale și din afara  țării un spaţiu de dialog și, în același timp, de a susţine tinerii  cercetători în integrarea lor în mediul academic. Din acest motiv, dar  și pentru a asigura legătura între generațiile de actuali și viitori  doctoranzi, se acceptă şi lucrări ale masteranzilor cu potenţial.</span></div><div style="text-align: justify;"><span style="font-size: x-small;">Publicaţia este <b>anuală</b>, iar materialele acoperă domeniul istoriei antice şi arheologiei, sub forma unor <b>articole, note și recenzii.</b>&nbsp;Limbile de redactare acceptate sunt: <b>engleza</b>, <b>franceza</b>, <b>germana</b>, <b>italiana</b> şi <b>spaniola</b>.</span></div></blockquote><blockquote class="tr_bq"><h3 style="text-align: center;"><span style="font-size: x-small;"><a href="http://rediva.ro/numere/2014-2/"><b>Nr. II / 2014</b></a></span></h3><div style="text-align: center;"><br /></div><div align="left"><span style="font-size: x-small;"><span style="text-decoration: underline;">STUDIES</span></span></div><table border="1" cellpadding="0" cellspacing="0" style="width: 780px;"><tbody><tr><td style="text-align: left;" valign="bottom" width="480"><span style="font-size: x-small;">Mariana PROCIUC, Vlad CODREA</span><span style="font-size: x-small;"><a href="http://rediva.ro//wp-content/uploads/2014/09/Prociuc_ReDIVA_II_2014.pdf" target="_blank">Archaeozoology and palaeontology of the Subpiatră Cave (Bihor County, Romania)</a></span></td><td valign="bottom" width="85"><div align="center"><span style="font-size: x-small;"><a href="http://rediva.ro//wp-content/uploads/2014/09/Prociuc_ReDIVA_II_2014.pdf" target="_blank">PDF</a></span></div></td></tr><tr><td style="text-align: left;" valign="bottom" width="480"><span style="font-size: x-small;">Aurora PEȚAN</span><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/Petan_ReDIVA_II_2014.pdf" target="_blank">An unknown stone structure in&nbsp;<i>Sarmizegetusa Regia</i>’s sacred zone recorded in writings of the 19<sup>th</sup>&nbsp;century</a></span></td><td valign="bottom" width="85"><div align="center"><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/Petan_ReDIVA_II_2014.pdf" target="_blank">PDF</a></span></div></td></tr><tr><td style="text-align: left;" valign="bottom" width="480"><span style="font-size: x-small;">Mátyás&nbsp;BAJUSZ, Aurora PEȚAN</span><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/Bajusz_ReDIVA_II_2014.pdf" target="_blank">Two bronze bracelets with looped and twisted ends from the notes of Téglás István</a></span></td><td valign="bottom" width="85"><div align="center"><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/Bajusz_ReDIVA_II_2014.pdf" target="_blank">PDF</a></span></div></td></tr><tr><td style="text-align: left;" valign="bottom" width="480"><span style="font-size: x-small;">Csaba&nbsp;SZABÓ</span><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/Szabo_ReDIVA_II_2014.pdf" target="_blank">Discovering the gods in <i>Apulum</i>: historiography and new perspectives</a></span></td><td valign="bottom" width="85"><div align="center"><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/Szabo_ReDIVA_II_2014.pdf" target="_blank">PDF</a></span></div></td></tr><tr><td style="text-align: left;" valign="bottom" width="480"><span style="font-size: x-small;">Radu Iustinian ZĂGREANU, Claudiu Ionuț IOV</span><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/Zagreanu_ReDIVA_II_2014.pdf" target="_blank">A Roman funerary&nbsp;<i>stela</i>&nbsp;from&nbsp;<i>Porolissum</i></a></span></td><td valign="bottom" width="85"><div align="center"><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/Zagreanu_ReDIVA_II_2014.pdf" target="_blank">PDF</a></span></div></td></tr><tr><td style="text-align: left;" valign="bottom" width="480"><span style="font-size: x-small;">Alexandra TEODOR</span><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/Teodor_ReDIVA_II_2014.pdf" target="_blank">The roman defensive systems of&nbsp;&nbsp;<i>Tomis.&nbsp;</i>Some issues in the light of the current knowledge</a><b>&nbsp;</b></span></td><td valign="bottom" width="85"><div align="center"><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/Teodor_ReDIVA_II_2014.pdf" target="_blank">PDF</a></span></div></td></tr></tbody></table><div align="left"><span style="font-size: x-small;"><span style="text-decoration: underline;">REVIEWS</span></span></div><table border="1" cellpadding="0" cellspacing="0" style="width: 780px;"><tbody><tr><td style="text-align: left;" valign="bottom" width="480"><span style="font-size: x-small;"><b><a href="http://rediva.ro/wp-content/uploads/2014/09/DrasoveanReview_ReDIVA_II_2014.pdf" target="_blank">Todd L. VanPool, Robert D. Leonard: Quantitative Analysis in Archaeology, Wiley-Blackwell, 2010</a></b>&nbsp;(Laura-Simona DRAȘOVEAN)</span></td><td valign="bottom" width="85"><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/DrasoveanReview_ReDIVA_II_2014.pdf" target="_blank">PDF</a></span></td></tr><tr><td style="text-align: left;" valign="bottom" width="480"><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/BatrinoiuReview_ReDIVA_II_2014.pdf" target="_blank">Luca-Paul Pupeză, Veacul întunecat al Daciei. <b>Arheologie și istorie în spațiul carpato-danubian de la sfârșitul secolului II a.Chr. până la începutul secolului I a. Chr.</b>, Cluj-Napoca, 2012</a> (Raluca-Eliza BĂTRÎNOIU)</span></td><td valign="bottom" width="85"><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/BatrinoiuReview_ReDIVA_II_2014.pdf" target="_blank">PDF</a></span></td></tr><tr><td style="text-align: left;" valign="bottom" width="480"><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/PetanReview_ReDIVA_II_2014.pdf" target="_blank">Ioan  Piso, Viorica Rusu-Bolindeț, Rada Varga, Silvia Mustata, Ligia Ruscu  (eds.), Scripta Classica. Radu Ardevan sexagenario dedicata,  Cluj-Napoca, 2011</a> (Aurora PEȚAN)</span></td><td valign="bottom" width="85"><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/PetanReview_ReDIVA_II_2014.pdf" target="_blank">PDF</a></span></td></tr><tr><td style="text-align: left;" valign="bottom" width="480"><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2014/09/CoatuReview_ReDIVA_II_2014.pdf" target="_blank">Rada Varga, The Peregrini of Roman Dacia <b>(106-212)</b>, Cluj-Napoca, 2014</a> (Cosmin Mihail COATU)</span></td></tr></tbody></table></blockquote><blockquote class="tr_bq"><div style="text-align: center;"><span style="font-size: x-small;"><a href="http://rediva.ro/numere/2013-1/"><b>Nr. I / 2013</b></a> </span></div></blockquote><blockquote class="tr_bq"><div style="text-align: center;"></div><div style="text-align: center;"><span style="font-size: x-small;"><br /></span></div><ul><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2013/12/Berzovan_ReDIVA_I_2013.pdf"><b>Alexandru Berzovan</b>,&nbsp;Some remarks on the Dacian silver hoard found at Gura&nbsp;Văii (Pleșcuța town, Arad County)</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2013/12/Petan_ReDIVA_I_2013.pdf"><b>Aurora Pețan</b>,&nbsp;Sarmizegetusa Regia in the Austrian map of 1804</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2013/12/Szabo_ReDIVA_I_2013.pdf"><b>Szabó Csaba</b>,&nbsp;The Mithraic Statue of Secundinus from <i>Apulum</i></a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2013/12/Deac_ReDIVA_I_2013.pdf"><b>Dan Deac</b>,&nbsp;Being an Isiac in&nbsp;<i>Potaissa.</i>&nbsp;Short remarks on&nbsp;<i>RICIS</i>&nbsp;616/0102 (=&nbsp;<i>CIL</i>&nbsp;III 882)</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2013/12/Boda_ReDIVA_I_2013.pdf"><b>Boda Imola</b>,&nbsp;Torma Károly (1829-1897) and the archaeological research in Roman Dacia. Case study: Ilişua</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2013/12/Ceban_ReDIVA_I_2013.pdf"><b>Ion Ceban</b>,&nbsp;Archäologische Denkmäler in der Gemeinde Slobozia Mare, Bezirk Cahul, Republik Moldau</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://rediva.ro/wp-content/uploads/2013/12/Ovtcharov_ReDIVA_I_2013.pdf"><b>Vladimir Ovtchearov</b>,&nbsp;Detailed investigation of countermarked coinage from Dobrudja Despotat (case report)</a></span></li></ul></blockquote><div style="text-align: center;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></div><div style="text-align: justify;"><br /></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8597554781167989807/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8597554781167989807/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
-         href="http://ancientworldonline.blogspot.com/2013/12/new-open-access-journal-rediva-revista.html#comment-form"
+         href="http://ancientworldonline.blogspot.com/2015/08/open-access-journal-rediva-revista.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8597554781167989807"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8597554781167989807"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
-         href="http://ancientworldonline.blogspot.com/2013/12/new-open-access-journal-rediva-revista.html"
-         title="New Open Access Journal: ReDIVA: Revista Doctoranzilor în Istorie Veche şi Arheologie - The Postgraduate Journal of Ancient History and Archaeology"/>
-    <author>
+         href="http://ancientworldonline.blogspot.com/2015/08/open-access-journal-rediva-revista.html"
+         title="Open Access Journal: ReDIVA: Revista Doctoranzilor în Istorie Veche şi Arheologie - The Postgraduate Journal of Ancient History and Archaeology"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

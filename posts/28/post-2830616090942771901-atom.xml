@@ -1,95 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2830616090942771901</id>
-    <published>2014-08-28T09:26:00.000-04:00</published>
-    <updated>2014-08-28T09:26:26.445-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2830616090942771901</id>
+   <published>2014-08-28T09:26:00.000-04:00</published>
+   <updated>2014-08-28T09:26:26.445-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Ceramics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
-    <title type="text">The Trendall Research Centre for Ancient Mediterranean Studies Extensible
-      Database</title>
-    <content type="html"><![CDATA[<a
-      href="http://trendallarchive.latrobe.edu.au/XDB/ASP/default.asp">The Trendall Research
-      Centre for Ancient Mediterranean Studies</a><br /><blockquote
-      class="tr_bq"><img
-      alt="http://trendallarchive.latrobe.edu.au/images/headers/brand_marks_for_web1/brand%20marks%20for%20web/ox_brand3_rev_rect.gif"
-      class="decoded"
-      src="http://trendallarchive.latrobe.edu.au/images/headers/brand_marks_for_web1/brand%20marks%20for%20web/ox_brand3_rev_rect.gif"
-      /> </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">The Trendall Research Centre has the following objectives:</span><br
-      /><ul><li><span style="font-size: x-small;">To maintain and extend both
-      the library and the archive through the acquisition of books and periodicals relating to the
-      general area of Greek and Roman culture, and of photographs of South Italian red-figure
-      vases.</span></li><li><span style="font-size: x-small;">To make
-      available, at the Director's discretion, the resources of the Centre to all scholars and
-      graduate students, whether from Australia or overseas, who wish to use the library and
-      archive.</span></li><li><span style="font-size: x-small;">To promote
-      research in the general area of Ancient Mediterranean studies, particularly in the archaeology
-      of South Italy and Sicily during the Classical
-      period.</span></li><li><span style="font-size: x-small;">To disseminate
-      within the general community in Australia the results of the latest research in Greek and Roman
-      art and archaeology through the sponsorship of conferences, lectures and
-      seminars.</span></li></ul></blockquote><blockquote
-      class="tr_bq"><div style="text-align: left;"><h1><span style="font-size:
-      x-small;">Trendall Research Centre Extensible Database
-      (XDB)</span></h1></div><div style="text-align: left;"><span
-      style="font-size: x-small;"><span class="small"> You may only use the Trendall
-      Research Centre databases for academic / research purposes.<br /> No part of the database
-      whether image, text or program may be reproduced for any purpose.<br /> Use of the
-      database is logged and monitored regularly.<br /> Trendall Research Centre, La Trobe
-      University holds copyright on all data presented here.<br /> Images have been protected
-      by registration software (Netimage, France) and digital fingerprinting (Datamark, UK and IBM,
-      US). <br /> Attempting to reproduce or alter an image in any way is an offence punishable
-      under international law. </span></span></div><div style="text-align:
-      left;"><span style="font-size: x-small;">You may continue to search the Trendall
-      Research Centre databases without logging in or if you want to preserve your Photograph Album
-      for future sessions you may register and login to your account.</span></div><div
-      style="text-align: left;"><span style="font-size: x-small;"><a
-      href="https://www.beazley.ox.ac.uk/XDB/ASP/defaultLogin.asp">Login to your account or
-      Register a new account</a></span></div><div style="text-align:
-      left;"><span style="font-size: x-small;"><span class="small">Please note, you
-      must have cookies enabled on your browser in order for this site to operate
-      correctly.</span><br /><span class="small">In order to see the images you
-      must also enable JAVA and ensure that any firewall you have allows both ports 80 and 81
-      through. </span><br /><span class="small"> If you wish to suggest additions
-      or corrections to the database, please contact the Database Director,
-      Mark&nbsp;Kosten.</span><br /><span class="small"> Email: <a
-      href="mailto:%20m.kosten@latrobe.edu.au">m.kosten@latrobe.edu.au</a>
-      </span><br /><span class="small"> Tel: 03 9479 3348 </span><br
-      /><span class="small"> Trendall Research Centre is not able to reply to requests for
-      photographs of objects,</span><br /><span class="small">nor can it give
-      permission for images to be reproduced in any form.</span><br /><span
-      class="small"> Such requests must be directed to the museum or collection owning the
-      object.</span></span></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Ceramics"/>
+   <title type="text">The Trendall Research Centre for Ancient Mediterranean Studies Extensible Database</title>
+   <content type="html"><![CDATA[<a href="http://trendallarchive.latrobe.edu.au/XDB/ASP/default.asp">The Trendall Research Centre for Ancient Mediterranean Studies</a><br /><blockquote class="tr_bq"><img alt="http://trendallarchive.latrobe.edu.au/images/headers/brand_marks_for_web1/brand%20marks%20for%20web/ox_brand3_rev_rect.gif" class="decoded" src="http://trendallarchive.latrobe.edu.au/images/headers/brand_marks_for_web1/brand%20marks%20for%20web/ox_brand3_rev_rect.gif" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The Trendall Research Centre has the following objectives:</span><br /><ul><li><span style="font-size: x-small;">To maintain and extend both the library and the archive through  the acquisition of books and periodicals relating to the general area of  Greek and Roman culture, and of photographs of South Italian red-figure  vases.</span></li><li><span style="font-size: x-small;">To make available, at the Director's discretion, the resources of  the Centre to all scholars and graduate students, whether from Australia  or overseas, who wish to use the library and archive.</span></li><li><span style="font-size: x-small;">To promote research in the general area of Ancient Mediterranean  studies, particularly in the archaeology of South Italy and Sicily  during the Classical period.</span></li><li><span style="font-size: x-small;">To disseminate within the general community in Australia the  results of the latest research in Greek and Roman art and archaeology  through the sponsorship of conferences, lectures and seminars.</span></li></ul></blockquote><blockquote class="tr_bq"><div style="text-align: left;"><h1><span style="font-size: x-small;">Trendall Research Centre Extensible Database (XDB)</span></h1></div><div style="text-align: left;"><span style="font-size: x-small;"><span class="small">            You may only use the Trendall Research Centre databases for academic /        research purposes.<br />      No part of the database whether image, text or program may be reproduced for any        purpose.<br />      Use of the database is logged and monitored regularly.<br />      Trendall Research Centre, La Trobe University holds copyright on all data presented        here.<br />      Images have been protected by registration software (Netimage,        France) and digital fingerprinting (Datamark,        UK and IBM, US). <br />      Attempting to reproduce or alter an image in any way is an offence punishable        under international law.       </span></span></div><div style="text-align: left;"><span style="font-size: x-small;">You may continue to search the Trendall Research Centre databases without logging in              or if you want to preserve your Photograph Album for future sessions you may register and login to your account.</span></div><div style="text-align: left;"><span style="font-size: x-small;"><a href="https://www.beazley.ox.ac.uk/XDB/ASP/defaultLogin.asp">Login to your account or Register a new account</a></span></div><div style="text-align: left;"><span style="font-size: x-small;"><span class="small">Please note, you must have cookies enabled on your browser in order for this site to operate correctly.</span><br /><span class="small">In order to see the images you must also enable JAVA and ensure that any firewall you have allows both ports 80 and 81 through.     </span><br /><span class="small">    If you wish to suggest additions or corrections          to the database, please contact the Database Director, Mark&nbsp;Kosten.</span><br /><span class="small">        Email: <a href="mailto:%20m.kosten@latrobe.edu.au">m.kosten@latrobe.edu.au</a>            </span><br /><span class="small">          Tel: 03 9479 3348 </span><br /><span class="small">      Trendall Research Centre is          not able to reply to requests for photographs of objects,</span><br /><span class="small">nor can it give          permission for images to be reproduced in any form.</span><br /><span class="small">        Such requests must be directed to the museum or collection owning the          object.</span></span></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2830616090942771901/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2830616090942771901/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/08/the-trendall-research-centre-for.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2830616090942771901"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2830616090942771901"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/08/the-trendall-research-centre-for.html"
          title="The Trendall Research Centre for Ancient Mediterranean Studies Extensible Database"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

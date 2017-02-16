@@ -1,121 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3954541191297838030</id>
-    <published>2012-10-08T09:11:00.003-04:00</published>
-    <updated>2014-01-22T17:07:21.341-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3954541191297838030</id>
+   <published>2016-02-16T09:04:00.000-05:00</published>
+   <updated>2016-03-02T15:21:59.334-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Late Antiquity"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Poetry"/>
-    <title type="text">Musisque Deoque</title>
-    <content type="html"><![CDATA[<a href="http://mqdq.cab.unipd.it/mqdq">Musisque Deoque. Un archivio
-      digitale di poesia latina</a><br /><blockquote class="tr_bq"><img
-      alt="http://mqdq.cab.unipd.it/mqdq/immagini/titolo_it.jpg" class="decoded"
-      src="http://mqdq.cab.unipd.it/mqdq/immagini/titolo_it.jpg" height="124" width="320"
-      />&nbsp;</blockquote><blockquote class="tr_bq"><div
-      class="testo"><span style="font-size: x-small;">Il progetto di ricerca
-      <i>“Musisque Deoque. Un archivio digitale di poesia latina, dalle origini al Rinascimento
-      italiano”</i>, è partito alla fine del 2005 con lo scopo di creare un unico database
-      della poesia latina, integrato e aggiornato da apparati critici ed esegetici
-      elettronici.&nbsp;</span></div><div class="testo"><br
-      /></div><div class="testo"><span style="font-size: x-small;">Obiettivo
-      dell’edizione critica tradizionale (o “lachmanniana”, nella terminologia dei filologi classici)
-      è quello di risalire all’archetipo con la <i>recensio</i>, poi eventualmente
-      superarlo con l’<i>emendatio</i>, sino a ricostruire quanto stava più vicino al
-      perduto originale. La forma di pubblicazione è ormai da secoli il libro a stampa, contenitore
-      di un testo rigido, immutabile, stabilito definitivamente dall’editore. Questo faticoso e
-      prezioso lavoro ha offerto, e tuttora offre, risultati di grande efficacia negli studi
-      filologici: ma trova il suo limite nel fatto stesso di cristallizzare una tradizione che è
-      intrinsecamente dinamica.</span></div><div class="testo"><br
-      /></div><div class="testo"><span style="font-size: x-small;">Con l’avvento
-      della tecnologia informatica le principali collezioni di classici sono state trasferite su
-      supporto digitale ed esistono risorse (offline e online) che rendono assai più celere ogni
-      ricerca lessicale. Ancora oggi però il motore di ricerca che interroghi una banca-dati di fonti
-      letterarie si limita a fornire le occorrenze di una chiave all’interno di un testo fisso,
-      “autoritario”.</span></div><br /><table border="0" cellpadding="0"
-      cellspacing="0" style="width: 100%px;"><tbody><tr><td class="menu"><br
-      /></td></tr><tr><td class="pseudolink"><table border="0"
-      cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td
-      class="pseudolink"><span style="font-size:
-      x-small;">ricerca</span></td></tr><tr><td
-      class="submenu"><span style="font-size: x-small;"><a class="submenu"
-      href="http://www.mqdq.it/mqdq/ricerca.jsp">-
-      semplice</a></span></td></tr><tr><td
-      class="submenu"><span style="font-size: x-small;"><a class="submenu"
-      href="http://www.mqdq.it/mqdq/griglia.jsp">-
-      avanzata</a></span></td></tr><tr><td
-      class="spazio"><span style="font-size:
-      x-small;">&nbsp;</span></td></tr><tr><td
-      class="pseudolink"><span style="font-size:
-      x-small;">indice</span></td></tr><tr><td
-      class="submenu"><span style="font-size: x-small;"><a class="submenu"
-      href="http://www.mqdq.it/mqdq/indice_autori_alfa.jsp?scelta=AZ&amp;path=autori">-
-      alfabetico</a></span></td></tr><tr><td
-      class="submenu"><span style="font-size: x-small;"><a class="submenu"
-      href="http://www.mqdq.it/mqdq/indice_autori_crono.jsp">-
-      cronologico</a></span></td></tr><tr><td
-      class="spazio"><span style="font-size:
-      x-small;">&nbsp;</span></td></tr><tr><td
-      class="pseudolink"><span style="font-size:
-      x-small;">metrica</span></td></tr><tr><td
-      class="submenu"><span style="font-size: x-small;"><a class="submenu"
-      href="http://www.mqdq.it/mqdq/indice_metri_metri.jsp?metro=00">-
-      metri</a></span></td></tr><tr><td class="submenu"><span
-      style="font-size: x-small;"><a class="submenu"
-      href="http://www.mqdq.it/mqdq/indice_autori_alfa.jsp?scelta=AZ&amp;path=metri_opere">-
-      opere</a></span></td></tr><tr><td class="spazio"><span
-      style="font-size: x-small;">&nbsp;</span></td></tr><tr><td
-      class="menu"><span style="font-size: x-small;"><a class="menu"
-      href="http://www.mqdq.it/mqdq/CE.jsp"><i>epigraphica</i></a></span></td></tr><tr><td
-      class="spazio"><span style="font-size:
-      x-small;">&nbsp;</span></td></tr><tr><td
-      class="menu"><span style="font-size: x-small;"><a class="menu"
-      href="http://www.mqdq.it/mqdq/collaboratori.jsp">collaboratori</a></span></td></tr><tr><td
-      class="menu"><span style="font-size: x-small;"><a class="menu"
-      href="mailto:mqdq@memoratapoetis.it">contatti</a></span></td></tr></tbody></table></td></tr><tr><td
-      class="submenu"><br /></td></tr><tr><td class="submenu"><br
-      /></td></tr><tr><td class="spazio"><br
-      /></td></tr><tr><td class="pseudolink"><br
-      /></td></tr><tr><td class="submenu"><br
-      /></td></tr><tr><td class="submenu"><br
-      /></td></tr><tr><td class="spazio"><br
-      /></td></tr><tr><td class="pseudolink"><br
-      /></td></tr><tr><td class="submenu"><br
-      /></td></tr><tr><td class="submenu"><br
-      /></td></tr><tr><td class="spazio"><br
-      /></td></tr><tr><td class="menu"><br
-      /></td></tr><tr><td class="spazio"><br
-      /></td></tr><tr><td class="menu"><br
-      /></td></tr><tr><td class="menu"><br
-      /></td></tr></tbody></table></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Poetry"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Late Antiquity"/>
+   <title type="text">Musisque Deoque. Un archivio digitale di poesia latina</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 8 September 2012, updated 16 February 2016]</span><br /><a href="http://www.mqdq.it/public/">Musisque Deoque. Un archivio digitale di poesia latina</a><br /><blockquote class="tr_bq"><img alt="http://mqdq.cab.unipd.it/mqdq/immagini/titolo_it.jpg" class="decoded" src="http://mqdq.cab.unipd.it/mqdq/immagini/titolo_it.jpg" height="124" width="320" />&nbsp;</blockquote><div align="left" class="presentazione" style="margin-bottom: 100px;"><blockquote><span style="font-size: x-small;">    </span><br /><div class="testo"><span style="font-size: x-small;">        Il progetto di ricerca <span class="pedecerto">Musisque Deoque. Un archivio digitale di poesia latina, dalle origini al Rinascimento italiano</span>,         è partito alla fine del 2005 con lo scopo di creare un unico  database della poesia latina, integrato da apparati critici ed esegetici  elettronici.&nbsp;</span></div><div class="testo"><br /></div><span style="font-size: x-small;">    </span><br /><div class="testo"><span style="font-size: x-small;">        Ad oggi, le principali collezioni di classici sono state  trasferite su supporto digitale ed esistono risorse, per lo più online,  che rendono assai celere         ogni ricerca lessicale. Nella grandissima parte dei casi,  tuttavia, il motore di ricerca si limita a fornire le occorrenze di una  chiave all’interno di un testo fisso,         ‘autoritario’. <span class="pedecerto">Musisque Deoque</span> si è proposto di superare questa limitazione, permettendo di reperire non solo le forme scelte e         riportate dall’edizione di riferimento, ma anche le varianti presentate in apparato.&nbsp;</span></div><div class="testo"><br /></div><span style="font-size: x-small;">    </span><br /><div class="testo" style="padding-top: 5px;"><span style="font-size: x-small;">        In tempi più recenti il sito web si è dotato di nuove funzioni. Queste le più significative:     </span></div><span style="font-size: x-small;">    </span><br /><ul class="home" style="margin-top: 10px;"><li>            <span style="font-size: x-small;"><span class="em">epigraphica</span>: trattamento speciale dei Carmina Latina Epigraphica, con una ricerca per corpora, un incipitario, l’aggiunta di dati             quali la provenienza, la datazione, eventuale ‘praescriptum’ e ‘postscriptum’ in prosa, ecc.;             è stato inoltre avviato un archivio fotografico delle iscrizioni in catalogo;             </span></li><li>            <span style="font-size: x-small;"><span class="em">testimoni</span>:             aggiunta, nell’apparato, di una nomenclatura standard dei manoscritti, con la denominazione moderna di città,             biblioteca, fondo e segnatura; elenco di autori e opere che condividono lo stesso testimone;             collegamento al sito della biblioteca e, se presente, alla versione digitalizzata del manoscritto;         </span></li><li>            <span style="font-size: x-small;"><span class="em">ricerca per lemmi</span>:             disponibile nella ricerca avanzata;         </span></li><li>            <span style="font-size: x-small;"><span class="em">scansione metrica</span> di tutte le opere in versi dattilici, fornita dall’applicazione             <a href="http://www.pedecerto.eu/" target="_blank"><span class="pedecerto">Pedecerto</span></a>;         </span></li><li>            <span style="font-size: x-small;"><span class="em">co-occorrenze</span>: a partire da un testo sorgente, è esplorato l’intero             corpus alla ricerca di somiglianze, verbali o anche ritmiche sopraverbali.         </span></li></ul><span style="font-size: x-small;">    </span><br /><div class="testo" style="padding-top: 5px;"><span style="font-size: x-small;"><span class="pedecerto">Musisque Deoque</span> è stato finora realizzato con finanziamenti del Ministero dell’Università e della Ricerca Scientifica e Tecnologica nell’ambito         dei bandi PRIN 2005 e PRIN 2007.     </span></div></blockquote><blockquote class="tr_bq"><table cellpadding="0" cellspacing="0"><tbody><tr><td class="menu"><span style="font-size: x-small;"><a class="menu" href="http://www.mqdq.it/public/ricerca/avanzata">ricerca</a></span></td></tr><tr><td class="menu"><span style="font-size: x-small;"><a class="menu" href="http://www.mqdq.it/public/cooccorrenze/cooccorrenze">co-occorrenze</a></span></td></tr><tr><td class="spazio"></td></tr><tr><td class="pseudolink"><span style="font-size: x-small;">indice</span></td></tr><tr><td class="submenu"><span style="font-size: x-small;"><a class="menu" href="http://www.mqdq.it/public/indici/autori/path/autori/scelta/AZ">- alfabetico</a></span></td></tr><tr><td class="submenu"><span style="font-size: x-small;"><a class="menu" href="http://www.mqdq.it/public/indici/autori">- cronologico</a></span></td></tr><tr><td class="spazio"></td></tr><tr><td class="pseudolink"><span style="font-size: x-small;">metrica</span></td></tr><tr><td class="submenu"><span style="font-size: x-small;"><a class="menu" href="http://www.mqdq.it/public/indici/metri">- metri</a></span></td></tr><tr><td class="submenu"><span style="font-size: x-small;"><a class="menu" href="http://www.mqdq.it/public/indici/autori/path/metriopere/scelta/AZ">- opere</a></span></td></tr><tr><td class="spazio"></td></tr><tr><td class="menu"><span style="font-size: x-small;"><a class="menu" href="http://www.mqdq.it/public/ce/ce"><i>epigraphica</i></a></span></td></tr><tr><td class="menu"><span style="font-size: x-small;"><a class="menu" href="http://www.mqdq.it/public/index/collaboratori">collaboratori</a></span></td></tr><tr><td class="menu"></td></tr></tbody></table></blockquote></div><blockquote class="tr_bq"><table border="0" cellpadding="0" cellspacing="0" style="width: 100%px;"><tbody><tr><td class="menu"><br /></td></tr><tr><td class="pseudolink"><br /></td></tr><tr><td class="submenu"><br /></td></tr><tr><td class="submenu"><br /></td></tr><tr><td class="spazio"><br /></td></tr><tr><td class="pseudolink"><br /></td></tr><tr><td class="submenu"><br /></td></tr><tr><td class="submenu"><br /></td></tr><tr><td class="spazio"><br /></td></tr><tr><td class="pseudolink"><br /></td></tr><tr><td class="submenu"><br /></td></tr><tr><td class="submenu"><br /></td></tr><tr><td class="spazio"><br /></td></tr><tr><td class="menu"><br /></td></tr><tr><td class="spazio"><br /></td></tr><tr><td class="menu"><br /></td></tr><tr><td class="menu"><br /></td></tr></tbody></table></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3954541191297838030/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3954541191297838030/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/10/musisque-deoque.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3954541191297838030"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3954541191297838030"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/10/musisque-deoque.html"
-         title="Musisque Deoque"/>
-    <author>
+         title="Musisque Deoque. Un archivio digitale di poesia latina"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

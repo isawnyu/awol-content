@@ -1,185 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5155045997147468765</id>
-    <published>2014-08-25T11:30:00.000-04:00</published>
-    <updated>2014-08-25T11:24:26.965-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5155045997147468765</id>
+   <published>2016-10-15T09:43:00.000-04:00</published>
+   <updated>2016-10-15T09:44:03.912-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Anatolia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Archaeological Science"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Archeometery"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Open Access Journal: Arkeometri Sonuçları Toplantıları</title>
-    <content type="html"><![CDATA[&nbsp;<span style="font-size: xx-small;">[First posted in AWOL 18
-      March 2011, updated 25 August 2014] </span><br /><br /><a
-      class="Altbaglantilar"
-      href="http://www.kulturvarliklari.gov.tr/Yonlendir.aspx?F6E10F8892433CFFF7BA884A184682F1B0045F2B2135708F">Arkeometri
-      Sonuçları Toplantıları</a><br />ISSN: 1017-7671<br
-      /><ul><li><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span><span style="color: white;">0</span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/01_arkeometri.pdf">1.
-      Arkeometri Sonuçları Toplantısı
-      [1985]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span style="color:
-      white;">0</span><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/02_arkeometri.pdf">2.
-      Arkeometri Sonuçları Toplantısı
-      [1986]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span style="color:
-      white;">0</span><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/03_arkeometri.pdf">3.
-      Arkeometri Sonuçları Toplantısı
-      [1987]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span style="color:
-      white;">0</span><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/04_arkeometri.pdf">4.
-      Arkeometri Sonuçları Toplantısı
-      [1988]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span style="color:
-      white;">0</span><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/05_arkeometri.pdf">5.
-      Arkeometri Sonuçları Toplantısı
-      [1989]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span style="color:
-      white;">0</span><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/06_arkeometri.pdf">6.
-      Arkeometri Sonuçları Toplantısı
-      [1990]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span style="color:
-      white;">0</span><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/07_arkeometri.pdf">7.
-      Arkeometri Sonuçları Toplantısı
-      [1991]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span style="color:
-      white;">0</span><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/08_arkeometri.pdf">8.
-      Arkeometri Sonuçları Toplantısı
-      [1992]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span style="color:
-      white;">0</span><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/09_arkeometri.pdf">9.
-      Arkeometri Sonuçları Toplantısı
-      [1993]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/10_arkeometri.pdf">10.
-      Arkeometri Sonuçları Toplantısı
-      [1994]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/11_arkeometri.pdf">11.
-      Arkeometri Sonuçları Toplantısı
-      [1995]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/12_arkeometri.pdf">12.
-      Arkeometri Sonuçları Toplantısı
-      [1996]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/13_arkeometri.pdf">13.
-      Arkeometri Sonuçları Toplantısı
-      [1997]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/14_arkeometri.pdf">14.
-      Arkeometri Sonuçları Toplantısı
-      [1998]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/15_arkeometri.pdf">15.
-      Arkeometri Sonuçları Toplantısı
-      [1999]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/16_arkeometri.pdf">16.
-      Arkeometri Sonuçları Toplantısı
-      [2000]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/17_arkeometri.pdf">17.
-      Arkeometri Sonuçları Toplantısı
-      [2001]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/18_arkeometri.pdf">18.
-      Arkeometri Sonuçları Toplantısı
-      [2002]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/19_arkeometri.pdf">19.
-      Arkeometri Sonuçları Toplantısı
-      [2003]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/20_arkeometri.pdf">20.
-      Arkeometri Sonuçları Toplantısı
-      [2004]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/21_arkeometri.pdf">21.
-      Arkeometri Sonuçları Toplantısı
-      [2005]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/22_arkeometri.pdf">22.
-      Arkeometri Sonuçları Toplantısı
-      [2006]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/23_arkeometri.pdf">23.
-      Arkeometri Sonuçları Toplantısı
-      [2007]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/24_arkeometri.pdf">24.
-      Arkeometri Sonuçları Toplantısı
-      [2008]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/25_arkeometri.pdf">25.
-      Arkeometri Sonuçları Toplantısı
-      [2009]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/26_arkeometri.pdf">26.
-      Arkeometri Sonuçları Toplantısı
-      [2010]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://www.kulturvarliklari.gov.tr/Eklenti/4647,27arkeometri.pdf?0" target="_blank"
-      title="">27. Arkeometri Sonuçları Toplantısı
-      [2011]</a></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><span
-      style="color: black;"><a
-      href="http://www.kulturvarliklari.gov.tr/Eklenti/7327,28arkemometri.pdf?0" target="_blank"
-      title="">28. Arkeometri Sonuçları Toplantısı
-      [2012]</a></span></span></span></span></li><li><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><span
-      style="color: black;"><a
-      href="http://www.kulturvarliklari.gov.tr/Eklenti/27096,29arkeometri.pdf?0" target="_blank"
-      title="">29. Arkeometri Sonuçları Toplantısı
-      [2013]</a></span></span></span></span></li></ul><div
-      style="text-align: center;"><span style="font-size: small;"><span>See <a
-      href="http://ancientworldonline.blogspot.com/2010/05/seven-open-access-turkish.html">Seven
-      Open Access Turkish Archaeological
-      Journals</a></span></span></div><span style="font-size:
-      small;"></span><div style="text-align: center;"><span style="font-size:
-      small;"><span><span>&nbsp;<span style="font-family: inherit;">See the
-      full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span> </div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Anatolia"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Archeometery"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Archaeological Science"/>
+   <title type="text">Open Access Journal: Arkeometri Sonuçları Toplantıları</title>
+   <content type="html"><![CDATA[&nbsp;<span style="font-size: xx-small;">[First posted in AWOL 18 March 2011, updated 15 October 2016] </span><br /><br /><a class="Altbaglantilar" href="http://www.kulturvarliklari.gov.tr/TR,44762/arkeometri-sonuclari-toplantilari.html">Arkeometri  Sonuçları Toplantıları</a><br />ISSN: 1017-7671<br /><ul><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/01_arkeometri.pdf">1. Arkeometri Sonuçları Toplantısı [1985]</a></span></li><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/02_arkeometri.pdf">2. Arkeometri Sonuçları Toplantısı [1986]</a></span></li><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/03_arkeometri.pdf">3. Arkeometri Sonuçları Toplantısı [1987]</a></span></li><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/04_arkeometri.pdf">4. Arkeometri Sonuçları Toplantısı [1988]</a></span></li><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/05_arkeometri.pdf">5. Arkeometri Sonuçları Toplantısı [1989]</a></span></li><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/06_arkeometri.pdf">6. Arkeometri Sonuçları Toplantısı [1990]</a></span></li><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/07_arkeometri.pdf">7. Arkeometri Sonuçları Toplantısı [1991]</a></span></li><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/08_arkeometri.pdf">8. Arkeometri Sonuçları Toplantısı [1992]</a></span></li><li><span style="font-size: x-small;">0<a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/09_arkeometri.pdf">9. Arkeometri Sonuçları Toplantısı [1993]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/10_arkeometri.pdf">10. Arkeometri Sonuçları Toplantısı [1994]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/11_arkeometri.pdf">11. Arkeometri Sonuçları Toplantısı [1995]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/12_arkeometri.pdf">12. Arkeometri Sonuçları Toplantısı [1996]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/13_arkeometri.pdf">13. Arkeometri Sonuçları Toplantısı [1997]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/14_arkeometri.pdf">14. Arkeometri Sonuçları Toplantısı [1998]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/15_arkeometri.pdf">15. Arkeometri Sonuçları Toplantısı [1999]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/16_arkeometri.pdf">16. Arkeometri Sonuçları Toplantısı [2000]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/17_arkeometri.pdf">17. Arkeometri Sonuçları Toplantısı [2001]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/18_arkeometri.pdf">18. Arkeometri Sonuçları Toplantısı [2002]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/19_arkeometri.pdf">19. Arkeometri Sonuçları Toplantısı [2003]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/20_arkeometri.pdf">20. Arkeometri Sonuçları Toplantısı [2004]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/21_arkeometri.pdf">21. Arkeometri Sonuçları Toplantısı [2005]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/22_arkeometri.pdf">22. Arkeometri Sonuçları Toplantısı [2006]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/23_arkeometri.pdf">23. Arkeometri Sonuçları Toplantısı [2007]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/24_arkeometri.pdf">24. Arkeometri Sonuçları Toplantısı [2008]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/25_arkeometri.pdf">25. Arkeometri Sonuçları Toplantısı [2009]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/arkeometri/26_arkeometri.pdf">26. Arkeometri Sonuçları Toplantısı [2010]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/Eklenti/4647,27arkeometri.pdf?0" target="_blank">27. Arkeometri Sonuçları Toplantısı [2011]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/Eklenti/7327,28arkemometri.pdf?0" target="_blank">28. Arkeometri Sonuçları Toplantısı [2012]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/Eklenti/27096,29arkeometri.pdf?0" target="_blank">29. Arkeometri Sonuçları Toplantısı [2013]</a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/Eklenti/43558,30arkeometri.pdf?1" target="_blank" title="">30. Arkeometri Sonuçları <span style="color: #0066cc;">Toplantısı [2014]</span></a></span></li><li><span style="font-size: x-small;"><a href="http://www.kulturvarliklari.gov.tr/Eklenti/45226,31arkeometri.pdf?0" target="_blank">31. Arkeometri Sonuçları <span style="color: #0066cc;">Toplantısı [2015]</span></a></span></li></ul><ul></ul><div style="text-align: center;"><span style="font-size: small;">See <a href="http://ancientworldonline.blogspot.com/2010/05/seven-open-access-turkish.html">Seven Open Access Turkish Archaeological Journals</a></span><br /><span style="font-size: small;">&nbsp;</span></div><span style="font-size: small;"></span><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: small;"><span>S</span><span><span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5155045997147468765/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5155045997147468765/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/open-access-journal-arkeometri-sonuclar.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5155045997147468765"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5155045997147468765"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/open-access-journal-arkeometri-sonuclar.html"
          title="Open Access Journal: Arkeometri Sonuçları Toplantıları"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,223 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6063511853316380259</id>
-    <published>2011-09-30T09:52:00.002-04:00</published>
-    <updated>2011-09-30T09:53:04.615-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6063511853316380259</id>
+   <published>2011-09-30T09:52:00.002-04:00</published>
+   <updated>2011-09-30T09:53:04.615-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">A Biblical Studies Digital Library at biblicalstudies.org.uk</title>
-    <content type="html"><![CDATA[<a href="http://www.biblicalstudies.org.uk/articles.php">Biblical
-      Studies.org.uk: Hosted Articles, Monographs and Books</a><br /><br /> <br
-      /><div style="text-align: center;"><img
-      alt="http://www.biblicalstudies.org.uk/images/logo.gif"
-      src="http://www.biblicalstudies.org.uk/images/logo.gif" />
-      </div><blockquote><h2 style="font-weight: normal;"> <span
-      style="font-size: x-small;">Purpose</span></h2><span style="font-size:
-      x-small;"> </span><span style="font-size: x-small;">To make high quality
-      theological material available throughout the world, thus providing Bible teachers and pastors
-      with the resources they need to spread the Gospel in their countries. This is achieved
-      by:</span><br /><span style="font-size: x-small;"> </span><br
-      /><ul><li><span style="font-size: x-small;">Providing detailed
-      bibliographies for Seminary level students and
-      ministers.</span></li><li><span style="font-size: x-small;">Reprinting,
-      in co-operation with authors and publishers, rare and out-of-print theology books and
-      articles.</span></li><li><span style="font-size: x-small;">Providing,
-      with the help of volunteers, translations of theological articles in a number of
-      languages.</span></li><li><span style="font-size: x-small;"> Providing
-      a single cross-linked resource made up of five websites collectively known as "Theology on the
-      Web". Click <a href="http://www.theologyontheweb.org.uk/" target="_blank">here</a>
-      to read more </span></li></ul><h2> <span style="font-size:
-      xx-small;">Most of the following journals are hosted on this
-      site</span></h2><h3> <span style="font-size: xx-small;">Journals,
-      Monographs and Lecture Series (not all yet on-line)</span></h3><h4> <span
-      style="font-size: xx-small;"><a
-      href="http://www.biblicalstudies.org.uk/articles_anvil_01.php"><i>Anvil</i></a><i><br
-      /> <a href="http://www.biblicalstudies.org.uk/articles_auss_01.php">Andrews University
-      Seminary Studies</a><br /> <a
-      href="http://www.biblicalstudies.org.uk/articles_abr_01.php">Australian Biblical
-      Review</a><br /> <a href="http://biblicalarchaeology.org.uk/journal_ajba.php"
-      target="_blank">Australian Journal of Biblical Archaeology </a><br /> <a
-      href="http://www.biblicalstudies.org.uk/articles_bq_01.php">Baptist Quarterly
-      </a><br /> <a
-      href="http://www.biblicalstudies.org.uk/articles_brt.php">Baptist Review of
-      Theology</a> <br /> <a
-      href="http://www.biblicalstudies.org.uk/articles_bib-sacra_01.php">Bibliotheca
-      Sacra</a></i><br /><i><a
-      href="http://www.biblicalstudies.org.uk/articles_binah_01.php">Binah</a></i></span>
-      <span style="font-size: xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_bbr_01.php"><i>Bulletin for Biblical
-      Research</i></a></span> <span style="font-size: xx-small;"><br
-      /><a href="http://www.biblicalstudies.org.uk/articles_bets.php"><i>Bulletin of
-      the Evangelical Theological Society</i></a></span> <span style="font-size:
-      xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_bjrl_01.php"><i>Bulletin of the John
-      Rylands Library</i></a></span> <span style="font-size:
-      xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_gcml.php">The Campbell Morgan Memorial
-      Bible Lectures</a></span> <span style="font-size: xx-small;"><br
-      /><a
-      href="http://www.biblicalstudies.org.uk/articles_canadian-journal.php"><i>Canadian
-      Journal of Theology</i></a></span> <span style="font-size:
-      xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_caribbean-journal-theology_01.php"><i>Caribbean
-      Journal of Evangelical Theology</i></a></span> <span style="font-size:
-      xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_cbrfj.php"><i>Christian Brethren
-      Research Fellowship Journal</i></a></span> <span style="font-size:
-      xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_christian-brethren-review.php"><i>Christian
-      Brethren Review</i></a></span> <span style="font-size:
-      xx-small;"><br /><i><a
-      href="http://www.biblicalstudies.org.uk/articles_conspectus-01.php">Conspectus</a></i></span>
-      <span style="font-size: xx-small;"><br /><i><a
-      href="http://www.biblicalstudies.org.uk/articles_dbsj_01.php">Detroit Baptist Seminary
-      Journal</a></i></span> <span style="font-size: xx-small;"><br
-      /><a
-      href="http://www.biblicalstudies.org.uk/articles_eternity_01.php"><i>Eternity - the
-      Magazine of Christian Truth</i></a></span> <span style="font-size:
-      xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_ethel_m_wood.php">The Ethel M. Wood
-      Lectures</a></span> <span style="font-size: xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_european-journal-theology_01.php"><i>European
-      Journal of Theology</i></a></span> <span style="font-size:
-      xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_evangel_01.php"><i>Evangel - the
-      British Evangelical Review</i></a></span> <span style="font-size:
-      xx-small;"><br /><i><a
-      href="http://www.biblicalstudies.org.uk/articles_evangelical_quarterly.php">The Evangelical
-      Quarterly</a></i></span> <span style="font-size: xx-small;"><br
-      /><a
-      href="http://www.biblicalstudies.org.uk/articles_evangelical_rev_theology_01.php"><i>Evangelical
-      Review of Theology</i></a></span> <span style="font-size:
-      xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_faith-and-thought_01.php"><i>Faith
-      and Thought</i></a></span> <span style="font-size: xx-small;"><br
-      /><a
-      href="http://www.biblicalstudies.org.uk/articles_gospel_perspectives.php"><i>Gospel
-      Perspectives</i> series</a></span> <span style="font-size:
-      xx-small;"><br /><i><a
-      href="http://www.biblicalstudies.org.uk/articles_grace-theological-journal.php">Grace
-      Theological Journal</a></i></span> <span style="font-size:
-      xx-small;"><br /><i><a
-      href="http://www.biblicalstudies.org.uk/articles_ijt_01.php">Indian Journal of
-      Theology</a></i></span> <span style="font-size: xx-small;"><br
-      /><a href="http://www.biblicalstudies.org.uk/articles_ibs-01.php"><i>Irish
-      Biblical Studies</i></a></span> <span style="font-size:
-      xx-small;"><br /><i><a
-      href="http://www.biblicalstudies.org.uk/articles_jbl-01.php">Journal of Biblical
-      Literature</a></i></span><span style="font-size: xx-small;"><br
-      /><a href="http://www.biblicalstudies.org.uk/articles_jets-01.php"><i>Journal of
-      the Evangelical Theological Society</i></a></span> <span style="font-size:
-      xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_jtvi-01.php"><i>Journal of the
-      Transactions of the Victoria Institute</i></a></span> <span
-      style="font-size: xx-small;"><br /><i><a
-      href="http://www.biblicalstudies.org.uk/articles_peq_01.php">Palestine Exploration
-      Quarterly</a></i></span> <span style="font-size: xx-small;"><br
-      /><i><a
-      href="http://www.biblicalstudies.org.uk/articles_ref-rev-01.php">Reformation &amp;
-      Revival</a><br /> <a
-      href="http://www.biblicalstudies.org.uk/articles_rbtr_01.php">Reformed Baptist Theological
-      Review </a></i></span> <span style="font-size: xx-small;"><br
-      /><i><a href="http://www.biblicalstudies.org.uk/articles_rtr_01.php">The
-      Reformed Theological Review</a></i></span> <span style="font-size:
-      xx-small;"><br /><i><a
-      href="http://www.biblicalstudies.org.uk/articles_rcl_01.php">Religion in Communist
-      Lands</a></i></span> <span style="font-size: xx-small;"><br
-      /><a href="http://www.biblicalstudies.org.uk/articles_rss_01.php"><i>Religion,
-      State and Society </i></a></span> <span style="font-size:
-      xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_rande_01.php"><i>Review &amp;
-      Expositor</i></a></span> <span style="font-size: xx-small;"><br
-      /><i><a
-      href="http://www.biblicalstudies.org.uk/articles_scripture-01.php">Scripture</a></i></span>
-      <span style="font-size: xx-small;"><a
-      href="http://www.biblicalstudies.org.uk/articles_scripture-01.php"> (Catholic Biblical
-      Association [UK]</a><br /><i><a
-      href="http://www.biblicalstudies.org.uk/articles_sbet-01.php">Scottish Bulletin of
-      Evangelical Theology</a></i></span> <span style="font-size:
-      xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_sbjt-01.php"><i>Southern Baptist
-      Journal of Theology</i></a></span> <span style="font-size:
-      xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_themelios-ifes.php"><i>Themelios</i></a></span>
-      <span style="font-size: xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_tsfbulletin_01.php"><i>Theological
-      Students Fellowship (TSF) Bulletin</i></a></span> <span style="font-size:
-      xx-small;"><br /><i><a
-      href="http://www.biblicalstudies.org.uk/articles_tbhs_01.php">Transactions of the Baptist
-      Historical Society</a></i></span> <span style="font-size:
-      xx-small;"><br /><a
-      href="http://www.biblicalstudies.org.uk/articles_trinity-journal_01.php"><i>Trinity
-      Journal</i></a></span> <span style="font-size: xx-small;"><br
-      /><a
-      href="http://www.biblicalstudies.org.uk/articles_tyndale-bulletin_01.php"><i>Tyndale
-      Bulletin</i></a></span> <span style="font-size: xx-small;"><br
-      /><a href="http://www.biblicalstudies.org.uk/articles_tyndale.php">Tyndale Press
-      Monographs</a></span> <span style="font-size: xx-small;"><br
-      /><i><a href="http://www.biblicalstudies.org.uk/articles_vox_evangelica.php">Vox
-      Evangelica</a></i></span> <span style="font-size: xx-small;"><br
-      /><i><a href="http://www.biblicalstudies.org.uk/articles_wtj_01.php">Westminster
-      Theological Journal</a></i></span> </h4><h3> <span
-      style="font-size: xx-small;">Collections of Essays</span></h3><h4>
-      <span style="font-size: xx-small;"><a
-      href="http://www.biblicalstudies.org.uk/book_apostolic_history.html"><i><i>Apostolic
-      History and The Gospel. B</i>iblical and Historical Essays presented to F. F. Bruce on
-      his 60th Birthday </i></a></span></h4><h4> <span
-      style="font-size: xx-small;"><a
-      href="http://www.biblicalstudies.org.uk/book_christ-the-lord.html"><i> Christ the
-      Lord: Studies in Christology presented to Donald Guthrie</i> - Harold H. Rowdon,
-      ed.</a></span></h4><h4> <span style="font-size: xx-small;"><a
-      href="http://www.biblicalstudies.org.uk/book_light_myers.html">Howard N. Bream, Ralph D.
-      Heim &amp; Carey A. Moore, eds. <i>A Light unto My Path. Old Testament Studies in
-      Honor of Jacob M. Myers</i>. Philadelphia: Temple University Press, 1974. ISBN:
-      0877220263. pp.529.</a></span></h4><h4> <span style="font-size:
-      xx-small;"><a
-      href="http://www.biblicalstudies.org.uk/book_nt-interpretation.html"><i>New Testament
-      Interpretation: Essays on Principles and Methods</i> - I. Howard Marshall
-      (ed.)</a></span></h4><h4> <span style="font-size:
-      xx-small;"><a
-      href="http://www.biblicalstudies.org.uk/book_reconciliation.html"><i>Reconciliation
-      and Hope. New Testament Essays on Atonement and Eschatology Presented to L.L. Morris on his
-      60th Birthday</i> - Robert Banks, ed.</a></span></h4><h4>
-      <span style="font-size: xx-small;"><a
-      href="http://www.biblicalstudies.org.uk/book_revelation_henry.html">Carl F.H. Henry, ed.,
-      <i>Revelation and the Bible. Contemporary Evangelical Thought </i>. Grand Rapids:
-      Baker, 1958 / London: The Tyndale Press, 1959. </a></span> </h4><h4>
-      <span style="font-size: xx-small;"><a
-      href="http://www.biblicalstudies.org.uk/book_use-ot-in-the-new.html">James M. Efird,
-      editor,<i> The Use of the Old Testament in the New and Other Essays: Studies in Honor of
-      William Franklin Stinespring</i>. Durham, NC: Duke University Press, 1972. ISBN:
-      0822302888. pp.332.</a></span></h4></blockquote><span
-      style="font-size: xx-small;"> </span><br /><h4 align="left">
-      </h4>]]></content>
-    <link rel="replies"
+   <title type="text">A Biblical Studies Digital Library at biblicalstudies.org.uk</title>
+   <content type="html"><![CDATA[<a href="http://www.biblicalstudies.org.uk/articles.php">Biblical Studies.org.uk: Hosted Articles, Monographs and Books</a><br /><br /> <br /><div style="text-align: center;"><img alt="http://www.biblicalstudies.org.uk/images/logo.gif" src="http://www.biblicalstudies.org.uk/images/logo.gif" /> </div><blockquote><h2 style="font-weight: normal;"> <span style="font-size: x-small;">Purpose</span></h2><span style="font-size: x-small;">                         </span><span style="font-size: x-small;">To make high quality theological material available                            throughout the world, thus providing Bible teachers and pastors with the                            resources they need to spread the Gospel in their countries. This is achieved                            by:</span><br /><span style="font-size: x-small;">                         </span><br /><ul><li><span style="font-size: x-small;">Providing detailed bibliographies for Seminary level                              students and ministers.</span></li><li><span style="font-size: x-small;">Reprinting, in co-operation with authors and publishers,                              rare and out-of-print theology books and articles.</span></li><li><span style="font-size: x-small;">Providing, with the help of volunteers, translations of                              theological articles in a number of languages.</span></li><li><span style="font-size: x-small;"> Providing a single cross-linked resource made up of five                              websites collectively known as "Theology on the Web". Click <a href="http://www.theologyontheweb.org.uk/" target="_blank">here</a> to read more </span></li></ul><h2> <span style="font-size: xx-small;">Most of the following journals are hosted on this site</span></h2><h3> <span style="font-size: xx-small;">Journals, Monographs and Lecture Series (not all yet on-line)</span></h3><h4> <span style="font-size: xx-small;"><a href="http://www.biblicalstudies.org.uk/articles_anvil_01.php"><i>Anvil</i></a><i><br />                           <a href="http://www.biblicalstudies.org.uk/articles_auss_01.php">Andrews University Seminary Studies</a><br />                           <a href="http://www.biblicalstudies.org.uk/articles_abr_01.php">Australian Biblical Review</a><br />                           <a href="http://biblicalarchaeology.org.uk/journal_ajba.php" target="_blank">Australian Journal of Biblical Archaeology </a><br />                           <a href="http://www.biblicalstudies.org.uk/articles_bq_01.php">Baptist Quarterly </a><br />                           <a href="http://www.biblicalstudies.org.uk/articles_brt.php">Baptist Review of Theology</a>                           <br />                           <a href="http://www.biblicalstudies.org.uk/articles_bib-sacra_01.php">Bibliotheca                            Sacra</a></i><br /><i><a href="http://www.biblicalstudies.org.uk/articles_binah_01.php">Binah</a></i></span>                                                              <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_bbr_01.php"><i>Bulletin for Biblical                                Research</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_bets.php"><i>Bulletin of the Evangelical                                Theological Society</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_bjrl_01.php"><i>Bulletin of                                the John Rylands Library</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_gcml.php">The Campbell                                Morgan Memorial Bible Lectures</a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_canadian-journal.php"><i>Canadian Journal of                                Theology</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_caribbean-journal-theology_01.php"><i>Caribbean Journal of                                Evangelical Theology</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_cbrfj.php"><i>Christian                                Brethren Research Fellowship Journal</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_christian-brethren-review.php"><i>Christian Brethren                                Review</i></a></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_conspectus-01.php">Conspectus</a></i></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_dbsj_01.php">Detroit Baptist Seminary Journal</a></i></span>                                                          <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_eternity_01.php"><i>Eternity - the Magazine                                of Christian Truth</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_ethel_m_wood.php">The Ethel M.                                Wood Lectures</a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_european-journal-theology_01.php"><i>European Journal of                              Theology</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_evangel_01.php"><i>Evangel - the British Evangelical Review</i></a></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_evangelical_quarterly.php">The                              Evangelical Quarterly</a></i></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_evangelical_rev_theology_01.php"><i>Evangelical Review of Theology</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_faith-and-thought_01.php"><i>Faith and Thought</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_gospel_perspectives.php"><i>Gospel Perspectives</i> series</a></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_grace-theological-journal.php">Grace                                Theological Journal</a></i></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_ijt_01.php">Indian Journal of Theology</a></i></span>                               <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_ibs-01.php"><i>Irish Biblical Studies</i></a></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_jbl-01.php">Journal of Biblical Literature</a></i></span><span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_jets-01.php"><i>Journal of the                                Evangelical Theological Society</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_jtvi-01.php"><i>Journal of the Transactions of the Victoria                                Institute</i></a></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_peq_01.php">Palestine Exploration                                Quarterly</a></i></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_ref-rev-01.php">Reformation &amp; Revival</a><br />                             <a href="http://www.biblicalstudies.org.uk/articles_rbtr_01.php">Reformed Baptist Theological Review </a></i></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_rtr_01.php">The Reformed Theological Review</a></i></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_rcl_01.php">Religion in Communist Lands</a></i></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_rss_01.php"><i>Religion, State and Society </i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_rande_01.php"><i>Review &amp;                                Expositor</i></a></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_scripture-01.php">Scripture</a></i></span>                             <span style="font-size: xx-small;"><a href="http://www.biblicalstudies.org.uk/articles_scripture-01.php"> (Catholic Biblical Association [UK]</a><br /><i><a href="http://www.biblicalstudies.org.uk/articles_sbet-01.php">Scottish Bulletin of Evangelical Theology</a></i></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_sbjt-01.php"><i>Southern Baptist Journal of Theology</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_themelios-ifes.php"><i>Themelios</i></a></span>                              <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_tsfbulletin_01.php"><i>Theological Students Fellowship (TSF) Bulletin</i></a></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_tbhs_01.php">Transactions of the Baptist Historical Society</a></i></span>                                                          <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_trinity-journal_01.php"><i>Trinity Journal</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_tyndale-bulletin_01.php"><i>Tyndale Bulletin</i></a></span>                             <span style="font-size: xx-small;"><br /><a href="http://www.biblicalstudies.org.uk/articles_tyndale.php">Tyndale Press Monographs</a></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_vox_evangelica.php">Vox Evangelica</a></i></span>                             <span style="font-size: xx-small;"><br /><i><a href="http://www.biblicalstudies.org.uk/articles_wtj_01.php">Westminster Theological Journal</a></i></span>                             </h4><h3> <span style="font-size: xx-small;">Collections of Essays</span></h3><h4> <span style="font-size: xx-small;"><a href="http://www.biblicalstudies.org.uk/book_apostolic_history.html"><i><i>Apostolic History and The Gospel. B</i>iblical and Historical Essays presented to F. F.  Bruce on his 60th Birthday                            </i></a></span></h4><h4> <span style="font-size: xx-small;"><a href="http://www.biblicalstudies.org.uk/book_christ-the-lord.html"><i> Christ the Lord:                            Studies in Christology presented to Donald Guthrie</i> - Harold H. Rowdon,                            ed.</a></span></h4><h4>                             <span style="font-size: xx-small;"><a href="http://www.biblicalstudies.org.uk/book_light_myers.html">Howard N. Bream, Ralph D. Heim &amp; Carey A. Moore, eds. <i>A Light unto My Path. Old Testament Studies in Honor of Jacob M. Myers</i>. Philadelphia: Temple University Press, 1974. ISBN: 0877220263. pp.529.</a></span></h4><h4> <span style="font-size: xx-small;"><a href="http://www.biblicalstudies.org.uk/book_nt-interpretation.html"><i>New Testament                          Interpretation: Essays on Principles and Methods</i> - I. Howard Marshall                          (ed.)</a></span></h4><h4> <span style="font-size: xx-small;"><a href="http://www.biblicalstudies.org.uk/book_reconciliation.html"><i>Reconciliation and Hope. New                          Testament Essays on Atonement and Eschatology Presented to L.L. Morris on his                          60th Birthday</i> - Robert Banks, ed.</a></span></h4><h4> <span style="font-size: xx-small;"><a href="http://www.biblicalstudies.org.uk/book_revelation_henry.html">Carl F.H. Henry, ed., <i>Revelation and the Bible. Contemporary Evangelical Thought </i>. Grand Rapids: Baker, 1958 / London: The Tyndale Press, 1959. </a></span> </h4><h4> <span style="font-size: xx-small;"><a href="http://www.biblicalstudies.org.uk/book_use-ot-in-the-new.html">James M. Efird, editor,<i> The Use of the Old Testament in the New and Other Essays: Studies in Honor of William Franklin Stinespring</i>. Durham, NC: Duke University Press, 1972. ISBN: 0822302888. pp.332.</a></span></h4></blockquote><span style="font-size: xx-small;">                     </span><br /><h4 align="left"> </h4>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6063511853316380259/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6063511853316380259/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/09/biblical-studies-digital-library-at.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6063511853316380259"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6063511853316380259"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/09/biblical-studies-digital-library-at.html"
          title="A Biblical Studies Digital Library at biblicalstudies.org.uk"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

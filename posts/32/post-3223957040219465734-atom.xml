@@ -1,225 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3223957040219465734</id>
-    <published>2013-05-24T14:58:00.001-04:00</published>
-    <updated>2013-05-24T15:01:34.067-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3223957040219465734</id>
+   <published>2013-05-24T14:58:00.001-04:00</published>
+   <updated>2013-05-24T15:01:34.067-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Pedagogy"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Language"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
-    <title type="text">A Digital Tutorial For Ancient Greek Based on White's First Greek Book </title>
-    <content type="html"><![CDATA[<a href="http://daedalus.umkc.edu/FirstGreekBook/">A Digital Tutorial
-      For Ancient Greek Based on White's <i>First Greek
-      Book</i>&nbsp;</a><br />Created by Jeff Rydberg-Cox (Classical and
-      Ancient Studies Program, University of Missouri-Kansas City)<br /><blockquote
-      class="tr_bq"><span style="font-size: x-small;">John William White's <i>First
-      Greek Book</i> was originally published in 1896. The book contains a guided curriculum
-      built around the language and vocabulary of Xenophon’s <i>Anabasis</i>. This
-      digital tutorial is an evolving edition that is designed to run on both traditional browsers,
-      tablet devices, and phones. Each lesson includes drill and practice exercises in addition to
-      the text itself. The site also includes tab-delim</span>
-      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">ited
-      files for all of the vocabulary and grammar that can be imported into flashcard
-      programs.</span><br /><span style="font-size: x-small;">This is a work in
-      progress that is taking shape through the winter of 2012 and spring of 2013. Expect things to
-      change and know that you will find errors as you use this tutorial.</span><br
-      /><span style="font-size: x-small;">For more information about the design of the
-      tutorial, you can read a <a
-      href="http://daedalus.umkc.edu/FirstGreekBook/about/AHybridSystemforTeachingAncientGreekPreprint.pdf">preprint
-      of an article that will be published the journal Classical World</a> or a <a
-      href="http://daedalus.umkc.edu/FirstGreekBook/about/DCA_2013_Hybrid_Greek.pdf">presentation
-      from the 2013 meeting of the Digital Classics Association</a>.</span><br
-      /><span style="font-size: x-small;"> </span><br /><h2
-      class="title2"><span style="font-size: x-small;">Table of
-      Contents</span></h2><span style="font-size: x-small;"> </span><br
-      /><ol><li><span style="font-size: x-small;"><a
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB_Flashcards.html">Flashcard Download
-      Area</a></span></li><hr /><li><span style="font-size:
-      x-small;"><a href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB1.html">1: The Greek
-      Alphabet</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB2.html">2:
-      Breathings, Syllables, Elision, Accent,
-      Punctuation.</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB3.html">3:
-      Nouns-Introductory</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB4.html">4:
-      A-Declension.—Feminines in η</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB5.html">5:
-      Verbs—Introductory.</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB6.html">6: A-Declension—Feminines in
-      α.</a></span></li><li><span style="font-size: x-small;"><a
-      class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB7.html">7: Imperfect
-      Indicative Active.</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB8.html">8: O-Declension
-      Nouns.</a></span></li><li><span style="font-size: x-small;"><a
-      class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB9.html">9: O-Declension
-      (continued).</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB10.html">10: Future and First Aorist
-      Indicative Active.</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB11.html">11: A-
-      Declension.—Masculines</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB12.html">12: Perfect and Pluperfect
-      Indicative Active</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB13.html">13: The Art of
-      Reading</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB14.html">14: Adjectives of the Vowel
-      Declension</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB15.html">15: Analysis of the Primary
-      Tenses of the Indicative Active</a></span></li><li><span
-      style="font-size: x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB16.html">16: Analysis of the Secondary
-      Tenses of the Indicative Active</a></span></li><li><span
-      style="font-size: x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB17.html">17: Demonstrative
-      Pronouns</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB18.html">18: Present and Imperfect
-      Indicative of εἰμί, <i>be.</i></a></span></li><li><span
-      style="font-size: x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB19.html">19: Present, Imperfect, and
-      Future Indicative Middle</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB20.html">20: Aorist, Perfect,
-      Pluperfect, and Future Perfect Indicative
-      Middle</a></span></li><li><span style="font-size: x-small;"><a
-      class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB21.html">21: Indicative
-      Passive.</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB22.html">22: Perfect and Pluperfect
-      Indicative Indicative Middle and Passive of labial Mute
-      Verbs</a></span></li><li><span style="font-size: x-small;"><a
-      class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB23.html">23: Perfect and
-      Pluperfect Indicative Middle and Passive of Palatal and Lingual Mute
-      Verbs</a></span></li><li><span style="font-size: x-small;"><a
-      class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB24.html">24:
-      Prepositions</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB25.html">25: Labial and Palatal Mute
-      Stems of the Consonant Declension</a></span></li><li><span
-      style="font-size: x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB26.html">26: Lingual Mute Stems of the
-      Consonant Declension</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB27.html">27: Adjectives of the
-      Consonant Declension</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB28.html">28: Contract Verbs in αω in
-      the Indicative</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB29.html">29: Contract Verbs in εω and
-      οω in the Indicative</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB30.html">30: Contract Nouns and
-      Adjectives of the Vowel Declension</a></span></li><li><span
-      style="font-size: x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB31.html">31: Deponent Verbs.
-      Conditional Sentences</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB32.html">32: Subjunctive Active. Vivid
-      Future Conditions</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB33.html">33: Subjunctive Active
-      (continued). Subjunctive in Exhortations and in Final
-      Clauses</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB34.html">34: Subjunctive Middle and
-      Passive. Subjunctive after Verbs of Fearing</a></span></li><li><span
-      style="font-size: x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB35.html">35: Contract Verbs in the
-      Subjunctive</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB36.html">36: Liquid Stems of the
-      Consonant Declension</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB37.html">37: Interrogative and
-      Indefinite Pronouns</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB38.html">38: Optative Active. Less
-      Vivid Future Conditions</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB39.html">39: The Present Optative of
-      εἰμί. Optative in Final Clauses. Object
-      Clauses.</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB40.html">40: Optative Middle and
-      Passive. Optative after Verbs of Fearing</a></span></li><li><span
-      style="font-size: x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB41.html">41: Contract Verbs in the
-      Optative</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB42.html">42: Stems in σ of the
-      Consonant Declension</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB43.html">43: Imperative
-      Active</a></span></li><li><span style="font-size: x-small;"><a
-      class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB44.html">44: Imperative
-      Middle and Passive</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB45.html">45: Contract Verbs in the
-      Imperative</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB46.html">46: Adjective Stems in ν and
-      εσ of the Consonant Declension</a></span></li><li><span
-      style="font-size: x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB47.html">47: Personal
-      Pronouns</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB48.html">48: Reflexive, Reciprocal, and
-      Possessive Pronouns</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB49.html">49: The
-      Infinitive</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB50.html">50: The Infinitive In Indirect
-      Discourse</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB51.html">51: Stems in ι and υ of the
-      Consonant Declension</a></span></li><li><span style="font-size:
-      x-small;"><a class="active"
-      href="http://daedalus.umkc.edu/FirstGreekBook/JWW_General_Vocabulary.html">General
-      Vocabulary</a></span></li></ol></blockquote><div class="title"
-      style="text-align: center;"><span style="font-size: small;"><span
-      style="font-family: inherit;">&nbsp; <span style="font-weight: normal;">And see
-      AWOL's list of </span><a
-      href="http://ancientworldonline.blogspot.com/2009/09/open-access-textbooks.html">Open Access
-      Textbooks and Language Primers</a></span></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Pedagogy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Language"/>
+   <title type="text">A Digital Tutorial For Ancient Greek Based on White's First Greek Book </title>
+   <content type="html"><![CDATA[<a href="http://daedalus.umkc.edu/FirstGreekBook/">A Digital Tutorial For Ancient Greek Based on White's <i>First Greek Book</i>&nbsp;</a><br />Created by Jeff Rydberg-Cox (Classical and Ancient Studies Program, University of Missouri-Kansas City)<br /><blockquote class="tr_bq"><span style="font-size: x-small;">John William White's <i>First Greek Book</i> was originally published in 1896. The book contains a guided curriculum built around the language and vocabulary of Xenophon’s <i>Anabasis</i>.  This digital tutorial is an evolving edition that is designed to run on  both traditional browsers, tablet devices, and phones. Each lesson  includes drill and practice exercises in addition to the text itself.  The site also includes tab-delim</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">ited files for all of the vocabulary and  grammar that can be imported into flashcard programs.</span><br /><span style="font-size: x-small;">This is a  work in progress that is taking shape through the winter of 2012 and  spring of 2013.  Expect things to change and know that you will find  errors as you use this tutorial.</span><br /><span style="font-size: x-small;">For more information about the design of the tutorial, you can read a <a href="http://daedalus.umkc.edu/FirstGreekBook/about/AHybridSystemforTeachingAncientGreekPreprint.pdf">preprint of an article that will be published the journal Classical World</a> or a <a href="http://daedalus.umkc.edu/FirstGreekBook/about/DCA_2013_Hybrid_Greek.pdf">presentation from the 2013 meeting of the Digital Classics Association</a>.</span><br /><span style="font-size: x-small;">    </span><br /><h2 class="title2"><span style="font-size: x-small;">Table of Contents</span></h2><span style="font-size: x-small;"> </span><br /><ol><li><span style="font-size: x-small;"><a href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB_Flashcards.html">Flashcard Download Area</a></span></li><hr /><li><span style="font-size: x-small;"><a href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB1.html">1:  The Greek Alphabet</a></span></li><li><span style="font-size: x-small;"><a href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB2.html">2:  Breathings, Syllables, Elision, Accent, Punctuation.</a></span></li><li><span style="font-size: x-small;"><a href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB3.html">3:  Nouns-Introductory</a></span></li><li><span style="font-size: x-small;"><a href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB4.html">4:  A-Declension.—Feminines in η</a></span></li><li><span style="font-size: x-small;"><a href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB5.html">5: Verbs—Introductory.</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB6.html">6: A-Declension—Feminines in α.</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB7.html">7:  Imperfect Indicative Active.</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB8.html">8: O-Declension Nouns.</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB9.html">9: O-Declension (continued).</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB10.html">10: Future and First Aorist Indicative Active.</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB11.html">11: A- Declension.—Masculines</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB12.html">12:  Perfect and Pluperfect Indicative Active</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB13.html">13:  The Art of Reading</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB14.html">14: Adjectives of the Vowel Declension</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB15.html">15: Analysis of the Primary Tenses of the Indicative Active</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB16.html">16:  Analysis of the Secondary Tenses of the Indicative Active</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB17.html">17:  Demonstrative Pronouns</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB18.html">18:  Present and Imperfect Indicative of εἰμί, <i>be.</i></a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB19.html">19:  Present, Imperfect, and Future Indicative Middle</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB20.html">20:  Aorist, Perfect, Pluperfect, and Future Perfect Indicative Middle</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB21.html">21:  Indicative Passive.</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB22.html">22: Perfect and Pluperfect Indicative Indicative Middle and Passive of labial Mute Verbs</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB23.html">23:  Perfect and Pluperfect Indicative Middle and Passive of Palatal and Lingual Mute Verbs</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB24.html">24:  Prepositions</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB25.html">25:  Labial and Palatal Mute Stems of the Consonant Declension</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB26.html">26:  Lingual Mute Stems of the Consonant Declension</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB27.html">27:  Adjectives of the Consonant Declension</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB28.html">28:  Contract Verbs in αω in the Indicative</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB29.html">29: Contract Verbs in εω and οω in the Indicative</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB30.html">30:  Contract Nouns and Adjectives of the Vowel Declension</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB31.html">31:  Deponent Verbs. Conditional Sentences</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB32.html">32:  Subjunctive Active. Vivid Future Conditions</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB33.html">33:  Subjunctive Active (continued). Subjunctive in Exhortations and in Final Clauses</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB34.html">34: Subjunctive Middle and Passive. Subjunctive after Verbs of Fearing</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB35.html">35: Contract Verbs in the Subjunctive</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB36.html">36:  Liquid Stems of the Consonant Declension</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB37.html">37:  Interrogative and Indefinite Pronouns</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB38.html">38:  Optative Active. Less Vivid Future Conditions</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB39.html">39: The Present Optative of εἰμί. Optative in Final Clauses. Object Clauses.</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB40.html">40:  Optative Middle and Passive. Optative after Verbs of Fearing</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB41.html">41: Contract Verbs in the Optative</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB42.html">42: Stems in σ of the Consonant Declension</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB43.html">43: Imperative Active</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB44.html">44: Imperative Middle and Passive</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB45.html">45:  Contract Verbs in the Imperative</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB46.html">46:  Adjective Stems in ν and εσ of the Consonant Declension</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB47.html">47:  Personal Pronouns</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB48.html">48:  Reflexive, Reciprocal, and Possessive Pronouns</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB49.html">49:  The Infinitive</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB50.html">50:  The Infinitive In Indirect Discourse</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB51.html">51:  Stems in ι and υ of the Consonant Declension</a></span></li><li><span style="font-size: x-small;"><a class="active" href="http://daedalus.umkc.edu/FirstGreekBook/JWW_General_Vocabulary.html">General Vocabulary</a></span></li></ol></blockquote><div class="title" style="text-align: center;"><span style="font-size: small;"><span style="font-family: inherit;">&nbsp; <span style="font-weight: normal;">And see AWOL's list of </span><a href="http://ancientworldonline.blogspot.com/2009/09/open-access-textbooks.html">Open Access Textbooks and Language Primers</a></span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3223957040219465734/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3223957040219465734/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/05/a-digital-tutorial-for-ancient-greek.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3223957040219465734"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3223957040219465734"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/05/a-digital-tutorial-for-ancient-greek.html"
          title="A Digital Tutorial For Ancient Greek Based on White's First Greek Book "/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

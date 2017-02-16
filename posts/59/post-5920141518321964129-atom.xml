@@ -1,100 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5920141518321964129</id>
-    <published>2009-11-09T11:47:00.000-05:00</published>
-    <updated>2012-02-27T21:09:37.501-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5920141518321964129</id>
+   <published>2009-11-09T11:47:00.000-05:00</published>
+   <updated>2012-02-27T21:09:37.501-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">More Open Access Journals: Group 9</title>
-    <content type="html"><![CDATA[In a continuing effort to make the <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a> canonical and comprehensive, I am adding
-      additional journals in groups of twenty. All of these have been accessible via <a
-      href="http://www.etana.org/abzu/">Abzu</a> for varying lengths of time. This offers me
-      the opportunity to verify all the links and repair the broken ones.<br /><br
-      />Group 9.<span class="title"><br /></span><br
-      /><ul><li><span class="title"><a
-      href="http://www.britac.ac.uk/institutes/iraq/newsletter.htm">British School of Archaeology
-      in Iraq Newsletter</a></span> and earlier issues <a
-      href="http://web.archive.org/web/20071005031058/www.britac.ac.uk/institutes/iraq/newnews.htm">here</a></li><li><span
-      class="title"><a href="http://cal1.cn.huc.edu/newsletter.html">Comprehensive Aramaic
-      Lexicon (CAL) Newsletter</a></span> <span
-      class="website"></span></li><li><span class="title"><a
-      href="http://www.sbl-site.org/meetings/AMseminarpapers.aspx">SBL Seminar
-      Papers</a></span></li><li><span class="title"><a
-      href="http://sefarad.revistas.csic.es/index.php/sefarad/index">Sefarad: Estudios hebraicos,
-      sefardíes y de Oriente Próximo</a></span> </li><li><span
-      class="title"><a href="http://www.deguwa.org/?id=11">Skyllis: Zeitschrift für
-      Unterwasserarchäologie</a></span></li><li><span
-      class="title"><a href="http://paspserver.class.utexas.edu/index.html">SMIDonline:
-      Studies in Mycenaean Inscriptions and Dialect</a></span> <span
-      class="website"></span></li><li><a
-      href="http://www.socarchsci.org/sasb.html"><span class="title">Society for
-      Archaeological Sciences Bulletin</span></a><br />
-      </li><li><span class="title"><a
-      href="http://www.squinch.und.edu/Homepage.html">SQUINCH: Archaeology of the Medieval and
-      Post Medieval Mediterranean</a></span></li><li><span
-      class="title"><a href="http://www.stanford.edu/dept/archaeology/journal/">Stanford
-      Journal of Archaeology</a></span> </li><li><span
-      class="title"><a
-      href="http://web.archive.org/web/20070607040143/groups.yahoo.com/group/svsubscribers/">Stoic
-      Voice Journal</a></span></li><li><span
-      class="title"></span><a href="http://studiaantiqua.byu.edu/">Studia
-      Antiqua</a> <span class="website"></span></li><li><span
-      class="title"><a href="http://www.humnet.unipi.it/slifo/">Studi Linguistici e
-      Filologici Online: Rivista Telematica del Dipartimento di Linguistica dell’Università di
-      Pisa</a></span> <span
-      class="website"></span></li><li><span class="title"><a
-      href="http://digitalcommons.macalester.edu/classicsjournal/">Studies in Mediterranean
-      antiquity and classics</a></span></li><li><span
-      class="title"><a
-      href="http://www.scielo.org.ar/scielo.php/script_sci_serial/lng_es/pid_0328-1205">Synthesis
-      (La Plata)</a></span></li><li><span class="title"><a
-      href="http://www.unex.es/arengas/taliadixit.htm">Talia Dixit: Revista Interdisciplinar de
-      Retórica e Historiografía. (Desde la Antigüedad hasta el Renacimiento)</a></span>
-      </li><li><span class="title"><a
-      href="http://www.mcgill.ca/classics/research/teiresias/">Teiresias: A Review and Continuing
-      Bibliography of Boiotian Studies</a></span> </li><li><span
-      class="title"><a href="http://www.thebanmappingproject.com/about/progress.html">Theban
-      Mapping Project Progress Reports</a></span></li><li><span
-      class="title"><a
-      href="http://dlib-zs.mpier.mpg.de/mj/kleioc/0010MFER/exec/series/%222173789-7%22">Themis:
-      Zeitschrift für Doctrin und Praxis des römischen
-      Rechts</a></span></li><li><span class="title"></span><a
-      href="http://journal.atla.com/ojs/index.php/theolib">Theological Librarianship: An Online
-      Journal of the American Theological Library Association</a></li><li><span
-      class="title"><a href="http://www.chass.utoronto.ca/amphoras/tocs.html">TOCS-IN:
-      Tables of Contents of Journals of Interest to
-      Classicists</a></span></li></ul><ol>All of these are now listed
-      <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">here</a></ol>]]></content>
-    <link rel="replies"
+   <title type="text">More Open Access Journals: Group 9</title>
+   <content type="html"><![CDATA[In a continuing effort to make the <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a> canonical and comprehensive, I am adding additional journals in groups of twenty.   All of these have been accessible via <a href="http://www.etana.org/abzu/">Abzu</a> for varying lengths of time.  This offers me the opportunity to verify all the links and repair the broken ones.<br /><br />Group 9.<span class="title"><br /></span><br /><ul><li><span class="title"><a href="http://www.britac.ac.uk/institutes/iraq/newsletter.htm">British School of Archaeology in Iraq Newsletter</a></span> and earlier issues <a href="http://web.archive.org/web/20071005031058/www.britac.ac.uk/institutes/iraq/newnews.htm">here</a></li><li><span class="title"><a href="http://cal1.cn.huc.edu/newsletter.html">Comprehensive Aramaic Lexicon (CAL) Newsletter</a></span> <span class="website"></span></li><li><span class="title"><a href="http://www.sbl-site.org/meetings/AMseminarpapers.aspx">SBL Seminar Papers</a></span></li><li><span class="title"><a href="http://sefarad.revistas.csic.es/index.php/sefarad/index">Sefarad: Estudios hebraicos, sefardíes y de Oriente Próximo</a></span> </li><li><span class="title"><a href="http://www.deguwa.org/?id=11">Skyllis: Zeitschrift für Unterwasserarchäologie</a></span></li><li><span class="title"><a href="http://paspserver.class.utexas.edu/index.html">SMIDonline: Studies in Mycenaean Inscriptions and Dialect</a></span> <span class="website"></span></li><li><a href="http://www.socarchsci.org/sasb.html"><span class="title">Society for Archaeological Sciences Bulletin</span></a><br /> </li><li><span class="title"><a href="http://www.squinch.und.edu/Homepage.html">SQUINCH:  Archaeology of the Medieval and Post Medieval Mediterranean</a></span></li><li><span class="title"><a href="http://www.stanford.edu/dept/archaeology/journal/">Stanford Journal of Archaeology</a></span> </li><li><span class="title"><a href="http://web.archive.org/web/20070607040143/groups.yahoo.com/group/svsubscribers/">Stoic Voice Journal</a></span></li><li><span class="title"></span><a href="http://studiaantiqua.byu.edu/">Studia Antiqua</a> <span class="website"></span></li><li><span class="title"><a href="http://www.humnet.unipi.it/slifo/">Studi Linguistici e Filologici Online:  Rivista Telematica del Dipartimento di Linguistica dell’Università di Pisa</a></span> <span class="website"></span></li><li><span class="title"><a href="http://digitalcommons.macalester.edu/classicsjournal/">Studies in Mediterranean antiquity and classics</a></span></li><li><span class="title"><a href="http://www.scielo.org.ar/scielo.php/script_sci_serial/lng_es/pid_0328-1205">Synthesis (La Plata)</a></span></li><li><span class="title"><a href="http://www.unex.es/arengas/taliadixit.htm">Talia Dixit: Revista Interdisciplinar de Retórica e Historiografía. (Desde la Antigüedad hasta el Renacimiento)</a></span> </li><li><span class="title"><a href="http://www.mcgill.ca/classics/research/teiresias/">Teiresias: A Review and Continuing Bibliography of Boiotian Studies</a></span> </li><li><span class="title"><a href="http://www.thebanmappingproject.com/about/progress.html">Theban Mapping Project Progress Reports</a></span></li><li><span class="title"><a href="http://dlib-zs.mpier.mpg.de/mj/kleioc/0010MFER/exec/series/%222173789-7%22">Themis: Zeitschrift für Doctrin und Praxis des römischen Rechts</a></span></li><li><span class="title"></span><a href="http://journal.atla.com/ojs/index.php/theolib">Theological Librarianship: An Online Journal of the American Theological Library Association</a></li><li><span class="title"><a href="http://www.chass.utoronto.ca/amphoras/tocs.html">TOCS-IN:  Tables of Contents of Journals of Interest to Classicists</a></span></li></ul><ol>All of these are now listed <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">here</a></ol>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5920141518321964129/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5920141518321964129/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/11/more-open-access-journals-group-9.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5920141518321964129"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5920141518321964129"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/11/more-open-access-journals-group-9.html"
          title="More Open Access Journals: Group 9"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

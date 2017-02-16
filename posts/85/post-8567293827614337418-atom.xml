@@ -1,104 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8567293827614337418</id>
-    <published>2013-12-16T15:33:00.000-05:00</published>
-    <updated>2013-12-16T15:33:00.789-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8567293827614337418</id>
+   <published>2017-02-07T13:33:00.000-05:00</published>
+   <updated>2017-02-07T13:33:56.449-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">The Leipzig Open Fragmentary Texts Series (LOFTS) </title>
-    <content type="html"><![CDATA[<a
-      href="http://www.dh.uni-leipzig.de/wo/open-philology-project/the-leipzig-open-fragmentary-texts-series-lofts/">The
-      Leipzig Open Fragmentary Texts Series (LOFTS)&nbsp;</a><br /><blockquote
-      class="tr_bq"><div style="text-align: left;"><span style="font-size:
-      x-small;">The Humboldt Chair of Digital Humanities at the University of Leipzig is pleased
-      to announce a new effort within the <a
-      href="http://www.dh.uni-leipzig.de/wo/open-philology-project/" title="Open Philology
-      Project">Open Philology Project</a>: the <em>Leipzig Open Fragmentary Texts
-      Series</em> (LOFTS). In the first phase of LOFTS we invite public discussion as we
-      finalize the goals, technological methods and editorial
-      practices.</span></div><div style="text-align: left;"><br
-      /></div><span style="font-size: x-small;"></span><div
-      style="text-align: left;"><span style="font-size: x-small;">LOFTS has been presented
-      at the <a
-      href="http://aiucd2013.dei.unipd.it/it/;jsessionid=CFF9447CE0D647C13DA651D84CB1E1B7"
-      target="_blank" title="Opens in new tab">AIUCD 2013 Conference</a> and will be
-      discussed at the Digital Classics panel at the <a
-      href="http://apaclassics.org/annual-meeting" target="_blank" title="Opens in new tab">2014
-      APA Annual Meeting</a> and at the <a
-      href="http://sites.tufts.edu/digitalagetext/2014-workshop/" target="_blank" title="Opens in new
-      tab">2014 NEH Workshop “Publishing Text for a Digital Age”</a>. A workshop at Leipzig
-      in July 2014 (“Open Philology – Historical languages in an open, global society”) will finalize
-      the details of LOFTS. This announcement provides an initial, high-level description of the plan
-      for LOFTS and is intended to provoke open discussion before final decisions are
-      made.</span></div><div style="text-align: left;"><br
-      /></div><span style="font-size: x-small;"></span><div
-      style="text-align: left;"><span style="font-size: x-small;">The <em>Leipzig Open
-      Fragmentary Texts Series</em> is a new effort to establish open editions of ancient works
-      that survive only through quotations and text re-uses in later texts (i.e., those pieces of
-      information that humanists call “fragments”). In the field of textual evidence, fragments are
-      not portions of an original larger whole, but the result of a work of interpretation conducted
-      by scholars who extract and collect information pertaining to lost works embedded in other
-      surviving texts. These fragments include a great variety of formats that range from verbatim
-      quotations to vague allusions and translations, which are only a more or less shadowy image of
-      the original according to their closer or further distance from a literal
-      citation.</span></div><div style="text-align: left;"><br
-      /></div><span style="font-size: x-small;"></span><div
-      style="text-align: left;"><span style="font-size: x-small;">Print editions of
-      fragmentary works include excerpts extracted from their contexts and from the textual data
-      about those contexts. The result is that they produce annotated indices into the sources that
-      they cite. Moreover, editions of fragmentary works are fundamentally hypertexts and the goal of
-      this project is to produce a dynamic infrastructure for a full representation of relationships
-      between sources, citations, and annotations about them. In a true digital edition, fragments
-      are not only linked directly to the source text from which they are drawn, but can also be
-      precisely aligned to multiple editions. Accordingly, digital fragments are contextualized
-      annotations about reused authors and works. As new versions of (or scholarship on) the source
-      text emerge in a standard, machine-actionable form, these new findings are automatically linked
-      to the digital fragments.</span></div><div style="text-align: left;"><br
-      /></div><div style="text-align: left;"><span style="font-size:
-      x-small;"><strong>Sub-projects</strong></span><span style="font-size:
-      x-small;"><a
-      href="http://www.dh.uni-leipzig.de/wo/open-philology-project/the-leipzig-open-fragmentary-texts-series-lofts/digital-fragmenta-historicorum-graecorum-dfhg-project/"
-      title="Digital Fragmenta Historicorum Graecorum (DFHG) Project">Digital Fragmenta
-      Historicorum Graecorum (DFHG)
-      Project</a></span></div></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;">&nbsp;As a first step within the
-      <a
-      href="http://www.dh.uni-leipzig.de/wo/open-philology-project/the-leipzig-open-fragmentary-texts-series-lofts/"
-      title="The Leipzig Open Fragmentary Texts Series (LOFTS)"><em>Leipzig Open Fragmentary
-      Texts Series</em> (LOFTS)</a>, the Humboldt Chair announces the <em>Digital
-      Fragmenta Historicorum Graecorum</em> (DFHG) Project, whose goal is to produce a digital
-      edition of the five volumes of Karl Müller’s <a
-      href="http://archive.org/search.php?query=Fragmenta%20creator%3A%22Mueller%2C%20Karl%2C%20Historian%22"
-      target="_blank" title="Opens in new tab"><em>Fragmenta Historicorum
-      Graecorum</em></a> (FHG) (1841-1870), which is the first big collection of
-      fragments of Greek historians ever realized.</span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">The Leipzig Open Fragmentary Texts Series (LOFTS) </title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 16 December 2013, updated 7&nbsp; February 2017] </span><br /><br /><a href="http://www.dh.uni-leipzig.de/wo/lofts/">The Leipzig Open Fragmentary Texts Series (LOFTS)&nbsp;</a><br /><div style="text-align: left;"><blockquote class="tr_bq"><span style="font-size: x-small;">The Humboldt Chair of Digital Humanities at the University of Leipzig is pleased to announce a new effort within the <a href="http://www.dh.uni-leipzig.de/wo/open-philology-project/" style="color: #05a9c5;" title="Open Philology Project">Open Philology Project</a>: the <em>Leipzig Open Fragmentary Texts Series</em> (LOFTS). In the first phase of LOFTS we invite public discussion as we  finalize the goals, technological methods and editorial practices.&nbsp;LOFTS  has been presented at the <a href="http://aiucd2013.dei.unipd.it/it/;jsessionid=CFF9447CE0D647C13DA651D84CB1E1B7" style="color: #05a9c5;" target="_blank" title="Opens in new tab">AIUCD 2013 Conference</a>, at the Digital Classics panel at the <a href="http://apaclassics.org/annual-meeting" style="color: #05a9c5;" target="_blank" title="Opens in new tab">2014 APA Annual Meeting</a>&nbsp;(<a class="fancybox-pdf" href="http://www.apaclassics.org/sites/default/files/files/ProgramPages12-11.pdf" style="color: #05a9c5;" target="_blank">“Getting Started with Digital Classics”</a>), at the <a href="http://dhd-blog.org/?p=2905" style="color: #05a9c5;" target="_blank">2. Workshop “Digital Humanities and Social Sciences”</a>, at the&nbsp;<a href="http://www.fragmentarytexts.org/2014/02/lofts-at-the-intertextuality-workshop-fondation-hardt/" style="color: #05a9c5;" target="_blank">Intertextuality Workshop at the Fondation Hardt</a>&nbsp;and at the <a href="http://sites.tufts.edu/digitalagetext/2014-workshop/" style="color: #05a9c5;" target="_blank" title="Opens in new tab">2014 NEH Workshop “Publishing Text for a Digital Age”</a>.  A workshop at Leipzig in July 2014 (“Open Philology – Historical  languages in an open, global society”) has&nbsp;finalized the details of  LOFTS. This announcement provides an initial, high-level description of  the plan for LOFTS and is intended to provoke open discussion before  final decisions are made.</span><br /><br /> <span style="font-size: x-small;">The <em>Leipzig Open Fragmentary Texts Series</em> is a new effort to establish open editions of ancient works that  survive only through quotations and text re-uses in later texts (i.e.,  those pieces of information that humanists call “fragments”). In the  field of textual evidence, fragments are not portions of an original  larger whole, but the result of a work of interpretation conducted by  scholars who extract and collect information pertaining to lost works  embedded in other surviving texts. These fragments include a great  variety of formats that range from verbatim quotations to vague  allusions and translations, which are only a more or less shadowy image  of the original according to their closer or further distance from a  literal citation.</span><br /><br /> <span style="font-size: x-small;">Print editions of fragmentary works  include excerpts extracted from their contexts and from the textual data  about those contexts. The result is that they produce annotated indices  in the sources that they cite. Moreover, editions of fragmentary works  are fundamentally hypertexts and the goal of this project is to produce a  dynamic infrastructure for a full representation of relationships  between sources, citations, and annotations about them. In a true  digital edition, fragments are not only linked directly to the source  text from which they are drawn, but can also be precisely aligned to  multiple editions. Accordingly, digital fragments are contextualized  annotations about reused authors and works. As new versions of (or  scholarship on) the source text emerge in a standard, machine-actionable  form, these new findings are automatically linked to the digital  fragments.</span></blockquote></div><blockquote class="tr_bq"><div style="text-align: left;"><span style="font-size: x-small;"><br /></span></div><span style="font-size: x-small;"><strong>Sub-projects<br /></strong><a href="http://www.dfhg-project.org/" style="color: #05a9c5;" target="_blank" title="Digital Fragmenta Historicorum Graecorum (DFHG) Project">Digital Fragmenta Historicorum Graecorum (DFHG) Project<br /></a><a href="http://digitalathenaeus.org/" style="color: #05a9c5;" target="_blank" title="Digital Athenaeus">Digital Athenaeus<br /></a></span><a href="http://www.dh.uni-leipzig.de/wo/dmp/" style="color: #05a9c5;" target="_blank" title="Digital Marmor Parium"><span style="font-size: x-small;">Digital Marmor Pariu</span>m</a></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><br /></span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8567293827614337418/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8567293827614337418/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/12/the-leipzig-open-fragmentary-texts.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8567293827614337418"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8567293827614337418"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/12/the-leipzig-open-fragmentary-texts.html"
          title="The Leipzig Open Fragmentary Texts Series (LOFTS) "/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

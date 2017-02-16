@@ -1,69 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-449608362800685822</id>
-    <published>2014-11-02T13:18:00.001-05:00</published>
-    <updated>2014-11-02T13:18:39.535-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-449608362800685822</id>
+   <published>2014-11-02T13:18:00.001-05:00</published>
+   <updated>2014-11-02T13:18:39.535-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Irisagrig in CDLI</title>
-    <content type="html"><![CDATA[<a href="http://tinyurl.com/k3gxgcn">Irisagrig in CDLI</a> (via
-      email)<br /><blockquote class="tr_bq"><span style="font-size: x-small;">Those
-      interested in recently uncovered archives of Ur III settlements may want to have a scroll
-      through the provisional Irisagrig text transliterations and images recently released in CDLI.
-      All entries suspected of deriving from this city are at &lt;<a
-      href="http://tinyurl.com/k3gxgcn">http://tinyurl.com/k3gxgcn</a>&gt;, of course
-      the main component being those texts published by David Owen in Nisaba 15, but including as
-      well the archives known among specialists as SI.A-a (Calvot, MVN 8, nos. 151ff; Sigirst, Owen
-      &amp; Young, MVN 13, nos.&nbsp; 41ff., 884ff.; Garfinkle, ZA 93, 170ff.; etc.) and
-      Turam-ili (van de Mieroop, JCS 38, 25ff.; Garfinkle, JCS 54, 32ff.; etc.) that share many of
-      the same month names (&lt;<a
-      href="http://cdli.ucla.edu/tools/ur3months/irisagrig.html">http://cdli.ucla.edu/tools/ur3months/irisagrig.html</a>&gt;).
-      The total of these entries is currently 1514 (of which SI.A-a, Turam-ili and many others are of
-      uncertain provenience, 500 in all), but including 230 composite seals (&lt;<a
-      href="http://tinyurl.com/kcqd649">http://tinyurl.com/kcqd649</a>&gt;), thus fewer
-      than 1300 tablets. 230 potential individual seal holders is certainly no small number for the
-      administration of an until recently relatively unknown settlement, and should serve as a
-      warning that many more Irisagrig tablets are yet to be encountered.<br /><br
-      />CDLI’s Irisagrig files have profited, first and foremost, from the untiring work of David
-      Owen in the course of a phenomenal harvest of texts from online auction sites, and from his
-      expansive network of associations with colleagues and collections managers—David forwarded to
-      me his Nisaba 15 transliterations before and after their paper publication, and he and I have
-      for years been exchanging URLs of online artifact documentation that emerges for a short while
-      in the Web, and then sinks again into darkness—; from the generous collaboration of Tohru
-      Ozaki, who contributed his collations and corrections of many of the Nisaba 15 entries, some
-      going back to work done together with Marcel Sigrist (thus, many Nisaba 15 version histories in
-      CDLI pages are capped by those designated as "credit ozaki"); and of Bertrand Lafont, whose
-      work with David on the Lebanese Adra collection has materially improved the images of the
-      Irisagrig corpus in CDLI.<br /><br />We welcome further corrections and additions
-      to this new data set.<br /><br />Bob Englund<br
-      />UCLA/CDLI</span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Irisagrig in CDLI</title>
+   <content type="html"><![CDATA[<a href="http://tinyurl.com/k3gxgcn">Irisagrig in CDLI</a> (via email)<br /><blockquote class="tr_bq"><span style="font-size: x-small;">Those interested in recently uncovered archives of Ur III settlements may want to have a scroll through the provisional Irisagrig text transliterations and images recently released in CDLI. All entries suspected of deriving from this city are at &lt;<a href="http://tinyurl.com/k3gxgcn">http://tinyurl.com/k3gxgcn</a>&gt;, of course the main component being those texts published by David Owen in Nisaba 15, but including as well the archives known among specialists as SI.A-a (Calvot, MVN 8, nos. 151ff; Sigirst, Owen &amp; Young, MVN 13, nos.&nbsp; 41ff., 884ff.; Garfinkle, ZA 93, 170ff.; etc.) and Turam-ili (van de Mieroop, JCS 38, 25ff.; Garfinkle, JCS 54, 32ff.; etc.) that share many of the same month names (&lt;<a href="http://cdli.ucla.edu/tools/ur3months/irisagrig.html">http://cdli.ucla.edu/tools/ur3months/irisagrig.html</a>&gt;). The total of these entries is currently 1514 (of which SI.A-a, Turam-ili and many others are of uncertain provenience, 500 in all), but including 230 composite seals (&lt;<a href="http://tinyurl.com/kcqd649">http://tinyurl.com/kcqd649</a>&gt;), thus fewer than 1300 tablets. 230 potential individual seal holders is certainly no small number for the administration of an until recently relatively unknown settlement, and should serve as a warning that many more Irisagrig tablets are yet to be encountered.<br /><br />CDLI’s Irisagrig files have profited, first and foremost, from the untiring work of David Owen in the course of a phenomenal harvest of texts from online auction sites, and from his expansive network of associations with colleagues and collections managers—David forwarded to me his Nisaba 15 transliterations before and after their paper publication, and he and I have for years been exchanging URLs of online artifact documentation that emerges for a short while in the Web, and then sinks again into darkness—; from the generous collaboration of Tohru Ozaki, who contributed his collations and corrections of many of the Nisaba 15 entries, some going back to work done together with Marcel Sigrist (thus, many Nisaba 15 version histories in CDLI pages are capped by those designated as "credit ozaki"); and of Bertrand Lafont, whose work with David on the Lebanese Adra collection has materially improved the images of the Irisagrig corpus in CDLI.<br /><br />We welcome further corrections and additions to this new data set.<br /><br />Bob Englund<br />UCLA/CDLI</span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/449608362800685822/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/449608362800685822/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/irisagrig-in-cdli.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/449608362800685822"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/449608362800685822"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/11/irisagrig-in-cdli.html"
          title="Irisagrig in CDLI"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

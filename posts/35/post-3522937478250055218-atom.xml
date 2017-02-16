@@ -1,88 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3522937478250055218</id>
-    <published>2014-03-24T06:29:00.000-04:00</published>
-    <updated>2014-03-24T06:33:32.602-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3522937478250055218</id>
+   <published>2014-03-24T06:29:00.000-04:00</published>
+   <updated>2014-03-24T06:33:32.602-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">PHILOCTETES - ΦΙΛΟΚΤΗΤΗΣ</title>
-    <content type="html"><![CDATA[<a href="http://philoctetes.free.fr/">PHILOCTETES -
-      ΦΙΛΟΚΤΗΤΗΣN</a><br /><blockquote><span style="font-size: 85%;">Notre
-      site met progressivement en ligne des textes qui fondent notre culture. Il s'agit d'oeuvres qui
-      sont à l'origine de la science, de la politique et de la littérature. Nous publions les textes
-      originaux en grec et en latin avec leurs traductions françaises, anglaises et
-      allemandes.</span></blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">This site gives reference texts in their original languages
-      (Greek and Latin) and in English and French translations. On the screen the original texts and
-      translations are shown simultaneously. </span></blockquote><span
-      style="font-family: Palatino Linotype, Gentium, arial unicode, athena unicode, athena, code
-      2000, vusillus old face, cardo, georgia greek unicode, caslon;"></span><br
-      /><span style="font-family: Palatino Linotype, Gentium, arial unicode, athena unicode,
-      athena, code 2000, vusillus old face, cardo, georgia greek unicode, caslon;"><span
-      style="color: #ffff80; font-size: 85%;"><a href="http://philoctetes.free.fr/homereil.htm"
-      target="_top"></a></span></span><br /><blockquote><span
-      style="font-size: x-small;">In English :</span><br /><span style="color:
-      #ffff80; font-size: x-small;"><a href="http://philoctetes.free.fr/thaleseng.htm"
-      target="_top">THALES : (Greek, English, French)</a></span><br /><span
-      style="color: #ffff80; font-size: x-small;"><a
-      href="http://philoctetes.free.fr/anaximander.htm" target="_top">ANAXIMANDER : (Greek,
-      English, French)</a></span><br /><span style="color: #ffff80; font-size:
-      x-small;"><a href="http://philoctetes.free.fr/heraclitus.htm" target="_top">HERACLITUS
-      : (Greek, English, French)</a></span><br /><span style="color: #ffff80;
-      font-size: x-small;"><a href="http://philoctetes.free.fr/parmenides.htm"
-      target="_top">PARMENIDES : (Greek, English, French)</a></span><br
-      /><span style="color: #ffff80; font-size: x-small;"><a
-      href="http://philoctetes.free.fr/zeno.htm" target="_top">ZENO : (Greek, English,
-      French)</a></span><br /><span style="color: #ffff80; font-size:
-      x-small;"><a href="http://philoctetes.free.fr/empedocle.html" target="_top">EMPEDOCLES
-      : (Greek, English, French) </a></span><span style="color: red; font-size:
-      x-small;">New</span><span style="font-size: x-small;">
-      </span></blockquote><blockquote><span style="color: black; font-size:
-      x-small;">In French :</span><br /><span style="font-size: x-small;"><a
-      href="http://philoctetes.free.fr/euclide.htm" target="_top">EUCLID :
-      Elements</a></span><br /><span style="color: #ffff80; font-size:
-      x-small;"><a href="http://philoctetes.free.fr/homereil.htm" target="_top">HOMER :
-      Iliad</a></span><br /><span style="color: #ffff80; font-size:
-      x-small;"><a href="http://philoctetes.free.fr/homereod2.htm" target="_top">HOMER :
-      Odysseus</a></span><br /><span style="color: #ffff80; font-size:
-      x-small;"><a href="http://philoctetes.free.fr/eschyleperses.htm"
-      target="_top">AESCHYLUS : Persians (interlinear)</a></span><br /><span
-      style="color: #ffff80; font-size: x-small;"><a
-      href="http://philoctetes.free.fr/platonph.htm" target="_top">PLATO :
-      Phaidrus</a></span><br /><span style="color: #ffff80; font-size:
-      x-small;"><a href="http://philoctetes.free.fr/dico.htm" target="_top">Dictionary of
-      Greek Gods</a></span></blockquote><span style="font-family: Palatino
-      Linotype, Gentium, arial unicode, athena unicode, athena, code 2000, vusillus old face, cardo,
-      georgia greek unicode, caslon;"><span style="color: #ffff80; font-size: 85%;"><span
-      style="color: #ffff80; font-size: 85%;"><a href="http://philoctetes.free.fr/dico.htm"
-      target="_top"></a></span></span></span><br />]]></content>
-    <link rel="replies"
+   <title type="text">PHILOCTETES - ΦΙΛΟΚΤΗΤΗΣ</title>
+   <content type="html"><![CDATA[<a href="http://philoctetes.free.fr/">PHILOCTETES - ΦΙΛΟΚΤΗΤΗΣN</a><br /><blockquote><span style="font-size: 85%;">Notre site met progressivement en ligne des textes qui fondent notre culture. Il s'agit d'oeuvres qui sont à l'origine de la science, de la politique et de la littérature. Nous publions les textes originaux en grec et en latin avec leurs traductions françaises, anglaises et allemandes.</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">This site gives reference texts in their original languages  (Greek and Latin) and in English and French translations. On the screen  the original texts and translations are shown simultaneously. </span></blockquote><span style="font-family: Palatino Linotype, Gentium, arial unicode, athena unicode, athena, code 2000, vusillus old face, cardo, georgia greek unicode, caslon;"></span><br /><span style="font-family: Palatino Linotype, Gentium, arial unicode, athena unicode, athena, code 2000, vusillus old face, cardo, georgia greek unicode, caslon;"><span style="color: #ffff80; font-size: 85%;"><a href="http://philoctetes.free.fr/homereil.htm" target="_top"></a></span></span><br /><blockquote><span style="font-size: x-small;">In English :</span><br /><span style="color: #ffff80; font-size: x-small;"><a href="http://philoctetes.free.fr/thaleseng.htm" target="_top">THALES : (Greek, English, French)</a></span><br /><span style="color: #ffff80; font-size: x-small;"><a href="http://philoctetes.free.fr/anaximander.htm" target="_top">ANAXIMANDER : (Greek, English, French)</a></span><br /><span style="color: #ffff80; font-size: x-small;"><a href="http://philoctetes.free.fr/heraclitus.htm" target="_top">HERACLITUS : (Greek, English, French)</a></span><br /><span style="color: #ffff80; font-size: x-small;"><a href="http://philoctetes.free.fr/parmenides.htm" target="_top">PARMENIDES : (Greek, English, French)</a></span><br /><span style="color: #ffff80; font-size: x-small;"><a href="http://philoctetes.free.fr/zeno.htm" target="_top">ZENO : (Greek, English, French)</a></span><br /><span style="color: #ffff80; font-size: x-small;"><a href="http://philoctetes.free.fr/empedocle.html" target="_top">EMPEDOCLES : (Greek, English, French) </a></span><span style="color: red; font-size: x-small;">New</span><span style="font-size: x-small;"> </span></blockquote><blockquote><span style="color: black; font-size: x-small;">In French :</span><br /><span style="font-size: x-small;"><a href="http://philoctetes.free.fr/euclide.htm" target="_top">EUCLID : Elements</a></span><br /><span style="color: #ffff80; font-size: x-small;"><a href="http://philoctetes.free.fr/homereil.htm" target="_top">HOMER : Iliad</a></span><br /><span style="color: #ffff80; font-size: x-small;"><a href="http://philoctetes.free.fr/homereod2.htm" target="_top">HOMER : Odysseus</a></span><br /><span style="color: #ffff80; font-size: x-small;"><a href="http://philoctetes.free.fr/eschyleperses.htm" target="_top">AESCHYLUS : Persians (interlinear)</a></span><br /><span style="color: #ffff80; font-size: x-small;"><a href="http://philoctetes.free.fr/platonph.htm" target="_top">PLATO : Phaidrus</a></span><br /><span style="color: #ffff80; font-size: x-small;"><a href="http://philoctetes.free.fr/dico.htm" target="_top">Dictionary of Greek Gods</a></span></blockquote><span style="font-family: Palatino Linotype, Gentium, arial unicode, athena unicode, athena, code 2000, vusillus old face, cardo, georgia greek unicode, caslon;"><span style="color: #ffff80; font-size: 85%;"><span style="color: #ffff80; font-size: 85%;"><a href="http://philoctetes.free.fr/dico.htm" target="_top"></a></span></span></span><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3522937478250055218/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3522937478250055218/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/02/philoctetes.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3522937478250055218"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3522937478250055218"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/02/philoctetes.html"
          title="PHILOCTETES - ΦΙΛΟΚΤΗΤΗΣ"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

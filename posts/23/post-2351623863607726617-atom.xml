@@ -1,88 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2351623863607726617</id>
-    <published>2012-06-11T06:09:00.001-04:00</published>
-    <updated>2012-06-11T06:09:51.170-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2351623863607726617</id>
+   <published>2012-06-11T06:09:00.001-04:00</published>
+   <updated>2012-06-11T06:09:51.170-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Portugese"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Brazil"/>
-    <title type="text">Open Access Journal: Nearco: História Antiga no Brasil</title>
-    <content type="html"><![CDATA[<a href="http://www.nea.uerj.br/nearco/apresentacao.html">Nearco:
-      História Antiga no&nbsp;Brasil</a><br />ISSN 1982-8713<br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">Em 2008
-      comemoramos os 10 anos de existência como Núcleo de Estudos da Antiguidade que integra o
-      Departamento de História e o Programa de Pós-Graduação da Universidade do Estado do Rio de
-      Janeiro (UERJ), com o objetivo de motivar&nbsp; os alunos, professores e pesquisadores em
-      conhecer, trabalhar e divulgar&nbsp; História Antiga no Rio de Janeiro, no Brasil e no
-      universo acadêmico internacional. O momento nos levou a refletir o nosso começo para
-      repensar&nbsp; novas possibilidades.&nbsp; Em 1998, planejamos os nossos primeiros
-      eventos nos corredores do bloco A, com o apoio do IFCH, que ficou curioso em saber por que
-      ficávamos ali sentados conversando, debatendo, organizando eventos&nbsp; e recebendo
-      pesquisadores de outras IES.</span></blockquote><div id="MMMenu1110102929_0"
-      style="visibility: inherit;"><blockquote><a class="MMMIFVStyleMMMenu1110102929_0"
-      href="http://www.nea.uerj.br/nearco/nearco1.html" id="MMMenu1110102929_0_Item_0"
-      target="_parent"> <span style="font-size: xx-small;">Número&nbsp;1
-      </span></a><span style="font-size: xx-small;"> &nbsp;</span><br
-      /><span style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0"
-      href="http://www.nea.uerj.br/nearco/nearco2.html" id="MMMenu1110102929_0_Item_1"
-      target="_parent">Número&nbsp;2 </a> &nbsp;</span><br /><span
-      style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0"
-      href="http://www.nea.uerj.br/nearco/nearco3.html" id="MMMenu1110102929_0_Item_2"
-      target="_parent">Número&nbsp;3 </a> &nbsp;</span><br /><span
-      style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0"
-      href="http://www.nea.uerj.br/nearco/nearco4.html" id="MMMenu1110102929_0_Item_3"
-      target="_parent">Número&nbsp;4 </a> &nbsp;</span><br /><span
-      style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0"
-      href="http://www.nea.uerj.br/nearco/nearco5.html" id="MMMenu1110102929_0_Item_4"
-      target="_parent">Número&nbsp;5 </a> &nbsp;</span><br /><span
-      style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0"
-      href="http://www.nea.uerj.br/nearco/nearco6.html" id="MMMenu1110102929_0_Item_5"
-      target="_parent">Número&nbsp;6 </a> &nbsp;</span><br /><span
-      style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0"
-      href="http://www.nea.uerj.br/nearco/nearco7.html" id="MMMenu1110102929_0_Item_6"
-      target="_parent">Número&nbsp;7 </a> &nbsp;</span><br /><span
-      style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0"
-      href="http://www.nea.uerj.br/nearco/nearco8.html" id="MMMenu1110102929_0_Item_7"
-      target="_parent">Número&nbsp;8 </a> &nbsp;</span><br /><a
-      class="MMMIVStyleMMMenu1110102929_0" href="http://www.nea.uerj.br/nearco/nearco9.html"
-      id="MMMenu1110102929_0_Item_8" target="_parent"><span style="font-size:
-      xx-small;">Número&nbsp;9</span> </a>
-      &nbsp;</blockquote></div><br /><div style="text-align:
-      center;"><a href="http://ojs.uv.es/index.php/saguntum/index"><span
-      style="font-size: small;">And see AWOL's</span></a><a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">
-      List of Open Access Journals in Ancient Studies</a></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Brazil"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Portugese"/>
+   <title type="text">Open Access Journal: Nearco: História Antiga no Brasil</title>
+   <content type="html"><![CDATA[<a href="http://www.nea.uerj.br/nearco/apresentacao.html">Nearco: História Antiga no&nbsp;Brasil</a><br />ISSN 1982-8713<br /><blockquote class="tr_bq"><span style="font-size: x-small;">Em  2008 comemoramos os 10 anos de existência como  Núcleo de Estudos da Antiguidade  que integra o Departamento de História  e o Programa de Pós-Graduação da  Universidade do Estado do Rio de  Janeiro (UERJ), com o objetivo de motivar&nbsp; os alunos, professores e  pesquisadores em  conhecer, trabalhar e divulgar&nbsp; História  Antiga no  Rio de Janeiro, no Brasil e no universo acadêmico internacional. O   momento nos levou a refletir o nosso começo para repensar&nbsp; novas  possibilidades.&nbsp; Em 1998, planejamos os nossos primeiros  eventos nos  corredores do bloco A, com o apoio do IFCH, que ficou curioso em  saber  por que ficávamos ali sentados conversando, debatendo, organizando   eventos&nbsp; e recebendo pesquisadores de  outras IES.</span></blockquote><div id="MMMenu1110102929_0" style="visibility: inherit;"><blockquote><a class="MMMIFVStyleMMMenu1110102929_0" href="http://www.nea.uerj.br/nearco/nearco1.html" id="MMMenu1110102929_0_Item_0" target="_parent"> <span style="font-size: xx-small;">Número&nbsp;1 </span></a><span style="font-size: xx-small;"> &nbsp;</span><br /><span style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0" href="http://www.nea.uerj.br/nearco/nearco2.html" id="MMMenu1110102929_0_Item_1" target="_parent">Número&nbsp;2 </a> &nbsp;</span><br /><span style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0" href="http://www.nea.uerj.br/nearco/nearco3.html" id="MMMenu1110102929_0_Item_2" target="_parent">Número&nbsp;3 </a> &nbsp;</span><br /><span style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0" href="http://www.nea.uerj.br/nearco/nearco4.html" id="MMMenu1110102929_0_Item_3" target="_parent">Número&nbsp;4 </a> &nbsp;</span><br /><span style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0" href="http://www.nea.uerj.br/nearco/nearco5.html" id="MMMenu1110102929_0_Item_4" target="_parent">Número&nbsp;5 </a> &nbsp;</span><br /><span style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0" href="http://www.nea.uerj.br/nearco/nearco6.html" id="MMMenu1110102929_0_Item_5" target="_parent">Número&nbsp;6 </a> &nbsp;</span><br /><span style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0" href="http://www.nea.uerj.br/nearco/nearco7.html" id="MMMenu1110102929_0_Item_6" target="_parent">Número&nbsp;7 </a> &nbsp;</span><br /><span style="font-size: xx-small;"><a class="MMMIVStyleMMMenu1110102929_0" href="http://www.nea.uerj.br/nearco/nearco8.html" id="MMMenu1110102929_0_Item_7" target="_parent">Número&nbsp;8 </a> &nbsp;</span><br /><a class="MMMIVStyleMMMenu1110102929_0" href="http://www.nea.uerj.br/nearco/nearco9.html" id="MMMenu1110102929_0_Item_8" target="_parent"><span style="font-size: xx-small;">Número&nbsp;9</span> </a> &nbsp;</blockquote></div><br /><div style="text-align: center;"><a href="http://ojs.uv.es/index.php/saguntum/index"><span style="font-size: small;">And see AWOL's</span></a><a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html"> List  of Open Access Journals in Ancient Studies</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2351623863607726617/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2351623863607726617/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/06/open-access-journal-nearco-historia.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2351623863607726617"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2351623863607726617"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/06/open-access-journal-nearco-historia.html"
          title="Open Access Journal: Nearco: História Antiga no Brasil"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

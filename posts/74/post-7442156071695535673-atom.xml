@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7442156071695535673</id>
+   <published>2016-09-25T15:31:00.000-04:00</published>
+   <updated>2016-09-25T15:31:30.296-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Neo-Latin"/>
+   <title type="text">Archive of the XML files of the Mannheim / Heidelberg CAMENA Neo-Latin project</title>
+   <content type="html"><![CDATA[<a href="https://github.com/nevenjovanovic/camena-neolatinlit"><span class="repository-meta-content"><span itemprop="about">Archive of the XML files of the Mannheim / Heidelberg CAMENA Neo-Latin project</span></span></a><br /><blockquote class="tr_bq"><h1><span style="font-size: x-small;">CAMENA - Latin Texts of Early Modern Europe: the XML files</span></h1><h2><span style="font-size: x-small;"><a class="anchor" href="https://github.com/nevenjovanovic/camena-neolatinlit/blob/master/README.md#background" id="user-content-background"><svg class="octicon octicon-link" height="16" viewbox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Background</span></h2><span style="font-size: x-small;"><a href="http://www.uni-mannheim.de/mateo/camenahtdocs/camena_e.html">CAMENA (Corpus Automatum Multiplex Electorum Neolatinitatis Auctorum)</a>, a <a href="http://www.dfg.de/">DFG-funded</a> research project carried out at the German Department of Heidelberg  University Chair of German Literature (Modern Period), in cooperation  with the Information Technology Center and the Library of the University  of Mannheim, and led by <a href="http://www.gs.uni-heidelberg.de/personen/kuehlmann.html">Prof. Dr. Wilhelm Kühlmann</a>, was active from 1999 to 2013; we particularly thank the <em>spiritus movens</em> of <a href="http://www.viaf.org/viaf/30212918">Wolfgang Schibel</a>, as well as Reinhard Gruhl, Emir Zuljevic, Heinz Kredel, and other members of the team.</span><br /><br />  <span style="font-size: x-small;">In our opinion, CAMENA was one of the most important Neo-Latin  digital initiatives. Since its machine-readable texts were made  available under the <a href="https://github.com/nevenjovanovic/camena-neolatinlit/blob/master/LICENSE.md">Creative Commons Attribution / Share Alike license</a>,  here we are republishing the XML files of all the CAMENA collections as  a Github repository, with all the caveats of the original project  regarding citing and reliability, and with the intent to enable further  digital experiments with CAMENA Neo-Latin material.</span><br /><br />  <span style="font-size: x-small;">Again, sincere gratitude goes to colleagues involved in CAMENA for all their efforts, and for making this possible. <em>Sumus nani gigantum humeris insidentes.</em></span><br />  <h2><span style="font-size: x-small;"><a class="anchor" href="https://github.com/nevenjovanovic/camena-neolatinlit/blob/master/README.md#contents" id="user-content-contents"><svg class="octicon octicon-link" height="16" viewbox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Contents</span></h2><span style="font-size: x-small;">In CAMENA, the texts are divided in five collections: <a href="https://github.com/nevenjovanovic/camena-neolatinlit/blob/master/poemata">POEMATA</a>, Neo-Latin poetry composed by German authors; <a href="https://github.com/nevenjovanovic/camena-neolatinlit/blob/master/historicapolitica">HISTORICA &amp; POLITICA</a>, Latin historical and political writing; <a href="https://github.com/nevenjovanovic/camena-neolatinlit/blob/master/thesaurus">THESAURUS ERUDITIONIS</a>, a reference collection of dictionaries and handbooks of the period 1500-1750; <a href="https://github.com/nevenjovanovic/camena-neolatinlit/blob/master/cera">CERA</a>,  printed Latin letters, mostly by German scholars, from the period  1530-1770; and ITALI, works by Italian Renaissance humanists born before  1500. The collection ITALI has no XML files, so it was not included in  this repository.</span><br /><br />  <span style="font-size: x-small;">We were not able to find information on the exact number of XML files produced by CAMENA. This repository contains <strong>949</strong> XML files in the POEMATA section, <strong>382</strong> files in the HISTORICA &amp; POLITICA, <strong>296</strong> files in the THESAURUS ERUDITIONIS, and <strong>124</strong> files in CERA, with the total of <strong>1751</strong> files. These files contain <strong>50,458,045</strong> words (tokens) below the <code>text</code> element (more on this in <a href="https://github.com/nevenjovanovic/camena-neolatinlit/blob/master/Wordcount.md">Word count</a>).</span><br /><br />  <span style="font-size: x-small;">Not all CAMENA XML files provide full text of the digitized source. For example, the file <a href="https://github.com/nevenjovanovic/camena-neolatinlit/blob/master/cera/Arenhold_conspectus_index_II.xml">Arenhold_conspectus_index_II.xml</a> in CERA offers only the table of contents to the digitized volume of Arenhold, Silvester Johannes: <em>Conspectus  Bibliothecae Universalis Historico-Literario-Criticae Epistolarum :  Typis Expressarum Et M[anu]S[crip]tarum, Illustrium Omnis Aevi Et  Eruditissimorum Auctorum.</em> - Hanoverae : Sumptibus Hereduum [!] Foersterianorum, 1746. In the <a href="http://www.uni-mannheim.de/mateo/cera/autoren/arenhold_cera.html">CAMENA-CERA version</a>,  the table of contents contains links to respective page images of the  digitized book. We did not try to exclude such partial XML publications  from this repository.</span><br /></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/7442156071695535673/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/09/archive-of-xml-files-of-mannheim.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7442156071695535673"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7442156071695535673"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/09/archive-of-xml-files-of-mannheim.html"
+         title="Archive of the XML files of the Mannheim / Heidelberg CAMENA Neo-Latin project"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

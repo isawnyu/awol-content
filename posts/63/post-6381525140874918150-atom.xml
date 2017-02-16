@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6381525140874918150</id>
+   <published>2015-12-11T11:20:00.000-05:00</published>
+   <updated>2015-12-11T11:20:09.912-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Digital Humanities"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Digital Classics"/>
+   <title type="text">antiquist: a heritage computing community</title>
+   <content type="html"><![CDATA[<a href="http://www.antiquist.org/blog/">antiquist</a>: a heritage computing community<br /><blockquote class="tr_bq"><h2><span style="font-size: x-small;">About</span></h2><span style="font-size: x-small;"><strong>Welcome to Antiquist. </strong></span><br /> <span style="font-size: x-small;">We are an online community of people working with computing in the heritage sector.</span><br /> <span style="font-size: x-small;">Antiquist is primarily a communication network - a way for us all to  talk, argue, experiment, share ideas, and solve common problems.</span><br /> <h2><span style="font-size: x-small;">Who is Antiquist?</span></h2><span style="font-size: x-small;">Antiquist members include archaeologists, museum professionals, historians, and other interested people.</span><br /> <h2><span style="font-size: x-small;">How do we communicate?</span></h2><span style="font-size: x-small;">We communicate primarily via a <a href="http://groups.google.com/group/antiquist/">Google Groups email list</a>. We also have a <a href="http://antiquist.org/wiki">wiki</a>, a blog, and some server space to try out new ideas and build new resources.</span><br /> <span style="font-size: x-small;">We also meet from time to time at events known as ArchCamp. The  format of these meetings is open, allowing for demonstrations,  discussion, and practical sessions.</span><br /> <h2><span style="font-size: x-small;">Joining</span></h2><span style="font-size: x-small;">If you’d like to join the conversation, head over to the <a href="http://groups.google.com/group/antiquist/">Antiquist Google Group</a> to sign up. You don’t need to work in the heritage sector, just a  healthy interest in computing and heritage, and the will to get  involved.</span></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/6381525140874918150/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/12/antiquist-heritage-computing-community.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6381525140874918150"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/6381525140874918150"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/12/antiquist-heritage-computing-community.html"
+         title="antiquist: a heritage computing community"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

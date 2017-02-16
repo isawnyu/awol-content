@@ -1,70 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2046562314382026161</id>
-    <published>2011-01-05T06:23:00.000-05:00</published>
-    <updated>2011-01-05T06:23:23.666-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2046562314382026161</id>
+   <published>2011-01-05T06:23:00.000-05:00</published>
+   <updated>2011-01-05T06:23:23.666-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Invitation: 2011 Meeting of the Forum for Classics, Libraries, and Scholarly
-      Communication</title>
-    <content type="html"><![CDATA[<span style="font-size: small;"><a
-      href="http://library.nyu.edu/fclsc/">The Forum for Classics, Libraries, and Scholarly
-      Communication</a> (FCLSC) will meet during the <a
-      href="http://apaclassics.org/index.php/annual_meeting/next_meeting/">APA</a>/<a
-      href="http://aia.archaeological.org/webinfo.php?page=10096">AIA</a> meetings on
-      Saturday January 8th from 9:00-10:30 a.m. in the Marriott Riverwalk’s <a
-      href="http://www.marriott.com/hotels/event-planning/floor-plans/satdt-san-antonio-marriott-riverwalk/">Valero
-      Room</a></span><br /><blockquote><div style="font-family:
-      inherit;"><span style="font-family: inherit; font-size: x-small;">The Forum brings
-      together people interested in the intersection between&nbsp; classical studies, libraries,
-      and scholarly communication, in order to&nbsp; promote timely exchange of information and
-      ideas. Members also collaborate on projects of mutual concern. As an officially
-      affiliated&nbsp; group of the American Philological&nbsp; Association, the Forum aims
-      to support initiatives of&nbsp; the APA relating to libraries and scholarly
-      communication.</span><span style="font-family: inherit; font-size: x-small;">
-      </span></div></blockquote><div style="font-family: inherit;">This
-      year's meeting will include a progress report on the joint FCLSC/LC project to match e-text to
-      LC bibliographic records, discussion of the CLIR report <a
-      href="http://www.clir.org/activities/details/infrastructure.html">Rome Wasn’t Digitized in a
-      Day :&nbsp; Buidling a Cyberinfrastructure for Digital Classics</a>, by Alison
-      Bebeu,&nbsp; Perseus Project, and other business.</div><br /><div
-      style="font-family: inherit;">FCLSC welcomes any and all who are
-      interested.</div><div style="font-family: inherit;"><div style="text-align:
-      center;"><br /><a
-      href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" id="data:post.url"
-      name="data:post.title" onclick="return addthis_sendto()" onmouseout="addthis_close()"
-      onmouseover="'return"><img alt="Bookmark and Share so Your Real Friends Know that You
-      Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt
-      none;" width="125" /></a></div></div><br /><div
-      style="font-family: inherit;"><br /></div><br /><div
-      style="font-family: inherit;"><br /></div>]]></content>
-    <link rel="replies"
+   <title type="text">Invitation: 2011 Meeting of the Forum for Classics, Libraries, and Scholarly Communication</title>
+   <content type="html"><![CDATA[<span style="font-size: small;"><a href="http://library.nyu.edu/fclsc/">The Forum for Classics, Libraries, and Scholarly Communication</a> (FCLSC) will meet during the <a href="http://apaclassics.org/index.php/annual_meeting/next_meeting/">APA</a>/<a href="http://aia.archaeological.org/webinfo.php?page=10096">AIA</a> meetings on Saturday January 8th from 9:00-10:30 a.m. in the Marriott Riverwalk’s <a href="http://www.marriott.com/hotels/event-planning/floor-plans/satdt-san-antonio-marriott-riverwalk/">Valero Room</a></span><br /><blockquote><div style="font-family: inherit;"><span style="font-family: inherit; font-size: x-small;">The Forum brings together people interested in the intersection between&nbsp; classical studies, libraries, and scholarly communication, in order to&nbsp; promote timely exchange of information and ideas. Members also collaborate on projects of mutual concern. As an officially affiliated&nbsp; group of the American Philological&nbsp; Association, the Forum aims to support initiatives of&nbsp; the APA relating to libraries and scholarly communication.</span><span style="font-family: inherit; font-size: x-small;"> </span></div></blockquote><div style="font-family: inherit;">This year's meeting will include a progress report on the joint FCLSC/LC project to match e-text to LC bibliographic records, discussion of the CLIR report <a href="http://www.clir.org/activities/details/infrastructure.html">Rome Wasn’t Digitized in a Day :&nbsp; Buidling a Cyberinfrastructure for Digital Classics</a>, by Alison Bebeu,&nbsp; Perseus Project, and other business.</div><br /><div style="font-family: inherit;">FCLSC welcomes any and all who are interested.</div><div style="font-family: inherit;"><div style="text-align: center;"><br /><a href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" id="data:post.url" name="data:post.title" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="'return"><img alt="Bookmark and Share so Your Real Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt none;" width="125" /></a></div></div><br /><div style="font-family: inherit;"><br /></div><br /><div style="font-family: inherit;"><br /></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2046562314382026161/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2046562314382026161/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/01/invitation-2011-meeting-of-forum-for.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2046562314382026161"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2046562314382026161"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/01/invitation-2011-meeting-of-forum-for.html"
          title="Invitation: 2011 Meeting of the Forum for Classics, Libraries, and Scholarly Communication"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

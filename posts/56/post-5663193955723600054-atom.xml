@@ -1,227 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5663193955723600054</id>
-    <published>2015-02-21T08:47:00.000-05:00</published>
-    <updated>2015-04-29T15:36:28.207-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5663193955723600054</id>
+   <published>2015-02-21T08:47:00.000-05:00</published>
+   <updated>2015-04-29T15:36:28.207-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Religion"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
-    <title type="text">One Off Journal Issues: Les « religions orientales » dans le monde grec et
-      romain</title>
-    <content type="html"><![CDATA[<a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left:
-      1em;"></a><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right:
-      1em;"></a><a href="http://trivium.revues.org/">Trivium</a><br
-      /><blockquote><span style="font-size: x-small;">Éditée par les Éditions de la
-      Maison des sciences de l’homme avec le concours de partenaires allemands et français, la revue
-      électronique <i> Trivium</i> publie des traductions d'articles. Elle se conçoit
-      comme un instrument d’échanges, de coopération entre les communautés de recherche francophone
-      et germanophone et de communication en sciences sociales et humaines.</span>
-      </blockquote><blockquote><span style="font-size: x-small;"> Die mit
-      Unterstützung deutscher und französischer Partner von den Éditions de la Maison des sciences de
-      l'homme herausgegebene Online-Zeitschrift <i>Trivium</i> veröffentlicht
-      Übersetzungen aus Fachzeitschriften. Sie versteht sich als Medium des Austauschs und der
-      Kooperation&nbsp;zwischen deutsch- und französischsprachigen Forschungsgemeinschaften in
-      den Geistes- und Sozialwissenschaften. </span></blockquote><blockquote><ul
-      class="issues"><li><span style="font-size: x-small;"><a
-      href="http://trivium.revues.org/index3300.html"><span
-      class="number">4–2009</span><br /><span class="title">Les « religions
-      orientales » dans le monde grec et
-      romain</span></a></span></li></ul></blockquote><blockquote
-      class="tr_bq"><blockquote class="tr_bq"><div id="publiDirector"><span
-      style="font-size: x-small;"><span class="forMika">Sous la direction de
-      <b>Corinne <span class="familyName">Bonnet</span></b> et <b>Jörg
-      <span
-      class="familyName">Rüpke</span></b></span></span></div><span
-      style="font-size: x-small;"> </span><br /><div
-      id="publiIntroduction"><div class="tabMenu"><span style="font-size:
-      x-small;"><a class="active" href="http://trivium.revues.org/3300#intro-3300-fr"
-      hreflang="fr">Français</a> <a href="http://trivium.revues.org/3300#intro-3300-de"
-      hreflang="de">Deutsch</a></span> </div><div class="tabContent"
-      id="intro-3300-fr" lang="fr"><div style="text-align: justify;"><span
-      style="font-size: x-small;">La catégorie des "religions orientales" appartient au contexte
-      épistémologique et culturel du début du XX<sup>e</sup> siècle. Aujourd'hui, l'étude
-      de la diffusion des cultes étrangers et de leur insertion dans le tissu cultuel grec et romain
-      doit plutôt se faire en termes d'<i>intégration </i>et
-      d'<i>interaction</i>, en rapport avec la question des <i>identités
-      culturelles et religieuses</i> dans un monde multiethnique et multiculturel. Le regard se
-      porte sur <i>divers niveaux </i>de pénétration et de visibilité de ces cultes, sur
-      <i>diverses stratégies</i> d'appropriation, ainsi que sur les <i>deux
-      directions</i> des échanges culturels – d'Est en Ouest, et d'Ouest en
-      Est.</span></div></div><div class="tabContent hidden" id="intro-3300-de"
-      lang="de"><div style="text-align: justify;"><span style="font-size:
-      x-small;"><span lang="DE"><br
-      /></span></span></div></div></div><span style="font-size:
-      x-small;"> </span><br /><ul class="summary"><li class="publications fr
-      even"> <h2 class="section"><span style="font-size: x-small;"><span
-      class="text">Introduction</span></span></h2><div
-      class="publiSubtitle"><span style="font-size:
-      x-small;">Einleitung</span></div><ul class="summary"><li class="textes
-      fr even"> <div class="author"><span style="font-size: x-small;"><span
-      class="forMika"><b>Corinne <span
-      class="familyName">Bonnet</span></b> et <b>Jörg <span
-      class="familyName">Rüpke</span></b></span></span></div><div
-      class="title"><span style="font-size: x-small;"><a
-      href="http://trivium.revues.org/3411" hreflang="fr" lang="fr">Introduction </a>
-      <span class="fullText">[Texte
-      intégral]</span></span></div></li><li class="textes de odd">
-      <div class="author"><span style="font-size: x-small;"><span
-      class="forMika"><b>Corinne <span
-      class="familyName">Bonnet</span></b> et <b>Jörg <span
-      class="familyName">Rüpke</span></b></span></span></div><div
-      class="title"><span style="font-size: x-small;"><a
-      href="http://trivium.revues.org/3516" hreflang="de" lang="de">Einleitung</a> <span
-      class="fullText">[Texte
-      intégral]</span></span></div></li></ul></li><li
-      class="publications fr odd"> <h2 class="section"><span style="font-size:
-      x-small;"><span class="text">Textes traduits en
-      français</span></span></h2><div class="publiSubtitle"><span
-      style="font-size: x-small;">Französische Übersetzungen</span></div><ul
-      class="summary"><li class="textes even"> <div class="author"><span
-      style="font-size: x-small;"><span class="forMika"><b>Christoph <span
-      class="familyName">Auffarth</span></b></span></span></div><div
-      class="title"><span style="font-size: x-small;"><a
-      href="http://trivium.revues.org/3419"><i>Religio migrans&nbsp;</i>: Les
-      «&nbsp;religions orientales&nbsp;» dans le contexte religieux antique. Un modèle
-      théorique</a> <span class="fullText">[Texte
-      intégral]</span></span></div><div class="originalTitle"
-      lang="fr"><span style="font-size: x-small;"><i>Religio
-      migrans</i>&nbsp;: die «&nbsp;orientalischen Religionen&nbsp;» im Kontext
-      antiker Religionen. Ein theoretisches Modell</span></div><div
-      class="translator"><span style="font-size: x-small;"><span
-      class="forMika">Traduction de <b>Anne-Laure <span
-      class="familyName">Vignaux</span></b></span></span></div></li><li
-      class="textes fr odd"> <div class="author"><span style="font-size:
-      x-small;"><span class="forMika"><b>Andreas <span
-      class="familyName">Bendlin</span></b></span></span></div><div
-      class="title"><span style="font-size: x-small;"><a
-      href="http://trivium.revues.org/3377" hreflang="fr" lang="fr">«&nbsp;Une perspective
-      trahissant un piètre sens de la religiosité&nbsp;»&nbsp;: Émotion et Orient dans
-      l’historiographie religieuse romaine de l’époque moderne</a> <span
-      class="fullText">[Texte intégral]</span></span></div><div
-      class="originalTitle" lang="fr"><span style="font-size: x-small;">»Eine wenig Sinn für
-      Religiosität verratende Betrachtungsweise«: Emotion und Orient in der römischen
-      Religionsgeschichtsschreibung der Moderne</span></div><div
-      class="translator"><span style="font-size: x-small;"><span
-      class="forMika">Traduction de <b>Anne-Laure <span
-      class="familyName">Vignaux</span></b></span></span></div></li><li
-      class="textes even"> <div class="author"><span style="font-size:
-      x-small;"><span class="forMika"><b>Anna-Katharina <span
-      class="familyName">Rieger</span></b></span></span></div><div
-      class="title"><span style="font-size: x-small;"><a
-      href="http://trivium.revues.org/3362">Tradition locale contre unité
-      supra-régionale&nbsp;: le culte de Magna Mater</a> <span
-      class="fullText">[Texte intégral]</span></span></div><div
-      class="originalTitle" lang="fr"><span style="font-size: x-small;">Lokale Tradition
-      versus überregionale Einheit: der Kult der Magna Mater</span></div><div
-      class="translator"><span style="font-size: x-small;"><span
-      class="forMika">Traduction de <b>Anne-Laure <span
-      class="familyName">Vignaux</span></b></span></span></div></li><li
-      class="textes odd"> <div class="author"><span style="font-size:
-      x-small;"><span class="forMika"><b>Dirk <span
-      class="familyName">Steuernagel</span></b></span></span></div><div
-      class="title"><span style="font-size: x-small;"><a
-      href="http://trivium.revues.org/3403">Les villes portuaires&nbsp;: des nœuds de
-      communication de la mobilité religieuse&nbsp;?</a> <span
-      class="fullText">[Texte intégral]</span></span></div><div
-      class="originalTitle" lang="fr"><span style="font-size: x-small;">Hafenstädte –
-      Knotenpunkte religiöser Mobilität?</span></div><div
-      class="translator"><span style="font-size: x-small;"><span
-      class="forMika">Traduction de <b>Anne-Laure <span
-      class="familyName">Vignaux</span></b></span></span></div></li></ul></li><li
-      class="publications fr even"> <h2 class="section"><span style="font-size:
-      x-small;"><span class="text">Textes traduits en
-      allemand</span></span></h2><div class="publiSubtitle"><span
-      style="font-size: x-small;">Deutsche Übersetzungen</span></div><ul
-      class="summary"><li class="textes de even"> <div class="author"><span
-      style="font-size: x-small;"><span class="forMika"><b>Marie-Françoise <span
-      class="familyName">Baslez</span></b></span></span></div><div
-      class="title"><span style="font-size: x-small;"><a
-      href="http://trivium.revues.org/3518" hreflang="de" lang="de">Vom Kult der Kybele zum
-      phrygischen Christentum: Ausblicke auf eine regionale religiöse Identität</a> <span
-      class="fullText">[Texte intégral]</span></span></div><div
-      class="originalTitle" lang="fr"><span style="font-size: x-small;">Du culte de Cybèle
-      au christianisme phrygien: approches d’une identité religieuse
-      régionale</span></div><div class="translator"><span style="font-size:
-      x-small;"><span class="forMika">Traduction de <b>Andreas <span
-      class="familyName">Wittenburg</span></b></span></span></div></li><li
-      class="textes de odd"> <div class="author"><span style="font-size:
-      x-small;"><span class="forMika"><b>Nicole <span
-      class="familyName">Belayche</span></b></span></span></div><div
-      class="title"><span style="font-size: x-small;"><a
-      href="http://trivium.revues.org/3443" hreflang="de" lang="de">Beobachtungen zur bildlichen
-      Darstellung der »orientalischen« Gottheiten im Vorderen Orient zu römischer Zeit</a>
-      <span class="fullText">[Texte intégral]</span></span></div><div
-      class="originalTitle" lang="fr"><span style="font-size: x-small;">Note sur l’imagerie
-      des divinités »orientales« dans le Proche-Orient romain</span></div><div
-      class="translator"><span style="font-size: x-small;"><span
-      class="forMika">Traduction de <b>Andreas <span
-      class="familyName">Wittenburg</span></b></span></span></div></li><li
-      class="textes de even"> <div class="author"><span style="font-size:
-      x-small;"><span class="forMika"><b>Corinne <span
-      class="familyName">Bonnet</span></b></span></span></div><div
-      class="title"><span style="font-size: x-small;"><a
-      href="http://trivium.revues.org/3452" hreflang="de" lang="de">Die »Orientalischen
-      Religionen« im Laboratorium des Hellenismus: Franz Cumont</a> <span
-      class="fullText">[Texte intégral]</span></span></div><div
-      class="originalTitle" lang="fr"><span style="font-size: x-small;">Les
-      «&nbsp;Religions Orientales&nbsp;» au Laboratoire de L’Hellénisme&nbsp;: Franz
-      Cumont</span></div><div class="translator"><span style="font-size:
-      x-small;"><span class="forMika">Traduction de <b>Achim <span
-      class="familyName">Russer</span></b></span></span></div></li><li
-      class="textes de odd"> <div class="author"><span style="font-size:
-      x-small;"><span class="forMika"><b>Luc <span
-      class="familyName">Renaut</span></b></span></span></div><div
-      class="title"><span style="font-size: x-small;"><a
-      href="http://trivium.revues.org/3465" hreflang="de" lang="de">Wurden die Eingeweihten der
-      Mithras-Mysterien auf der Stirn gekennzeichnet? Für eine neue Lesart von Tertullians
-      <i>De Praescr.</i>&nbsp;40, 4</a> <span class="fullText">[Texte
-      intégral]</span></span></div><div class="originalTitle"
-      lang="fr"><span style="font-size: x-small;">Les initiés aux mystères de Mithra
-      étaient-ils marqués au front? Pour une relecture de Tertullien, <i>De
-      Praescr.</i>&nbsp;40, 4</span></div><div
-      class="translator"><span style="font-size: x-small;"><span
-      class="forMika">Traduction de <b>Nicola <span
-      class="familyName">Denis</span></b></span></span></div></li></ul></li></ul></blockquote></blockquote><blockquote><ul
-      class="issues"></ul><div style="text-align: center;"><span style="font-size:
-      small;"><span style="font-family: inherit;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></div></blockquote><div
-      style="text-align: center;"><br /></div><br /><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Religion"/>
+   <title type="text">One Off Journal Issues:  Les « religions orientales » dans le monde grec et romain</title>
+   <content type="html"><![CDATA[<a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"></a><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"></a><a href="http://trivium.revues.org/">Trivium</a><br /><blockquote><span style="font-size: x-small;">Éditée par les Éditions de la Maison des sciences de l’homme  avec le concours de partenaires allemands et français, la revue  électronique             <i> Trivium</i> publie des traductions d'articles. Elle se  conçoit comme un instrument d’échanges, de coopération entre les  communautés de recherche francophone et germanophone et de communication  en sciences sociales et humaines.</span> </blockquote><blockquote><span style="font-size: x-small;">             Die mit Unterstützung deutscher und französischer Partner  von den Éditions de la Maison des sciences de l'homme herausgegebene  Online-Zeitschrift              <i>Trivium</i> veröffentlicht Übersetzungen aus  Fachzeitschriften. Sie versteht sich als Medium des Austauschs und der  Kooperation&nbsp;zwischen deutsch- und französischsprachigen  Forschungsgemeinschaften in den Geistes- und Sozialwissenschaften.           </span></blockquote><blockquote><ul class="issues"><li><span style="font-size: x-small;"><a href="http://trivium.revues.org/index3300.html"><span class="number">4–2009</span><br /><span class="title">Les « religions orientales » dans le monde grec et romain</span></a></span></li></ul></blockquote><blockquote class="tr_bq"><blockquote class="tr_bq"><div id="publiDirector"><span style="font-size: x-small;"><span class="forMika">Sous la direction de <b>Corinne <span class="familyName">Bonnet</span></b> et <b>Jörg <span class="familyName">Rüpke</span></b></span></span></div><span style="font-size: x-small;">                             </span><br /><div id="publiIntroduction"><div class="tabMenu"><span style="font-size: x-small;"><a class="active" href="http://trivium.revues.org/3300#intro-3300-fr" hreflang="fr">Français</a> <a href="http://trivium.revues.org/3300#intro-3300-de" hreflang="de">Deutsch</a></span> </div><div class="tabContent" id="intro-3300-fr" lang="fr"><div style="text-align: justify;"><span style="font-size: x-small;">La catégorie des "religions orientales" appartient au contexte épistémologique et culturel du début du XX<sup>e</sup> siècle. Aujourd'hui, l'étude de la diffusion des cultes étrangers et de  leur insertion dans le tissu cultuel grec et romain doit plutôt se  faire en termes d'<i>intégration </i>et d'<i>interaction</i>, en rapport avec la question des <i>identités culturelles et religieuses</i> dans un monde multiethnique et multiculturel. Le regard se porte sur <i>divers niveaux </i>de pénétration et de visibilité de ces cultes, sur <i>diverses stratégies</i> d'appropriation, ainsi que sur les <i>deux directions</i> des échanges culturels – d'Est en Ouest, et d'Ouest en Est.</span></div></div><div class="tabContent hidden" id="intro-3300-de" lang="de"><div style="text-align: justify;"><span style="font-size: x-small;"><span lang="DE"><br /></span></span></div></div></div><span style="font-size: x-small;">              </span><br /><ul class="summary"><li class="publications fr even">                  <h2 class="section"><span style="font-size: x-small;"><span class="text">Introduction</span></span></h2><div class="publiSubtitle"><span style="font-size: x-small;">Einleitung</span></div><ul class="summary"><li class="textes fr even">                      <div class="author"><span style="font-size: x-small;"><span class="forMika"><b>Corinne <span class="familyName">Bonnet</span></b> et <b>Jörg <span class="familyName">Rüpke</span></b></span></span></div><div class="title"><span style="font-size: x-small;"><a href="http://trivium.revues.org/3411" hreflang="fr" lang="fr">Introduction </a> <span class="fullText">[Texte intégral]</span></span></div></li><li class="textes de odd">                      <div class="author"><span style="font-size: x-small;"><span class="forMika"><b>Corinne <span class="familyName">Bonnet</span></b> et <b>Jörg <span class="familyName">Rüpke</span></b></span></span></div><div class="title"><span style="font-size: x-small;"><a href="http://trivium.revues.org/3516" hreflang="de" lang="de">Einleitung</a> <span class="fullText">[Texte intégral]</span></span></div></li></ul></li><li class="publications fr odd">                  <h2 class="section"><span style="font-size: x-small;"><span class="text">Textes traduits en français</span></span></h2><div class="publiSubtitle"><span style="font-size: x-small;">Französische Übersetzungen</span></div><ul class="summary"><li class="textes  even">                      <div class="author"><span style="font-size: x-small;"><span class="forMika"><b>Christoph <span class="familyName">Auffarth</span></b></span></span></div><div class="title"><span style="font-size: x-small;"><a href="http://trivium.revues.org/3419"><i>Religio migrans&nbsp;</i>: Les «&nbsp;religions orientales&nbsp;» dans le contexte religieux antique. Un modèle théorique</a> <span class="fullText">[Texte intégral]</span></span></div><div class="originalTitle" lang="fr"><span style="font-size: x-small;"><i>Religio migrans</i>&nbsp;: die «&nbsp;orientalischen Religionen&nbsp;» im Kontext antiker Religionen. Ein theoretisches Modell</span></div><div class="translator"><span style="font-size: x-small;"><span class="forMika">Traduction de <b>Anne-Laure <span class="familyName">Vignaux</span></b></span></span></div></li><li class="textes fr odd">                      <div class="author"><span style="font-size: x-small;"><span class="forMika"><b>Andreas <span class="familyName">Bendlin</span></b></span></span></div><div class="title"><span style="font-size: x-small;"><a href="http://trivium.revues.org/3377" hreflang="fr" lang="fr">«&nbsp;Une  perspective trahissant un piètre sens de la religiosité&nbsp;»&nbsp;: Émotion et  Orient dans l’historiographie religieuse romaine de l’époque moderne</a> <span class="fullText">[Texte intégral]</span></span></div><div class="originalTitle" lang="fr"><span style="font-size: x-small;">»Eine  wenig Sinn für Religiosität verratende Betrachtungsweise«: Emotion und  Orient in der römischen Religionsgeschichtsschreibung der Moderne</span></div><div class="translator"><span style="font-size: x-small;"><span class="forMika">Traduction de <b>Anne-Laure <span class="familyName">Vignaux</span></b></span></span></div></li><li class="textes  even">                      <div class="author"><span style="font-size: x-small;"><span class="forMika"><b>Anna-Katharina <span class="familyName">Rieger</span></b></span></span></div><div class="title"><span style="font-size: x-small;"><a href="http://trivium.revues.org/3362">Tradition locale contre unité supra-régionale&nbsp;: le culte de Magna Mater</a> <span class="fullText">[Texte intégral]</span></span></div><div class="originalTitle" lang="fr"><span style="font-size: x-small;">Lokale Tradition versus überregionale Einheit: der Kult der Magna Mater</span></div><div class="translator"><span style="font-size: x-small;"><span class="forMika">Traduction de <b>Anne-Laure <span class="familyName">Vignaux</span></b></span></span></div></li><li class="textes  odd">                      <div class="author"><span style="font-size: x-small;"><span class="forMika"><b>Dirk <span class="familyName">Steuernagel</span></b></span></span></div><div class="title"><span style="font-size: x-small;"><a href="http://trivium.revues.org/3403">Les villes portuaires&nbsp;: des nœuds de communication de la mobilité religieuse&nbsp;?</a> <span class="fullText">[Texte intégral]</span></span></div><div class="originalTitle" lang="fr"><span style="font-size: x-small;">Hafenstädte – Knotenpunkte religiöser Mobilität?</span></div><div class="translator"><span style="font-size: x-small;"><span class="forMika">Traduction de <b>Anne-Laure <span class="familyName">Vignaux</span></b></span></span></div></li></ul></li><li class="publications fr even">                  <h2 class="section"><span style="font-size: x-small;"><span class="text">Textes traduits en allemand</span></span></h2><div class="publiSubtitle"><span style="font-size: x-small;">Deutsche Übersetzungen</span></div><ul class="summary"><li class="textes de even">                      <div class="author"><span style="font-size: x-small;"><span class="forMika"><b>Marie-Françoise <span class="familyName">Baslez</span></b></span></span></div><div class="title"><span style="font-size: x-small;"><a href="http://trivium.revues.org/3518" hreflang="de" lang="de">Vom Kult der Kybele zum phrygischen Christentum: Ausblicke auf eine regionale religiöse Identität</a> <span class="fullText">[Texte intégral]</span></span></div><div class="originalTitle" lang="fr"><span style="font-size: x-small;">Du culte de Cybèle au christianisme phrygien: approches d’une identité religieuse régionale</span></div><div class="translator"><span style="font-size: x-small;"><span class="forMika">Traduction de <b>Andreas <span class="familyName">Wittenburg</span></b></span></span></div></li><li class="textes de odd">                      <div class="author"><span style="font-size: x-small;"><span class="forMika"><b>Nicole <span class="familyName">Belayche</span></b></span></span></div><div class="title"><span style="font-size: x-small;"><a href="http://trivium.revues.org/3443" hreflang="de" lang="de">Beobachtungen zur bildlichen Darstellung der »orientalischen« Gottheiten im Vorderen Orient zu römischer Zeit</a> <span class="fullText">[Texte intégral]</span></span></div><div class="originalTitle" lang="fr"><span style="font-size: x-small;">Note sur l’imagerie des divinités »orientales« dans le Proche-Orient romain</span></div><div class="translator"><span style="font-size: x-small;"><span class="forMika">Traduction de <b>Andreas <span class="familyName">Wittenburg</span></b></span></span></div></li><li class="textes de even">                      <div class="author"><span style="font-size: x-small;"><span class="forMika"><b>Corinne <span class="familyName">Bonnet</span></b></span></span></div><div class="title"><span style="font-size: x-small;"><a href="http://trivium.revues.org/3452" hreflang="de" lang="de">Die »Orientalischen Religionen« im Laboratorium des Hellenismus: Franz Cumont</a> <span class="fullText">[Texte intégral]</span></span></div><div class="originalTitle" lang="fr"><span style="font-size: x-small;">Les «&nbsp;Religions Orientales&nbsp;» au Laboratoire de L’Hellénisme&nbsp;: Franz Cumont</span></div><div class="translator"><span style="font-size: x-small;"><span class="forMika">Traduction de <b>Achim <span class="familyName">Russer</span></b></span></span></div></li><li class="textes de odd">                      <div class="author"><span style="font-size: x-small;"><span class="forMika"><b>Luc <span class="familyName">Renaut</span></b></span></span></div><div class="title"><span style="font-size: x-small;"><a href="http://trivium.revues.org/3465" hreflang="de" lang="de">Wurden die Eingeweihten der Mithras-Mysterien auf der Stirn gekennzeichnet? Für eine neue Lesart von Tertullians <i>De Praescr.</i>&nbsp;40, 4</a> <span class="fullText">[Texte intégral]</span></span></div><div class="originalTitle" lang="fr"><span style="font-size: x-small;">Les initiés aux mystères de Mithra étaient-ils marqués au front? Pour une relecture de Tertullien, <i>De Praescr.</i>&nbsp;40, 4</span></div><div class="translator"><span style="font-size: x-small;"><span class="forMika">Traduction de <b>Nicola <span class="familyName">Denis</span></b></span></span></div></li></ul></li></ul></blockquote></blockquote><blockquote><ul class="issues"></ul><div style="text-align: center;"><span style="font-size: small;"><span style="font-family: inherit;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></div></blockquote><div style="text-align: center;"><br /></div><br /><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5663193955723600054/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5663193955723600054/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/10/open-access-journal-trivium.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5663193955723600054"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5663193955723600054"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/10/open-access-journal-trivium.html"
          title="One Off Journal Issues:  Les « religions orientales » dans le monde grec et romain"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

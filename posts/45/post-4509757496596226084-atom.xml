@@ -1,257 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4509757496596226084</id>
-    <published>2013-02-06T10:02:00.004-05:00</published>
-    <updated>2013-02-06T10:02:39.037-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4509757496596226084</id>
+   <published>2013-02-06T10:02:00.004-05:00</published>
+   <updated>2015-12-29T07:55:52.731-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Law"/>
-    <title type="text">Open Access Journal: Forum Historiae Iuris</title>
-    <content type="html"><![CDATA[<a href="http://www.forhistiur.de/index_de.htm">Forum Historiae
-      Iuris</a><br /><blockquote class="tr_bq"><img
-      alt="http://fhi.rg.mpg.de/images/titel.gif" class="decoded" height="106"
-      src="http://fhi.rg.mpg.de/images/titel.gif" width="200" /></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;"><span style="font-family:
-      inherit;">Erste europäische Internetzeitschrift für Rechtsgeschichte
-      </span></span><br /><div align="Justify"><span style="font-size:
-      x-small;"><span style="font-family: inherit;">The FHI - the first European online
-      magazin for legal history. The FHI is designed to use the internet as its platform and stands
-      to the benefit of linked documents and a powerful search engine. The FHI serves the purpose of
-      fast and worldwide publication of</span></span></div><span
-      style="font-size: x-small;"><span style="font-family: inherit;">
-      </span></span><br /><div align="left"><table border="0"
-      style="width: 100%px;"> <tbody><tr> <td valign="top"><span
-      style="font-size: x-small;"><span style="font-family: inherit;">1.
-      </span></span></td> <td><span style="font-size:
-      x-small;"><span style="font-family: inherit;">legal history articles
-      </span></span></td> </tr><tr> <td valign="top"><span
-      style="font-size: x-small;"><span style="font-family: inherit;">2.
-      </span></span></td> <td><span style="font-size:
-      x-small;"><span style="font-family: inherit;">reviews and announcements of newest
-      literature</span></span></td> </tr><tr> <td
-      valign="top"><span style="font-size: x-small;"><span style="font-family:
-      inherit;">3. </span></span></td> <td><span style="font-size:
-      x-small;"><span style="font-family: inherit;">research
-      reports</span></span></td> </tr><tr> <td
-      valign="top"><span style="font-size: x-small;"><span style="font-family:
-      inherit;">4 . </span></span></td> <td><span style="font-size:
-      x-small;"><span style="font-family: inherit;">materials for studies and research in
-      legal history</span></span></td>
-      </tr></tbody></table></div><span style="font-size:
-      x-small;"><span style="font-family: inherit;"> </span></span><br
-      /><div align="Justify"><span style="font-size: x-small;"><span
-      style="font-family: inherit;"><br /> At the same time, the Forum Historiae Iuris is an
-      international project trying to promote integration and networking between education and
-      research in legal history. Our editors coming from all over Europe, the FHI establishes a
-      virtual marketplace for exchange and analysis in this interesting scientific field at a
-      superior level.</span></span></div><br /><table bgcolor="#FFFFFF"
-      border="1" cellpadding="10" style="width: 90%px;"><tbody><tr><td
-      colspan="2"><b>Antike <br /> Antiquity <br />
-      Antiquité</b></td> </tr><tr> <td valign="top"><br
-      /></td><td><img align="right" alt="" border="0" height="28"
-      src="http://fhi.rg.mpg.de/images/en_up.gif" width="36" />Calum Carmichael: <br
-      /><b>Women's Offences and Biblical Law</b> <br />14. Februar, 1998<br
-      /><table border="0"> <tbody><tr> <td width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/9802carmi.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/9802carmi.pdf">Druckversion (pdf, 155
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"><br /></td><td><img align="right" alt="" border="0"
-      height="28" src="http://fhi.rg.mpg.de/images/de_up.gif" width="36" />F. Javier Casinos-Mora:
-      <br /><b>Bemerkungen zu Iulianus D. 21, 2, 39 pr</b> <br />2. August,
-      1999 <br /><table border="0"> <tbody><tr> <td
-      width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/9908casinos.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/9908casinos.pdf">Druckversion (pdf, 142
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"><br /></td> <td><img align="right" alt="" border="0"
-      height="28" src="http://fhi.rg.mpg.de/images/fr_up.gif" width="37" />David Daube: <br
-      /><b>La femme dans le droit biblique</b> <br />8. Februar, 1998<br
-      /><table border="0"> <tbody><tr> <td width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/9802daube.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/9802daube.pdf">Druckversion (pdf, 128
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"></td> <td><img align="right" alt="" border="0" height="28"
-      src="http://fhi.rg.mpg.de/images/de_up.gif" width="36" />Katharina de la Durantaye: <br
-      /><b>Ruhm und Ehre. Der Schutz literarischer Urheberschaft im Rom der klassischen
-      Antike<br /> </b>11. April, 2006 <br /><table border="0">
-      <tbody><tr> <td width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/0604deladurantaye.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/0604deladurantaye.pdf">Druckversion (pdf, 515
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"></td> <td><b><img align="right" alt="" border="0"
-      height="28" src="http://fhi.rg.mpg.de/images/en_up.gif" width="36" /></b>Birgit
-      Feldner: <br /><b>Women´s exclusion from the Roman
-      <i>Officium</i><br /> </b>17. September, 2002<b> <br />
-      </b> <br /><table border="0"> <tbody><tr> <td
-      width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/0209feldner.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/0209feldner.pdf">Druckversion (pdf, 205
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"><br /></td> <td><img align="right" alt="" border="0"
-      height="28" src="http://fhi.rg.mpg.de/images/de_up.gif" width="36" />Benedikt Forschner:
-      <br /><b> Das Schiff des Saufeius - Anmerkungen zu D.19.2.31</b> <br
-      />8. November 2011<br /><a
-      href="http://fhi.rg.mpg.de/articles/1111forschner_sum.html" target="main"><img
-      align="right" alt="" border="0" height="28" src="http://fhi.rg.mpg.de/images/en_up.gif"
-      width="36" /> Zusammenfassung - English Summary</a> (2&nbsp;KB) <br /><br
-      /><table border="0"> <tbody><tr> <td width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/1111forschner.html">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/1111forschner.pdf">Druckversion (pdf, 100
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"></td> <td><img align="right" alt="" border="0" height="28"
-      src="http://fhi.rg.mpg.de/images/de_up.gif" width="36" />Nikola Galaboff: <br
-      /><b>Auswirkung des Innenverhältnisses der <i>socii </i>auf das
-      Außenverhältnis der <i>societas</i>?</b><br />22. Oktober 2012 <br
-      /><table border="0"> <tbody><tr> <td width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/1210galaboff.html">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/1210galaboff.pdf">Druckversion (pdf, 208
-      KB)</a></b></td> </tr></tbody></table></td>
-      </tr><tr> <td valign="top"></td> <td><img align="right" alt=""
-      border="0" height="28" src="http://fhi.rg.mpg.de/images/en_up.gif" width="36" />Tatsushi
-      Genka:<br /><b>Some critical comments on the rubric of C. 15 q. 1 c. 8 of Gratian's
-      <i>Decretum<br /> </i></b>31. Januar, 2007<b><i>
-      </i></b><br /><table border="0"> <tbody><tr valign="top">
-      <td colspan="2" width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/0701genka.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/0701genka.pdf">Druckversion (pdf, 247
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"></td> <td><img align="right" alt="" border="0" height="28"
-      src="http://fhi.rg.mpg.de/images/fr_up.gif" width="37" /> Yves Mausen:<br
-      /><b>Pillius, <i>Quoniam in iuditiis</i></b><br />6. Mai,
-      2008<br /><table border="0"> <tbody><tr> <td
-      width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/0805mausen.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/0805mausen.pdf">Druckversion (pdf, 103
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"></td> <td><img align="right" alt="" border="0" height="28"
-      src="http://fhi.rg.mpg.de/images/de_up.gif" width="37" /> Jens Peter Meincke:<br
-      /><b>Perspektiven des Schenkungsrechts in den Institutionen Iustinians</b><br
-      />31. Mai 2010<br /><table border="0"> <tbody><tr> <td
-      width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/1005meincke.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/1005meincke.pdf">Druckversion (pdf, 103
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"><br /></td> <td><img align="right" alt="" border="0"
-      height="28" src="http://fhi.rg.mpg.de/images/de_up.gif" width="36" />Thomas Olechowski:
-      <br /><b> Das römische Königtum</b> <br />19. Oktober, 2000<br
-      /><a href="http://fhi.rg.mpg.de/articles/0010olecho_sum.htm" target="main"><img
-      align="right" alt="" border="0" height="28" src="http://fhi.rg.mpg.de/images/en_up.gif"
-      width="36" />Zusammenfassung - English Summary</a> (2&nbsp;KB) <br /><br
-      /><table border="0"> <tbody><tr> <td width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/0010olecho.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/0010olecho.pdf">Druckversion (pdf, 169
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"></td> <td><img align="right" alt="" border="0" height="28"
-      src="http://fhi.rg.mpg.de/images/de_up.gif" width="36" /> Johannes Platschek<br
-      /><b>Römisches Recht in Bronze - Der Senatsbeschluss de Cn. Pisone patre als Quelle
-      des römischen Familien- und Erbrechts</b><br />6. Februar 2009<br /><a
-      href="http://fhi.rg.mpg.de/articles/0902platschek_abstract.htm">Zusammenfassung - English
-      Summary</a><br /><table border="0"> <tbody><tr> <td
-      width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/0902platschek.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/0902platschek.pdf">Druckversion (pdf, 150
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"><br /></td> <td><img align="right" alt="" border="0"
-      height="28" src="http://fhi.rg.mpg.de/images/de_up.gif" width="37" />Ronen Reichman: <br
-      /><b>Die Stellung des Ma’ase (Präjudizes) im Talmud</b> <br />8. November,
-      2000<br /><table border="0"> <tbody><tr> <td
-      width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/0011reichmann.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/0011reichmann.pdf">Druckversion (pdf, 139
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"><br /></td> <td><img align="right" alt="" border="0"
-      height="28" src="http://fhi.rg.mpg.de/images/de_up.gif" width="36" />Götz Schulze: <br
-      /><b>Eviktionshaftung aus einem Grundstückskauf unter Nießbrauchsvorbehalt</b>
-      <br />28. November, 1998 <br /><table border="0"> <tbody><tr>
-      <td width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/9811schulze.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/9811schulze.pdf">Druckversion (pdf, 207
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"><br /></td> <td><img align="right" alt="" border="0"
-      height="28" src="http://fhi.rg.mpg.de/images/de_up.gif" width="36" />Gerhard Thür: <br
-      /><b>Justinians Institutionen als Lehrbuch -- ein Experiment</b> <br />18.
-      Mai, 1998<br /><table border="0"> <tbody><tr> <td
-      width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/9805thuer.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/9805thuer.pdf">Druckversion (pdf, 123
-      KB)</a></b></td>
-      </tr></tbody></table></td></tr><tr> <td
-      valign="top"><br /></td> <td><img align="right" alt="" border="0"
-      height="28" src="http://fhi.rg.mpg.de/images/de_up.gif" width="36" />Tanja Wegner: <br
-      /><b>Sonderfälle der Regelungen des Blutgeldes und des Ehrenpreises bei den
-      Kelten</b> <br />1. April, 1998<br /><table border="0" style="width:
-      90%px;"> <tbody><tr> <td width="40%"><b><a
-      href="http://fhi.rg.mpg.de/articles/9804wegner.htm">Bildschirmversion</a></b></td>
-      <td width="60%"><b><a
-      href="http://fhi.rg.mpg.de/articles/pdf-files/9804wegner.pdf">Druckversion (pdf, 151
-      KB)</a></b></td></tr></tbody></table></td></tr></tbody></table></blockquote><div
-      style="text-align: center;"><br /></div><div style="text-align:
-      center;"><span style="font-family: inherit;"><span style="font-size:
-      small;"><span><span>See also AWOL's list of </span><a
-      class="GFVG-RKBLB"
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939#editor/target=post;postID=3718248653805864734http://ancientworldonline.blogspot.com/2010/09/open-access-ancient-law-journals.html">Open
-      Access Ancient Law Journals</a></span></span></span></div><div
-      style="text-align: center;"><span style="font-family: inherit;"><span
-      style="font-size: small;"><span><span><span><span style="font-size:
-      small;">And s</span>ee the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Law"/>
+   <title type="text">Open Access Journal: Forum Historiae Iuris</title>
+   <content type="html"><![CDATA[<a href="http://www.forhistiur.de/">Forum Historiae Iuris</a><br /><blockquote class="tr_bq"><img alt="Logo FHI" src="http://www.forhistiur.de/static/img/logo-fhi.gif" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><span style="font-family: inherit;">Erste europäische Internetzeitschrift für Rechtsgeschichte </span></span><br /><div align="Justify"><span style="font-size: x-small;"><span style="font-family: inherit;">The            FHI - the first European online magazin for legal history. The FHI is            designed to use the internet as its platform and stands to the benefit            of linked documents and a powerful search engine. The FHI serves the            purpose of fast and worldwide publication of</span></span></div><span style="font-size: x-small;"><span style="font-family: inherit;">        </span></span><br /><div align="left"><table border="0" style="width: 100%px;">            <tbody><tr>                <td valign="top"><span style="font-size: x-small;"><span style="font-family: inherit;">1.                  </span></span></td>              <td><span style="font-size: x-small;"><span style="font-family: inherit;">legal history                  articles </span></span></td>            </tr><tr>                <td valign="top"><span style="font-size: x-small;"><span style="font-family: inherit;">2.                  </span></span></td>              <td><span style="font-size: x-small;"><span style="font-family: inherit;">reviews                  and announcements of newest literature</span></span></td>            </tr><tr>                <td valign="top"><span style="font-size: x-small;"><span style="font-family: inherit;">3.                  </span></span></td>              <td><span style="font-size: x-small;"><span style="font-family: inherit;">research                  reports</span></span></td>            </tr><tr>                <td valign="top"><span style="font-size: x-small;"><span style="font-family: inherit;">4                  . </span></span></td>              <td><span style="font-size: x-small;"><span style="font-family: inherit;">materials                  for studies and research in legal history</span></span></td>            </tr></tbody></table></div><span style="font-size: x-small;"><span style="font-family: inherit;">        </span></span><br /><div align="Justify"><span style="font-size: x-small;"><span style="font-family: inherit;"><br />          At the same time, the Forum Historiae Iuris is an international project            trying to promote integration and networking between education and research            in legal history. Our editors coming from all over Europe, the FHI establishes            a virtual marketplace for exchange and analysis in this interesting            scientific field at a superior level.</span></span></div><span style="font-size: x-small;"><br /></span><table><thead><tr class="result"><th class="first result"><h3><span style="font-size: x-small;"><b>14 Treffer für Ihre Suche nach <i>antiquity</i></b></span></h3></th>        </tr></thead>                         <tbody><tr class="result">            <td class="first result">                                                       <h3><span style="font-size: x-small;">Rezension, 23. Mai 2011</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Rezensiert von: Mark R. Munzinger<br /> James A. Brundage, Medieval Origins of the Legal Profession: Canonists, Civilians, and Courts.</span></h4><div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/2011-05-munzinger/" title="">Mehr</a></span>          </div></article>                                                                                                                  </td>        </tr></tbody>                    <tbody><tr class="result">            <td class="first result">                                      <h3><span style="font-size: x-small;">Aufsatz, 17. September 2002</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Birgit Feldner<br /> Women´s exclusion from the Roman Officium</span></h4><br />         <div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/2002-09-feldner/" title="Women´s exclusion from the Roman Officium">Mehr</a></span>          </div></article>                                                                                                                                   </td>        </tr></tbody>                    <tbody><tr class="result">            <td class="first result">                                                                        <h3><span style="font-size: x-small;">Debate, 17. Mai 1997</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Christoph Paulus<br /> Rechtsgeschichte und Internet</span></h4><br />         <div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/1997-05-paulus/" title="Rechtsgeschichte und Internet">Mehr</a></span>          </div></article>                                                                                                 </td>        </tr></tbody>                    <tbody><tr class="result">            <td class="first result">                                      <h3><span style="font-size: x-small;">Aufsatz, 14. Februar 1998</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Calum Carmichael<br /> Women's Offences and Biblical Law</span></h4><br />         <div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/1998-02-carmichael/" title="Women's Offences and Biblical Law">Mehr</a></span>          </div></article>                                                                                                                                   </td>        </tr></tbody>                    <tbody><tr class="result">            <td class="first result">                                                       <h3><span style="font-size: x-small;">Rezension, 13. Juli 2012</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Rezensiert von: Carsten Fischer<br /> Grünbart, Michael (Hg.), Geschenke erhalten die Freundschaft. Gabentausch und Netzwerkpflege im europäischen Mittelalter </span></h4><div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/2012-07-fischer/" title="">Mehr</a></span>          </div></article>                                                                                                                  </td>        </tr></tbody>                    <tbody><tr class="result">            <td class="first result">                                                       <h3><span style="font-size: x-small;">Rezension, 07. Juli 2010</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Rezensiert von: Francesco Aimerito<br /> J. Hautebert et S. Soleil, Modèles français, enjeux politiques et élaboration des grands textes de procédure en Europe</span></h4><div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/2010-07-aimerito/" title="">Mehr</a></span>          </div></article>                                                                                                                  </td>        </tr></tbody>                    <tbody><tr class="result">            <td class="first result">                                                       <h3><span style="font-size: x-small;">Rezension, 24. Februar 2010</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Rezensiert von: Alexandr Svetlicinii<br /> Tamás Nótári, Studia Iuridico-philologica I. Studies in Classical and Medieval Philology and Legal History</span></h4><div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/2010-02-svetlicinii/" title="">Mehr</a></span>          </div></article>                                                                                                                  </td>        </tr></tbody>                    <tbody><tr class="result">            <td class="first result">                                                                        <h3><span style="font-size: x-small;">Debate, 31. Januar 2013</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Ivan Milotić<br /> An outline of the arbitral procedure in roman law</span></h4><br />         <div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/2013-01-milotic/" title="An outline of the arbitral procedure in roman law">Mehr</a></span>          </div></article>                                                                                                 </td>        </tr></tbody>                    <tbody><tr class="result">            <td class="first result">                                      <h3><span style="font-size: x-small;">Aufsatz, 19. März 2012</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Inge Kroppenberg<br /> Adoptio naturam imitatur</span></h4><span style="font-size: x-small;">            Bis dato haben die Partner einer eingetragenen  Lebenspartnerschaft in Deutschland nur ein eingeschränktes  Adoptionsrecht. Das Bundesverfassungsgericht wird im Frühjahr 2012 ...         </span><br />         <div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/2012-03-kroppenberg/" title="Adoptio naturam imitatur">Mehr</a></span>          </div></article>                                                                                                                                   </td>        </tr></tbody>                    <tbody><tr class="result">            <td class="first result">                                      <h3><span style="font-size: x-small;">Aufsatz, 12. März 2015</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Frederik Dhondt<br /> Charles de Gaulle, Anti-Hegemonic Discourse and International Law</span></h4><span style="font-size: x-small;">            French President Charles de Gaulle (1890-1970) was a  controversial figure on the international scene during the Cold War. He  steered ...         </span><br />         <div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/2015-03-dhondt/" title="Charles de Gaulle, Anti-Hegemonic Discourse and International Law">Mehr</a></span>          </div></article>                                                                                                                                   </td>        </tr></tbody>                    <tbody><tr class="result">            <td class="first result">                                      <h3><span style="font-size: x-small;">Aufsatz, 11. April 2006</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Katharina de la Durantaye<br /> Ruhm und Ehre. Der Schutz literarischer Urheberschaft im Rom der klassischen Antike</span></h4><br />         <div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/2006-04-de-la-durantaye/" title="Ruhm und Ehre. Der Schutz literarischer Urheberschaft im Rom der klassischen Antike">Mehr</a></span>          </div></article>                                                                                                                                   </td>        </tr></tbody>                    <tbody><tr class="result">            <td class="first result">                                      <h3><span style="font-size: x-small;">Aufsatz, 30. März 2009</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Martin Schermaier<br /> Eigenschaftsirrtum und Kauf: Werner Flume rechtsgeschichtlich</span></h4><br />         <div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/2009-03-schermaier/" title="Eigenschaftsirrtum und Kauf: Werner Flume rechtsgeschichtlich">Mehr</a></span>          </div></article>                                                                                                                                   </td>        </tr></tbody>                    <tbody><tr class="result">            <td class="first result">                                                                        <h3><span style="font-size: x-small;">Debate, 03. März 2011</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Stefano Solimano<br /> Bonaparte et les îles Ioniennes. Francisation juridique en difficulté. Notes pour un approfondissement</span></h4><br />         <div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/2011-03-solimano/" title="Bonaparte et les îles Ioniennes. Francisation juridique en difficulté. Notes pour un approfondissement">Mehr</a></span>          </div></article>                                                                                                 </td>        </tr></tbody>                    <tbody><tr class="result last">            <td class="first result">                                      <h3><span style="font-size: x-small;">Aufsatz, 03. Mai 2002</span></h3><article class="clearfix">        <h4><span style="font-size: x-small;">Mathias   Schmoeckel<br /> Liberty of Conscience and the Right of Resistance in Montaigne's Essays and Charron's 'La sagesse'</span></h4><br />         <div class="arrowLinkList">            <span style="font-size: x-small;"><a class="first" href="http://www.forhistiur.de/2002-05-schmoeckel/" title="Liberty of Conscience and the Right of Resistance in Montaigne's Essays and Charron's 'La sagesse'">Mehr</a></span>          </div></article></td></tr></tbody></table></blockquote><div style="text-align: center;"><span style="font-family: inherit;"><span style="font-size: small;">See also AWOL's list of <a class="GFVG-RKBLB" href="http://draft.blogger.com/blogger.g?blogID=116259103207720939#editor/target=post;postID=3718248653805864734http://ancientworldonline.blogspot.com/2010/09/open-access-ancient-law-journals.html">Open Access Ancient Law Journals</a></span></span></div><div style="text-align: center;"><span style="font-family: inherit;"><span style="font-size: small;"><span style="font-size: small;">And s</span>ee the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4509757496596226084/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4509757496596226084/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/02/open-access-journal-forum-historiae.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4509757496596226084"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4509757496596226084"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/02/open-access-journal-forum-historiae.html"
          title="Open Access Journal: Forum Historiae Iuris"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

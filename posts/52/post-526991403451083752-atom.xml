@@ -1,108 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-526991403451083752</id>
-    <published>2014-10-08T15:21:00.003-04:00</published>
-    <updated>2014-10-08T15:21:57.288-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-526991403451083752</id>
+   <published>2014-10-08T15:21:00.003-04:00</published>
+   <updated>2014-10-08T15:21:57.288-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Britain"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
-    <title type="text">Inscripta: An e-learning resource on Romano-British inscriptions</title>
-    <content type="html"><![CDATA[<a href="http://dh.ncl.ac.uk/Inscripta/">Inscripta</a><br
-      /><blockquote><img alt="http://dh.ncl.ac.uk/Inscripta/title_c.png" class="decoded"
-      height="49" src="http://dh.ncl.ac.uk/Inscripta/title_c.png" width="320"
-      /></blockquote><br /><blockquote class="tr_bq"><div
-      class="style2"><span style="font-size: x-small;"><em>Inscripta</em> is an
-      e-learning resource aimed at teaching students to transcribe, transliterate and translate
-      Romano-British inscriptions. The website provides an introduction to, and an online seminar on,
-      about fifty Latin inscriptions, using examples from the collection held in the Great North
-      Museum, Newcastle upon Tyne. The information on each inscription features an image, the Latin
-      text, an English translation, audio files with the recordings of Latin and English texts, some
-      general information on the chronology and archaeological context, and – as appropriate – some
-      general comment on the historical significance of the inscription. The material is broadly
-      divided into three categories: building inscriptions, altars, and tombstones. The material is
-      ordered according to difficulty and the seminar ends with the discussion of some problematic
-      case-studies from each category.&nbsp;</span></div><div
-      class="style2"><br /></div><div class="style2"><span style="font-size:
-      x-small;">This website has been constructed by Glyn Goodrick, Lindsay Allason-Jones and
-      Federico Santangelo at the Centre for Interdisciplinary Artefact Studies, School of Historical
-      Studies, Newcastle University, with funding from Classics in the Higher Education Academy
-      Subject Centre.&nbsp;</span></div><div class="style2"><br
-      /></div><div class="style2"><span style="font-size:
-      x-small;"><strong>INSTRUCTIONS</strong></span></div><div
-      class="style2"><br /></div><div class="style2"><span style="font-size:
-      x-small;">To use Inscripta: click on a category in the left panel
-      [below].</span></div><div class="style2"><br /></div><div
-      class="style2"><span style="font-size: x-small;">The inscriptions in each category are
-      arranged in order of difficulty. Click on the RIB number under each thumbnail image in the top
-      bar to reveal the text and a larger image.</span></div><div
-      class="style2"><br /></div><div class="style2"><span style="font-size:
-      x-small;">If you wish to see the Latin text with the missing letters in brackets, run your
-      cursor over the Latin text. You may find you can’t get the brackets if there are restrictions
-      on your computer. Check the tool bar for ‘Click for options’ and then click on ‘Allow Blocked
-      Content’. Whether you can hear the voice-over will also depend on your
-      computer.</span></div><div class="style2"><br /></div><div
-      class="style2"><span style="font-size: x-small;">To translate the text, click
-      on<u> Translate </u>and write your translation in the blank box. When you are happy
-      with your efforts, click on <u>Submit</u> and the correct translation will appear
-      on the right.</span></div><span style="font-size: x-small;">Further
-      information about inscriptions is available by clicking on the headings in the left
-      panel.</span> </blockquote><blockquote class="tr_bq"><div
-      style="text-align: left;"><span style="font-size: x-small;"><span
-      class="style1"><span class="style2"><a
-      href="http://dh.ncl.ac.uk/Inscripta/intro.html"
-      target="mycontent">Introduction</a></span></span></span></div><div
-      style="text-align: left;"><span style="font-size: x-small;"><a
-      href="http://dh.ncl.ac.uk/Inscripta/altars.html" target="title">Altars and other <br
-      />Religious Inscriptions<span class="style5"></span></a></span>
-      <span style="font-size: x-small;"><a
-      href="http://dh.ncl.ac.uk/Inscripta/building.html" target="title">Building
-      Inscriptions</a><a href="http://dh.ncl.ac.uk/Inscripta/building.html"
-      target="title"><span class="style5"></span><br /></a><a
-      href="http://dh.ncl.ac.uk/Inscripta/tombstones.html" target="title">Tombstones<span
-      class="style5"></span></a><a
-      href="http://dh.ncl.ac.uk/Inscripta/tombstones.html" target="title"><br
-      /></a><a href="http://dh.ncl.ac.uk/Inscripta/oddities.html"
-      target="title">Oddities</a></span></div><div style="text-align:
-      left;"><span style="font-size: x-small;"><a
-      href="http://dh.ncl.ac.uk/Inscripta/PublishingInscriptions.html"
-      target="mycontent">Publishing Inscriptions<span
-      class="style5"></span></a><a
-      href="http://dh.ncl.ac.uk/Inscripta/PublishingInscriptions.html" target="mycontent"><br
-      /> </a><a href="http://dh.ncl.ac.uk/Inscripta/Accession.html"
-      target="mycontent">Accession Numbers<span class="style5"></span><br />
-      </a><a href="http://dh.ncl.ac.uk/Inscripta/names.html" target="mycontent">Roman
-      Names<span class="style5"></span><br /></a><a
-      href="http://dh.ncl.ac.uk/Inscripta/glossary.html"
-      target="mycontent">Glossary</a></span></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Britain"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <title type="text">Inscripta: An e-learning resource on Romano-British inscriptions</title>
+   <content type="html"><![CDATA[<a href="http://dh.ncl.ac.uk/Inscripta/">Inscripta</a><br /><blockquote><img alt="http://dh.ncl.ac.uk/Inscripta/title_c.png" class="decoded" height="49" src="http://dh.ncl.ac.uk/Inscripta/title_c.png" width="320" /></blockquote><br /><blockquote class="tr_bq"><div class="style2"><span style="font-size: x-small;"><em>Inscripta</em> is an e-learning resource aimed at  teaching  students to transcribe, transliterate and translate  Romano-British inscriptions.  The website provides an introduction  to,  and an  online seminar on, about fifty Latin  inscriptions, using  examples from the collection held in the Great North Museum, Newcastle  upon Tyne. The information on each inscription features an image, the  Latin  text, an English translation, audio files with the recordings of  Latin and  English texts, some general information on the chronology and  archaeological  context, and – as appropriate – some general comment on  the historical  significance of the inscription. The material is  broadly divided into three categories: building inscriptions, altars,   and tombstones. The material is ordered according to difficulty and the  seminar ends with the discussion of some problematic  case-studies from  each category.&nbsp;</span></div><div class="style2"><br /></div><div class="style2"><span style="font-size: x-small;">This website has been constructed by Glyn Goodrick,  Lindsay Allason-Jones and Federico Santangelo at the Centre for  Interdisciplinary Artefact Studies, School of Historical Studies,  Newcastle University, with funding from Classics in the Higher Education  Academy Subject Centre.&nbsp;</span></div><div class="style2"><br /></div><div class="style2"><span style="font-size: x-small;"><strong>INSTRUCTIONS</strong></span></div><div class="style2"><br /></div><div class="style2"><span style="font-size: x-small;">To use Inscripta: click on a category in the left panel [below].</span></div><div class="style2"><br /></div><div class="style2"><span style="font-size: x-small;">The inscriptions in each category are arranged in  order of  difficulty. Click on the RIB number under each thumbnail image  in the top bar  to reveal the text and a larger image.</span></div><div class="style2"><br /></div><div class="style2"><span style="font-size: x-small;">If you wish to see the Latin text with the missing  letters  in brackets, run your cursor over the Latin text. You may find  you can’t get  the brackets if there are restrictions on your computer.  Check the tool bar for  ‘Click for options’ and then click on ‘Allow  Blocked Content’. Whether you can  hear the voice-over will also depend  on your computer.</span></div><div class="style2"><br /></div><div class="style2"><span style="font-size: x-small;">To translate the text, click on<u> Translate </u>and write  your translation in the blank box. When you are happy with your efforts, click  on <u>Submit</u> and the correct translation will appear on the right.</span></div><span style="font-size: x-small;">Further information about inscriptions is available by  clicking on the headings in the left panel.</span> </blockquote><blockquote class="tr_bq"><div style="text-align: left;"><span style="font-size: x-small;"><span class="style1"><span class="style2"><a href="http://dh.ncl.ac.uk/Inscripta/intro.html" target="mycontent">Introduction</a></span></span></span></div><div style="text-align: left;"><span style="font-size: x-small;"><a href="http://dh.ncl.ac.uk/Inscripta/altars.html" target="title">Altars and other <br />Religious Inscriptions<span class="style5"></span></a></span>  <span style="font-size: x-small;"><a href="http://dh.ncl.ac.uk/Inscripta/building.html" target="title">Building Inscriptions</a><a href="http://dh.ncl.ac.uk/Inscripta/building.html" target="title"><span class="style5"></span><br /></a><a href="http://dh.ncl.ac.uk/Inscripta/tombstones.html" target="title">Tombstones<span class="style5"></span></a><a href="http://dh.ncl.ac.uk/Inscripta/tombstones.html" target="title"><br /></a><a href="http://dh.ncl.ac.uk/Inscripta/oddities.html" target="title">Oddities</a></span></div><div style="text-align: left;"><span style="font-size: x-small;"><a href="http://dh.ncl.ac.uk/Inscripta/PublishingInscriptions.html" target="mycontent">Publishing Inscriptions<span class="style5"></span></a><a href="http://dh.ncl.ac.uk/Inscripta/PublishingInscriptions.html" target="mycontent"><br />  </a><a href="http://dh.ncl.ac.uk/Inscripta/Accession.html" target="mycontent">Accession Numbers<span class="style5"></span><br />  </a><a href="http://dh.ncl.ac.uk/Inscripta/names.html" target="mycontent">Roman Names<span class="style5"></span><br /></a><a href="http://dh.ncl.ac.uk/Inscripta/glossary.html" target="mycontent">Glossary</a></span></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/526991403451083752/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/526991403451083752/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/inscripta-e-learning-resource-on-romano.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/526991403451083752"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/526991403451083752"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/inscripta-e-learning-resource-on-romano.html"
          title="Inscripta: An e-learning resource on Romano-British inscriptions"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

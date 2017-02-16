@@ -1,141 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6966703521915013390</id>
-    <published>2014-03-10T11:27:00.000-04:00</published>
-    <updated>2014-03-10T11:27:43.581-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6966703521915013390</id>
+   <published>2014-03-10T11:27:00.000-04:00</published>
+   <updated>2014-03-10T11:27:43.581-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Art History"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
-    <title type="text">Newly Open Access Journal: RAMAGE: Revue d'anthropologie de l'art</title>
-    <content type="html"><![CDATA[<a href="http://anthropologiedelart.org/ramage/">RAMAGE: Revue
-      d'anthropologie de l'art</a><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;">Éditée par le <a
-      href="http://anthropologiedelart.org/centrage/">Centre d’Archéologie Générale</a>,
-      cette revue poursuit, dans la ligne des articles de <em>RAMAGE</em>, le traité
-      complet d’une archéologie et d’une histoire de l’art radicalement refondées. Parce qu’elle s’en
-      trouve aujourd’hui dépourvue, on propose ici d’assigner à l’archéologie un objet qui ne peut
-      être que les produits de la conduite outillée l’art au sens latin du terme, non par passéisme,
-      mais parce que de tous les aspects de l’humain, l’homme technicien seul n’a pas vraiment trouvé
-      preneur universitaire et qu’elle est la plus apte à s’en charger, pour un bel avenir dans le
-      développement des sciences de la culture. La revue a été fondée par P.-Y. Balut et Ph. Bruneau
-      en&nbsp; 1982. Elle paraît sous forme numérique, depuis
-      2012.</span></blockquote><div id="navigation"><blockquote> <ul
-      id="nav"><li class="page_item page-item-57 current_page_item"><span
-      style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage"
-      title="Présentation">Présentation</a></span></li><li class="page_item
-      page-item-329"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=329" title="RAMAGE – série en
-      ligne">RAMAGE – série en ligne</a></span><ul><li class="page_item
-      page-item-159"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=159"
-      title="Sommaire">Sommaire</a></span> <ul><li class="page_item
-      page-item-220"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=220"
-      title="Résumés">Résumés</a></span> <ul><li class="page_item
-      page-item-246"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=246" title="Benoit Dercy">Benoit
-      Dercy</a></span></li><li class="page_item page-item-249"><span
-      style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=249"
-      title="Lorenzo Medini">Lorenzo Medini</a></span></li><li
-      class="page_item page-item-251"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=251" title="Anastasia
-      Painesi">Anastasia Painesi</a></span></li><li class="page_item
-      page-item-254"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=254" title="Sylvain Perrot">Sylvain
-      Perrot</a></span></li></ul></li><li class="page_item
-      page-item-104"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=104" title="Présentation des
-      auteurs">Présentation des auteurs</a></span> <ul><li class="page_item
-      page-item-286"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=286" title="Mathilde Couronné">Mathilde
-      Couronné</a></span></li><li class="page_item page-item-275"><span
-      style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=275"
-      title="Benoit Dercy">Benoit Dercy</a></span></li><li class="page_item
-      page-item-260"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=260" title="Lorenzo Medini">Lorenzo
-      Medini</a></span></li><li class="page_item page-item-237"><span
-      style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=237"
-      title="Anastasia Painesi">Anastasia Painesi</a></span></li><li
-      class="page_item page-item-282"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=282" title="Sylvain Perrot">Sylvain
-      Perrot</a></span></li></ul></li></ul></li><li
-      class="page_item page-item-360"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=360" title="Editorial – RAMAGE, le retour
-      !">Editorial – RAMAGE, le retour !</a></span></li><li class="page_item
-      page-item-475"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=475" title="Le tatouage">Le
-      tatouage</a></span></li><li class="page_item page-item-393"><span
-      style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=393"
-      title="Les disparus de l’archéologie">Les disparus de
-      l’archéologie</a></span></li><li class="page_item
-      page-item-396"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=396" title="L’antiquité à l’épreuve du
-      disparu">L’antiquité à l’épreuve du disparu</a></span></li><li
-      class="page_item page-item-401"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=401" title="Archéologie du disparu et
-      période moderne">Archéologie du disparu et période
-      moderne</a></span></li><li class="page_item page-item-404"><span
-      style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=404"
-      title="A la recherche du cuir disparu : le tan retrouvé">A la recherche du cuir disparu : le
-      tan retrouvé</a></span></li><li class="page_item
-      page-item-452"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=452" title="Hermopolis
-      gréco-romaine">Hermopolis gréco-romaine</a></span></li><li
-      class="page_item page-item-410"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=410" title="La peinture grecque
-      disparue">La peinture grecque disparue</a></span></li><li
-      class="page_item page-item-414"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=414" title="La musique antique et le
-      disparu">La musique antique et le disparu</a></span></li><li
-      class="page_item page-item-460"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=460" title="D’une géographie du disparu à
-      une archéologie du paysage">D’une géographie du disparu à une archéologie du
-      paysage</a></span></li><li class="page_item page-item-441"><span
-      style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=441"
-      title="Compte-rendu">Compte-rendu</a></span></li></ul></li><li
-      class="page_item page-item-27"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=27" title="Archives – Fascicules en texte
-      intégral">Archives – Fascicules en texte intégral</a></span><ul><li
-      class="page_item page-item-297"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=297" title="RAMAGE 1 (1982)
-      Sommaire">RAMAGE 1 (1982)
-      Sommaire</a></span></li></ul></li><li class="page_item
-      page-item-86"><span style="font-size: x-small;"><a
-      href="http://anthropologiedelart.org/ramage/?page_id=86"
-      title="Pratique">Pratique</a></span></li></ul></blockquote><div
-      style="text-align: center;"><span style="font-size:
-      small;"><span><span><span><span>See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span></span></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Art History"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
+   <title type="text">Newly Open Access Journal: RAMAGE: Revue d'anthropologie de l'art</title>
+   <content type="html"><![CDATA[<a href="http://anthropologiedelart.org/ramage/">RAMAGE: Revue d'anthropologie de l'art</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Éditée par le <a href="http://anthropologiedelart.org/centrage/">Centre d’Archéologie Générale</a>, cette revue poursuit, dans la ligne des articles de <em>RAMAGE</em>,  le traité complet d’une archéologie et d’une histoire de l’art  radicalement refondées. Parce qu’elle s’en trouve aujourd’hui dépourvue,  on propose ici d’assigner à l’archéologie un objet qui ne peut être que  les produits de la conduite outillée l’art au sens latin du terme, non  par passéisme, mais parce que de tous les aspects de l’humain, l’homme  technicien seul n’a pas vraiment trouvé preneur universitaire et qu’elle  est la plus apte à s’en charger, pour un bel avenir dans le  développement des sciences de la culture. La revue a été fondée par  P.-Y. Balut et Ph. Bruneau en&nbsp; 1982. Elle paraît sous forme numérique,   depuis 2012.</span></blockquote><div id="navigation"><blockquote>        <ul id="nav"><li class="page_item page-item-57 current_page_item"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage" title="Présentation">Présentation</a></span></li><li class="page_item page-item-329"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=329" title="RAMAGE – série en ligne">RAMAGE – série en ligne</a></span><ul><li class="page_item page-item-159"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=159" title="Sommaire">Sommaire</a></span> <ul><li class="page_item page-item-220"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=220" title="Résumés">Résumés</a></span>  <ul><li class="page_item page-item-246"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=246" title="Benoit Dercy">Benoit Dercy</a></span></li><li class="page_item page-item-249"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=249" title="Lorenzo Medini">Lorenzo Medini</a></span></li><li class="page_item page-item-251"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=251" title="Anastasia Painesi">Anastasia Painesi</a></span></li><li class="page_item page-item-254"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=254" title="Sylvain Perrot">Sylvain Perrot</a></span></li></ul></li><li class="page_item page-item-104"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=104" title="Présentation des auteurs">Présentation des auteurs</a></span>  <ul><li class="page_item page-item-286"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=286" title="Mathilde Couronné">Mathilde Couronné</a></span></li><li class="page_item page-item-275"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=275" title="Benoit Dercy">Benoit Dercy</a></span></li><li class="page_item page-item-260"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=260" title="Lorenzo Medini">Lorenzo Medini</a></span></li><li class="page_item page-item-237"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=237" title="Anastasia Painesi">Anastasia Painesi</a></span></li><li class="page_item page-item-282"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=282" title="Sylvain Perrot">Sylvain Perrot</a></span></li></ul></li></ul></li><li class="page_item page-item-360"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=360" title="Editorial – RAMAGE, le retour !">Editorial – RAMAGE, le retour !</a></span></li><li class="page_item page-item-475"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=475" title="Le tatouage">Le tatouage</a></span></li><li class="page_item page-item-393"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=393" title="Les disparus de l’archéologie">Les disparus de l’archéologie</a></span></li><li class="page_item page-item-396"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=396" title="L’antiquité à l’épreuve du disparu">L’antiquité à l’épreuve du disparu</a></span></li><li class="page_item page-item-401"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=401" title="Archéologie du disparu et période moderne">Archéologie du disparu et période moderne</a></span></li><li class="page_item page-item-404"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=404" title="A la recherche du cuir disparu : le tan retrouvé">A la recherche du cuir disparu : le tan retrouvé</a></span></li><li class="page_item page-item-452"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=452" title="Hermopolis gréco-romaine">Hermopolis gréco-romaine</a></span></li><li class="page_item page-item-410"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=410" title="La peinture grecque disparue">La peinture grecque disparue</a></span></li><li class="page_item page-item-414"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=414" title="La musique antique et le disparu">La musique antique et le disparu</a></span></li><li class="page_item page-item-460"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=460" title="D’une géographie du disparu à une archéologie du paysage">D’une géographie du disparu à une archéologie du paysage</a></span></li><li class="page_item page-item-441"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=441" title="Compte-rendu">Compte-rendu</a></span></li></ul></li><li class="page_item page-item-27"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=27" title="Archives – Fascicules en texte intégral">Archives – Fascicules en texte intégral</a></span><ul><li class="page_item page-item-297"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=297" title="RAMAGE 1 (1982) Sommaire">RAMAGE 1 (1982) Sommaire</a></span></li></ul></li><li class="page_item page-item-86"><span style="font-size: x-small;"><a href="http://anthropologiedelart.org/ramage/?page_id=86" title="Pratique">Pratique</a></span></li></ul></blockquote><div style="text-align: center;"><span style="font-size: small;"><span><span><span><span>See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6966703521915013390/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6966703521915013390/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/newly-open-access-journal-ramage-revue.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6966703521915013390"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6966703521915013390"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/newly-open-access-journal-ramage-revue.html"
          title="Newly Open Access Journal: RAMAGE: Revue d'anthropologie de l'art"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

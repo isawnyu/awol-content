@@ -1,133 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-986504376489875142</id>
-    <published>2013-08-05T08:07:00.004-04:00</published>
-    <updated>2013-08-05T08:07:54.777-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-986504376489875142</id>
+   <published>2013-08-05T08:07:00.004-04:00</published>
+   <updated>2013-08-05T08:07:54.777-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
-    <title type="text">Documentation for biblical literature Innsbruck (BILDI)</title>
-    <content type="html"><![CDATA[<a href="http://www.uibk.ac.at/bildi/"><span style="font-size:
-      x-small;">Documentation for biblical literature Innsbruck
-      (BILDI)</span></a><br /><span style="font-size: x-small;"><br
-      /></span><div style="text-align: center;"><span style="font-size:
-      x-small;"><strong>Welcome<br
-      />to</strong></span></div><span style="font-size:
-      x-small;"></span><div style="text-align: center;"><span style="font-size:
-      x-small;"><strong><img alt="bildi.jpg" border="0"
-      src="http://www.uibk.ac.at/bildi/img/bildi.jpg" /><br /><br />Documentation for
-      biblical literature Innsbruck<br /></strong><a
-      href="http://www.uibk.ac.at/bibhist/" target="_blank" title="Department for Biblical Studies
-      and Historical Theology"><strong>Department for Biblical Studies and Historical
-      Theology</strong></a><br /><a href="http://www.uibk.ac.at/theol/"
-      target="_blank" title="Faculty for Cartholic Theology"><strong>Faculty for Cartholic
-      Theology</strong></a><br /><a
-      href="http://www.uibk.ac.at/index.html.en"><strong>University
-      Innsbruck</strong></a><br /><br /><strong>Austria /
-      Europe</strong></span></div><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><strong>Aim<br /></strong></span><br
-      /> <span style="font-size: x-small;"><img alt="" border="0" height="15"
-      src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png" width="10" /> Search of biblical
-      and biblical-archaeological literature</span><br /> <span style="font-size:
-      x-small;"><strong><br />Content<br /></strong></span><br
-      /> <span style="font-size: x-small;"><img alt="" border="0" height="15"
-      src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png" width="10" />Classified
-      documentation on biblical and biblical-archaeological literature, published in articles,
-      collected works and monographs; since 1990 partly with references to book
-      reviews</span><br /> <span style="font-size: x-small;"><img alt=""
-      border="0" height="15" src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png" width="10"
-      />Base of recording of<strong>articles</strong>: approximately 90 complete and
-      approximately 540 relevant annuals and periodicals (see <a
-      href="http://www.uibk.ac.at/bildi/bildi/info/journal-lists.html.en"
-      title="Journal-lists"><strong>list of periodicals</strong></a>) of the
-      <a href="http://www.uibk.ac.at/ulb/" target="_blank">University Library of
-      Innsbruck</a> and the <a
-      href="http://www.jesuitenkolleg-innsbruck.at/bildung/bibliothek.shtml"
-      target="_blank">Jesuit Library Innsbruck</a>; completed by titles of the <a
-      href="http://opac.ub.uni-tuebingen.de/neuerwZID.htm" target="_blank">ZID</a>
-      (theological periodicals of the University Library Tuebingen)</span><br /> <span
-      style="font-size: x-small;"><img alt="" border="0" height="15"
-      src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png" width="10" />Base of recording of
-      articles of <strong>collected works</strong> and
-      <strong>Festschriften</strong>: acquisitions of the <a
-      href="http://www.uibk.ac.at/c108/fachbib/fth.html" target="_blank">Theological
-      Library</a> of the University Innsbruck (<a
-      href="http://www.uibk.ac.at/ulb/literatur_suchen/" target="_blank">search portal</a>);
-      off-prints of authors</span><br /> <span style="font-size: x-small;"><img
-      alt="" border="0" height="15" src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png"
-      width="10" />Base of recording of <strong>monographs</strong>: acquisitation of
-      the <a href="http://www.uibk.ac.at/c108/fachbib/fth.html" target="_blank">Theological
-      Library</a> of the University Innsbruck(<a href="http://aleph.uibk.ac.at:4505/ALEPH"
-      target="_blank"><strong>ALEPH</strong></a>); submissions of authors and
-      publishers</span><br /> <span style="font-size: x-small;"><img alt=""
-      border="0" height="15" src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png" width="10"
-      />Base of recording of hints to <strong>book reviews</strong>: data meterial of
-      the Biblical Institute in Rome</span><br /> <span style="font-size:
-      x-small;"><img alt="" border="0" height="15"
-      src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png" width="10"
-      /><strong>Period</strong> and <strong>media</strong> of recording :
-      card-catalogue (1980-1984), since 1985 computerized. Recording and computerization of
-      card-titles in work</span></blockquote><ul class="menue1 no_print"><li
-      class="menue level1"><ul class="menue2"><li class="menue level2"><dfn
-      class="invisible"></dfn><div class="aktiv"><span style="font-size:
-      x-small;"><a class="level2"
-      href="http://www.uibk.ac.at/bildi/bildi/info/index.html.en">Info</a></span></div></li><li
-      class="menue level2"><span style="font-size: x-small;"><dfn
-      class="invisible">3.3: </dfn><a class="level2"
-      href="http://www.uibk.ac.at/bildi/bildi/search/index.html.en">BILDI-Search</a></span></li><li
-      class="menue level2"><span style="font-size: x-small;"><dfn
-      class="invisible">3.4: </dfn><a class="level2"
-      href="http://www.uibk.ac.at/bildi/bildi/help/index.html.en">Help</a></span></li><li
-      class="menue level2"><span style="font-size: x-small;"><dfn
-      class="invisible">3.5: </dfn><a class="level2"
-      href="http://www.uibk.ac.at/bildi/bildi/thes/index.html.en">Thesaurus</a></span></li><li
-      class="menue level2"><span style="font-size: x-small;"><dfn
-      class="invisible">3.6: </dfn><a class="level2"
-      href="http://www.uibk.ac.at/bildi/bildi/news/index.html.en">News</a></span></li><li
-      class="menue level2"><span style="font-size: x-small;"><dfn
-      class="invisible">3.7: </dfn><a class="level2"
-      href="http://www.uibk.ac.at/bildi/bildi/info/info05.html">Staff</a></span></li><li
-      class="menue level2"><span style="font-size: x-small;"><dfn
-      class="invisible">3.8: </dfn><a class="level2"
-      href="http://www.univie.ac.at/anabideut/content/site/en/search/index.html">Deuteronomy-Bibliography
-      (SD)</a></span></li><li class="menue level2"><span style="font-size:
-      x-small;"><dfn class="invisible">3.9: </dfn><a class="level2"
-      href="http://www.uibk.ac.at/bildi/herrenmahl/index.html">Herrenmahl und Gruppenidentität
-      (SD)</a></span></li><li class="menue level2"><span style="font-size:
-      x-small;"><dfn class="invisible">3.10: </dfn><a class="level2"
-      href="http://www.uibk.ac.at/bildi/tier/index.html">Plants and animals in the Bible
-      (SD)</a></span></li><li class="menue level2"><span style="font-size:
-      x-small;"><dfn class="invisible">3.11: </dfn><a class="level2"
-      href="http://www.uibk.ac.at/bildi/bildi/info/journal-lists.html.en">Journal-lists</a></span></li></ul></li></ul><div
-      style="text-align: center;"><br /></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
+   <title type="text">Documentation for biblical literature Innsbruck (BILDI)</title>
+   <content type="html"><![CDATA[<a href="http://www.uibk.ac.at/bildi/"><span style="font-size: x-small;">Documentation for biblical literature Innsbruck (BILDI)</span></a><br /><span style="font-size: x-small;"><br /></span><div style="text-align: center;"><span style="font-size: x-small;"><strong>Welcome<br />to</strong></span></div><span style="font-size: x-small;"></span><div style="text-align: center;"><span style="font-size: x-small;"><strong><img alt="bildi.jpg" border="0" src="http://www.uibk.ac.at/bildi/img/bildi.jpg" /><br /><br />Documentation for biblical literature Innsbruck<br /></strong><a href="http://www.uibk.ac.at/bibhist/" target="_blank" title="Department for Biblical Studies and Historical Theology"><strong>Department for Biblical Studies and Historical Theology</strong></a><br /><a href="http://www.uibk.ac.at/theol/" target="_blank" title="Faculty for Cartholic Theology"><strong>Faculty for Cartholic Theology</strong></a><br /><a href="http://www.uibk.ac.at/index.html.en"><strong>University Innsbruck</strong></a><br /><br /><strong>Austria / Europe</strong></span></div><blockquote class="tr_bq"><span style="font-size: x-small;"><strong>Aim<br /></strong></span><br /> <span style="font-size: x-small;"><img alt="" border="0" height="15" src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png" width="10" /> Search of biblical and biblical-archaeological literature</span><br /> <span style="font-size: x-small;"><strong><br />Content<br /></strong></span><br /> <span style="font-size: x-small;"><img alt="" border="0" height="15" src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png" width="10" />Classified  documentation on biblical and biblical-archaeological literature,  published in articles, collected works and monographs; since 1990 partly  with references to book reviews</span><br /> <span style="font-size: x-small;"><img alt="" border="0" height="15" src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png" width="10" />Base of recording of<strong>articles</strong>: approximately 90 complete and approximately 540 relevant annuals and periodicals (see <a href="http://www.uibk.ac.at/bildi/bildi/info/journal-lists.html.en" title="Journal-lists"><strong>list of periodicals</strong></a>) of the <a href="http://www.uibk.ac.at/ulb/" target="_blank">University Library of Innsbruck</a> and the <a href="http://www.jesuitenkolleg-innsbruck.at/bildung/bibliothek.shtml" target="_blank">Jesuit Library Innsbruck</a>; completed by titles of the <a href="http://opac.ub.uni-tuebingen.de/neuerwZID.htm" target="_blank">ZID</a> (theological periodicals of the University Library Tuebingen)</span><br /> <span style="font-size: x-small;"><img alt="" border="0" height="15" src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png" width="10" />Base of recording of articles of <strong>collected works</strong> and <strong>Festschriften</strong>: acquisitions of the <a href="http://www.uibk.ac.at/c108/fachbib/fth.html" target="_blank">Theological Library</a> of the University Innsbruck (<a href="http://www.uibk.ac.at/ulb/literatur_suchen/" target="_blank">search portal</a>); off-prints of authors</span><br /> <span style="font-size: x-small;"><img alt="" border="0" height="15" src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png" width="10" />Base of recording of <strong>monographs</strong>: acquisitation of the <a href="http://www.uibk.ac.at/c108/fachbib/fth.html" target="_blank">Theological Library</a> of the University Innsbruck(<a href="http://aleph.uibk.ac.at:4505/ALEPH" target="_blank"><strong>ALEPH</strong></a>); submissions of authors and publishers</span><br /> <span style="font-size: x-small;"><img alt="" border="0" height="15" src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png" width="10" />Base of recording of hints to <strong>book reviews</strong>: data meterial of the Biblical Institute in Rome</span><br /> <span style="font-size: x-small;"><img alt="" border="0" height="15" src="http://www.uibk.ac.at/images/10x15/bildi/img/dot.png" width="10" /><strong>Period</strong> and <strong>media</strong> of recording : card-catalogue (1980-1984), since 1985 computerized. Recording and computerization of card-titles in work</span></blockquote><ul class="menue1 no_print"><li class="menue level1"><ul class="menue2"><li class="menue level2"><dfn class="invisible"></dfn><div class="aktiv"><span style="font-size: x-small;"><a class="level2" href="http://www.uibk.ac.at/bildi/bildi/info/index.html.en">Info</a></span></div></li><li class="menue level2"><span style="font-size: x-small;"><dfn class="invisible">3.3: </dfn><a class="level2" href="http://www.uibk.ac.at/bildi/bildi/search/index.html.en">BILDI-Search</a></span></li><li class="menue level2"><span style="font-size: x-small;"><dfn class="invisible">3.4: </dfn><a class="level2" href="http://www.uibk.ac.at/bildi/bildi/help/index.html.en">Help</a></span></li><li class="menue level2"><span style="font-size: x-small;"><dfn class="invisible">3.5: </dfn><a class="level2" href="http://www.uibk.ac.at/bildi/bildi/thes/index.html.en">Thesaurus</a></span></li><li class="menue level2"><span style="font-size: x-small;"><dfn class="invisible">3.6: </dfn><a class="level2" href="http://www.uibk.ac.at/bildi/bildi/news/index.html.en">News</a></span></li><li class="menue level2"><span style="font-size: x-small;"><dfn class="invisible">3.7: </dfn><a class="level2" href="http://www.uibk.ac.at/bildi/bildi/info/info05.html">Staff</a></span></li><li class="menue level2"><span style="font-size: x-small;"><dfn class="invisible">3.8: </dfn><a class="level2" href="http://www.univie.ac.at/anabideut/content/site/en/search/index.html">Deuteronomy-Bibliography (SD)</a></span></li><li class="menue level2"><span style="font-size: x-small;"><dfn class="invisible">3.9: </dfn><a class="level2" href="http://www.uibk.ac.at/bildi/herrenmahl/index.html">Herrenmahl und Gruppenidentität (SD)</a></span></li><li class="menue level2"><span style="font-size: x-small;"><dfn class="invisible">3.10: </dfn><a class="level2" href="http://www.uibk.ac.at/bildi/tier/index.html">Plants and animals in the Bible (SD)</a></span></li><li class="menue level2"><span style="font-size: x-small;"><dfn class="invisible">3.11: </dfn><a class="level2" href="http://www.uibk.ac.at/bildi/bildi/info/journal-lists.html.en">Journal-lists</a></span></li></ul></li></ul><div style="text-align: center;"><br /></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/986504376489875142/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/986504376489875142/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/08/documentation-for-biblical-literature.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/986504376489875142"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/986504376489875142"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/08/documentation-for-biblical-literature.html"
          title="Documentation for biblical literature Innsbruck (BILDI)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

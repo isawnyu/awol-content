@@ -1,99 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5478402502606200722</id>
-    <published>2013-03-07T19:43:00.000-05:00</published>
-    <updated>2013-03-07T19:43:58.125-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5478402502606200722</id>
+   <published>2016-07-01T03:58:00.000-04:00</published>
+   <updated>2016-07-01T03:59:13.274-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Archives Ouvertes de l'Institut français du Proche-Orient</title>
-    <content type="html"><![CDATA[<a href="http://halshs.archives-ouvertes.fr/IFPO/">Archives Ouvertes
-      de l'Institut français du Proche-Orient</a><br /><blockquote
-      class="tr_bq"><img
-      alt="http://static.archives-ouvertes.fr/images/LogoIfpo2011-halshs3.png" class="decoded"
-      src="http://static.archives-ouvertes.fr/images/LogoIfpo2011-halshs3.png" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">L'<a href="http://www.ifporient.org/">Institut français du
-      Proche-Orient</a> (Ifpo) sert aujourd'hui, dans toutes les disciplines des sciences
-      humaines et sociales, de l'Antiquité jusqu'à nos jours, la connaissance du Proche-Orient en
-      général et celle de la Syrie, du Liban, de la Jordanie, des Territoires palestiniens et de
-      l'Irak en particulier.</span><br /><span style="font-size: x-small;">Fort de
-      ses trois départements scientifiques (Études contemporaines, Études médiévales, arabes et
-      modernes, Archéologie et histoire de l'antiquité), l'Ifpo développe aujourd'hui, dans un
-      spectre scientifique très large, des partenariats grâce auxquels ses chercheurs entendent, avec
-      les sociétés dont ils sont les hôtes, comme avec le reste de la communauté scientifique,
-      construire ensemble des savoirs scientifiques partagés.</span><br /><span
-      style="font-size: x-small;">De la mise en <a
-      href="http://fr.wikipedia.org/wiki/Acc%C3%A8s_ouvert">libre accès</a> sur le site
-      <a href="http://halshs.archives-ouvertes.fr/">Hal-SHS</a> des travaux de ses
-      chercheurs l'Ifpo attend notamment un accroissement de leur visibilité régionale et
-      internationale : la diffusion aussi systématique que possible de résumés (ou d'articles) en
-      langue anglaise, mais également en langue arabe, (désormais acceptée sur cette archive ouverte)
-      doit permettre à l'institut d'accroître la « transparence » de ses missions dans son
-      environnement régional et favoriser une interaction plus systématique avec l'ensemble de la
-      communauté scientifique mondiale.</span><br /><span style="font-size:
-      x-small;"><br /></span><span style="font-size: x-small;"><a
-      href="http://www.ifporient.org/">The French Institute for the Near East</a> (Ifpo) is
-      today at the service of all the disciplines of humanities and social sciences, from Antiquity
-      to our times, and at the understanding of the Near East in general and that of Syria, Lebanon,
-      Jordan, the Palestinian territories and Iraq in particular.</span><br /><span
-      style="font-size: x-small;">Strong with its three scientific departments (Contemporary
-      Studies, Medieval and Modern Arab Studies and Archaeology and Ancient History), today Ifpo
-      develops on a large academic spectre, thanks to collaborations by which its researchers are
-      appreciated by the societies that host them, as well as with the rest of the academic
-      community, to collectively build its shared scientific knowledge.</span><br
-      /><span style="font-size: x-small;">By putting up the works of its researchers online
-      and <a href="http://en.wikipedia.org/wiki/Open_access_%28publishing%29">open
-      access</a> on the HAL-SHS website, Ifpo achieves in particular an increase in their
-      regional and international visibility. As much as possible, a systematic diffusion of abstracts
-      (or articles) in English as well as Arabic (henceforth accepted on this open archive) should
-      allow the Institute to augment the ‘transparency’ of its missions in its regional environment
-      and favour a more systematic interaction with the international academic community as a whole.
-      </span></blockquote><div class="onglet" id="halmenu"><blockquote
-      class="tr_bq"><ul class="niveau1"><li class="current"><span style="font-size:
-      x-small;"><a class="niveau2"
-      href="http://halshs.archives-ouvertes.fr/view_by_stamp.php?&amp;halsid=ec59q9n0hf0qgmshs8afjoood7&amp;label=IFPO&amp;langue=fr&amp;action_todo=home"
-      target="_self">Accueil</a></span></li><li><span style="font-size:
-      x-small;"><a class="niveau1"
-      href="http://halshs.archives-ouvertes.fr/view_by_stamp.php?&amp;halsid=ec59q9n0hf0qgmshs8afjoood7&amp;label=IFPO&amp;langue=fr&amp;action_todo=menu&amp;tab=browse">Consultation</a></span>
-      </li><li><span style="font-size: x-small;"><a class="niveau1"
-      href="http://halshs.archives-ouvertes.fr/view_by_stamp.php?&amp;halsid=ec59q9n0hf0qgmshs8afjoood7&amp;label=IFPO&amp;langue=fr&amp;action_todo=menu&amp;tab=search">Recherche</a></span>
-      </li><li><span style="font-size: x-small;"><a class="niveau1"
-      href="http://halshs.archives-ouvertes.fr/view_by_stamp.php?&amp;halsid=ec59q9n0hf0qgmshs8afjoood7&amp;label=IFPO&amp;langue=fr&amp;action_todo=menu&amp;tab=service">Services</a></span>
-      </li><li><span style="font-size: x-small;"><a class="niveau1"
-      href="http://halshs.archives-ouvertes.fr/view_by_stamp.php?&amp;halsid=ec59q9n0hf0qgmshs8afjoood7&amp;label=IFPO&amp;langue=fr&amp;action_todo=menu&amp;tab=link">Liens</a></span>
-      </li></ul></blockquote></div><span
-      class="nb_doc"></span><div style="text-align: center;"><span
-      style="font-size: small;">&nbsp;And see also <a
-      href="http://ancientworldonline.blogspot.com/2011/04/open-access-online-publications-from.html">Open
-      Access Publications from the Institut français du
-      Proche-Orient</a></span></div>]]></content>
-    <link rel="replies"
+   <title type="text">Archives Ouvertes de l'Institut français du Proche-Orient</title>
+   <content type="html"><![CDATA[<a href="http://halshs.archives-ouvertes.fr/IFPO/">Archives Ouvertes de l'Institut français du Proche-Orient</a><br /><blockquote class="tr_bq"><img alt="Archives ouvertes de l'Ifpo" height="70" src="https://halshs.archives-ouvertes.fr/IFPO/public/LogoIfpo2011-halshs3.png" width="334" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">L'<a href="http://www.ifporient.org/">Institut français du Proche-Orient</a> (Ifpo) sert aujourd'hui, dans toutes les disciplines des sciences  humaines et sociales, de l'Antiquité jusqu'à nos jours, la connaissance  du Proche-Orient en général et celle de la Syrie, du Liban, de la  Jordanie, des Territoires palestiniens et de l'Irak en particulier. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">  Fort de ses trois départements scientifiques (Études contemporaines,  Études médiévales, arabes et modernes, Archéologie et histoire de  l'antiquité), l'Ifpo développe aujourd'hui, dans un spectre scientifique  très large, des partenariats grâce auxquels ses chercheurs entendent,  avec les sociétés dont ils sont les hôtes, comme avec le reste de la  communauté scientifique, construire ensemble des savoirs scientifiques  partagés. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"> De la mise en <a href="http://fr.wikipedia.org/wiki/Acc%C3%A8s_ouvert">libre accès</a> sur le site <a href="http://halshs.archives-ouvertes.fr/">Hal-SHS</a> des travaux de ses chercheurs l'Ifpo attend notamment un accroissement  de leur visibilité régionale et internationale : la diffusion aussi  systématique que possible de résumés (ou d'articles) en langue anglaise,  mais également en langue arabe, (désormais acceptée sur cette archive  ouverte) doit permettre à l'institut d'accroître la « transparence » de  ses missions dans son environnement régional et favoriser une  interaction plus systématique avec l'ensemble de la communauté  scientifique mondiale. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><a href="http://www.ifporient.org/">The French Institute for the Near East</a> (Ifpo) is today at the service of all the disciplines of humanities and  social sciences, from Antiquity to our times, and at the understanding  of the Near East in general and that of Syria, Lebanon, Jordan, the  Palestinian territories and Iraq in particular.&nbsp;</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"> Strong with its  three scientific departments (Contemporary Studies, Medieval and Modern  Arab Studies and Archaeology and Ancient History), today Ifpo develops  on a large academic spectre, thanks to collaborations by which its  researchers are appreciated by the societies that host them, as well as  with the rest of the academic community, to collectively build its  shared scientific knowledge.&nbsp;</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"> By putting up the works of its researchers online and <a href="http://en.wikipedia.org/wiki/Open_access_%28publishing%29">open access</a> on the HAL-SHS website, Ifpo achieves in particular an increase in  their regional and international visibility. As much as possible, a  systematic diffusion of abstracts (or articles) in English as well as  Arabic (henceforth accepted on this open archive) should allow the  Institute to augment the ‘transparency’ of its missions in its regional  environment and favour a more systematic interaction with the  international academic community as a whole.</span></blockquote><div class="onglet" id="halmenu"><blockquote class="tr_bq"><ul class="niveau1"></ul><div class="sidebar-nav" id="global-navigation">    <ul class="nav nav-tabs"><li class="active"><span style="font-size: x-small;"><a href="https://halshs.archives-ouvertes.fr/IFPO/" target="">Accueil</a></span></li><li class="dropdown ">            <span style="font-size: x-small;"><a class="dropdown-toggle" data-toggle="dropdown" href="https://halshs.archives-ouvertes.fr/IFPO/folder/list19">Consultation</a></span>                 </li><li class=""><span style="font-size: x-small;"><a href="https://halshs.archives-ouvertes.fr/IFPO/search/index" target="">Rechercher</a></span></li><li class=""><span style="font-size: x-small;"><a href="http://halshs.archives-ouvertes.fr/index.php?halsid=gm92ama767739upi08ckk283l6&amp;action_todo=login" target="">S'authentifier</a></span></li><li class="dropdown "><span style="font-size: x-small;">            <a class="dropdown-toggle" data-toggle="dropdown" href="https://halshs.archives-ouvertes.fr/IFPO/folder/list20">Liens</a></span>                 </li></ul></div><ul class="niveau1"></ul></blockquote></div><span class="nb_doc"></span><br /><div style="text-align: center;"><span style="font-size: small;">&nbsp;And see also <a href="http://ancientworldonline.blogspot.com/2011/04/open-access-online-publications-from.html">Open Access Publications from the Institut français du Proche-Orient</a></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5478402502606200722/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5478402502606200722/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/03/archives-ouvertes-de-linstitut-francais.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5478402502606200722"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5478402502606200722"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/03/archives-ouvertes-de-linstitut-francais.html"
          title="Archives Ouvertes de l'Institut français du Proche-Orient"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

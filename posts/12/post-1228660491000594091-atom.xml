@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1228660491000594091</id>
+   <published>2015-12-06T17:09:00.001-05:00</published>
+   <updated>2015-12-06T17:09:50.015-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Dictionaries"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <title type="text">EPWING for the Classics</title>
+   <content type="html"><![CDATA[<a href="https://osdn.jp/projects/classicalepwing/"><span id="menu-title-span">EPWING for the Classics</span></a><br /><blockquote class="tr_bq"><div class="wiki-compact"><span style="font-size: x-small;">このプロジェクトでは、古典ラテン語・ギリシア語を学ぶ方のために、羅英辞典(ELD, LS)、希英辞典(LS, LSJ)などのデータをEPWING形式で公開しています。 羅英・希英辞典は、数十万件に及ぶ変化形見だし付きのものも作りました。 いずれも著作権保護期間の過ぎた、CCL, GPLで公開されているデータを元にしていますので、どなたでも無料で自由に使えます。 </span><br /><span style="font-size: x-small;">This project provides EPWING data of </span><br /><ul><li><span style="font-size: x-small;">Lewis, An Elementary Latin Dictionary </span></li><li><span style="font-size: x-small;">Lewis and Short, A Latin Dictionary </span></li><li><span style="font-size: x-small;">Liddell and Scott, An Intermediate Greek-English Lexicon </span></li><li><span style="font-size: x-small;">Liddell and Scott, A Greek-English Lexicon. </span></li><li><span style="font-size: x-small;">W.Smith, A Dictionary of Greek and Roman Antiquities (1890, 3rd ed.) </span></li><li><span style="font-size: x-small;">W.Smith, A Dictionary of Greek and Roman Biography and Mythology </span></li><li><span style="font-size: x-small;">W.Smith, Dictionary of Greek and Roman Geography (1854) etc </span></li></ul><span style="font-size: x-small;">EPWING is a popular format of electronic dictionary in Japan. You can read it on Windows/Mac/Unix/iPhone/PDA etc with free viewers.</span></div></blockquote><blockquote class="tr_bq"><ul class="nav nav-tabs content-menu-for-project"><li class="dropdown">  <span style="font-size: x-small;"><a class="dropdown-toggle" data-toggle="dropdown" href="https://osdn.jp/projects/classicalepwing/releases/#">Description</a>   </span></li><li class="active dropdown" role="presentation">  <span style="font-size: x-small;"><a href="https://osdn.jp/projects/classicalepwing/releases/" role="menuitem">Downloads</a></span></li><li class="dropdown" role="presentation">  <span style="font-size: x-small;"><a class="dropdown-toggle" data-toggle="dropdown" href="https://osdn.jp/projects/classicalepwing/releases/#" role="menuitem">Source Code</a></span>   </li><li class="dropdown" role="presentation">  <span style="font-size: x-small;"><a class="dropdown-toggle" data-toggle="dropdown" href="https://osdn.jp/projects/classicalepwing/releases/#" role="menuitem">Ticket</a></span>   </li><li class="dropdown" role="presentation">  <span style="font-size: x-small;"><a class="dropdown-toggle" data-toggle="dropdown" href="https://osdn.jp/projects/classicalepwing/releases/#" role="menuitem">Documents</a></span>   </li><li class="dropdown" role="presentation">  <span style="font-size: x-small;"><a class="dropdown-toggle" data-toggle="dropdown" href="https://osdn.jp/projects/classicalepwing/releases/#" role="menuitem">Communication</a></span>   </li><li class="" role="presentation"><span style="font-size: x-small;"><a href="https://osdn.jp/projects/classicalepwing/news/" role="menuitem">News</a></span></li></ul></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/1228660491000594091/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/12/epwing-for-classics.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1228660491000594091"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1228660491000594091"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/12/epwing-for-classics.html"
+         title="EPWING for the Classics"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

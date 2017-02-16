@@ -1,88 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3024622971134587483</id>
-    <published>2009-05-19T10:05:00.000-04:00</published>
-    <updated>2012-09-27T15:34:47.533-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3024622971134587483</id>
+   <published>2009-05-19T10:05:00.000-04:00</published>
+   <updated>2012-09-27T15:34:47.533-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">A couple of journals</title>
-    <content type="html"><![CDATA[<a href="http://conservation-science.cib.unibo.it/">Conservation
-      Science in Cultural Heritage: Historical-Technical Journal</a><br /><span
-      style="font-size: 85%;">Conservation Science in Cultural Heritage ISSN 1973-9494 - Quaderni
-      di Scienza della Conservazione ISSN 1973-9486</span><br
-      /><blockquote><span style="font-size: 85%;">The main topics covered by this
-      journal are:<br />• historical-artistic knowledge of cultural heritage (author, artistic
-      movement, artistic age, artistic techniques, educational society and characteristics of its
-      culture, socioeconomic context, the people ordering and financing the masterpieces and
-      target<br />audience)<br />• document and information research<br />• book
-      production in its historical context<br />• use of appropriate methodologies and
-      analytical techniques for the characterization<br />of historical masterpieces that are
-      part of the cultural heritage and for the evaluation<br />of the preservation state<br
-      />• environmental monitoring: assessment of atmospheric pollution and correlated decay<br
-      />of monuments and historical-artistic setting<br />• micro and macroclimatic
-      monitoring in confined spaces (museums, libraries, archives,<br />churches...)<br
-      />• artistic diagnosis<br />• experiences in cultural heritage conservation<br
-      />• problems in the operating process of restoration<br />• valuation of suitability
-      of products used for restoration, conservation, and maintenance<br />of cultural
-      heritage<br />• computer science and cultural heritage: methods for data elaboration and
-      cataloguing<br />• virtual revising of written texts and illustrated books<br />•
-      study and enhance the value of archives and book documents<br />• setting of historical
-      architectures<br />• conservation, cataloguing and elaboration (virtual or not) of
-      photographs<br />• others (education, safeguard and
-      conservation...)</span></blockquote><br /><a
-      href="http://dpc.uba.uva.nl/cgi/t/text/text-idx?c=jalc">Journal of Archaeology in the Low
-      Countries</a><br /><span style="font-size: 85%;">ISSN:
-      1877-7015</span><br /><blockquote><span style="font-size: 85%;">The
-      Journal of Archaeology in the Low Countries offers the opportunity to the archaeological
-      community to present its research to a wider, international audience. It will cover the full
-      archaeological time scale, from the earliest Palaeolithic up till investigations of subrecent
-      times, like those of shipwrecks and fortifications. With the ‘Low Countries’ of the title both
-      The Netherlands, Belgium and adjacent areas are meant, or - in geographical terms - the Lower
-      Rhine Basin. The Journal is open to all contributions on research within or of relevance for
-      this region. The main focus of the journal is our understanding of former societies, their
-      differentiation and changes through time, and their relation to the natural environment, not
-      only within the narrow limits of the main area of interest, but essentially in relation to
-      wider patterns and developments. The Journal welcomes contributions ranging from theoretical
-      reflections, broad overviews and analyses to the presentation of data and (recent) discoveries,
-      which are of more than local interest. The Journal distinguishes main articles of 5000-10.000
-      words and short contributions of 1000-2500 words.<br /><br />The Journal is open to
-      contributions of academic level, irrespective of the employment and nationality of the authors.
-      It is explicitly meant for both the academic world as well as those working in the so-called
-      commercial or contractual archaeology. An Editorial Board of seven members, with expertise in
-      the main fields covered by the Journal and supported by an editorial secretary, will be
-      responsible in the first line for the assessment of the relevance of the papers. External peers
-      will assess the papers offered purely on their scientific merits, before they are accepted for
-      publication.<br /><br />The Journal of Archaeology in the Low Countries is
-      basically published as an e-journal, but also available in the Printing on Demand option, both
-      as a subscription on the series as for the individual volumes. There will be two issues each
-      year in May and October.</span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">A couple of journals</title>
+   <content type="html"><![CDATA[<a href="http://conservation-science.cib.unibo.it/">Conservation Science in Cultural Heritage:  Historical-Technical Journal</a><br /><span style="font-size: 85%;">Conservation Science in Cultural Heritage ISSN 1973-9494 - Quaderni di Scienza della Conservazione ISSN 1973-9486</span><br /><blockquote><span style="font-size: 85%;">The main topics covered by this journal are:<br />• historical-artistic knowledge of cultural heritage (author, artistic movement, artistic age, artistic techniques, educational society and characteristics of its culture, socioeconomic context, the people ordering and financing the masterpieces and target<br />audience)<br />• document and information research<br />• book production in its historical context<br />• use of appropriate methodologies and analytical techniques for the characterization<br />of historical masterpieces that are part of the cultural heritage and for the evaluation<br />of the preservation state<br />• environmental monitoring: assessment of atmospheric pollution and correlated decay<br />of monuments and historical-artistic setting<br />• micro and macroclimatic monitoring in confined spaces (museums, libraries, archives,<br />churches...)<br />• artistic diagnosis<br />• experiences in cultural heritage conservation<br />• problems in the operating process of restoration<br />• valuation of suitability of products used for restoration, conservation, and maintenance<br />of cultural heritage<br />• computer science and cultural heritage: methods for data elaboration and cataloguing<br />• virtual revising of written texts and illustrated books<br />• study and enhance the value of archives and book documents<br />• setting of historical architectures<br />• conservation, cataloguing and elaboration (virtual or not) of photographs<br />• others (education, safeguard and conservation...)</span></blockquote><br /><a href="http://dpc.uba.uva.nl/cgi/t/text/text-idx?c=jalc">Journal of Archaeology in the Low Countries</a><br /><span style="font-size: 85%;">ISSN: 1877-7015</span><br /><blockquote><span style="font-size: 85%;">The Journal of Archaeology in the Low Countries offers the opportunity to the archaeological community to present its research to a wider, international audience. It will cover the full archaeological time scale, from the earliest Palaeolithic up till investigations of subrecent times, like those of shipwrecks and fortifications. With the ‘Low Countries’ of the title both The Netherlands, Belgium and adjacent areas are meant, or - in geographical terms - the Lower Rhine Basin. The Journal is open to all contributions on research within or of relevance for this region. The main focus of the journal is our understanding of former societies, their differentiation and changes through time, and their relation to the natural environment, not only within the narrow limits of the main area of interest, but essentially in relation to wider patterns and developments. The Journal welcomes contributions ranging from theoretical reflections, broad overviews and analyses to the presentation of data and (recent) discoveries, which are of more than local interest. The Journal distinguishes main articles of 5000-10.000 words and short contributions of 1000-2500 words.<br /><br />The Journal is open to contributions of academic level, irrespective of the employment and nationality of the authors. It is explicitly meant for both the academic world as well as those working in the so-called commercial or contractual archaeology. An Editorial Board of seven members, with expertise in the main fields covered by the Journal and supported by an editorial secretary, will be responsible in the first line for the assessment of the relevance of the papers. External peers will assess the papers offered purely on their scientific merits, before they are accepted for publication.<br /><br />The Journal of Archaeology in the Low Countries is basically published as an e-journal, but also available in the Printing on Demand option, both as a subscription on the series as for the individual volumes. There will be two issues each year in May and October.</span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3024622971134587483/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3024622971134587483/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/05/couple-of-journals.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3024622971134587483"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3024622971134587483"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/05/couple-of-journals.html"
          title="A couple of journals"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

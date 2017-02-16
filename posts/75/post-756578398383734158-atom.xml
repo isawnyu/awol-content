@@ -1,73 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-756578398383734158</id>
-    <published>2014-12-02T07:44:00.000-05:00</published>
-    <updated>2014-12-02T07:44:52.375-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-756578398383734158</id>
+   <published>2014-12-02T07:44:00.000-05:00</published>
+   <updated>2014-12-02T07:44:52.375-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Pedagogy"/>
-    <title type="text">Sequential Latin</title>
-    <content type="html"><![CDATA[<span style="font-size: x-small;"><a
-      href="http://sequentiallatin.wordpress.com/">Sequential Latin</a> </span><br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">Sequential Latin
-      is a proj<span class="text_exposed_show">ect that is in the very early stages of
-      development. The main impetus of this project is to create a free online Latin language course,
-      an accompanying yet separate Latin web-comic, and a rich Latin language and Classics
-      community.</span></span><br /><br /> <span style="font-size:
-      x-small;">The Course:</span><br /><br /> <span style="font-size:
-      x-small;">The course will be self-paced and designed for the absolute beginner. It will
-      focus specifically on developing an ability to read Latin, though spoken and written Latin will
-      also be crucial elements. The methodology employed will immerse the reader in lots of Latin
-      text (“synthetic”, edited and authentic), but will also provide a thorough understanding of
-      grammatical and syntactical concepts, as well as general down-to-earth reading practices,
-      seeking to provide a broad but flexible set of skills for students to draw upon when reading
-      Latin. Included in this skill-set will be cultural context, as the course also aims to be a
-      full-on exploration of Classical Culture and History.</span><br /><br />
-      <span style="font-size: x-small;">Images and Comics forms will be used heavily. Indeed,
-      this is the inspiration for the project title, as the incomparable Will Eisner called comics
-      “Sequential Art.” I do believe that comics is an ideal medium for foreign language studies, as
-      it depends heavily upon reader involvement, from all their senses. As comics artist Scott
-      Mcloud says, “…human imagination takes two separate images [that is, two separate panels of a
-      comic] and transforms them into a single idea. Nothing is seen between the two panels, but
-      experience tells you something must be there! …within these panels, we can only convey
-      information visually, but between panels, none of our senses are required at all, which is why
-      all of our senses are engaged.”*</span><br /><br /> <span
-      style="font-size: x-small;">Readers will follow a continuous narrative tale called the
-      Cloeliad, which follows the legendary Roman heroine Cloelia on a series of adventures
-      throughout the Classical world (she is cursed by Chronos to be transported to different times
-      and places on a regular basis…). Many other “synthetic” Latin texts will be written which do
-      not tell a continuous tale, but focus on specific topics from the Classical world (for example,
-      a conversation between two senators, a roman youth heading to school, and that sort of thing).
-      Authentic Latin will also be a large part of the
-      lessons.</span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Pedagogy"/>
+   <title type="text">Sequential Latin</title>
+   <content type="html"><![CDATA[<span style="font-size: x-small;"><a href="http://sequentiallatin.wordpress.com/">Sequential Latin</a> </span><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Sequential Latin is a proj<span class="text_exposed_show">ect that is  in the very early stages of development. The main impetus of this  project is to create a free online Latin language course, an  accompanying yet separate Latin web-comic, and a rich Latin language and  Classics community.</span></span><br /><br /> <span style="font-size: x-small;">The Course:</span><br /><br /> <span style="font-size: x-small;">The course will be self-paced and designed for the absolute beginner.  It will focus specifically on developing an ability to read Latin,  though spoken and written Latin will also be crucial elements. The  methodology employed will immerse the reader in lots of Latin text  (“synthetic”, edited and authentic), but will also provide a thorough  understanding of grammatical and syntactical concepts, as well as  general down-to-earth reading practices, seeking to provide a broad but  flexible set of skills for students to draw upon when reading Latin.  Included in this skill-set will be cultural context, as the course also  aims to be a full-on exploration of Classical Culture and History.</span><br /><br /> <span style="font-size: x-small;">Images and Comics forms will be used heavily. Indeed, this is the  inspiration for the project title, as the incomparable Will Eisner  called comics “Sequential Art.” I do believe that comics is an ideal  medium for foreign language studies, as it depends heavily upon reader  involvement, from all their senses. As comics artist Scott Mcloud says,  “…human imagination takes two separate images [that is, two separate  panels of a comic] and transforms them into a single idea. Nothing is  seen between the two panels, but experience tells you something must be  there! …within these panels, we can only convey information visually,  but between panels, none of our senses are required at all, which is why  all of our senses are engaged.”*</span><br /><br /> <span style="font-size: x-small;">Readers will follow a continuous narrative tale called the Cloeliad,  which follows the legendary Roman heroine Cloelia on a series of  adventures throughout the Classical world (she is cursed by Chronos to  be transported to different times and places on a regular basis…). Many  other “synthetic” Latin texts will be written which do not tell a  continuous tale, but focus on specific topics from the Classical world  (for example, a conversation between two senators, a roman youth heading  to school, and that sort of thing). Authentic Latin will also be a  large part of the lessons.</span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/756578398383734158/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/756578398383734158/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/12/sequential-latin.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/756578398383734158"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/756578398383734158"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/12/sequential-latin.html"
          title="Sequential Latin"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

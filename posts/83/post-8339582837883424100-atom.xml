@@ -1,109 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8339582837883424100</id>
-    <published>2015-05-31T18:47:00.000-04:00</published>
-    <updated>2015-05-31T18:48:55.036-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8339582837883424100</id>
+   <published>2015-05-31T18:47:00.000-04:00</published>
+   <updated>2015-05-31T18:48:55.036-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Roman Law"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Roman Law"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Ancient Law"/>
-    <title type="text">Projet Volterra wiki</title>
-    <content type="html"><![CDATA[<a href="https://wiki.ucl.ac.uk/display/VOL/Volterra"><i>Projet
-      Volterra</i> wiki</a><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;">The Projet Volterra was established in honour of the memory of
-      the distinguished Roman lawyer Edoardo Volterra (1904-1984), whose widow left his substantial
-      and rich collection of Roman law books to the École Française de Rome. A catalogue of the older
-      items, with reminiscences by relatives and colleagues, has now been published by Douglas Osler
-      as vol. 3 in the series&nbsp;<a class="external-link"
-      href="http://www.worldcat.org/title/bibliographica-iuridica-3-edoardo-volterra-1904-1984-a-catalogue-of-the-early-printed-books-in-his-library-now-in-the-ecole-francaise-de-rome-comp-by-douglas-j-osler-with-reminiscences-by-giovanni-gualandi/oclc/315338656"
-      rel="nofollow">Bibliographica Iuridica</a><i> </i>(Frankfurt-am-Main,
-      2006). The general aims of the&nbsp;Projet Volterra&nbsp;are to promote the study of
-      Roman law in its full social, political and legal context.</span><br /><br
-      /><span style="font-size: x-small;">Please see the <a class="external-link"
-      href="https://www.ucl.ac.uk/volterra" rel="nofollow"><b>Projet Volterra</b> web
-      pages</a><a class="external-link" href="http://www.ucl.ac.uk/volterra/"
-      rel="nofollow"> for more information about the project.</a></span><br
-      /><br /><span style="font-size: x-small;">This wiki space is an easy way of
-      maintaining Projet Volterra internet based
-      resources</span></blockquote><blockquote class="tr_bq">&nbsp;<span
-      style="font-size: x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Resources+for+Roman+Law">Resources for Roman
-      Law</a></span><br /><div class="toc-macro rbtoc1433112294128"><ul
-      class="toc-indentation"><li><span style="font-size: x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Resources+for+Roman+Law#ResourcesforRomanLaw-JournalsandSerieswhollyorpartiallydevotedtoRomanLawortheCiviliantradition">Journals
-      and Series wholly or partially devoted to Roman Law or the Civilian
-      tradition</a></span><ul class="toc-indentation"><li><span
-      style="font-size: x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Resources+for+Roman+Law#ResourcesforRomanLaw-Journalswithfreeaccesstothefulltextofarticles">Journals
-      with free access to the full text of
-      articles</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Resources+for+Roman+Law#ResourcesforRomanLaw-Thefollowinghaveon-lineaccesstotablesofcontents">The
-      following have on-line access to tables of
-      contents</a></span></li></ul></li><li><span
-      style="font-size: x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Resources+for+Roman+Law#ResourcesforRomanLaw-GeneralSitesandPre-JustinianicSources">General
-      Sites and Pre-Justinianic Sources</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Resources+for+Roman+Law#ResourcesforRomanLaw-JustinianicRomanLaw">Justinianic
-      Roman
-      Law</a></span></li></ul></div></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;">&nbsp;<a
-      href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources">Early Mediaeval Law
-      Resources</a></span></blockquote><blockquote class="tr_bq"><div
-      class="toc-macro rbtoc1433112361865"><ul class="toc-indentation"><li><span
-      style="font-size: x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-Introduction">Introduction</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-RomanLaw">Roman
-      Law</a></span></li><li><span style="font-size: x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-CanonLaw">Canon
-      Law</a></span></li><li><span style="font-size: x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-VisigothicKingdom">Visigothic
-      Kingdom</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-OstrogothicKingdom">Ostrogothic
-      Kingdom</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-BurgundianKingdom">Burgundian
-      Kingdom</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-FrankishKingdoms">Frankish
-      Kingdoms</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-LombardItaly">Lombard
-      Italy</a></span></li><li><span style="font-size: x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-ByzantineLaw">Byzantine
-      Law</a></span></li><li><span style="font-size: x-small;"><a
-      href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-Anglo-SaxonKingdoms">Anglo-Saxon
-      Kingdoms</a></span></li></ul></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Ancient Law"/>
+   <title type="text">Projet Volterra wiki</title>
+   <content type="html"><![CDATA[<a href="https://wiki.ucl.ac.uk/display/VOL/Volterra"><i>Projet Volterra</i> wiki</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">The Projet Volterra was established in honour of the memory of the  distinguished Roman lawyer Edoardo Volterra (1904-1984), whose widow  left his substantial and rich collection of Roman law books to the École  Française de Rome. A catalogue of the older items, with reminiscences  by relatives and colleagues, has now been published by Douglas Osler as  vol. 3 in the series&nbsp;<a class="external-link" href="http://www.worldcat.org/title/bibliographica-iuridica-3-edoardo-volterra-1904-1984-a-catalogue-of-the-early-printed-books-in-his-library-now-in-the-ecole-francaise-de-rome-comp-by-douglas-j-osler-with-reminiscences-by-giovanni-gualandi/oclc/315338656" rel="nofollow">Bibliographica Iuridica</a><i> </i>(Frankfurt-am-Main,  2006). The general aims of the&nbsp;Projet Volterra&nbsp;are to promote the study  of Roman law in its full social, political and legal context.</span><br /><br /><span style="font-size: x-small;">Please see the <a class="external-link" href="https://www.ucl.ac.uk/volterra" rel="nofollow"><b>Projet Volterra</b> web pages</a><a class="external-link" href="http://www.ucl.ac.uk/volterra/" rel="nofollow"> for more information about the project.</a></span><br /><br /><span style="font-size: x-small;">This wiki space is an easy way of maintaining Projet Volterra internet based resources</span></blockquote><blockquote class="tr_bq">&nbsp;<span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Resources+for+Roman+Law">Resources for Roman Law</a></span><br /><div class="toc-macro rbtoc1433112294128"><ul class="toc-indentation"><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Resources+for+Roman+Law#ResourcesforRomanLaw-JournalsandSerieswhollyorpartiallydevotedtoRomanLawortheCiviliantradition">Journals and Series wholly or partially devoted to Roman Law or the Civilian tradition</a></span><ul class="toc-indentation"><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Resources+for+Roman+Law#ResourcesforRomanLaw-Journalswithfreeaccesstothefulltextofarticles">Journals with free access to the full text of articles</a></span></li><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Resources+for+Roman+Law#ResourcesforRomanLaw-Thefollowinghaveon-lineaccesstotablesofcontents">The following have on-line access to tables of contents</a></span></li></ul></li><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Resources+for+Roman+Law#ResourcesforRomanLaw-GeneralSitesandPre-JustinianicSources">General Sites and Pre-Justinianic Sources</a></span></li><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Resources+for+Roman+Law#ResourcesforRomanLaw-JustinianicRomanLaw">Justinianic Roman Law</a></span></li></ul></div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">&nbsp;<a href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources">Early Mediaeval Law Resources</a></span></blockquote><blockquote class="tr_bq"><div class="toc-macro rbtoc1433112361865"><ul class="toc-indentation"><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-Introduction">Introduction</a></span></li><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-RomanLaw">Roman Law</a></span></li><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-CanonLaw">Canon Law</a></span></li><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-VisigothicKingdom">Visigothic Kingdom</a></span></li><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-OstrogothicKingdom">Ostrogothic Kingdom</a></span></li><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-BurgundianKingdom">Burgundian Kingdom</a></span></li><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-FrankishKingdoms">Frankish Kingdoms</a></span></li><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-LombardItaly">Lombard Italy</a></span></li><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-ByzantineLaw">Byzantine Law</a></span></li><li><span style="font-size: x-small;"><a href="https://wiki.ucl.ac.uk/display/VOL/Early+Mediaeval+Law+Resources#EarlyMediaevalLawResources-Anglo-SaxonKingdoms">Anglo-Saxon Kingdoms</a></span></li></ul></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8339582837883424100/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8339582837883424100/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/05/projet-volterra-wiki.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8339582837883424100"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8339582837883424100"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/05/projet-volterra-wiki.html"
          title="Projet Volterra wiki"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

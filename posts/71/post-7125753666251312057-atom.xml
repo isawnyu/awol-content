@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7125753666251312057</id>
+   <published>2017-01-13T16:16:00.001-05:00</published>
+   <updated>2017-01-13T16:16:37.661-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Digital Library"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Linked Open Data"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
+   <title type="text">News from the ANS Digital Library</title>
+   <content type="html"><![CDATA[<a href="http://eaditor.blogspot.com/2017/01/more-than-80-lod-enhanced-ebooks.html">More than 80 LOD-enhanced ebooks published to the ANS Digital Library</a><br /><span class="post-author vcard">Posted by <span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"> <a class="g-profile" data-gapiattached="true" data-gapiscan="true" data-onload="true" href="https://www.blogger.com/profile/14492799646719449654" rel="author" title="author profile"><span itemprop="name">Ethan Gruber</span></a></span></span><span class="post-timestamp">at  <a class="timestamp-link" href="http://eaditor.blogspot.com/2017/01/more-than-80-lod-enhanced-ebooks.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2017-01-13T12:21:00-08:00">12:21 PM</abbr></a>&nbsp; </span><span class="reaction-buttons"></span><span>Friday, January 13, 2017</span><br /> <div class="post-header"> </div><blockquote class="tr_bq"><div dir="ltr" style="text-align: left;"><span style="font-size: x-small;">The American Numismatic Society has nearly completed its Mellon  Foundation-funded Humanities Open Book program. Eighty-two of 86 books  have been enhanced by a Whitney Christopher, a TEI specialist from the  King's College London DH program to link to people and places defined on  <a href="http://nomisma.org/">Nomisma.org</a>, <a href="http://pleiades.stoa.org/">Pleiades</a> (either directly linked or by means of Nomisma's internal concordance system), VIAF, Wikidata, and the <a href="http://numismatics.org/authorities">ANS's own archival authority control system</a>. The final four books will go online soon. They are all available in the <a href="http://numismatics.org/digitallibrary">ANS Digital Library</a>.</span><span style="font-size: x-small;"><br />The number of people and places mentioned in these texts is a staggering  figure, and it should be noted that we have focused on linking those  entities that are most relevant to the texts, but we will continue to  refine the linking over time, especially when it comes to Nomisma  concepts and bibliographic references to Worldcat Works (links to which  have not yet been incorporated). As Nomisma expands further into the  Greek world and other domains of numismatics (after the ancient period),  we will return to these ebooks to insert or replace links to Nomisma  mints, people, and political entities.</span><span style="font-size: x-small;"><br />Beyond relevant people and places, we have inserted hundreds of links to <a href="http://coinhoards.org/">IGCH</a> records (about 170 different coin hoards are cited in 400 locations in a  handful of books), to the ANS collection, and to coin types defined in  OCRE or CRRO. So far, more than 100 coins in the ANS and 6 in the  Smithsonian American Art Museum have been identified by their accession  numbers, although one of the four remaining books to be published will  soon include nearly 70 more links to ANS coins. There are many more  coins referenced in these books that may <i>now</i> belong to the ANS,  but were not accessioned at the date of publication. A curator with more  specific knowledge will need to identify these in the future.</span><span style="font-size: x-small;"><br />One of the most often cited hoard is the <a href="http://coinhoards.org/id/igch1664">Demanhur Hoard</a> (IGCH 1664), which is mentioned in four books and on various pages of two of <a href="http://numismatics.org/authority/newell">Edward Newell</a>'s  notebooks. By linking archival authorities mentioned in these texts, we  have greatly enhanced access to the works by and about Edward Newell  and other prominent numismatic figures associated with the Society. A  user of the ANS's authority portal (built on EAC-CPF) will have access  to books written by Newell in our digital library, as well as his  archival materials. Furthermore, mentions of Newell from the books  written by other scholars will appear under <a href="http://numismatics.org/authority/newell#annotations">annotations</a>. In his case, he is mentioned in 18 other books, sometimes in multiple sections.</span><span style="font-size: x-small;"><br />Like Mantis, the OCRE and CRRO config files have been updated to link to  our archival SPARQL endpoint, and therefore annotations about specific  types are accessible directly through types defined in these system.  Nearly 50 types in OCRE are linked from <a href="http://numismatics.org/digitallibrary/ark:/53695/nnan8359">Roman Medallions</a>, and a researcher can drill down into a specific section of the book from <a href="http://numismatics.org/ocre/id/ric.5.gall_sala%282%29.1">RIC 5 Gallienus and Salonina 1</a>.</span><span style="font-size: x-small;"><br />Finally, through the links to Pleiades, each section in each book that mentions an ancient place will be accessible in <a href="http://commons.pelagios.org/">Pelagios</a>.</span></div></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/7125753666251312057/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2017/01/news-from-ans-digital-library.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7125753666251312057"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7125753666251312057"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2017/01/news-from-ans-digital-library.html"
+         title="News from the ANS Digital Library"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

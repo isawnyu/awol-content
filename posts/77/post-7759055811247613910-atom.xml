@@ -1,109 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7759055811247613910</id>
-    <published>2014-09-10T10:00:00.000-04:00</published>
-    <updated>2014-09-10T10:39:44.528-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7759055811247613910</id>
+   <published>2014-09-10T10:00:00.000-04:00</published>
+   <updated>2014-09-10T10:39:44.528-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">SSRN Classics Research Network</title>
-    <content type="html"><![CDATA[<a href="http://www.ssrn.com/link/CRN.html">Social Science Research
-      Network, Classics Research Network</a><br /><blockquote class="tr_bq"><img
-      alt="http://www.ssrn.com/images2/head/social.jpg" class="decoded"
-      src="http://www.ssrn.com/images2/head/social.jpg" /> </blockquote><blockquote
-      class="tr_bq"><span style="font-family: ARIAL, HELVETICA; font-size:
-      x-small;"><span align="justify">Social Science Research Network (SSRN) is devoted to
-      the rapid worldwide dissemination of social science research and is composed of a number of
-      specialized research networks in each of the social sciences. We have received several <a
-      href="http://www.ssrn.com/en/index.cfm/awards/"><b>excellence
-      awards</b></a> for our web site.</span><br /> <br /> Each of
-      SSRN's networks encourages the early distribution of research results by distributing
-      <b><a
-      href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submitted</a></b>
-      abstracts and by soliciting abstracts of top quality research papers around the world. We now
-      have hundreds of journals, publishers, and institutions in <b><a
-      href="http://papers.ssrn.com/sol3/DisplayPipPublishers.cfm" target="new"> Partners in
-      Publishing</a></b> that provide working papers for distribution through
-      <b><a href="http://papers.ssrn.com/sol3/DisplayJournalBrowse.cfm"
-      target="_top">SSRN's eLibrary</a></b> and abstracts for publication in SSRN's
-      electronic journals.<br /> <br /> The SSRN eLibrary consists of two parts: an
-      Abstract Database containing abstracts on over 563,000 scholarly working papers and forthcoming
-      papers and an Electronic Paper Collection currently containing over 465,300 downloadable full
-      text documents in Adobe Acrobat pdf format. The eLibrary also includes the research papers of a
-      number of Fee Based Partner Publications.</span></blockquote><span
-      style="font-size: small;"><span style="font-family: inherit;">SSRN Classics currently
-      has <span style="color: #203276;"><span style="font-family:
-      inherit;">778</span> </span>papers online organized in the <a
-      href="http://www.ssrn.com/crn/index.html">following </a><a
-      href="http://www.ssrn.com/crn/index.html"><span style="color:
-      #203276;">eJournals:</span></a></span></span><br /><br
-      /><span style="font-size: x-small;"></span> <dd><span style="font-size:
-      x-small;"><a href="http://www.ssrn.com/update/crn/crn_history.html">Ancient Greek
-      &amp; Roman History eJournal</a>&nbsp;</span></dd><span
-      style="font-size: x-small;"><dd><a
-      href="http://www.ssrn.com/update/crn/crn_linguistics.html">Ancient Greek &amp; Roman
-      Linguistics eJournal</a>&nbsp;</dd><dd><a
-      href="http://www.ssrn.com/update/crn/crn_literature.html">Ancient Greek &amp; Roman
-      Literature eJournal</a>&nbsp;</dd><dd><a
-      href="http://www.ssrn.com/update/crn/crn_greek-law.html">Ancient Greek Law
-      eJournal</a>&nbsp;</dd><dd><a
-      href="http://www.ssrn.com/update/crn/crn_ancient-phil-sci-texts.html">Ancient Philosophical
-      &amp; Scientific Texts eJournal</a>&nbsp;</dd><dd><a
-      href="http://www.ssrn.com/update/crn/crn_ancient-religions.html">Ancient Religions
-      eJournal</a>&nbsp;</dd><dd><a
-      href="http://www.ssrn.com/update/crn/crn_roman-law.html">Ancient Roman Law
-      eJournal</a>&nbsp;</dd><dd><a
-      href="http://www.ssrn.com/update/crn/crn_archeology-material-culture.html">Archeology
-      &amp; Material Culture eJournal</a>&nbsp;</dd><dd><a
-      href="http://www.ssrn.com/update/crn/crn_classical-tradition.html">Classical Tradition
-      eJournal</a>&nbsp;</dd><dd><a
-      href="http://www.ssrn.com/update/crn/crn_epigraphy.html">Epigraphy
-      eJournal</a>&nbsp;</dd><dd><a
-      href="http://www.ssrn.com/update/crn/crn_papyrology.html">Papyrology
-      eJournal</a>&nbsp;</dd><dd><a
-      href="http://www.ssrn.com/update/crn/crn_social-history.html">Social History
-      eJournal</a>&nbsp;</dd><dd><a
-      href="http://www.ssrn.com/update/crn/crn_textual-transmission.html">Textual Transmission
-      eJourna<span style="font-size: x-small;"><span style="color: #203276;"><span
-      style="font-family:
-      inherit;">l</span></span></span></a></dd></span><br
-      /><span style="font-size: x-small;"></span><br /><br
-      /><dd><span style="font-size: x-small;"><span style="font-size:
-      x-small;"><span style="color: #203276;"><span style="font-family:
-      inherit;">&nbsp;</span></span></span> </span></dd> <br
-      /><div style="text-align: center;"><span style="font-size: small;"><span
-      style="font-family: inherit;"><span class="Apple-style-span" style="color: #333333;
-      line-height: 25px;">See the full&nbsp;</span><span class="Apple-style-span"
-      style="color: #333333; line-height: 25px;"><a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html"
-      style="color: #5588aa; text-decoration: none;">List of Open Access Journals in Ancient
-      Studies</a></span></span></span></div>]]></content>
-    <link rel="replies"
+   <title type="text">SSRN Classics Research Network</title>
+   <content type="html"><![CDATA[<a href="http://www.ssrn.com/link/CRN.html">Social Science Research Network, Classics Research Network</a><br /><blockquote class="tr_bq"><img alt="http://www.ssrn.com/images2/head/social.jpg" class="decoded" src="http://www.ssrn.com/images2/head/social.jpg" /> </blockquote><blockquote class="tr_bq"><span style="font-family: ARIAL, HELVETICA; font-size: x-small;"><span align="justify">Social  Science Research Network (SSRN) is devoted to the rapid worldwide  dissemination of social science research and is composed of a number of  specialized research networks in each of the social sciences. We have  received several <a href="http://www.ssrn.com/en/index.cfm/awards/"><b>excellence awards</b></a> for our web site.</span><br />    <br />    Each of SSRN's networks encourages the early distribution of research results by distributing <b><a href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submitted</a></b> abstracts and by soliciting abstracts of top quality research papers  around the world. We now have hundreds of journals, publishers, and  institutions in <b><a href="http://papers.ssrn.com/sol3/DisplayPipPublishers.cfm" target="new"> Partners in Publishing</a></b> that provide working papers for distribution through <b><a href="http://papers.ssrn.com/sol3/DisplayJournalBrowse.cfm" target="_top">SSRN's eLibrary</a></b> and abstracts for publication in SSRN's electronic journals.<br />    <br />    The SSRN eLibrary consists of two parts: an Abstract Database  containing abstracts on over 563,000 scholarly working papers and  forthcoming papers and an Electronic Paper Collection currently  containing over 465,300 downloadable full text documents in Adobe  Acrobat pdf format. The eLibrary also includes the research papers of a  number of Fee Based Partner Publications.</span></blockquote><span style="font-size: small;"><span style="font-family: inherit;">SSRN Classics currently has <span style="color: #203276;"><span style="font-family: inherit;">778</span> </span>papers online organized in the <a href="http://www.ssrn.com/crn/index.html">following </a><a href="http://www.ssrn.com/crn/index.html"><span style="color: #203276;">eJournals:</span></a></span></span><br /><br /><span style="font-size: x-small;"></span> <dd><span style="font-size: x-small;"><a href="http://www.ssrn.com/update/crn/crn_history.html">Ancient Greek &amp; Roman History eJournal</a>&nbsp;</span></dd><span style="font-size: x-small;"><dd><a href="http://www.ssrn.com/update/crn/crn_linguistics.html">Ancient Greek &amp; Roman Linguistics eJournal</a>&nbsp;</dd><dd><a href="http://www.ssrn.com/update/crn/crn_literature.html">Ancient Greek &amp; Roman Literature eJournal</a>&nbsp;</dd><dd><a href="http://www.ssrn.com/update/crn/crn_greek-law.html">Ancient Greek Law eJournal</a>&nbsp;</dd><dd><a href="http://www.ssrn.com/update/crn/crn_ancient-phil-sci-texts.html">Ancient Philosophical &amp; Scientific Texts eJournal</a>&nbsp;</dd><dd><a href="http://www.ssrn.com/update/crn/crn_ancient-religions.html">Ancient Religions eJournal</a>&nbsp;</dd><dd><a href="http://www.ssrn.com/update/crn/crn_roman-law.html">Ancient Roman Law eJournal</a>&nbsp;</dd><dd><a href="http://www.ssrn.com/update/crn/crn_archeology-material-culture.html">Archeology &amp; Material Culture eJournal</a>&nbsp;</dd><dd><a href="http://www.ssrn.com/update/crn/crn_classical-tradition.html">Classical Tradition eJournal</a>&nbsp;</dd><dd><a href="http://www.ssrn.com/update/crn/crn_epigraphy.html">Epigraphy eJournal</a>&nbsp;</dd><dd><a href="http://www.ssrn.com/update/crn/crn_papyrology.html">Papyrology eJournal</a>&nbsp;</dd><dd><a href="http://www.ssrn.com/update/crn/crn_social-history.html">Social History eJournal</a>&nbsp;</dd><dd><a href="http://www.ssrn.com/update/crn/crn_textual-transmission.html">Textual Transmission eJourna<span style="font-size: x-small;"><span style="color: #203276;"><span style="font-family: inherit;">l</span></span></span></a></dd></span><br /><span style="font-size: x-small;"></span><br /><br /><dd><span style="font-size: x-small;"><span style="font-size: x-small;"><span style="color: #203276;"><span style="font-family: inherit;">&nbsp;</span></span></span> </span></dd> <br /><div style="text-align: center;"><span style="font-size: small;"><span style="font-family: inherit;"><span class="Apple-style-span" style="color: #333333; line-height: 25px;">See the full&nbsp;</span><span class="Apple-style-span" style="color: #333333; line-height: 25px;"><a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html" style="color: #5588aa; text-decoration: none;">List of Open Access Journals in Ancient Studies</a></span></span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7759055811247613910/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7759055811247613910/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/01/ssrn-classics-research-network.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7759055811247613910"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7759055811247613910"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/01/ssrn-classics-research-network.html"
          title="SSRN Classics Research Network"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

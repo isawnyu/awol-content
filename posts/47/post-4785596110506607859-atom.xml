@@ -1,317 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4785596110506607859</id>
-    <published>2012-06-10T07:25:00.000-04:00</published>
-    <updated>2012-06-10T07:25:04.567-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4785596110506607859</id>
+   <published>2012-06-10T07:25:00.000-04:00</published>
+   <updated>2012-06-10T07:25:04.567-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: The PARI Journal: A Quarterly Publication of the
-      Pre-Columbian Art Research Institute</title>
-    <content type="html"><![CDATA[<a href="http://www.mesoweb.com/pari/journal.html">The PARI Journal: A
-      Quarterly Publication of the Pre-Columbian Art Research Institute </a><br />ISSN
-      1531-5398<br /><br /><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0401.pdf"><b>The PARI Journal
-      Vol. IV, No. 1</b></a><br />Summer 2003 </span><br /><span
-      style="font-size: x-small;">Longer Live the King:<br />The Questionable Demise of
-      K'inich K'an Joy Chitam of Palenque<br />By David Stuart </span><br
-      /><span style="font-size: x-small;">The Environment of Pakal's Tomb<br />By Leon
-      Langan </span><br /><span style="font-size: x-small;">Urbanism at
-      Palenque<br />By Edwin L. Barnhart <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0402.pdf"><b>The PARI Journal
-      Vol. IV, No. 2</b></a></span> <span style="font-size: x-small;"><br
-      />Fall 2003 </span><br /><span style="font-size: x-small;">Photographing
-      the Cacaxtla Murals<br />By Merle Greene Robertson </span><br /><span
-      style="font-size: x-small;">Frans Blom and the Decipherment of Maya Writing<br />By
-      Jesper Nielsen </span><br /><span style="font-size: x-small;">Morley's Diary:
-      April 10-14, 1932<br /> By Sylvanus G. Morley <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0403.pdf"><b>The PARI Journal
-      Vol. IV, No. 3</b></a></span> <span style="font-size: x-small;"><br
-      />Winter 2004 </span><br /> <span style="font-size: x-small;">The Paw
-      Stone: The Place Name of Piedras Negras, Guatemala<br />By David Stuart
-      </span><br /><span style="font-size: x-small;">Return to the Great Forests:
-      Frans Blom's Letters from Palenque (Part 1)<br />Translated and With an Introduction by
-      Jesper Nielsen &amp; Tore Leifer </span><br /><span style="font-size:
-      x-small;">Morley's Diary: April 15-17, 1932<br />By Sylvanus G. Morley <br
-      /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0404.pdf"><b>The PARI Journal
-      Vol. IV, No. 4</b></a></span> <span style="font-size: x-small;"><br
-      />Spring 2004 </span><br /><span style="font-size: x-small;"> Glyphs for
-      "Handspan" and "Strike" in Classic Maya Ballgame Texts<br />By Marc Zender
-      </span><br /> <span style="font-size: x-small;">Sport, Spectacle and
-      Political Theater: New Views of the Classic Maya Ballgame<br />By Marc Zender
-      </span><br /><span style="font-size: x-small;">Return to the Great Forests:
-      Frans Blom's Letters from Palenque (Part 2)<br />Translated and With an Introduction by
-      Jesper Nielsen &amp; Tore Leifer <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0501.pdf"><b>The PARI Journal
-      Vol. V, No. 1</b></a></span> <span style="font-size: x-small;"><br
-      />Summer 2004 </span><br /> <span style="font-size: x-small;">A Broken
-      Sky: The Ancient Name of Yaxchilan as <i>Pa' Chan</i><br />By Simon Martin
-      </span><br /><span style="font-size: x-small;">Return to the Great Forests:
-      Frans Blom's Letters from Palenque (Part 3)<br />Translated and With an Introduction by
-      Jesper Nielsen &amp; Tore Leifer </span><br /><span style="font-size:
-      x-small;">Morley's Diary: April 18-20, 1932<br />By Sylvanus G. Morley <br
-      /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0502.pdf"><b>The PARI Journal
-      Vol. V, No. 2</b></a></span> <span style="font-size: x-small;"><br
-      />Fall 2004 </span><br /> <span style="font-size: x-small;">New Year
-      Records in Classic Maya Inscriptions<br />By David Stuart </span><br
-      /><span style="font-size: x-small;">Signs and Symbols of the Maya<br />By Brian
-      Hayden </span><br /><span style="font-size: x-small;">Return to the Great
-      Forests: Frans Blom's Letters from Palenque (Part 4)<br />Translated and With an
-      Introduction by Jesper Nielsen &amp; Tore Leifer <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0503.pdf"><b>The PARI Journal
-      Vol. V, No. 3</b></a></span> <span style="font-size: x-small;"><br
-      />Winter 2005 </span><br /><span style="font-size: x-small;">Rock
-      Paintings and Lacandon Maya Sacred Landscapes<br />By Joel Palka </span><br
-      /> <span style="font-size: x-small;">'Flaming Akbal' and the Glyphic Representation of
-      the <i>aj-</i> Agentive Prefix<br />By Marc Zender </span><br
-      /><span style="font-size: x-small;">Morley's Diary: April 21, 1932<br />By
-      Sylvanus G. Morley </span><br /><span style="font-size: x-small;"><br
-      /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0504.pdf"><b>The PARI
-      Journal Vol. V, No. 4</b></a></span><span style="font-size:
-      x-small;"><br />Spring 2005 </span><br /><span style="font-size:
-      x-small;">A Glimpse Into the Watery Underworld<br />By Jorge Pérez de Lara
-      </span><br /> <span style="font-size: x-small;">The Raccoon Glyph In Classic
-      Maya Writing<br />By Marc Zender <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0601.pdf"><b>The PARI Journal
-      Vol. VI, No. 1</b></a></span> <span style="font-size: x-small;"><br
-      />Summer 2005 </span><br /> <span style="font-size: x-small;">Caracol
-      Altar 21 Revisited: More Data on Double Bird and Tikal's Wars of the Mid-Sixth Century<br
-      />By Simon Martin </span><br /><span style="font-size: x-small;">A
-      Selection of Rubbings, Part One<br />By Merle Greene Robertson </span><br
-      /><span style="font-size: x-small;">Morley's Diary: April 22, 1932<br />By
-      Sylvanus G. Morley <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0602.pdf"><b>The PARI Journal
-      Vol. VI, No. 2</b></a></span> <span style="font-size: x-small;"><br
-      />Fall 2005 </span><br /><span style="font-size: x-small;">The Captives of
-      Dzibanche<br />By Erik Velásquez García </span><br /> <span
-      style="font-size: x-small;">Of Snakes and Bats: Shifting Identities at Calakmul<br
-      />By Simon Martin </span><br /><span style="font-size: x-small;">La Corona
-      Find Sheds Light on Site Q Mystery<br />By Stanley Guenter <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0603.pdf"><b>The PARI Journal
-      Vol. VI, No. 3</b></a></span> <span style="font-size: x-small;"><br
-      />Winter 2006 </span><br /> <span style="font-size: x-small;">Teasing the
-      Turtle From its Shell: AHK and MAHK in Maya Writing<br />By Marc Zender
-      </span><br /><span style="font-size: x-small;">Morley's Diary: April 23,
-      1932<br />By Sylvanus G. Morley <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0604.pdf"><b>The PARI Journal
-      Vol. VI, No. 4</b></a></span> <span style="font-size: x-small;"><br
-      />Spring 2006 </span><br /> <span style="font-size: x-small;">The Queen's
-      Mirrors: Interpreting the Iconography of Two Teotihuacan Style<br />Mirrors from the
-      Early Classic Margarita Tomb at Copan<br />By Jesper Nielsen </span><br
-      /><span style="font-size: x-small;">A Selection of Rubbings, Part Two<br />By
-      Merle Greene Robertson <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0701.pdf"><b>The PARI Journal
-      Vol. VII, No. 1</b></a></span> <span style="font-size: x-small;"><br
-      />Summer 2006 </span><br /> <span style="font-size: x-small;">The Maya
-      Flood Myth and the Decapitation of the Cosmic Caiman<br />By Erik Velásquez García
-      </span><br /><span style="font-size: x-small;">A Selection of Rubbings, Part
-      Three<br />By Merle Greene Robertson </span><br /><span style="font-size:
-      x-small;">Morley's Diary: April 24, 1932<br />By Sylvanus G. Morley <br /><br
-      /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0702.pdf"><b>The PARI
-      Journal Vol. VII, No. 2</b></a></span> <span style="font-size:
-      x-small;"><br />Fall 2006 </span><br /><span style="font-size:
-      x-small;">Border Problems: Recent Archaeological Research along the Usumacinta River<br
-      />By Charles Golden and Andrew Scherer <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0703.pdf"><b>The PARI Journal
-      Vol. VII, No. 3</b></a></span> <span style="font-size: x-small;"><br
-      />Winter 2007 </span><br /><span style="font-size: x-small;">Rivers Among
-      the Ruins: The Usumacinta<br />By Ronald L. Canter </span><br /> <span
-      style="font-size: x-small;">Special supplement: <br />Río Usumacinta Navigation Survey
-      <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0704.pdf"><b>The PARI Journal
-      Vol. VII, No. 4</b></a></span> <span style="font-size: x-small;"><br
-      />Spring 2007 </span><br /><span style="font-size: x-small;">Stela 45 of
-      Naranjo and the Early Classic Lords of Sa'aal<br />By Alexandre Tokovinine
-      </span><br /><span style="font-size: x-small;">Of Snake Kings and Cannibals:
-      A Fresh Look at the Naranjo Hieroglyphic Stairway<br />By Alexandre Tokovinine
-      </span><br /><span style="font-size: x-small;">An Updated Listing of Early
-      Naranjo Rulers<br />By Joel Skidmore <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0801.pdf"><b>The PARI Journal
-      Vol. VIII, No. 1</b></a></span> <span style="font-size:
-      x-small;"><br />Summer 2007 </span><br /><span style="font-size:
-      x-small;">Death and Veneration at El Perú-Waka': Structure M14-15 as Ancestor Shrine<br
-      />By Keith Eppich <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0802.pdf"><b>The PARI Journal
-      Vol. VIII, No. 2</b></a></span> <span style="font-size:
-      x-small;"><br />Fall 2007 </span><br /><span style="font-size:
-      x-small;">The Lost Field Notebook Restored<br />By Merle Greene Robertson
-      </span><br /><span style="font-size: x-small;">A New Monument Mentioning
-      Wamaaw K'awiil of Naranjo<br />By Raphael Tunesi </span><br /><span
-      style="font-size: x-small;">On the Emblem Glyph of El Peru<br />By Stanley Paul
-      Guenter </span><br /><span style="font-size: x-small;">Morley's Diary: April
-      25, 1932<br />By Sylvanus G. Morley <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0803.pdf"><b>The PARI Journal
-      Vol. VIII, No. 3</b></a></span> <span style="font-size:
-      x-small;"><br />Winter 2008 </span><br /><span style="font-size:
-      x-small;">The Palenque Sarcophagus Story<br />By Merle Greene Robertson
-      </span><br /><span style="font-size: x-small;">Rocks, Ropes, and Maya Boats;
-      Stone Bollards at Ancient Waterfronts<br />Along the Usumacinta: Yaxchilan, Mexico to El
-      Porvenir, Guatemala<br />By Ronald L. Canter and Dave Pentecost </span><br
-      /><span style="font-size: x-small;">Morley's Diary: April 25, 1932<br />By
-      Sylvanus G. Morley <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0804.pdf"><b>The PARI Journal
-      Vol. VIII, No. 4</b></a></span> <span style="font-size:
-      x-small;"><br />Spring 2008 </span><br /><span style="font-size:
-      x-small;">Special Nahuatl Writing Issue</span><span style="font-size:
-      x-small;">containing:</span><br /><span style="font-size:
-      x-small;">Regional Scribal Traditions: Methodological Implications for the Decipherment of
-      Nahuatl Writing<br />By Alfonso Lacadena </span><br /><span
-      style="font-size: x-small;">A Nahuatl Syllabary<br />By Alfonso Lacadena
-      </span><br /><span style="font-size: x-small;">One Hundred and Fifty Years of
-      Nahuatl Decipherment<br />By Marc Zender </span><br /><span
-      style="font-size: x-small;">The wa1 and wa2 Phonetic Signs and the Logogram for WA in
-      Nahuatl Writing<br />By Alfonso Lacadena </span><br /><span
-      style="font-size: x-small;">On the Complementary Signs of the Mexican Graphic System<br
-      />By Zelia Nuttall <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0901.pdf"><b>The PARI Journal
-      Vol. IX, No. 1</b></a></span> <span style="font-size: x-small;"><br
-      />Summer 2008 </span><br /><span style="font-size: x-small;">Special
-      Chalcatzingo Issue</span><span style="font-size:
-      x-small;">containing:</span><br /><span style="font-size:
-      x-small;">Chalcatzingo: A Brief Introduction<br />By David C. Grove
-      </span><br /><span style="font-size: x-small;">Chalcatzingo Monument 34: A
-      Formative Period "Southern Style" Stela in the Central Mexican Highlands<br />By Susan D.
-      Gillespie <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0902.pdf"><b>The PARI Journal
-      Vol. IX, No. 2</b></a></span> <span style="font-size: x-small;"><br
-      />Fall 2008 </span><br /><span style="font-size: x-small;">Incriptions and
-      Iconography of Castillo Viejo, Chichen Itza<br />By Peter Schmidt, David Stuart, and
-      Bruce Love </span><br /><span style="font-size: x-small;">Some Thoughts About
-      a New Vase and an Old God<br />By Raphael Tunesi </span><br /><span
-      style="font-size: x-small;">A Future Cache in Guatemala<br />By Elayne Marquis <br
-      /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0903.pdf"><b>The PARI Journal
-      Vol. IX, No. 3</b></a></span> <span style="font-size: x-small;"><br
-      />Winter 2009 </span><br /><span style="font-size:
-      x-small;">Archaeological and Epigraphic Studies in Pol Box, Quintana Roo<br />By
-      Octavio Q. Esparza Olguín and Vania E. Pérez Gutiérrez <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI0904.pdf"><b>The PARI Journal
-      Vol. IX, No. 4</b></a></span> <span style="font-size: x-small;"><br
-      />Spring 2009 </span><br /><span style="font-size: x-small;">Composite
-      Mirrors of the Ancient Maya: Ostentatious Production and Precolumbian Fraud<br />By
-      Zachary Nelson, Barry Scheetz, Guillermo Mata Amado, and Antonio Prado </span><br
-      /><span style="font-size: x-small;">Lord Kingsborough and his Contribution to Ancient
-      Mesoamerican Scholarship: The Antiquities of Mexico<br />By Sylvia D. Whitmore <br
-      /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI1001.pdf"><b>The PARI Journal
-      Vol. X, No. 1</b></a></span> <span style="font-size: x-small;"><br
-      />Summer 2009 </span><br /><span style="font-size: x-small;">Reflections
-      on the Codex Style and the Princeton Vessel<br />By Erik Velásquez García <br
-      /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI1002.pdf"><b>The PARI Journal
-      Vol. X, No. 2</b></a></span> <span style="font-size: x-small;"><br
-      />Fall 2009 </span><br /><span style="font-size: x-small;">Feast and
-      Sacrifice at El Perú-Waka': The N14-2 Deposit as Dedication<br />By Keith Eppich
-      </span><br /><span style="font-size: x-small;">Morley's Diary: April 26,
-      1932<br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI1003.pdf"><b>The PARI Journal
-      Vol. X, No. 3</b></a></span> <span style="font-size: x-small;"><br
-      />Winter 2010 </span><br /><span style="font-size: x-small;">Religious
-      Imagery in Mayapan's Murals <br />By Susan Milbrath, Carlos Peraza Lope, and Miguel
-      Delgado Kú </span><br /><span style="font-size: x-small;">Glyph F of the
-      Supplementary Series: <i>Ti' Hu'n</i>, Mouth of the Book <br />By Scott A. J.
-      Johnson </span><br /><span style="font-size: x-small;">Morley's Diary: April
-      26-27, 1932<br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI1004.pdf"><b>The PARI Journal
-      Vol. X, No. 4</b></a></span> <span style="font-size: x-small;"><br
-      />Spring 2010 </span><br /><span style="font-size: x-small;">The Classic
-      Court of Itzam K'an Ahk of Piedras Negras:<br />New Information on a Vessel from the
-      Yaxche Phase with Hieroglyphic Dedicatory Formula <br />By Carlos Pállan Gayol
-      </span><br /><span style="font-size: x-small;">Palenque in 1979: Photos by
-      Dale Hinkley (Part One) <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI1101.pdf"><b>The PARI Journal
-      Vol. XI, No. 1</b></a></span> <span style="font-size: x-small;"><br
-      />Summer 2010 </span><br /><span style="font-size: x-small;">A
-      Hieroglyphic Block from the Region of Hiix Witz, Guatemala <br />By Simon Martin and
-      Dorie Reents-Budet </span><br /><span style="font-size: x-small;">Palenque
-      from 1560 to 2010 <br />By Merle Greene Robertson <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI1102.pdf"><b>The PARI Journal
-      Vol. XI, No. 2</b></a></span> <span style="font-size: x-small;"><br
-      />Fall 2010 </span><br /> <span style="font-size:
-      x-small;"><i>Baj</i> "Hammer" and Related Affective Verbs in Classic Mayan
-      <br />By Marc Zender </span><br /><span style="font-size: x-small;">The
-      Western Sun: An Unusual Tzolk'in-Haab Correlation in Classic Maya Inscriptions <br />By
-      Alexandre Tokovinine </span><br /><span style="font-size: x-small;">A New
-      Look at the Inscription of Copan Altar K <br />By Péter Bíró <br /><br
-      /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1103.pdf"><b>The PARI
-      Journal Vol. XI, No. 3</b></a></span> <span style="font-size:
-      x-small;"><br />Winter 2011 </span><br /><span style="font-size:
-      x-small;">The Stelae of Chichen Itza <br />By Bruce Love </span><br
-      /><span style="font-size: x-small;">Palenque in 1979: Photos by Dale Hinkley (Part
-      Two) </span><br /><span style="font-size: x-small;">Morley's Diary: April 27,
-      1932<br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI1104.pdf"><b>The PARI Journal
-      Vol. XI, No. 4</b></a></span> <span style="font-size: x-small;"><br
-      />Spring 2011 </span><br /><span style="font-size: x-small;">In Memoriam:
-      Merle Greene Robertson <br />By Marc Zender and Joel Skidmore </span><br
-      /><span style="font-size: x-small;">Recent Investigations in the Salto de Agua Region:
-      Sites, Territories, and Frontiers to the West of Palenque <br />By Joshua A. Balcells
-      González, Jorge E. Gama Castro, and Esteban Mirón Marván </span><br /><span
-      style="font-size: x-small;">The San Bartolo Regional Archaeological Project: Results of the
-      First Field Season 2002 <br />By William A. Saturno </span><br /><span
-      style="font-size: x-small;">Morley's Diary: April 27, 1932<br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI1201.pdf"><b>The PARI Journal
-      Vol. XII, No. 1</b></a></span> <span style="font-size: x-small;"><br
-      />Summer 2011 </span><br /><span style="font-size: x-small;">The Celestial
-      God of Number 13 <br />By Merle Greene Robertson </span><br /><span
-      style="font-size: x-small;">A Celebration of Merle Greene Robertson <br />By E. Wyllys
-      Andrews </span><br /><span style="font-size: x-small;">A Notational
-      Explanation for Maya Calendar Round Dates Such as 11 Eb 16 Mac <br />By Victoria R.
-      Bricker </span><br /><span style="font-size: x-small;">Morley's Diary: April
-      28, 1932 <br /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI1202.pdf"><b>The PARI Journal
-      Vol. XII, No. 2</b></a></span> <span style="font-size: x-small;"><br
-      />Fall 2011 </span><br /><span style="font-size: x-small;">A New La Corona
-      Panel <br />By Erik Boot </span><br /><span style="font-size:
-      x-small;">The Murals of San Bartolo:<br />A Window into the Art and Cosmovision of
-      Precolumbian Man <br />By Mónica Urquizú and Heather Hurst </span><br
-      /><span style="font-size: x-small;">Morley's Diary: April 28 - April 30, 1932 <br
-      /><br /><a
-      href="http://www.mesoweb.com/pari/journal/archive/PARI1203.pdf"><b>The PARI Journal
-      Vol. XII, No. 3</b></a></span> <span style="font-size: x-small;"><br
-      />Winter 2012 </span><br /><span style="font-size: x-small;">Excavations
-      of Nakum Structure 15: Discovery of Royal Burials and Accompanying Offerings <br />By
-      Jarosław Źrałka, Wiesław Koszkul, Bernard Hermes, and Simon Martin <br /><br
-      /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1204.pdf"><b>The PARI
-      Journal Vol. XII, No. 4</b></a></span> <span style="font-size:
-      x-small;"><br />Spring 2012 </span><br /><span style="font-size:
-      x-small;">Allspice as Template for the Classic Maya K'an Sign <br />By Estella
-      Weiss-Krejci </span><br /><span style="font-size: x-small;">The San Bartolo
-      Regional Archaeological Project: Results of the Second Field Season 2003 <br />By Mónica
-      Urquizú and William A. Saturno <a href="" name="bottom"></a><br /><a
-      href="" name="bottom"></a></span></blockquote><br /><div
-      style="text-align: center;"><a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: The PARI Journal: A Quarterly Publication of the Pre-Columbian Art Research Institute</title>
+   <content type="html"><![CDATA[<a href="http://www.mesoweb.com/pari/journal.html">The PARI Journal: A Quarterly Publication of the Pre-Columbian Art Research Institute </a><br />ISSN 1531-5398<br /><br /><blockquote class="tr_bq"><span style="font-size: x-small;"><a href="http://www.mesoweb.com/pari/journal/archive/PARI0401.pdf"><b>The PARI Journal Vol. IV, No. 1</b></a><br />Summer 2003 </span><br /><span style="font-size: x-small;">Longer Live the King:<br />The Questionable Demise of K'inich K'an Joy Chitam of Palenque<br />By David Stuart </span><br /><span style="font-size: x-small;">The Environment of Pakal's Tomb<br />By Leon Langan </span><br /><span style="font-size: x-small;">Urbanism at Palenque<br />By Edwin L. Barnhart  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0402.pdf"><b>The PARI Journal Vol. IV, No. 2</b></a></span> <span style="font-size: x-small;"><br />Fall 2003 </span><br /><span style="font-size: x-small;">Photographing the Cacaxtla Murals<br />By Merle Greene Robertson </span><br /><span style="font-size: x-small;">Frans Blom and the Decipherment of Maya Writing<br />By Jesper Nielsen </span><br /><span style="font-size: x-small;">Morley's Diary: April 10-14, 1932<br /> By Sylvanus G. Morley  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0403.pdf"><b>The PARI Journal Vol. IV, No. 3</b></a></span> <span style="font-size: x-small;"><br />Winter 2004 </span><br /> <span style="font-size: x-small;">The Paw Stone: The Place Name of Piedras Negras, Guatemala<br />By David Stuart </span><br /><span style="font-size: x-small;">Return to the Great Forests: Frans Blom's Letters from Palenque (Part 1)<br />Translated and With an Introduction by Jesper Nielsen &amp; Tore Leifer </span><br /><span style="font-size: x-small;">Morley's Diary: April 15-17, 1932<br />By Sylvanus G. Morley  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0404.pdf"><b>The PARI Journal Vol. IV, No. 4</b></a></span> <span style="font-size: x-small;"><br />Spring 2004 </span><br /><span style="font-size: x-small;"> Glyphs for "Handspan" and "Strike" in Classic Maya Ballgame Texts<br />By Marc Zender </span><br /> <span style="font-size: x-small;">Sport, Spectacle and Political Theater: New Views of the Classic Maya Ballgame<br />By Marc Zender </span><br /><span style="font-size: x-small;">Return to the Great Forests: Frans Blom's Letters from Palenque (Part 2)<br />Translated and With an Introduction by Jesper Nielsen &amp; Tore Leifer  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0501.pdf"><b>The PARI Journal Vol. V, No. 1</b></a></span> <span style="font-size: x-small;"><br />Summer 2004 </span><br /> <span style="font-size: x-small;">A Broken Sky: The Ancient Name of Yaxchilan as <i>Pa' Chan</i><br />By Simon Martin </span><br /><span style="font-size: x-small;">Return to the Great Forests: Frans Blom's Letters from Palenque (Part 3)<br />Translated and With an Introduction by Jesper Nielsen &amp; Tore Leifer </span><br /><span style="font-size: x-small;">Morley's Diary: April 18-20, 1932<br />By Sylvanus G. Morley  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0502.pdf"><b>The PARI Journal Vol. V, No. 2</b></a></span> <span style="font-size: x-small;"><br />Fall 2004 </span><br /> <span style="font-size: x-small;">New Year Records in Classic Maya Inscriptions<br />By David Stuart </span><br /><span style="font-size: x-small;">Signs and Symbols of the Maya<br />By Brian Hayden </span><br /><span style="font-size: x-small;">Return to the Great Forests: Frans Blom's Letters from Palenque (Part 4)<br />Translated and With an Introduction by Jesper Nielsen &amp; Tore Leifer  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0503.pdf"><b>The PARI Journal Vol. V, No. 3</b></a></span> <span style="font-size: x-small;"><br />Winter 2005 </span><br /><span style="font-size: x-small;">Rock Paintings and Lacandon Maya Sacred Landscapes<br />By Joel Palka </span><br /> <span style="font-size: x-small;">'Flaming Akbal' and the Glyphic Representation of the <i>aj-</i> Agentive Prefix<br />By Marc Zender </span><br /><span style="font-size: x-small;">Morley's Diary: April 21, 1932<br />By Sylvanus G. Morley  </span><br /><span style="font-size: x-small;"><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0504.pdf"><b>The PARI Journal Vol. V, No. 4</b></a></span><span style="font-size: x-small;"><br />Spring 2005 </span><br /><span style="font-size: x-small;">A Glimpse Into the Watery Underworld<br />By Jorge Pérez de Lara </span><br /> <span style="font-size: x-small;">The Raccoon Glyph In Classic Maya Writing<br />By Marc Zender  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0601.pdf"><b>The PARI Journal Vol. VI, No. 1</b></a></span> <span style="font-size: x-small;"><br />Summer 2005 </span><br /> <span style="font-size: x-small;">Caracol Altar 21 Revisited: More Data on Double Bird and Tikal's Wars of the Mid-Sixth Century<br />By Simon Martin </span><br /><span style="font-size: x-small;">A Selection of Rubbings, Part One<br />By Merle Greene Robertson </span><br /><span style="font-size: x-small;">Morley's Diary: April 22, 1932<br />By Sylvanus G. Morley   <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0602.pdf"><b>The PARI Journal Vol. VI, No. 2</b></a></span> <span style="font-size: x-small;"><br />Fall 2005 </span><br /><span style="font-size: x-small;">The Captives of Dzibanche<br />By Erik Velásquez García </span><br /> <span style="font-size: x-small;">Of Snakes and Bats: Shifting Identities at Calakmul<br />By Simon Martin </span><br /><span style="font-size: x-small;">La Corona Find Sheds Light on Site Q Mystery<br />By Stanley Guenter  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0603.pdf"><b>The PARI Journal Vol. VI, No. 3</b></a></span> <span style="font-size: x-small;"><br />Winter 2006 </span><br /> <span style="font-size: x-small;">Teasing the Turtle From its Shell: AHK and MAHK in Maya Writing<br />By Marc Zender </span><br /><span style="font-size: x-small;">Morley's Diary: April 23, 1932<br />By Sylvanus G. Morley   <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0604.pdf"><b>The PARI Journal Vol. VI, No. 4</b></a></span> <span style="font-size: x-small;"><br />Spring 2006 </span><br /> <span style="font-size: x-small;">The Queen's Mirrors: Interpreting the Iconography of Two Teotihuacan Style<br />Mirrors from the Early Classic Margarita Tomb at Copan<br />By Jesper Nielsen </span><br /><span style="font-size: x-small;">A Selection of Rubbings, Part Two<br />By Merle Greene Robertson   <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0701.pdf"><b>The PARI Journal Vol. VII, No. 1</b></a></span> <span style="font-size: x-small;"><br />Summer 2006 </span><br /> <span style="font-size: x-small;">The Maya Flood Myth and the Decapitation of the Cosmic Caiman<br />By Erik Velásquez García </span><br /><span style="font-size: x-small;">A Selection of Rubbings, Part Three<br />By Merle Greene Robertson  </span><br /><span style="font-size: x-small;">Morley's Diary: April 24, 1932<br />By Sylvanus G. Morley   <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0702.pdf"><b>The PARI Journal Vol. VII, No. 2</b></a></span> <span style="font-size: x-small;"><br />Fall 2006 </span><br /><span style="font-size: x-small;">Border Problems: Recent Archaeological Research along the Usumacinta River<br />By Charles Golden and Andrew Scherer  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0703.pdf"><b>The PARI Journal Vol. VII, No. 3</b></a></span> <span style="font-size: x-small;"><br />Winter 2007 </span><br /><span style="font-size: x-small;">Rivers Among the Ruins: The Usumacinta<br />By Ronald L. Canter </span><br /> <span style="font-size: x-small;">Special supplement: <br />Río Usumacinta Navigation Survey  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0704.pdf"><b>The PARI Journal Vol. VII, No. 4</b></a></span> <span style="font-size: x-small;"><br />Spring 2007 </span><br /><span style="font-size: x-small;">Stela 45 of Naranjo and the Early Classic Lords of Sa'aal<br />By Alexandre Tokovinine </span><br /><span style="font-size: x-small;">Of Snake Kings and Cannibals: A Fresh Look at the Naranjo Hieroglyphic Stairway<br />By Alexandre Tokovinine </span><br /><span style="font-size: x-small;">An Updated Listing of Early Naranjo Rulers<br />By Joel Skidmore  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0801.pdf"><b>The PARI Journal Vol. VIII, No. 1</b></a></span> <span style="font-size: x-small;"><br />Summer 2007 </span><br /><span style="font-size: x-small;">Death and Veneration at El Perú-Waka': Structure M14-15 as Ancestor Shrine<br />By Keith Eppich  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0802.pdf"><b>The PARI Journal Vol. VIII, No. 2</b></a></span> <span style="font-size: x-small;"><br />Fall 2007 </span><br /><span style="font-size: x-small;">The Lost Field Notebook Restored<br />By Merle Greene Robertson </span><br /><span style="font-size: x-small;">A New Monument Mentioning Wamaaw K'awiil of Naranjo<br />By Raphael Tunesi </span><br /><span style="font-size: x-small;">On the Emblem Glyph of El Peru<br />By Stanley Paul Guenter </span><br /><span style="font-size: x-small;">Morley's Diary: April 25, 1932<br />By Sylvanus G. Morley   <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0803.pdf"><b>The PARI Journal Vol. VIII, No. 3</b></a></span> <span style="font-size: x-small;"><br />Winter 2008 </span><br /><span style="font-size: x-small;">The Palenque Sarcophagus Story<br />By Merle Greene Robertson </span><br /><span style="font-size: x-small;">Rocks, Ropes, and Maya Boats; Stone Bollards at Ancient Waterfronts<br />Along the Usumacinta: Yaxchilan, Mexico to El Porvenir, Guatemala<br />By Ronald L. Canter and Dave Pentecost </span><br /><span style="font-size: x-small;">Morley's Diary: April 25, 1932<br />By Sylvanus G. Morley   <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0804.pdf"><b>The PARI Journal Vol. VIII, No. 4</b></a></span> <span style="font-size: x-small;"><br />Spring 2008 </span><br /><span style="font-size: x-small;">Special Nahuatl Writing Issue</span><span style="font-size: x-small;">containing:</span><br /><span style="font-size: x-small;">Regional Scribal Traditions: Methodological Implications for the Decipherment of Nahuatl Writing<br />By Alfonso Lacadena </span><br /><span style="font-size: x-small;">A Nahuatl Syllabary<br />By Alfonso Lacadena </span><br /><span style="font-size: x-small;">One Hundred and Fifty Years of Nahuatl Decipherment<br />By Marc Zender </span><br /><span style="font-size: x-small;">The wa1 and wa2 Phonetic Signs and the Logogram for WA in Nahuatl Writing<br />By Alfonso Lacadena </span><br /><span style="font-size: x-small;">On the Complementary Signs of the Mexican Graphic System<br />By Zelia Nuttall  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0901.pdf"><b>The PARI Journal Vol. IX, No. 1</b></a></span> <span style="font-size: x-small;"><br />Summer 2008 </span><br /><span style="font-size: x-small;">Special Chalcatzingo Issue</span><span style="font-size: x-small;">containing:</span><br /><span style="font-size: x-small;">Chalcatzingo: A Brief Introduction<br />By David C. Grove </span><br /><span style="font-size: x-small;">Chalcatzingo Monument 34: A Formative Period "Southern Style" Stela in the Central Mexican Highlands<br />By Susan D. Gillespie  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0902.pdf"><b>The PARI Journal Vol. IX, No. 2</b></a></span> <span style="font-size: x-small;"><br />Fall 2008 </span><br /><span style="font-size: x-small;">Incriptions and Iconography of Castillo Viejo, Chichen Itza<br />By Peter Schmidt, David Stuart, and Bruce Love </span><br /><span style="font-size: x-small;">Some Thoughts About a New Vase and an Old God<br />By Raphael Tunesi </span><br /><span style="font-size: x-small;">A Future Cache in Guatemala<br />By Elayne Marquis  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0903.pdf"><b>The PARI Journal Vol. IX, No. 3</b></a></span> <span style="font-size: x-small;"><br />Winter 2009 </span><br /><span style="font-size: x-small;">Archaeological and Epigraphic Studies in Pol Box, Quintana Roo<br />By Octavio Q. Esparza Olguín and Vania E. Pérez Gutiérrez  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI0904.pdf"><b>The PARI Journal Vol. IX, No. 4</b></a></span> <span style="font-size: x-small;"><br />Spring 2009 </span><br /><span style="font-size: x-small;">Composite Mirrors of the Ancient Maya: Ostentatious Production and Precolumbian Fraud<br />By Zachary Nelson, Barry Scheetz, Guillermo Mata Amado, and Antonio Prado </span><br /><span style="font-size: x-small;">Lord Kingsborough and his Contribution to Ancient Mesoamerican Scholarship: The Antiquities of Mexico<br />By Sylvia D. Whitmore  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1001.pdf"><b>The PARI Journal Vol. X, No. 1</b></a></span> <span style="font-size: x-small;"><br />Summer 2009 </span><br /><span style="font-size: x-small;">Reflections on the Codex Style and the Princeton Vessel<br />By Erik Velásquez García  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1002.pdf"><b>The PARI Journal Vol. X, No. 2</b></a></span> <span style="font-size: x-small;"><br />Fall 2009 </span><br /><span style="font-size: x-small;">Feast and Sacrifice at El Perú-Waka': The N14-2 Deposit as Dedication<br />By Keith Eppich </span><br /><span style="font-size: x-small;">Morley's Diary: April 26, 1932<br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1003.pdf"><b>The PARI Journal Vol. X, No. 3</b></a></span>  <span style="font-size: x-small;"><br />Winter 2010 </span><br /><span style="font-size: x-small;">Religious Imagery in Mayapan's Murals <br />By Susan Milbrath, Carlos Peraza Lope, and Miguel Delgado Kú  </span><br /><span style="font-size: x-small;">Glyph F of the Supplementary Series: <i>Ti' Hu'n</i>, Mouth of the Book <br />By Scott A. J. Johnson </span><br /><span style="font-size: x-small;">Morley's Diary: April 26-27, 1932<br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1004.pdf"><b>The PARI Journal Vol. X, No. 4</b></a></span>   <span style="font-size: x-small;"><br />Spring 2010 </span><br /><span style="font-size: x-small;">The Classic Court of Itzam K'an Ahk of Piedras Negras:<br />New Information on a Vessel from the Yaxche Phase with Hieroglyphic Dedicatory Formula <br />By Carlos Pállan Gayol </span><br /><span style="font-size: x-small;">Palenque in 1979: Photos by Dale Hinkley (Part One)  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1101.pdf"><b>The PARI Journal Vol. XI, No. 1</b></a></span> <span style="font-size: x-small;"><br />Summer 2010 </span><br /><span style="font-size: x-small;">A Hieroglyphic Block from the Region of Hiix Witz, Guatemala <br />By Simon Martin and Dorie Reents-Budet </span><br /><span style="font-size: x-small;">Palenque from 1560 to 2010 <br />By Merle Greene Robertson  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1102.pdf"><b>The PARI Journal Vol. XI, No. 2</b></a></span> <span style="font-size: x-small;"><br />Fall 2010 </span><br /> <span style="font-size: x-small;"><i>Baj</i> "Hammer" and Related Affective Verbs in Classic Mayan <br />By Marc Zender </span><br /><span style="font-size: x-small;">The Western Sun: An Unusual Tzolk'in-Haab Correlation in Classic Maya Inscriptions <br />By Alexandre Tokovinine </span><br /><span style="font-size: x-small;">A New Look at the Inscription of Copan Altar K <br />By Péter Bíró  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1103.pdf"><b>The PARI Journal Vol. XI, No. 3</b></a></span> <span style="font-size: x-small;"><br />Winter 2011 </span><br /><span style="font-size: x-small;">The Stelae of Chichen Itza <br />By Bruce Love </span><br /><span style="font-size: x-small;">Palenque in 1979: Photos by Dale Hinkley (Part Two) </span><br /><span style="font-size: x-small;">Morley's Diary: April 27, 1932<br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1104.pdf"><b>The PARI Journal Vol. XI, No. 4</b></a></span>  <span style="font-size: x-small;"><br />Spring 2011 </span><br /><span style="font-size: x-small;">In Memoriam: Merle Greene Robertson <br />By Marc Zender and Joel Skidmore </span><br /><span style="font-size: x-small;">Recent Investigations in the Salto de Agua Region: Sites, Territories, and Frontiers to the West of Palenque <br />By Joshua A. Balcells González, Jorge E. Gama Castro, and Esteban Mirón Marván </span><br /><span style="font-size: x-small;">The San Bartolo Regional Archaeological Project: Results of the First Field Season 2002 <br />By William A. Saturno </span><br /><span style="font-size: x-small;">Morley's Diary: April 27, 1932<br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1201.pdf"><b>The PARI Journal Vol. XII, No. 1</b></a></span>  <span style="font-size: x-small;"><br />Summer 2011 </span><br /><span style="font-size: x-small;">The Celestial God of Number 13 <br />By Merle Greene Robertson </span><br /><span style="font-size: x-small;">A Celebration of Merle Greene Robertson <br />By E. Wyllys Andrews </span><br /><span style="font-size: x-small;">A Notational Explanation for Maya Calendar Round Dates Such as 11 Eb 16 Mac <br />By Victoria R. Bricker </span><br /><span style="font-size: x-small;">Morley's Diary: April 28, 1932  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1202.pdf"><b>The PARI Journal Vol. XII, No. 2</b></a></span> <span style="font-size: x-small;"><br />Fall 2011 </span><br /><span style="font-size: x-small;">A New La Corona Panel <br />By Erik Boot </span><br /><span style="font-size: x-small;">The Murals of San Bartolo:<br />A Window into the Art and Cosmovision of Precolumbian Man <br />By Mónica Urquizú and Heather Hurst </span><br /><span style="font-size: x-small;">Morley's Diary: April 28 - April 30, 1932  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1203.pdf"><b>The PARI Journal Vol. XII, No. 3</b></a></span> <span style="font-size: x-small;"><br />Winter 2012 </span><br /><span style="font-size: x-small;">Excavations of Nakum Structure 15: Discovery of Royal Burials and Accompanying Offerings <br />By Jarosław Źrałka, Wiesław Koszkul, Bernard Hermes, and Simon Martin  <br /><br /><a href="http://www.mesoweb.com/pari/journal/archive/PARI1204.pdf"><b>The PARI Journal Vol. XII, No. 4</b></a></span> <span style="font-size: x-small;"><br />Spring 2012 </span><br /><span style="font-size: x-small;">Allspice as Template for the Classic Maya K'an Sign <br />By Estella Weiss-Krejci </span><br /><span style="font-size: x-small;">The San Bartolo Regional Archaeological Project: Results of the Second Field Season 2003 <br />By Mónica Urquizú and William A. Saturno       <a href="" name="bottom"></a><br /><a href="" name="bottom"></a></span></blockquote><br /><div style="text-align: center;"><a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4785596110506607859/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4785596110506607859/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/06/open-access-journal-pari-journal.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4785596110506607859"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4785596110506607859"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/06/open-access-journal-pari-journal.html"
          title="Open Access Journal: The PARI Journal: A Quarterly Publication of the Pre-Columbian Art Research Institute"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

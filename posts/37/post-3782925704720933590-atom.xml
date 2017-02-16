@@ -1,52 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3782925704720933590</id>
-    <published>2013-10-21T07:48:00.001-04:00</published>
-    <updated>2013-10-23T09:19:30.512-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3782925704720933590</id>
+   <published>2013-10-21T07:48:00.001-04:00</published>
+   <updated>2013-10-23T09:19:30.512-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Antiquity"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Switzerland"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">(Partially) Open Access Journal: Genava: bulletin du Musée d'art et
-      d'histoire</title>
-    <content type="html"><![CDATA[<a href="http://doc.rero.ch/record/30740">Genava: bulletin du Musée
-      d'art et d'histoire</a><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;">Le sous-titre devient : bulletin du Musée d'art et d'histoire de
-      Genève et de la Société auxiliaire du Musée, la Bibliothèque publique et universitaire, la
-      Commission cantonale pour la conservation des monuments et la protection des sites; [puis] :
-      bulletin du Musée d'art et d'histoire de Genève, du Musée Ariana et de la Société des amis du
-      Musée; [puis] : revue d'archéologie et d'histoire de
-      l'ar.</span></blockquote><div style="text-align: center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Antiquity"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Switzerland"/>
+   <title type="text">(Partially) Open Access Journal: Genava: bulletin du Musée d'art et d'histoire</title>
+   <content type="html"><![CDATA[<a href="http://doc.rero.ch/record/30740">Genava: bulletin du Musée d'art et d'histoire</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Le sous-titre devient : bulletin du Musée d'art et d'histoire  de Genève et de la Société auxiliaire du Musée, la Bibliothèque publique  et universitaire, la Commission cantonale pour la conservation des  monuments et la protection des sites; [puis] : bulletin du Musée d'art  et d'histoire de Genève, du Musée Ariana et de la Société des amis du  Musée; [puis] : revue d'archéologie et d'histoire de l'ar.</span></blockquote><div style="text-align: center;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3782925704720933590/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3782925704720933590/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/10/patially-open-access-journal-genava.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3782925704720933590"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3782925704720933590"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/10/patially-open-access-journal-genava.html"
          title="(Partially) Open Access Journal: Genava: bulletin du Musée d'art et d'histoire"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,74 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4097359843218256951</id>
-    <published>2012-12-05T15:13:00.001-05:00</published>
-    <updated>2012-12-06T12:15:10.254-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4097359843218256951</id>
+   <published>2012-12-05T15:13:00.001-05:00</published>
+   <updated>2012-12-06T12:15:10.254-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Anatolia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Hittite"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Sirkeli Höyük Ausgrabungsprojekt </title>
-    <content type="html"><![CDATA[<a href="http://sirkeli.unibe.ch/">Sirkeli Höyük
-      Ausgrabungsprojekt</a><span style="font-size:
-      x-small;">&nbsp;</span><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><img
-      alt="http://sirkeli.unibe.ch/gb/files/2012/10/copy-Header_sirk-01.png" class="decoded"
-      height="80" src="http://sirkeli.unibe.ch/gb/files/2012/10/copy-Header_sirk-01.png" width="320"
-      /> </span></blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">On this website you will find information on the Turkish-German
-      archaeological project »Sirkeli Höyük – Cultural Contacts at the Interface between Anatolia,
-      Cyprus, and Syria«. The project is a joint research project of the Institute of Archaeological
-      Sciences, Department of Near Eastern Archaeology of the University of Bern and the Çanakkale
-      Onsekiz Mart Üniversitesi. The project is supported by the Swiss National Fond
-      (SNF).</span><br /><br /><span style="font-size: x-small;">Auf diesen
-      Seiten erhalten Sie Informationen über das türkisch-schweizerische archäologische
-      Forschungsprojekt&nbsp;›Sirkeli Höyük – Kulturkontakte in Kilikien&nbsp;am Schnittpunkt
-      zwischen Anatolien, Zypern und Syrien‹</span><br /><br /><span
-      style="font-size: x-small;">Unter dem Menüpunkt Fundort erhalten Sie Informationen zum
-      archäologischen Fundplatz Sirkeli Höyük, seiner Lage und Geschichte. Über die bisherigen
-      wissenschaftlichen Untersuchungen werden Sie unter Forschung informiert. Wesentliches über die
-      Ziele unserer Arbeiten finden Sie unter Projekt.</span> <br /><span
-      style="font-size: x-small;"><br /></span></blockquote><div
-      class="entry-content"><blockquote><span style="font-size: x-small;">Bu sayfada
-      Türk-Isviçre&nbsp;ortakliginda yürütülen arkeolojik kazi projesi</span><br
-      /><h1 style="text-align: center;"><span style="font-size: x-small;">›Sirkeli
-      Höyük – Kilikya ile Anadolu,<br />Kibris ve Suriye arasinda kültürel
-      iliskiler‹</span></h1><span style="font-size: x-small;">ile ilgili bilgilere
-      ulasabilirsiniz.</span><br /><span style="font-size: x-small;">Yerlesim
-      basligi yerlesimin konumu ve tarihi hakkinda, Arastirma basligi ise simdiye kadar yürütülen
-      bilimsel çalismalar hakkinda bilgi vermektedir. Yeni dönem çalismalari ile bilgilere Proje
-      basligindan ulasabilirsiniz.</span><br /><span style="font-size: x-small;">Bu
-      sayfanin ilginizi çekecegine ve size yardimci olacagini ümit ediyoruz. Görüslerinizi ve
-      önerilerinizi bekliyoruz.</span></blockquote></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Anatolia"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Hittite"/>
+   <title type="text">Sirkeli Höyük Ausgrabungsprojekt </title>
+   <content type="html"><![CDATA[<a href="http://sirkeli.unibe.ch/">Sirkeli Höyük Ausgrabungsprojekt</a><span style="font-size: x-small;">&nbsp;</span><br /><blockquote class="tr_bq"><span style="font-size: x-small;"><img alt="http://sirkeli.unibe.ch/gb/files/2012/10/copy-Header_sirk-01.png" class="decoded" height="80" src="http://sirkeli.unibe.ch/gb/files/2012/10/copy-Header_sirk-01.png" width="320" /> </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">On this website you will find information on the Turkish-German  archaeological project »Sirkeli Höyük – Cultural Contacts at the  Interface between Anatolia, Cyprus, and Syria«. The project is a joint  research project of the Institute of Archaeological Sciences, Department  of Near Eastern Archaeology of the University of Bern and the Çanakkale  Onsekiz Mart Üniversitesi. The project is supported by the Swiss  National Fond (SNF).</span><br /><br /><span style="font-size: x-small;">Auf diesen Seiten erhalten Sie Informationen über das  türkisch-schweizerische archäologische Forschungsprojekt&nbsp;›Sirkeli Höyük –  Kulturkontakte in Kilikien&nbsp;am Schnittpunkt zwischen Anatolien, Zypern  und Syrien‹</span><br /><br /><span style="font-size: x-small;">Unter dem Menüpunkt Fundort erhalten Sie Informationen zum  archäologischen Fundplatz Sirkeli Höyük, seiner Lage und Geschichte.  Über die bisherigen wissenschaftlichen Untersuchungen werden Sie unter  Forschung informiert. Wesentliches über die Ziele unserer Arbeiten  finden Sie unter Projekt.</span> <br /><span style="font-size: x-small;"><br /></span></blockquote><div class="entry-content"><blockquote><span style="font-size: x-small;">Bu sayfada Türk-Isviçre&nbsp;ortakliginda yürütülen arkeolojik kazi projesi</span><br /><h1 style="text-align: center;"><span style="font-size: x-small;">›Sirkeli Höyük – Kilikya ile Anadolu,<br />Kibris ve Suriye arasinda kültürel iliskiler‹</span></h1><span style="font-size: x-small;">ile ilgili bilgilere ulasabilirsiniz.</span><br /><span style="font-size: x-small;">Yerlesim basligi yerlesimin konumu ve tarihi hakkinda, Arastirma  basligi ise simdiye kadar yürütülen bilimsel çalismalar hakkinda bilgi  vermektedir. Yeni dönem çalismalari ile bilgilere Proje basligindan  ulasabilirsiniz.</span><br /><span style="font-size: x-small;">Bu sayfanin ilginizi çekecegine ve size yardimci olacagini ümit ediyoruz. Görüslerinizi ve önerilerinizi bekliyoruz.</span></blockquote></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4097359843218256951/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4097359843218256951/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/12/sirkeli-hoyuk-ausgrabunsgproject.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4097359843218256951"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4097359843218256951"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/12/sirkeli-hoyuk-ausgrabunsgproject.html"
          title="Sirkeli Höyük Ausgrabungsprojekt "/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,97 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4678178819505286560</id>
-    <published>2015-01-09T14:20:00.001-05:00</published>
-    <updated>2015-01-09T14:20:49.477-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4678178819505286560</id>
+   <published>2015-01-09T14:20:00.001-05:00</published>
+   <updated>2015-01-09T14:20:49.477-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Crowd Source"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Iran"/>
-    <title type="text">Encyclopaedia Iranica (EIr) Crowdsourcing Project</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.iranicaonline.org/pages/how-to-update-wikipedia-links">Encyclopaedia
-      Iranica (EIr) Crowdsourcing Project</a><br /><blockquote
-      class="tr_bq"><img alt="http://www.iranicaonline.org/img/logo-text.png" class="decoded"
-      src="http://www.iranicaonline.org/img/logo-text.png" /> </blockquote><blockquote
-      class="tr_bq"><div class="MsoNormal"><span style="font-size: x-small;">The
-      Encyclopaedia Iranica (EIr) is launching a crowdsourcing project to improve access to our its
-      free website (<a href="http://www.iranicaonline.org/"
-      target="_blank">http://www.iranicaonline.org/</a>).<span>&nbsp;
-      </span>Since the URL update in Spring 2010 there are still many broken EIr links on
-      Wikipedia.<span>&nbsp; </span>For those who would like to assist the
-      Wikipedians and the EIr by repairing these links, here are the
-      instructions:</span></div><br /> <div class="MsoNormal"><span
-      style="font-size: x-small;"><strong>What is a broken
-      link?</strong></span></div><div class="MsoNormal"><span
-      style="font-size: x-small;">A broken link is a link that no longer works properly, leaving
-      readers stranded as they cannot connect to hyperlinked web pages, servers, or other resources
-      on the internet (see also the definition in the Wikipedia entry “<a
-      href="http://en.wikipedia.org/wiki/Link_rot" target="_blank">link rot</a>” <a
-      href="http://en.wikipedia.org/wiki/Link_rot"
-      target="_blank">http://en.wikipedia.org/wiki/Link_rot</a>).</span></div><div
-      class="MsoNormal"><span style="font-size: x-small;">Broken link sample:
-      <span><a
-      href="http://www.iranicaonline.org/newsite/articles/ot_grp7/ot_kangavar_20050323.html"
-      target="_blank">http://www.iranicaonline.org/newsite/articles/ot_grp7/ot_kangavar_20050323.html</a></span></span></div><div
-      class="MsoNormal"><br /></div><div class="MsoNormal"><span
-      style="font-size: x-small;"><strong>What can I do to
-      help?</strong></span></div><div class="MsoNormal"><span
-      style="font-size: x-small;">Create a Wiki ID and fix broken EIr links. Here is
-      how:</span></div><div class="MsoNormal"><span style="font-size:
-      x-small;"><strong>Create a Wiki ID</strong></span></div><div
-      class="MsoNormal"><span style="font-size: x-small;">Log on to <a
-      href="http://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Main+Page&amp;returntoquery=type%3Dsignup&amp;campaign=ACP2">Wikipedia</a>
-      (<a
-      href="http://en.wikipedia.org/wiki/Login">http://en.wikipedia.org/wiki/Login</a>). If
-      you do not have a Wiki username and password, you must create a Wiki ID, which will track and
-      identify your work in Wikipedia.&nbsp; This audit trail will allow fellow Wikipedians to
-      post questions and comments about your work on the respective
-      pages.</span></div><div class="MsoNormal"><span style="font-size:
-      x-small;"><strong>Use Google to find broken EIr links in
-      Wikipedia</strong></span></div><div class="MsoNormal"><span
-      style="font-size: x-small;">Use <a href="http://www.google.com/"
-      target="_blank">Google</a> (<a href="http://www.google.com/"
-      target="_blank">http://www.google.com/</a>) to look for EIr links that are broken by
-      copying the terms given below into the search bar:</span></div><div
-      class="MsoNormal"><span style="font-size: x-small;"><em>allinlinks:
-      "iranica.com/newsite" site:wikipedia.org</em></span></div><ul
-      type="disc"><li class="MsoNormal"><span style="font-size: x-small;">Please note
-      that some EIr links with the old <strong>iranica.com</strong> URL are still working
-      fine as they automatically redirect to the new URL, but in order&nbsp; to prevent future
-      malfunction they also need to be updated.&nbsp;&nbsp; </span></li><li
-      class="MsoNormal"><span style="font-size: x-small;">Please ignore image files (.jpg,
-      .gif, .png) whose Wikipedia URL starts with “File” (e.g., <a
-      href="http://en.wikipedia.org/wiki/File:View_of_Erevan_in_1796.png"
-      target="_blank">File:View of Erevan in 1796.png - Wikipedia, the free
-      encyclopedia</a>). </span></li></ul></blockquote><br
-      />]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Crowd Source"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Iran"/>
+   <title type="text">Encyclopaedia Iranica (EIr) Crowdsourcing Project</title>
+   <content type="html"><![CDATA[<a href="http://www.iranicaonline.org/pages/how-to-update-wikipedia-links">Encyclopaedia Iranica (EIr) Crowdsourcing Project</a><br /><blockquote class="tr_bq"><img alt="http://www.iranicaonline.org/img/logo-text.png" class="decoded" src="http://www.iranicaonline.org/img/logo-text.png" /> </blockquote><blockquote class="tr_bq"><div class="MsoNormal"><span style="font-size: x-small;">The Encyclopaedia Iranica (EIr) is launching a crowdsourcing project to improve access to our its free website (<a href="http://www.iranicaonline.org/" target="_blank">http://www.iranicaonline.org/</a>).<span>&nbsp; </span>Since the URL update in Spring 2010 there are still many broken EIr links on Wikipedia.<span>&nbsp; </span>For those who would like to assist the Wikipedians and the EIr by repairing these links, here are the instructions:</span></div><br /> <div class="MsoNormal"><span style="font-size: x-small;"><strong>What is a broken link?</strong></span></div><div class="MsoNormal"><span style="font-size: x-small;">A broken link is a link that no longer works  properly, leaving readers stranded as they cannot connect to hyperlinked  web pages, servers, or other resources on the internet (see also the  definition in the Wikipedia entry “<a href="http://en.wikipedia.org/wiki/Link_rot" target="_blank">link rot</a>” <a href="http://en.wikipedia.org/wiki/Link_rot" target="_blank">http://en.wikipedia.org/wiki/Link_rot</a>).</span></div><div class="MsoNormal"><span style="font-size: x-small;">Broken link sample: <span><a href="http://www.iranicaonline.org/newsite/articles/ot_grp7/ot_kangavar_20050323.html" target="_blank">http://www.iranicaonline.org/newsite/articles/ot_grp7/ot_kangavar_20050323.html</a></span></span></div><div class="MsoNormal"><br /></div><div class="MsoNormal"><span style="font-size: x-small;"><strong>What can I do to help?</strong></span></div><div class="MsoNormal"><span style="font-size: x-small;">Create a Wiki ID and fix broken EIr links. Here is how:</span></div><div class="MsoNormal"><span style="font-size: x-small;"><strong>Create a Wiki ID</strong></span></div><div class="MsoNormal"><span style="font-size: x-small;">Log on to <a href="http://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Main+Page&amp;returntoquery=type%3Dsignup&amp;campaign=ACP2">Wikipedia</a> (<a href="http://en.wikipedia.org/wiki/Login">http://en.wikipedia.org/wiki/Login</a>).  If you do not have a Wiki username and password, you must create a Wiki  ID, which will track and identify your work in Wikipedia.&nbsp; This audit  trail will allow fellow Wikipedians to post questions and comments about  your work on the respective pages.</span></div><div class="MsoNormal"><span style="font-size: x-small;"><strong>Use Google to find broken EIr links in Wikipedia</strong></span></div><div class="MsoNormal"><span style="font-size: x-small;">Use <a href="http://www.google.com/" target="_blank">Google</a> (<a href="http://www.google.com/" target="_blank">http://www.google.com/</a>) to look for EIr links that are broken by copying the terms given below into the search bar:</span></div><div class="MsoNormal"><span style="font-size: x-small;"><em>allinlinks: "iranica.com/newsite" site:wikipedia.org</em></span></div><ul type="disc"><li class="MsoNormal"><span style="font-size: x-small;">Please note that some EIr links      with the old <strong>iranica.com</strong> URL      are still working fine as they automatically redirect to the  new URL, but      in order&nbsp; to prevent future      malfunction they also  need to be updated.&nbsp;&nbsp; </span></li><li class="MsoNormal"><span style="font-size: x-small;">Please      ignore image files (.jpg, .gif, .png) whose Wikipedia URL starts with      “File” (e.g., <a href="http://en.wikipedia.org/wiki/File:View_of_Erevan_in_1796.png" target="_blank">File:View      of Erevan in 1796.png - Wikipedia, the free encyclopedia</a>). </span></li></ul></blockquote><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4678178819505286560/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4678178819505286560/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/01/encyclopaedia-iranica-eir-crowdsourcing.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4678178819505286560"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4678178819505286560"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/01/encyclopaedia-iranica-eir-crowdsourcing.html"
          title="Encyclopaedia Iranica (EIr) Crowdsourcing Project"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

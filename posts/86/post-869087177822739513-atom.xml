@@ -1,158 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-869087177822739513</id>
-    <published>2013-04-29T11:11:00.000-04:00</published>
-    <updated>2013-04-29T11:11:24.141-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-869087177822739513</id>
+   <published>2013-04-29T11:11:00.000-04:00</published>
+   <updated>2013-04-29T11:11:24.141-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Roman"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Open Access Journal: Croa: boletín da Asociacion de Amigos do Museo do Castro
-      de Viladonga</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=0&amp;clase=marron&amp;idmenu=32">Croa:
-      boletín da Asociacion de Amigos do Museo do Castro de Viladonga</a><br />ISSN:
-      1575-0639<br /><blockquote class="tr_bq"><img
-      alt="http://www.aaviladonga.es/imagenes/1352892716.jpg" class="decoded" height="200"
-      src="http://www.aaviladonga.es/imagenes/1352892716.jpg" width="141" />
-      </blockquote><blockquote class="tr_bq"><div style="margin: 0cm 0cm 0pt;
-      text-align: justify;"><span style="font-family: inherit;"><span style="font-size:
-      x-small;"><span><span lang="GL">A importancia arqueolóxica e o interese
-      histórico do Castro de Viladonga, así como a cantidade e calidade dos materiais aparecidos nas
-      escavacións aquí feitas desde 1972, e a necesidade de investigalos e expoñelos no seu propio
-      contexto, fixeron que en 1983 o Ministerio de Cultura crease o MUSEO DO CASTRO DE VILADONGA,
-      nun edificio que fora construído nos anos setenta. O seu acondicionamento, instalación e
-      montaxe tivo lugar en 1985-1986, e o Museo abriu ó público en novembro deste último ano. A
-      partir de </span><span lang="GL">1990 a</span><span lang="GL"> súa
-      xestión quedou transferida á Xunta de Galicia. Entre 1992 e 1994 fixéronse unhas importantes
-      obras de reforma e ampliación coa construción dun novo edificio a continuación do xa existente,
-      coa subseguinte dotación, nos anos posteriores, da infraestrutura e do persoal necesario para o
-      desenvolvemento de todas as súas funcións museísticas e patrimoniais, ligadas ó propio
-      xacemento castrexo e
-      galaico-romano.</span></span></span></span></div></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;"> </span><div
-      class="boletin"> <div class="boletintitulopequeno"><span style="font-size:
-      x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=52&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 22. 2012</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=51&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 21. 2011</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=46&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 20. 2010</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=45&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 19. 2009</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=44&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 18. 2008</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=43&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 17. 2007</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=38&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 16. 2006</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=37&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 15. 2005</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=36&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 14. 2004</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=39&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 13. 2003</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=35&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 12. 2002</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=34&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 11. 2001</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=33&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 10. 2000</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=32&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 9. 1999</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=31&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 8. 1998</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=30&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 7. 1997</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=29&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 6. 1996</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=28&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 5. 1995</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=27&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 4. 1994</a></span></div></div><span style="font-size:
-      x-small;"> </span><div class="boletin"> <div
-      class="boletintitulopequeno"><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=26&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 2-3. 1992-1993</a></span></div></div><span style="font-size:
-      x-small;"> </span></blockquote><div
-      class="boletin"><blockquote><span style="font-size: x-small;"><a
-      href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=25&amp;clase=marron&amp;idmenu=6">Boletín
-      CROA nº 1. 1991</a></span></blockquote><div
-      class="boletintitulopequeno">&nbsp;<span class="titol"><span style="font-size:
-      x-small;"><span
-      class="text"><span><span>&nbsp;</span></span></span></span></span></div><div
-      class="boletintitulopequeno" style="text-align: center;"><span style="font-size:
-      small;"><span class="titol"><span><span
-      class="text"><span><span>See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span>&nbsp;</span></span></span>
-      </span></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Roman"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
+   <title type="text">Open Access Journal: Croa: boletín da Asociacion de Amigos do Museo do Castro de Viladonga</title>
+   <content type="html"><![CDATA[<a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=0&amp;clase=marron&amp;idmenu=32">Croa: boletín da Asociacion de Amigos do Museo do Castro de Viladonga</a><br />ISSN: 1575-0639<br /><blockquote class="tr_bq"><img alt="http://www.aaviladonga.es/imagenes/1352892716.jpg" class="decoded" height="200" src="http://www.aaviladonga.es/imagenes/1352892716.jpg" width="141" /> </blockquote><blockquote class="tr_bq"><div style="margin: 0cm 0cm 0pt; text-align: justify;"><span style="font-family: inherit;"><span style="font-size: x-small;"><span><span lang="GL">A  importancia arqueolóxica e o interese histórico do Castro de Viladonga,  así como a cantidade e calidade dos materiais aparecidos nas  escavacións aquí feitas desde 1972, e a necesidade de investigalos e  expoñelos no seu propio contexto, fixeron que en 1983 o Ministerio de  Cultura crease o MUSEO DO CASTRO DE VILADONGA, nun edificio que fora  construído nos anos setenta. O seu acondicionamento, instalación e  montaxe tivo lugar en 1985-1986, e o Museo abriu ó público en novembro  deste último ano. A partir de </span><span lang="GL">1990 a</span><span lang="GL"> súa xestión quedou transferida á Xunta de Galicia. Entre 1992 e 1994  fixéronse unhas importantes obras de reforma e ampliación coa  construción dun novo edificio a continuación do xa existente, coa  subseguinte dotación, nos anos posteriores, da infraestrutura e do  persoal necesario para o desenvolvemento de todas as súas funcións  museísticas e patrimoniais, ligadas ó propio xacemento castrexo e  galaico-romano.</span></span></span></span></div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">       </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=52&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 22. 2012</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=51&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 21. 2011</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=46&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 20. 2010</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=45&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 19. 2009</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=44&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 18. 2008</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=43&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 17. 2007</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=38&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 16. 2006</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=37&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 15. 2005</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=36&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 14. 2004</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=39&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 13. 2003</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=35&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 12. 2002</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=34&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 11. 2001</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=33&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 10. 2000</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=32&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 9. 1999</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=31&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 8. 1998</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=30&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 7. 1997</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=29&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 6. 1996</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=28&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 5. 1995</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=27&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 4. 1994</a></span></div></div><span style="font-size: x-small;">      </span><div class="boletin">       <div class="boletintitulopequeno"><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=26&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 2-3. 1992-1993</a></span></div></div><span style="font-size: x-small;">      </span></blockquote><div class="boletin"><blockquote><span style="font-size: x-small;"><a href="http://www.aaviladonga.es/index.php?componente=boletin&amp;arch=index&amp;id=25&amp;clase=marron&amp;idmenu=6">Boletín CROA nº 1. 1991</a></span></blockquote><div class="boletintitulopequeno">&nbsp;<span class="titol"><span style="font-size: x-small;"><span class="text"><span><span>&nbsp;</span></span></span></span></span></div><div class="boletintitulopequeno" style="text-align: center;"><span style="font-size: small;"><span class="titol"><span><span class="text"><span><span>See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span>&nbsp;</span></span></span> </span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/869087177822739513/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/869087177822739513/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/04/open-access-journal-croa-boletin-da.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/869087177822739513"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/869087177822739513"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/04/open-access-journal-croa-boletin-da.html"
          title="Open Access Journal: Croa: boletín da Asociacion de Amigos do Museo do Castro de Viladonga"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,66 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8201556060960936170</id>
-    <published>2014-09-29T06:50:00.000-04:00</published>
-    <updated>2014-09-29T06:50:10.322-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8201556060960936170</id>
+   <published>2014-09-29T06:50:00.000-04:00</published>
+   <updated>2014-09-29T06:50:10.322-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Internet Archaeology is now fully Open Access</title>
-    <content type="html"><![CDATA[<a href="http://intarch.ac.uk/open_access.html">Internet Archaeology
-      is now fully Open Access</a><br /><blockquote class="tr_bq"><img
-      alt="http://intarch.ac.uk/logo/ia-logo.gif" class="decoded" height="65"
-      src="http://intarch.ac.uk/logo/ia-logo.gif" width="200" /></blockquote><blockquote
-      class="tr_bq">As of today, Internet Archaeology is an open access journal. We've concluded
-      our hybrid phase and will no longer charge a subscription for access to
-      <em>any</em> of our past and future content. </blockquote><blockquote
-      class="tr_bq"> Several things have spurred this decision. Over the last 4 years, we have
-      made active efforts in this direction, by switching to a default CC-BY license, by opening up
-      our back issues with an annual rolling wall, and by adjusting our subscription charges
-      accordingly. During this time, we have also witnessed a marked increase in quality, funded
-      submissions, including several themed issues. Internet Archaeology has always tried to be more
-      than 'just a journal'. We explore the possibilities of the web and have delved into many
-      different publication formats. This flexibility extends into everything we do. Being a small
-      operation has meant we could be responsive to changes in the wider scholarly landscape, and the
-      journal has simply reached the <a href="http://dx.doi.org/10.11141/ia.30.6">tipping
-      point</a>. </blockquote><blockquote class="tr_bq"> Funded through JISC's eLib
-      programme, Internet Archaeology was launched in 1995 as a born-digital journal and published
-      its first issue in 1996. It was also open access before the term was really invented. As part
-      of the initial funding agreement, and as the only sustainable option for us at that time, we
-      introduced institutional subscriptions in 2000, followed by subscriptions for individuals in
-      2001. By 2010, the open access debate had truly sparked into life and it was around that time
-      that we started to publish open access content where funds were available. By the start of 2014
-      however, over 50% of the articles we had published were open access, so we have decided to make
-      open access the focus of our efforts from now on. </blockquote><blockquote
-      class="tr_bq"> There will always be challenges of course but I'm very excited to be taking
-      the journal into this new phase. </blockquote><blockquote class="tr_bq"> Judith
-      Winters, Editor<br />29 September 2014</blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Internet Archaeology is now fully Open Access</title>
+   <content type="html"><![CDATA[<a href="http://intarch.ac.uk/open_access.html">Internet Archaeology is now fully Open Access</a><br /><blockquote class="tr_bq"><img alt="http://intarch.ac.uk/logo/ia-logo.gif" class="decoded" height="65" src="http://intarch.ac.uk/logo/ia-logo.gif" width="200" /></blockquote><blockquote class="tr_bq">As of today, Internet Archaeology is an open access journal. We've concluded our hybrid phase and will no longer charge a  subscription for access to <em>any</em> of our past and future content. </blockquote><blockquote class="tr_bq"> Several things have spurred this decision. Over the last 4 years, we  have made active efforts in this direction,  by switching to a default CC-BY license, by opening up our back issues  with an annual rolling wall, and by adjusting our  subscription charges accordingly. During this time, we have also  witnessed a marked increase in quality, funded submissions,  including several themed issues.  Internet Archaeology has always tried  to be more than 'just a journal'. We explore  the possibilities of the web and have delved into many different  publication formats. This flexibility extends into everything we do.  Being a small operation has meant we could be responsive to changes in  the wider scholarly landscape, and the journal has simply  reached the <a href="http://dx.doi.org/10.11141/ia.30.6">tipping point</a>. </blockquote><blockquote class="tr_bq"> Funded through JISC's eLib programme, Internet Archaeology was  launched in 1995 as a born-digital journal and published its first  issue in 1996. It was also open access before the term was really  invented. As part of the initial funding agreement, and as the only  sustainable option for us at that time, we introduced institutional  subscriptions in 2000, followed by subscriptions for individuals  in 2001. By 2010, the open access debate had truly sparked into life and  it was around that time that we started to publish open  access content where funds were available. By the start of 2014 however,  over 50% of the articles we had published were open access,  so we have decided to make open access the focus of our efforts from now  on. </blockquote><blockquote class="tr_bq">  There will always be challenges of course but I'm very excited to be taking the journal into this new phase. </blockquote><blockquote class="tr_bq"> Judith Winters, Editor<br />29 September 2014</blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8201556060960936170/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8201556060960936170/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/internet-archaeology-is-now-fully-open.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8201556060960936170"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8201556060960936170"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/internet-archaeology-is-now-fully-open.html"
          title="Internet Archaeology is now fully Open Access"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

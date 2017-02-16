@@ -1,102 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4383094701051396816</id>
-    <published>2015-05-27T07:31:00.000-04:00</published>
-    <updated>2015-05-27T07:32:19.782-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4383094701051396816</id>
+   <published>2015-05-27T07:31:00.000-04:00</published>
+   <updated>2015-05-27T07:32:19.782-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Digital Library"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
-    <title type="text">Egyptology Books and Articles in PDF Online, University of Memphis</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 19 December
-      2013, updated 27 May 2015 (new URL)]</span><br /><br /><a
-      href="http://www.memphis.edu/egypt/resources/onlinebiblio.php">Egyptology Books and Articles
-      in PDF Online</a><br /><blockquote class="tr_bq"><div style="text-align:
-      left;"><img alt="http://www.memphis.edu/_uofm_resources/img/logo.png" class="transparent"
-      src="http://www.memphis.edu/_uofm_resources/img/logo.png" height="61" width="200" />
-      </div></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">The world-wide-web is replete with links to Egyptological resources, and there are
-      many pages of bibliography out there, of which the prime example is the&nbsp;<a
-      href="http://oeb.griffith.ox.ac.uk/">Online Egyptological Bibliography</a>. But as
-      yet, none of the more systematic bibliographies are publishing links to the actual PDF files of
-      books and articles which may be freely acquired online, although they may be collecting the URL
-      references. This project attempts to go some way toward filling that
-      gap.&nbsp;</span><br /><br /><span style="font-size:
-      x-small;"><b><a
-      href="http://www.memphis.edu/egypt/resources/online_biblio/bibliography_mar2015.html">Click
-      here for the full list.</a></b></span><br /><br /><span
-      style="font-size: x-small;"><b>Notice:</b>&nbsp;Bookmark this page, not the
-      full list, as the file name may change.<br /> The list uses standard Egyptological
-      abbreviations for books and journals.&nbsp;</span><br /><br /><span
-      style="font-size: x-small;">This project is a "work in progress", and is bound to contain
-      errors and omissions.&nbsp;</span><br /><br /><span style="font-size:
-      x-small;">The&nbsp;<a
-      href="http://www.memphis.edu/egypt/docs/exported_bibliography5.html">document</a>&nbsp;takes
-      the form of one large HTML file with the data arranged by author; links to both the web page
-      from which the file can be accessed and the PDF file for the document itself are given.
-      Searching must be done using the&nbsp;<b>Find</b>&nbsp;function of your web
-      browser. It may be possible to enhance this capability in the future, but much will depend on
-      the reactions of internet users to this work. </span><br /><span
-      style="font-size: x-small;">The data has been collected and arranged by Andrea Middleton,
-      Brooke Garcia, and Robyn Price, Graduate Assistants in the&nbsp;<a
-      href="http://www.memphis.edu/egypt/">Institute of Egyptian Art and
-      Archaeology,</a>&nbsp;a unit of the Department of Art in the University of Memphis
-      (Tennessee, USA). We have tried to seek out as many books and articles as possible on
-      Egyptological subjects which are freely accessible to anyone without the need for privileged
-      access. Thus we have searched sites such as the&nbsp;<a
-      href="https://archive.org/">Internet Archive</a>, the&nbsp;<a
-      href="http://www.ub.uni-heidelberg.de/Englisch/helios/">University of Heidelberg
-      Library</a>, the&nbsp;<a href="http://oi.uchicago.edu/research/pubs/">Oriental
-      Institute</a>, the&nbsp;<a href="http://library.metmuseum.org/">Metropolitan
-      Museum</a>, the&nbsp;<a href="http://www.gizapyramids.org/">Giza
-      Library</a>,&nbsp;<a href="http://ancientworldonline.blogspot.fr/">Ancient
-      World Online</a>&nbsp;(AWOL), and many more, as well as attempting to collect links
-      noted in the pages of EEF (<a href="http://www.egyptologyforum.org/">Egyptologists'
-      Electronic Forum</a>) News.&nbsp;</span><br /><br /><span
-      style="font-size: x-small;">Sites which require institutional access or a password are not
-      included—thus journals on&nbsp;<a
-      href="http://www.jstor.org/">JSTOR</a>&nbsp;have not been indexed. Nor have papers
-      available on&nbsp;<a
-      href="http://www.academia.edu/">www.academia.edu</a>&nbsp;or&nbsp;&nbsp;<a
-      href="http://www.ifao.egnet.net/bifao/">http://www.ifao.egnet.net/bifao/</a>&nbsp;(BIFAO)
-      been included here. It is likely that some articles on&nbsp;<a
-      href="http://www.jstor.org/">JSTOR</a>&nbsp;are duplicated elsewhere, and it is
-      equally possible that some articles and books are available at more than one location. In the
-      latter case, we have tried to give all the options.&nbsp;</span><br /><br
-      /><span style="font-size: x-small;">Please report comments, errors, omissions, etc.
-      to&nbsp; nigel.strudwick @ memphis.edu. We hope this work is useful. </span><br
-      /><span style="font-size: x-small;"><br /></span> <span
-      style="font-size: x-small;">Nigel Strudwick<br /> March 2015
-      </span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Digital Library"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
+   <title type="text">Egyptology Books and Articles in PDF Online, University of Memphis</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 19 December 2013, updated 27 May 2015 (new URL)]</span><br /><br /><a href="http://www.memphis.edu/egypt/resources/onlinebiblio.php">Egyptology Books and Articles in PDF Online</a><br /><blockquote class="tr_bq"><div style="text-align: left;"><img alt="http://www.memphis.edu/_uofm_resources/img/logo.png" class="transparent" src="http://www.memphis.edu/_uofm_resources/img/logo.png" height="61" width="200" /> </div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The world-wide-web is replete with links to Egyptological resources, and there are                         many pages of bibliography out there, of which the prime example is the&nbsp;<a href="http://oeb.griffith.ox.ac.uk/">Online Egyptological Bibliography</a>. But as yet, none of the more systematic bibliographies are publishing links to the                         actual PDF files of books and articles which may be freely acquired online, although                         they may be collecting the URL references. This project attempts to go some way toward                         filling that gap.&nbsp;</span><br /><br /><span style="font-size: x-small;"><b><a href="http://www.memphis.edu/egypt/resources/online_biblio/bibliography_mar2015.html">Click here for the full list.</a></b></span><br /><br /><span style="font-size: x-small;"><b>Notice:</b>&nbsp;Bookmark this page, not the full list, as the file name may change.<br /> The list uses standard Egyptological abbreviations for books and journals.&nbsp;</span><br /><br /><span style="font-size: x-small;">This project is a "work in progress", and is bound to contain errors and omissions.&nbsp;</span><br /><br /><span style="font-size: x-small;">The&nbsp;<a href="http://www.memphis.edu/egypt/docs/exported_bibliography5.html">document</a>&nbsp;takes the form of one large HTML file with the data arranged by author; links to                         both the web page from which the file can be accessed and the PDF file for the document                         itself are given. Searching must be done using the&nbsp;<b>Find</b>&nbsp;function of your web browser. It may be possible to enhance this capability in the                         future, but much will depend on the reactions of internet users to this work.                      </span><br /><span style="font-size: x-small;">The data has been collected and arranged by Andrea Middleton, Brooke Garcia, and Robyn                         Price, Graduate Assistants in the&nbsp;<a href="http://www.memphis.edu/egypt/">Institute of Egyptian Art and Archaeology,</a>&nbsp;a unit of the Department of Art in the University of Memphis (Tennessee, USA). We                         have tried to seek out as many books and articles as possible on Egyptological subjects                         which are freely accessible to anyone without the need for privileged access. Thus                         we have searched sites such as the&nbsp;<a href="https://archive.org/">Internet Archive</a>, the&nbsp;<a href="http://www.ub.uni-heidelberg.de/Englisch/helios/">University of Heidelberg Library</a>, the&nbsp;<a href="http://oi.uchicago.edu/research/pubs/">Oriental Institute</a>, the&nbsp;<a href="http://library.metmuseum.org/">Metropolitan Museum</a>, the&nbsp;<a href="http://www.gizapyramids.org/">Giza Library</a>,&nbsp;<a href="http://ancientworldonline.blogspot.fr/">Ancient World Online</a>&nbsp;(AWOL), and many more, as well as attempting to collect links noted in the pages                         of EEF (<a href="http://www.egyptologyforum.org/">Egyptologists' Electronic Forum</a>) News.&nbsp;</span><br /><br /><span style="font-size: x-small;">Sites which require institutional access or a password are not included—thus journals                         on&nbsp;<a href="http://www.jstor.org/">JSTOR</a>&nbsp;have not been indexed. Nor have papers available on&nbsp;<a href="http://www.academia.edu/">www.academia.edu</a>&nbsp;or&nbsp;&nbsp;<a href="http://www.ifao.egnet.net/bifao/">http://www.ifao.egnet.net/bifao/</a>&nbsp;(BIFAO) been included here. It is likely that some articles on&nbsp;<a href="http://www.jstor.org/">JSTOR</a>&nbsp;are duplicated elsewhere, and it is equally possible that some articles and books                         are available at more than one location. In the latter case, we have tried to give                         all the options.&nbsp;</span><br /><br /><span style="font-size: x-small;">Please report comments, errors, omissions, etc. to&nbsp; nigel.strudwick @ memphis.edu.                         We hope this work is useful.                      </span><br /><span style="font-size: x-small;"><br /></span>                                           <span style="font-size: x-small;">Nigel Strudwick<br /> March 2015                      </span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4383094701051396816/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4383094701051396816/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/12/egyptology-books-and-articles-in-pdf.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4383094701051396816"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4383094701051396816"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/12/egyptology-books-and-articles-in-pdf.html"
          title="Egyptology Books and Articles in PDF Online, University of Memphis"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

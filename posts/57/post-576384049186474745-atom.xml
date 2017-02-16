@@ -1,94 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-576384049186474745</id>
-    <published>2014-09-10T10:45:00.002-04:00</published>
-    <updated>2014-09-10T10:45:25.208-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-576384049186474745</id>
+   <published>2014-09-10T10:45:00.002-04:00</published>
+   <updated>2014-09-10T10:45:25.208-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
-    <title type="text">New Book from the Oriental Institute: Digital Epigraphy</title>
-    <content type="html"><![CDATA[<a
-      href="http://oi.uchicago.edu/research/publications/misc/digital-epigraphy">Digital
-      Epigraphy</a><br /><blockquote class="tr_bq"><h2><a class="popup
-      popup-insert-image"
-      href="https://oi.uchicago.edu/sites/oi.uchicago.edu/files/styles/popup/public/uploads/shared/images/2014-Digital-Epigraphy-cover.jpg?itok=mbf5_CD0"><img
-      alt="" class="imgrt" height="200"
-      src="https://oi.uchicago.edu/sites/oi.uchicago.edu/files/styles/narrow/public/uploads/shared/images/2014-Digital-Epigraphy-cover.jpg?itok=uS3mnjXf"
-      width="152" /></a>&nbsp;</h2></blockquote><blockquote
-      class="tr_bq"><h2><span style="font-size: x-small;">By Krisztián Vértes and the
-      Epigraphic Survey</span></h2><span style="font-size: x-small;"><a
-      class="publication ss-standard ss-download btn"
-      href="http://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/Digital-Epigraphy.pdf">Download</a>
-      <a class="publication ss-standard ss-download btn"
-      href="https://itunes.apple.com/us/book/digital-epigraphy/id907434023?mt=13&amp;ls=1">eBook</a>
-      <a class="publication"
-      href="http://oi.uchicago.edu/research/electronic-publications-initiative-oriental-institute-university-chicago">Terms
-      of Use</a></span> </blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">This long-awaited manual represents an extraordinary new chapter
-      in the history of the Epigraphic Survey, Oriental Institute, University of Chicago.&nbsp;In
-      the manual, a century of tradition joins with modern technological innovation for an exciting
-      glimpse into the future of our epigraphic recording.&nbsp;This manual, available in PDF
-      format and also in an innovative eBook format, is&nbsp;another tool in an arsenal of
-      groundbreaking new tools now at our disposal.</span> </blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;">During the past several decades the
-      Epigraphic Survey has refined its conventions and recording methodologies to fit with the
-      widely divergent nature of the inscribed surfaces we record and the changing conditions in
-      Egypt that are resulting in the accelerating decay of those inscribed surfaces. For the past
-      two years we have been experimenting with new digital tools, software, and equipment that have
-      allowed us to streamline our recording process while still achieving the highest degree of
-      accuracy, the bottom line of any scientific documentation. It has always been our aim to share
-      these conventions and methodologies with our friends and colleagues, and it is our great
-      pleasure to present the initial results here now. The digital formats in which this manual is
-      made available are particularly appropriate and will be updated and changed regularly, since
-      the manual will always be a work in progress. The possibilities are limitless.</span>
-      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">What
-      you have before you represents the past, the present, and the future of the Epigraphic Survey’s
-      epigraphic recording processes for your reference and use.&nbsp;Our convention sheets are
-      now downloadable for easier access. The tools that we describe and utilize — old and new — are
-      available for everyone to use.&nbsp;We welcome and encourage your questions and feedback,
-      since we will always be refining and improving these processes.</span>
-      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">W.
-      Raymond Johnson, PhD<br />Director, Epigraphic Survey<br />Oriental Institute,
-      University of Chicago<br />Chicago House, Luxor, Egypt</span><br /><span
-      style="font-size: x-small;">Miscellaneous. Digital Epigraphy<br />By Krisztián Vértes
-      and the Epigraphic Survey<br />202 pages, illustrated<br />PDF and eBook<br
-      />ISBN 978-1-61491-021-3<br /><span
-      class="pubprice">Gratis</span></span></blockquote><br /><div
-      class="post-body entry-content" id="post-body-2041965728532829779"
-      itemprop="articleBody"><div style="text-align: center;">And for an up to date list of
-      all Oriental Institute publications available online see</div><div style="text-align:
-      center;"><a
-      href="http://ancientworldonline.blogspot.com/2010/10/oriental-institute-open-access.html">The
-      Oriental Institute Open Access Publications</a></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
+   <title type="text">New Book from the Oriental Institute: Digital Epigraphy</title>
+   <content type="html"><![CDATA[<a href="http://oi.uchicago.edu/research/publications/misc/digital-epigraphy">Digital Epigraphy</a><br /><blockquote class="tr_bq"><h2><a class="popup popup-insert-image" href="https://oi.uchicago.edu/sites/oi.uchicago.edu/files/styles/popup/public/uploads/shared/images/2014-Digital-Epigraphy-cover.jpg?itok=mbf5_CD0"><img alt="" class="imgrt" height="200" src="https://oi.uchicago.edu/sites/oi.uchicago.edu/files/styles/narrow/public/uploads/shared/images/2014-Digital-Epigraphy-cover.jpg?itok=uS3mnjXf" width="152" /></a>&nbsp;</h2></blockquote><blockquote class="tr_bq"><h2><span style="font-size: x-small;">By Krisztián Vértes and the Epigraphic Survey</span></h2><span style="font-size: x-small;"><a class="publication ss-standard ss-download btn" href="http://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/Digital-Epigraphy.pdf">Download</a> <a class="publication ss-standard ss-download btn" href="https://itunes.apple.com/us/book/digital-epigraphy/id907434023?mt=13&amp;ls=1">eBook</a> <a class="publication" href="http://oi.uchicago.edu/research/electronic-publications-initiative-oriental-institute-university-chicago">Terms of Use</a></span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">This long-awaited manual represents an extraordinary new chapter in  the history of the Epigraphic Survey, Oriental Institute, University of  Chicago.&nbsp;In the manual, a century of tradition joins with modern  technological innovation for an exciting glimpse into the future of our  epigraphic recording.&nbsp;This manual, available in PDF format and also in  an innovative eBook format, is&nbsp;another tool in an arsenal of  groundbreaking new tools now at our disposal.</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">During the past several decades the Epigraphic Survey has refined its  conventions and recording methodologies to fit with the widely  divergent nature of the inscribed surfaces we record and the changing  conditions in Egypt that are resulting in the accelerating decay of  those inscribed surfaces. For the past two years we have been  experimenting with new digital tools, software, and equipment that have  allowed us to streamline our recording process while still achieving the  highest degree of accuracy, the bottom line of any scientific  documentation. It has always been our aim to share these conventions and  methodologies with our friends and colleagues, and it is our great  pleasure to present the initial results here now. The digital formats in  which this manual is made available are particularly appropriate and  will be updated and changed regularly, since the manual will always be a  work in progress. The possibilities are limitless.</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">What you have before you represents the past, the present, and the  future of the Epigraphic Survey’s epigraphic recording processes for  your reference and use.&nbsp;Our convention sheets are now downloadable for  easier access. The tools that we describe and utilize — old and new —  are available for everyone to use.&nbsp;We welcome and encourage your  questions and feedback, since we will always be refining and improving  these processes.</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">W. Raymond Johnson, PhD<br />Director, Epigraphic Survey<br />Oriental Institute, University of Chicago<br />Chicago House, Luxor, Egypt</span><br /><span style="font-size: x-small;">Miscellaneous. Digital Epigraphy<br />By Krisztián Vértes and the Epigraphic Survey<br />202 pages, illustrated<br />PDF and eBook<br />ISBN 978-1-61491-021-3<br /><span class="pubprice">Gratis</span></span></blockquote><br /><div class="post-body entry-content" id="post-body-2041965728532829779" itemprop="articleBody"><div style="text-align: center;">And for an up to date list of all Oriental Institute publications available online see</div><div style="text-align: center;"><a href="http://ancientworldonline.blogspot.com/2010/10/oriental-institute-open-access.html">The Oriental Institute Open Access Publications</a></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/576384049186474745/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/576384049186474745/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/new-book-from-oriental-institute.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/576384049186474745"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/576384049186474745"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/new-book-from-oriental-institute.html"
          title="New Book from the Oriental Institute: Digital Epigraphy"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

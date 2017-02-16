@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-74096925365803743</id>
+   <published>2016-05-17T10:35:00.000-04:00</published>
+   <updated>2016-05-17T10:35:04.725-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Coptic"/>
+   <title type="text">Coptic SCRIPTORIUM News: Full, machine-annotated New Testament Corpus updated</title>
+   <content type="html"><![CDATA[<a href="http://blog.copticscriptorium.org/2016/05/16/full-machine-annotated-new-testament-corpus-updated/" rel="bookmark" title="Full, machine-annotated New Testament Corpus updated">Full, machine-annotated New Testament Corpus updated</a><br /> 					     					    <div class="post-meta">						 							<span style="font-size: x-small;"><span class="post-date"><a href="http://blog.copticscriptorium.org/2016/05/16/full-machine-annotated-new-testament-corpus-updated/" title="Full, machine-annotated New Testament Corpus updated">May 16, 2016</a></span>							 							<span class="date-sep"> / </span>								 							<span class="post-author"><a href="http://blog.copticscriptorium.org/author/ctschroeder/" rel="author" title="Posts by ctschroeder">ctschroeder</a></span>							 							<span class="date-sep"> / </span>							 							<a href="http://blog.copticscriptorium.org/2016/05/16/full-machine-annotated-new-testament-corpus-updated/#respond"><span class="comment">0 Comments</span></a></span></div><blockquote class="tr_bq"><div class="post-meta"><span style="font-size: x-small;"><span class="comment"><img alt="Accessing document visualizations of the Sahidica corpus via ANNIS" class="attachment-post-image size-post-image wp-post-image" height="112" src="http://i2.wp.com/blog.copticscriptorium.org/wp-content/uploads/2016/05/Screen-Shot-2016-05-16-at-9.50.09-AM.png?zoom=2&amp;fit=676%2C381" width="200" />&nbsp;</span>							 																				 						</span></div></blockquote><span style="font-size: x-small;">					     					  														                                    	     					 						    		            			            	                                                                                              						</span><blockquote class="tr_bq"><span style="font-size: x-small;">We’ve updated and re-released our fully machine-annotated New  Testament corpus. &nbsp;sahidica.nt V2.1.0 contains the Sahidica NT text from  <a href="http://www.copticscriptorium.org/download/corpora/Mark/coptic_nt_sahidic.html" target="_blank">Warren Wells Sahidica online NT</a>, with the following features:</span><br /> <ul><li><span style="font-size: x-small;">Annotated with our latest NLP tools (part of speech tagger 1.9,  tokenizer 4.1.0, language tagger and lemmatizer include lexical entries  from the&nbsp;<a href="http://research.uni-leipzig.de/ddglc" target="_blank">Database and Dictionary of Greek Loanwords in Coptic (DDGLC)</a>)</span></li><li><span style="font-size: x-small;">Now contains the morph layer (annotating compound words and Coptic morphs such ⲣⲉϥ- ⲙⲛⲧ- ⲁⲧ-)</span></li><li><span style="font-size: x-small;">Visualizations for linguistic analysis</span></li></ul><span style="font-size: x-small;">Please keep in mind that this fully&nbsp;<strong>machine-annotated corpus</strong>&nbsp;is more accurate than previous versions but will nonetheless contain more errors than a corpus manually corrected by a human...</span></blockquote><a href="http://blog.copticscriptorium.org/2016/05/16/full-machine-annotated-new-testament-corpus-updated/">Click through</a> to read the rest. ]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/74096925365803743/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/05/coptic-scriptorium-news-full-machine.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/74096925365803743"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/74096925365803743"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/05/coptic-scriptorium-news-full-machine.html"
+         title="Coptic SCRIPTORIUM News: Full, machine-annotated New Testament Corpus updated"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

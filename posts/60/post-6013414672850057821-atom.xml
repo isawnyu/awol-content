@@ -1,63 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6013414672850057821</id>
-    <published>2012-12-10T09:44:00.000-05:00</published>
-    <updated>2014-01-31T09:44:02.500-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6013414672850057821</id>
+   <published>2012-12-10T09:44:00.000-05:00</published>
+   <updated>2014-01-31T09:44:02.500-05:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Hagiography"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Georgian"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Hagiography"/>
-    <title type="text">Two in-progress bibliographies: Old Georgian, Hagiography</title>
-    <content type="html"><![CDATA[<a
-      href="http://hmmlorientalia.wordpress.com/2012/12/07/two-in-progress-bibliographies-old-georgian-hagiography/">Two
-      in-progress bibliographies: Old Georgian,&nbsp;Hagiography</a><br
-      />&nbsp;From <a class="pjax" href="http://csbsju.academia.edu/AdamMcCollum">Adam
-      McCollum's</a> blog <a
-      href="http://hmmlorientalia.wordpress.com/">hmmlorientalia</a> <br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">For a little while
-      I’ve been compiling bibliographic material with Zotero on 1) Old Georgian and 2) Eastern
-      hagiography. With the hope that they might be useful to others, I’ve made them publicly
-      viewable (adding and editing is restricted). Please note: neither bibliography is even nearly
-      comprehensive, and I add new items regularly! Of course, corrections, suggestions, and
-      additions may be sent to me by email (but for additions, please note that an item’s current
-      absence from the list does not necessarily indicate my ignorance of it; i.e. I have an ongoing
-      mental list of things to include)...&nbsp; Here they are: <a
-      href="https://www.zotero.org/groups/old_georgian">Old Georgian</a> and <a
-      href="https://www.zotero.org/groups/hagiographia_orientalis">Hagiographia
-      orientalis</a>. As you have need, check them by browsing, searching, or using the tags,
-      and subscribe to the feed, if you like. Share freely!</span></blockquote><br
-      />]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Georgian"/>
+   <title type="text">Two in-progress bibliographies: Old Georgian, Hagiography</title>
+   <content type="html"><![CDATA[<a href="http://hmmlorientalia.wordpress.com/2012/12/07/two-in-progress-bibliographies-old-georgian-hagiography/">Two in-progress bibliographies: Old Georgian,&nbsp;Hagiography</a><br />&nbsp;From <a class="pjax" href="http://csbsju.academia.edu/AdamMcCollum">Adam McCollum's</a> blog <a href="http://hmmlorientalia.wordpress.com/">hmmlorientalia</a> <br /><blockquote class="tr_bq"><span style="font-size: x-small;">For a little while I’ve been compiling bibliographic material with  Zotero on 1) Old Georgian and 2) Eastern hagiography. With the hope that  they might be useful to others, I’ve made them publicly viewable  (adding and editing is restricted). Please note: neither bibliography is  even nearly comprehensive, and I add new items regularly! Of course,  corrections, suggestions, and additions may be sent to me by email (but  for additions, please note that an item’s current absence from the list  does not necessarily indicate my ignorance of it; i.e. I have an ongoing  mental list of things to include)...&nbsp; Here they are: <a href="https://www.zotero.org/groups/old_georgian">Old Georgian</a> and <a href="https://www.zotero.org/groups/hagiographia_orientalis">Hagiographia orientalis</a>. As you have need, check them by browsing, searching, or using the tags, and subscribe to the feed, if you like. Share freely!</span></blockquote><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6013414672850057821/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6013414672850057821/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/12/two-in-progress-bibliographies-old.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6013414672850057821"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6013414672850057821"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/12/two-in-progress-bibliographies-old.html"
          title="Two in-progress bibliographies: Old Georgian, Hagiography"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

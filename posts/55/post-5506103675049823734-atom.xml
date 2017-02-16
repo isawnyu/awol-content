@@ -1,126 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5506103675049823734</id>
-    <published>2013-10-20T08:35:00.005-04:00</published>
-    <updated>2013-10-20T08:35:56.495-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5506103675049823734</id>
+   <published>2013-10-20T08:35:00.005-04:00</published>
+   <updated>2013-10-20T08:35:56.495-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: Gradhiva: revue d’anthropologie et de muséologie</title>
-    <content type="html"><![CDATA[<a href="http://gradhiva.revues.org/">Gradhiva: revue d’anthropologie
-      et de muséologie</a> <br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;">Fondée en 1986 par Michel Leiris et Jean Jamin,
-      <i>Gradhiva </i>est publiée par le musée du quai Branly pour sa nouvelle série. La
-      revue se veut un lieu de débats sur l'histoire et les développements actuels de l'anthropologie
-      fondés sur des études originales et la publication d'archives ou de témoignages.
-      <i>Gradhiva </i>privilégie aussi l'étude et l'analyse d'objets réels ou symboliques
-      ainsi que des problématiques muséologiques et anthropologiques. Surtout, elle est ouverte à de
-      multiples disciplines : l'ethnologie, l'esthétique, l'histoire, la sociologie, la littérature
-      ou encore la musique. Elle s'attache enfin à développer par une iconographie souvent inédite et
-      singulière une interaction entre le texte et l'image.</span><br /><ul
-      class="issues"><li><span style="font-size: x-small;"><b
-      class="year">2013</b></span><ul><li> <span style="font-size:
-      x-small;"><a href="http://gradhiva.revues.org/2551" title="L’esthétique du geste
-      technique">17 • <span class="title">L’esthétique du geste
-      technique</span></a></span></li></ul></li><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;"><b class="year">2012</b></span><ul><li> <span
-      style="font-size: x-small;"><a href="http://gradhiva.revues.org/2438" title="Chines,
-      l’État au musée">16 • <span class="title">Chines, l’État au
-      musée</span></a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://gradhiva.revues.org/2302" title="Robots étrangement
-      humains">15 • <span class="title">Robots étrangement
-      humains</span></a></span></li></ul></li><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;"><b class="year">2011</b></span><ul><li> <span
-      style="font-size: x-small;"><a href="http://gradhiva.revues.org/2124" title="Carl
-      Einstein et les primitivismes">14 • <span class="title">Carl Einstein et les
-      primitivismes</span></a></span></li><li> <span
-      style="font-size: x-small;"><a href="http://gradhiva.revues.org/2013" title="Pièges à
-      voir, pièges à penser">13 • <span class="title">Pièges à voir, pièges à
-      penser</span></a></span></li></ul></li><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;"><b class="year">2010</b></span><ul><li> <span
-      style="font-size: x-small;"><a href="http://gradhiva.revues.org/1784" title="La musique
-      n'a pas d'auteur">12 • <span class="title">La musique n'a pas
-      d'auteur</span></a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://gradhiva.revues.org/1619" title="Grands hommes vus d'en
-      bas">11 • <span class="title">Grands hommes vus d'en
-      bas</span></a></span></li></ul></li><span
-      style="font-size: x-small;"></span></ul><h3><span style="font-size:
-      x-small;">Numéros en texte intégral</span></h3><ul class="issues"><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;"><b class="year">2009</b></span><ul><li> <span
-      style="font-size: x-small;"><a href="http://gradhiva.revues.org/1336" title="Arts de
-      l'enfance, enfances de l'art">9 • <span class="title">Arts de l'enfance, enfances de
-      l'art</span></a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://gradhiva.revues.org/1468" title="Présence africaine">10 •
-      <span class="title">Présence
-      africaine</span></a></span></li></ul></li><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;"><b class="year">2008</b></span><ul><li> <span
-      style="font-size: x-small;"><a href="http://gradhiva.revues.org/1042" title="Mémoire de
-      l'esclavage au Bénin">8 • <span class="title">Mémoire de l'esclavage au
-      Bénin</span></a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://gradhiva.revues.org/991" title="Le possédé spectaculaire">7
-      • <span class="title">Le possédé
-      spectaculaire</span></a></span></li></ul></li><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;"><b class="year">2007</b></span><ul><li> <span
-      style="font-size: x-small;"><a href="http://gradhiva.revues.org/839" title="Voir et
-      reconnaître. L'objet du malentendu">6 • <span class="title">Voir et reconnaître.
-      L'objet du malentendu</span></a></span></li><li> <span
-      style="font-size: x-small;"><a href="http://gradhiva.revues.org/56" title="Sismographie
-      des terreurs">5 • <span class="title">Sismographie des
-      terreurs</span></a></span></li></ul></li><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;"><b class="year">2006</b></span><ul><li> <span
-      style="font-size: x-small;"><a href="http://gradhiva.revues.org/538" title="Le commerce
-      des cultures">4 • <span class="title">Le commerce des
-      cultures</span></a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://gradhiva.revues.org/63" title="Du Far West au Louvre : le musée
-      indien de George Catlin">3 • <span class="title">Du Far West au Louvre : le musée
-      indien de George
-      Catlin</span></a></span></li></ul></li><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;"><b class="year">2005</b></span><ul><li> <span
-      style="font-size: x-small;"><a href="http://gradhiva.revues.org/425" title="Autour de
-      Lucien Sebag">2 • <span class="title">Autour de Lucien
-      Sebag</span></a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://gradhiva.revues.org/68" title="Haïti et l'anthropologie">1 •
-      <span class="title">Haïti et
-      l'anthropologie</span></a></span></li></ul><span
-      style="font-size: x-small;">&nbsp;
-      </span></li></ul></blockquote><div style="text-align:
-      center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: Gradhiva: revue d’anthropologie et de muséologie</title>
+   <content type="html"><![CDATA[<a href="http://gradhiva.revues.org/">Gradhiva: revue d’anthropologie et de muséologie</a> <br /><blockquote class="tr_bq"><span style="font-size: x-small;">Fondée en 1986 par Michel Leiris et Jean Jamin, <i>Gradhiva </i>est  publiée par le musée du quai Branly pour sa nouvelle série. La revue se  veut un lieu de débats sur l'histoire et les développements actuels de  l'anthropologie fondés sur des études originales et la publication  d'archives ou de témoignages. <i>Gradhiva </i>privilégie aussi l'étude  et l'analyse d'objets réels ou symboliques ainsi que des problématiques  muséologiques et anthropologiques. Surtout, elle est ouverte à de  multiples disciplines : l'ethnologie, l'esthétique, l'histoire, la  sociologie, la littérature ou encore la musique. Elle s'attache enfin à  développer par une iconographie souvent inédite et singulière une  interaction entre le texte et l'image.</span><br /><ul class="issues"><li><span style="font-size: x-small;"><b class="year">2013</b></span><ul><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/2551" title="L’esthétique du geste technique">17 • <span class="title">L’esthétique du geste technique</span></a></span></li></ul></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><b class="year">2012</b></span><ul><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/2438" title="Chines, l’État au musée">16 • <span class="title">Chines, l’État au musée</span></a></span></li><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/2302" title="Robots étrangement humains">15 • <span class="title">Robots étrangement humains</span></a></span></li></ul></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><b class="year">2011</b></span><ul><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/2124" title="Carl Einstein et les primitivismes">14 • <span class="title">Carl Einstein et les primitivismes</span></a></span></li><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/2013" title="Pièges à voir, pièges à penser">13 • <span class="title">Pièges à voir, pièges à penser</span></a></span></li></ul></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><b class="year">2010</b></span><ul><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/1784" title="La musique n'a pas d'auteur">12 • <span class="title">La musique n'a pas d'auteur</span></a></span></li><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/1619" title="Grands hommes vus d'en bas">11 • <span class="title">Grands hommes vus d'en bas</span></a></span></li></ul></li><span style="font-size: x-small;"></span></ul><h3><span style="font-size: x-small;">Numéros en texte intégral</span></h3><ul class="issues"><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><b class="year">2009</b></span><ul><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/1336" title="Arts de l'enfance, enfances de l'art">9 • <span class="title">Arts de l'enfance, enfances de l'art</span></a></span></li><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/1468" title="Présence africaine">10 • <span class="title">Présence africaine</span></a></span></li></ul></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><b class="year">2008</b></span><ul><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/1042" title="Mémoire de l'esclavage au Bénin">8 • <span class="title">Mémoire de l'esclavage au Bénin</span></a></span></li><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/991" title="Le possédé spectaculaire">7 • <span class="title">Le possédé spectaculaire</span></a></span></li></ul></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><b class="year">2007</b></span><ul><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/839" title="Voir et reconnaître. L'objet du malentendu">6 • <span class="title">Voir et reconnaître. L'objet du malentendu</span></a></span></li><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/56" title="Sismographie des terreurs">5 • <span class="title">Sismographie des terreurs</span></a></span></li></ul></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><b class="year">2006</b></span><ul><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/538" title="Le commerce des cultures">4 • <span class="title">Le commerce des cultures</span></a></span></li><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/63" title="Du Far West au Louvre : le musée indien de George Catlin">3 • <span class="title">Du Far West au Louvre : le musée indien de George Catlin</span></a></span></li></ul></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><b class="year">2005</b></span><ul><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/425" title="Autour de Lucien Sebag">2 • <span class="title">Autour de Lucien Sebag</span></a></span></li><li> <span style="font-size: x-small;"><a href="http://gradhiva.revues.org/68" title="Haïti et l'anthropologie">1 • <span class="title">Haïti et l'anthropologie</span></a></span></li></ul><span style="font-size: x-small;">&nbsp; </span></li></ul></blockquote><div style="text-align: center;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5506103675049823734/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5506103675049823734/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/10/open-access-journal-gradhiva-revue.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5506103675049823734"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5506103675049823734"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/10/open-access-journal-gradhiva-revue.html"
          title="Open Access Journal: Gradhiva: revue d’anthropologie et de muséologie"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

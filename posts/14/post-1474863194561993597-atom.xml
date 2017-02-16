@@ -1,80 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1474863194561993597</id>
-    <published>2012-07-03T18:52:00.000-04:00</published>
-    <updated>2012-07-03T18:52:55.633-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1474863194561993597</id>
+   <published>2012-07-03T18:52:00.000-04:00</published>
+   <updated>2012-07-03T18:52:55.633-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">New Data at Open Context: Kenan Tepe</title>
-    <content type="html"><![CDATA[<a
-      href="http://ux.opencontext.org/blog/2012/07/03/kenan-tepes-massive-dataset/">More Kenan
-      Tepe Data at Open Context</a><br /><blockquote class="tr_bq"><h1
-      class="entry-title full-title"><span style="font-size: x-small;"><a
-      href="http://ux.opencontext.org/blog/2012/07/03/kenan-tepes-massive-dataset/" rel="bookmark"
-      rev="post-975" title="Permanent link to Kenan Tepe’s Massive Dataset">Kenan Tepe’s Massive
-      Dataset</a></span></h1><span style="font-size: x-small;">We are very
-      pleased to announce the online publication of the second installment of the Upper Tigris
-      Archaeological Research Project’s excavation data, images, and
-      documentation.</span><br /><br /><span style="font-size: x-small;">The
-      Upper Tigris Archaeological Research Project (UTARP), under the direction of Bradley J. Parker
-      (University of Utah), was active in the Upper Tigris River Region of southeastern Turkey
-      between 1998 and 2011. The online data publication in <a
-      href="http://opencontext.org/">Open Context</a> aims to be a complete accounting of
-      all of the excavation records as well as all of the records of the subsequent analyses from the
-      Upper Tigris Archaeological Research Project’s excavations at the site of Kenan Tepe in
-      southeastern Turkey (<a
-      href="http://www.utarp.org/">www.utarp.org</a>).</span><br /><br
-      /><span style="font-size: x-small;">This data publication includes records and
-      analyses from Areas A, B, C, D, E, G, H and I, with findings from Ubaid, Late Chalcolithic,
-      Early Bronze Age, Middle Bronze Age, and Iron Age contexts. With the publication of these data
-      we can now say that approximately 95% of the data from Kenan Tepe are published. The database
-      includes more than <a
-      href="http://opencontext.org/lightbox/Turkey/Kenan+Tepe?proj=Kenan+Tepe">30,000
-      images</a>, <a
-      href="http://opencontext.org/search/Turkey/Kenan+Tepe?doctype=document&amp;proj=Kenan+Tepe">1900
-      journal entries</a> and&nbsp;<a
-      href="http://opencontext.org/sets/Turkey/Kenan+Tepe?proj=Kenan+Tepe">43,000 records of
-      contexts and finds</a>. These data complement other datasets from several other sites in
-      the Near East also published in Open Context.</span><br /><br /><span
-      style="font-size: x-small;">A final installment of the last 5% of the data, which includes
-      issues that remain to be resolved and an accounting of analyses that are still underway, will
-      be forthcoming later this fall.&nbsp;All the UTARP data are available free-of-charge, under
-      liberal Creative Commons Attribution licensing conditions, at:</span><br /><span
-      style="font-size: x-small;"><a
-      href="http://opencontext.org/projects/3DE4CD9C-259E-4C14-9B03-8B10454BA66E">http://opencontext.org/projects/3DE4CD9C-259E-4C14-9B03-8B10454BA66E</a></span><br
-      /><br /><span style="font-size: x-small;">Bulk down load of data can be obtained
-      through Open Context’s <a href="https://github.com/ekansa/Open-Context-Data">GitHub
-      repository</a>. Additional options for downloading data tables as comma separated values
-      (CSV) is forthcoming.</span></blockquote><br />]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
+   <title type="text">New Data at Open Context: Kenan Tepe</title>
+   <content type="html"><![CDATA[<a href="http://ux.opencontext.org/blog/2012/07/03/kenan-tepes-massive-dataset/">More Kenan Tepe Data at Open Context</a><br /><blockquote class="tr_bq"><h1 class="entry-title full-title"><span style="font-size: x-small;"><a href="http://ux.opencontext.org/blog/2012/07/03/kenan-tepes-massive-dataset/" rel="bookmark" rev="post-975" title="Permanent link to Kenan Tepe’s Massive Dataset">Kenan Tepe’s Massive Dataset</a></span></h1><span style="font-size: x-small;">We are very pleased to announce the online publication of the second  installment of the Upper Tigris Archaeological Research Project’s  excavation data, images, and documentation.</span><br /><br /><span style="font-size: x-small;">The Upper Tigris Archaeological Research Project (UTARP), under the  direction of Bradley J. Parker (University of Utah), was active in the  Upper Tigris River Region of southeastern Turkey between 1998 and 2011.  The online data publication in <a href="http://opencontext.org/">Open Context</a> aims to be a complete accounting of all of the excavation records as  well as all of the records of the subsequent analyses from the Upper  Tigris Archaeological Research Project’s excavations at the site of  Kenan Tepe in southeastern Turkey (<a href="http://www.utarp.org/">www.utarp.org</a>).</span><br /><br /><span style="font-size: x-small;">This data publication includes records and analyses from Areas A, B,  C, D, E, G, H and I, with findings from Ubaid, Late Chalcolithic, Early  Bronze Age, Middle Bronze Age, and Iron Age contexts. With the  publication of these data we can now say that approximately 95% of the  data from Kenan Tepe are published. The database includes more than <a href="http://opencontext.org/lightbox/Turkey/Kenan+Tepe?proj=Kenan+Tepe">30,000 images</a>, <a href="http://opencontext.org/search/Turkey/Kenan+Tepe?doctype=document&amp;proj=Kenan+Tepe">1900 journal entries</a> and&nbsp;<a href="http://opencontext.org/sets/Turkey/Kenan+Tepe?proj=Kenan+Tepe">43,000 records of contexts and finds</a>. These data complement other datasets from several other sites in the Near East also published in Open Context.</span><br /><br /><span style="font-size: x-small;">A final installment of the last 5% of the data, which includes issues  that remain to be resolved and an accounting of analyses that are still  underway, will be forthcoming later this fall.&nbsp;All the UTARP data are  available free-of-charge, under liberal Creative Commons Attribution  licensing conditions, at:</span><br /><span style="font-size: x-small;"><a href="http://opencontext.org/projects/3DE4CD9C-259E-4C14-9B03-8B10454BA66E">http://opencontext.org/projects/3DE4CD9C-259E-4C14-9B03-8B10454BA66E</a></span><br /><br /><span style="font-size: x-small;">Bulk down load of data can be obtained through Open Context’s <a href="https://github.com/ekansa/Open-Context-Data">GitHub repository</a>. Additional options for downloading data tables as comma separated values (CSV) is forthcoming.</span></blockquote><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1474863194561993597/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1474863194561993597/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/07/new-data-at-open-context-kenan-tepe.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1474863194561993597"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1474863194561993597"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/07/new-data-at-open-context-kenan-tepe.html"
          title="New Data at Open Context: Kenan Tepe"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

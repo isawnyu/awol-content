@@ -1,107 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1783698153693323543</id>
-    <published>2015-02-05T12:59:00.000-05:00</published>
-    <updated>2015-02-05T13:01:40.410-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1783698153693323543</id>
+   <published>2017-01-07T20:59:00.000-05:00</published>
+   <updated>2017-01-07T20:58:16.246-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Libraries"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <title type="text">Forum for Classics, Libraries, and Scholarly Communication: An Affiliated
-      Group of the American Philological Association</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 19 November
-      2013, updated 5 February 2015]</span><br /><br /><a
-      href="http://www.classicslibrarians.org/">Forum for Classics, Libraries, and Scholarly
-      Communication</a><br />An Affiliated Group of the American Philological
-      Association<br /><blockquote class="tr_bq"><img
-      alt="http://www.classicslibrarians.org/wp-content/uploads/2013/07/FCLSC.edit_.png"
-      class="shrinkToFit decoded"
-      src="http://www.classicslibrarians.org/wp-content/uploads/2013/07/FCLSC.edit_.png" height="224"
-      width="320" /> </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><strong>The</strong> <strong>Forum for Classics, Libraries, and
-      Scholarly Communication</strong> (FCLSC)&nbsp;– also known as the Classics
-      Librarians’ Forum — brings together librarians and scholars interested in classics studies, in
-      order to promote timely exchange of information and ideas. Members also collaborate on projects
-      of mutual concern. The impetus for the forum grew out of meetings at Princeton University
-      and&nbsp;the Center for Hellenic Studies in 2004. As an officially affiliated group of the
-      American Philological Association since 2005, the Forum aims to support initiatives of the APA
-      relating to libraries and scholarly communication.</span><br /><br />
-      <span style="font-size: x-small;">The officers of the Forum are Colin
-      McCaffrey&nbsp;(Yale University), chair, and Lanah Koelle (Center for Hellenic Studies),
-      secretary. Their term lasts two years from January 2015 to January 2017. Past chairs have been
-      Gerald Heverly (New York University), Rebecka Lindau (American Academy at Rome), Catherine
-      Mardikes (University of Chicago), Lucie Stylianopoulos (University of Virginia),&nbsp;and
-      David Sullivan (University of Notre Dame).</span><br /><br /> <span
-      style="font-size: x-small;"><strong><a
-      href="http://www.classicslibrarians.org/about/members/" title="Members">List of
-      Members</a></strong>&nbsp;| <strong><a
-      href="http://www.classicslibrarians.org/about/bylaws/"
-      title="Bylaws">Bylaws</a></strong></span><br /> <h2><span
-      style="font-size: x-small;">Meetings</span></h2><span style="font-size:
-      x-small;">The members of the Forum met at the&nbsp;AIA/SCS(APA) conference on Saturday,
-      January 10, 2015 at the Sheraton New Orleans. The meeting agenda is available on the <a
-      href="http://www.classicslibrarians.org/2015/01/2015-forum-meeting-agenda/" title="2015 Forum
-      Meeting: Agenda">CLiF blog</a>.</span><br /> <span style="font-size:
-      x-small;">Minutes from the 2015 meeting will be available for download in the coming
-      weeks.</span><br /> <span style="font-size: x-small;">The Forum will meet
-      again in San Francisco at the next AIA/SCS conference in January
-      2016.</span></blockquote><blockquote class="tr_bq"><div
-      class="menu-header"><ul class="menu" id="menu-navigation"><li class="menu-item
-      menu-item-type-custom menu-item-object-custom current-menu-item current_page_item
-      menu-item-home menu-item-151" id="menu-item-151"><span style="font-size:
-      x-small;"><a
-      href="http://www.classicslibrarians.org/">Home</a></span></li><li
-      class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"
-      id="menu-item-209"><span style="font-size: x-small;"><a
-      href="http://www.classicslibrarians.org/clif-blog/">CLiF
-      Blog</a></span></li><li class="menu-item menu-item-type-post_type
-      menu-item-object-page menu-item-49" id="menu-item-49"><span style="font-size:
-      x-small;"><a
-      href="http://www.classicslibrarians.org/meetings/">Meetings</a></span></li><li
-      class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"
-      id="menu-item-48"><span style="font-size: x-small;"><a
-      href="http://www.classicslibrarians.org/projects-and-events/">Projects and
-      Events</a></span></li><li class="menu-item menu-item-type-post_type
-      menu-item-object-page menu-item-84" id="menu-item-84"><span style="font-size:
-      x-small;"><a href="http://www.classicslibrarians.org/digital-humanities/">Digital
-      Humanities</a></span></li><li class="menu-item menu-item-type-post_type
-      menu-item-object-page menu-item-47" id="menu-item-47"><span style="font-size:
-      x-small;"><a href="http://www.classicslibrarians.org/research-help/">Research
-      Help</a></span></li><li class="menu-item menu-item-type-post_type
-      menu-item-object-page menu-item-44" id="menu-item-44"><span style="font-size:
-      x-small;"><a
-      href="http://www.classicslibrarians.org/careers/">Careers</a></span></li><li
-      class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"
-      id="menu-item-43"><span style="font-size: x-small;"><a
-      href="http://www.classicslibrarians.org/contact-us/">Contact
-      us</a></span></li></ul></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Libraries"/>
+   <title type="text">Forum for Classics, Libraries, and Scholarly Communication:  An Affiliated Group of the American Philological Association</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 19 November 2013, updated 7 January 2017]</span><br /><br /><a href="http://www.classicslibrarians.org/">Forum for Classics, Libraries, and Scholarly Communication</a><br />An Affiliated Group of the American Philological Association<br /><blockquote class="tr_bq"><img alt="http://www.classicslibrarians.org/wp-content/uploads/2013/07/FCLSC.edit_.png" class="shrinkToFit decoded" src="http://www.classicslibrarians.org/wp-content/uploads/2013/07/FCLSC.edit_.png" height="224" width="320" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><strong>The</strong> <strong>Forum for Classics, Libraries, and Scholarly Communication</strong> (FCLSC)&nbsp;— also known as the Classics Librarians’ Forum — brings  together librarians and researchers&nbsp;interested in classical studies, in  order to promote timely exchange of information and ideas. Members also  collaborate on projects of mutual concern. The impetus for the forum  grew out of meetings at Princeton University and&nbsp;the Center for Hellenic  Studies in 2004. As an officially affiliated group of the Society for  Classical Studies&nbsp;since 2005, the Forum aims to support initiatives of  the SCS relating to libraries and scholarly communication. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The officers of the Forum are Colin McCaffrey&nbsp;(Yale University),  chair, and Lanah Koelle (Center for Hellenic Studies), secretary. Their  term lasts two years from January 2015 to January 2017. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"></span><span style="font-size: x-small;">Past chairs have been Gerald Heverly (New York University), Rebecka  Lindau (American Academy at Rome), Catherine Mardikes (University of  Chicago), Lucie Stylianopoulos (University of Virginia),&nbsp;and David  Sullivan (University of Notre Dame).</span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><b><a href="http://www.classicslibrarians.org/about/members/" title="Members">List of Members</a></b>&nbsp;| <b><a href="http://www.classicslibrarians.org/about/bylaws/" title="Bylaws">Bylaws</a></b></span><br /><span style="font-size: x-small;"><strong><a href="http://www.classicslibrarians.org/about/members/" title="Members">List of Members</a></strong>&nbsp;| <strong><a href="http://www.classicslibrarians.org/about/bylaws/" title="Bylaws">Bylaws</a></strong></span><br /><span style="font-size: x-small;"></span><h3><span style="font-size: x-small;">Active&nbsp;Projects</span></h3><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="http://www.classicslibrarians.org/projects-and-events/">Building Instructional Support for Classics Research and Teaching</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="http://www.classicslibrarians.org/projects-and-events/">Best Practices for Open Access Monographs’ Visibility</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="http://www.classicslibrarians.org/collaborating-on-a-corpus-of-open-greek-and-latin/" title="Collaborating on a Corpus of Open Greek and Latin">Open Greek and Latin Project</a></span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1783698153693323543/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1783698153693323543/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/08/forum-for-classics-libraries-and.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1783698153693323543"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1783698153693323543"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/08/forum-for-classics-libraries-and.html"
          title="Forum for Classics, Libraries, and Scholarly Communication:  An Affiliated Group of the American Philological Association"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

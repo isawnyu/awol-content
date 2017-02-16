@@ -1,64 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4608169841004197165</id>
-    <published>2014-10-11T07:44:00.000-04:00</published>
-    <updated>2014-10-11T07:44:04.266-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4608169841004197165</id>
+   <published>2016-05-25T11:47:00.000-04:00</published>
+   <updated>2016-05-25T11:48:42.339-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Bibliotheca Polyglotta</title>
-    <content type="html"><![CDATA[<a href="http://www2.hf.uio.no/polyglotta/index.php">Bibliotheca
-      Polyglotta</a><br /><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><a
-      href="http://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=6">Arabic
-      Texts</a><br />The library will contain Arabic texts that have been the basis of
-      translations, and thus diffusion, of Arabic concepts throughout the areas of Islamic culture.
-      The Qur’an is naturally most important.</span><br /><br /><span
-      style="font-size: x-small;"><a
-      href="http://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=3">Biblia</a><br
-      />This library will contain the Old Testament in parallel versions in Hebrew, with the Greek
-      Septuaginta, the Latin Vulgata, and the King James Bible versions. Further it will encompass
-      the New Testament in its Greek version, the Latin Vulgata and the King
-      James.</span><br /><br /><span style="font-size: x-small;"><a
-      href="http://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=1">Bibliotheca
-      Polyglotta Graeca et Latina</a><br />The library will contain multilingual texts
-      where the original is written in Greek or Latin. Translations into Latin, Syriac, Arabic,
-      German, English and other languages will be included.</span><br /><br
-      /><span style="font-size: x-small;"><a
-      href="http://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=11">Sanskrit-Persica</a><br
-      />This library will contain literature translated from Sanskrit into Persian, and from
-      Persian into other languages.</span><br /><br /><span style="font-size:
-      x-small;"><a
-      href="http://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=14">The Ashoka
-      Library</a><br />With this library it is intended to make the inscriptions of
-      Ashoka easily available on the internet, and further build a collection of other sources
-      related to Ashoka. </span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Bibliotheca Polyglotta</title>
+   <content type="html"><![CDATA[<a href="https://www2.hf.uio.no/polyglotta/">Bibliotheca Polyglotta</a><br /><blockquote class="tr_bq"><div class="uiologo"><a href="http://www.hf.uio.no/"><img border="0" src="https://www2.hf.uio.no/polyglotta/hfe.png" /></a></div><span style="font-size: x-small;"><br /></span><div class="sok"><form action="/polyglotta/index.php" id="FormBlock" method="get" name="Sok">	<span style="font-size: 14px;">The <strong>Bibliotheca Polyglotta</strong> (BP) is a multilingual corpus of historically important texts. As such  it is a resource to access the global history of concepts as displayed  in a number of languages, and it demonstrates how concepts diffuse  historically into new languages, and thus into new cultural contexts.</span> </form></div></blockquote><blockquote class="tr_bq"><div class="sok"><form action="/polyglotta/index.php" id="FormBlock" method="get" name="Sok"><div class="p2">	<span style="font-size: 14px;">The BP is in a phase of being constructed, and contains so far the following libraries:</span></div><ul><li>			<span style="font-size: 14px;">The&nbsp;<strong>Thesaurus Literaturae Buddhicae</strong>&nbsp;(TLB)  contains a number of Buddhist multilingual texts (Sanskrit, Chinese,  Tibetan, English, etc.). The TLB was the first library to be established  under the project;</span></li><li>			<span style="font-size: 14px;"><strong>Biblia</strong>&nbsp;contains the Biblical Books of the&nbsp;<em>Old Testament</em>&nbsp;in Hebrew, Greek, Latin, English, and the complete&nbsp;<em>New Testament</em>&nbsp;in Greek, Latin, English, etc. More versions will be added with time;</span></li><li>			<span style="font-size: 14px;"><strong>Arabic Texts</strong>&nbsp;contains a multilingual&nbsp;<em>Quran</em>, so far in Arabic, English and Chinese, but Latin, Urdu, etc., are planned;</span></li><li>			<span style="font-size: 14px;">The&nbsp;<strong>Bibliotheca Polyglotta Graeca</strong>&nbsp;(BPG) contains the Greek literature of antiquity. So far it contains the&nbsp;<em>Categories</em>&nbsp;of Aristotle in Greek, Latin, Arabic, English, and Althochdeutsch, as well as&nbsp;<em>Analytica Posteriora</em>,&nbsp;<em>Euclid</em>&nbsp;and the&nbsp;<em>Hippocratic Oath</em>. The&nbsp;<em>Timaeus</em>&nbsp;of  Plato is under its way with input of Greek, Latin (Cicero, Calchidius  and Ficino), English, and German, also under development are the  multilingual&nbsp;<em>Hermeneutics</em>,&nbsp;<em>Prior Analytics</em>,&nbsp;<em>Rhetorics</em>&nbsp;and more. The&nbsp;<em>Mystical Theology</em>&nbsp;(Greek, Latin, Syriac, Arabic, English) of Dionysius Areopagita is in place in the BPG;</span></li><li>			<span style="font-size: 14px;"><strong>The Universal Declaration of Human Rights</strong>&nbsp;(UDHR) is integrated as a distinct library, planned also to contain more resources on this document;</span></li><li>			<span style="font-size: 14px;"><strong>The Multilingual Ibsen</strong>&nbsp;(MI) makes available the numerous translations made of Henrik Ibsen's plays;</span></li><li>			<span style="font-size: 14px;"><strong>Sanskrit-Persica</strong> will contain literature translated from Sanskrit into Persian, and from Persian into other languages.</span></li></ul><span style="font-size: 14px;"></span></form></div><span style="font-size: x-small;"></span><div class="bibliotekboks" style="cursor: pointer;"><span style="font-size: x-small;"><a href="https://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=6">Arabic Texts</a><br />The  library will contain Arabic texts that have been the basis of  translations, and thus diffusion, of Arabic concepts throughout the  areas of Islamic culture. The Qur’an is naturally most important.&nbsp;</span></div></blockquote><blockquote class="tr_bq"><div class="bibliotekboks" style="cursor: pointer;"><span style="font-size: x-small;"><a href="https://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=3">Biblia</a><br />This  library will contain the Old Testament in parallel versions in Hebrew,  with the Greek Septuaginta, the Latin Vulgata, and the King James Bible  versions. Further it will encompass the New Testament in its Greek  version, the Latin Vulgata and the King James.&nbsp;</span></div></blockquote><blockquote class="tr_bq"><div class="bibliotekboks" style="cursor: pointer;"><span style="font-size: x-small;"><a href="https://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=1">Bibliotheca Polyglotta Graeca et Latina</a><br />The  library will contain multilingual texts where the original is written  in Greek or Latin. Translations into Latin, Armenian, Syriac, Arabic,  German, Nordic, English and other languages are included.&nbsp;</span></div></blockquote><blockquote class="tr_bq"><div class="bibliotekboks" style="cursor: pointer;"><span style="font-size: x-small;"><a href="https://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=18">Library of Old Norse</a><br />The  library is established with the purpose of making the Old Norse  literature available for reading and search, with the original Old Norse  text, and with Norwegian and English translations.&nbsp;</span></div></blockquote><blockquote class="tr_bq"><div class="bibliotekboks" style="cursor: pointer;"><span style="font-size: x-small;"><a href="https://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=13">Motif Library of Mythology</a><br />The  site has the object of describing and accessing Norse Mythology by way  of its motifs. The texts from which the motifs are generated are also  part of the Library.&nbsp;</span></div></blockquote><blockquote class="tr_bq"><div class="bibliotekboks" style="cursor: pointer;"><span style="font-size: x-small;"><a href="https://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=15">Norwegian Place Names - Norske stedsnavn</a><br />This Library so far contains Norwegian and Swedish place names ending in -by and -bø.&nbsp;</span></div></blockquote><blockquote class="tr_bq"><div class="bibliotekboks" style="cursor: pointer;"><span style="font-size: x-small;"><a href="https://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=11">Sanskrit-Persica</a><br />This library will contain literature translated from Sanskrit into Persian, and from Persian into other languages.&nbsp;</span></div></blockquote><blockquote class="tr_bq"><div class="bibliotekboks" style="cursor: pointer;"><span style="font-size: x-small;"><a href="https://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=14">The Ashoka Library</a><br />With  this library it is intended to make the inscriptions of Ashoka easily  available on the internet, and further build a collection of other  sources related to Ashoka.&nbsp;</span></div></blockquote><blockquote class="tr_bq"><div class="bibliotekboks" style="cursor: pointer;"><span style="font-size: x-small;"><a href="https://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=10">The Multilingual Ibsen</a><br />This  Library makes available the numerous translations made of Henrik  Ibsen‘s plays, in an attempt to follow the conceptual flow following the  translingual mobility which these works have undergone.&nbsp;</span></div></blockquote><blockquote class="tr_bq"><div class="bibliotekboks" style="cursor: pointer;"><span style="font-size: x-small;"><a href="https://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=2">Thesaurus Literaturae Buddhicae</a><br />The  Thesaurus contains a number of texts written originally in Indic  Buddhist languages, and then translated into Chinese, Tibetan, etc. Also  modern translations into English, etc., are given in the parallel  versions.&nbsp;</span></div></blockquote><blockquote class="tr_bq"><div class="bibliotekboks" style="cursor: pointer;"><span style="font-size: x-small;"><a href="https://www2.hf.uio.no/polyglotta/index.php?page=library&amp;bid=4">Universal Declaration of Human Rights</a><br />This  document is displayed in its six working languages, English, French,  Spanish, Russian, Arabic and Chinese. More languages will also be added  for this important multilingual text.</span></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4608169841004197165/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4608169841004197165/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/bibliotheca-polyglotta.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4608169841004197165"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4608169841004197165"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/bibliotheca-polyglotta.html"
          title="Bibliotheca Polyglotta"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

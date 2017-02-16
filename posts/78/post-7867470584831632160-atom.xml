@@ -1,78 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7867470584831632160</id>
-    <published>2014-04-23T06:14:00.001-04:00</published>
-    <updated>2014-04-23T06:14:21.368-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7867470584831632160</id>
+   <published>2016-05-18T09:00:00.000-04:00</published>
+   <updated>2016-05-18T09:00:50.036-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Anatolia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Philology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
-    <title type="text">Annotated Corpus of Luwian Texts</title>
-    <content type="html"><![CDATA[<a href="http://web-corpora.net/LuwianCorpus/search/">Annotated Corpus
-      of Luwian Texts</a><br /><blockquote class="tr_bq"><img
-      alt="http://web-corpora.net/LuwianCorpus/search/images/luwian-logo.png" class="decoded"
-      src="http://web-corpora.net/LuwianCorpus/search/images/luwian-logo.png" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">This
-      is a pilot version of the Annotated Corpus of Luwian Texts (ACLT). So far it comprises the
-      analysis the texts included in the published volumes of the Corpus of Hieroglyphic Luwian
-      Inscriptions (CHLI) by J.&nbsp;David Hawkins. This initial phase of this project has been
-      completed with the assistance of a research grant of the Corpus Linguistics Program sponsored
-      by the Presidium of the Russian Academy of Sciences. <a
-      href="http://www.imk.msu.ru/Structure/Linguistics/yakubovich/yakubovich-main-eng.html"
-      target="_top">Dr. Ilya Yakubovich</a> acted as the principal investigator of the
-      project, whose team consisted of <a href="http://www.hse.ru/en/org/persons/34257708"
-      target="_top">Dr. Timofey Arkhangelskiy</a>, Mr. Sergey Boroday, and Dr. Alexei
-      Kassian. The extension of the corpus to other Luwian texts is planned for the near future, with
-      the eventual goal of preparing a corpus-based Luwian dictionary. The lexicographic work on the
-      Luwian texts is further facilitated by a Humboldt Fellowship tenured by Ilya Yakubovich at the
-      Philipps Universität Marburg in 2013–15. Special thanks go to Martien Dillo for his corrections
-      and suggestions.</span><br /><br /> <span style="font-size: x-small;">A
-      special feature of the Luwian corpus, which sets it apart from the electronic corpora of
-      better-known languages, is the absence of an up-to-date Luwian dictionary in hieroglyphic
-      transmission. The compilation of the corpus could hardly be separated from deciphering the
-      Anatolian Hieroglyphs and interpreting the Luwian lexicon. This is why the interface of the
-      corpus contains the provisional Luwian glossary, whose lemmata can be used as entries for
-      automated search. Ilya Yakubovich takes the entire responsibility for the interpretative
-      transliteration conventions adopted in the glossary. The narrow transliteration used in the
-      corpus generally follows the system of the CHLI but incorporates several modifications
-      reflecting the recent progress in the Luwian Studies.</span><br /><br />
-      <span style="font-size: x-small;">The present corpus is not meant to represent a final
-      product. The corrections of both linguistic and technical errors will be warmly welcomed. For
-      linguistic issues, please contact Ilya Yakubovich
-      (sogdiana783</span><wbr></wbr><span style="font-size:
-      x-small;">@gmail.com). For possible problems with computer interface, please contact Timofey
-      Arkhangelskiy (timarkh</span><wbr></wbr><span style="font-size:
-      x-small;">@gmail.com). If you wish to cite the new interpretations offered in the corpus,
-      you can give credit to the ACLT (together with its
-      URL).</span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Turkey"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Anatolia"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Philology"/>
+   <title type="text">Annotated Corpus of Luwian Texts</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 23 April 2014, updated 18 May 2016] </span><br /><br /><a href="http://web-corpora.net/LuwianCorpus/search/">Annotated Corpus of Luwian Texts</a><br /><blockquote class="tr_bq"><img alt="http://web-corpora.net/LuwianCorpus/search/images/luwian-logo.png" class="decoded" src="http://web-corpora.net/LuwianCorpus/search/images/luwian-logo.png" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">This is a pilot version of the Annotated Corpus of Luwian Texts  (ACLT). It comprises the analysis the Iron Age Luwian texts, most of  which are included in the published volumes of the <i>Corpus of Hieroglyphic Luwian Inscriptions (CHLI)</i> by J.&nbsp;David Hawkins, as well as the cuneiform texts of the Bronze Age published in the <i>Die keilschrift-luwischen Texte in Umschrift (StBoT&nbsp;30)</i> by Frank Starke. This initial phase of this project has been completed  with the assistance of a research grant of the Corpus Linguistics  Program sponsored by the Presidium of the Russian Academy of Sciences. <a href="http://www.imk.msu.ru/Structure/Linguistics/yakubovich/yakubovich-main-eng.html" target="_top">Dr. Ilya Yakubovich</a> acted as the principal investigator of the project, whose team consisted of <a href="http://www.hse.ru/en/org/persons/34257708" target="_top">Dr. Timofey Arkhangelskiy</a>,  Mr. Sergey Boroday, and Dr. Alexei Kassian. The corpus extension is  planned for the near future, with the eventual goal of preparing a  corpus-based comparative dictionary of all the minor Anatolian  languages. The work on the project was further facilitated by a Humboldt  Fellowship tenured by Ilya Yakubovich at the Philipps Universität  Marburg in 2013–15. Special thanks go to Martien Dillo for his  corrections and suggestions. </span></blockquote><blockquote class="tr_bq"> <span style="font-size: x-small;">A special feature of the Luwian corpus, which sets it apart from the  electronic corpora of better-known languages, is the absence of an  up-to-date Luwian dictionary in hieroglyphic transmission. The  compilation of the corpus could hardly be separated from deciphering the  Anatolian Hieroglyphs and interpreting the Luwian lexicon. This is why  the interface of the corpus contains the provisional Luwian glossaries,  whose lemmata can be used as entries for automated search. For practical  reasons, the glossaries to the cuneiform and hieroglyphic corpora are  given separately, even though they reflect essentially the same  language. Ilya Yakubovich takes the entire responsibility for the  interpretative transliteration conventions adopted in the glossary. The  narrow transliteration of the hieroglyphic texts used in the corpus  generally follows the system of the CHLI but incorporates several  modifications reflecting the recent progress in the Luwian Studies. The  narrow transliteration of the cuneiform texts reflects the conventions  of StBoT&nbsp;30 and its <a href="http://www.linguistics.ucla.edu/people/Melchert/webpage/CLUVIAN.pdf" target="_top">computer adaptation</a> by H.&nbsp;Craig Melchert. Note that the present corpus, as a rule, does not  contain isolated Luwian forms occurring in Hittite texts. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"> </span><span style="font-size: x-small;">The present corpus is a work in progress and its direct citation is  not recommended. The corrections of both linguistic and technical errors  will be warmly welcomed. For linguistic issues, please contact Ilya  Yakubovich (sogdiana783</span><wbr></wbr><span style="font-size: x-small;">@gmail.com). For possible problems with computer interface, please contact Timofey Arkhangelskiy (timarkh</span><wbr></wbr><span style="font-size: x-small;">@gmail.com).  If you wish to cite the new interpretations offered in the corpus, you  can give credit to the ACLT (together with its URL). Original  interpretations implicit in the database can be cited with reference to  the personal communication of Ilya Yakubovich. If you wish to refer to  the sketch of the Luwian grammar available at this website, please cite  it according to its principal location as: Ilya Yakubovich, “The Luwian  Language”. Oxford Handbooks Online (21 Oct. 2015). <a href="http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199935345.001.0001/oxfordhb-9780199935345-e-18" target="_top">http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199935345.001.0001/oxfordhb-9780199935345-e-18</a></span></blockquote><blockquote class="tr_bq"><table border="0" cellpadding="0" cellspacing="0" id="carcass" style="width: 100%px;"><tbody><tr><td>			<div id="headerFlagsMenu"> 				<div id="headerMenu">	<ul class="site-menu"><li><span style="font-size: x-small;"><a href="http://web-corpora.net/LuwianCorpus/search/index.php?interface_language=en" target="_top"><nobr>Main</nobr></a></span></li><li><span style="font-size: x-small;"><a href="http://web-corpora.net/LuwianCorpus/search/vocabulary-hieroglyphic.php?interface_language=en" target="results_frame"><nobr>Hieroglyphic Vocabulary</nobr></a></span></li><li><span style="font-size: x-small;"><a href="http://web-corpora.net/LuwianCorpus/search/vocabulary-cuneiform.php?interface_language=en" target="results_frame"><nobr>Cuneiform Vocabulary</nobr></a></span></li><li><span style="font-size: x-small;"><a href="http://web-corpora.net/LuwianCorpus/library/Luw-grammar.pdf" target="_top"><nobr>Grammar</nobr></a></span></li></ul></div></div></td></tr></tbody></table></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7867470584831632160/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7867470584831632160/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/04/annotated-corpus-of-luwian-texts.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7867470584831632160"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7867470584831632160"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/04/annotated-corpus-of-luwian-texts.html"
          title="Annotated Corpus of Luwian Texts"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

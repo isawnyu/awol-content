@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1454905815997651659</id>
+   <published>2016-10-10T10:25:00.000-04:00</published>
+   <updated>2016-10-10T10:25:42.646-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <title type="text">Open Dataset: roman-amphitheaters</title>
+   <content type="html"><![CDATA[<a href="https://github.com/sfsheath/roman-amphitheaters">roman-amphitheaters</a><br />Edited by Sebastian Heath <br /><blockquote class="tr_bq"><h2><span style="font-size: x-small;">Introduction</span></h2><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><em>roman-amphitheaters</em> is a dataset published in conjunction  with figures and discussion that has the goal of facilitating the study  of amphitheaters in the Roman world. For the purposes of this project  the category 'Roman amphitheater' comprises relatively large and public  Roman-period oval buildings with rows of seating arrayed around a  similarly oval surface, or arena, on which a variety of entertainments -  such as animal hunts, executions, and gladiatorial combat -  took  place. The most famous example of this building type, and also the  largest, is the Flavian Amphitheater, or Colosseum, in Rome.  Construction of that edifice began under the emperor Vespasian (d. AD  79) and entered full and regular use during the reign of his son  Domitian (d. AD 96). It is important to note that of the three broad  categories of activity that took place in amphitheaters, none of them  took place only in amphitheaters. Therefore this dataset is not a  complete map of any single Roman behavior. While it is the case that  amphitheaters are distinctly 'Roman' given that they do not appear  outside the territory of the Empire, they cannot be said to be a  necessary component of Roman culture given that their distribution is  very unequal in the territory that was firmly under imperial control.  The publication of this dataset, and of the figures that use it, is  intended to explore this tension between amphitheaters as a regular but  not necessary or universal feature of Roman presence in the regions that  Rome conquered.</span><br /><span style="font-size: x-small;"> </span><h2><span style="font-size: x-small;">The Dataset</span></h2><span style="font-size: x-small;"> </span><span style="font-size: x-small;">The primary version of the data is the geojson file  'roman-amphitheaters.geojson', which can be rendered as a map by a  variety of freely-available tools. Other data files are derived from  that geojson.</span><br /><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">Like much information related to the Roman Empire, and to antiquity  more generally, it is unlikely that any single listing of structures can  achieve universal recognition as being either complete or finished.  While there are over 200 structures that are uncontroversially  recognized as within the category, others are not so easily included or  rejected. In this dataset, so-called 'Gall-Roman' amphitheaters that  combine features of theaters and amphitheaters are, or will be,  included. Theaters that were later converted for display of gladiatorial  combat are not.</span><br /><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">Wikipedia's list of Roman amphitheaters at <a href="http://en.wikipedia.org/wiki/List_of_Roman_amphitheatres">http://en.wikipedia.org/wiki/List_of_Roman_amphitheatres</a> was an early source for the initial versions of this list.  Tom Elliott  added data from the Pleiades Project. In summer 2015, D. Bennett added  orientation and other data. The full history of edits and contributions  are available in the history of this github repository.</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">For users interested in acquiring just the current version of this  resource, it should be sufficient to download the zip archive from  github.com. That file will be smaller than the full repository...</span><br />  </blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/1454905815997651659/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/10/open-dataset-roman-amphitheaters.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1454905815997651659"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1454905815997651659"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/10/open-dataset-roman-amphitheaters.html"
+         title="Open Dataset: roman-amphitheaters"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

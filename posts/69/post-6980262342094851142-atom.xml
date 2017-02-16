@@ -1,105 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6980262342094851142</id>
-    <published>2013-07-23T09:19:00.003-04:00</published>
-    <updated>2013-07-23T09:26:05.999-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6980262342094851142</id>
+   <published>2016-06-06T07:08:00.000-04:00</published>
+   <updated>2016-06-06T07:09:01.309-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Geography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
-    <title type="text">Trismegistos Places</title>
-    <content type="html"><![CDATA[<a href="http://www.trismegistos.org/geo/index.php">Trismegistos
-      Places (GEO and GEOREF)</a><br /><img
-      alt="http://www.trismegistos.org/img/tm_logo_web2.png" class="decoded"
-      src="http://www.trismegistos.org/img/tm_logo_web2.png" /><br /><blockquote
-      class="tr_bq"><span style="font-size: x-small;">Currently <b>30495</b>
-      place records (GEO) and <b>117663</b> place attestation records
-      (GEOREF).</span><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;">A database of places related to the
-      ancient world <br />by Trismegistos</span><br /><span style="font-size:
-      x-small;">&nbsp; </span><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;"> Based on the foundations of the Fayum
-      Project (Graeco-Roman Egypt) of the KULeuven and the project Multilingualism and
-      Multiculturalism in Graeco-Roman Egypt of Cologne University.&nbsp;</span><br
-      /><br /><span style="font-size: x-small;"> </span><span
-      style="font-size: x-small;"> Fully reworked in a project sponsored by the <a
-      href="http://www.herculesstichting.be/in_English/index.php" target="new">Hercules
-      Foundation</a>. </span><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;"> Expanded to places outside Egypt in the
-      framework of the CIP Europeana EAGLE project. </span><br /><span
-      style="font-size: x-small;"> </span><br /><table><tbody><tr>
-      <td width="220px"><span style="font-size: x-small;">General coordination
-      (Trismegistos):</span></td><td><span style="font-size: x-small;">Mark
-      Depauw, Herbert Verreth</span></td> </tr><tr> <td
-      width="220px"><span style="font-size: x-small;">General coordination (Fayum
-      Project):</span></td><td><span style="font-size: x-small;">Willy
-      Clarysse, Katelijn Vandorpe</span></td> </tr><tr> <td><span
-      style="font-size: x-small;">Database structure (Filemaker
-      7-11):</span></td><td><span style="font-size: x-small;">Bart Van
-      Beek</span></td> </tr><tr> <td><span style="font-size:
-      x-small;">Online version (PHP &amp; MySQL):</span></td><td><span
-      style="font-size: x-small;">Jeroen Clarysse, Bart Van Beek, Mark
-      Depauw</span></td> </tr><tr> <td valign="top"><span
-      style="font-size: x-small;">Data processing (Fayum
-      Project):</span></td><td><span style="font-size: x-small;">Bart Van
-      Beek; formerly Hans Proost, Inge Uytterhoeven</span></td> </tr><tr>
-      <td valign="top"><span style="font-size: x-small;">Data processing
-      (Trismegistos):</span></td><td><span style="font-size:
-      x-small;"><b>Herbert
-      Verreth</b></span></td></tr></tbody></table></blockquote><div
-      id="box1"><blockquote class="tr_bq"><ul><li><span style="font-size:
-      x-small;"><a href="http://www.trismegistos.org/geo/list_all.php">List all places
-      (GEO)</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.trismegistos.org/geo/georef_list_all.php">List all attestations
-      (GEOREF)</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://www.trismegistos.org/geo/about_datastandards.php">Data
-      Standards (GEO)</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://www.trismegistos.org/geo/about_georefdatastandards.php">Data
-      Standards (GEOREF)</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://www.trismegistos.org/geo/google.php">Pick from
-      Map</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.trismegistos.org/fayum/index.php" target="new">KULeuven Fayum
-      Project</a></span></li></ul></blockquote><blockquote
-      class="tr_bq"> <span style="font-size: x-small;"><img
-      src="http://www.trismegistos.org/img/basic/pdf_icon.jpg" /> <a
-      href="http://www.trismegistos.org/dl.php?id=15" target="blank">TOP 2</a> (Click to
-      download) <br /><i>H. Verreth</i> <br /><b>A survey of toponyms
-      in Egypt in the Graeco-Roman period</b> <br />Version 2.0 (July 2013), Köln /
-      Leuven 2013, 1253 pp. (12 Mb). <br />ISBN: To be determined (Version 1.0:
-      978-9-490604-0-35) <br /><i>(The old version 1.0, from September 2008, is still
-      available as well: <a href="http://www.trismegistos.org/dl.php?id=6" target="blank">click
-      here</a> to download in pdf).</i></span></blockquote><span
-      style="font-size: x-small;"><i>&nbsp;</i></span> <br />
-      </div><div style="text-align: center;">&nbsp;And see AWOL's <a
-      href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup
-      of Resources on Ancient Geography</a></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Geography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
+   <title type="text">Trismegistos Places</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 23 July 3913, updated 6 June 2016]</span><br /><br /><a href="http://www.trismegistos.org/geo/index.php">Trismegistos Places (GEO and GEOREF)</a><br /><blockquote class="tr_bq"><img alt="http://www.trismegistos.org/img/tm_logo_web2.png" class="decoded" src="http://www.trismegistos.org/img/tm_logo_web2.png" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Currently <b>49774</b> place records (GEO) and <b>197702</b> place attestation records (GEOREF).</span><span style="font-size: x-small;"> </span><span style="font-size: x-small;">&nbsp;  </span><br /><span style="font-size: x-small;">   </span><span style="font-size: x-small;"> Based on the foundations of the Fayum Project (Graeco-Roman Egypt) of  the KULeuven and the project Multilingualism and Multiculturalism in  Graeco-Roman Egypt of Cologne University.&nbsp;</span><br /><br /><span style="font-size: x-small;">   </span><span style="font-size: x-small;"> Fully reworked in a project sponsored by the <a href="http://www.herculesstichting.be/in_English/index.php" target="new">Hercules Foundation</a>.  </span><br /><span style="font-size: x-small;">   </span><span style="font-size: x-small;"> Expanded to places outside Egypt in the framework of the CIP Europeana EAGLE project.  </span><br /><span style="font-size: x-small;">        </span><br /><table><tbody><tr>   <td width="220px"><span style="font-size: x-small;">General coordination (Trismegistos):</span></td><td><span style="font-size: x-small;">Mark Depauw, Herbert Verreth</span></td>  </tr><tr>   <td width="220px"><span style="font-size: x-small;">General coordination (Fayum Project):</span></td><td><span style="font-size: x-small;">Willy Clarysse, Katelijn Vandorpe</span></td>  </tr><tr>   <td><span style="font-size: x-small;">Database structure (Filemaker 7-11):</span></td><td><span style="font-size: x-small;">Bart Van Beek</span></td>  </tr><tr>   <td><span style="font-size: x-small;">Online version (PHP &amp; MySQL):</span></td><td><span style="font-size: x-small;">Jeroen Clarysse, Bart Van Beek, Mark Depauw</span></td>  </tr><tr>   <td valign="top"><span style="font-size: x-small;">Data processing (Fayum Project):</span></td><td><span style="font-size: x-small;">Bart Van Beek; formerly Hans Proost, Inge Uytterhoeven</span></td>  </tr><tr>   <td valign="top"><span style="font-size: x-small;">Data processing (Trismegistos):</span></td><td><span style="font-size: x-small;"><b>Herbert Verreth</b></span></td></tr></tbody></table></blockquote><div id="box1"><div id="left">  <div id="searchbox">   <ul><li><span style="font-size: x-small;"><a href="http://www.trismegistos.org/geo/search.php">» Advanced Search (GEO)</a>&nbsp;</span></li><li><span style="font-size: x-small;"><a href="http://www.trismegistos.org/geo/georef_search.php">» Advanced Search (GEOREF)</a>&nbsp;</span></li></ul><span style="font-size: x-small;">  </span></div><span style="font-size: x-small;">    </span><div id="box1">   <ul><li class="header"><span style="font-size: x-small;">Places (GEO)</span></li><li><span style="font-size: x-small;"><a href="http://www.trismegistos.org/geo/index.php">Home</a></span></li><li><span style="font-size: x-small;"><a href="http://www.trismegistos.org/geo/list_all.php">List all places (GEO)</a></span></li><li><span style="font-size: x-small;"><a href="http://www.trismegistos.org/geo/georef_list_all.php">List all attestations (GEOREF)</a></span></li><li><span style="font-size: x-small;"><a href="http://www.trismegistos.org/geo/about_datastandards.php">Data Standards (GEO)</a></span></li><li><span style="font-size: x-small;"><a href="http://www.trismegistos.org/geo/about_georefdatastandards.php">Data Standards (GEOREF)</a></span></li><li><span style="font-size: x-small;"><a href="http://www.trismegistos.org/geo/google.php">Pick from Map</a></span></li><li><span style="font-size: x-small;"><a href="http://www.trismegistos.org/fayum/index.php" target="new">KULeuven Fayum Project</a></span></li></ul></div><span style="font-size: x-small;">   </span></div><span style="font-size: x-small;"><i>&nbsp;</i></span>    </div><div style="text-align: center;">&nbsp;And see AWOL's <a href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup of Resources on Ancient Geography</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6980262342094851142/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6980262342094851142/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/07/trismegistos-places.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6980262342094851142"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6980262342094851142"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/07/trismegistos-places.html"
          title="Trismegistos Places"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

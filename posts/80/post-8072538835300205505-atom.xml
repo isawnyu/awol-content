@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8072538835300205505</id>
+   <published>2015-07-16T15:12:00.003-04:00</published>
+   <updated>2015-07-16T15:12:43.741-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Coptic"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Texts"/>
+   <title type="text">Coptic Scriptorium URN Resolver -- BETA version</title>
+   <content type="html"><![CDATA[<a href="http://data.copticscriptorium.org/">Coptic Scriptorium URN Resolver -- BETA version</a><br /><img alt="http://data.copticscriptorium.org/static/img/header_logo_right.png" class="transparent" src="http://data.copticscriptorium.org/static/img/header_logo_right.png" /><br /><blockquote class="tr_bq"><div class="description-text">     <span style="font-size: x-small;">Coptic SCRIPTORIUM provides Coptic texts for reading, analysis, and  complex searches.  The texts are  citable and accessible through stable  <a href="http://en.wikipedia.org/wiki/Uniform_resource_name">URNs</a>, such as urn:cts:copticLit:shenoute.fox for Shenoute's work <i>Not Because a Fox Barks</i>.  This application will provide the most recent version of our documents in the formats currently available for each text.&nbsp;</span></div><div class="description-text"><br /></div><span style="font-size: x-small;">    </span><div class="description-text"><span style="font-size: x-small;">If you wish to read Coptic texts, you  can view individual documents online (in HTML). We provide HTML  visualizations of texts in diplomatic transcriptions (when manuscript  information is available) and normalized Coptic text with an English  translation (when that translation is available). We also provide an  analytical visualization of each text with the Coptic, English (when  available), and part of speech information for the Coptic. <a href="http://data.copticscriptorium.org/download/tools/scriptorium_tagset_documentation.pdf" target="_blank" title="part of speech tagset">Documentation on our part of speech tagging</a> explains the part of speech abbreviations and our methodology.</span></div><div class="description-text"><br /></div><span style="font-size: x-small;">    </span><div class="description-text"><span style="font-size: x-small;">Documentation beneath the text provides information about it, including the version and date of publication online.</span></div></blockquote><br /><span class="tool-text"></span>&nbsp;<span class="fa fa-chevron-down"></span>          ]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/8072538835300205505/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/07/coptic-scriptorium-urn-resolver-beta.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8072538835300205505"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8072538835300205505"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/07/coptic-scriptorium-urn-resolver-beta.html"
+         title="Coptic Scriptorium URN Resolver -- BETA version"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

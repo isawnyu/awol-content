@@ -1,155 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8691509273621503155</id>
-    <published>2015-02-28T15:52:00.000-05:00</published>
-    <updated>2015-02-28T15:54:27.382-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8691509273621503155</id>
+   <published>2017-01-26T11:42:00.000-05:00</published>
+   <updated>2017-01-26T11:43:08.393-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Canada"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
-    <title type="text">Open Access Journal: Teiresias: A Review and Bibliography of Boiotian
-      Studies</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a
-      href="http://ancientworldonline.blogspot.com/2009/11/more-open-access-journals-group-9.html">9
-      November 2009</a>. Updated <span style="font-size: xx-small;">28</span>
-      February 2015]</span><br /><br /><div style="text-align:
-      center;"><span style="font-size: xx-small;"><span style="font-size:
-      small;"><span><span>Have you taken the <a
-      href="http://ancientworldonline.blogspot.com/2015/02/ancient-world-online-user-survey.html">AWOL
-      User Survey</a>?</span></span></span> </span></div><br
-      /><a href="http://www.mcgill.ca/classics/research/teiresias/">Teiresias: A Review and
-      Bibliography of Boiotian Studies</a><br />ISSN 1206-5730<br
-      /><blockquote><img
-      alt="http://www.mcgill.ca/classics/files/classics/moriarty_logo.jpg" class="decoded"
-      src="http://www.mcgill.ca/classics/files/classics/moriarty_logo.jpg" height="64" width="320"
-      /></blockquote><br /><blockquote><span style="font-size:
-      x-small;">Teiresias (ISSN 1206-5730) is a review and continuing bibliography of Boiotian
-      studies. It has been published since 1971, and since 1991 has been available electronically. It
-      is edited by Albert Schachter, Emeritus Professor of
-      History.</span></blockquote><blockquote><span style="font-size:
-      x-small;">Teiresias comes out twice a year, and in addition to the bibliographical section,
-      it publishes notes on Works in Progress submitted by scholars working on Boiotian subjects. The
-      Work in Progress section also regularly contains annual reports from the Leiden-Ljubliana
-      Tanagra Survey Project. Anybody interested can be added to the recipient list of Teiresias by
-      writing to <a class="spamspan" href="mailto:jaschachter%40btinternet.com">Albert
-      Schachter</a>.</span> </blockquote><blockquote><span
-      style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/teiresias_-_2014_-_1.pdf"
-      title="">Teiresias 44.1 (2014) </a>[.pdf]</span><br /><span
-      style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/teiresias_2013_-_2.pdf"
-      title="">Teiresias 43.2 (2013)</a>&nbsp;[.pdf]</span><br /><span
-      style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/teiresias_2013_-_1.pdf"
-      title="">Teiresias 43.1 (2013)</a>&nbsp;[.pdf]</span><br /><span
-      style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/teiresias_2012-2.pdf">Teiresias 42.2
-      (2012)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/teiresias_2012_-_1_-_1b.pdf">Teiresias
-      42.1b (2012)</a> [.pdf]</span><br /><span style="font-size:
-      x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/teiresias_2012-1-1a.pdf">Teiresias 42.1a
-      (2012)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/teiresias41.2b.pdf">Teiresias 41.2b
-      (2011)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/teiresias41.2a.pdf">Teiresias 41.2a
-      (2011)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/teiresias_2011_1.pdf">Teiresias 41.1
-      (2011)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2010-2.pdf">Teiresias 40.2
-      (2010)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2010-1.pdf">Teiresias 40.1
-      (2010)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2009-2.pdf">Teiresias 39.2
-      (2009)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2009-1.pdf">Teiresias 39.1
-      (2009)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2008-2.pdf">Teiresias 38.2
-      (2008)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2008-1.pdf">Teiresias 38.1
-      (2008)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2007-2.pdf">Teiresias 37.2
-      (2007)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2007-1.pdf">Teiresias 37.1
-      (2007)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2006-2.pdf">Teiresias 36.2
-      (2006)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2006-1.pdf">Teiresias 36.1
-      (2006)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2005-2.pdf">Teiresias 35.2
-      (2005)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2005-1.pdf">Teiresias 35.1
-      (2005)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2004-2.pdf">Teiresias 34.2
-      (2004)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2004-1.pdf">Teiresias 34.1
-      (2004)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2003-2.pdf">Teiresias 33.2
-      (2003)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2003-1.pdf">Teiresias 33.1
-      (2003)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2002-2.pdf">Teiresias 32.2
-      (2002)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2002-1.pdf">Teiresias 32.1
-      (2002)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2001-2.pdf">Teiresias 31.2
-      (2001)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2001-1.pdf">Teiresias 31.1
-      (2001)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2000-2.pdf">Teiresias 30.2
-      (2000)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_2000-1.pdf">Teiresias 30.1
-      (2000)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_1999.pdf">Teiresias 29
-      (1999)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_1998.pdf">Teiresias 28
-      (1998)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_1997.pdf">Teiresias 27
-      (1997)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_1996.pdf">Teiresias 26
-      (1996)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_1995.pdf">Teiresias 25
-      (1995)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_1994.pdf">Teiresias 24
-      (1994)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_1993.pdf">Teiresias 23
-      (1993)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_1992.pdf">Teiresias 22
-      (1992)</a> [.pdf]</span><br /><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/files/classics/Teiresias_1991.pdf">Teiresias 21
-      (1991)</a> [.pdf]</span></blockquote><br /><div style="text-align:
-      center;"><span style="font-size: x-small;">&nbsp;<span style="font-size:
-      small;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></span></span><a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html"></a></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Canada"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <title type="text">Open Access Journal: Teiresias: A Review and Bibliography of Boiotian Studies</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a href="http://ancientworldonline.blogspot.com/2009/11/more-open-access-journals-group-9.html">9 November 2009</a>. Updated 26 January 2017]</span><br /><br /><a href="http://www.teiresias-journal.org/">Teiresias: A Review and Bibliography of Boiotian Studies</a><br />ISSN 1206-5730<br /><blockquote class="tr_bq"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-234db220d6221a944e1e"><div class="sqs-block-content"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-234db220d6221a944e1e"><div class="sqs-block-content"><span style="font-size: x-small;">Teiresias  is a review and continuing bibliography of Boiotian studies (ISSN  1206-5730). It is published twice a year. The core of the journal is its  bibliography, but it also publishes archaeological reports,  announcements of scholarly events and a Work in Progress section. Since  2000 the journal has carried regular reports of the work of the <a href="http://www.ucy.ac.cy/artlands/en/research/ancient-cities-of-boeotia">Ancient Cities of Boeotia Survey Project</a>, as well as reports of the work of the <a href="http://web.uvic.ca/%7Ebburke/EBAP/goals.html">Eastern Boeotia Archaeological Project (EBAP)</a>, and the <a href="http://www.umbc.edu/aroura/">Archaeological Reconnaissance of Uninvestigated Remains of Agriculture</a> (AROURA). From 1976 to 1986 an epigraphic appendix (<a href="http://www.teiresias-journal.org/epigraphica">Epigraphica</a>)&nbsp;was published by the late Paul Roesch. The epigraphic appendix was relaunched in 2016. The journal also maintains a series of <a href="http://www.teiresias-journal.org/supplements">Supplements</a>. Since 2016, supplement volumes appear as <a href="http://teiresias-supplements.mcgill.ca/" target="_blank">Teiresias Supplements Online (TSO)</a>, edited by Hans Beck and Fabienne Marchand.&nbsp;&nbsp; </span></div></div></div></div></blockquote><blockquote class="tr_bq"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-234db220d6221a944e1e"><div class="sqs-block-content"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-234db220d6221a944e1e"><div class="sqs-block-content"><span style="font-size: x-small;">Coming  out of McGill University in Montreal, the journal appeared first in  1971, and has been published steadily since then. From 1971 to 1979 it  was produced under the joint editorship of Albert Schachter and John  Fossey. Albert Schachter has been the sole editor since 1980. From 2016  Teiresias is edited by Fabienne Marchand. </span></div></div></div></div></blockquote><blockquote class="tr_bq"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-234db220d6221a944e1e"><div class="sqs-block-content"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-234db220d6221a944e1e"><div class="sqs-block-content"><span style="font-size: x-small;">Teiresias was published  in print until 1990, and since 1991 has been an online publication,  distributed free of charge. Users should <a href="http://www.teiresias-journal.org/read-me">register with the editor</a> to have their names added to a mailing list in order to receive  notification of the publication of the latest issue. All back issues are  available for download <a href="http://www.teiresias-journal.org/locations">here</a>.</span></div></div></div></div></blockquote><blockquote class="tr_bq"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_3_1448030858979_7109"><div class="sqs-block-content"><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias-2016-2-ck3z.pdf" target="_blank">Teiresias 46.2 (2016)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias-2016-1.pdf" target="_blank">Teiresias 46.1 (2016)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2015_-_2.pdf">Teiresias 45.2 (2015)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/teiresias_2015_-_1.pdf">Teiresias 45.1 (2015)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/teiresias_2014-2.pdf" target="_blank">Teiresias 44.2 (2014)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/teiresias_2014-1.pdf" target="_blank">Teiresias 44.1 (2014)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/teiresias_2013-2.pdf" target="_blank">Teiresias 43.2 (2013)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2013-1b.pdf">Teiresias 43.1 (2013)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/teiresias_2012-2.pdf" target="_blank">Teiresias 42.2 (2012)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/teiresias_2012_1b.pdf" target="_blank">Teiresias 42.1b (2012)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/teiresias_2012-1a.pdf" target="_blank">Teiresias 42.1a (2012)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/teiresias_2011-2b.pdf" target="_blank">Teiresias 41.2b (2011)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/teiresias_2011-2a.pdf" target="_blank">Teiresias 41.2a (2011)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/teiresias_2011-1-9iw2.pdf" target="_blank">Teiresias 41.1 (2011)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2010-2.pdf" target="_blank">Teiresias 40.2 (2010)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2010-1.pdf" target="_blank">Teiresias 40.1 (2010)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2009-2.pdf" target="_blank">Teiresias 39.2 (2009)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2009-1.pdf" target="_blank">Teiresias 39.1 (2009)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2008-2.pdf" target="_blank">Teiresias 38.2 (2008)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2008-1.pdf" target="_blank">Teiresias 38.1 (2008)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2007-2.pdf" target="_blank">Teiresias 37.2 (2007)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2007-2-ae43.pdf" target="_blank">Teiresias 37.1 (2007)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2006-2.pdf" target="_blank">Teiresias 36.2 (2006)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2006-1.pdf" target="_blank">Teiresias 36.1 (2006)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2005-2-64wv.pdf" target="_blank">Teiresias 35.2 (2005)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2005-1-i7x2.pdf" target="_blank">Teiresias 35.1 (2005)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2004-2.pdf" target="_blank">Teiresias 34.2 (2004)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2004-1.pdf" target="_blank">Teiresias 34.1 (2004)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2003-2.pdf" target="_blank">Teiresias 33.2 (2003)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2003-1.pdf" target="_blank">Teiresias 33.1 (2003)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2002-2.pdf" target="_blank">Teiresias 32.2 (2002)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2002-1.pdf" target="_blank">Teiresias 32.1 (2002)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2001-2.pdf" target="_blank">Teiresias 31.2 (2001)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2001-1.pdf" target="_blank">Teiresias 31.1 (2001)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2000-2.pdf" target="_blank">Teiresias 30.2 (2000)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_2000-1.pdf" target="_blank">Teiresias 30.1 (2000)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_1999.pdf" target="_blank">Teiresias 29 (1999)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_1998-f9nw.pdf" target="_blank">Teiresias 28 (1998)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_1997-ucq2.pdf" target="_blank">Teiresias 27 (1997)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_1996-yl4r.pdf" target="_blank">Teiresias 26 (1996)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_1995-3r4m.pdf" target="_blank">Teiresias 25 (1995)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_1994.pdf" target="_blank">Teiresias 24 (1994)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_1993.pdf" target="_blank">Teiresias 23 (1993)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_1992.pdf" target="_blank">Teiresias 22 (1992)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias_1991.pdf" target="_blank">Teiresias 21 (1991)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias-vol20-1990.pdf">Teiresias 20 (1990)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias-vol-19-1989.pdf">Teiresias 19 (1989)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias-vol18-1988.pdf">Teiresias 18 (1988)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias-vol-17-1987.pdf">Teiresias 17 (1987)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias-vol16-1986.pdf">Teiresias 16 (1986)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias-vol15-1985compressed.pdf">Teiresias 15 (1985)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias-vol14-1984.pdf">Teiresias 14 (1984)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1983v13.pdf" target="_blank">Teiresias 13 (1983)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1982v12.pdf" target="_blank">Teiresias 12 (1982)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1981v11.pdf" target="_blank">Teiresias 11 (1981)</a></span><br /><span style="font-size: x-small;">Teiresias Archaeologika 3 (1980, file 1 --- file 2)</span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1980v10.pdf" target="_blank">Teiresias 10 (1980)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1979-Archeologica-1.pdf" target="_blank">Teiresias Archaeologika 2 (1979, file 1</a> ---&nbsp;<a href="http://www.teiresias-journal.org/s/Teiresias1979-Archeologica-2.pdf" target="_blank">file 2)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1979-1.pdf" target="_blank">Teiresias 9 (1979, file 1</a> ---&nbsp;<a href="http://www.teiresias-journal.org/s/Teiresias1979-2.pdf" target="_blank">file 2</a> --- <a href="http://www.teiresias-journal.org/s/Teiresias1979-3.pdf" target="_blank">file 3)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1978archeologica-nak7.pdf" target="_blank">Teiresias Archaeologika 1 (1978)</a>&nbsp;<a href="http://www.teiresias-journal.org/locations/#">&nbsp;</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1978v8A.pdf" target="_blank">Teiresias 8 (1978, file 1</a>&nbsp;---&nbsp;<a href="http://www.teiresias-journal.org/s/Teiresias1978v8B.pdf" target="_blank">file 2)</a>&nbsp;</span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1977v72.pdf">Teiresias 7.2 (1977)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1977v71.pdf" target="_blank">Teiresias 7.1 (1977)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1976v62.pdf" target="_blank">Teiresias 6.2 (1976)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1976v61.pdf" target="_blank">Teiresias 6.1 (1976)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1975v53.pdf" target="_blank">Teiresias 5.3 (1975)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1975v52.pdf" target="_blank">Teiresias 5.2 (1975)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1975v51.pdf" target="_blank">Teiresias 5.1 (1975)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1974v42.pdf" target="_blank">Teiresias 4.2 (1974)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1974v41compressed-5iuy.pdf" target="_blank">Teiresias 4.1 (1974)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1973v32.pdf" target="_blank">Teiresias 3.2 (1973)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1973v31.pdf" target="_blank">Teiresias 3.1 (1973)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1972v22.pdf" target="_blank">Teiresias 2.2 (1972)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1972v21.pdf" target="_blank">Teiresias 2.1 (1972)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1971v12.pdf" target="_blank">Teiresias 1.2 (1971)</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1971v11.pdf" target="_blank">Teiresias 1.1 (1971)</a></span></div></div></blockquote><blockquote class="tr_bq"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_11_1469799737278_14264"><div class="sqs-block-content"><h3><span style="font-size: x-small;"><strong>Epigraphic Appendices, new series</strong></span></h3><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias-Epigraphica-2014-15.pdf">Teiresias: Epigraphic Appendix 2014-2015</a></span></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_3_1469800766212_5173"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_3_1469800766212_5256"><div class="sqs-block-content"><h3><span style="font-size: x-small;"><strong>Epigraphic Appendices,&nbsp;1976 to 1986</strong></span></h3><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1976.pdf" target="_blank">Teiresias:&nbsp;Epigraphic Appendix 1976</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1977.pdf" target="_blank">Teiresias:&nbsp;Epigraphic Appendix 1977</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1978.pdf" target="_blank">Teiresias:&nbsp;Epigraphic Appendix 1978</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1979.pdf" target="_blank">Teiresias:&nbsp;Epigraphic Appendix 1979</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1980.pdf" target="_blank">Teiresias:&nbsp;Epigraphic Appendix 1980</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1982.pdf" target="_blank">Teiresias:&nbsp;Epigraphic Appendix 1982</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1985.pdf" target="_blank">Teiresias:&nbsp;Epigraphic Appendix 1985</a></span><br /><span style="font-size: x-small;"><a href="http://www.teiresias-journal.org/s/Teiresias1986.pdf" target="_blank">Teiresias:&nbsp;Epigraphic Appendix 1986</a></span></div></div></blockquote><div style="text-align: center;"><br /><div style="text-align: center;"><span style="font-size: small;"><span><span><span><span>S</span><span><span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></span></span></span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8691509273621503155/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8691509273621503155/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/10/open-access-journal-teiresias.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8691509273621503155"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8691509273621503155"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/10/open-access-journal-teiresias.html"
          title="Open Access Journal: Teiresias: A Review and Bibliography of Boiotian Studies"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

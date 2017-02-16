@@ -1,92 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7510681005658781049</id>
-    <published>2011-10-26T11:54:00.002-04:00</published>
-    <updated>2011-10-31T12:13:47.639-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7510681005658781049</id>
+   <published>2011-10-26T11:54:00.002-04:00</published>
+   <updated>2011-10-31T12:13:47.639-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Dikili Tash -- Ντικιλί Τας Online</title>
-    <content type="html"><![CDATA[<a href="http://www.dikili-tash.fr/">Dikili Tash</a> -- <a
-      href="http://www.dikili-tash.gr/">Ντικιλί Τας</a><br /><div
-      style="text-align: left;"><a class="vlightbox1"
-      href="http://www.dikili-tash.fr/images/vibius.jpg"> <map id="illusdikiliMap"
-      name="illusdikiliMap"> <area coords="411,127,489,229"
-      href="http://www.dikili-tash.fr/content/presentation/presentation.htm#"
-      shape="rect"></area> <area coords="380,214,350,123,18,105,28,228"
-      href="http://www.dikili-tash.fr/content/presentation/presentation.htm#"
-      shape="poly"></area> <area coords="38,85,374,58,492,116"
-      href="http://www.dikili-tash.fr/content/presentation/presentation.htm#"
-      shape="poly"></area> </map></a></div><blockquote
-      class="tr_bq">Le site archéologique de Dikili Tash est principalement un<span
-      class="grasrouge"> site d’habitat préhistorique</span>, occupé à l<a
-      href="http://www.dikili-tash.fr/content/chronologie/neolithique/neolithique.htm">’époque
-      néolithique</a> (6400-4000 av. J.-C.) et à l’<a
-      href="http://www.dikili-tash.fr/content/chronologie/bronze/bronze.htm">âge du
-      Bronze</a> (3000-1100 av. J.-C.). Il a également livré des vestiges de l’<a
-      href="http://www.dikili-tash.fr/content/chronologie/epoque_historique/hellenistique.htm">époque
-      hellénistique</a> et <a
-      href="http://www.dikili-tash.fr/content/chronologie/epoque_historique/romaine.htm">romaine</a>.
-      Son sommet est couronné par une <a
-      href="http://www.dikili-tash.fr/content/chronologie/epoque_historique/byzantine.htm">tour
-      byzantine</a>.<br /><br />Le nom de "Dikili Tash", qui date de la période
-      ottomane et signifie "Pierre dressée" en turc, a été donné à un <a
-      href="http://www.dikili-tash.fr/content/presentation/caius_vibius.htm">monument funéraire
-      romain</a> installé en bordure de la <a
-      href="http://www.dikili-tash.fr/content/chronologie/epoque_historique/romaine.htm"><i>Via
-      Egnatia</i></a> (la voie romaine qui reliait la côte adriatique à Byzance), tout
-      près de l'entrée orientale de la ville antique de Philippes, à proximité immédiate du site
-      préhistorique.&nbsp;</blockquote><blockquote><div style="text-align:
-      left;"><br /></div><table border="0" cellpadding="0" cellspacing="0"
-      style="width: 625px;"><tbody><tr><td bgcolor="#a9200f" width="125"><a
-      href="http://www.dikili-tash.fr/content/presentation/presentation.htm">Présentation</a></td>
-      <td bgcolor="#f7b71d" width="125"><a
-      href="http://www.dikili-tash.fr/content/recherche/recherche.htm">Recherches</a></td>
-      <td bgcolor="#f7681d" width="125"><a
-      href="http://www.dikili-tash.fr/content/chronologie/chronologie.htm">Chronologie</a></td>
-      <td bgcolor="#b9a06f" width="125"><a
-      href="http://www.dikili-tash.fr/content/annexes/annexes.htm">Annexes</a></td>
-      <td bgcolor="#fde7c0" width="125"><a
-      href="http://www.dikili-tash.fr/actualites.htm">Actualités</a></td></tr></tbody></table><div
-      style="text-align: left;"><br /></div><div style="text-align:
-      left;"><br /></div><table border="0" cellpadding="0" cellspacing="0"
-      style="width: 625px;"><tbody><tr><td bgcolor="#a9200f" width="125"><a
-      href="http://www.dikili-tash.fr/content_gr/presentation/presentation.htm">Παρουσιαση</a></td>
-      <td bgcolor="#f7b71d" width="125"><a
-      href="http://www.dikili-tash.fr/content_gr/recherche/recherche.htm">Οι
-      ερευνες</a></td> <td bgcolor="#f7681d" width="125"><a
-      href="http://www.dikili-tash.fr/content_gr/chronologie/chronologie.htm">Χρονολογιο</a></td>
-      <td bgcolor="#b9a06f" width="125"><a
-      href="http://www.dikili-tash.fr/content_gr/annexes/annexes.htm">Παραρτηματα</a></td>
-      <td bgcolor="#fde7c0" width="125"><a
-      href="http://www.dikili-tash.fr/actualites_gr.htm">επικαιροτητα</a></td></tr></tbody></table></blockquote>Including
-      links to many digitized archaeological reports relating to the site.]]></content>
-    <link rel="replies"
+   <title type="text">Dikili Tash -- Ντικιλί Τας Online</title>
+   <content type="html"><![CDATA[<a href="http://www.dikili-tash.fr/">Dikili Tash</a> -- <a href="http://www.dikili-tash.gr/">Ντικιλί Τας</a><br /><div style="text-align: left;"><a class="vlightbox1" href="http://www.dikili-tash.fr/images/vibius.jpg">    <map id="illusdikiliMap" name="illusdikiliMap">      <area coords="411,127,489,229" href="http://www.dikili-tash.fr/content/presentation/presentation.htm#" shape="rect"></area>      <area coords="380,214,350,123,18,105,28,228" href="http://www.dikili-tash.fr/content/presentation/presentation.htm#" shape="poly"></area>      <area coords="38,85,374,58,492,116" href="http://www.dikili-tash.fr/content/presentation/presentation.htm#" shape="poly"></area>    </map></a></div><blockquote class="tr_bq">Le site archéologique de Dikili Tash est principalement un<span class="grasrouge"> site d’habitat préhistorique</span>, occupé à l<a href="http://www.dikili-tash.fr/content/chronologie/neolithique/neolithique.htm">’époque néolithique</a> (6400-4000 av. J.-C.) et à l’<a href="http://www.dikili-tash.fr/content/chronologie/bronze/bronze.htm">âge du Bronze</a> (3000-1100 av. J.-C.). Il a également livré des vestiges de l’<a href="http://www.dikili-tash.fr/content/chronologie/epoque_historique/hellenistique.htm">époque hellénistique</a> et <a href="http://www.dikili-tash.fr/content/chronologie/epoque_historique/romaine.htm">romaine</a>. Son sommet est couronné par une <a href="http://www.dikili-tash.fr/content/chronologie/epoque_historique/byzantine.htm">tour byzantine</a>.<br /><br />Le nom de "Dikili Tash", qui date de la période ottomane et signifie "Pierre dressée" en turc, a été donné à un <a href="http://www.dikili-tash.fr/content/presentation/caius_vibius.htm">monument funéraire romain</a> installé en bordure de la <a href="http://www.dikili-tash.fr/content/chronologie/epoque_historique/romaine.htm"><i>Via Egnatia</i></a> (la voie romaine qui reliait la côte adriatique à Byzance), tout près  de l'entrée orientale de la ville antique de Philippes, à proximité  immédiate du site préhistorique.&nbsp;</blockquote><blockquote><div style="text-align: left;"><br /></div><table border="0" cellpadding="0" cellspacing="0" style="width: 625px;"><tbody><tr><td bgcolor="#a9200f" width="125"><a href="http://www.dikili-tash.fr/content/presentation/presentation.htm">Présentation</a></td>                <td bgcolor="#f7b71d" width="125"><a href="http://www.dikili-tash.fr/content/recherche/recherche.htm">Recherches</a></td>                <td bgcolor="#f7681d" width="125"><a href="http://www.dikili-tash.fr/content/chronologie/chronologie.htm">Chronologie</a></td>                <td bgcolor="#b9a06f" width="125"><a href="http://www.dikili-tash.fr/content/annexes/annexes.htm">Annexes</a></td>                <td bgcolor="#fde7c0" width="125"><a href="http://www.dikili-tash.fr/actualites.htm">Actualités</a></td></tr></tbody></table><div style="text-align: left;"><br /></div><div style="text-align: left;"><br /></div><table border="0" cellpadding="0" cellspacing="0" style="width: 625px;"><tbody><tr><td bgcolor="#a9200f" width="125"><a href="http://www.dikili-tash.fr/content_gr/presentation/presentation.htm">Παρουσιαση</a></td>                <td bgcolor="#f7b71d" width="125"><a href="http://www.dikili-tash.fr/content_gr/recherche/recherche.htm">Οι ερευνες</a></td>                <td bgcolor="#f7681d" width="125"><a href="http://www.dikili-tash.fr/content_gr/chronologie/chronologie.htm">Χρονολογιο</a></td>                <td bgcolor="#b9a06f" width="125"><a href="http://www.dikili-tash.fr/content_gr/annexes/annexes.htm">Παραρτηματα</a></td>                <td bgcolor="#fde7c0" width="125"><a href="http://www.dikili-tash.fr/actualites_gr.htm">επικαιροτητα</a></td></tr></tbody></table></blockquote>Including links to many digitized archaeological reports relating to the site.]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7510681005658781049/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7510681005658781049/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/10/dikili-tash-online.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7510681005658781049"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7510681005658781049"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/10/dikili-tash-online.html"
          title="Dikili Tash -- Ντικιλί Τας Online"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

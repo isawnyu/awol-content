@@ -1,81 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7633749245546929306</id>
-    <published>2009-12-06T09:54:00.000-05:00</published>
-    <updated>2012-08-01T11:48:45.417-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7633749245546929306</id>
+   <published>2009-12-06T09:54:00.000-05:00</published>
+   <updated>2012-08-01T11:48:45.417-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Another Pair of Open Access Journals</title>
-    <content type="html"><![CDATA[<a href="http://www.classics.jp/RCS/shuppan.html"
-      target="_blank">Rebuilding of the Classics newsletter</a><br />[In Japanese but
-      with some content in English]<br /><span style="font-size:
-      85%;"></span><br /><blockquote><span style="font-size:
-      85%;">...Classical studies assure the role of collecting, preserving and investigating the
-      distinguished spiritual activities of human beings, as preserved by the various traditions. The
-      project “Towards a Reconstitution of Classical Studies” proposes that the scholars of the
-      various fields of Classical studies engaged in such important activities should cooperate for
-      the first time in history in order to reconstitute the realm of Classical
-      studies...</span></blockquote><span style="font-size:
-      85%;"></span><br /><blockquote><span style="font-size: 85%;">a. Head
-      investigator:<br />H. Nakatani (Kobegakuin Univ.)<br />b. Consulting
-      Committee:<br />S. Ueyama (Prof. emeritus of Kyoto Univ.),<br />C. Nakane (Member
-      of the Academy),<br />N. Fujisawa (Prof. emeritus of Kyoto Univ.),<br />J. Takasaki
-      (President of Tsurumi Univ.)<br />c. Executing committee:<br />H. Nakatani
-      (chairman; Indian Buddhism),<br />T. Ikeda (Chinese philosophy),<br />S. Sekine
-      (Biblical Studies),<br />M. Tokunaga (Indian philosophy),<br />K. Uchiyama (Greek
-      philosophy),<br />Y. Ejima (Indian Buddhism),<br />A. Kida (Japanese
-      literature),<br />H. Nakagawa (French literature),<br />H. Marui (Indian
-      philosophy),<br />M. Saito (Chinese literature).<br />d. Research groups:<br
-      />About ninety scholars from Japanese, Chinese,<br />Tibetan, Korean, Biblical,
-      Islamic, Indian, Iranian,<br />Greek and Latin
-      studies.</span></blockquote><br /><a
-      href="http://www.people.fas.harvard.edu/%7Ewitzel/aslip.html">Long Ranger. The Newsletter of
-      the Association for the Study of Language in Prehistory</a>. Formerly: <a
-      href="http://www.people.fas.harvard.edu/%7Ewitzel/mttoc.html">Mother Tongue. The Newsletter
-      of the Association for the Study of Language In Prehistory</a><br />ISSN 1087-0326
-      <br /><blockquote><span style="font-size: 85%;">ASLIP was founded in 1986 to
-      encourage international, interdisciplinary information sharing, discussion, and debate among
-      biogeneticists, paleoanthropologists, archaeologists, and historical linguists on questions
-      relating to the emerging synthesis on language origins and ancestral human spoken languages.
-      According to the founder of ASLIP, Harold C. Fleming, "All known human spoken languages
-      [probably] are genetically related to each other as descendants of the first
-      invention[s]--Ur-Human or Proto-Language. One test of that is to show a taxonomy of human
-      languages --convincing to linguists-- which makes possible a universal family tree and
-      ultimately the reconstructions of major cultural events associated with the evolution of modern
-      people. Another corollary is that the complex evolution of physical humans --population
-      movements and shared mutations-- can be figured out and related to a universal family tree
-      which can be dated and located to its roots. Finally, tests of these theories can be made
-      through archaeological discoveries...</span></blockquote><br />See the full
-      <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a>]]></content>
-    <link rel="replies"
+   <title type="text">Another Pair of Open Access Journals</title>
+   <content type="html"><![CDATA[<a href="http://www.classics.jp/RCS/shuppan.html" target="_blank">Rebuilding of the Classics newsletter</a><br />[In Japanese but with some content in English]<br /><span style="font-size: 85%;"></span><br /><blockquote><span style="font-size: 85%;">...Classical studies assure the role of collecting, preserving and investigating the distinguished spiritual activities of human beings, as preserved by the various traditions. The project “Towards a Reconstitution of Classical Studies” proposes that the scholars of the various fields of Classical studies engaged in such important activities should cooperate for the first time in history in order to reconstitute the realm of Classical studies...</span></blockquote><span style="font-size: 85%;"></span><br /><blockquote><span style="font-size: 85%;">a. Head investigator:<br />H. Nakatani (Kobegakuin Univ.)<br />b. Consulting Committee:<br />S. Ueyama (Prof. emeritus of Kyoto Univ.),<br />C. Nakane (Member of the Academy),<br />N. Fujisawa (Prof. emeritus of Kyoto Univ.),<br />J. Takasaki (President of Tsurumi Univ.)<br />c. Executing committee:<br />H. Nakatani (chairman; Indian Buddhism),<br />T. Ikeda (Chinese philosophy),<br />S. Sekine (Biblical Studies),<br />M. Tokunaga (Indian philosophy),<br />K. Uchiyama (Greek philosophy),<br />Y. Ejima (Indian Buddhism),<br />A. Kida (Japanese literature),<br />H. Nakagawa (French literature),<br />H. Marui (Indian philosophy),<br />M. Saito (Chinese literature).<br />d. Research groups:<br />About ninety scholars from Japanese, Chinese,<br />Tibetan, Korean, Biblical, Islamic, Indian, Iranian,<br />Greek and Latin studies.</span></blockquote><br /><a href="http://www.people.fas.harvard.edu/%7Ewitzel/aslip.html">Long Ranger. The Newsletter of the Association for the Study of Language in Prehistory</a>.  Formerly: <a href="http://www.people.fas.harvard.edu/%7Ewitzel/mttoc.html">Mother Tongue.  The Newsletter of the Association for the Study of Language In Prehistory</a><br />ISSN 1087-0326 <br /><blockquote><span style="font-size: 85%;">ASLIP was founded in 1986 to encourage international, interdisciplinary information sharing, discussion, and debate among biogeneticists, paleoanthropologists, archaeologists, and historical linguists on questions relating to the emerging synthesis on language origins and ancestral human spoken languages. According to the founder of ASLIP, Harold C. Fleming, "All known human spoken languages [probably] are genetically related to each other as descendants of the first invention[s]--Ur-Human or Proto-Language. One test of that is to show a taxonomy of human languages --convincing to linguists-- which makes possible a universal family tree and ultimately the reconstructions of major cultural events associated with the evolution of modern people. Another corollary is that the complex evolution of physical humans --population movements and shared mutations-- can be figured out and related to a universal family tree which can be dated and located to its roots. Finally, tests of these theories can be made through archaeological discoveries...</span></blockquote><br />See the full <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7633749245546929306/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7633749245546929306/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/12/another-pair-of-open-access-journals.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7633749245546929306"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7633749245546929306"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/12/another-pair-of-open-access-journals.html"
          title="Another Pair of Open Access Journals"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,101 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2504345845128779509</id>
-    <published>2009-12-02T11:00:00.001-05:00</published>
-    <updated>2013-06-28T09:31:50.826-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2504345845128779509</id>
+   <published>2015-10-23T15:50:00.000-04:00</published>
+   <updated>2015-10-23T15:51:45.438-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
-    <title type="text">Open Access Numismatics: Nomisma</title>
-    <content type="html"><![CDATA[<a href="http://nomisma.org/">Nomisma</a><br
-      /><blockquote><h3><a href="http://draft.blogger.com/null" id="Introduction"
-      name="Introduction"></a></h3><div class="level3"> <span
-      style="font-size: x-small;">Nomisma.org is a collaborative effort to provide stable digital
-      representations of numismatic concepts and entities, for example the generic idea of a <a
-      class="wikilink1" href="http://nomisma.org/id/hoard" title="id:hoard">coin hoard</a>
-      or an actual hoard as documented in the print publication <em><a class="wikilink1"
-      href="http://nomisma.org/id/igch" title="id:igch">An Inventory of Greek Coin
-      Hoards</a></em> (IGCH). Nomisma.org provides a short, often recognizable,
-      <acronym title="Uniform Resource Identifier">URI</acronym> for each resource it
-      defines and presents the related information in both human and machine readable form. Creators
-      of digital content can use these stable URIs to build a web of linked knowledge that enables
-      faster acquisition and analysis of well-structured numismatic data. </span><br
-      /><span style="font-size: x-small;"> </span><span style="font-size:
-      x-small;">Example URIs are: </span><br /><span style="font-size:
-      x-small;"></span><ul><li class="level1"><div class="li"> <span
-      style="font-size: x-small;"><a class="urlextern" href="http://nomisma.org/id/axis"
-      rel="nofollow"
-      title="http://nomisma.org/id/axis">http://nomisma.org/id/axis</a></span></div></li><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="urlextern" href="http://nomisma.org/id/hoard" rel="nofollow"
-      title="http://nomisma.org/id/hoard">http://nomisma.org/id/hoard</a></span></div></li><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="urlextern" href="http://nomisma.org/id/igch0262" rel="nofollow"
-      title="http://nomisma.org/id/igch0262">http://nomisma.org/id/igch0262</a> (with links
-      to CNG and preliminary map of findspot and mints)</span></div></li><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="urlextern" href="http://nomisma.org/id/igch1240" rel="nofollow"
-      title="http://nomisma.org/id/igch1240">http://nomisma.org/id/igch1240</a> (with links
-      to SNG and map of findspot and mints)</span></div></li><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="urlextern" href="http://nomisma.org/id/igch2122" rel="nofollow"
-      title="http://nomisma.org/id/igch2122">http://nomisma.org/id/igch2122</a> (with links
-      to ANS collection)</span></div></li><li class="level1"><div
-      class="li"> <span style="font-size: x-small;"><a class="urlextern"
-      href="http://nomisma.org/id/igch1546" rel="nofollow"
-      title="http://nomisma.org/id/igch1546">http://nomisma.org/id/igch1546</a> (with links
-      to ANS and Yale collections)</span></div></li><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="urlextern" href="http://nomisma.org/id/igch2130" rel="nofollow"
-      title="http://nomisma.org/id/igch2130">http://nomisma.org/id/igch2130</a></span></div></li></ul><span
-      style="font-size: x-small;"> </span><span style="font-size: x-small;"> See list
-      of <a class="urlextern" href="http://nomisma.org/?idx=id" rel="nofollow"
-      title="http://nomisma.org/?idx=id">all</a> id's assigned to date. </span><br
-      /><span style="font-size: x-small;"> </span><span style="font-size:
-      x-small;">The current data has been contributed by researchers at the American Numismatic
-      Society, British Museum, The University of Paris-Sorbonne <a class="urlextern"
-      href="http://www.nomisma.paris-sorbonne.fr/" rel="nofollow"
-      title="http://www.nomisma.paris-sorbonne.fr/">Nomisma project</a>, Yale University Art
-      Gallery. Hosting for Nomisma is provided by the <a class="urlextern"
-      href="http://numismatics.org/" rel="nofollow" title="http://numismatics.org">The American
-      Numismatic Society</a>. </span></div></blockquote><br /><div
-      style="text-align: center;">AWOL's list of <a
-      href="http://ancientworldonline.blogspot.com/2010/10/open-access-ancient-numismatics.html">Open
-      Access Ancient Numismatics Journals</a></div><div style="text-align:
-      center;">&nbsp; </div><div style="text-align: center;"></div><div
-      style="text-align: center;"><span style="font-size: small;"><span><span
-      class="brödtext"><span><span class="titol"><span class="text">See the full
-      <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span></span></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
+   <title type="text">Nomisma: Stable digital representations of numismatic concepts according to the principles of Linked Open Data</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 2 December 2009, updates 23 October 2015]</span><br /><br /><span style="font-size: small;"><a href="http://nomisma.org/">Nomisma</a></span><br /><blockquote class="tr_bq"><img alt="http://nomisma.org/ui/images/nomisma-nav.png" class="transparent" src="http://nomisma.org/ui/images/nomisma-nav.png" /> </blockquote><blockquote><h3><a href="http://draft.blogger.com/null" id="Introduction" name="Introduction"></a></h3><div class="level3"><div><span style="font-size: x-small;">Nomisma.org is a collaborative project to provide stable digital  representations of numismatic concepts according to the principles of <a href="http://www.w3.org/DesignIssues/LinkedData.html">Linked Open Data</a>.  These take the form of http URIs that also provide access to reusable  information about those concepts,     along with links to other resources. The canonical format of  nomisma.org is RDF/XML, with serializations available in JSON-LD  (including geoJSON-LD for complex geographic features),     Turtle, KML (when applicable), and HTML5+RDFa 1.1.</span><br /><span style="font-size: x-small;">    </span><span style="font-size: x-small;">While the URIs provided by nomisma.org are stable, the project is  in progress and subject to constant expansion and ongoing correction.  This is particularly the case for the information     provided about each nomisma.org identifier.</span><br /><span style="font-size: x-small;">    </span><span style="font-size: x-small;">The information provided by nomisma.org has been provided by a wide community of scholars and insitutions.</span><br /><span style="font-size: x-small;">    </span><span style="font-size: x-small;">The project is steered by a committee currently consisting of:</span><br /><span style="font-size: x-small;">    </span><br /><ul><li><span style="font-size: x-small;">Florence Codine, <a href="http://www.bnf.fr/">BnF</a></span></li><li><span style="font-size: x-small;">Karsten Dahmen, <a href="http://ww2.smb.museum/ikmk/">MK Berlin</a></span></li><li><span style="font-size: x-small;">Ethan Gruber, <a href="http://numismatics.org/">ANS</a></span></li><li><span style="font-size: x-small;">Sebastian Heath, <a href="http://isaw.nyu.edu/">NYU ISAW</a></span></li><li><span style="font-size: x-small;">Chris Howgego, <a href="http://www.ashmolean.org/">Ashmolean Museum, University of Oxford</a></span></li><li><span style="font-size: x-small;">Andrew Meadows, <a href="http://numismatics.org/">ANS</a></span></li><li><span style="font-size: x-small;">Ulrike Peter, <a href="http://www.bbaw.de/en/">Berlin-Brandenburg Academy of Sciences and Humanities</a></span></li><li><span style="font-size: x-small;">Daniel Pett, <a href="http://finds.org.uk/">BM PAS</a></span></li><li><span style="font-size: x-small;">Karsten Tolle, <a href="http://www.dbis.informatik.uni-frankfurt.de/">DBIS, University of Frankfurt</a></span></li><li><span style="font-size: x-small;">David Wigg-Wolf, <a href="http://www.dainst.org/en/department/rgk">DAI RGK</a></span></li></ul><span style="font-size: x-small;">    </span><span style="font-size: x-small;">Nomisma.org also hosts the <a href="https://github.com/ewg118/NUDS">Numismatic Description XML Schema</a></span><br /><span style="font-size: x-small;">    </span><span style="font-size: x-small;">There are two Github repositories associated with the project. The application code is available in <a href="https://github.com/nomisma/framework">https://github.com/nomisma/framework</a>. The RDF/XML data and ontology versions are in <a href="https://github.com/nomisma/data">https://github.com/nomisma/data</a>.</span><br /><span style="font-size: x-small;">  </span></div><div><span style="font-size: x-small;">   </span><br /><h3><span style="font-size: x-small;">Example Nomisma.org URIs</span></h3><span style="font-size: x-small;">   </span><span style="font-size: x-small;">Nomisma.org focuses on URIs for concepts that are unique to  numismatics or which have a distinct meaning within the discipline.  Examples are:</span><br /><span style="font-size: x-small;">    </span><br /><ol><li><span style="font-size: x-small;"><a href="http://nomisma.org/id/axis">http://nomisma.org/id/axis</a>. The 'axis' is the angular relationship between the obverse and reverse of a coin.</span></li><li><span style="font-size: x-small;"><a href="http://nomisma.org/id/ephesus">http://nomisma.org/id/ephesus</a>. The 'mint' at Ephesus. Nomisma relates this numismatic concept to other URIs such as <a href="http://dbpedia.org/resource/Ephesus">wikipedia</a>, <a href="http://pleiades.stoa.org/places/599612">Pleiades</a>, <a href="http://vocab.getty.edu/tgn/7002499">Getty       thesauri</a>, and the <a href="http://collection.britishmuseum.org/id/place/x107267">British Museum</a>.</span></li><li><span style="font-size: x-small;"><a href="http://nomisma.org/id/quinarius">http://nomisma.org/id/quinarius</a>. Nomisma.org maintains lists of Roman and other denominations. To indicate that “quinarius” is a      concept within Roman numismatics, the Dublin Core property "dcterms:source" relates this URI to <a href="http://nomisma.org/id/roman_numismatics">http://nomisma.org/id/roman_numismatics</a>.</span></li></ol></div></div></blockquote><blockquote class="tr_bq"><div class="navbar-collapse collapse"><ul class="nav navbar-nav"><li><span style="font-size: x-small;"><a href="http://nomisma.org/browse">Browse IDs</a></span></li><li><span style="font-size: x-small;"><a href="http://nomisma.org/apis">APIs</a></span></li><li class="dropdown"><span style="font-size: x-small;"><a class="dropdown-toggle" data-toggle="dropdown" href="http://nomisma.org/#">Documentation </a></span></li><li><span style="font-size: x-small;"><a href="http://nomisma.org/ontology">Ontology</a></span></li><li><span style="font-size: x-small;"><a href="http://nomisma.org/sparql">SPARQL</a></span></li><li><span style="font-size: x-small;"><a href="http://nomisma.org/datasets">Datasets</a></span></li><li><span style="font-size: x-small;"><a href="http://nomisma.org/project/">Project Namespace</a></span></li></ul><div class="col-sm-3 col-md-3 pull-right"><form action="./browse" class="navbar-form" method="get" role="search"><div class="input-group"><br /></div></form></div></div></blockquote><div style="text-align: center;">AWOL's list of <a href="http://ancientworldonline.blogspot.com/2010/10/open-access-ancient-numismatics.html">Open Access Ancient Numismatics Journals</a></div><div style="text-align: center;">&nbsp; </div><div style="text-align: center;"></div><div style="text-align: center;"><span style="font-size: small;"><span class="brödtext"><span class="titol"><span class="text"><br /><a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html"></a></span></span></span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2504345845128779509/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2504345845128779509/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/12/open-access-numismatics-nomisma.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2504345845128779509"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2504345845128779509"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/12/open-access-numismatics-nomisma.html"
-         title="Open Access Numismatics: Nomisma"/>
-    <author>
+         title="Nomisma: Stable digital representations of numismatic concepts according to the principles of Linked Open Data"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

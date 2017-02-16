@@ -1,83 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8047049501427469502</id>
-    <published>2013-09-22T09:00:00.000-04:00</published>
-    <updated>2013-09-22T09:10:42.546-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8047049501427469502</id>
+   <published>2013-09-22T09:00:00.000-04:00</published>
+   <updated>2013-09-22T09:10:42.546-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: MOSAIKON e-Bulletin</title>
-    <content type="html"><![CDATA[<div style="text-align: center;"><div style="text-align:
-      left;"><a
-      href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/index.html">MOSAIKON
-      e-Bulletin</a></div><blockquote class="tr_bq"><div style="text-align:
-      left;"><img
-      alt="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/images/mosaikon_callout.jpg"
-      height="200"
-      src="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/images/mosaikon_callout.jpg"
-      width="165" /> </div></blockquote><blockquote class="tr_bq"><div
-      class="page" style="text-align: left;"><span style="font-size:
-      x-small;"><em>MOSAIKON e-Bulletin</em> is distributed twice yearly to those
-      individuals and institutions professionally involved or interested in mosaic history and
-      preservation, serving to keep the mosaics community informed of related resources, events, and
-      collaborative opportunities. <br /></span></div><span style="font-size:
-      x-small;"> </span><div class="page" style="text-align: left;"><span
-      style="font-size: x-small;">Subscribe to <a
-      href="http://www.getty.edu/subscribe/mosaikon/index.html"><em>MOSAIKON
-      e-Bulletin</em></a>.<br /></span></div><span style="font-size:
-      x-small;"> </span><div class="page" style="text-align: left;"><hr
-      style="margin-left: 0px; margin-right: auto;" /><span style="font-size:
-      x-small;"><br /><br /></span></div><div style="text-align:
-      left;"><span style="font-size: x-small;"> Browse current and past issues:<br
-      /><br /><strong>Spring 2013</strong><br /><a
-      href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/spring13/index.html">English</a>
-      | <a
-      href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/arabic/spring13/index.html">Arabic</a><br
-      /><br /><strong>Fall 2012</strong><br /><a
-      href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/fall12/index.html">English</a>
-      | <a
-      href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/arabic/fall12/index.html">Arabic</a><br
-      /><br /><strong>Winter 2012</strong><br /><a
-      href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/winter12/index.html">English</a>
-      | <a
-      href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/arabic/winter12/index.html">Arabic</a><br
-      /><br /><strong>Spring 2011</strong><br /><a
-      href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/spring11/index.html">English</a>
-      | <a
-      href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/arabic/spring11/index.html">Arabic</a></span></div></blockquote><div
-      style="text-align: left;"><br /></div><span style="font-size:
-      small;"><span><span><span><span><span><span
-      style="font-family: inherit;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span></span></span></span>
-      </div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: MOSAIKON e-Bulletin</title>
+   <content type="html"><![CDATA[<div style="text-align: center;"><div style="text-align: left;"><a href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/index.html">MOSAIKON e-Bulletin</a></div><blockquote class="tr_bq"><div style="text-align: left;"><img alt="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/images/mosaikon_callout.jpg" height="200" src="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/images/mosaikon_callout.jpg" width="165" /> </div></blockquote><blockquote class="tr_bq"><div class="page" style="text-align: left;"><span style="font-size: x-small;"><em>MOSAIKON e-Bulletin</em> is distributed twice  yearly to those individuals and institutions professionally involved or  interested in mosaic history and preservation, serving to keep the  mosaics community informed of related resources, events, and  collaborative opportunities. <br /></span></div><span style="font-size: x-small;">        </span><div class="page" style="text-align: left;"><span style="font-size: x-small;">Subscribe to <a href="http://www.getty.edu/subscribe/mosaikon/index.html"><em>MOSAIKON e-Bulletin</em></a>.<br /></span></div><span style="font-size: x-small;">        </span><div class="page" style="text-align: left;"><hr style="margin-left: 0px; margin-right: auto;" /><span style="font-size: x-small;"><br /><br /></span></div><div style="text-align: left;"><span style="font-size: x-small;">        Browse current and past issues:<br /><br /><strong>Spring 2013</strong><br /><a href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/spring13/index.html">English</a> | <a href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/arabic/spring13/index.html">Arabic</a><br /><br /><strong>Fall 2012</strong><br /><a href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/fall12/index.html">English</a> | <a href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/arabic/fall12/index.html">Arabic</a><br /><br /><strong>Winter 2012</strong><br /><a href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/winter12/index.html">English</a> | <a href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/arabic/winter12/index.html">Arabic</a><br /><br /><strong>Spring 2011</strong><br /><a href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/spring11/index.html">English</a> | <a href="http://www.getty.edu/conservation/our_projects/education/mosaikon/ebulletin/arabic/spring11/index.html">Arabic</a></span></div></blockquote><div style="text-align: left;"><br /></div><span style="font-size: small;"><span><span><span><span><span><span style="font-family: inherit;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></span></span></span> </div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8047049501427469502/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8047049501427469502/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/10/new-ope-access-journal-mosaikon-e.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8047049501427469502"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8047049501427469502"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/10/new-ope-access-journal-mosaikon-e.html"
          title="Open Access Journal: MOSAIKON e-Bulletin"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,187 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2594971671219581761</id>
-    <published>2011-08-11T15:17:00.001-04:00</published>
-    <updated>2014-04-01T15:16:44.722-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2594971671219581761</id>
+   <published>2011-08-11T15:17:00.001-04:00</published>
+   <updated>2014-04-01T15:16:44.722-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Recent Doctoral Theses Online from Institute of Archaeology, UCL</title>
-    <content type="html"><![CDATA[<a href="http://discovery.ucl.ac.uk/">UCL Discovery - Institute of
-      Archaeology</a> <br /><blockquote><span class="person_name"
-      style="font-size: x-small;">Graves-Brown, C.A.</span><span style="font-size:
-      x-small;"> (2011) <a href="http://discovery.ucl.ac.uk/1306709/">The ideological
-      significance of flint in Dynastic Egypt.</a> Doctoral thesis, UCL (University College
-      London).</span><br /><span style="font-size: x-small;"><a
-      href="http://discovery.ucl.ac.uk/1306709/1/1306709.pdf"><img alt="file" border="0"
-      class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span><br /><span style="font-size: x-small;"><br
-      /></span><span class="person_name" style="font-size: x-small;">Henton,
-      E.M.</span><span style="font-size: x-small;"> (2011) <a
-      href="http://discovery.ucl.ac.uk/1306716/">Herd management and the social role of herding at
-      Neolithic Çatalhőyűk: an investigation using oxygen isotope and dental microwear evidence in
-      sheep.</a> Doctoral thesis, UCL (University College London). </span><br
-      /><span style="font-size: x-small;"><a
-      href="http://discovery.ucl.ac.uk/1306716/1/1306716.pdf"><img alt="file" border="0"
-      class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span><br /><span style="font-size: x-small;"><br
-      /></span><span class="person_name" style="font-size: x-small;">Iles,
-      L.E.</span><span style="font-size: x-small;"> (2011) <a
-      href="http://discovery.ucl.ac.uk/1306719/">Reconstructing the iron production technologies
-      of Western Uganda: reconciling archaeometallurgical and ethnoarchaeological
-      approaches.</a> Doctoral thesis, UCL (University College London).</span><br
-      /><span style="font-size: x-small;"><a
-      href="http://discovery.ucl.ac.uk/1306719/1/1306719.pdf"><img alt="file" border="0"
-      class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span><br /><span style="font-size: x-small;"><br
-      /></span><span class="person_name" style="font-size: x-small;">Emery,
-      K.</span><span style="font-size: x-small;"> (2010) <a
-      href="http://discovery.ucl.ac.uk/19299/">A re-examination of variability in handaxe form in
-      the British Palaeolithic.</a> Doctoral thesis, UCL (University College
-      London).</span><br /><span style="font-size: x-small;"><a
-      href="http://discovery.ucl.ac.uk/19299/1/19299.pdf"><img alt="file" border="0"
-      class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span><br /><span style="font-size: x-small;"><br
-      /></span><span class="person_name" style="font-size: x-small;">Giblin,
-      J.D.</span><span style="font-size: x-small;"> (2010) <a
-      href="http://discovery.ucl.ac.uk/20218/">Re-constructing the past in post-genocide Rwanda:
-      an archaeological contribution.</a> Doctoral thesis, UCL (University College
-      London).</span><br /><span style="font-size: x-small;"><a
-      href="http://discovery.ucl.ac.uk/20218/1/20218.pdf"><img alt="file" border="0"
-      class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span><br /><span style="font-size: x-small;"><br
-      /></span><span class="person_name" style="font-size: x-small;">Henshaw,
-      C.M.</span><span style="font-size: x-small;"> (2010) <a
-      href="http://discovery.ucl.ac.uk/19688/">Early Islamic ceramics and glazes of Akhsiket,
-      Uzbekistan.</a> Doctoral thesis, UCL (University College London).</span><br
-      /><span style="font-size: x-small;"><a
-      href="http://discovery.ucl.ac.uk/19688/1/19688.pdf"><img alt="file" border="0"
-      class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a><a
-      href="http://discovery.ucl.ac.uk/19688/2/19688_Appendix-AtoC.pdf"><img alt="file"
-      border="0" class="ep_doc_icon"
-      src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a><a href="http://discovery.ucl.ac.uk/19688/3/19688_Appendix-D.pdf"><img
-      alt="file" border="0" class="ep_doc_icon"
-      src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span><br /><span style="font-size: x-small;"><br
-      /></span><span class="person_name" style="font-size: x-small;">Humphris,
-      J.E.</span><span style="font-size: x-small;"> (2010) <a
-      href="http://discovery.ucl.ac.uk/20461/">An archaeometallurgical investigation of iron
-      smelting traditions in Southern Rwanda.</a> Doctoral thesis, UCL (University College
-      London).</span><br /><span style="font-size: x-small;"><a
-      href="http://discovery.ucl.ac.uk/20461/1/20461.pdf"><img alt="file" border="0"
-      class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span><span class="person_name" style="font-size: x-small;">
-      </span><br /><span style="font-size: x-small;"><br
-      /></span><span class="person_name" style="font-size:
-      x-small;">&nbsp;</span><span class="person_name" style="font-size:
-      x-small;">Markofsky, S.</span><span style="font-size: x-small;"> (2010) <a
-      href="http://discovery.ucl.ac.uk/770433/">Illuminating the Black Sands: survey and
-      settlement in the Bronze Age Murghab Delta, Turkmenistan.</a> Doctoral thesis, UCL
-      (University College London).</span><br /><span style="font-size:
-      x-small;"><a href="http://discovery.ucl.ac.uk/770433/1/770433.pdf"><img alt="file"
-      border="0" class="ep_doc_icon"
-      src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span><br /><span class="person_name" style="font-size:
-      x-small;">&nbsp; </span><br /><span class="person_name" style="font-size:
-      x-small;">Smith, G.M.</span><span style="font-size: x-small;"> (2010) <a
-      href="http://discovery.ucl.ac.uk/646235/">A contextual approach to the study of faunal
-      assemblages from Lower and Middle Palaeolithic sites in the UK.</a> Doctoral thesis, UCL
-      (University College London).</span><br /><span style="font-size:
-      x-small;"><a href="http://discovery.ucl.ac.uk/646235/1/646235.pdf"><img alt="file"
-      border="0" class="ep_doc_icon"
-      src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /><span
-      class="person_name">&nbsp;</span></a></span><br /><span
-      style="font-size: x-small;"><br /></span><span class="person_name"
-      style="font-size: x-small;">Mongiatti, A.</span><span style="font-size:
-      x-small;"> (2009) <a href="http://discovery.ucl.ac.uk/18710/">Assaying and smelting
-      noble metals in sixteenth-century Austria: a comparative analytical study.</a> Doctoral
-      thesis, UCL (University College London).</span><br /><span style="font-size:
-      x-small;"><a href="http://discovery.ucl.ac.uk/18710/1/18710.pdf"><img alt="file"
-      border="0" class="ep_doc_icon"
-      src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span><br /><span style="font-size: x-small;"><br
-      /></span><span class="person_name" style="font-size: x-small;">Pryce,
-      T.O.</span><span style="font-size: x-small;"> (2009) <a
-      href="http://discovery.ucl.ac.uk/18573/">Prehistoric copper production and technological
-      reproduction in the Khao Wong Prachan Valley of central Thailand.</a> Doctoral thesis,
-      UCL (University College London).</span><br /><span style="font-size:
-      x-small;"><a href="http://discovery.ucl.ac.uk/18573/1/18573.pdf"><img alt="file"
-      border="0" class="ep_doc_icon"
-      src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span><br /><span style="font-size: x-small;"><br
-      /></span><span class="person_name" style="font-size: x-small;">Richter,
-      T.</span><span style="font-size: x-small;"> (2009) <a
-      href="http://discovery.ucl.ac.uk/18727/">Marginal Landscapes? The Azraq Oasis and the
-      cultural landscapes of the final Pleistocene southern Levant.</a> Doctoral thesis, UCL
-      (University College London).</span><br /><span style="font-size:
-      x-small;"><a href="http://discovery.ucl.ac.uk/18727/1/18727.pdf"><img alt="file"
-      border="0" class="ep_doc_icon"
-      src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span><br /><span style="font-size: x-small;"><br
-      /></span><span class="person_name" style="font-size: x-small;">Schauer,
-      P.M.</span><span style="font-size: x-small;"> (2009) <a
-      href="http://discovery.ucl.ac.uk/14731/">Cultural evolution in the Age of Athens: drift and
-      selection in Greek figure-painted pottery.</a> Doctoral thesis, UCL (University College
-      London).</span><br /><span style="font-size: x-small;"><a
-      href="http://discovery.ucl.ac.uk/14731/1/14731_Vol_1.pdf"><img alt="file" border="0"
-      class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a><a href="http://discovery.ucl.ac.uk/14731/2/14731_Vol_2.pdf"><img
-      alt="file" border="0" class="ep_doc_icon"
-      src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span><br /><span style="font-size: x-small;"><br
-      /></span><span class="person_name" style="font-size: x-small;">Tassie,
-      G.J.</span><span style="font-size: x-small;"> (2009) <a
-      href="http://discovery.ucl.ac.uk/18730/">The social and ritual contextualisation of Ancient
-      Egyptian hair and hairstyles from the Protodynastic to the end of the Old Kingdom.</a>
-      Doctoral thesis, UCL (University College London).</span><br /><span
-      style="font-size: x-small;"><a
-      href="http://discovery.ucl.ac.uk/18730/1/18730_Vol.1%2C_Chap_1-5.pdf"><img alt="file"
-      border="0" class="ep_doc_icon"
-      src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a><a
-      href="http://discovery.ucl.ac.uk/18730/2/18730_Vol.1%2C_Chap_6-9.pdf"><img alt="file"
-      border="0" class="ep_doc_icon"
-      src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a><a href="http://discovery.ucl.ac.uk/18730/3/18730_Vol.2.pdf"><img
-      alt="file" border="0" class="ep_doc_icon"
-      src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span><br /><span style="font-size: x-small;"><br
-      /></span><span class="person_name" style="font-size: x-small;">Villaseñor
-      Alonso, M.I.</span><span style="font-size: x-small;"> (2009) <a
-      href="http://discovery.ucl.ac.uk/14471/">Lowland Maya lime plaster technology: a diachronic
-      approach.</a> Doctoral thesis, UCL (University College London).</span><br
-      /><span style="font-size: x-small;"><a
-      href="http://discovery.ucl.ac.uk/14471/1/14471.pdf"><img alt="file" border="0"
-      class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png"
-      /></a></span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Recent Doctoral Theses Online from Institute of Archaeology, UCL</title>
+   <content type="html"><![CDATA[<a href="http://discovery.ucl.ac.uk/">UCL Discovery - Institute of Archaeology</a> <br /><blockquote><span class="person_name" style="font-size: x-small;">Graves-Brown, C.A.</span><span style="font-size: x-small;"> (2011) <a href="http://discovery.ucl.ac.uk/1306709/">The ideological significance of flint in Dynastic Egypt.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/1306709/1/1306709.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span><br /><span style="font-size: x-small;"><br /></span><span class="person_name" style="font-size: x-small;">Henton, E.M.</span><span style="font-size: x-small;"> (2011) <a href="http://discovery.ucl.ac.uk/1306716/">Herd  management and the social role of herding at Neolithic Çatalhőyűk: an  investigation using oxygen isotope and dental microwear evidence in  sheep.</a> Doctoral thesis, UCL (University College London). </span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/1306716/1/1306716.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span><br /><span style="font-size: x-small;"><br /></span><span class="person_name" style="font-size: x-small;">Iles, L.E.</span><span style="font-size: x-small;"> (2011) <a href="http://discovery.ucl.ac.uk/1306719/">Reconstructing  the iron production technologies of Western Uganda: reconciling  archaeometallurgical and ethnoarchaeological approaches.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/1306719/1/1306719.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span><br /><span style="font-size: x-small;"><br /></span><span class="person_name" style="font-size: x-small;">Emery, K.</span><span style="font-size: x-small;"> (2010) <a href="http://discovery.ucl.ac.uk/19299/">A re-examination of variability in handaxe form in the British Palaeolithic.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/19299/1/19299.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span><br /><span style="font-size: x-small;"><br /></span><span class="person_name" style="font-size: x-small;">Giblin, J.D.</span><span style="font-size: x-small;"> (2010) <a href="http://discovery.ucl.ac.uk/20218/">Re-constructing the past in post-genocide Rwanda: an archaeological contribution.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/20218/1/20218.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span><br /><span style="font-size: x-small;"><br /></span><span class="person_name" style="font-size: x-small;">Henshaw, C.M.</span><span style="font-size: x-small;"> (2010) <a href="http://discovery.ucl.ac.uk/19688/">Early Islamic ceramics and glazes of Akhsiket, Uzbekistan.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/19688/1/19688.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a><a href="http://discovery.ucl.ac.uk/19688/2/19688_Appendix-AtoC.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a><a href="http://discovery.ucl.ac.uk/19688/3/19688_Appendix-D.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span><br /><span style="font-size: x-small;"><br /></span><span class="person_name" style="font-size: x-small;">Humphris, J.E.</span><span style="font-size: x-small;"> (2010) <a href="http://discovery.ucl.ac.uk/20461/">An archaeometallurgical investigation of iron smelting traditions in Southern Rwanda.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/20461/1/20461.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span><span class="person_name" style="font-size: x-small;"> </span><br /><span style="font-size: x-small;"><br /></span><span class="person_name" style="font-size: x-small;">&nbsp;</span><span class="person_name" style="font-size: x-small;">Markofsky, S.</span><span style="font-size: x-small;"> (2010) <a href="http://discovery.ucl.ac.uk/770433/">Illuminating the Black Sands: survey and settlement in the Bronze Age Murghab Delta, Turkmenistan.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/770433/1/770433.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span><br /><span class="person_name" style="font-size: x-small;">&nbsp; </span><br /><span class="person_name" style="font-size: x-small;">Smith, G.M.</span><span style="font-size: x-small;"> (2010) <a href="http://discovery.ucl.ac.uk/646235/">A contextual approach to the study of faunal assemblages from Lower and Middle Palaeolithic sites in the UK.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/646235/1/646235.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /><span class="person_name">&nbsp;</span></a></span><br /><span style="font-size: x-small;"><br /></span><span class="person_name" style="font-size: x-small;">Mongiatti, A.</span><span style="font-size: x-small;"> (2009) <a href="http://discovery.ucl.ac.uk/18710/">Assaying and smelting noble metals in sixteenth-century Austria: a comparative analytical study.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/18710/1/18710.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span><br /><span style="font-size: x-small;"><br /></span><span class="person_name" style="font-size: x-small;">Pryce, T.O.</span><span style="font-size: x-small;"> (2009) <a href="http://discovery.ucl.ac.uk/18573/">Prehistoric copper production and technological reproduction in the Khao Wong Prachan Valley of central Thailand.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/18573/1/18573.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span><br /><span style="font-size: x-small;"><br /></span><span class="person_name" style="font-size: x-small;">Richter, T.</span><span style="font-size: x-small;"> (2009) <a href="http://discovery.ucl.ac.uk/18727/">Marginal Landscapes? The Azraq Oasis and the cultural landscapes of the final Pleistocene southern Levant.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/18727/1/18727.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span><br /><span style="font-size: x-small;"><br /></span><span class="person_name" style="font-size: x-small;">Schauer, P.M.</span><span style="font-size: x-small;"> (2009) <a href="http://discovery.ucl.ac.uk/14731/">Cultural evolution in the Age of Athens: drift and selection in Greek figure-painted pottery.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/14731/1/14731_Vol_1.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a><a href="http://discovery.ucl.ac.uk/14731/2/14731_Vol_2.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span><br /><span style="font-size: x-small;"><br /></span><span class="person_name" style="font-size: x-small;">Tassie, G.J.</span><span style="font-size: x-small;"> (2009) <a href="http://discovery.ucl.ac.uk/18730/">The  social and ritual contextualisation of Ancient Egyptian hair and  hairstyles from the Protodynastic to the end of the Old Kingdom.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/18730/1/18730_Vol.1%2C_Chap_1-5.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a><a href="http://discovery.ucl.ac.uk/18730/2/18730_Vol.1%2C_Chap_6-9.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a><a href="http://discovery.ucl.ac.uk/18730/3/18730_Vol.2.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span><br /><span style="font-size: x-small;"><br /></span><span class="person_name" style="font-size: x-small;">Villaseñor Alonso, M.I.</span><span style="font-size: x-small;"> (2009) <a href="http://discovery.ucl.ac.uk/14471/">Lowland Maya lime plaster technology: a diachronic approach.</a> Doctoral thesis, UCL (University College London).</span><br /><span style="font-size: x-small;"><a href="http://discovery.ucl.ac.uk/14471/1/14471.pdf"><img alt="file" border="0" class="ep_doc_icon" src="http://discovery.ucl.ac.uk/style/images/fileicons/application_pdf.png" /></a></span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2594971671219581761/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2594971671219581761/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/08/recent-doctoral-theses-online-from.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2594971671219581761"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2594971671219581761"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/08/recent-doctoral-theses-online-from.html"
          title="Recent Doctoral Theses Online from Institute of Archaeology, UCL"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

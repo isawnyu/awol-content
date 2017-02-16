@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1250157281826728340</id>
+   <published>2016-01-25T16:53:00.000-05:00</published>
+   <updated>2016-01-25T16:53:23.598-05:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Hebrew"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">SHEBANQ: System for HEBrew Text: ANnotations for Queries and Markup</title>
+   <content type="html"><![CDATA[<a href="https://shebanq.ancient-data.org/">SHEBANQ: System for HEBrew Text: ANnotations for Queries and Markup</a><br /><blockquote class="tr_bq"><img height="200" src="https://shebanq.ancient-data.org/shebanq/static/images/shebanq_logo.png" width="184" />&nbsp;</blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">This is a system for the study of the Hebrew Bible, produced by the <a href="http://godgeleerdheid.vu.nl/etcbc" target="_blank">ETCBC</a>in cooperation with the <a href="https://www.dbg.de/en" target="_blank">German Bible Society</a>and the <a href="https://www.bijbelgenootschap.nl/" target="_blank">Netherlands Bible Society</a>.</span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;">It is powered by the ETCBC <i>database</i>, formerly known as WIVU which facilitates powerful syntactical queries. SHEBANQ lets you develop and share those queries with fellow researchers. Scholarly editions of the Bible usually dedicate space to a critical apparatus and various kinds of annotations.  SHEBANQ introduces the idea of annotating the text with <i>queries</i>. They show up next to the text pages where the results are. By sharing your queries with others, you may find what you did not search for. Of course you can also add ordinary annotations!</span></blockquote><blockquote class="tr_bq"><hr /> <dl><dt class="exp"><span style="font-size: x-small;">&nbsp;<a class="sectionc" href="https://shebanq.ancient-data.org/#">Get started</a></span></dt><dd class="exp"><span style="font-size: x-small;">Read the text, view words, queries and notes, and move around</span></dd><hr /> <dt class="exp"><span style="font-size: x-small;">&nbsp;<a class="sectionc" href="https://shebanq.ancient-data.org/#">Next step</a></span></dt><dd class="exp"><span style="font-size: x-small;">Make your own queries and notes</span></dd><hr /> <dt class="exp"><span style="font-size: x-small;">&nbsp;<a class="sectionc" href="https://shebanq.ancient-data.org/#">Advanced</a></span></dt><dd class="exp"><span style="font-size: x-small;">Share and publish your queries and notes</span></dd><hr /> <dt class="exp"><span style="font-size: x-small;">&nbsp;<a class="sectionc" href="https://shebanq.ancient-data.org/#">Expert</a></span></dt><dd class="exp"><span style="font-size: x-small;">Engage in data analysis and disseminate your results</span></dd><hr /> <dt class="exp"><span style="font-size: x-small;">&nbsp;<a class="sectionc" href="https://shebanq.ancient-data.org/#">Free software</a></span></dt><dd class="exp"><span style="font-size: x-small;">Use SHEBANQ as you like!</span></dd><hr /></dl></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/1250157281826728340/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/01/shebanq-system-for-hebrew-text.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1250157281826728340"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1250157281826728340"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/01/shebanq-system-for-hebrew-text.html"
+         title="SHEBANQ: System for HEBrew Text: ANnotations for Queries and Markup"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

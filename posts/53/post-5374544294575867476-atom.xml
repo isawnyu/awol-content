@@ -1,107 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5374544294575867476</id>
-    <published>2012-09-16T13:30:00.000-04:00</published>
-    <updated>2012-09-16T13:04:30.730-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5374544294575867476</id>
+   <published>2012-09-16T13:30:00.000-04:00</published>
+   <updated>2012-09-16T13:04:30.730-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Monographs: The Swedish Institute in Rome</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 6 February
-      2010. Updated 16 September 2012] </span><br /><br /><a
-      href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=section&amp;id=6&amp;Itemid=64">The
-      Swedish Institute in Rome. Online Publications</a><br /><blockquote
-      class="tr_bq"><span style="font-size: x-small;">The Swedish Institute in Rome is a
-      research institute, subordinate to the Swedish Ministry of Education
-      (Utbildningsdepartementet). It is the base for excavations and other scientific research in
-      Italy and pursues academic instruction in archaeology and art sciences as well as arranging
-      conferences with themes of interest to the institute. The Institute has at its disposal a
-      building in central Rome with a relatively well-supplied library, archaeological laboratory and
-      c. twenty rooms and smaller apartments for the use of visiting researchers and holders of
-      scholarships. </span></blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">Projects &amp; Seminars
-      </span></blockquote><blockquote class="tr_bq"> <br /><table
-      class="tablelist"><tbody><tr class="sectiontableentry1"><td
-      headers="count"><span style="font-size: x-small;">1 </span></td> <td
-      headers="tableOrdering"><span style="font-size: x-small;"><a
-      href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=76:pompeian-plasters-insula-i-9-and-forum&amp;catid=36:projects-a-seminars&amp;Itemid=64">
-      Pompeian plasters. Insula I 9 and Forum</a></span> </td> <td
-      headers="hits"><span style="font-size: x-small;"><br /></span></td>
-      </tr><tr class="sectiontableentry2"> <td headers="count"><span
-      style="font-size: x-small;">2 </span></td> <td
-      headers="tableOrdering"><span style="font-size: x-small;"><a
-      href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=75:via-tiburtina-space-movement-and-artefacts-in-the-urban-landscape&amp;catid=36:projects-a-seminars&amp;Itemid=64">
-      Via Tiburtina. Space, movement and artefacts in the urban landscape</a></span>
-      </td> <td headers="hits"><span style="font-size: x-small;"><br
-      /></span></td> </tr><tr class="sectiontableentry1"> <td
-      headers="count"><span style="font-size: x-small;">3 </span></td> <td
-      headers="tableOrdering"><span style="font-size: x-small;"><a
-      href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=74:art-conservation-science-the-lancellotti-collection-project&amp;catid=36:projects-a-seminars&amp;Itemid=64">
-      Art, Conservation, Science. The Lancellotti Collection Project</a></span>
-      </td> <td headers="hits"><span style="font-size: x-small;"><br
-      /></span></td> </tr><tr class="sectiontableentry2"> <td
-      headers="count"><span style="font-size: x-small;">4 </span></td> <td
-      headers="tableOrdering"><span style="font-size: x-small;"><a
-      href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=73:roman-villas-around-the-urbs-interaction-with-landscape-and-environment&amp;catid=36:projects-a-seminars&amp;Itemid=64">
-      Roman villas around the urbs. Interaction with landscape and environment</a></span>
-      </td> <td headers="hits"><span style="font-size: x-small;"><br
-      /></span></td> </tr><tr class="sectiontableentry1"> <td
-      headers="count"><span style="font-size: x-small;">5 </span></td> <td
-      headers="tableOrdering"><span style="font-size: x-small;"><a
-      href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=72:pecus-man-and-animal-in-antiquity&amp;catid=36:projects-a-seminars&amp;Itemid=64">
-      Pecus. Man and animal in Antiquity</a></span> </td> <td
-      headers="hits"><span style="font-size: x-small;"><br /></span></td>
-      </tr><tr class="sectiontableentry2"> <td headers="count"><span
-      style="font-size: x-small;">6 </span></td> <td
-      headers="tableOrdering"><span style="font-size: x-small;"><a
-      href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=71:the-swedish-institute-in-rome-projects-a-seminars&amp;catid=36:projects-a-seminars&amp;Itemid=64">
-      The Swedish Institute in Rome. Projects &amp; Seminars</a></span>
-      </td><td headers="tableOrdering"><span style="font-size: x-small;"><br
-      /></span></td><td headers="tableOrdering"><span style="font-size:
-      x-small;"><br /></span></td><td headers="tableOrdering"><span
-      style="font-size: x-small;"><br /></span></td><td
-      headers="tableOrdering"><span style="font-size: x-small;"><br
-      /></span></td><td headers="tableOrdering"><span style="font-size:
-      x-small;"><br
-      /></span></td></tr></tbody></table></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;">Other online
-      publications</span></blockquote><blockquote><span style="font-size:
-      x-small;">&nbsp;1 <a
-      href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=77:bengt-e-thomasson-laterculi-praesidium&amp;catid=37:other-online-publications&amp;Itemid=64">
-      Bengt E. Thomasson - Laterculi
-      praesidium</a></span></blockquote><div><br /><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b4cc6be5f7e0135"
-      type="text/javascript"></script></div><!-- AddThis Button END
-      -->]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Monographs: The Swedish Institute in Rome</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 6 February 2010. Updated 16 September 2012] </span><br /><br /><a href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=section&amp;id=6&amp;Itemid=64">The Swedish Institute in Rome. Online Publications</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">The Swedish Institute in Rome is a research institute, subordinate to  the Swedish Ministry of Education (Utbildningsdepartementet). It is the  base for excavations and other scientific research in Italy and pursues  academic instruction in archaeology and art sciences as well as  arranging conferences with themes of interest to the institute. The  Institute has at its disposal a building in central Rome with a  relatively well-supplied library, archaeological laboratory and c.  twenty rooms and smaller apartments for the use of visiting researchers  and holders of scholarships. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Projects &amp; Seminars </span></blockquote><blockquote class="tr_bq">                                                     <br /><table class="tablelist"><tbody><tr class="sectiontableentry1"><td headers="count"><span style="font-size: x-small;">1  </span></td>     <td headers="tableOrdering"><span style="font-size: x-small;"><a href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=76:pompeian-plasters-insula-i-9-and-forum&amp;catid=36:projects-a-seminars&amp;Itemid=64">     Pompeian plasters. Insula I 9 and Forum</a></span>      </td>             <td headers="hits"><span style="font-size: x-small;"><br /></span></td>    </tr><tr class="sectiontableentry2">  <td headers="count"><span style="font-size: x-small;">2  </span></td>     <td headers="tableOrdering"><span style="font-size: x-small;"><a href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=75:via-tiburtina-space-movement-and-artefacts-in-the-urban-landscape&amp;catid=36:projects-a-seminars&amp;Itemid=64">     Via Tiburtina. Space, movement and artefacts in the urban landscape</a></span>      </td>             <td headers="hits"><span style="font-size: x-small;"><br /></span></td>    </tr><tr class="sectiontableentry1">  <td headers="count"><span style="font-size: x-small;">3  </span></td>     <td headers="tableOrdering"><span style="font-size: x-small;"><a href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=74:art-conservation-science-the-lancellotti-collection-project&amp;catid=36:projects-a-seminars&amp;Itemid=64">     Art, Conservation, Science. The Lancellotti Collection Project</a></span>      </td>             <td headers="hits"><span style="font-size: x-small;"><br /></span></td>    </tr><tr class="sectiontableentry2">  <td headers="count"><span style="font-size: x-small;">4  </span></td>     <td headers="tableOrdering"><span style="font-size: x-small;"><a href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=73:roman-villas-around-the-urbs-interaction-with-landscape-and-environment&amp;catid=36:projects-a-seminars&amp;Itemid=64">     Roman villas around the urbs. Interaction with landscape and environment</a></span>      </td>             <td headers="hits"><span style="font-size: x-small;"><br /></span></td>    </tr><tr class="sectiontableentry1">  <td headers="count"><span style="font-size: x-small;">5  </span></td>     <td headers="tableOrdering"><span style="font-size: x-small;"><a href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=72:pecus-man-and-animal-in-antiquity&amp;catid=36:projects-a-seminars&amp;Itemid=64">     Pecus. Man and animal in Antiquity</a></span>      </td>             <td headers="hits"><span style="font-size: x-small;"><br /></span></td>    </tr><tr class="sectiontableentry2">  <td headers="count"><span style="font-size: x-small;">6  </span></td>     <td headers="tableOrdering"><span style="font-size: x-small;"><a href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=71:the-swedish-institute-in-rome-projects-a-seminars&amp;catid=36:projects-a-seminars&amp;Itemid=64">     The Swedish Institute in Rome. Projects &amp; Seminars</a></span> </td><td headers="tableOrdering"><span style="font-size: x-small;"><br /></span></td><td headers="tableOrdering"><span style="font-size: x-small;"><br /></span></td><td headers="tableOrdering"><span style="font-size: x-small;"><br /></span></td><td headers="tableOrdering"><span style="font-size: x-small;"><br /></span></td><td headers="tableOrdering"><span style="font-size: x-small;"><br /></span></td></tr></tbody></table></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Other online publications</span></blockquote><blockquote><span style="font-size: x-small;">&nbsp;1                <a href="http://www.isvroma.it/public/New/English/index.php?option=com_content&amp;view=article&amp;id=77:bengt-e-thomasson-laterculi-praesidium&amp;catid=37:other-online-publications&amp;Itemid=64">     Bengt E. Thomasson - Laterculi praesidium</a></span></blockquote><div><br /><script src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b4cc6be5f7e0135" type="text/javascript"></script></div><!-- AddThis Button END -->]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5374544294575867476/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5374544294575867476/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/02/open-access-monographs-swedish.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5374544294575867476"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5374544294575867476"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/02/open-access-monographs-swedish.html"
          title="Open Access Monographs: The Swedish Institute in Rome"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

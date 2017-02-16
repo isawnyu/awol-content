@@ -1,93 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8679448431744363459</id>
-    <published>2009-11-04T10:23:00.000-05:00</published>
-    <updated>2012-07-30T09:44:11.375-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8679448431744363459</id>
+   <published>2009-11-04T10:23:00.000-05:00</published>
+   <updated>2012-07-30T09:44:11.375-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">More Open Access Journals: Group 6</title>
-    <content type="html"><![CDATA[In a continuing effort to make the <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a> canonical and comprehensive, I am adding
-      additional journals in groups of twenty. All of these have been accessible via <a
-      href="http://www.etana.org/abzu/">Abzu</a> for varying lengths of time. This offers me
-      the opportunity to verify all the links and repair the broken ones.<br /><br
-      />Group 6.<br /><ul><li><span class="title"><a
-      href="http://www.cfeetk.cnrs.fr/index.php?page=cahiers-de-karnak">Les Cahiers de
-      Karnak</a></span> </li><li><a
-      href="http://www.cbrl.org.uk/bulletin.html">Council for British Research in the Levant
-      (CBRL) Bulletin</a></li><li><span class="title"><a
-      href="http://www.biu.ac.il/JS/JSIJ/index.htm">Jewish Studies, an Internet Journal
-      (JSIJ)</a></span></li><li><span class="title"><a
-      href="http://gallica.bnf.fr/ark:/12148/cb34348774p/date.r=Journal+asiatique">Journal
-      asiatique</a></span> <span
-      class="journaltitle"></span></li><li><span class="title"><a
-      href="http://gallica.bnf.fr/ark:/12148/bpt6k56523g.notice">Journal des
-      Savants</a></span> </li><li><span class="title"><a
-      href="http://www.cardiff.ac.uk/clarc/jlarc/jlarc-home.html">Journal for Late Antique
-      Religion and Culture</a></span> </li><li><span
-      class="title"><a href="http://journalofbiblicalstudies.org/">Journal of Biblical
-      Studies</a></span> </li><li><span class="title"><a
-      href="http://www.newchronology.org/">Journal of the Ancient Chronology
-      Forum</a></span></li><li><span class="title"><a
-      href="http://www.jtsa.edu/Scholars_and_Research/JANES.xml">Journal of the Ancient Near
-      Eastern Society (JANES)</a></span></li><li><a
-      href="http://quod.lib.umich.edu/j/jahc/"><span class="title">Journal of the
-      Association for History and Computing</span></a></li><li><span
-      class="title"><a
-      href="http://www.archive.org/search.php?query=creator%3A%22Manchester%20University%20Egyptian%20and%20Oriental%20Society%22">Journal
-      of the Manchester Egyptian and Oriental Society
-      (JMEOS)</a></span></li><li><span class="title"><a
-      href="http://www.thessea.org/journal.php">Journal of the Society for the Study of Egyptian
-      Antiquities</a></span></li><li><span class="title"><a
-      href="http://jwsr.ucr.edu/index.php">Journal of World-Systems
-      Research</a></span></li><li><span class="title"><a
-      href="http://www.leeds.ac.uk/classics/lics/">Leeds International Classical
-      Studies</a></span> </li><li><span
-      class="title"></span><a href="http://www.lexisonline.eu/">Lexis: Poetica,
-      retorica e comunicazione nella tradizione classica. Rivista di antichità
-      classiche</a></li><li><span class="title"><a
-      href="http://198.62.75.1/www1/ofm/sbf/edit/LAindex.html">Liber Annuus</a></span>
-      </li><li><span class="title"><a
-      href="http://wwwuser.gwdg.de/%7Elingaeg/lingaeg.htm">Lingua Aegyptia - Journal of Egyptian
-      Language Studies</a></span></li><li><span class="title"><a
-      href="http://nemeacenter.berkeley.edu/news-and-events/lionbytes">LionBytes [Newsletter of
-      the Nemea Center for Classical Archaeology]</a></span></li><li><span
-      class="title"><a
-      href="http://www.humnet.unipi.it/medievistica/aisg/AISG_05Materia/AISG_Materia.html">Materia
-      giudaica</a></span> <span
-      class="website"></span></li><li><span class="title"><a
-      href="http://www.thessea.org/newsletter.php">Newsletter of the Society for the Study of
-      Egyptian Antiquities</a></span></li></ul><ol>All of these are now
-      listed <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">here</a></ol>]]></content>
-    <link rel="replies"
+   <title type="text">More Open Access Journals: Group 6</title>
+   <content type="html"><![CDATA[In a continuing effort to make the <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a> canonical and comprehensive, I am adding additional journals in groups of twenty.   All of these have been accessible via <a href="http://www.etana.org/abzu/">Abzu</a> for varying lengths of time.  This offers me the opportunity to verify all the links and repair the broken ones.<br /><br />Group 6.<br /><ul><li><span class="title"><a href="http://www.cfeetk.cnrs.fr/index.php?page=cahiers-de-karnak">Les Cahiers de Karnak</a></span> </li><li><a href="http://www.cbrl.org.uk/bulletin.html">Council for British Research in the Levant (CBRL) Bulletin</a></li><li><span class="title"><a href="http://www.biu.ac.il/JS/JSIJ/index.htm">Jewish Studies, an Internet Journal (JSIJ)</a></span></li><li><span class="title"><a href="http://gallica.bnf.fr/ark:/12148/cb34348774p/date.r=Journal+asiatique">Journal asiatique</a></span> <span class="journaltitle"></span></li><li><span class="title"><a href="http://gallica.bnf.fr/ark:/12148/bpt6k56523g.notice">Journal des Savants</a></span> </li><li><span class="title"><a href="http://www.cardiff.ac.uk/clarc/jlarc/jlarc-home.html">Journal for Late Antique Religion and Culture</a></span> </li><li><span class="title"><a href="http://journalofbiblicalstudies.org/">Journal of Biblical Studies</a></span> </li><li><span class="title"><a href="http://www.newchronology.org/">Journal of the Ancient Chronology Forum</a></span></li><li><span class="title"><a href="http://www.jtsa.edu/Scholars_and_Research/JANES.xml">Journal of the Ancient Near Eastern Society (JANES)</a></span></li><li><a href="http://quod.lib.umich.edu/j/jahc/"><span class="title">Journal of the Association for History and Computing</span></a></li><li><span class="title"><a href="http://www.archive.org/search.php?query=creator%3A%22Manchester%20University%20Egyptian%20and%20Oriental%20Society%22">Journal of the Manchester Egyptian and Oriental Society (JMEOS)</a></span></li><li><span class="title"><a href="http://www.thessea.org/journal.php">Journal of the Society for the Study of Egyptian Antiquities</a></span></li><li><span class="title"><a href="http://jwsr.ucr.edu/index.php">Journal of World-Systems Research</a></span></li><li><span class="title"><a href="http://www.leeds.ac.uk/classics/lics/">Leeds International Classical Studies</a></span> </li><li><span class="title"></span><a href="http://www.lexisonline.eu/">Lexis: Poetica, retorica e comunicazione nella tradizione classica. Rivista di antichità classiche</a></li><li><span class="title"><a href="http://198.62.75.1/www1/ofm/sbf/edit/LAindex.html">Liber Annuus</a></span> </li><li><span class="title"><a href="http://wwwuser.gwdg.de/%7Elingaeg/lingaeg.htm">Lingua Aegyptia -  Journal of Egyptian Language Studies</a></span></li><li><span class="title"><a href="http://nemeacenter.berkeley.edu/news-and-events/lionbytes">LionBytes [Newsletter of the Nemea Center for Classical Archaeology]</a></span></li><li><span class="title"><a href="http://www.humnet.unipi.it/medievistica/aisg/AISG_05Materia/AISG_Materia.html">Materia giudaica</a></span> <span class="website"></span></li><li><span class="title"><a href="http://www.thessea.org/newsletter.php">Newsletter of the Society for the Study of Egyptian Antiquities</a></span></li></ul><ol>All of these are now listed <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">here</a></ol>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8679448431744363459/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8679448431744363459/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/11/more-open-access-journals-group-6.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8679448431744363459"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8679448431744363459"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/11/more-open-access-journals-group-6.html"
          title="More Open Access Journals: Group 6"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

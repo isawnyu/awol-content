@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-639073235599933944</id>
+   <published>2017-01-31T14:31:00.000-05:00</published>
+   <updated>2017-01-31T14:32:02.120-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Open Context and Carleton University Prize for Archaeological Visualization</title>
+   <content type="html"><![CDATA[<a href="https://electricarchaeology.ca/2017/01/31/the-opencontext-carleton-prize-for-archaeological-data-visualization/">Open Context and Carleton University Prize for Archaeological Visualization</a><br /><blockquote class="tr_bq"><span class="s1">We are pleased to announce that the winner of the <a href="http://ux.opencontext.org/2016/06/20/open-context-carleton-prize-for-archaeological-visualization/">1st OpenContext &amp; Carleton University Data Visualization Prize</a> is awarded to the ‘<a href="https://vrcheology.github.io/">Poggio Civitate VR Data Viewer</a>’, created by the team led by Russell Alleen-Willems.&nbsp;</span> </blockquote><blockquote class="tr_bq"><span class="s1">The team hacked this data viewer together  over a weekend as a proof-of-concept. In the typical spirit of the  digital humanities and digital archaeology, they developed a playful  approach exploring the materials using the potential of the HTC Vive sdk  to ingest Open Context data as json, and then to place it into a  relative 3d space. We particularly appreciated their candour and  self-assessment of what worked, and didn’t work about their project, and  their plans for the future. We look forward to seeing their work  progress, and hope that this prize will help them move forward. Please  explore their project at&nbsp;<a href="https://vrcheology.github.io/"><span class="s2">https://vrcheology.github.io</span></a>/ .</span> </blockquote><blockquote class="tr_bq"><div class="p1"><span class="s1">Congratulations to the team, and thank  you to all who participated. Please keep your eyes peeled for next  year’s edition of the prize!</span></div><div class="p1">The team members are:</div><ul><li>Russell Alleen-Willems (Archaeology domain knowledge, Unity/C# Scripting)</li><li>Mader Bradley (JSON Data Parsing/Unity Scripting)</li><li>Jeanpierre Chery (UX Design, Unity/C# Scripting)</li><li>Blair Lyons (Unity/C# Scripting)</li><li>Aileen McGraw (Instructional Design and Program Storytelling)</li><li>Tania Pavlisak (3D modeler)</li><li>Jami Schwarzwalder (Git Management, Team Organization, and Social Media)</li><li>Paul Schwarzwalder (Unity/C# Scripting)</li><li>Stephen Silver (Background Music)</li></ul></blockquote><br /><blockquote class="tr_bq"><br /></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/639073235599933944/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/06/open-context-and-carleton-university.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/639073235599933944"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/639073235599933944"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/06/open-context-and-carleton-university.html"
+         title="Open Context and Carleton University Prize for Archaeological Visualization"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

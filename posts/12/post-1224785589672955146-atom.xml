@@ -1,104 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1224785589672955146</id>
-    <published>2014-10-22T07:40:00.000-04:00</published>
-    <updated>2014-10-22T07:40:19.317-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1224785589672955146</id>
+   <published>2014-10-22T07:40:00.000-04:00</published>
+   <updated>2014-10-22T07:40:19.317-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Germany"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
-    <title type="text">Römische Inschriften Datenbank 24</title>
-    <content type="html"><![CDATA[<a href="http://www.rid24.de/">Römische Inschriften Datenbank
-      24</a><br /><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Die Idee, die hinter rid24 steht, ist die Darstellung und Präsentation von Alter
-      Geschichte und Archäologie des Rheinlandes mit den Möglichkeiten des Mediums Internet.
-      Grundlage&nbsp; von rid24 sind die von Brigitte und Hartmut Galsterer 1975 publizierten
-      Römischen Steininschriften aus Köln. Die technischen Entwicklungen in den letzten Jahren bergen
-      heute fast unbegrenzte Möglichkeiten der Darstellung. Neben der Datenbank-gestützten
-      Inschriftensuche versucht rid24 darüber hinaus, dem Besucher weitere Hintergrundinformationen
-      und Daten zur Verfï¿½gung zu stellen. rid24 richtet sich nicht nur an Althistoriker und
-      Epigraphiker, sondern auch an private Sammler und überhaupt an alle an der römischen Geschichte
-      des Landes Interessierten. rid24 steht für einen jederzeit verfügbaren (eben 24 Stunden
-      täglich) und barrierefreien Zugang fï¿½r den Besucher, ohne zeitliche und informative
-      Beschrï¿½nkungen. rid24 bietet mit dieser Art der Darstellung dem Besucher Mï¿½glichkeiten und
-      Informationen, wie es in einem gedruckten Buch kaum darstellbar wï¿½re. Das Portal versteht
-      sich nicht als Alternative, sondern als Ergï¿½nzung der Museen mit ihren naturgemï¿½ï¿½
-      beschrï¿½nkten Prï¿½sentations- und Verknï¿½pfungsmï¿½glichkeiten, und hofft, den Museen nicht
-      nur mehr, sondern auch mit mehr Hintergrundwissen ausgestattete Besucher zu
-      verschaffen.&nbsp; </span></blockquote><blockquote class="tr_bq"><div
-      class="cntbdy_200px_blue"><ul id="menuListV"><li><span style="font-size:
-      x-small;"><a class="menuLinkV"
-      href="http://www.rid24.de/home.html">Home</a></span></li><li><span
-      style="font-size: x-small;"><a class="menuLinkV"
-      href="http://www.rid24.de/inschriften.html">Inschriften</a></span></li><li><span
-      style="font-size: x-small;"><a class="menuLinkV"
-      href="http://www.rid24.de/roemische-steininschriften-koeln.html">Römische Steininschriften
-      Köln</a></span></li><li><span style="font-size: x-small;"><a
-      class="menuLinkV"
-      href="http://www.rid24.de/login.html">Login</a></span></li><li><span
-      style="font-size: x-small;"><a class="menuLinkV"
-      href="http://www.rid24.de/roemische-inschriften-geo-data.html">Geo
-      Data</a></span></li><li><span style="font-size: x-small;"><a
-      class="menuLinkAct2V"
-      href="http://www.rid24.de/roemische-inschriften-aktuelles.html">Aktuelles</a></span><ul><li><span
-      style="font-size: x-small;"><a class="submenuLinkV"
-      href="http://www.rid24.de/roemische-inschriften-aktuelles/aktuelles.html">Aktuelles</a></span></li><li><span
-      style="font-size: x-small;"><a class="submenuLinkV"
-      href="http://www.rid24.de/roemische-inschriften-aktuelles/mailservice.html">Mailservice</a></span></li></ul></li><li><span
-      style="font-size: x-small;"><a class="menuLinkV"
-      href="http://www.rid24.de/koelner-ausgrabungen.html">Kölner
-      Ausgrabungen</a></span></li><li><span style="font-size:
-      x-small;"><a class="menuLinkV"
-      href="http://www.rid24.de/romische-inschriften-download.html">Download</a></span></li><li><span
-      style="font-size: x-small;"><a class="menuLinkV"
-      href="http://www.rid24.de/roemische-inschriften-ueber-uns.html">Über
-      uns</a></span></li><li><span style="font-size: x-small;"><a
-      class="menuLinkV"
-      href="http://www.rid24.de/sitemap.html">Sitemap</a></span></li><li><span
-      style="font-size: x-small;"><a class="menuLinkV"
-      href="http://www.rid24.de/roemische-inschriften-literatur.html">Literatur</a></span></li><li><span
-      style="font-size: x-small;"><a class="menuLinkV"
-      href="http://www.rid24.de/roemische-inschriften-weiterfuehrende-links.html">Links</a></span></li><li><span
-      style="font-size: x-small;"><a class="menuLinkV"
-      href="http://www.rid24.de/unser-dank.html">Unser
-      Dank</a></span></li><li><span style="font-size: x-small;"><a
-      class="menuLinkV"
-      href="http://www.rid24.de/nc/am0.html">Amphoren</a></span></li><li><span
-      style="font-size: x-small;"><a class="menuLinkV"
-      href="http://www.rid24.de/sitemap-ii.html">sitemap
-      II</a></span></li></ul></div></blockquote><div
-      id="content"><blockquote> </blockquote><div id="facebook"><div
-      class="csc-default" id="c1328"><blockquote><br /></blockquote><br
-      /><br /><br /><br /><br
-      /></div></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Germany"/>
+   <title type="text">Römische Inschriften Datenbank 24</title>
+   <content type="html"><![CDATA[<a href="http://www.rid24.de/">Römische Inschriften Datenbank 24</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Die Idee, die hinter rid24 steht, ist die Darstellung und Präsentation von Alter Geschichte und Archäologie des Rheinlandes mit den Möglichkeiten des Mediums Internet. Grundlage&nbsp; von rid24 sind die von Brigitte und Hartmut Galsterer 1975 publizierten Römischen Steininschriften aus Köln. Die technischen Entwicklungen in den letzten Jahren bergen heute fast unbegrenzte Möglichkeiten der Darstellung. Neben der Datenbank-gestützten Inschriftensuche versucht rid24 darüber hinaus, dem Besucher weitere Hintergrundinformationen und Daten zur Verfï¿½gung zu stellen. rid24 richtet sich nicht nur an Althistoriker und Epigraphiker, sondern auch an private Sammler und überhaupt an alle an der römischen Geschichte des Landes Interessierten. rid24 steht für einen jederzeit verfügbaren (eben 24 Stunden täglich) und barrierefreien Zugang fï¿½r den Besucher, ohne zeitliche und informative Beschrï¿½nkungen. rid24 bietet mit dieser Art der Darstellung dem Besucher Mï¿½glichkeiten und Informationen, wie es in einem gedruckten Buch kaum darstellbar wï¿½re. Das Portal versteht sich nicht als Alternative, sondern als Ergï¿½nzung der Museen mit ihren naturgemï¿½ï¿½ beschrï¿½nkten Prï¿½sentations- und Verknï¿½pfungsmï¿½glichkeiten, und hofft, den Museen nicht nur mehr, sondern auch mit mehr Hintergrundwissen ausgestattete Besucher zu verschaffen.&nbsp; </span></blockquote><blockquote class="tr_bq"><div class="cntbdy_200px_blue"><ul id="menuListV"><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/home.html">Home</a></span></li><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/inschriften.html">Inschriften</a></span></li><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/roemische-steininschriften-koeln.html">Römische Steininschriften Köln</a></span></li><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/login.html">Login</a></span></li><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/roemische-inschriften-geo-data.html">Geo Data</a></span></li><li><span style="font-size: x-small;"><a class="menuLinkAct2V" href="http://www.rid24.de/roemische-inschriften-aktuelles.html">Aktuelles</a></span><ul><li><span style="font-size: x-small;"><a class="submenuLinkV" href="http://www.rid24.de/roemische-inschriften-aktuelles/aktuelles.html">Aktuelles</a></span></li><li><span style="font-size: x-small;"><a class="submenuLinkV" href="http://www.rid24.de/roemische-inschriften-aktuelles/mailservice.html">Mailservice</a></span></li></ul></li><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/koelner-ausgrabungen.html">Kölner Ausgrabungen</a></span></li><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/romische-inschriften-download.html">Download</a></span></li><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/roemische-inschriften-ueber-uns.html">Über uns</a></span></li><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/sitemap.html">Sitemap</a></span></li><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/roemische-inschriften-literatur.html">Literatur</a></span></li><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/roemische-inschriften-weiterfuehrende-links.html">Links</a></span></li><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/unser-dank.html">Unser Dank</a></span></li><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/nc/am0.html">Amphoren</a></span></li><li><span style="font-size: x-small;"><a class="menuLinkV" href="http://www.rid24.de/sitemap-ii.html">sitemap II</a></span></li></ul></div></blockquote><div id="content"><blockquote> </blockquote><div id="facebook"><div class="csc-default" id="c1328"><blockquote><br /></blockquote><br /><br /><br /><br /><br /></div></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1224785589672955146/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1224785589672955146/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/romische-inschriften-datenbank-24.html#comment-form"
-         title="0 Comments"/>
-    <link rel="edit"
+         title="1 Comments"/>
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1224785589672955146"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1224785589672955146"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/romische-inschriften-datenbank-24.html"
          title="Römische Inschriften Datenbank 24"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

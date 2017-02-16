@@ -1,66 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6382976845448434467</id>
-    <published>2012-05-07T20:36:00.000-04:00</published>
-    <updated>2012-05-07T20:36:27.961-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6382976845448434467</id>
+   <published>2012-05-07T20:36:00.000-04:00</published>
+   <updated>2012-05-07T20:36:27.961-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
-    <title type="text">iPad app for reading Greek released</title>
-    <content type="html"><![CDATA[From <a
-      href="https://www.jiscmail.ac.uk/cgi-bin/webadmin?A2=ind1205&amp;L=digitalclassicist&amp;F=&amp;S=&amp;P=2597">a
-      communication distributed on DIGITALCLASSICIST 7 May 2012</a><br /><blockquote
-      class="tr_bq"><span style="font-size: x-small;"><tt><span style="font-size:
-      small;">I'm delighted to announce the release of an iPad app for introductory and
-      intermediate Greek readers. Its name is <a
-      href="http://draft.blogger.com/%20http://itunes.apple.com/us/app/attikos/id522497233?mt=8">Attikos</a>
-      and it includes a selection of familiar texts, including morphological information. The author
-      is Josh Day, himself recently an intermediate Greek student. <br /><br />Link to
-      the app store page: </span><span style="font-size: small;"><br /><br
-      /><a
-      href="https://webmail.uchicago.edu/wm/mail/fetch.html?urlid=g06935f317789b1e676950f62293396dd5l1kkgahpl&amp;url=http%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fattikos%2Fid522497233%3Fmt%3D8"
-      target="_blank">http://itunes.apple.com/us/app/attikos/id522497233?mt=8</a></span><span
-      style="font-size: small;"><br /><br />Writing the app would not have been nearly
-      as feasible without the Perseus Project's generous policies of making its data available to
-      third parties. It includes links to <a
-      href="http://logeion.uchicago.edu/">logeion.uchicago.edu</a>, which is an interface
-      for dictionaries and reference works, including Liddell and Scott. Again, that website is based
-      for the most part on resources from the Perseus Project at Tufts. When not connected to the
-      internet, the app itself offers short definitions, as familiar from Perseus.
-      </span><span style="font-size: small;"><br /><br />Texts include the
-      Iliad, some Lysias and Plato, and the Antigone. Some texts have been parsed completely; no
-      translations are included, however. Bonus features allow the user to look up morphological
-      parses of words they type in, or figure them out with the included morphological charts.
-      </span><span style="font-size: small;"><br /><br />Helma Dik
-      </span><span style="font-size: small;"><br />Classics <br />University
-      of Chicago</span></tt></span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <title type="text">iPad app for reading Greek released</title>
+   <content type="html"><![CDATA[From <a href="https://www.jiscmail.ac.uk/cgi-bin/webadmin?A2=ind1205&amp;L=digitalclassicist&amp;F=&amp;S=&amp;P=2597">a communication distributed on DIGITALCLASSICIST 7 May 2012</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;"><tt><span style="font-size: small;">I'm delighted to announce the release of an iPad app for  introductory and intermediate Greek readers. Its name is <a href="http://draft.blogger.com/%20http://itunes.apple.com/us/app/attikos/id522497233?mt=8">Attikos</a> and it  includes a selection of familiar texts, including morphological  information. The author is Josh Day, himself recently an intermediate  Greek student.  <br /><br />Link to the app store page:  </span><span style="font-size: small;"><br /><br /><a href="https://webmail.uchicago.edu/wm/mail/fetch.html?urlid=g06935f317789b1e676950f62293396dd5l1kkgahpl&amp;url=http%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fattikos%2Fid522497233%3Fmt%3D8" target="_blank">http://itunes.apple.com/us/app/attikos/id522497233?mt=8</a></span><span style="font-size: small;"><br /><br />Writing the app would not have been nearly as feasible without the  Perseus Project's generous policies of making its data available to  third parties. It includes links to <a href="http://logeion.uchicago.edu/">logeion.uchicago.edu</a>, which is an  interface for dictionaries and reference works, including Liddell and  Scott. Again, that website is based for the most part on resources from  the Perseus Project at Tufts. When not connected to the internet, the  app itself offers short definitions, as familiar from Perseus.  </span><span style="font-size: small;"><br /><br />Texts include the Iliad, some Lysias and Plato, and the Antigone.  Some texts have been parsed completely; no translations are included,  however. Bonus features allow the user to look up morphological parses  of words they type in, or figure them out with the included  morphological charts.  </span><span style="font-size: small;"><br /><br />Helma Dik </span><span style="font-size: small;"><br />Classics <br />University of Chicago</span></tt></span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6382976845448434467/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6382976845448434467/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/05/ipad-app-for-reading-greek-released.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6382976845448434467"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6382976845448434467"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/05/ipad-app-for-reading-greek-released.html"
          title="iPad app for reading Greek released"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

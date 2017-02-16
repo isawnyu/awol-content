@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5586255055913356749</id>
+   <published>2016-06-16T02:56:00.000-04:00</published>
+   <updated>2016-06-16T02:56:37.145-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Date Converter for Ancient Egypt</title>
+   <content type="html"><![CDATA[<a href="http://aegyptologie.online-resourcen.de/home">Date Converter for Ancient Egypt</a><br /><blockquote class="tr_bq"><div class="ng-scope"><span style="font-size: x-small;">This website is a scientific tool for converting  calendar dates mentioned in Greek and Demotic papyri from Egypt into  Julian and corresponding Gregorian dates, from the reign of Psametik to  Diocletian.</span></div><div class="ng-scope"><br /></div><div class="ng-scope"><span style="font-size: x-small;">Choose one of the historical periods (Late Period  Pharaohs, Ptolemaic Kings or Roman Emperors), then the reign, year,  month and (optionally) day and click on convert - the result date will  be shown.</span></div><div class="ng-scope"><br /></div><div class="ng-scope"><span style="font-size: x-small;">All calculations are based on the tables in Skeat,  Reigns of the Ptolemies (1969), Pestman, Chronologie égyptienne d'après  les textes démotiques (1967) and Pestman, Les papyrus démotiques de  Tsenhor (1994).</span></div><div class="ng-scope"><br /></div><div class="ng-scope"><span style="font-size: x-small;">The system expects that the user knows what (s)he's  doing; ahistoric entries will result in mathematically correct but  otherwise rather useless dates. Not specifying a day will result in  calculation of both the first and last day of the given month.</span></div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><a class="navbar-brand" href="http://aegyptologie.online-resourcen.de/home">Home</a></span>                         <br /><div class="navbar-collapse collapse" id="navbar"><span style="font-size: x-small;">                </span><ul class="nav navbar-nav navbar-right"><li class="dropdown"><span style="font-size: x-small;"><a class="dropdown-toggle" data-toggle="dropdown" href="http://aegyptologie.online-resourcen.de/" role="button">Convert... <span class="caret"></span></a></span>                                             </li><li><span style="font-size: x-small;"><a href="http://aegyptologie.online-resourcen.de/rest_api">REST API Documentation</a></span></li><li><span style="font-size: x-small;"><a href="http://aegyptologie.online-resourcen.de/about">About</a></span></li><li><span style="font-size: x-small;"><a href="http://aegyptologie.online-resourcen.de/contact">Contact</a></span></li></ul></div></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/5586255055913356749/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/06/date-converter-for-ancient-egypt.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5586255055913356749"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5586255055913356749"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/06/date-converter-for-ancient-egypt.html"
+         title="Date Converter for Ancient Egypt"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

@@ -1,321 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6665207399371968011</id>
-    <published>2015-03-06T08:02:00.000-05:00</published>
-    <updated>2015-05-19T06:58:29.964-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6665207399371968011</id>
+   <published>2015-03-06T08:02:00.000-05:00</published>
+   <updated>2016-11-28T16:01:57.368-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
-    <title type="text">Open Access Monograph Series: Bibliothèque archéologique et historique</title>
-    <content type="html"><![CDATA[<div style="text-align: left;"><span class="title"
-      style="font-size: small;"></span><a
-      href="http://books.openedition.org/ifpo/396"><span class="title">Bibliothèque
-      archéologique et historique</span></a></div><span
-      class="title"></span>ISSN (Édition imprimée) : 0768-2506 <br /><div
-      id="main"><blockquote class="tr_bq"><div id="publiDirector">Sous la direction de
-      <b> Marc <span
-      class="familyName">Griesheimer</span>&nbsp;</b></div></blockquote><div
-      id="publiIntroduction"><div class="resume"><div class="resumeContent"
-      id="intro-396-fr" lang="fr"><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Née en 1921, la Bibliothèque archéologique et historique (BAH) comprend quelque
-      200 titres consacrés au Proche-Orient sémitique, dont la préhistoire et le moyen-âge
-      constituent les bornes chronologiques.</span><br /><span style="font-size:
-      x-small;"><br />La variété des contributions témoigne du dynamisme de la recherche et
-      de l'évolution des disciplines qui interrogent le passé : monographies archéologiques de sites
-      ou de monuments, corpus épigraphiques, éditions de sources, recueils d'articles, mélanges,
-      actes de colloques et rapports de fouilles.</span></blockquote><blockquote
-      class="tr_bq"> <br /><ul class="bookslist"><li class="even inline-block">
-      <div class="cover table-cell"> <a href="http://books.openedition.org/ifpo/4443"
-      title="Le comté de Tripoli sous la dynastie toulousaine (1102-1187)"> <span
-      style="font-size: x-small;"><img alt="Le comté de Tripoli sous la dynastie toulousaine
-      (1102-1187)" src="https://static.openedition.org/covers/OB/ifpo/4443/4443-172x245.jpg" />
-      </span></a><span style="font-size: x-small;">
-      </span></div><span style="font-size: x-small;"> </span><div
-      class="description"> <h1 class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/4443" title="Le comté de Tripoli sous la dynastie
-      toulousaine (1102-1187)">Le comté de Tripoli sous la dynastie toulousaine
-      (1102-1187)</a></span></h1><div class="author"> <span
-      style="font-size: x-small;"><strong> Jean <span
-      class="familyName">Richard</span> </strong></span> </div><div
-      class="editionyear"><span style="font-size:
-      x-small;">1945</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span> </div><span style="font-size: x-small;">
-      </span></li><li class="odd inline-block"> <div class="cover
-      table-cell"> <span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/5413" title="Institutions des Séleucides"> <img
-      alt="Institutions des Séleucides"
-      src="https://static.openedition.org/covers/OB/ifpo/5413/5413-172x245.jpg" />
-      </a></span> </div><div class="description"> <h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/5413" title="Institutions des
-      Séleucides">Institutions des Séleucides</a></span></h1><div
-      class="author"> <span style="font-size: x-small;"><strong> Elias Joseph <span
-      class="familyName">Bickerman</span> </strong></span> </div><div
-      class="editionyear"><span style="font-size:
-      x-small;">1938</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span> </div></li><li class="even
-      inline-block"> <div class="cover table-cell"> <span style="font-size:
-      x-small;"><a href="http://books.openedition.org/ifpo/6507" title="La pénétration des
-      Arabes en Syrie avant l’Islam"> <img alt="La pénétration des Arabes en Syrie avant
-      l’Islam" src="https://static.openedition.org/covers/OB/ifpo/6507/6507-172x245.jpg" />
-      </a></span> </div><div class="description"> <h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/6507" title="La pénétration des Arabes en Syrie avant
-      l’Islam">La pénétration des Arabes en Syrie avant
-      l’Islam</a></span></h1><div class="author"> <span style="font-size:
-      x-small;"><strong> René <span class="familyName">Dussaud</span>
-      </strong></span> </div><div class="editionyear"><span
-      style="font-size: x-small;">1955</span></div><span style="font-size:
-      x-small;"><span class="end">…</span></span> </div></li><li
-      class="odd inline-block"> <div class="cover table-cell"> <span style="font-size:
-      x-small;"><a href="http://books.openedition.org/ifpo/6091" title="Libanios et la terre :
-      discours et idéologie politique"> <img alt="Libanios et la terre : discours et idéologie
-      politique" src="https://static.openedition.org/covers/OB/ifpo/6091/6091-172x245.jpg" />
-      </a></span> </div><div class="description"> <h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/6091" title="Libanios et la terre : discours et
-      idéologie politique">Libanios et la terre : discours et idéologie
-      politique</a></span></h1><div class="author"> <span
-      style="font-size: x-small;"><strong> Panagiotis N. <span
-      class="familyName">Doukellis</span> </strong></span> </div><div
-      class="editionyear"><span style="font-size:
-      x-small;">1995</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span> </div></li><li class="even
-      inline-block"> <div class="cover table-cell"> <span style="font-size:
-      x-small;"><a href="http://books.openedition.org/ifpo/6477" title="Le Comté d’Édesse
-      (1098-1150)"> <img alt="Le Comté d’Édesse (1098-1150)"
-      src="https://static.openedition.org/covers/OB/ifpo/6477/6477-172x245.jpg" />
-      </a></span> </div><div class="description"> <h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/6477" title="Le Comté d’Édesse (1098-1150)">Le Comté
-      d’Édesse (1098-1150)</a></span></h1><div class="author"> <span
-      style="font-size: x-small;"><strong> Monique <span
-      class="familyName">Amouroux-Mourad</span> </strong></span>
-      </div><div class="editionyear"><span style="font-size:
-      x-small;">1988</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span> </div></li><li class="odd
-      inline-block"> <div class="cover table-cell"> <span style="font-size:
-      x-small;"><a href="http://books.openedition.org/ifpo/4057" title="Le sacré et le salut à
-      Antioche au IVe siècle apr. J.-C."> <img alt="Le sacré et le salut à Antioche au IVe
-      siècle apr. J.-C." src="https://static.openedition.org/covers/OB/ifpo/4057/4057-172x245.jpg"
-      /> </a></span> </div><div class="description"> <h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/4057" title="Le sacré et le salut à Antioche au IVe
-      siècle apr. J.-C.">Le sacré et le salut à Antioche au IV<sup>e</sup> siècle apr.
-      J.-C.</a></span></h1><h2 class="subtitle"><span style="font-size:
-      x-small;">Pratiques festives et comportements religieux dans le processus de
-      christianisation de la cité</span></h2><div class="author"> <span
-      style="font-size: x-small;"><strong> Emmanuel <span
-      class="familyName">Soler</span> </strong></span> </div><div
-      class="editionyear"><span style="font-size:
-      x-small;">2006</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span> </div></li><li class="even
-      inline-block"> <div class="cover table-cell"> <span style="font-size:
-      x-small;"><a href="http://books.openedition.org/ifpo/6125" title="Les lois des
-      bâtiments"> <img alt="Les lois des bâtiments"
-      src="https://static.openedition.org/covers/OB/ifpo/6125/6125-172x245.jpg" />
-      </a></span> </div><div class="description"> <h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/6125" title="Les lois des bâtiments">Les lois des
-      bâtiments</a></span></h1><h2 class="subtitle"><span
-      style="font-size: x-small;">Voisinage et habitat urbain dans l’Empire romain. Recherches sur
-      les rapports entre le droit et la construction privée du siècle d’Auguste au siècle de
-      Justinien</span></h2><div class="author"> <span style="font-size:
-      x-small;"><strong> Catherine <span class="familyName">Saliou</span>
-      </strong></span> </div><div class="editionyear"><span
-      style="font-size: x-small;">1994</span></div><span style="font-size:
-      x-small;"><span class="end">…</span></span> </div></li><li
-      class="odd inline-block"> <div class="cover table-cell"> <span style="font-size:
-      x-small;"><a href="http://books.openedition.org/ifpo/3677" title="La Syrie antique et
-      médiévale illustrée"> <img alt="La Syrie antique et médiévale illustrée"
-      src="https://static.openedition.org/covers/OB/ifpo/3677/3677-172x245.jpg" />
-      </a></span> </div><div class="description"> <h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/3677" title="La Syrie antique et médiévale
-      illustrée">La Syrie antique et médiévale illustrée</a></span></h1><div
-      class="author"> <span style="font-size: x-small;"><strong> René <span
-      class="familyName">Dussaud</span>, Paul <span
-      class="familyName">Deschamp</span> et Henri <span
-      class="familyName">Seyrig</span> </strong></span> </div><div
-      class="editionyear"><span style="font-size:
-      x-small;">1931</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span> </div></li><li class="even
-      inline-block"> <div class="cover table-cell"> <span style="font-size:
-      x-small;"><a href="http://books.openedition.org/ifpo/3692" title="Topographie historique
-      de la Syrie antique et médiévale"> <img alt="Topographie historique de la Syrie antique
-      et médiévale" src="https://static.openedition.org/covers/OB/ifpo/3692/3692-172x245.jpg" />
-      </a></span> </div><div class="description"> <h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/3692" title="Topographie historique de la Syrie antique
-      et médiévale">Topographie historique de la Syrie antique et
-      médiévale</a></span></h1><div class="author"> <span
-      style="font-size: x-small;"><strong> René <span
-      class="familyName">Dussaud</span> </strong></span> </div><div
-      class="editionyear"><span style="font-size:
-      x-small;">1927</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span>
-      </div></li></ul></blockquote></div><blockquote>
-      </blockquote></div><blockquote><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;">
-      </span></blockquote></div><blockquote><span style="font-size:
-      x-small;"> </span></blockquote><ul class="bookslist"><li class="even
-      inline-block"><blockquote><div class="cover table-cell"><span
-      style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/4812"
-      title="Chypre sous les Lusignans : documents chypriotes des archives du Vatican (XIVe et XVe
-      siècles)"> <img alt="Chypre sous les Lusignans : documents chypriotes des archives du
-      Vatican (XIVe et XVe siècles)"
-      src="http://static-origin.openedition.org/covers/OB/ifpo/4812/4812-172x245.jpg" />
-      </a></span> </div><div class="description"><h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/4812" title="Chypre sous les Lusignans : documents
-      chypriotes des archives du Vatican (XIVe et XVe siècles)">Chypre sous les
-      Lusignans&nbsp;: documents chypriotes des archives du Vatican (XIV<sup>e</sup>
-      et XV<sup>e</sup> siècles)</a></span></h1><div
-      class="author"><span style="font-size: x-small;"><b> Jean <span
-      class="familyName">Richard</span> </b></span> </div><div
-      class="editionyear"><span style="font-size:
-      x-small;">1962</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span> </div></blockquote></li><li
-      class="odd inline-block"><blockquote><div class="cover table-cell"><span
-      style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/5151"
-      title="Libanius et la vie municipale à Antioche au IVe siècle après J.-C."> <img
-      alt="Libanius et la vie municipale à Antioche au IVe siècle après J.-C."
-      src="http://static-origin.openedition.org/covers/OB/ifpo/5151/5151-172x245.jpg" />
-      </a></span> </div><div class="description"><h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/5151" title="Libanius et la vie municipale à Antioche
-      au IVe siècle après J.-C.">Libanius et la vie municipale à Antioche au
-      IV<sup>e</sup> siècle après J.-C.</a></span></h1><div
-      class="author"><span style="font-size: x-small;"><b> Paul <span
-      class="familyName">Petit</span> </b></span> </div><div
-      class="editionyear"><span style="font-size:
-      x-small;">1955</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span> </div></blockquote></li><li
-      class="even inline-block"><blockquote><div class="cover table-cell"><span
-      style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/4334" title="Les
-      campagnes de la Syrie du Nord"> <img alt="Les campagnes de la Syrie du Nord"
-      src="http://static-origin.openedition.org/covers/OB/ifpo/4334/4334-172x245.jpg" />
-      </a></span> </div><div class="description"><h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/4334" title="Les campagnes de la Syrie du Nord">Les
-      campagnes de la Syrie du Nord</a></span></h1><div
-      class="author"><span style="font-size: x-small;"><b> Georges <span
-      class="familyName">Tate</span> </b></span> </div><div
-      class="editionyear"><span style="font-size:
-      x-small;">1992</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span> </div></blockquote></li><li
-      class="odd inline-block"><blockquote><div class="cover table-cell"><span
-      style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/3712" title="Sidon
-      et la Phénicie méridionale au Bronze récent"> <img alt="Sidon et la Phénicie méridionale
-      au Bronze récent"
-      src="http://static-origin.openedition.org/covers/OB/ifpo/3712/3712-172x245.jpg" />
-      </a></span> </div><div class="description"><h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/3712" title="Sidon et la Phénicie méridionale au Bronze
-      récent">Sidon et la Phénicie méridionale au Bronze
-      récent</a></span></h1><h2 class="subtitle"><span style="font-size:
-      x-small;">À propos des tombes de Dakerman</span></h2><div
-      class="author"><span style="font-size: x-small;"><b> Roger <span
-      class="familyName">Saïdah</span> </b></span> </div><div
-      class="editionyear"><span style="font-size:
-      x-small;">2004</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span> </div></blockquote></li><li
-      class="even inline-block"><blockquote><div class="cover table-cell"><span
-      style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/1053"
-      title="Stratégies d'acquisition de l'eau et société au Moyen-Orient depuis l'Antiquité">
-      <img alt="Stratégies d'acquisition de l'eau et société au Moyen-Orient depuis l'Antiquité"
-      src="http://static-origin.openedition.org/covers/OB/ifpo/1053/1053-172x245.jpg" />
-      </a></span> </div><div class="description"><h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/1053" title="Stratégies d'acquisition de l'eau et
-      société au Moyen-Orient depuis l'Antiquité">Stratégies d'acquisition de l'eau et société au
-      Moyen-Orient depuis l'Antiquité</a></span></h1><div
-      class="author"><span style="font-size: x-small;"><b> Mohamed <span
-      class="familyName">Al-Dbiyat</span> et Michel <span
-      class="familyName">Mouton</span> </b></span> </div><div
-      class="editionyear"><span style="font-size:
-      x-small;">2009</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span> </div></blockquote></li><li
-      class="odd inline-block"><blockquote><div class="cover table-cell"><span
-      style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/1411" title="La
-      Vie religieuse au Liban sous l'Empire romain"> <img alt="La Vie religieuse au Liban sous
-      l'Empire romain"
-      src="http://static-origin.openedition.org/covers/OB/ifpo/1411/1411-172x245.jpg" />
-      </a></span> </div><div class="description"><h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/1411" title="La Vie religieuse au Liban sous l'Empire
-      romain">La Vie religieuse au Liban sous l'Empire
-      romain</a></span></h1><div class="author"><span style="font-size:
-      x-small;"><b> Julien <span class="familyName">Aliquot</span>
-      </b></span> </div><div class="editionyear"><span style="font-size:
-      x-small;">2009</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span> </div></blockquote></li><li
-      class="even inline-block"><blockquote><div class="cover table-cell"><span
-      style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/3763" title="Les
-      notables de Palmyre"> <img alt="Les notables de Palmyre"
-      src="http://static-origin.openedition.org/covers/OB/ifpo/3763/3763-172x245.jpg" />
-      </a></span> </div><div class="description"><h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/ifpo/3763" title="Les notables de Palmyre">Les notables
-      de Palmyre</a></span></h1><div class="author"><span
-      style="font-size: x-small;"><b> Jean-Baptiste <span
-      class="familyName">Yon</span> </b></span> </div><div
-      class="editionyear"><span style="font-size:
-      x-small;">2002</span></div><span style="font-size: x-small;"><span
-      class="end">…</span></span> </div></blockquote></li><li
-      class="odd inline-block"><blockquote><span style="font-size: x-small;">
-      </span><br /><div class="cover table-cell"><span style="font-size:
-      x-small;"><a href="http://books.openedition.org/ifpo/3739" title="L’époque des premiers
-      bourgs fortifiés"> <img alt="L’époque des premiers bourgs fortifiés"
-      src="http://static-origin.openedition.org/covers/OB/ifpo/3739/3739-172x245.jpg" />
-      </a></span> </div><span style="font-size: x-small;">
-      </span><br /><div class="description"><span style="font-size:
-      x-small;"> </span><br /><h1 class="title"><span style="font-size:
-      x-small;"><a href="http://books.openedition.org/ifpo/3739" title="L’époque des premiers
-      bourgs fortifiés">L’époque des premiers bourgs
-      fortifiés</a></span></h1><span style="font-size: x-small;">
-      </span><br /><h2 class="subtitle"><span style="font-size:
-      x-small;">Pertinence de l’existence d’un processus d’urbanisation dans le Levant sud au
-      troisième millénaire</span></h2><span style="font-size: x-small;">
-      </span><br /><div class="author"><span style="font-size:
-      x-small;"><b> Christophe <span class="familyName">Nicolle</span>
-      </b></span> </div><span style="font-size: x-small;">
-      </span><br /><div class="editionyear"><span style="font-size:
-      x-small;">1999</span></div><span style="font-size: x-small;"> <span
-      class="end">…</span></span></div></blockquote><div
-      style="text-align: center;"><span style="font-size: small;">&nbsp;<span
-      style="font-weight: normal;"><span class="style3">And see AWOL's <a
-      href="http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html">Alphabetical
-      List of Open Access Monograph Series in Ancient
-      Studies</a></span></span></span>
-      </div></li></ul></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
+   <title type="text">Open Access Monograph Series: Bibliothèque archéologique et historique</title>
+   <content type="html"><![CDATA[<div style="text-align: left;"><span class="title" style="font-size: small;"></span><a href="http://books.openedition.org/ifpo/396"><span class="title">Bibliothèque archéologique et historique</span></a></div><span class="title"></span>ISSN (Édition imprimée) : 0768-2506                                                                                                              <br /><div id="main"><blockquote class="tr_bq"><div id="publiDirector">Sous la direction de                  <b>        Marc <span class="familyName">Griesheimer</span>&nbsp;</b></div></blockquote><div id="publiIntroduction"><div class="resume"><div class="resumeContent" id="intro-396-fr" lang="fr"><blockquote class="tr_bq"><span style="font-size: x-small;">Née en 1921, la Bibliothèque archéologique et  historique (BAH) comprend quelque 200 titres consacrés au Proche-Orient  sémitique, dont la préhistoire et le moyen-âge constituent les bornes  chronologiques.</span><br /><span style="font-size: x-small;"><br />La variété des contributions témoigne du dynamisme de  la recherche et de l'évolution des disciplines qui interrogent le passé  : monographies archéologiques de sites ou de monuments, corpus  épigraphiques, éditions de sources, recueils d'articles, mélanges, actes  de colloques et rapports de fouilles.</span></blockquote><blockquote class="tr_bq"><br /><ul class="bookslist"><li class="even inline-block">                                             <div class="cover table-cell"><a href="http://books.openedition.org/ifpo/4443" title="Le comté de Tripoli sous la dynastie toulousaine (1102-1187)">    <span style="font-size: x-small;"><img alt="Le comté de Tripoli sous la dynastie toulousaine (1102-1187)" src="https://static.openedition.org/covers/OB/ifpo/4443/4443-172x245.jpg" />    </span></a><span style="font-size: x-small;">    </span></div><span style="font-size: x-small;">                                 </span><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/4443" title="Le comté de Tripoli sous la dynastie toulousaine (1102-1187)">Le comté de Tripoli sous la dynastie toulousaine (1102-1187)</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        Jean <span class="familyName">Richard</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">1945</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div><span style="font-size: x-small;">            </span></li><li class="odd inline-block">                                             <div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/5413" title="Institutions des Séleucides">    <img alt="Institutions des Séleucides" src="https://static.openedition.org/covers/OB/ifpo/5413/5413-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/5413" title="Institutions des Séleucides">Institutions des Séleucides</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        Elias Joseph <span class="familyName">Bickerman</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">1938</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></li><li class="even inline-block">                                             <div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/6507" title="La pénétration des Arabes en Syrie avant l’Islam">    <img alt="La pénétration des Arabes en Syrie avant l’Islam" src="https://static.openedition.org/covers/OB/ifpo/6507/6507-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/6507" title="La pénétration des Arabes en Syrie avant l’Islam">La pénétration des Arabes en Syrie avant l’Islam</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        René <span class="familyName">Dussaud</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">1955</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></li><li class="odd inline-block">                                             <div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/6091" title="Libanios et la terre : discours et idéologie politique">    <img alt="Libanios et la terre : discours et idéologie politique" src="https://static.openedition.org/covers/OB/ifpo/6091/6091-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/6091" title="Libanios et la terre : discours et idéologie politique">Libanios et la terre : discours et idéologie politique</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        Panagiotis N. <span class="familyName">Doukellis</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">1995</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></li><li class="even inline-block">                                             <div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/6477" title="Le Comté d’Édesse (1098-1150)">    <img alt="Le Comté d’Édesse (1098-1150)" src="https://static.openedition.org/covers/OB/ifpo/6477/6477-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/6477" title="Le Comté d’Édesse (1098-1150)">Le Comté d’Édesse (1098-1150)</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        Monique <span class="familyName">Amouroux-Mourad</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">1988</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></li><li class="odd inline-block">                                             <div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/4057" title="Le sacré et le salut à Antioche au IVe siècle apr. J.-C.">    <img alt="Le sacré et le salut à Antioche au IVe siècle apr. J.-C." src="https://static.openedition.org/covers/OB/ifpo/4057/4057-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/4057" title="Le sacré et le salut à Antioche au IVe siècle apr. J.-C.">Le sacré et le salut à Antioche au IV<sup>e</sup> siècle apr. J.-C.</a></span></h1><h2 class="subtitle"><span style="font-size: x-small;">Pratiques festives et comportements religieux dans le processus de christianisation de la cité</span></h2><div class="author"><span style="font-size: x-small;"><b>        Emmanuel <span class="familyName">Soler</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">2006</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></li><li class="even inline-block">                                             <div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/6125" title="Les lois des bâtiments">    <img alt="Les lois des bâtiments" src="https://static.openedition.org/covers/OB/ifpo/6125/6125-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/6125" title="Les lois des bâtiments">Les lois des bâtiments</a></span></h1><h2 class="subtitle"><span style="font-size: x-small;">Voisinage et habitat urbain dans  l’Empire romain. Recherches sur les rapports entre le droit et la  construction privée du siècle d’Auguste au siècle de Justinien</span></h2><div class="author"><span style="font-size: x-small;"><b>        Catherine <span class="familyName">Saliou</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">1994</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></li><li class="odd inline-block">                                             <div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/3677" title="La Syrie antique et médiévale illustrée">    <img alt="La Syrie antique et médiévale illustrée" src="https://static.openedition.org/covers/OB/ifpo/3677/3677-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/3677" title="La Syrie antique et médiévale illustrée">La Syrie antique et médiévale illustrée</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        René <span class="familyName">Dussaud</span>, Paul <span class="familyName">Deschamp</span> et Henri <span class="familyName">Seyrig</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">1931</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></li><li class="even inline-block">                                             <div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/3692" title="Topographie historique de la Syrie antique et médiévale">    <img alt="Topographie historique de la Syrie antique et médiévale" src="https://static.openedition.org/covers/OB/ifpo/3692/3692-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/3692" title="Topographie historique de la Syrie antique et médiévale">Topographie historique de la Syrie antique et médiévale</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        René <span class="familyName">Dussaud</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">1927</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></li></ul></blockquote></div><blockquote></blockquote></div><blockquote><span style="font-size: x-small;">                           </span><span style="font-size: x-small;">            </span></blockquote></div><blockquote><span style="font-size: x-small;">                                             </span></blockquote><ul class="bookslist"><li class="even inline-block"><blockquote><div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/4812" title="Chypre sous les Lusignans : documents chypriotes des archives du Vatican (XIVe et XVe siècles)">    <img alt="Chypre sous les Lusignans : documents chypriotes des archives du Vatican (XIVe et XVe siècles)" src="http://static-origin.openedition.org/covers/OB/ifpo/4812/4812-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/4812" title="Chypre sous les Lusignans : documents chypriotes des archives du Vatican (XIVe et XVe siècles)">Chypre sous les Lusignans&nbsp;: documents chypriotes des archives du Vatican (XIV<sup>e</sup> et XV<sup>e</sup> siècles)</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        Jean <span class="familyName">Richard</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">1962</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></blockquote></li><li class="odd inline-block"><blockquote><div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/5151" title="Libanius et la vie municipale à Antioche au IVe siècle après J.-C.">    <img alt="Libanius et la vie municipale à Antioche au IVe siècle après J.-C." src="http://static-origin.openedition.org/covers/OB/ifpo/5151/5151-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/5151" title="Libanius et la vie municipale à Antioche au IVe siècle après J.-C.">Libanius et la vie municipale à Antioche au IV<sup>e</sup> siècle après J.-C.</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        Paul <span class="familyName">Petit</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">1955</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></blockquote></li><li class="even inline-block"><blockquote><div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/4334" title="Les campagnes de la Syrie du Nord">    <img alt="Les campagnes de la Syrie du Nord" src="http://static-origin.openedition.org/covers/OB/ifpo/4334/4334-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/4334" title="Les campagnes de la Syrie du Nord">Les campagnes de la Syrie du Nord</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        Georges <span class="familyName">Tate</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">1992</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></blockquote></li><li class="odd inline-block"><blockquote><div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/3712" title="Sidon et la Phénicie méridionale au Bronze récent">    <img alt="Sidon et la Phénicie méridionale au Bronze récent" src="http://static-origin.openedition.org/covers/OB/ifpo/3712/3712-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/3712" title="Sidon et la Phénicie méridionale au Bronze récent">Sidon et la Phénicie méridionale au Bronze récent</a></span></h1><h2 class="subtitle"><span style="font-size: x-small;">À propos des tombes de Dakerman</span></h2><div class="author"><span style="font-size: x-small;"><b>        Roger <span class="familyName">Saïdah</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">2004</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></blockquote></li><li class="even inline-block"><blockquote><div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/1053" title="Stratégies d'acquisition de l'eau et société au Moyen-Orient depuis l'Antiquité">    <img alt="Stratégies d'acquisition de l'eau et société au Moyen-Orient depuis l'Antiquité" src="http://static-origin.openedition.org/covers/OB/ifpo/1053/1053-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/1053" title="Stratégies d'acquisition de l'eau et société au Moyen-Orient depuis l'Antiquité">Stratégies d'acquisition de l'eau et société au Moyen-Orient depuis l'Antiquité</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        Mohamed <span class="familyName">Al-Dbiyat</span> et Michel <span class="familyName">Mouton</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">2009</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></blockquote></li><li class="odd inline-block"><blockquote><div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/1411" title="La Vie religieuse au Liban sous l'Empire romain">    <img alt="La Vie religieuse au Liban sous l'Empire romain" src="http://static-origin.openedition.org/covers/OB/ifpo/1411/1411-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/1411" title="La Vie religieuse au Liban sous l'Empire romain">La Vie religieuse au Liban sous l'Empire romain</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        Julien <span class="familyName">Aliquot</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">2009</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></blockquote></li><li class="even inline-block"><blockquote><div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/3763" title="Les notables de Palmyre">    <img alt="Les notables de Palmyre" src="http://static-origin.openedition.org/covers/OB/ifpo/3763/3763-172x245.jpg" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/3763" title="Les notables de Palmyre">Les notables de Palmyre</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        Jean-Baptiste <span class="familyName">Yon</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">2002</span></div><span style="font-size: x-small;"><span class="end">…</span></span>                </div></blockquote></li><li class="odd inline-block"><blockquote><span style="font-size: x-small;">                                             </span><br /><div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/3739" title="L’époque des premiers bourgs fortifiés">    <img alt="L’époque des premiers bourgs fortifiés" src="http://static-origin.openedition.org/covers/OB/ifpo/3739/3739-172x245.jpg" />    </a></span>    </div><span style="font-size: x-small;">                                 </span><br /><div class="description"><span style="font-size: x-small;">                                   </span><br /><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/ifpo/3739" title="L’époque des premiers bourgs fortifiés">L’époque des premiers bourgs fortifiés</a></span></h1><span style="font-size: x-small;">                                   </span><br /><h2 class="subtitle"><span style="font-size: x-small;">Pertinence de l’existence d’un processus d’urbanisation dans le Levant sud au troisième millénaire</span></h2><span style="font-size: x-small;">                                                                                               </span><br /><div class="author"><span style="font-size: x-small;"><b>        Christophe <span class="familyName">Nicolle</span>        </b></span>                </div><span style="font-size: x-small;">                                                               </span><br /><div class="editionyear"><span style="font-size: x-small;">1999</span></div><span style="font-size: x-small;">                                        <span class="end">…</span></span></div></blockquote><div style="text-align: center;"><span style="font-size: small;">&nbsp;<span style="font-weight: normal;"><span class="style3">And see AWOL's <a href="http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html">Alphabetical List of Open Access Monograph Series in Ancient Studies</a></span></span></span> </div></li></ul></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6665207399371968011/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6665207399371968011/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/03/open-access-monograph-series.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6665207399371968011"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6665207399371968011"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/03/open-access-monograph-series.html"
          title="Open Access Monograph Series: Bibliothèque archéologique et historique"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

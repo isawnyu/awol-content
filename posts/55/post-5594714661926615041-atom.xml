@@ -1,151 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5594714661926615041</id>
-    <published>2010-10-06T15:20:00.000-04:00</published>
-    <updated>2011-12-23T08:01:20.974-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5594714661926615041</id>
+   <published>2010-10-06T15:20:00.000-04:00</published>
+   <updated>2011-12-23T08:01:20.974-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal : Gallaecia</title>
-    <content type="html"><![CDATA[<a
-      href="http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&amp;clave_revista=611">Gallaecia</a><br
-      />ISSN: 0211-8653<br /><blockquote class="tr_bq"><img
-      alt="http://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&amp;tipo_contenido=93&amp;revista=611"
-      src="http://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&amp;tipo_contenido=93&amp;revista=611"
-      /> </blockquote><blockquote><span style="font-size: x-small;">Journal
-      table of contents</span><br /><table cellpadding="0"
-      cellspacing="0"><thead><tr><th><br /></th><th><br
-      /></th></tr></thead><tbody><tr class="primerAno"><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2010">2010</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      style="font-size: x-small;"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=249721">29</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2009">2009</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      style="font-size: x-small;"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=228859">28</a></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2008">2008</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a
-      class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=186223">27</a><sup>(*)</sup></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2007">2007</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a
-      class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=163511">26</a><sup>(*)</sup></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2006">2006</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a
-      class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=134608">25</a><sup>(*)</sup></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2005">2005</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a
-      class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=117432">24</a><sup>(*)</sup></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2004">2004</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a
-      class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=96323">23</a><sup>(*)</sup></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2003">2003</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a
-      class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=72263">22</a><sup>(*)</sup></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2002">2002</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a
-      class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=50839">21</a><sup>(*)</sup></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2001">2001</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a
-      class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=8574">20</a><sup>(*)</sup></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2000">2000</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a
-      class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=8573">19</a><sup>(*)</sup></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=1999">1999</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a
-      class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=8572">18</a><sup>(*)</sup></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=1998">1998</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a
-      class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=8571">17</a><sup>(*)</sup></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=1997">1997</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a
-      class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=78983">16</a><sup>(*)</sup></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=1996">1996</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a
-      class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=198653">14-15</a><sup>(*)</sup></span></li></ul></td></tr><tr><td
-      class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=1976">1976</a></span></td><td
-      class="volumenes"><ul class="volumenes"><li class="volumen"><span
-      style="font-size: x-small;"><a class="ejemplar"
-      href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=198665">2</a></span></li></ul></td></tr></tbody></table></blockquote><div
-      style="text-align: center;"><br /><a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div><div><br /><div
-      style="text-align: center;"><br /><a expr:id="data:post.url"
-      expr:name="data:post.title"
-      href="http://draft.blogger.com/post-create.g?blogID=116259103207720939"><img
-      alt="Bookmark and Share so Your Real Friends Know that You Know" height="16"
-      src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt none;" width="125"
-      /></a></div><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal : Gallaecia</title>
+   <content type="html"><![CDATA[<a href="http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&amp;clave_revista=611">Gallaecia</a><br />ISSN: 0211-8653<br /><blockquote class="tr_bq"><img alt="http://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&amp;tipo_contenido=93&amp;revista=611" src="http://dialnet.unirioja.es/recursos/imagen?entidad=REVISTA&amp;tipo_contenido=93&amp;revista=611" /> </blockquote><blockquote><span style="font-size: x-small;">Journal table of contents</span><br /><table cellpadding="0" cellspacing="0"><thead><tr><th><br /></th><th><br /></th></tr></thead><tbody><tr class="primerAno"><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2010">2010</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span style="font-size: x-small;"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=249721">29</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2009">2009</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span style="font-size: x-small;"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=228859">28</a></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2008">2008</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=186223">27</a><sup>(*)</sup></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2007">2007</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=163511">26</a><sup>(*)</sup></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2006">2006</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=134608">25</a><sup>(*)</sup></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2005">2005</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=117432">24</a><sup>(*)</sup></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2004">2004</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=96323">23</a><sup>(*)</sup></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2003">2003</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=72263">22</a><sup>(*)</sup></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2002">2002</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=50839">21</a><sup>(*)</sup></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2001">2001</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=8574">20</a><sup>(*)</sup></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=2000">2000</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=8573">19</a><sup>(*)</sup></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=1999">1999</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=8572">18</a><sup>(*)</sup></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=1998">1998</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=8571">17</a><sup>(*)</sup></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=1997">1997</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=78983">16</a><sup>(*)</sup></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=1996">1996</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span class="alojado" style="font-size: x-small;" title="Issue with full-text in Dialnet"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=198653">14-15</a><sup>(*)</sup></span></li></ul></td></tr><tr><td class="ano"><span style="font-size: x-small;"><a class="colorPersonalizable" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=ANUALIDAD&amp;revista_busqueda=611&amp;clave_busqueda=1976">1976</a></span></td><td class="volumenes"><ul class="volumenes"><li class="volumen"><span style="font-size: x-small;"><a class="ejemplar" href="http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=611&amp;clave_busqueda=198665">2</a></span></li></ul></td></tr></tbody></table></blockquote><div style="text-align: center;"><br /><a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></div><div><br /><div style="text-align: center;"><br /><a expr:id="data:post.url" expr:name="data:post.title" href="http://draft.blogger.com/post-create.g?blogID=116259103207720939"><img alt="Bookmark and Share so Your Real Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt none;" width="125" /></a></div><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5594714661926615041/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5594714661926615041/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5594714661926615041"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5594714661926615041"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html"
          title="Open Access Journal : Gallaecia"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,74 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3217552088290366863</id>
-    <published>2015-05-11T11:12:00.000-04:00</published>
-    <updated>2015-05-11T11:12:40.888-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3217552088290366863</id>
+   <published>2015-05-11T11:12:00.000-04:00</published>
+   <updated>2015-05-11T11:12:40.888-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Parthia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Iran"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="History"/>
-    <title type="text">Parthian Sources Online</title>
-    <content type="html"><![CDATA[<span class="site-name"><a class="navbar-brand"
-      href="http://parthiansources.com/" rel="home" title="Parthian Sources Online">Parthian
-      Sources Online</a></span><br /><blockquote class="tr_bq"><span
-      class="site-name"><a
-      href="http://parthiansources.com/wp-content/uploads/2014/07/Coin_of_Arsaces_I_of_Parthia.jpg"><img
-      alt="Coin of Arsaces I of Parthia with inscriptions in Greek and Parthian"
-      class="wp-image-1043" height="102"
-      src="http://parthiansources.com/wp-content/uploads/2014/07/Coin_of_Arsaces_I_of_Parthia.jpg"
-      width="200" /></a> </span></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;">This website is a digital collection
-      of texts from the Parthian empire, one of the biggest and longest-lasting empires of antiquity.
-      Under the kings of the Arsacid dynasty (c. 247 BCE to 224 CE), the Parthians ruled a kingdom
-      that stretched from central Asia in the east to the Euphrates river in the west. Their history
-      is a crucial part of the legacy of ancient Iran, though in many respects it is still poorly
-      understood.</span><br /><br /> <span style="font-size: x-small;">Some
-      of the texts here are in ancient Greek. Others are in Parthian, an Iranian language that
-      outlasted the Arsacid empire and remained in use even after the overthrow of the dynasty.
-      Coming soon are a few inscriptions in Latin composed by Parthians living in the territory of
-      the Roman empire.</span></blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><strong><a
-      href="http://parthiansources.com/site-introduction/">Site
-      Introduction</a></strong><br />If this is your first time using the site,
-      start here.</span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><strong><a
-      href="http://parthiansources.com/texts/">Texts</a></strong><br />A list of
-      all currently available sources.</span><br /><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;"><strong><a
-      href="http://parthiansources.com/bibliography/">Bibliography</a></strong><br
-      />Editions, grammars, and further reading.</span><br /><span
-      style="font-size: x-small;"></span><span style="font-size:
-      x-small;"><strong><a
-      href="http://parthiansources.com/about/">About</a></strong><br />Author
-      and acknowledgements.</span><br /></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="History"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Iran"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Parthia"/>
+   <title type="text">Parthian Sources Online</title>
+   <content type="html"><![CDATA[<span class="site-name"><a class="navbar-brand" href="http://parthiansources.com/" rel="home" title="Parthian Sources Online">Parthian Sources Online</a></span><br /><blockquote class="tr_bq"><span class="site-name"><a href="http://parthiansources.com/wp-content/uploads/2014/07/Coin_of_Arsaces_I_of_Parthia.jpg"><img alt="Coin of Arsaces I of Parthia with inscriptions in Greek and Parthian" class="wp-image-1043" height="102" src="http://parthiansources.com/wp-content/uploads/2014/07/Coin_of_Arsaces_I_of_Parthia.jpg" width="200" /></a> </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">This website is a digital collection of texts from the Parthian  empire, one of the biggest and longest-lasting empires of antiquity.  Under the kings of the Arsacid dynasty (c. 247 BCE to 224 CE), the  Parthians ruled a kingdom that stretched from central Asia in the east  to the Euphrates river in the west. Their history is a crucial part of  the legacy of ancient Iran, though in many respects it is still poorly  understood.</span><br /><br /> <span style="font-size: x-small;">Some of the texts here are in ancient Greek. Others are in Parthian,  an Iranian language that outlasted the Arsacid empire and remained in  use even after the overthrow of the dynasty. Coming soon are a few  inscriptions in Latin composed by Parthians living in the territory of  the Roman empire.</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><strong><a href="http://parthiansources.com/site-introduction/">Site Introduction</a></strong><br />If this is your first time using the site, start here.</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><strong><a href="http://parthiansources.com/texts/">Texts</a></strong><br />A list of all currently available sources.</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><strong><a href="http://parthiansources.com/bibliography/">Bibliography</a></strong><br />Editions, grammars, and further reading.</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><strong><a href="http://parthiansources.com/about/">About</a></strong><br />Author and acknowledgements.</span><br /></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3217552088290366863/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3217552088290366863/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/05/parthian-sources-online.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3217552088290366863"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3217552088290366863"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/05/parthian-sources-online.html"
          title="Parthian Sources Online"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5699787434078948791</id>
+   <published>2015-10-02T16:50:00.000-04:00</published>
+   <updated>2015-10-02T16:50:44.874-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <title type="text">GitClassics: Collaborate to Edit, Translate, and Publish New Latin Texts</title>
+   <content type="html"><![CDATA[<a href="http://gitclassics.github.io/">GitClassics: Collaborate to Edit, Translate, and Publish New Latin Texts</a><br /><section class="page-header">    </section><blockquote class="tr_bq"><h1><span style="font-size: x-small;"><em>Salve</em>! Welcome to GitClassics!</span></h1><h3><span style="font-size: x-small;"><a class="anchor" href="http://gitclassics.github.io/#gitclassics-is-a-collaborative-effort-to-edit-translate-and-publish-new-latin-texts-using-github" id="gitclassics-is-a-collaborative-effort-to-edit-translate-and-publish-new-latin-texts-using-github"><span class="octicon octicon-link"></span></a>GitClassics is a collaborative effort to edit, translate, and publish new Latin texts using GitHub.</span></h3><h3><span style="font-size: x-small;"><a class="anchor" href="http://gitclassics.github.io/#even-if-you-have-no-knowledge-of-latin-you-can-help-bring-these-forgotten-texts-back-to-life-with-a-pull-request" id="even-if-you-have-no-knowledge-of-latin-you-can-help-bring-these-forgotten-texts-back-to-life-with-a-pull-request"><span class="octicon octicon-link"></span></a>Even if you have no knowledge of Latin, you can help bring these forgotten texts back to life with a pull request.</span></h3><h2><span style="font-size: x-small;"><a class="anchor" href="http://gitclassics.github.io/#list-of-gitclassics-texts" id="list-of-gitclassics-texts"><span class="octicon octicon-link"></span></a>List of GitClassics Texts</span></h2><ul><li><span style="font-size: x-small;"><a href="http://gitclassics.github.io/PugnaPorcorum"><em>Pugna Porcorum</em></a> (1530) by Publius Porcius Poeta (Johannes Leo Placentius)</span></li><li><span style="font-size: x-small;">More Soon---Stay Tuned!</span></li></ul><hr /> <h2><span style="font-size: x-small;"><a class="anchor" href="http://gitclassics.github.io/#whats-this-all-about" id="whats-this-all-about"><span class="octicon octicon-link"></span></a>What's this all about?</span></h2><span style="font-size: x-small;">In short, there's a lot of weird, cool Latin out there, and we should read more of it.</span><br />  <span style="font-size: x-small;">On account of projects like Google Books and the Internet Archive,  there are literally tens of thousands of new Latin texts available on  the Internet. Many well-known texts from antiquity are available at <a href="http://www.perseus.tufts.edu/">The Perseus Project</a>, and even some medieval and early modern texts are available at <a href="http://www.thelatinlibrary.com/">The Latin Library</a>,  but there is still an enormous amount of Latin literature that is  available only as scanned images, not as plaintext. To get an idea of  the amount of material out there, take a look at the <a href="http://catalog.hathitrust.org/Search/Home?adv=1&amp;type%5B%5D=all&amp;lookfor%5B%5D=&amp;bool%5B%5D=AND&amp;type%5B%5D=author&amp;lookfor%5B%5D=&amp;bool%5B%5D=AND&amp;type%5B%5D=title&amp;lookfor%5B%5D=&amp;bool%5B%5D=AND&amp;type%5B%5D=subject&amp;lookfor%5B%5D=&amp;setft=true&amp;ft=ft&amp;yop=after&amp;fqrange-start-publishDateTrie-1=&amp;fqrange-end-publishDateTrie-1=&amp;fqor-publishDateTrie%5B%5D=&amp;fqor-language%5B%5D=Latin&amp;submit=Search">collection of Latin language texts available at HathiTrust</a>.</span><br />  <span style="font-size: x-small;">GitClassics aims to make some of these obscure Latin texts more  readily available by editing, translating, and publishing them on  GitHub.</span></blockquote><br /><br />]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/5699787434078948791/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/10/gitclassics-collaborate-to-edit.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5699787434078948791"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/5699787434078948791"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/10/gitclassics-collaborate-to-edit.html"
+         title="GitClassics: Collaborate to Edit, Translate, and Publish New Latin Texts"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

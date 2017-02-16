@@ -1,124 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4060120825464308819</id>
-    <published>2013-08-31T10:14:00.003-04:00</published>
-    <updated>2013-08-31T10:14:42.072-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4060120825464308819</id>
+   <published>2013-08-31T10:14:00.003-04:00</published>
+   <updated>2013-08-31T10:14:42.072-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: Retiarius: Archivum Recentioris Latinitatis</title>
-    <content type="html"><![CDATA[<a
-      href="http://mcl.as.uky.edu/retiarius-archivum-recentioris-latinitatis">Retiarius: Archivum
-      Recentioris Latinitatis</a> <br /><blockquote><div
-      class="tabs"></div><div class="field field-name-body field-type-text-with-summary
-      field-label-hidden"><div class="field-items"><div class="field-item
-      even"><span style="font-size: x-small;">Commentarii Periodici Latini quibus index
-      Retiarius ab anno 1998o&nbsp;usque ad annum 2001um&nbsp;per rete universale edebantur.
-      Cuius moderator fuit&nbsp;<b>Terentius Tunberg</b>&nbsp;(&nbsp;<a
-      href="mailto:clatot@uky.edu">clatot@uky.edu</a>&nbsp;).</span><br
-      /><span style="font-size: x-small;">Quae ex illis fasciculis supersunt, hac in pagina
-      interretiali invenies.</span><br /><h2><span style="font-size:
-      x-small;">Quartus Fasciculus (anni 2001i)</span></h2><h3><span
-      style="font-size: x-small;">Altera Pars</span></h3><ul><li><span
-      style="font-size: x-small;"><a href="http://mcl.as.uky.edu/psyche-cretica">Mythistoria
-      saec. septimo decimo a Ioanne Ludovico PRASCHIO composita, quae inscribitur PSYCHE
-      CRETICA</a>. Totam fabulam recognovit et edidit Marcus RILEY, cuius&nbsp;<a
-      href="http://mcl.as.uky.edu/johannes-ludovicus-praschi">PRAEFATIO</a>&nbsp;hic
-      legitur.</span></li></ul><h2><span style="font-size:
-      x-small;">Tertius Fasciculus (anni 2000i)</span></h2><h3><span
-      style="font-size: x-small;">Prima Pars</span></h3><ul><li><span
-      style="font-size: x-small;"><a href="http://mcl.as.uky.edu/saltant">Existimatio
-      Haicuum Collectorum, quibus titulus 'Tonight They all Dance' sive Hac Nocte Saltant</a>,
-      ab Accio WATANABEO composita.</span></li><li><span style="font-size:
-      x-small;"><a href="http://mcl.as.uky.edu/philogelotos">Specimina Facetiarum Hieroclis
-      et Philagrii Grammatici</a>&nbsp;ex editione M. Chii Parisiensi anni 1812 in Latinum
-      conversa ab Accio WATANABEO.</span></li></ul><h3><span
-      style="font-size: x-small;">Altera Pars</span></h3><ul><li><span
-      style="font-size: x-small;"><a href="http://mcl.as.uky.edu/argenis">Argenidis
-      mythistoriae</a>&nbsp;saeculo septimo decimo ab Ioanne Barclaio compositae, quam
-      edendam curavit Marcus RILEY, omnes libri hoc in fasciculo
-      exhibentur.</span></li></ul><h2><span style="font-size:
-      x-small;">Secundus Fasciculus (anni 1999i)</span></h2><h3><span
-      style="font-size: x-small;">Prima Pars</span></h3><ul><li><span
-      style="font-size: x-small;"><a href="http://mcl.as.uky.edu/haicua">Existimationes
-      Haicuum Latinorum</a>&nbsp;quas scripsit Accius
-      WATANABEUS.</span></li></ul><h3><span style="font-size:
-      x-small;">Altera Pars</span></h3><ul><li><span style="font-size:
-      x-small;"><a href="http://mcl.as.uky.edu/schall">De Adami Schall Historica Narratione:
-      Quo Modo Sinae Sint Latinae Factae</a>, commentatio quam scripsit David
-      MORGAN.</span></li><li><span style="font-size: x-small;"><a
-      href="http://mcl.as.uky.edu/titanica">De Titanicae navis interitu sive de poetis Latinis qui
-      naufragium illud luctuosum cecinerunt</a>, commentatio quam scripsit Theodoricus
-      SACRÃ‰.</span></li></ul><h2><span style="font-size:
-      x-small;">Primus Fasciculus (anni 1998i)</span></h2><h3><span
-      style="font-size: x-small;">Prima Pars</span></h3><ul><li><span
-      style="font-size: x-small;"><a
-      href="http://mcl.as.uky.edu/tabacum-et-diabolus">Tabacum et
-      Diabolus.</a>&nbsp;Fabella Iaponica a Riunosuke Akutagawa conscripta, quam Latine
-      reddidit Accius WATANABEUS.</span></li></ul><h3><span
-      style="font-size: x-small;">Altera Pars</span></h3><ul><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;">Iani Nicii Erythraei&nbsp;Eudemiae&nbsp;Libri decem. Mythistoriae
-      neolatinae saec. septimo decimo compositae textus integer, quem transcripsit Lina
-      IJSEWIJN-JACOBS. Annotationes addidit Josephus IJSEWIJN. </span><ul><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;"><a
-      href="http://mcl.as.uky.edu/praefationem-composuit-terentius-tunberg">Praefationem composuit
-      Terentius TUNBERG.</a></span></li><span style="font-size:
-      x-small;"></span><li><span style="font-size: x-small;"><a
-      href="http://mcl.as.uky.edu/liber-i">Liber I</a></span></li><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;"><a href="http://mcl.as.uky.edu/liber-ii-iv">Libri
-      II-IV</a></span></li><span style="font-size:
-      x-small;"></span><li><span style="font-size: x-small;"><a
-      href="http://mcl.as.uky.edu/liber-v">Liber V</a></span></li><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;"><a href="http://mcl.as.uky.edu/liber-vi">Liber
-      VI</a></span></li><span style="font-size:
-      x-small;"></span><li><span style="font-size: x-small;"><a
-      href="http://mcl.as.uky.edu/liber-vii">Liber VII</a></span></li><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;"><a href="http://mcl.as.uky.edu/liber-viii">Liber
-      VIII</a></span></li><span style="font-size:
-      x-small;"></span><li><span style="font-size: x-small;"><a
-      href="http://mcl.as.uky.edu/liber-ix">Liber IX</a></span></li><span
-      style="font-size: x-small;"></span><li><span style="font-size:
-      x-small;"><a href="http://mcl.as.uky.edu/liber-ix2">Liber
-      IX.2</a></span></li><span style="font-size:
-      x-small;"></span><li><span style="font-size: x-small;"><a
-      href="http://mcl.as.uky.edu/liber-x">Liber X</a></span>
-      </li></ul></li></ul></div></div></div></blockquote><div
-      style="text-align: center;"><span style="font-size: small;"><span><span
-      style="font-family: inherit;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: Retiarius: Archivum Recentioris Latinitatis</title>
+   <content type="html"><![CDATA[<a href="http://mcl.as.uky.edu/retiarius-archivum-recentioris-latinitatis">Retiarius: Archivum Recentioris Latinitatis</a>        <br /><blockquote><div class="tabs"></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><span style="font-size: x-small;">Commentarii  Periodici Latini quibus index Retiarius ab anno 1998o&nbsp;usque ad annum  2001um&nbsp;per rete universale edebantur. Cuius moderator fuit&nbsp;<b>Terentius Tunberg</b>&nbsp;(&nbsp;<a href="mailto:clatot@uky.edu">clatot@uky.edu</a>&nbsp;).</span><br /><span style="font-size: x-small;">Quae ex illis fasciculis supersunt, hac in pagina interretiali invenies.</span><br /><h2><span style="font-size: x-small;">Quartus Fasciculus (anni 2001i)</span></h2><h3><span style="font-size: x-small;">Altera Pars</span></h3><ul><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/psyche-cretica">Mythistoria saec. septimo decimo a Ioanne Ludovico PRASCHIO composita, quae inscribitur PSYCHE CRETICA</a>. Totam fabulam recognovit et edidit Marcus RILEY, cuius&nbsp;<a href="http://mcl.as.uky.edu/johannes-ludovicus-praschi">PRAEFATIO</a>&nbsp;hic legitur.</span></li></ul><h2><span style="font-size: x-small;">Tertius Fasciculus (anni 2000i)</span></h2><h3><span style="font-size: x-small;">Prima Pars</span></h3><ul><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/saltant">Existimatio Haicuum Collectorum, quibus titulus 'Tonight They all Dance' sive Hac Nocte Saltant</a>, ab Accio WATANABEO composita.</span></li><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/philogelotos">Specimina Facetiarum Hieroclis et Philagrii Grammatici</a>&nbsp;ex editione M. Chii Parisiensi anni 1812 in Latinum conversa ab Accio WATANABEO.</span></li></ul><h3><span style="font-size: x-small;">Altera Pars</span></h3><ul><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/argenis">Argenidis mythistoriae</a>&nbsp;saeculo  septimo decimo ab Ioanne Barclaio compositae, quam edendam curavit  Marcus RILEY, omnes libri hoc in fasciculo exhibentur.</span></li></ul><h2><span style="font-size: x-small;">Secundus Fasciculus (anni 1999i)</span></h2><h3><span style="font-size: x-small;">Prima Pars</span></h3><ul><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/haicua">Existimationes Haicuum Latinorum</a>&nbsp;quas scripsit Accius WATANABEUS.</span></li></ul><h3><span style="font-size: x-small;">Altera Pars</span></h3><ul><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/schall">De Adami Schall Historica Narratione: Quo Modo Sinae Sint Latinae Factae</a>, commentatio quam scripsit David MORGAN.</span></li><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/titanica">De Titanicae navis interitu sive de poetis Latinis qui naufragium illud luctuosum cecinerunt</a>, commentatio quam scripsit Theodoricus SACRÃ‰.</span></li></ul><h2><span style="font-size: x-small;">Primus Fasciculus (anni 1998i)</span></h2><h3><span style="font-size: x-small;">Prima Pars</span></h3><ul><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/tabacum-et-diabolus">Tabacum et Diabolus.</a>&nbsp;Fabella Iaponica a Riunosuke Akutagawa conscripta, quam Latine reddidit Accius WATANABEUS.</span></li></ul><h3><span style="font-size: x-small;">Altera Pars</span></h3><ul><span style="font-size: x-small;"></span><li><span style="font-size: x-small;">Iani Nicii Erythraei&nbsp;Eudemiae&nbsp;Libri decem. Mythistoriae  neolatinae saec. septimo decimo compositae textus integer, quem  transcripsit Lina IJSEWIJN-JACOBS. Annotationes addidit Josephus  IJSEWIJN. </span><ul><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/praefationem-composuit-terentius-tunberg">Praefationem composuit Terentius TUNBERG.</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/liber-i">Liber I</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/liber-ii-iv">Libri II-IV</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/liber-v">Liber V</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/liber-vi">Liber VI</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/liber-vii">Liber VII</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/liber-viii">Liber VIII</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/liber-ix">Liber IX</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/liber-ix2">Liber IX.2</a></span></li><span style="font-size: x-small;"></span><li><span style="font-size: x-small;"><a href="http://mcl.as.uky.edu/liber-x">Liber X</a></span> </li></ul></li></ul></div></div></div></blockquote><div style="text-align: center;"><span style="font-size: small;"><span><span style="font-family: inherit;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4060120825464308819/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4060120825464308819/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/08/open-access-journal-retiarius-archivum.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4060120825464308819"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4060120825464308819"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/08/open-access-journal-retiarius-archivum.html"
          title="Open Access Journal: Retiarius: Archivum Recentioris Latinitatis"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

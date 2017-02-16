@@ -1,64 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2855098607772302889</id>
-    <published>2015-02-25T15:21:00.002-05:00</published>
-    <updated>2015-03-29T15:14:34.140-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2855098607772302889</id>
+   <published>2016-06-06T07:56:00.000-04:00</published>
+   <updated>2016-06-06T07:56:30.306-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Chronology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Time"/>
-    <title type="text">PeriodO: A gazetteer of period assertions for linking and visualizing
-      data</title>
-    <content type="html"><![CDATA[<div style="text-align: left;"><span style="font-size:
-      small;"></span><a href="http://perio.do/">PeriodO: A gazetteer of period
-      assertions for linking and visualizing data</a></div><blockquote
-      class="tr_bq"><h1><span style="font-size: x-small;"><img alt="PeriodO"
-      class="logo" src="http://perio.do/images/logo.svg" height="47" width="200" /></span>
-      </h1></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">The PeriodO project is creating a gazetteer of scholarly assertions about the
-      spatial and temporal extents of historical, art-historical, and archaeological periods. This
-      gazetteer will ease the task of linking among datasets that define periods differently. It will
-      also help scholars and students see where period definitions overlap or diverge. In the long
-      term, it may also help researchers to assign temporal coordinates to documents that use
-      undefined period terms.</span><br /><br /><br /><br /><nav
-      class="pure-menu pure-menu-open pure-menu-horizontal"> <ul
-      class="internal-links"><li class="pure-menu-selected"><span style="font-size:
-      x-small;"><a
-      href="http://perio.do/">Home</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://perio.do/narrative/">Narrative</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://perio.do/specs/">Specifications</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://perio.do/contact/">Contact</a></span></li></ul></nav>
-      <br /><h1> </h1></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Time"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Chronology"/>
+   <title type="text">PeriodO: A gazetteer of period definitions for linking and visualizing data</title>
+   <content type="html"><![CDATA[<div style="text-align: left;"><span style="font-size: small;"></span><a href="http://perio.do/">PeriodO: A gazetteer of period assertions for linking and visualizing data</a></div><blockquote class="tr_bq"><h1><span style="font-size: x-small;"><img alt="PeriodO" class="logo" src="http://perio.do/images/logo.svg" height="47" width="200" /></span>           </h1></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">PeriodO is a gazetteer of scholarly definitions of historical,  art-historical, and archaeological periods. It eases the task of linking  among datasets that define periods differently. It also helps scholars  and students see where period definitions overlap or diverge.</span></blockquote><blockquote class="tr_bq">    <span style="font-size: x-small;">The <a href="http://n2t.net/ark:/99152/p0">PeriodO client</a> is  an application that runs in your browser. It can be used to browse and  edit any dataset that conforms to the PeriodO data model. But most  people are probably interested in looking at the <em>canonical</em> dataset curated by the PeriodO project.</span><br /> <span style="font-size: x-small;">When you first load the client, you are prompted to select a <em>backend</em>. A backend is simply a location from which the client will load data. The client supports three kinds of backends:</span><br /> <ul><li><span style="font-size: x-small;">A <em>web</em> backend loads data from a specified URL. Data loaded from a web backend can only be browsed, not edited.</span></li><li><span style="font-size: x-small;">A <em>file</em> backend loads data from a local file. Data loaded from a file backend is also browse-only.</span></li><li><span style="font-size: x-small;">An <em>IndexedDB</em> backend loads data from a <a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API">local database</a> running in your browser. Data in an IndexedDB backend can be edited as  well as browsed. (Note that Safari does not yet have full support for  IndexedDB.)</span></li></ul><span style="font-size: x-small;"> </span></blockquote><blockquote class="tr_bq"><nav class="pure-menu pure-menu-open pure-menu-horizontal"><span style="font-size: x-small;">        </span><ul class="internal-links"><li class="pure-menu-item pure-menu-selected"><span style="font-size: x-small;"><a class="pure-menu-link" href="http://perio.do/">Download</a></span></li><li class="pure-menu-item"><span style="font-size: x-small;"><a class="pure-menu-link" href="http://perio.do/guide/">Guide</a></span></li><li class="pure-menu-item"><span style="font-size: x-small;"><a class="pure-menu-link" href="http://perio.do/motivation/">Motivation</a></span></li><li class="pure-menu-item"><span style="font-size: x-small;"><a class="pure-menu-link" href="http://perio.do/technical-overview/">Technical overview</a></span></li><li class="pure-menu-item"><span style="font-size: x-small;"><a class="pure-menu-link" href="http://perio.do/data-model/">Data model</a></span></li><li class="pure-menu-item"><span style="font-size: x-small;"><a class="pure-menu-link" href="http://perio.do/publications/">Publications</a></span></li><li class="pure-menu-item"><span style="font-size: x-small;"><a class="pure-menu-link" href="http://perio.do/contact/">Contact</a></span></li></ul><span style="font-size: x-small;">         </span><ul class="pure-menu-list external-links"><li class="pure-menu-item"><span style="font-size: x-small;"><a class="pure-menu-link" href="https://twitter.com/perio_do"> <img alt="PeriodO tweeter account" class="mark" src="http://perio.do/images/tweeter-mark.svg" />   </a></span></li><li class="pure-menu-item"><span style="font-size: x-small;"><a class="pure-menu-link" href="https://github.com/periodo"> <img alt="PeriodO repositories at GitHub" class="mark" src="http://perio.do/images/github-mark.svg" /></a></span></li></ul><ul class="internal-links"></ul></nav>                <br /><h1> </h1></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2855098607772302889/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2855098607772302889/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/02/periodo-gazetteer-of-period-assertions.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2855098607772302889"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2855098607772302889"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/02/periodo-gazetteer-of-period-assertions.html"
-         title="PeriodO: A gazetteer of period assertions for linking and visualizing data"/>
-    <author>
+         title="PeriodO: A gazetteer of period definitions for linking and visualizing data"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

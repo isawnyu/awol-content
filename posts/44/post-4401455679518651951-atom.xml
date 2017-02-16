@@ -1,107 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4401455679518651951</id>
-    <published>2011-11-22T06:30:00.001-05:00</published>
-    <updated>2012-11-05T10:00:18.617-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4401455679518651951</id>
+   <published>2011-11-22T06:30:00.001-05:00</published>
+   <updated>2016-09-14T17:05:49.469-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: ADORANTEN</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 27
-      July 2009. Updated 4 November 201<span style="font-size:
-      xx-small;">2</span>]</span><br /><br /><a
-      href="http://www.ssfpa.se/uk/adoranten.html">Adoraten</a><br />ISSN
-      0349-8808<br /><br /><div style="text-align: center;"><img
-      alt="http://www.ssfpa.se/menu/lillehest.gif" src="http://www.ssfpa.se/menu/lillehest.gif" />
-      </div><br /><span style="font-size: 85%;"></span><br
-      /><blockquote><span style="font-size: x-small;">ADORANTEN, an international
-      magazine mainly concerned with rock carvings - recent research, interpretations, the history of
-      religion, descriptions of rock carving localities around the world and literary reviews - but
-      it also containes articles on any prehistoric subject which can be related to the field of rock
-      carvings.&nbsp;</span></blockquote><blockquote><span style="font-size:
-      x-small;"> The articles are in various languages, mainly English, German, Norwegian, Swedish
-      and Danish.</span><br /><table border="0" cellpadding="0" cellspacing="0"
-      class="billeder"><tbody><tr><td align="left" width="34%"><table
-      border="0" cellpadding="0" cellspacing="0" class="billeder" style="width:
-      100%px;"><tbody><tr><td align="left" width="34%"><a
-      href="http://www.ssfpa.se/uk/artiklar2011.html"><img alt="adoranten 2011"
-      src="http://www.ssfpa.se/images/adoranten2011.jpg" width="100" /></a><br
-      /><span>Articles 2011</span><br /><br /></td><td
-      align="left" width="33%"><a href="http://www.ssfpa.se/uk/artiklar2010.html"><img
-      alt="adoranten 2010" src="http://www.ssfpa.se/images/adoranten2010.jpg" width="100"
-      /></a><br /><span>Articles 2010</span><br /><br
-      /></td><td align="left" width="33%"><a
-      href="http://www.ssfpa.se/uk/artiklar2009.html"><img alt="adoranten 2009"
-      src="http://www.ssfpa.se/images/artiklar2009.gif" width="100" /></a><br
-      /><span>Articles 2009</span><br /><br /></td>
-      </tr><tr><td align="left" width="33%"><a
-      href="http://www.ssfpa.se/uk/artiklar2008.html"><img alt="adoranten 2008"
-      src="http://www.ssfpa.se/images/artikler2008.gif" width="100" /></a><br
-      /><span>Articles 2008</span><br /><br /></td><td
-      align="left" width="34%"><a href="http://www.ssfpa.se/uk/artiklar2007.html"><img
-      alt="adoranten 2007" src="http://www.ssfpa.se/images/artikler2007.gif" width="100"
-      /></a><br /><span>Articles 2007</span><br /><br
-      /></td><td align="left" width="33%"><a
-      href="http://www.ssfpa.se/uk/artiklar2006.html"><img alt="adoranten 2006"
-      src="http://www.ssfpa.se/images/artikler2006.gif" width="100" /></a><br
-      /><span>Articles 2006</span><br /><br
-      /></td></tr><tr><td align="left" width="33%"><a
-      href="http://www.ssfpa.se/uk/artiklar2005.html"><img alt="adoranten 2005"
-      src="http://www.ssfpa.se/images/artikler2005.gif" width="100" /></a><br
-      /><span>Articles 2005</span><br /><br /></td><td
-      align="left" width="33%"><a href="http://www.ssfpa.se/uk/artiklar2004.html"><img
-      alt="adoranten 2004" src="http://www.ssfpa.se/images/artiklar2004.gif" width="100"
-      /></a><br /><span>Articles 2004</span><br /><br
-      /></td><td align="left" width="34%"><a
-      href="http://www.ssfpa.se/uk/artiklar2003.html"><img alt="adoranten 2003"
-      src="http://www.ssfpa.se/images/artiklar2003.gif" width="100" /></a><br
-      /><span>Articles 2003</span><br /><br
-      /></td></tr><tr><td align="left" width="33%"><a
-      href="http://www.ssfpa.se/uk/artiklar2002.html"><img alt="adoranten 2002"
-      src="http://www.ssfpa.se/images/artiklar2002.gif" width="100" /></a><br
-      /><span>Articles 2002</span><br /><br /></td><td
-      align="left" width="33%"><br
-      /></td></tr></tbody></table></td><td align="left"
-      width="33%"><br /></td><td align="left" width="33%"><br
-      /></td></tr><tr><td align="left" width="33%"><br
-      /></td><td align="left" width="34%"><br /></td><td align="left"
-      width="33%"><br /></td></tr><tr><td align="left"
-      width="33%"><br /></td><td align="left" width="33%"><br
-      /></td><td align="left" width="34%"><br
-      /></td></tr></tbody></table></blockquote><div
-      style="text-align: center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div><br /><span
-      style="font-size: 85%;"></span>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal:  ADORANTEN</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 27 July 2009. Updated 13 September 2016]</span><br /><br /><a href="http://www.ssfpa.se/uk/adoranten.html">Adoranten</a><br />ISSN 0349-8808<br /><blockquote class="tr_bq"><div style="text-align: left;"><img src="http://www.rockartscandinavia.com/images/title_adoranten.jpg" height="79" width="200" /></div></blockquote><span style="font-size: 85%;"></span><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Adoranten is an international peer reviewed rock art magazine and has been published annually since 1970.</span><br /><span style="font-size: x-small;"><br />The magazine is published in 26 countries to museums, universities,  archaeologists and members of the Scandinavian Society for Prehistoric  Art. Read more about how to become a member here.</span><br /><span style="font-size: x-small;"><br />Adoranten focuses on the presentation of world wide prehistoric  iconography, recent research, history of religion as well as excavations  and archaeological context , which can be related to prehistoric  pictures.<br /><br />Some of the articles from Adoranten can also be read online by utilizing the links below or via the Articles section.</span></blockquote><blockquote><a href="http://www.rockartscandinavia.com/articles.php?cat_id=23" target="_self"><span style="font-size: x-small;"><img alt="Adoranten 2015" height="225" src="http://www.rockartscandinavia.com/images/articles/a15forside.jpg" style="margin: 5px;" /></span><br />Adoranten<br />2015</a><br /><br /><br /><table style="width: 100%px;"><tbody><tr><td><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://www.rockartscandinavia.com/articles.php?cat_id=21" target="_self"><img alt="Adoranten 2014" height="225" src="http://www.rockartscandinavia.com/images/articles/a14forside.jpg" style="margin: 5px;" /><br />Adoranten<br />2014</a><br /></span></td><td><span style="font-size: x-small;"><a href="http://www.rockartscandinavia.com/articles.php?cat_id=20" target="_self"><img alt="Adoranten 2013" height="225" src="http://www.rockartscandinavia.com/images/articles/a13forside.gif" style="margin: 5px;" /><br />Adoranten<br />2013</a><br /></span></td></tr><tr><td><span style="font-size: x-small;"><a href="http://www.rockartscandinavia.com/articles.php?cat_id=13" target="_self"><img alt="Adoranten 2012" height="225" src="http://www.rockartscandinavia.com/images/articles/a12forside.jpg" style="margin: 5px;" /><br />Adoranten<br />2012</a><br /></span></td><td><span style="font-size: x-small;"><a href="http://www.rockartscandinavia.com/articles.php?cat_id=2" target="_self"><img alt="Adoranten 2011" src="http://www.rockartscandinavia.com/images/articles/adoranten2011.gif" style="margin: 5px;" /><br />Adoranten<br />2011</a><br /></span></td><td><span style="font-size: x-small;"><a href="http://www.rockartscandinavia.com/articles.php?cat_id=3" target="_self"><img alt="Adoranten 2010" src="http://www.rockartscandinavia.com/images/articles/adoranten2010.gif" style="margin: 5px;" /><br />Adoranten<br />2010</a><br /></span></td></tr><tr><td><span style="font-size: x-small;"><a href="http://www.rockartscandinavia.com/articles.php?cat_id=4" target="_self"><img alt="Adoranten 2009" src="http://www.rockartscandinavia.com/images/articles/adoranten2009.gif" style="margin: 5px;" /><br />Adoranten<br />2009</a><br /></span></td><td><span style="font-size: x-small;"><a href="http://www.rockartscandinavia.com/articles.php?cat_id=5" target="_self"><img alt="Adoranten 2008" src="http://www.rockartscandinavia.com/images/articles/adoranten2008.gif" style="margin: 5px;" /><br />Adoranten<br />2008</a><br /></span></td><td><span style="font-size: x-small;"><a href="http://www.rockartscandinavia.com/articles.php?cat_id=6" target="_self"><img alt="Adoranten 2007" src="http://www.rockartscandinavia.com/images/articles/adoranten2007.gif" style="margin: 5px;" /><br />Adoranten<br />2007</a><br /></span></td></tr><tr><td><span style="font-size: x-small;"><a href="http://www.rockartscandinavia.com/articles.php?cat_id=7" target="_self"><img alt="Adoranten 2006" src="http://www.rockartscandinavia.com/images/articles/adoranten2006.gif" style="margin: 5px;" /><br />Adoranten<br />2006</a><br /></span></td><td><span style="font-size: x-small;"><a href="http://www.rockartscandinavia.com/articles.php?cat_id=8" target="_self"><img alt="Adoranten 2005" src="http://www.rockartscandinavia.com/images/articles/adoranten2005.gif" style="margin: 5px;" /><br />Adoranten<br />2005</a><br /></span></td><td><span style="font-size: x-small;"><a href="http://www.rockartscandinavia.com/articles.php?cat_id=9" target="_self"><img alt="Adoranten 2004" src="http://www.rockartscandinavia.com/images/articles/adoranten2004.gif" style="margin: 5px;" /><br />Adoranten<br />2004</a><br /></span></td></tr><tr><td><span style="font-size: x-small;"><a href="http://www.rockartscandinavia.com/articles.php?cat_id=10" target="_self"><img alt="Adoranten 2003" src="http://www.rockartscandinavia.com/images/articles/adoranten2003.gif" style="margin: 5px;" /><br />Adoranten<br />2003</a></span></td></tr></tbody></table></blockquote><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: small;"><span>S</span><span><span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></div></div><br /><span style="font-size: 85%;"></span>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4401455679518651951/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4401455679518651951/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/07/open-access-journal-adoranten.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4401455679518651951"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4401455679518651951"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/07/open-access-journal-adoranten.html"
          title="Open Access Journal:  ADORANTEN"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

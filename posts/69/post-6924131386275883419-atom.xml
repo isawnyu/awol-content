@@ -1,84 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6924131386275883419</id>
-    <published>2013-07-17T00:45:00.000-04:00</published>
-    <updated>2013-07-17T12:03:06.549-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6924131386275883419</id>
+   <published>2015-07-23T10:49:00.000-04:00</published>
+   <updated>2015-07-23T10:50:04.294-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
-    <title type="text">New Open Access Journal: Newsletter Archeologia</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.unior.it/index2.php?content_id=3632&amp;content_id_start=1">Newsletter
-      Archeologia</a><br />ISSN 2036-6353<br /><blockquote
-      class="tr_bq"><div style="text-align: left;"><a
-      href="http://www.unior.it/img_db/img_21-05-2009_4a15a62ae0004.jpg" target="_blank"><img
-      height="320" src="http://www.unior.it/img_db/img_21-05-2009_4a15a62ae0004.jpg" vspace="0"
-      width="238" /></a></div></blockquote><blockquote><div
-      class="MsoNormal" style="margin: 0cm 0cm 0pt;"><span style="font-size:
-      x-small;"><i><span style="font-family: Arial;">Bruno
-      Genito</span></i><span style="font-family:
-      Arial;"></span></span></div><div class="MsoNormal" style="margin: 0cm
-      0cm 0pt;"><span style="font-size: x-small;"><span style="font-family:
-      Arial;">Editor in chief</span></span></div><div class="MsoNormal"
-      style="margin: 0cm 0cm 0pt;"><br /></div><div class="MsoNormal"
-      style="margin: 0cm 0cm 0pt;"><span style="font-size: x-small;"><span
-      style="font-family: Arial;"></span><span style="font-family:
-      Arial;"></span></span></div><span style="font-size: x-small;">La
-      <i>Newsletter Archeologia</i> è una rivista online ideata con lo scopo di
-      presentare anno per anno le attività più significative della tradizione di studi archeologici
-      della nostra Università, dall’ Africa (Libia, Egitto, Etiopia), all’Arabia (Yemen e Arabia
-      Saudita), dal Mediterraneo (Grecia, Italia – Campania, Molise, Puglia) alla Cina (Henan,
-      Xinijang) passando per l’Asia Media e Centrale (Iran,
-      Uzbekistan).&nbsp;Di&nbsp;frequente&nbsp;gli articoli assumono un carattere
-      interdisciplinare&nbsp;ed includono ricerche in archeologia (survey e scavi),
-      paleoetnobotanica, palinologia, archeozoologia, geologia, geomorfologia, geoarcheologia,
-      etnoarcheologia e etnostoria così come analisi cartografiche, GIS e
-      telerilevamento.&nbsp;Lo scopo è quello di fornire una breve sintesi sui problemi
-      affrontati&nbsp;ed i risultati finora
-      raggiunti.</span></blockquote><blockquote
-      class="tr_bq"><ul><li><a
-      href="http://www.unior.it/index2.php?content_id=8113&amp;content_id_start=1" title="Volume
-      0, anno 2009">Volume 0, anno 2009</a></li><li><a
-      href="http://www.unior.it/index2.php?content_id=8114&amp;content_id_start=1" title="Volume
-      1, anno 2010">Volume 1, anno 2010</a></li><li><a
-      href="http://www.unior.it/index2.php?content_id=8115&amp;content_id_start=1" title="Volume
-      2, anno 2011">Volume 2, anno 2011</a></li><li><a
-      href="http://www.unior.it/index2.php?content_id=8112&amp;content_id_start=1" title="Volume
-      3, anno 2012">Volume 3, anno 2012</a></li><li><a
-      href="http://www.unior.it/index2.php?content_id=8917&amp;content_id_start=1" title="Volume
-      4, anno 2013">Volume 4, anno 2013</a></li></ul></blockquote><br
-      /><div style="text-align: center;"><span style="font-size:
-      small;"><span>See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Italy"/>
+   <title type="text">Open Access Journal: Newsletter Archeologia CISA</title>
+   <content type="html"><![CDATA[<a href="http://www.unior.it/index2.php?content_id=3632&amp;content_id_start=1">Newsletter Archeologia CISA</a><br />ISSN:  2036-6353<br /><blockquote><div class="MsoNormal" style="margin: 0cm 0cm 0pt;"><span style="font-size: x-small;"><span style="font-family: Arial;"></span><span style="font-family: Arial;"></span></span></div><span style="font-size: x-small;">La <i>Newsletter Archeologia</i> è una rivista online ideata con lo scopo di presentare anno per anno le  attività più significative della tradizione di studi archeologici della  nostra Università, dall’ Africa (Libia, Egitto, Etiopia), all’Arabia  (Yemen e Arabia Saudita), dal Mediterraneo (Grecia, Italia – Campania,  Molise, Puglia) alla Cina (Henan, Xinijang) passando per l’Asia Media e  Centrale (Iran, Uzbekistan).&nbsp;Di&nbsp;frequente&nbsp;gli articoli assumono  un carattere interdisciplinare&nbsp;ed includono ricerche in archeologia  (survey e scavi), paleoetnobotanica, palinologia, archeozoologia,  geologia, geomorfologia, geoarcheologia, etnoarcheologia e etnostoria  così come analisi cartografiche, GIS e telerilevamento.&nbsp;Lo scopo è  quello di fornire una breve sintesi sui problemi affrontati&nbsp;ed i  risultati finora raggiunti.</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Il Centro Interdipartimentale di Servizi per l’Archeologia (CISA) fu <a href="http://www.unior.it/userfiles/workarea_231/STATUTO%281%29.pdf" target="_blank">fondato </a>nel  1992 presso l’Università degli Studi di Napoli "L’Orientale"  (precedentemente Istituto Universitario Orientale, di Napoli) per  fornire agli archeologi dell’Università diverse facilitazioni e  strumenti di ricerca, come una cartografia archeologica computerizzata  multimediale, database e sistemi di classificazione e registrazione dei  ritrovamenti archeologici. La ricerca archeologica presso l’UNO è  condotta da specialisti del Dipartimento di Studi Classici, di Studi  Asiatici e di Studi e Ricerche su Africa e Paesi Arabi che lavorano in  collaborazione con altri centri accademici e scientifici italiani,  europei, orientali ed africani.</span> </blockquote><blockquote class="tr_bq"><ul><li><span style="font-size: x-small;"><a href="http://www.unior.it/ateneo/8113/1/volume-0-anno-2009.html" title="Volume 0, anno 2009">Volume 0, anno 2009</a></span></li><li><span style="font-size: x-small;"><a href="http://www.unior.it/ateneo/8114/1/volume-1-anno-2010.html" title="Volume 1, anno 2010">Volume 1, anno 2010</a></span></li><li><span style="font-size: x-small;"><a href="http://www.unior.it/ateneo/8115/1/volume-2-anno-2011.html" title="Volume 2, anno 2011">Volume 2, anno 2011</a></span></li><li><span style="font-size: x-small;"><a href="http://www.unior.it/ateneo/8112/1/volume-3-anno-2012.html" title="Volume 3, anno  2012">Volume 3, anno  2012</a></span></li><li><span style="font-size: x-small;"><a href="http://www.unior.it/ateneo/8917/1/volume-4-anno-2013.html" title="Volume 4, anno 2013">Volume 4, anno 2013</a></span></li><li><span style="font-size: x-small;"><a href="http://www.unior.it/ateneo/11491/1/volume-5-anno-2014.html" title="Volume 5, anno 2014">Volume 5, anno 2014</a></span></li></ul></blockquote><div style="text-align: center;"><span style="font-size: small;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6924131386275883419/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6924131386275883419/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/09/new-open-access-journal-newsletter.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6924131386275883419"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6924131386275883419"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/09/new-open-access-journal-newsletter.html"
-         title="New Open Access Journal: Newsletter Archeologia"/>
-    <author>
+         title="Open Access Journal: Newsletter Archeologia CISA"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

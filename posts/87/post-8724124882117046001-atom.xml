@@ -1,170 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8724124882117046001</id>
-    <published>2013-10-24T09:58:00.001-04:00</published>
-    <updated>2013-10-24T09:58:26.837-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8724124882117046001</id>
+   <published>2013-10-24T09:58:00.001-04:00</published>
+   <updated>2013-10-24T09:58:26.837-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: Publications of the Field Museum of Natural History.
-      Anthropological Series</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.jstor.org/action/showPublication?journalCode=pubfmnhanthroser">Publications
-      of the Field Museum of Natural History. Anthropological Series</a><br />[1912-1922
-      at JSTOR]<br />ISSN: 0894-8380 <br /><blockquote
-      class="tr_bq">&nbsp;<span style="font-size: x-small;">1922 (Vol. 14)
-      </span><br /><ul><li> <div class="cite"><div class="subCite
-      tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>
-      </div><span class="vrtM" style="font-size: x-small;"><a
-      href="http://www.jstor.org/stable/i29782147">No. 2, THE TINGUIAN: SOCIAL, RELIGIOUS, AND
-      ECONOMIC LIFE OF A PHILIPPINE TRIBE</a>, 1922, pp. 231-493</span><span
-      style="font-size: x-small;"> <img alt="Free Content"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>
-      </div></li></ul><span style="font-size: x-small;"><br
-      /></span><div class="decade hide" id="C1910s" style="display: block;"><div
-      class="yearGroup"><span style="font-size: x-small;">1919 (Vol. 15) </span><br
-      /><ul><li> <div class="cite"><div class="subCite
-      tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>
-      </div><span class="vrtM" style="font-size: x-small;"><a
-      href="http://www.jstor.org/stable/i29782154">No. 3, SINO-IRANICA: Chinese Contributions to
-      the History of Civilization in Ancient Iran</a>, 1919, pp. i-iv,
-      185-630</span><span style="font-size: x-small;"> <img alt="Free Content"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>
-      </div></li></ul></div><div class="yearGroup"><span
-      style="font-size: x-small;">1917 (Vol. 15) </span><br /><ul><li>
-      <div class="cite"><div class="subCite tipContainer"><span style="font-size:
-      x-small;"><img alt="" class="accessIcon"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>
-      </div><span class="vrtM" style="font-size: x-small;"><a
-      href="http://www.jstor.org/stable/i29782152">No. 2, The Beginnings of Porcelain in China,
-      with a Report on a Technical Investigation of Ancient Chinese Pottery</a>, 1917, pp.
-      79-183</span><span style="font-size: x-small;"> <img alt="Free Content"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>
-      </div></li></ul></div><div class="yearGroup"><span
-      style="font-size: x-small;">1915 (Vol. 15) </span><br /><ul><li>
-      <div class="cite"><div class="subCite tipContainer"><span style="font-size:
-      x-small;"><img alt="" class="accessIcon"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>
-      </div><span class="vrtM" style="font-size: x-small;"><a
-      href="http://www.jstor.org/stable/i29782149">No. 1, THE DIAMOND: A STUDY IN CHINESE AND
-      HELLENISTIC FOLK-LORE</a>, 1915, pp. 1-75</span><span style="font-size:
-      x-small;"> <img alt="Free Content"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>
-      </div></li></ul></div><div class="yearGroup"><span
-      style="font-size: x-small;">1915 (Vol. 14) </span><br /><ul><li>
-      <div class="cite"><div class="subCite tipContainer"><span style="font-size:
-      x-small;"><img alt="" class="accessIcon"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>
-      </div><span class="vrtM" style="font-size: x-small;"><a
-      href="http://www.jstor.org/stable/i29782144">No. 1, TRADITIONS OF THE TINGUIAN: A STUDY IN
-      PHILIPPINE FOLK-LORE</a>, 1915, pp. 1-226</span><span style="font-size:
-      x-small;"> <img alt="Free Content"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>
-      </div></li></ul></div><div class="yearGroup"><span
-      style="font-size: x-small;">1914 (Vol. 13) </span><br /><ul><li>
-      <div class="cite"><div class="subCite tipContainer"><span style="font-size:
-      x-small;"><img alt="" class="accessIcon"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>
-      </div><span class="vrtM" style="font-size: x-small;"><a
-      href="http://www.jstor.org/stable/i29782142">No. 2, CHINESE CLAY FIGURES: PART I PROLEGOMENA
-      ON THE HISTORY OF DEFENSIVE ARMOR</a>, 1914, pp. 73-315</span><span
-      style="font-size: x-small;"> <img alt="Free Content"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>
-      </div></li></ul></div><div class="yearGroup"><span
-      style="font-size: x-small;">1913 (Vol. 13) </span><br /><ul><li>
-      <div class="cite"><div class="subCite tipContainer"><span style="font-size:
-      x-small;"><img alt="" class="accessIcon"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>
-      </div><span class="vrtM" style="font-size: x-small;"><a
-      href="http://www.jstor.org/stable/i29782139">No. 1, NOTES ON TURQUOIS IN THE EAST</a>,
-      July, 1913, pp. i-iii, 1-71</span><span style="font-size: x-small;"> <img
-      alt="Free Content" src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif"
-      /></span> </div></li></ul></div><div
-      class="yearGroup"><span style="font-size: x-small;">1913 (Vol. 12) </span><br
-      /><ul><li> <div class="cite"><div class="subCite
-      tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>
-      </div><span class="vrtM" style="font-size: x-small;"><a
-      href="http://www.jstor.org/stable/i29782137">No. 2, THE WILD TRIBES OF DAVAO DISTRICT,
-      MINDANAO</a>, September, 1913, pp. I-VII, 49-203</span><span style="font-size:
-      x-small;"> <img alt="Free Content"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>
-      </div></li></ul></div><div class="yearGroup"><span
-      style="font-size: x-small;">1912 (Vol. 12) </span><br /><ul><li>
-      <div class="cite"><div class="subCite tipContainer"><span style="font-size:
-      x-small;"><img alt="" class="accessIcon"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>
-      </div><span class="vrtM" style="font-size: x-small;"><a
-      href="http://www.jstor.org/stable/i29782134">No. 1, CHINESE POTTERY: IN THE
-      PHILIPPINES</a>, July, 1912, pp. 1-47</span><span style="font-size:
-      x-small;"> <img alt="Free Content"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>
-      </div></li></ul></div><div class="yearGroup"><span
-      style="font-size: x-small;">1912 (Vol. 11) </span><br /><ul><li>
-      <div class="cite"><div class="subCite tipContainer"><span style="font-size:
-      x-small;"><img alt="" class="accessIcon"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>
-      </div><span class="vrtM" style="font-size: x-small;"><a
-      href="http://www.jstor.org/stable/i29782126">No. 2, Brief Miscellaneous Hopi Papers. The
-      Stanley McCormick Hopi Expedition</a>, February, 1912, pp. 99-149</span><span
-      style="font-size: x-small;"> <img alt="Free Content"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>
-      </div></li><li> <div class="cite"><div class="subCite
-      tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>
-      </div><span class="vrtM" style="font-size: x-small;"><a
-      href="http://www.jstor.org/stable/i29782123">No. 1, THE ORAIBI MARAU CEREMONY: The Stanley
-      McCormick Hopi Expedition</a>, February, 1912, pp. 1-88</span><span
-      style="font-size: x-small;"> <img alt="Free Content"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>
-      </div></li></ul></div><div class="yearGroup"><span
-      style="font-size: x-small;">1912 (Vol. 10) </span><br /><ul><li>
-      <div class="cite"><div class="subCite tipContainer"><span style="font-size:
-      x-small;"><img alt="" class="accessIcon"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>
-      </div><span class="vrtM" style="font-size: x-small;"><a
-      href="http://www.jstor.org/stable/i29782121">JADE: A STUDY IN CHINESE ARCHÆOLOGY AND
-      RELIGION</a>, February, 1912, pp. i-xiv, 1-370</span><span style="font-size:
-      x-small;"> <img alt="Free Content"
-      src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>
-      </div></li></ul></div></div><span style="font-size:
-      x-small;">Continues <a
-      href="http://www.jstor.org/action/showPublication?journalCode=pubfcmanthroser"> Publications
-      of the Field Columbian Museum. Anthropological Series </a>, 1895-1922 (Vols. 1-6)
-      </span></blockquote><div style="text-align: center;">And see: <a
-      href="http://illinoisharvest.grainger.uiuc.edu/fulldisplay.asp?cid=81103">Fieldiana
-      Anthropology: A Collection of Digitized Books</a>&nbsp;</div><br
-      /><div style="text-align: center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a> </div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: Publications of the Field Museum of Natural History. Anthropological Series</title>
+   <content type="html"><![CDATA[<a href="http://www.jstor.org/action/showPublication?journalCode=pubfmnhanthroser">Publications of the Field Museum of Natural History. Anthropological Series</a><br />[1912-1922 at JSTOR]<br />ISSN: 0894-8380 <br /><blockquote class="tr_bq">&nbsp;<span style="font-size: x-small;">1922 (Vol. 14)                                </span><br /><ul><li>                                             <div class="cite"><div class="subCite tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon" src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>                                                                                               </div><span class="vrtM" style="font-size: x-small;"><a href="http://www.jstor.org/stable/i29782147">No. 2, THE TINGUIAN: SOCIAL, RELIGIOUS, AND ECONOMIC LIFE OF A PHILIPPINE TRIBE</a>, 1922, pp. 231-493</span><span style="font-size: x-small;">                                                                                                                                                         <img alt="Free Content" src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>                                                                                                 </div></li></ul><span style="font-size: x-small;"><br /></span><div class="decade hide" id="C1910s" style="display: block;"><div class="yearGroup"><span style="font-size: x-small;">1919 (Vol. 15)                                </span><br /><ul><li>                                             <div class="cite"><div class="subCite tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon" src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>                                                                                               </div><span class="vrtM" style="font-size: x-small;"><a href="http://www.jstor.org/stable/i29782154">No. 3, SINO-IRANICA: Chinese Contributions to the History of Civilization in Ancient Iran</a>, 1919, pp. i-iv, 185-630</span><span style="font-size: x-small;">                                                                                                                                                         <img alt="Free Content" src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>                                                                                                 </div></li></ul></div><div class="yearGroup"><span style="font-size: x-small;">1917 (Vol. 15)                                </span><br /><ul><li>                                             <div class="cite"><div class="subCite tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon" src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>                                                                                               </div><span class="vrtM" style="font-size: x-small;"><a href="http://www.jstor.org/stable/i29782152">No. 2, The Beginnings of Porcelain in China, with a Report on a Technical Investigation of Ancient Chinese Pottery</a>, 1917, pp. 79-183</span><span style="font-size: x-small;">                                                                                                                                                         <img alt="Free Content" src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>                                                                                                 </div></li></ul></div><div class="yearGroup"><span style="font-size: x-small;">1915 (Vol. 15)                                </span><br /><ul><li>                                             <div class="cite"><div class="subCite tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon" src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>                                                                                               </div><span class="vrtM" style="font-size: x-small;"><a href="http://www.jstor.org/stable/i29782149">No. 1, THE DIAMOND: A STUDY IN CHINESE AND HELLENISTIC FOLK-LORE</a>, 1915, pp. 1-75</span><span style="font-size: x-small;">                                                                                                                                                         <img alt="Free Content" src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>                                                                                                 </div></li></ul></div><div class="yearGroup"><span style="font-size: x-small;">1915 (Vol. 14)                                </span><br /><ul><li>                                             <div class="cite"><div class="subCite tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon" src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>                                                                                               </div><span class="vrtM" style="font-size: x-small;"><a href="http://www.jstor.org/stable/i29782144">No. 1, TRADITIONS OF THE TINGUIAN: A STUDY IN PHILIPPINE FOLK-LORE</a>, 1915, pp. 1-226</span><span style="font-size: x-small;">                                                                                                                                                         <img alt="Free Content" src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>                                                                                                 </div></li></ul></div><div class="yearGroup"><span style="font-size: x-small;">1914 (Vol. 13)                                </span><br /><ul><li>                                             <div class="cite"><div class="subCite tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon" src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>                                                                                               </div><span class="vrtM" style="font-size: x-small;"><a href="http://www.jstor.org/stable/i29782142">No. 2, CHINESE CLAY FIGURES: PART I PROLEGOMENA ON THE HISTORY OF DEFENSIVE ARMOR</a>, 1914, pp. 73-315</span><span style="font-size: x-small;">                                                                                                                                                         <img alt="Free Content" src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>                                                                                                 </div></li></ul></div><div class="yearGroup"><span style="font-size: x-small;">1913 (Vol. 13)                                </span><br /><ul><li>                                             <div class="cite"><div class="subCite tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon" src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>                                                                                               </div><span class="vrtM" style="font-size: x-small;"><a href="http://www.jstor.org/stable/i29782139">No. 1, NOTES ON TURQUOIS IN THE EAST</a>, July, 1913, pp. i-iii, 1-71</span><span style="font-size: x-small;">                                                                                                                                                         <img alt="Free Content" src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>                                                                                                 </div></li></ul></div><div class="yearGroup"><span style="font-size: x-small;">1913 (Vol. 12)                                </span><br /><ul><li>                                             <div class="cite"><div class="subCite tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon" src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>                                                                                               </div><span class="vrtM" style="font-size: x-small;"><a href="http://www.jstor.org/stable/i29782137">No. 2, THE WILD TRIBES OF DAVAO DISTRICT, MINDANAO</a>, September, 1913, pp. I-VII, 49-203</span><span style="font-size: x-small;">                                                                                                                                                         <img alt="Free Content" src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>                                                                                                 </div></li></ul></div><div class="yearGroup"><span style="font-size: x-small;">1912 (Vol. 12)                                </span><br /><ul><li>                                             <div class="cite"><div class="subCite tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon" src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>                                                                                               </div><span class="vrtM" style="font-size: x-small;"><a href="http://www.jstor.org/stable/i29782134">No. 1, CHINESE POTTERY: IN THE PHILIPPINES</a>, July, 1912, pp. 1-47</span><span style="font-size: x-small;">                                                                                                                                                         <img alt="Free Content" src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>                                                                                                 </div></li></ul></div><div class="yearGroup"><span style="font-size: x-small;">1912 (Vol. 11)                                </span><br /><ul><li>                                             <div class="cite"><div class="subCite tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon" src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>                                                                                               </div><span class="vrtM" style="font-size: x-small;"><a href="http://www.jstor.org/stable/i29782126">No. 2, Brief Miscellaneous Hopi Papers. The Stanley McCormick Hopi Expedition</a>, February, 1912, pp. 99-149</span><span style="font-size: x-small;">                                                                                                                                                         <img alt="Free Content" src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>                                                                                                 </div></li><li>                                             <div class="cite"><div class="subCite tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon" src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>                                                                                               </div><span class="vrtM" style="font-size: x-small;"><a href="http://www.jstor.org/stable/i29782123">No. 1, THE ORAIBI MARAU CEREMONY: The Stanley McCormick Hopi Expedition</a>, February, 1912, pp. 1-88</span><span style="font-size: x-small;">                                                                                                                                                         <img alt="Free Content" src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>                                                                                                 </div></li></ul></div><div class="yearGroup"><span style="font-size: x-small;">1912 (Vol. 10)                                </span><br /><ul><li>                                             <div class="cite"><div class="subCite tipContainer"><span style="font-size: x-small;"><img alt="" class="accessIcon" src="http://www.jstor.org/templates/jsp/_jstor/images/access_free.gif" /></span>                                                                                               </div><span class="vrtM" style="font-size: x-small;"><a href="http://www.jstor.org/stable/i29782121">JADE: A STUDY IN CHINESE ARCHÆOLOGY AND RELIGION</a>, February, 1912, pp. i-xiv, 1-370</span><span style="font-size: x-small;">                                                                                                                                                         <img alt="Free Content" src="http://www.jstor.org/templates/jsp/_jstor/images/free.gif" /></span>                                                                                                 </div></li></ul></div></div><span style="font-size: x-small;">Continues   <a href="http://www.jstor.org/action/showPublication?journalCode=pubfcmanthroser">   Publications of the Field Columbian Museum. Anthropological Series   </a>, 1895-1922 (Vols. 1-6)   </span></blockquote><div style="text-align: center;">And see: <a href="http://illinoisharvest.grainger.uiuc.edu/fulldisplay.asp?cid=81103">Fieldiana Anthropology: A Collection of Digitized Books</a>&nbsp;</div><br /><div style="text-align: center;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a> </div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8724124882117046001/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8724124882117046001/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/10/open-access-journal-publications-of.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8724124882117046001"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8724124882117046001"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/10/open-access-journal-publications-of.html"
          title="Open Access Journal: Publications of the Field Museum of Natural History. Anthropological Series"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

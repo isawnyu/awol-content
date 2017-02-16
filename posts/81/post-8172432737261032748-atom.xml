@@ -1,182 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8172432737261032748</id>
-    <published>2013-04-30T10:36:00.003-04:00</published>
-    <updated>2013-04-30T10:36:49.350-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8172432737261032748</id>
+   <published>2013-04-30T10:36:00.003-04:00</published>
+   <updated>2013-04-30T10:36:49.350-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Conservation OnLine</title>
-    <content type="html"><![CDATA[<a href="http://cool.conservation-us.org/">Conservation OnLine:
-      Resources for ConservationProfessionals</a><br /><blockquote
-      class="tr_bq"><img alt="http://cool.conservation-us.org/coollogos/cool20.gif"
-      class="decoded" height="60" src="http://cool.conservation-us.org/coollogos/cool20.gif"
-      width="200" />&nbsp;</blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><cite>CoOL</cite>, an online resource operated by
-      the <a
-      href="http://www.conservation-us.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=490&amp;parentID=471">Foundation
-      of the American Institute for Conservation</a> is a full text library of conservation
-      information, covering a wide spectrum of topics of interest to those involved with the
-      conservation of library, archives and museum materials. It is a growing online resource for
-      conservators, collection care specialists, and other conservation
-      professionals.</span><br /><br /><h2><span style="color: chocolate;
-      font-size: x-small;">Conservation Topics</span></h2><span style="font-size:
-      x-small;"> </span><table align="center" border="0" cellpadding="10" cellspacing="0"
-      style="width: 90%px;"> <tbody><tr> <td
-      valign="top"><ul><li><span style="font-size: x-small;"><a
-      href="http://cool.conservation-us.org/bytopic/audio/" title="Preservation of Audio Materials
-      page">Audio materials</a>( <span style="color: #990033;">Updated: Sunday,
-      13-Jan-2013 10:53:49 PST</span> ) </span></li><li><span
-      style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/intprop/"
-      title="Copyright and Intellectual Property page">Copyright and Intellectual
-      Property</a>( <span style="color: #990033;">Updated: Friday, 05-Apr-2013 13:33:18
-      PDT</span> ) </span></li><li><span style="font-size:
-      x-small;"><a href="http://cool.conservation-us.org/bytopic/imaging/" title="Digital
-      Imaging page">Digital Imaging</a>( <span style="color: #990033;">Updated:
-      Tuesday, 29-Jan-2013 07:40:16 PST</span> ) </span></li><li><span
-      style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/disasters/"
-      title="Disaster Planning and Response page">Disaster planning and response</a>(
-      <span style="color: #990033;">Updated: Tuesday, 28-Feb-2012 13:35:21 PST</span> )
-      </span><dl><dd><span style="font-size: x-small;"><a
-      href="http://cool.conservation-us.org/bytopic/disasters/katrina.html">Hurricane Katrina
-      Emergency information and Resources</a></span> </dd><dd><span
-      style="font-size: x-small;"><a
-      href="http://cool.conservation-us.org/byform/mailing-lists/ncen/">National Collections
-      Emergency News</a></span> </dd></dl></li><li><span
-      style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/document/"
-      title="Conservation Documentation page">Documentation</a>( <span style="color:
-      #990033;">Updated: Saturday, 20-Apr-2013 11:24:05 PDT</span> )
-      </span></li><li><span style="font-size: x-small;"><a
-      href="http://cool.conservation-us.org/bytopic/education/" title="Conservation Education
-      page">Education and Training</a>( <span style="color: #990033;">Updated:
-      Saturday, 20-Apr-2013 11:24:05 PDT</span> ) </span></li><li><span
-      style="font-size: x-small;">Electronic Materials </span><dl><dd><span
-      style="font-size: x-small;"><a
-      href="http://cool.conservation-us.org/bytopic/electronic-records/electronic-storage-media/"
-      title="Preservation of Electronic Materials page">Electronic media</a>( <span
-      style="color: #990033;">Updated: Monday, 29-Nov-2010 13:10:46 PST</span> )
-      </span></dd><dd><span style="font-size: x-small;"><a
-      href="http://cool.conservation-us.org/bytopic/electronic-records/" title="Preservation of
-      Electronic Records page">Electronic records, digital archives</a>( <span
-      style="color: #990033;">Updated: Sunday, 13-Jan-2013 11:19:46 PST</span> )
-      </span></dd><dd><span style="font-size: x-small;"><a
-      href="http://cool.conservation-us.org/bytopic/video/" title="Preservation of Video
-      page">Video preservation</a></span> </dd><dd><span
-      style="font-size: x-small;"><a href="http://videopreservation.conservation-us.org/"
-      title="The Video Preservation Web Site">The Video Preservation Web Site</a>( <span
-      style="color: #990033;">Updated: Saturday, 23-Jul-2011 10:35:38 PDT</span> )
-      </span></dd></dl></li><li><span style="font-size:
-      x-small;"><a href="http://cool.conservation-us.org/bytopic/environment/"
-      title="Environment page">Environment</a>( <span style="color: #990033;">Updated:
-      Wednesday, 30-May-2012 11:49:40 PDT</span> ) </span></li><li><span
-      style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/ethics/"
-      title="Ethics page">Ethics</a>( <span style="color: #990033;">Updated: Monday,
-      27-Jun-2011 15:02:08 PDT</span> ) </span></li><li><span
-      style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/genpub/"
-      title="Information for the General Public page">Conservation/Preservation Information for
-      the General Public</a>( <span style="color: #990033;">Updated: Wednesday,
-      14-Dec-2011 16:14:50 PST</span> ) </span></li><li><span
-      style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/health/"
-      title="Health and Safety">Health &amp; Safety</a>( <span style="color:
-      #990033;">Updated: Tuesday, 03-Apr-2012 15:05:16 PDT</span> )
-      </span></li><li><span style="font-size: x-small;"><a
-      href="http://cool.conservation-us.org/bytopic/librbind/" title="Library Binding
-      page">Library Binding</a>( <span style="color: #990033;">Updated: Saturday,
-      21-Nov-2009 18:06:05 PST</span> ) </span></li><li><span
-      style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/massdeac/"
-      title="Mass Deacidification page">Mass Deacidification</a>( <span style="color:
-      #990033;">Updated: Thursday, 18-Nov-2010 13:31:58 PST</span> )
-      </span></li><li><span style="font-size: x-small;"><a
-      href="http://cool.conservation-us.org/bytopic/motion-pictures/" title="Preservation of Motion
-      Picture Film">Motion Picture Film</a>( <span style="color: #990033;">Updated:
-      Wednesday, 27-Jan-2010 13:06:30 PST</span> )
-      </span></li></ul></td><td
-      valign="top"><ul><li><span style="font-size:
-      x-small;"><i>Microfilming</i> See <a
-      href="http://cool.conservation-us.org/bytopic/repro/" title="Reprographics
-      page">Reprographics</a>( <span style="color: #990033;">Updated: Friday,
-      09-Mar-2012 08:24:49 PST</span> ) </span></li><li><span
-      style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/mold/"
-      title="Mold page">Mold</a>( <span style="color: #990033;">Updated: Wednesday,
-      14-Dec-2011 15:15:19 PST</span> ) </span></li><li><span
-      style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/orgs/"
-      title="Preservation Organizations at other sites page">Preservation-related
-      organizations</a>(see also the <a href="http://cool.conservation-us.org/#orgs"
-      title="Preservation Organizations in CoOL">Organizations pages</a> below. ( <span
-      style="color: #990033;">Updated: Monday, 24-Nov-2008 16:07:11 PST</span> )
-      </span></li><li><span style="font-size: x-small;"><a
-      href="http://cool.conservation-us.org/bytopic/pest/" title="Pest Management page">Pest
-      Management</a>( <span style="color: #990033;">Updated: Friday, 28-May-2010 11:37:35
-      PDT</span> ) </span></li><li><span style="font-size:
-      x-small;"><a href="http://cool.conservation-us.org/byform/presentations/"
-      title="Presentations and Training Tools page">Presentations and Training Tools</a>(
-      <span style="color: #990033;">Updated: Thursday, 01-Sep-2011 12:49:45 PDT</span> )
-      </span></li><li><span style="font-size: x-small;"><a
-      href="http://draft.blogger.com/null" name="repro"></a><a
-      href="http://cool.conservation-us.org/bytopic/repro/" title="Reprographics
-      page">Reprographics</a>( <span style="color: #990033;">Updated: Friday,
-      09-Mar-2012 08:24:49 PST</span> ) </span></li><li><span
-      style="font-size: x-small;"><a href="http://draft.blogger.com/null"
-      name="packages"></a><a href="http://cool.conservation-us.org/packages/">Software
-      distributions and datasets</a>( <span style="color: #990033;">Updated: Tuesday,
-      06-Oct-2009 10:51:07 PDT</span> ) </span></li><li><span
-      style="font-size: x-small;"><i>Sound Recordings</i> See <a
-      href="http://cool.conservation-us.org/bytopic/audio/" title="Preservation of Audio Materials
-      page">Audio materials</a>( <span style="color: #990033;">Updated: Sunday,
-      13-Jan-2013 10:53:49 PST</span> ) </span></li><li><span
-      style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/suppliers/"
-      title="Suppliers page">Suppliers</a>( <span style="color: #990033;">Updated:
-      Monday, 24-Nov-2008 16:07:11 PST</span> ) </span></li><li><span
-      style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/survres"
-      title="Survey results page">Survey Results</a>( <span style="color:
-      #990033;">Updated: Monday, 24-Nov-2008 16:07:11 PST</span> ) </span>
-      </li><li><span style="font-size: x-small;">Bibliographies, etc.
-      </span><dl><dd><span style="font-size: x-small;"><a
-      href="http://cool.conservation-us.org/bib/" title="Bibliographies page">Bibliographies
-      &amp; Resource Guides</a>( <span style="color: #990033;">Updated: Saturday,
-      09-Mar-2013 07:51:13 PST</span> ) </span></dd><dd><span
-      style="font-size: x-small;"><a
-      href="http://cool.conservation-us.org/byauth/rushfield/conservation-fiction">Conservation
-      Fiction</a>( <span style="color: #990033;">Updated: Thursday, 18-Apr-2013 15:27:19
-      PDT</span> ) </span></dd><dd><span style="font-size:
-      x-small;"><a href="http://cool.conservation-us.org/lex/" title="Lexical Resources
-      page">Dictionaries, thesauri, glossaries, abbreviation lists, etc.</a>( <span
-      style="color: #990033;">Updated: Saturday, 20-Apr-2013 10:13:01 PDT</span> )
-      </span></dd></dl></li><li><span style="font-size:
-      x-small;"><a href="http://cool.conservation-us.org/misc/commercial.html">Commercial
-      Services, Suppliers, etc.</a>( <span style="color: #990033;">Updated: Saturday,
-      20-Apr-2013 10:42:26 PDT</span> ) </span> </li><li><span
-      style="font-size: x-small;"><a href="http://cool.conservation-us.org/misc/conslink.html"
-      title="Links to resources at other sites">Conservation Resources at Other Sites</a>(
-      <span style="color: #990033;">Updated: Monday, 18-Mar-2013 16:47:10 PDT</span> )
-      </span></li></ul></td></tr></tbody></table><span
-      style="font-size: x-small;">&nbsp;</span> </blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Conservation OnLine</title>
+   <content type="html"><![CDATA[<a href="http://cool.conservation-us.org/">Conservation OnLine: Resources for ConservationProfessionals</a><br /><blockquote class="tr_bq"><img alt="http://cool.conservation-us.org/coollogos/cool20.gif" class="decoded" height="60" src="http://cool.conservation-us.org/coollogos/cool20.gif" width="200" />&nbsp;</blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><cite>CoOL</cite>, an online resource operated by the <a href="http://www.conservation-us.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=490&amp;parentID=471">Foundation of the American Institute for Conservation</a> is a full text library of conservation information, covering a wide spectrum of topics of interest to those involved with the conservation of library, archives and museum materials. It is a growing online resource for conservators, collection care specialists, and other conservation professionals.</span><br /><br /><h2><span style="color: chocolate; font-size: x-small;">Conservation Topics</span></h2><span style="font-size: x-small;"> </span><table align="center" border="0" cellpadding="10" cellspacing="0" style="width: 90%px;"> <tbody><tr> <td valign="top"><ul><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/audio/" title="Preservation of Audio Materials page">Audio materials</a>( <span style="color: #990033;">Updated: Sunday, 13-Jan-2013 10:53:49 PST</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/intprop/" title="Copyright and Intellectual Property page">Copyright and Intellectual Property</a>( <span style="color: #990033;">Updated: Friday, 05-Apr-2013 13:33:18 PDT</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/imaging/" title="Digital Imaging page">Digital Imaging</a>( <span style="color: #990033;">Updated: Tuesday, 29-Jan-2013 07:40:16 PST</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/disasters/" title="Disaster Planning and Response page">Disaster planning and response</a>( <span style="color: #990033;">Updated: Tuesday, 28-Feb-2012 13:35:21 PST</span> )  </span><dl><dd><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/disasters/katrina.html">Hurricane Katrina Emergency information and Resources</a></span> </dd><dd><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/byform/mailing-lists/ncen/">National Collections Emergency News</a></span> </dd></dl></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/document/" title="Conservation Documentation page">Documentation</a>( <span style="color: #990033;">Updated: Saturday, 20-Apr-2013 11:24:05 PDT</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/education/" title="Conservation Education page">Education and Training</a>( <span style="color: #990033;">Updated: Saturday, 20-Apr-2013 11:24:05 PDT</span> )  </span></li><li><span style="font-size: x-small;">Electronic Materials  </span><dl><dd><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/electronic-records/electronic-storage-media/" title="Preservation of Electronic Materials page">Electronic media</a>( <span style="color: #990033;">Updated: Monday, 29-Nov-2010 13:10:46 PST</span> )  </span></dd><dd><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/electronic-records/" title="Preservation of Electronic Records page">Electronic records, digital archives</a>( <span style="color: #990033;">Updated: Sunday, 13-Jan-2013 11:19:46 PST</span> )  </span></dd><dd><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/video/" title="Preservation of Video page">Video preservation</a></span> </dd><dd><span style="font-size: x-small;"><a href="http://videopreservation.conservation-us.org/" title="The Video Preservation Web Site">The Video Preservation Web Site</a>( <span style="color: #990033;">Updated: Saturday, 23-Jul-2011 10:35:38 PDT</span> )  </span></dd></dl></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/environment/" title="Environment page">Environment</a>( <span style="color: #990033;">Updated: Wednesday, 30-May-2012 11:49:40 PDT</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/ethics/" title="Ethics page">Ethics</a>( <span style="color: #990033;">Updated: Monday, 27-Jun-2011 15:02:08 PDT</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/genpub/" title="Information for the General Public page">Conservation/Preservation Information for the General Public</a>( <span style="color: #990033;">Updated: Wednesday, 14-Dec-2011 16:14:50 PST</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/health/" title="Health and Safety">Health &amp; Safety</a>( <span style="color: #990033;">Updated: Tuesday, 03-Apr-2012 15:05:16 PDT</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/librbind/" title="Library Binding page">Library Binding</a>( <span style="color: #990033;">Updated: Saturday, 21-Nov-2009 18:06:05 PST</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/massdeac/" title="Mass Deacidification page">Mass Deacidification</a>( <span style="color: #990033;">Updated: Thursday, 18-Nov-2010 13:31:58 PST</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/motion-pictures/" title="Preservation of Motion Picture Film">Motion Picture Film</a>( <span style="color: #990033;">Updated: Wednesday, 27-Jan-2010 13:06:30 PST</span> )  </span></li></ul></td><td valign="top"><ul><li><span style="font-size: x-small;"><i>Microfilming</i> See <a href="http://cool.conservation-us.org/bytopic/repro/" title="Reprographics page">Reprographics</a>( <span style="color: #990033;">Updated: Friday, 09-Mar-2012 08:24:49 PST</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/mold/" title="Mold page">Mold</a>( <span style="color: #990033;">Updated: Wednesday, 14-Dec-2011 15:15:19 PST</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/orgs/" title="Preservation Organizations at other sites page">Preservation-related organizations</a>(see also the <a href="http://cool.conservation-us.org/#orgs" title="Preservation Organizations in CoOL">Organizations pages</a> below. ( <span style="color: #990033;">Updated: Monday, 24-Nov-2008 16:07:11 PST</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/pest/" title="Pest Management page">Pest Management</a>( <span style="color: #990033;">Updated: Friday, 28-May-2010 11:37:35 PDT</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/byform/presentations/" title="Presentations and Training Tools page">Presentations and Training Tools</a>( <span style="color: #990033;">Updated: Thursday, 01-Sep-2011 12:49:45 PDT</span> )    </span></li><li><span style="font-size: x-small;"><a href="http://draft.blogger.com/null" name="repro"></a><a href="http://cool.conservation-us.org/bytopic/repro/" title="Reprographics page">Reprographics</a>( <span style="color: #990033;">Updated: Friday, 09-Mar-2012 08:24:49 PST</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://draft.blogger.com/null" name="packages"></a><a href="http://cool.conservation-us.org/packages/">Software distributions and datasets</a>( <span style="color: #990033;">Updated: Tuesday, 06-Oct-2009 10:51:07 PDT</span> )   </span></li><li><span style="font-size: x-small;"><i>Sound Recordings</i> See <a href="http://cool.conservation-us.org/bytopic/audio/" title="Preservation of Audio Materials page">Audio materials</a>( <span style="color: #990033;">Updated: Sunday, 13-Jan-2013 10:53:49 PST</span> )   </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/suppliers/" title="Suppliers page">Suppliers</a>( <span style="color: #990033;">Updated: Monday, 24-Nov-2008 16:07:11 PST</span> )  </span></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bytopic/survres" title="Survey results page">Survey Results</a>( <span style="color: #990033;">Updated: Monday, 24-Nov-2008 16:07:11 PST</span> )  </span> </li><li><span style="font-size: x-small;">Bibliographies, etc.  </span><dl><dd><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/bib/" title="Bibliographies page">Bibliographies &amp; Resource Guides</a>( <span style="color: #990033;">Updated: Saturday, 09-Mar-2013 07:51:13 PST</span> )  </span></dd><dd><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/byauth/rushfield/conservation-fiction">Conservation Fiction</a>( <span style="color: #990033;">Updated: Thursday, 18-Apr-2013 15:27:19 PDT</span> )  </span></dd><dd><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/lex/" title="Lexical Resources page">Dictionaries, thesauri, glossaries, abbreviation lists, etc.</a>( <span style="color: #990033;">Updated: Saturday, 20-Apr-2013 10:13:01 PDT</span> )  </span></dd></dl></li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/misc/commercial.html">Commercial Services, Suppliers, etc.</a>( <span style="color: #990033;">Updated: Saturday, 20-Apr-2013 10:42:26 PDT</span> )  </span> </li><li><span style="font-size: x-small;"><a href="http://cool.conservation-us.org/misc/conslink.html" title="Links to resources at other sites">Conservation Resources at Other Sites</a>( <span style="color: #990033;">Updated: Monday, 18-Mar-2013 16:47:10 PDT</span> )  </span></li></ul></td></tr></tbody></table><span style="font-size: x-small;">&nbsp;</span> </blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8172432737261032748/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8172432737261032748/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/04/conservation-online.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8172432737261032748"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8172432737261032748"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/04/conservation-online.html"
          title="Conservation OnLine"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

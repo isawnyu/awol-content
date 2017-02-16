@@ -1,135 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2938144318952827464</id>
-    <published>2013-02-25T06:19:00.004-05:00</published>
-    <updated>2013-02-25T06:19:56.693-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2938144318952827464</id>
+   <published>2015-09-08T09:41:00.000-04:00</published>
+   <updated>2015-09-08T09:42:11.875-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Ceramics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Africa"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">CerAfIm: Céramique Africaine Imprimée</title>
-    <content type="html"><![CDATA[<a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/">CerAfIm<span
-      style="font-family: 'PrimaSans BT,Verdana,sans-serif';">: </span><span
-      style="font-size: 50%; font-weight: normal;"></span>Céramique Africaine
-      Imprimée</a><br /><blockquote class="tr_bq"><img
-      alt="http://sites.univ-provence.fr/lampea/ressources/cerafim/cerafim80x80.jpg" class="decoded"
-      src="http://sites.univ-provence.fr/lampea/ressources/cerafim/cerafim80x80.jpg"
-      /></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">CerAfIm est un groupe de travail formé par des céramologues africanistes qui
-      mettent en commun leurs recherches sur les motifs des céramiques imprimées africaines datant du
-      début de l'Holocène jusqu'aux périodes sub-actuelles. </span><br /><span
-      style="font-size: x-small;"><br />Ce site a été créé pour exposer les travaux du
-      groupe CerAfIm en français et en anglais : définition des techniques et procédés de décor,
-      référentiels d'instruments et de motifs, photos de céramiques décorées. Il est optimisé pour
-      Mozilla Firefox.</span><span style="font-size: x-small;"><br />CerAfIm is a
-      working group of ceramics specialists who share their research into the decorations on African
-      impressed ceramics dating back to periods ranging from the early Holocene to the modern
-      era.</span><br /><span style="font-size: x-small;"><br />This site was
-      created to present the work of the CerAfIm group in French and English: a definition of
-      techniques and processes; tool and motif indexes; pictures of decorated ceramics; index of
-      motifs. The site is optimized for Mozilla Firefox. </span><br /><span
-      style="font-size: x-small;"> </span><br /><h1 class="first"><span
-      style="font-size: x-small;">Navigation</span></h1><span style="font-size:
-      x-small;"> </span><br /><dl class="nav3-grid"><dt><span
-      style="font-size: x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique14">Présentation</a></span></dt><dd><span
-      style="font-size: x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique83">Objectifs
-      et Démarche</a></span></dd><dd><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique31">Vie du
-      groupe</a></span></dd><dd><span style="font-size: x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique32">Communications
-      et conférences</a></span></dd><dd><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique107">Le site
-      CerAfIm</a></span></dd><dt><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique1">Techniques
-      et Procédés</a></span></dt><dd><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique7">Impression
-      simple</a></span></dd><dd><span style="font-size: x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique6">Impression
-      pivotante</a></span></dd><dd><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique8">Impression
-      roulée</a></span></dd><dd><span style="font-size: x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique16">Incision
-      simple</a></span></dd><dd><span style="font-size: x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique17">Incision
-      pivotante</a></span></dd><dt><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique2">Instruments</a></span></dt><dd><span
-      style="font-size: x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique25">Spatules</a></span></dd><dd><span
-      style="font-size: x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique26">Peignes</a></span></dd><dd><span
-      style="font-size: x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique27">Roulettes</a></span></dd><dt><span
-      style="font-size: x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique94">Motifs
-      Référencés</a></span></dt><dd><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique95">Motifs -
-      Impression simple</a></span></dd><dd><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique97">Motifs -
-      Impression pivotante </a></span></dd><dd><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique105">Motifs -
-      Impression roulée</a></span></dd><dd><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique101">Motifs -
-      Incision simple</a></span></dd><dd><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique104">Motifs -
-      Incision pivotante</a></span></dd><dt><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique15">Galerie</a></span></dt><dd><span
-      style="font-size: x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique33">Photos -
-      Impression simple</a></span></dd><dd><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique34">Photos -
-      Impression pivotante</a></span></dd><dd><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique35">Photos -
-      Impression roulée</a></span></dd><dd><span style="font-size:
-      x-small;"><a
-      href="http://sites.univ-provence.fr/lampea/ressources/cerafim/spip.php?rubrique37">Photos -
-      Incision pivotante</a></span></dd><dt><br
-      /></dt></dl><br /><div
-      class="sitename"></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Africa"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Ceramics"/>
+   <title type="text">CerAfIm: Céramique Africaine Imprimée</title>
+   <content type="html"><![CDATA[<a href="http://lampea.cnrs.fr/cerafim/">CerAfIm<span style="font-family: 'PrimaSans BT,Verdana,sans-serif';">: </span><span style="font-size: 50%; font-weight: normal;"></span>Céramique Africaine Imprimée</a><br /><blockquote class="tr_bq"><img alt="http://lampea.cnrs.fr/cerafim/cerafim80x80.jpg" src="http://lampea.cnrs.fr/cerafim/cerafim80x80.jpg" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">CerAfIm est un groupe de travail formé par des céramologues africanistes  qui mettent en commun leurs recherches sur les motifs des céramiques  imprimées africaines datant du début de l'Holocène jusqu'aux périodes  sub-actuelles. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Ce site a été créé pour exposer les travaux du groupe CerAfIm en  français et en anglais : définition des techniques et procédés de décor,  référentiels d'instruments et de motifs,  photos de céramiques  décorées. Il est optimisé pour Mozilla Firefox.</span><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><i>CerAfIm is a working group of ceramics specialists who share their  research into the decorations on African impressed ceramics dating back  to periods ranging from the early Holocene to the modern era.</i>&nbsp;</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><i>This site was created to present the work of the CerAfIm group in French  and English: a definition of techniques and processes; tool and motif  indexes; pictures of decorated ceramics; index of motifs. The site is  optimized for Mozilla Firefox.</i></span><span style="font-size: x-small;">    </span><br /><h1 class="first"><span style="font-size: x-small;">Navigation</span></h1><span style="font-size: x-small;">      </span><dl class="nav3-grid"><dt><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique14">Présentation</a></span></dt><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique83">Objectifs et Démarche</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique31">Vie du groupe</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique32">Communications et conférences</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique107">Le site CerAfIm</a></span></dd><dt><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique1">Techniques et Procédés</a></span></dt><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique7">Impression simple</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique6">Impression pivotante</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique8">Impression roulée</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique16">Incision simple</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique17">Incision pivotante</a></span></dd><dt><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique2">Instruments</a></span></dt><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique25">Spatules</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique26">Peignes</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique27">Roulettes</a></span></dd><dt><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique94">Motifs Référencés</a></span></dt><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique95">Motifs - Impression simple</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique97">Motifs - Impression pivotante </a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique105">Motifs - Impression roulée</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique101">Motifs - Incision simple</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique104">Motifs - Incision pivotante</a></span></dd><dt><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique15">Galerie</a></span></dt><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique33">Photos - Impression simple</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique34">Photos - Impression pivotante</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique35">Photos - Impression roulée</a></span></dd><dd><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique37">Photos - Incision pivotante</a></span></dd><dt><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique4">Annuaire</a></span></dt><dt><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique3">Bibliographie</a></span></dt><dt><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique28">Liens institutionnels</a></span></dt><dt><span style="font-size: x-small;"><a href="http://lampea.cnrs.fr/cerafim/spip.php?rubrique54">Crédits</a></span></dt></dl><div class="sitename"></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2938144318952827464/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2938144318952827464/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/02/cerafim-ceramique-africaine-imprimee.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2938144318952827464"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2938144318952827464"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/02/cerafim-ceramique-africaine-imprimee.html"
          title="CerAfIm: Céramique Africaine Imprimée"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

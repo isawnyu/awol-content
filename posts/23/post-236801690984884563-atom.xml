@@ -1,93 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-236801690984884563</id>
-    <published>2014-07-29T07:37:00.000-04:00</published>
-    <updated>2014-07-29T07:37:03.142-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-236801690984884563</id>
+   <published>2017-01-19T17:09:00.000-05:00</published>
+   <updated>2017-01-19T17:11:18.610-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Archaeopress: Open Access</title>
-    <content type="html"><![CDATA[<a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?OpenAccess=Y&amp;intro=true">Archaeopress:
-      Open Access</a><br /><blockquote class="tr_bq"><img alt="Archaeopress
-      logo" border="0" class="txt" height="58" hspace="1"
-      src="http://archaeopress.com/ArchaeopressShop/Public/imagesArchaeopress/Archaeopresslogo.jpg"
-      vspace="1" width="260" /> </blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">Open Access content is available to view online or you can
-      download to your chosen device. All content is in PDF format. You are welcome to share Open
-      Access content amongst your colleagues but please be sure to cite it fully and accurately. To
-      learn more about publishing in <i>Archaeopress Open Access</i> please contact <a
-      href="mailto:archaeo@archaeopress.com?subject=Open%20Access">archaeo@archaeopress.com</a>.</span></blockquote><blockquote
-      class="tr_bq"><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?Series=Archaeopress+Archaeology&amp;openAccess=Y">Archaeopress
-      Archaeology</a><br /><br /><br /><b>Time Periods</b><br
-      /><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Bronze+Age+and+Iron+Age&amp;openAccess=Y">Bronze
-      Age and Iron Age</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Classical+and+Hellenistic&amp;openAccess=Y">Classical
-      and Hellenistic</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Migration+Period%2C+Early+Medieval+and+Medieval&amp;openAccess=Y">Migration
-      Period, Early Medieval and Medieval</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Neolithic+%2F+Chalcolithic&amp;openAccess=Y">Neolithic
-      / Chalcolithic</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Palaeolithic+%2F+Mesolithic&amp;openAccess=Y">Palaeolithic
-      / Mesolithic</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Prehistory+%28general+titles+only%29&amp;openAccess=Y">Prehistory
-      (general titles only)</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Roman&amp;openAccess=Y">Roman</a><br
-      /><br /><br /><b>Geographical Areas</b><br /><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Africa&amp;openAccess=Y">Africa</a><br
-      /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Arabia&amp;openAccess=Y">Arabia</a><br
-      /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Australia%2C+New+Zealand+and+the+Pacific&amp;openAccess=Y">Australia,
-      New Zealand and the Pacific</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=British+Isles&amp;openAccess=Y">British
-      Isles</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Central+and+Eastern+Europe&amp;openAccess=Y">Central
-      and Eastern Europe</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Central+and+South+America+and+the+Caribbean&amp;openAccess=Y">Central
-      and South America and the Caribbean</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Egypt+and+Sudan&amp;openAccess=Y">Egypt
-      and Sudan</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Far+East&amp;openAccess=Y">Far
-      East</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Greece%2C+Aegean%2C+Crete+and+Black+Sea&amp;openAccess=Y">Greece,
-      Aegean, Crete and Black Sea</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Levant+%2F+Near+East&amp;openAccess=Y">Levant
-      / Near East</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Mediterranean&amp;openAccess=Y">Mediterranean</a><br
-      /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=North+America&amp;openAccess=Y">North
-      America</a><br /><a
-      href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Western+Europe+and+Britain&amp;openAccess=Y">Western
-      Europe and Britain</a><br />&nbsp;</blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Archaeopress: Open Access</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 29 July 2014, updated 19 January 2017]</span><br /><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?OpenAccess=Y&amp;intro=true">Archaeopress: Open Access</a><br /><blockquote class="tr_bq"><img alt="Archaeopress logo" border="0" class="txt" src="http://archaeopress.com/ArchaeopressShop/Public/imagesArchaeopress/Archaeopresslogo.jpg" height="58" hspace="1" vspace="1" width="260" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Open Access content is available to view  online or you can download to your chosen device. All content is in PDF  format. You are welcome to share Open Access content amongst your  colleagues but please be sure to cite it fully and accurately. To learn  more about publishing in <i>Archaeopress Open Access</i> please contact <a href="mailto:archaeo@archaeopress.com?subject=Open%20Access">archaeo@archaeopress.com</a></span></blockquote><blockquote class="tr_bq"><b>Time Periods</b><br /><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Bronze+Age+and+Iron+Age&amp;openAccess=Y">Bronze Age and Iron Age</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Classical+and+Hellenistic&amp;openAccess=Y">Classical and Hellenistic</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Early+Modern+and+Modern&amp;openAccess=Y">Early Modern and Modern</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Late+Antiquity+and+Byzantium&amp;openAccess=Y">Late Antiquity and Byzantium</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Migration+Period%2C+Early+Medieval+and+Medieval&amp;openAccess=Y">Migration Period, Early Medieval and Medieval</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Multiperiod&amp;openAccess=Y">Multiperiod</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Neolithic+%2F+Chalcolithic&amp;openAccess=Y">Neolithic / Chalcolithic</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Palaeolithic+%2F+Mesolithic&amp;openAccess=Y">Palaeolithic / Mesolithic</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Prehistory+%28general+titles+only%29&amp;openAccess=Y">Prehistory (general titles only)</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?TimePeriod=Roman&amp;openAccess=Y">Roman</a><br /><br /><b>Geographical Areas</b><br /><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Africa&amp;openAccess=Y">Africa</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Arabia&amp;openAccess=Y">Arabia</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Australia%2C+New+Zealand+and+the+Pacific&amp;openAccess=Y">Australia, New Zealand and the Pacific</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=British+Isles&amp;openAccess=Y">British Isles</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Central+and+Eastern+Europe&amp;openAccess=Y">Central and Eastern Europe</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Central+and+South+America+and+the+Caribbean&amp;openAccess=Y">Central and South America and the Caribbean</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Central+and+South+Asia&amp;openAccess=Y">Central and South Asia</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Egypt+and+Sudan&amp;openAccess=Y">Egypt and Sudan</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Far+East&amp;openAccess=Y">Far East</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Greece%2C+Aegean%2C+Crete+and+Black+Sea&amp;openAccess=Y">Greece, Aegean, Crete and Black Sea</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Levant+%2F+Near+East&amp;openAccess=Y">Levant / Near East</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Mediterranean&amp;openAccess=Y">Mediterranean</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Mesopotamia&amp;openAccess=Y">Mesopotamia</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=North+America&amp;openAccess=Y">North America</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Scandinavia&amp;openAccess=Y">Scandinavia</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?GeographicalArea=Western+Europe+and+Britain&amp;openAccess=Y">Western Europe and Britain</a><br /><br /><b>Subject Areas</b><br /><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Agriculture+%2F+Farming+%2F+Husbandry+%2F+Land%2Duse+%2F+Irrigation&amp;openAccess=Y">Agriculture / Farming / Husbandry / Land-use / Irrigation</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Archaeobotany+%2F+Environment+and+Climate&amp;openAccess=Y">Archaeobotany / Environment and Climate</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Archaeometry+%2F+Scientific+Dating&amp;openAccess=Y">Archaeometry / Scientific Dating</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Archaeozoology+%2F+Bioarchaeology+%2F+Osteoarchaeology&amp;openAccess=Y">Archaeozoology / Bioarchaeology / Osteoarchaeology</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Architecture+%2F+Domestic+and+Urban+Buildings+and+Space+%2F+Urbanism&amp;openAccess=Y">Architecture / Domestic and Urban Buildings and Space / Urbanism</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Art+%2F+Sculpture+%2F+Gems+%2F+Seals&amp;openAccess=Y">Art / Sculpture / Gems / Seals</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Ceramics+and+Pottery+Studies&amp;openAccess=Y">Ceramics and Pottery Studies</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Computing+and+Quantitative+Methods&amp;openAccess=Y">Computing and Quantitative Methods</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Craft+working+%28general+titles%2C+bone%2C+glass%2C+textiles%2C+etc%2E%29&amp;openAccess=Y">Craft working (general titles, bone, glass, textiles, etc.)</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Death+%2F+Burial+%2F+Cemeteries+%2F+Tombs&amp;openAccess=Y">Death / Burial / Cemeteries / Tombs</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Epigraphy+%2F+Ancient+and+Medieval+Texts+%2F+Papyri&amp;openAccess=Y">Epigraphy / Ancient and Medieval Texts / Papyri</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Ethnoarchaeology+%2F+Anthropology&amp;openAccess=Y">Ethnoarchaeology / Anthropology</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Excavation+%2F+Fieldwork+%2F+Survey&amp;openAccess=Y">Excavation / Fieldwork / Survey</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Experimental+Archaeology&amp;openAccess=Y">Experimental Archaeology</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=History+of+Archaeology&amp;openAccess=Y">History of Archaeology</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Human+Origins&amp;openAccess=Y">Human Origins</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Hunter%2DGatherers+%2F+Hunting&amp;openAccess=Y">Hunter-Gatherers / Hunting</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Landscape+Archaeology&amp;openAccess=Y">Landscape Archaeology</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Lithics+%2F+Stone+Tools&amp;openAccess=Y">Lithics / Stone Tools</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Maritime+and+Underwater+Archaeology&amp;openAccess=Y">Maritime and Underwater Archaeology</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Metal+Objects&amp;openAccess=Y">Metal Objects</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Metallurgy+%2F+Mining&amp;openAccess=Y">Metallurgy / Mining</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Military+%2F+Fortifications+%2F+Conflict&amp;openAccess=Y">Military / Fortifications / Conflict</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Museum+Studies+%2F+Conservation+%2F+Heritage+%2F+Education&amp;openAccess=Y">Museum Studies / Conservation / Heritage / Education</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Numismatics&amp;openAccess=Y">Numismatics</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Remote+Sensing%2C+GIS+and+Aerial+Photography&amp;openAccess=Y">Remote Sensing, GIS and Aerial Photography</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Ritual+%2F+Religion+%2F+Temples&amp;openAccess=Y">Ritual / Religion / Temples</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Rock%2DArt+%2F+Semiotics&amp;openAccess=Y">Rock-Art / Semiotics</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Theory+and+Method+%28general+titles%29&amp;openAccess=Y">Theory and Method (general titles)</a><br /><a href="http://archaeopress.com/ArchaeopressShop/Public/defaultAll.asp?SubjectArea=Trade+%2F+Exchange+%2F+Travel+%2F+Economy&amp;openAccess=Y">Trade / Exchange / Travel / Economy</a><br /></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/236801690984884563/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/236801690984884563/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/07/archaeopress-open-access.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/236801690984884563"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/236801690984884563"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/07/archaeopress-open-access.html"
          title="Archaeopress: Open Access"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

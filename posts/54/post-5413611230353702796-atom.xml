@@ -1,88 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5413611230353702796</id>
-    <published>2015-02-20T21:38:00.003-05:00</published>
-    <updated>2015-03-29T15:10:01.634-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5413611230353702796</id>
+   <published>2015-02-20T21:38:00.003-05:00</published>
+   <updated>2015-03-29T15:10:01.634-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Food"/>
-    <title type="text">Pass the Garum: Eating like the Ancients</title>
-    <content type="html"><![CDATA[<a href="http://www.passthegarum.co.uk/">Pass the Garum: Eating like
-      the Ancients</a><br /><blockquote class="tr_bq"><img
-      alt="http://static.wixstatic.com/media/bf6f69_e5888e1779fe4a28818649c1d78b531e.png_srz_p_567_127_75_22_0.50_1.20_0.00_png_srz"
-      class="decoded"
-      src="http://static.wixstatic.com/media/bf6f69_e5888e1779fe4a28818649c1d78b531e.png_srz_p_567_127_75_22_0.50_1.20_0.00_png_srz"
-      height="44" width="200" /> </blockquote><blockquote class="tr_bq"><span
-      style="font-family: inherit;">In history we tend to look at the big things - the battles,
-      the baddies, the plot and the intrigue - but sometimes it's the average and the everyday which
-      impress most, giving us the tiniest of glimpses into the lives of the long
-      dead.</span><br /><span style="font-family: inherit;"><br
-      /></span><span style="font-family: inherit;">We can listen to a song written
-      some 1900 years ago (<a href="http://bit.ly/dPK2A1" target="_blank">The Song of
-      Seikilos</a>&nbsp;for all interested), read the words of a lovestruck Pompeian ("I
-      don't want to sell my husband, not for all the gold in the world."&nbsp;<a
-      href="http://bit.ly/AiMDa" target="_blank">Pompeian graffiti</a>), and perhaps most
-      importantly for the purposes of this blog, we can eat what they ate.</span><br
-      /><br /><b>Why 'Pass the Garum'?</b><br /><br
-      /><div></div><div><a href="http://bit.ly/T5Vm2q"
-      target="_blank">Garum</a>&nbsp;was a fermented fish sauce which the Romans loved
-      to put in EVERYTHING. So, much as we might say 'pass the salt', a Roman might ask their
-      toga-clad chum to 'pass the garum'.</div><div></div><div><b>Why
-      food history?</b></div><div></div><div>I love food, and enjoy
-      cooking. &nbsp;I also love history - I did my degree in Ancient History, and now teach
-      everything else. &nbsp;So, why not combine the two and make something of it?
-      &nbsp;Besides that, I like the little extra insight it gives me into the people of the
-      past.</div><div></div><div><b>What food will you work
-      with?</b></div><div></div><div>I am going to start with primarily
-      Roman cuisine - it was Roman food and Roman recipes which got me interested in the topic after
-      all. &nbsp;Once I run out of Roman recipes, I'll set sail and explore the rest of the
-      ancient Mediterranean.</div><div></div><div><b>But, the Romans
-      didn't have fan ovens!</b></div><div></div><div>One of the major
-      challenges of recreating historical recipes is in staying true to the original. &nbsp;There
-      are several problems:</div><div><ol><li>The recipes are very, very
-      vague! &nbsp;They almost never include timings, and very rarely tell us how much to put
-      in.</li><li>When they DO give measurements they are in&nbsp;'quadrantals' or
-      'sextarii' or some other equally extinct method of measurement.</li><li>The
-      ingredients can be difficult to come by (rue, spelt flour, cow brain, dormice) or just
-      downright dangerous (lead salt anyone?)</li><li>Equipment. &nbsp;As much as I'd
-      like to cook in a brick oven, it's just not possible.</li></ol><div>I aim to
-      stay as true to the original recipes as possible, capturing the essence of the food if nothing
-      else. &nbsp;Rather than using a blender, I have a trusty mortar and pestle to pound my
-      ingredients. &nbsp;Where measurements aren't given, I'll use ratios or just go by what
-      feels right. &nbsp;When a recipe calls for an unusual ingredient, I'll try to get as close
-      to that as is possible.<br /><br />And with that, it's off to the kitchen!
-      &nbsp;Get in touch and tell me what you like, what you don't, and what you'd want to see me
-      do. &nbsp;If you come across any particularly quirky recipes, don't hesitate to get in
-      touch.</div></div><div style="text-align: center;"><br
-      /></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Food"/>
+   <title type="text">Pass the Garum: Eating like the Ancients</title>
+   <content type="html"><![CDATA[<a href="http://www.passthegarum.co.uk/">Pass the Garum: Eating like the Ancients</a><br /><blockquote class="tr_bq"><img alt="http://static.wixstatic.com/media/bf6f69_e5888e1779fe4a28818649c1d78b531e.png_srz_p_567_127_75_22_0.50_1.20_0.00_png_srz" class="decoded" src="http://static.wixstatic.com/media/bf6f69_e5888e1779fe4a28818649c1d78b531e.png_srz_p_567_127_75_22_0.50_1.20_0.00_png_srz" height="44" width="200" /> </blockquote><blockquote class="tr_bq"><span style="font-family: inherit;">In  history we tend to look at the big things - the battles, the baddies,  the plot and the intrigue - but sometimes it's the average and the  everyday which impress most, giving us the tiniest of glimpses into the  lives of the long dead.</span><br /><span style="font-family: inherit;"><br /></span><span style="font-family: inherit;">We can listen to a song written some 1900 years ago (<a href="http://bit.ly/dPK2A1" target="_blank">The Song of Seikilos</a>&nbsp;for  all interested), read the words of a lovestruck Pompeian ("I don't want  to sell my husband, not for all the gold in the world."&nbsp;<a href="http://bit.ly/AiMDa" target="_blank">Pompeian graffiti</a>), and perhaps most importantly for the purposes of this blog, we can eat what they ate.</span><br /><br /><b>Why 'Pass the Garum'?</b><br /><br /><div></div><div><a href="http://bit.ly/T5Vm2q" target="_blank">Garum</a>&nbsp;was a fermented  fish sauce which the Romans loved to put in EVERYTHING. So, much as we  might say 'pass the salt', a Roman might ask their toga-clad chum to  'pass the garum'.</div><div></div><div><b>Why food history?</b></div><div></div><div>I love food, and enjoy cooking. &nbsp;I also love history - I did my degree  in Ancient History, and now teach everything else. &nbsp;So, why not combine  the two and make something of it? &nbsp;Besides that, I like the little extra  insight it gives me into the people of the past.</div><div></div><div><b>What food will you work with?</b></div><div></div><div>I am going to start with primarily Roman cuisine - it was Roman food and  Roman recipes which got me interested in the topic after all. &nbsp;Once I  run out of Roman recipes, I'll set sail and explore the rest of the  ancient Mediterranean.</div><div></div><div><b>But, the Romans didn't have fan ovens!</b></div><div></div><div>One of the major challenges of recreating historical recipes is in staying true to the original. &nbsp;There are several problems:</div><div><ol><li>The recipes are very, very vague! &nbsp;They almost never include timings, and very rarely tell us how much to put in.</li><li>When they DO give measurements they are in&nbsp;'quadrantals' or 'sextarii' or some other equally extinct method of measurement.</li><li>The ingredients can be difficult to come by (rue, spelt flour, cow  brain, dormice) or just downright dangerous (lead salt anyone?)</li><li>Equipment. &nbsp;As much as I'd like to cook in a brick oven, it's just not possible.</li></ol><div>I aim to stay as true to the original recipes as possible, capturing the  essence of the food if nothing else. &nbsp;Rather than using a blender, I  have a trusty mortar and pestle to pound my ingredients. &nbsp;Where  measurements aren't given, I'll use ratios or just go by what feels  right. &nbsp;When a recipe calls for an unusual ingredient, I'll try to get  as close to that as is possible.<br /><br />And with that, it's off to the kitchen! &nbsp;Get in touch and tell me what  you like, what you don't, and what you'd want to see me do. &nbsp;If you come  across any particularly quirky recipes, don't hesitate to get in touch.</div></div><div style="text-align: center;"><br /></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5413611230353702796/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5413611230353702796/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/02/pass-garum-eating-like-ancients.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5413611230353702796"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5413611230353702796"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/02/pass-garum-eating-like-ancients.html"
          title="Pass the Garum: Eating like the Ancients"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

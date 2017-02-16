@@ -1,92 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2127718894973188210</id>
-    <published>2014-06-12T14:27:00.000-04:00</published>
-    <updated>2014-06-13T08:41:43.022-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2127718894973188210</id>
+   <published>2014-06-12T14:27:00.000-04:00</published>
+   <updated>2014-06-13T08:41:43.022-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Art"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Ancient"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Art"/>
-    <title type="text">Art and Antiquities Auction Catalogues Online at JSTOR (Beta) [temporarily
-      open access]</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 26
-      February 2010, updated 12 June 2014]</span><br /><br />n.b. The site
-      indicates that "This prototype site is open to the public through 2011". Though the comment
-      period and the survey are now closed, the collections remains open and searchable.<br
-      /><br /><a href="http://auctioncatalogs.jstor.org/">Auction Catalogs
-      (Beta)</a><br /><blockquote class="tr_bq"><img
-      alt="http://auctioncatalogs.jstor.org/showcase_logo.gif" class="decoded"
-      src="http://auctioncatalogs.jstor.org/showcase_logo.gif" /> </blockquote><span
-      style="font-size: 85%;"></span><br /><blockquote
-      class="tr_bq"><h2><span style="font-size: x-small;">Project
-      Conception</span></h2><span style="font-size: x-small;">JSTOR is
-      collaborating with the Frick Collection and the Metropolitan Museum of Art in a pilot project
-      funded by The Andrew W. Mellon Foundation to understand how auction catalogs can be best
-      preserved for the long-term and made most easily accessible for scholarly use. Auction catalogs
-      are vital for provenance research as well as for the study of art markets and the history of
-      collecting.&nbsp;While scholars are highly interested in them—with the Frick and the Met
-      noting daily use of their catalogs—libraries face a range of challenges with respect to their
-      auction catalog collections, including preservation concerns and shelf space
-      constraints.</span><br /><h2><span style="font-size: x-small;">About
-      Auction Catalogs</span></h2><span style="font-size: x-small;">This pilot
-      project will digitize and preserve a small set of English language auction catalogs dating from
-      the 18<sup>th</sup>&nbsp;through the early
-      20<sup>th</sup>&nbsp;century, while examining how best a more extensive effort
-      might be undertaken.&nbsp;The catalogs are vital for research into the provenance and
-      attribution of particular art works, the creation of&nbsp;<i>catalogue
-      raisonnés</i>, as a source for high-quality images, the study of art markets and the
-      history of taste and collecting, and as a window into historical events.&nbsp; Both the
-      Frick and the Met note that their patrons use their catalogs on a daily basis.&nbsp;While
-      catalogs that date back to the 18<sup>th</sup>&nbsp;Century tend to be in good
-      condition, thanks to superior paper quality, those from the
-      19<sup>th</sup>&nbsp;through early
-      20<sup>th</sup>&nbsp;Centuries are deteriorating relatively quickly because of
-      the less expensive acidic paper they were printed on.</span><br
-      /><h2><span style="font-size: x-small;">Enhancing
-      Discovery</span></h2><span style="font-size: x-small;">As few catalogs before
-      the mid-20th Century are indexed, the ability to conduct a full-text search would “unlock”
-      content that is currently difficult to find.&nbsp; Also, an online environment would create
-      new opportunities to associate the catalogs with relevant material.&nbsp; For instance,
-      descriptions of art objects could be linked to photographs of those objects across a range of
-      resources, such as ARTstor and Google Images.&nbsp;</span>
-      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">For
-      the catalogs that have been indexed, links could be enabled from databases such as SCIPIO (an
-      online union catalog of auction catalog records) to the full text.&nbsp; Getty’s Provenance
-      Index, which tracks the provenance of art items from 1640-1850, could also link to the relevant
-      catalogs.&nbsp; Further, in certain subfields, such as African and Oceanic art, catalogs
-      are repositories of significant scholarship and are a necessary supplement to the sparse
-      journal coverage.&nbsp;</span><br /><br /><span style="font-size:
-      x-small;">To enhance access to content, JSTOR is developing new tools for digitization, such
-      as capturing handwritten annotations that document the lots’ buyers and prices. New tools
-      linking resources and allowing authorized users to contribute information will provide
-      opportunities to enhance content.</span></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Ancient"/>
+   <title type="text">Art and Antiquities Auction Catalogues Online at JSTOR (Beta) [temporarily open access]</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 26 February 2010, updated 12 June 2014]</span><br /><br />n.b. The site indicates that "This prototype site is open to the public through 2011". Though the comment period and the survey are now closed, the collections remains open and searchable.<br /><br /><a href="http://auctioncatalogs.jstor.org/">Auction Catalogs (Beta)</a><br /><blockquote class="tr_bq"><img alt="http://auctioncatalogs.jstor.org/showcase_logo.gif" class="decoded" src="http://auctioncatalogs.jstor.org/showcase_logo.gif" /> </blockquote><span style="font-size: 85%;"></span><br /><blockquote class="tr_bq"><h2><span style="font-size: x-small;">Project Conception</span></h2><span style="font-size: x-small;">JSTOR is collaborating with the Frick  Collection and the Metropolitan Museum of Art in a pilot project funded  by The Andrew W. Mellon Foundation to understand how auction catalogs  can be best preserved for the long-term and made most easily accessible  for scholarly use. Auction catalogs are vital for provenance research as  well as for the study of art markets and the history of  collecting.&nbsp;While scholars are highly interested in them—with the Frick  and the Met noting daily use of their catalogs—libraries face a range of  challenges with respect to their auction catalog collections, including  preservation concerns and shelf space constraints.</span><br /><h2><span style="font-size: x-small;">About Auction Catalogs</span></h2><span style="font-size: x-small;">This pilot project will digitize and preserve a small set of English language auction catalogs dating from the 18<sup>th</sup>&nbsp;through the early 20<sup>th</sup>&nbsp;century,  while examining how best a more extensive effort might be  undertaken.&nbsp;The catalogs are vital for research into the provenance and  attribution of particular art works, the creation of&nbsp;<i>catalogue raisonnés</i>,  as a source for high-quality images, the study of art markets and the  history of taste and collecting, and as a window into historical  events.&nbsp; Both the Frick and the Met note that their patrons use their  catalogs on a daily basis.&nbsp;While catalogs that date back to the 18<sup>th</sup>&nbsp;Century tend to be in good condition, thanks to superior paper quality, those from the 19<sup>th</sup>&nbsp;through early 20<sup>th</sup>&nbsp;Centuries are deteriorating relatively quickly because of the less expensive acidic paper they were printed on.</span><br /><h2><span style="font-size: x-small;">Enhancing Discovery</span></h2><span style="font-size: x-small;">As  few catalogs before the mid-20th Century are indexed, the ability to  conduct a full-text search would “unlock” content that is currently  difficult to find.&nbsp; Also, an online environment would create new  opportunities to associate the catalogs with relevant material.&nbsp; For  instance, descriptions of art objects could be linked to photographs of  those objects across a range of resources, such as ARTstor and Google  Images.&nbsp;</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">For the catalogs that have been indexed, links could be  enabled from databases such as SCIPIO (an online union catalog of  auction catalog records) to the full text.&nbsp; Getty’s Provenance Index,  which tracks the provenance of art items from 1640-1850, could also link  to the relevant catalogs.&nbsp; Further, in certain subfields, such as  African and Oceanic art, catalogs are repositories of significant  scholarship and are a necessary supplement to the sparse journal  coverage.&nbsp;</span><br /><br /><span style="font-size: x-small;">To enhance access to content, JSTOR is developing new  tools for digitization, such as capturing handwritten annotations that  document the lots’ buyers and prices. New tools linking resources and  allowing authorized users to contribute information will provide  opportunities to enhance content.</span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2127718894973188210/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2127718894973188210/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/02/auction-catalogues-at-jstor-beta.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2127718894973188210"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2127718894973188210"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/02/auction-catalogues-at-jstor-beta.html"
          title="Art and Antiquities Auction Catalogues Online at JSTOR (Beta) [temporarily open access]"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

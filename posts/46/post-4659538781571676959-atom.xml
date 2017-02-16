@@ -1,111 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4659538781571676959</id>
-    <published>2010-12-29T14:23:00.000-05:00</published>
-    <updated>2010-12-29T14:23:03.518-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4659538781571676959</id>
+   <published>2010-12-29T14:23:00.000-05:00</published>
+   <updated>2016-11-29T17:14:50.112-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Digital Egypt for Universities</title>
-    <content type="html"><![CDATA[<a href="http://www.digitalegypt.ucl.ac.uk/Welcome.html">Digital Egypt
-      for Universities</a><br /><div style="text-align:
-      left;"><blockquote><span style="font-size: x-small;"><i>A learning and
-      teaching resource for higher education</i></span> <br /><center>
-      </center><center> <center> <table style="margin-left: 0px; margin-right:
-      auto; text-align: left;"><tbody><tr> <td> <center> <span
-      style="font-size: x-small;"><i>A learning and teaching resource
-      </i><i>developed in</i></span> <br /></center> </td>
-      <td> <center> <span style="font-size: x-small;"><a
-      href="http://www.ucl.ac.uk/" target="new"><img border="0" height="72"
-      src="http://www.digitalegypt.ucl.ac.uk/ucllogo.gif" width="61" /></a></span>
-      </center> </td> <td><span style="font-size:
-      x-small;"><i>at</i></span></td> <td><span style="font-size:
-      x-small;"><a href="http://www.casa.ucl.ac.uk/" target="new"><img align="ABSCENTER"
-      alt="CASA logo" border="0" height="81" src="http://www.digitalegypt.ucl.ac.uk/casalogo.gif"
-      width="78" /></a></span></td> <td><span style="font-size:
-      x-small;"><i>for</i></span></td> <td> <center> <span
-      style="font-size: x-small;"><a href="http://www.petrie.ucl.ac.uk/"
-      target="new"><img align="ABSCENTER" alt="Petrie Museum logo" border="0" height="70"
-      src="http://www.digitalegypt.ucl.ac.uk/petrielogo.jpg" width="70" /></a></span>
-      </center> <span style="font-size: x-small;"><i>the Petrie Museum of<br
-      />Egyptian Archaeology</i></span></td> <td><span
-      style="font-size: x-small;"><i>funded by&nbsp;</i></span></td>
-      <td><span style="font-size: x-small;"><a href="http://www.jisc.ac.uk/index.html"
-      target="new"><img align="ABSCENTER" alt="JISC" border="0" height="40"
-      src="http://www.digitalegypt.ucl.ac.uk/jisctop.gif" width="66"
-      /></a></span></td> </tr></tbody> </table></center>
-      <div style="text-align: left;"><span style="font-size:
-      x-small;">with</span></div><div>
-      </div></center><center><div style="text-align: left;"> <span
-      style="font-size: x-small;"> 3000 pages created by Wolfram Grajetzki, </span><br
-      /><span style="font-size: x-small;"> 300 pages by Stephen Quirke and invited
-      contributors</span><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;">3d reconstructions of 14 archaeological
-      sites by Narushige Shiode</span> </div><div style="text-align:
-      left;"><span style="font-size: x-small;">This site is aimed to assist teaching across
-      all disciplines, and was created in 2000-2003, managed by Stephen
-      Quirke</span></div><br
-      /></center></blockquote><blockquote><span style="font-size:
-      x-small;">The Petrie Museum aims to provide translations of the site in Arabic and Spanish:
-      for information and suggestions on funding please contact </span><span
-      style="font-size: x-small;"> <a href="mailto:s.quirke@ucl.ac.uk">Stephen
-      Quirke</a></span></blockquote></div><br /><div
-      style="text-align: center;"><br /></div><table bgcolor="#fdd242" border="0"
-      cellpadding="2" cellspacing="2" style="margin-left: auto; margin-right: auto; text-align:
-      left;"><tbody><tr></tr><tr><td align="center" bgcolor="#3630bb"
-      width="8"><br /></td> <td align="center" bgcolor="#ff8060"
-      width="72"><a href="http://www.digitalegypt.ucl.ac.uk/Welcome.html"><span
-      style="color: navy; font-size: small;">Homepage</span></a></td> <td
-      align="center" bgcolor="#3630bb" width="10"><br /></td> <td align="center"
-      bgcolor="#86f0f9" width="70"><a
-      href="http://www.digitalegypt.ucl.ac.uk/chronology/index.html"><span style="color: navy;
-      font-size: small;">Timeline</span></a></td> <td align="center"
-      bgcolor="#3630bb" width="10"><br /></td> <td align="center" bgcolor="#ff8060"
-      width="70"><a href="http://www.digitalegypt.ucl.ac.uk/maps/index.html"><span
-      style="color: navy; font-size: small;">Maps</span></a></td> <td
-      align="center" bgcolor="#3630bb" width="10"><br /></td> <td align="center"
-      bgcolor="#86f0f9" width="70"><a
-      href="http://www.digitalegypt.ucl.ac.uk/alphabet.html"><span style="color: navy;
-      font-size: small;">A-Z index</span></a></td> <td align="center"
-      bgcolor="#3630bb" width="10"><br /></td> <td align="center" bgcolor="#ff8060"
-      width="70"><a href="http://www.digitalegypt.ucl.ac.uk/main/index.html"><span
-      style="color: navy; font-size: small;">Learning</span></a></td> <td
-      align="center" bgcolor="#3630bb" width="10"><br
-      /></td></tr></tbody></table><div style="text-align:
-      center;"><br /></div><div style="text-align: center;"><a
-      href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" id="data:post.url"
-      name="data:post.title" onclick="return addthis_sendto()" onmouseout="addthis_close()"
-      onmouseover="'return"><img alt="Bookmark and Share so Your Real Friends Know that You
-      Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt
-      none;" width="125" /></a></div><br /><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script>]]></content>
-    <link rel="replies"
+   <title type="text">Digital Egypt for Universities</title>
+   <content type="html"><![CDATA[<a href="http://www.digitalegypt.ucl.ac.uk/Welcome.html">Digital Egypt for Universities</a><br /><div style="text-align: left;"><blockquote><span style="font-size: x-small;"><i>A learning and teaching resource for higher education</i></span>       <br /><center>       </center><center>         <center>           <table style="margin-left: 0px; margin-right: auto; text-align: left;"><tbody><tr>                <td><center>                   <span style="font-size: x-small;"><i>A learning and teaching resource </i><i>developed                      in</i></span> <br /></center></td>               <td><center>                   <span style="font-size: x-small;"><a href="http://www.ucl.ac.uk/" target="new"><img border="0" src="http://www.digitalegypt.ucl.ac.uk/ucllogo.gif" height="72" width="61" /></a></span>                  </center></td>               <td><span style="font-size: x-small;"><i>at</i></span></td>               <td><span style="font-size: x-small;"><a href="http://www.casa.ucl.ac.uk/" target="new"><img align="ABSMIDDLE" alt="CASA logo" border="0" src="http://www.digitalegypt.ucl.ac.uk/casalogo.gif" height="81" width="78" /></a></span></td>               <td><span style="font-size: x-small;"><i>for</i></span></td>               <td><center>                   <span style="font-size: x-small;"><a href="http://www.petrie.ucl.ac.uk/" target="new"><img align="ABSMIDDLE" alt="Petrie Museum logo" border="0" src="http://www.digitalegypt.ucl.ac.uk/petrielogo.jpg" height="70" width="70" /></a></span>                  </center><span style="font-size: x-small;"><i>the Petrie Museum of<br />Egyptian Archaeology</i></span></td>               <td><span style="font-size: x-small;"><i>funded by&nbsp;</i></span></td>               <td><span style="font-size: x-small;"><a href="http://www.jisc.ac.uk/index.html" target="new"><img align="ABSMIDDLE" alt="JISC" border="0" src="http://www.digitalegypt.ucl.ac.uk/jisctop.gif" height="40" width="66" /></a></span></td>             </tr></tbody>            </table></center><div style="text-align: left;"><span style="font-size: x-small;">with</span></div><div></div></center><center><div style="text-align: left;"><span style="font-size: x-small;"> 3000 pages created by Wolfram Grajetzki, </span><br /><span style="font-size: x-small;">         300 pages by Stephen Quirke and invited contributors</span><br /><span style="font-size: x-small;">         </span><span style="font-size: x-small;">3d reconstructions of 14 archaeological sites by          Narushige Shiode</span>          </div><div style="text-align: left;"><span style="font-size: x-small;">This site is aimed to assist teaching across all disciplines,            and was created in 2000-2003, managed by Stephen Quirke</span></div><br /></center></blockquote><blockquote><span style="font-size: x-small;">The Petrie Museum aims to provide translations of the site in Arabic          and Spanish: for information and suggestions on funding please contact          </span><span style="font-size: x-small;"> <a href="mailto:s.quirke@ucl.ac.uk">Stephen Quirke</a></span></blockquote></div><br /><div style="text-align: center;"><br /></div><table bgcolor="#fdd242" border="0" cellpadding="2" cellspacing="2" style="margin-left: auto; margin-right: auto; text-align: left;"><tbody><tr></tr><tr><td align="center" bgcolor="#3630bb" width="8"><br /></td>       <td align="center" bgcolor="#ff8060" width="72"><a href="http://www.digitalegypt.ucl.ac.uk/Welcome.html"><span style="color: navy; font-size: small;">Homepage</span></a></td>       <td align="center" bgcolor="#3630bb" width="10"><br /></td>       <td align="center" bgcolor="#86f0f9" width="70"><a href="http://www.digitalegypt.ucl.ac.uk/chronology/index.html"><span style="color: navy; font-size: small;">Timeline</span></a></td>       <td align="center" bgcolor="#3630bb" width="10"><br /></td>       <td align="center" bgcolor="#ff8060" width="70"><a href="http://www.digitalegypt.ucl.ac.uk/maps/index.html"><span style="color: navy; font-size: small;">Maps</span></a></td>       <td align="center" bgcolor="#3630bb" width="10"><br /></td>       <td align="center" bgcolor="#86f0f9" width="70"><a href="http://www.digitalegypt.ucl.ac.uk/alphabet.html"><span style="color: navy; font-size: small;">A-Z          index</span></a></td>       <td align="center" bgcolor="#3630bb" width="10"><br /></td>       <td align="center" bgcolor="#ff8060" width="70"><a href="http://www.digitalegypt.ucl.ac.uk/main/index.html"><span style="color: navy; font-size: small;">Learning</span></a></td>       <td align="center" bgcolor="#3630bb" width="10"><br /></td></tr></tbody></table><div style="text-align: center;"><br /></div><div style="text-align: center;"><a href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" id="data:post.url" name="data:post.title" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="'return"><img alt="Bookmark and Share so Your Real Friends Know that You Know" src="http://s7.addthis.com/static/btn/lg-share-en.gif" height="16" style="border: 0pt none;" width="125" /></a></div><br /><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4659538781571676959/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4659538781571676959/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/12/digital-egypt-for-universities.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4659538781571676959"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4659538781571676959"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/12/digital-egypt-for-universities.html"
          title="Digital Egypt for Universities"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

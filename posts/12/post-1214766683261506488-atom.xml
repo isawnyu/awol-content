@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1214766683261506488</id>
+   <published>2016-09-02T17:53:00.000-04:00</published>
+   <updated>2016-09-02T17:53:02.379-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Getting Data out of Open Context &amp; Doing Useful Things With It: Coda</title>
+   <content type="html"><![CDATA[<a href="https://electricarchaeology.ca/2016/09/02/getting-data-out-of-open-context-doing-useful-things-with-it-coda/">Getting Data out of Open Context &amp; Doing Useful Things With It: Coda</a><br /><blockquote class="tr_bq"><img alt="Drawing (1) logo" class="site-logo attachment-gazette-logo" data-size="gazette-logo" height="60" src="https://electricarchaeologist.files.wordpress.com/2015/10/drawing-1-e1444009494502.png?w=348" width="174" /> </blockquote><div class="entry-content">		<blockquote class="tr_bq"><span style="font-size: x-small;"><em>Previously, on tips to get stuff out of Open Context…</em></span><br /><br /> <span style="font-size: x-small;">In <a href="https://electricarchaeology.ca/2016/09/01/getting-data-out-of-open-context-doing-useful-things-with-it-part-1/">part 1,</a> I showed you how to generate a list of URLs that you could then feed into `wget` to download information.</span><br /><br /> <span style="font-size: x-small;">In <a href="https://electricarchaeology.ca/2016/09/01/getting-data-out-of-open-context-doing-useful-things-with-it-part-2/">part 2</a>,  I showed you how to use `jq` and `jqplay` – via the amazing Matthew  Lincoln, from whom I’ve learned whatever small things I know about the  subject – to examine the data and to filter it for exactly what you  want.</span><br /> <h3><span style="font-size: x-small;">Today – combining wget &amp; jq</span></h3><span style="font-size: x-small;">Today, we use wget to pipe the material through jq to get the csv of  your dreams. Assuming you’ve got a list of urls (generated with our  script from part 1), you point your firehose of downloaded data directly  into jq. The crucial thing is to flag wget with `-qO-` to tell it that  the output will be *piped* to another program. In which case, you would  type at the terminal prompt or command line:</span><br /> <pre><span style="font-size: x-small;">wget -qO- -i urls2.txt | jq -r '.features [ ] | .properties | [.label, .href, ."context label", ."early bce/ce", ."late bce/ce", ."item category", .snippet] | @csv' &gt; <span class="skimlinks-unlinked">out.csv</span><br /></span></pre><span style="font-size: x-small;">Which in Human says, ” hey wget, grab all of the data at the urls in  the list at urls2.txt and pipe that information into jq. JQ, you’re  going to filter for raw output the information within properities (which  is within features), in particular these fields. Split the information  fields up via commas, and write everything to a new file called <span class="skimlinks-unlinked">out.csv</span>.”</span><br /><br /> <span style="font-size: x-small;">…Extremely cool, eh? (Word to the wise:&nbsp;read Ian’s <a href="http://programminghistorian.org/lessons/automated-downloading-with-wget">tutorial on wget</a>&nbsp;to learn how to form your wget requests&nbsp;<em>politely</em> so that you don’t overwhelm the servers. Wait a moment between requests  – look at how the wget was formed in the open context part 1 post).</span><br /><br /> 		<div class="wpcnt">			 		</div></blockquote></div><blockquote> 	 		<span style="font-size: x-small;"><span class="posted-on"><a href="https://electricarchaeology.ca/2016/09/02/getting-data-out-of-open-context-doing-useful-things-with-it-coda/" rel="bookmark"><time class="entry-date published updated" datetime="2016-09-02T10:35:13+00:00">September 2, 2016</time></a></span></span></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/1214766683261506488/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/09/getting-data-out-of-open-context-doing.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1214766683261506488"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1214766683261506488"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/09/getting-data-out-of-open-context-doing.html"
+         title="Getting Data out of Open Context &amp; Doing Useful Things With It: Coda"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

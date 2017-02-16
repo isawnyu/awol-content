@@ -1,204 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6472013499592830851</id>
-    <published>2013-11-08T13:00:00.000-05:00</published>
-    <updated>2013-11-08T13:12:42.325-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6472013499592830851</id>
+   <published>2015-12-26T11:47:00.000-05:00</published>
+   <updated>2015-12-26T11:48:28.002-05:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Catalonia"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Philology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Catalan"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Catalonia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
-    <title type="text">Open Access Journal: Anuari de Filologia. Antiqva et Mediaevalia</title>
-    <content type="html"><![CDATA[<a
-      href="http://dialnet.unirioja.es/servlet/revista?codigo=19375"><span
-      class="titulo">Anuari de Filologia. Antiqva et Mediaevalia</span></a><br
-      />ISSN: 2014-1386 <br /><blockquote class="tr_bq"><div
-      id="subtexte"><span style="font-size: x-small;">L'<em>Anuari de Filologia.
-      Antiqua et Mediaeualia</em> és una revista internacional de lliure accés que es publica
-      cada any. Té com a objectiu la difusió d'articles d'investigació, ressenyes i tesis doctorals
-      de la UB sobre temes relacionats amb la llengua i literatura de filologia grega, llatina,
-      indoeuropea, àrab i hebrea, així com de llengües romàniques, fins a l'època medieval i
-      humanística. </span></div></blockquote><blockquote
-      class="tr_bq"><div id="subtexte"> <span style="font-size: x-small;">Els treballs
-      es publiquen en qualsevol de les llengües en què s'imparteix docència a la Facultat de
-      Filologia de la Universitat de Barcelona (català, espanyol, eusquera, gallec, portuguès, grec,
-      anglès, alemany, italià, francès, àrab, hebreu, neerlandès, suec, rus, polonès i turc).
-      </span></div></blockquote><blockquote class="tr_bq"><div
-      id="subtexte"> <span style="font-size: x-small;">L'<em>Anuari de Filologia.
-      Antiqua et Mediaeualia</em> compta amb un Consell Assessor Internacional que col·labora
-      amb el Consell de Redacció en el procés de revisió i selecció dels treballs per parells
-      (<em>peer-review</em>).</span></div><span class="titulo"><span
-      style="font-size: x-small;"></span></span></blockquote><blockquote
-      class="tr_bq"><h2><span style="font-size: x-small;">Núm. 3
-      (2013)</span></h2><div id="content"><span style="font-size: x-small;">
-      </span><h3><span style="font-size:
-      x-small;">Sumari</span></h3><span style="font-size: x-small;">
-      </span><h4 class="tocSectionTitle"><span style="font-size:
-      x-small;">Articles</span></h4><span style="font-size: x-small;">
-      </span><table class="tocArticle" style="width: 100%px;"><tbody><tr
-      valign="top"> <td class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8132">Enigmes d'identitat: ¿làmies,
-      <em>estriges</em> o bruixes? en <em>De Lamiis et Pythonicis
-      Mulieribus</em> i uns altres tractats demonològics del segle
-      XV</a></span></td> <td class="tocGalleys"> <span style="font-size:
-      x-small;"><a class="file"
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8132/10074">PDF
-      (Español)</a></span> </td></tr><tr> <td
-      class="tocAuthors"><span style="font-size: x-small;"> Maria Ahn, Alejandra Guzmán
-      </span></td> <td class="tocPages"><span style="font-size:
-      x-small;">1-24</span><br /> </td>
-      </tr></tbody></table><span style="font-size: x-small;">
-      </span><table class="tocArticle" style="width: 100%px;"><tbody><tr
-      valign="top"> <td class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8133">El vers perdut
-      d'Ovidi</a></span></td> <td class="tocGalleys"> <span
-      style="font-size: x-small;"><a class="file"
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8133/10075">PDF
-      (English)</a></span> </td></tr><tr> <td
-      class="tocAuthors"><span style="font-size: x-small;"> Xaverio Ballester
-      </span></td> <td class="tocPages"><span style="font-size:
-      x-small;">25-30</span><br /> </td>
-      </tr></tbody></table><span style="font-size: x-small;">
-      </span><table class="tocArticle" style="width: 100%px;"><tbody><tr
-      valign="top"> <td class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8134">El
-      <em>introito</em> de la <em>Costança</em> de Cristóbal de
-      Castillejo</a></span></td> <td class="tocGalleys"> <span
-      style="font-size: x-small;"><a class="file"
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8134/10076">PDF
-      (Español)</a></span> </td></tr><tr> <td
-      class="tocAuthors"><span style="font-size: x-small;"> Rocío Carande Herrero
-      </span></td> <td class="tocPages"><span style="font-size:
-      x-small;">31-60</span><br /> </td>
-      </tr></tbody></table><span style="font-size: x-small;">
-      </span><table class="tocArticle" style="width: 100%px;"><tbody><tr
-      valign="top"> <td class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8135">El procés de composició de
-      l'obra ciceroniana segons les <em>Cartes</em> a
-      Àtic</a></span></td> <td class="tocGalleys"> <span style="font-size:
-      x-small;"><a class="file"
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8135/10077">PDF
-      (Español)</a></span> </td></tr><tr> <td
-      class="tocAuthors"><span style="font-size: x-small;"> Maria Antònia Fornés, Mercè Puig
-      </span></td> <td class="tocPages"><span style="font-size:
-      x-small;">61-78</span><br /> </td>
-      </tr></tbody></table><span style="font-size: x-small;">
-      </span><table class="tocArticle" style="width: 100%px;"><tbody><tr
-      valign="top"> <td class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8136">Els vocatius despectius en
-      Plaute: anàlisi dels insults en la reacció interaccional</a></span></td>
-      <td class="tocGalleys"> <span style="font-size: x-small;"><a class="file"
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8136/10084">PDF
-      (Español)</a></span> </td></tr><tr> <td
-      class="tocAuthors"><span style="font-size: x-small;"> Catalina Monserrat Roig
-      </span></td> <td class="tocPages"><span style="font-size:
-      x-small;">79-96</span><br /> </td>
-      </tr></tbody></table><span style="font-size: x-small;">
-      </span><table class="tocArticle" style="width: 100%px;"><tbody><tr
-      valign="top"> <td class="tocTitle"><span style="font-size: x-small;"><a
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8137">Observacions crítiques a
-      <em>Met.</em> 6277-283</a></span></td> <td
-      class="tocGalleys"> <span style="font-size: x-small;"><a class="file"
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8137/10078">PDF
-      (Español)</a></span> </td></tr><tr> <td
-      class="tocAuthors"><span style="font-size: x-small;"> Antonio Ramírez de Verger
-      </span></td> <td class="tocPages"><span style="font-size:
-      x-small;">97-110</span><br /> </td>
-      </tr></tbody></table><span style="font-size: x-small;">
-      </span><h4 class="tocSectionTitle"><span style="font-size:
-      x-small;">Ressenyes</span></h4><span style="font-size: x-small;">
-      </span><table class="tocArticle" style="width: 100%px;"><tbody><tr
-      valign="top"> <td class="tocTitle"><span style="font-size: x-small;">C. Ricci,
-      <em>Soldati e veterani nella vita cittadina dell’Italia
-      imperiale</em></span></td> <td class="tocGalleys"> <span
-      style="font-size: x-small;"><a class="file"
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8138/10079">PDF
-      (Italiano)</a></span> </td></tr><tr> <td
-      class="tocAuthors"><span style="font-size: x-small;"> Sara Redaelli
-      </span></td> <td class="tocPages"><span style="font-size:
-      x-small;">111-114</span><br /> </td>
-      </tr></tbody></table><span style="font-size: x-small;">
-      </span><h4 class="tocSectionTitle"><span style="font-size: x-small;">Tesis
-      Doctorals</span></h4><span style="font-size: x-small;">
-      </span><table class="tocArticle" style="width: 100%px;"><tbody><tr
-      valign="top"> <td class="tocTitle"><span style="font-size:
-      x-small;">L’<em>Orestea d’Èsquil</em> a la traducció de Pier Paolo
-      Pasolini</span></td> <td class="tocGalleys"> <span style="font-size:
-      x-small;"><a class="file"
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8139/10080">PDF</a></span>
-      </td></tr><tr> <td class="tocAuthors"><span style="font-size:
-      x-small;"> Cecilia Angioni </span></td> <td class="tocPages"><span
-      style="font-size: x-small;">115-116</span><br /> </td>
-      </tr></tbody></table><span style="font-size: x-small;">
-      </span><table class="tocArticle" style="width: 100%px;"><tbody><tr
-      valign="top"> <td class="tocTitle"><span style="font-size: x-small;">ΠΟΛΥΠΕΙΡΟΣ
-      ΣΟΦΙΑ. Heródoto en la historia de la Filosofía Griega</span></td> <td
-      class="tocGalleys"> <span style="font-size: x-small;"><a class="file"
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8140/10081">PDF
-      (Español)</a></span> </td></tr><tr> <td
-      class="tocAuthors"><span style="font-size: x-small;"> Bernardo Berruecos
-      </span></td> <td class="tocPages"><span style="font-size:
-      x-small;">119-120</span><br /> </td>
-      </tr></tbody></table><span style="font-size: x-small;">
-      </span><table class="tocArticle" style="width: 100%px;"><tbody><tr
-      valign="top"> <td class="tocTitle"><span style="font-size: x-small;">Claudius
-      Ptolemy and Self-Promotion. A study on Ptolemy’s intellectual milieu in Roman
-      Alexandria</span></td> <td class="tocGalleys"> <span style="font-size:
-      x-small;"><a class="file"
-      href="http://revistes.ub.edu/index.php/AFAM/article/view/8141/10082">PDF
-      (English)</a></span> </td></tr><tr> <td
-      class="tocAuthors"><span style="font-size: x-small;"> Cristian Tolsa
-      </span></td> <td class="tocPages"><span style="font-size:
-      x-small;">121-122</span><br /> </td>
-      </tr></tbody></table><span style="font-size: x-small;">
-      </span><br /><h3><span style="font-size: x-small;"><span
-      style="font-weight: normal;">2012</span></span></h3><span
-      style="font-size: x-small;"> </span><div id="issue" style="clear: left;">
-      <h4><span style="font-weight: normal;"><span style="font-size:
-      x-small;"><a href="http://revistes.ub.edu/index.php/AFAM/issue/view/513">Núm. 2
-      (2012)</a></span></span></h4></div><span style="font-size:
-      x-small;"> <br /> </span><div style="float: left; width: 100%;">
-      <h3><span style="font-weight: normal;"><span style="font-size:
-      x-small;">2011</span></span></h3><div id="issue" style="clear:
-      left;"> <h4><span style="font-weight: normal;"><span style="font-size:
-      x-small;"><a href="http://revistes.ub.edu/index.php/AFAM/issue/view/110">Núm. 1
-      (2011)</a></span></span></h4></div></div></div><div
-      class="bot_recub"><div class="text_bot"><map name="RCUB"></map><br
-      /></div></div></blockquote><br /><div style="text-align:
-      center;"><div style="text-align: center;"><br /><br />See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Catalan"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Philology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
+   <title type="text">Open Access Journal: Anuari de Filologia. Antiqva et Mediaevalia</title>
+   <content type="html"><![CDATA[<span class="titulo"><span style="font-size: xx-small;">[First posted in AWOL 8 November 2013, updated 25 December 2015] </span></span><br /><br /><a href="http://revistes.ub.edu/index.php/AFAM/index"><span class="titulo">Anuari de Filologia. Antiqva et Mediaevalia</span></a><br />ISSN: 2014-1386 <br /><blockquote class="tr_bq"><div id="subtexte"><span style="font-size: x-small;">L'<i>Anuari de Filologia. Antiqua et Mediaeualia</i> és una revista internacional de lliure accés que es publica cada any.  Té com a objectiu la difusió d'articles d'investigació, ressenyes i  tesis doctorals de la UB sobre temes relacionats amb la llengua i  literatura de filologia grega, llatina, indoeuropea, àrab i hebrea, així  com de llengües romàniques, fins a l'època medieval i humanística. </span></div></blockquote><blockquote class="tr_bq"><div id="subtexte"><span style="font-size: x-small;">Els  treballs es publiquen en qualsevol de les llengües en què s'imparteix  docència a la Facultat de Filologia de la Universitat de Barcelona  (català, espanyol, eusquera, gallec, portuguès, grec, anglès, alemany,  italià, francès, àrab, hebreu, neerlandès, suec, rus, polonès i turc). </span></div></blockquote><blockquote class="tr_bq"><div id="subtexte"><span style="font-size: x-small;">L'<i>Anuari de Filologia. Antiqua et Mediaeualia</i> compta amb un Consell Assessor Internacional que col·labora amb el  Consell de Redacció en el procés de revisió i selecció dels treballs per  parells (<i>peer-review</i>).</span></div><span class="titulo"><span style="font-size: x-small;"></span></span></blockquote><blockquote class="tr_bq"><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2014</span></h3><span style="font-size: x-small;">     </span><div id="issue" style="clear: left;">   <h4><span style="font-size: x-small;"><a href="http://revistes.ub.edu/index.php/AFAM/issue/view/1102">Núm. 4 (2014): Homenatge a Pere-Enric Barreda Edo (1964-2014)</a></span></h4><div class="issueDescription"><span style="font-size: x-small;">Volum dedicat a la memòria del professor  del Departament de Filologia Llatina de la Universitat de  Barcelona&nbsp;Pere-Enric Barreda Edo.</span></div></div><span style="font-size: x-small;">       </span></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2013</span></h3><div id="issue" style="clear: left;">   <h4><span style="font-size: x-small;"><a href="http://revistes.ub.edu/index.php/AFAM/issue/view/709">Núm. 3 (2013)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2012</span></h3><div id="issue" style="clear: left;">   <h4><span style="font-size: x-small;"><a href="http://revistes.ub.edu/index.php/AFAM/issue/view/513">Núm. 2 (2012)</a></span></h4></div></div><span style="font-size: x-small;">   <br />           </span><h3><span style="font-size: x-small;">2011</span></h3><span style="font-size: x-small;">     </span><div id="issue" style="clear: left;">   <h4><span style="font-size: x-small;"><a href="http://revistes.ub.edu/index.php/AFAM/issue/view/1264">Núm. 1 (2011)</a></span></h4></div><span style="font-size: x-small;"> </span></blockquote><div style="text-align: center;"><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: x-small;"><span style="font-size: small;">See AWOL's List of</span></span></div><span style="font-size: small;"></span><div style="text-align: center;"><span style="font-size: small;"><span><a href="http://ancientworldonline.blogspot.com/2014/12/spanishcatalanportugese-journals-on.html">Spanish/Catalan/Portuguese Open Access Journals on the Ancient World</a></span></span></div><div style="text-align: center;"><span style="font-size: small;"><span>&nbsp;</span></span></div>See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6472013499592830851/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6472013499592830851/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/08/new-open-access-journal-anuari-de.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6472013499592830851"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6472013499592830851"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/08/new-open-access-journal-anuari-de.html"
          title="Open Access Journal: Anuari de Filologia. Antiqva et Mediaevalia"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

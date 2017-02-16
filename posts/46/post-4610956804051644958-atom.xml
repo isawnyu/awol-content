@@ -1,113 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4610956804051644958</id>
-    <published>2014-10-13T15:12:00.000-04:00</published>
-    <updated>2014-10-13T15:13:31.281-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4610956804051644958</id>
+   <published>2015-09-21T22:56:00.000-04:00</published>
+   <updated>2015-09-21T22:56:47.916-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
-    <title type="text">Open Access Journal: TC: A Journal of Biblical Textual Criticism</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[Posted in AWOL 22 December 2010.
-      Updated 13 October 2014] </span><br /><br /><a
-      href="http://purl.org/TC">TC: A Journal of Biblical Textual Criticism</a><br
-      />ISSN 1089-7447<br /><blockquote class="tr_bq"><img
-      alt="http://www.reltech.org/TC/data/TC-header.png"
-      src="http://www.reltech.org/TC/data/TC-header.png" height="53" width="320"
-      /></blockquote><blockquote><span style="font-size: x-small;">TC is an
-      online publication of the <a
-      href="http://www.sbl-site.org/publications/browsejournals.aspx">SBL</a> and is listed
-      in the <a href="http://www.doaj.org/">Directory of Open Access Journals</a>. Users
-      are permitted to download, copy, distribute, print, search, or link to the full texts of all TC
-      articles. Articles may <i>not</i> be reproduced without permission.</span>
-      </blockquote><blockquote><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;">TC publishes full-length scholarly
-      articles, shorter notes, project reports, and reviews of works in the field of biblical textual
-      criticism. Articles on any aspect of the textual criticism of the Jewish and Christian
-      scriptures (including extracanonical and related literature) are welcome, and contributions
-      that transcend the traditional boundary between Hebrew Bible and New Testament textual
-      criticism are especially encouraged. We also invite articles discussing the relationship
-      between textual criticism and other disciplines.
-      </span></blockquote><blockquote><span style="font-size: x-small;">TC
-      uses a <q>Permanent URL</q> so that readers will always be able to find it
-      regardless of which server is the current host. Please use the following PURL when linking to
-      TC and its contents:</span><br /><span style="font-size: x-small;"><a
-      href="http://purl.org/TC">http://purl.org/TC</a></span>
-      </blockquote><blockquote><ul><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v19/index.html">Volume 19
-      (2014)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v18/index.html">Volume 18
-      (2013)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v17/index.html">Volume 17
-      (2012)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v16/index.html">Volume 16
-      (2011)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v15/index.html">Volume 15
-      (2010)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v14/index.html">Volume 14
-      (2009)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v13/index.html">Volume 13
-      (2008)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v12/index.html">Volume 12
-      (2007)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v11/index.html">Volume 11
-      (2006)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v10/index.html">Volume 9-10
-      (2004-5)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v08/index.html">Volume 8
-      (2003)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v07/index.html">Volume 7
-      (2002)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v06/index.html">Volume 6
-      (2001)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v05/index.html">Volume 5
-      (2000)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v04/index.html">Volume 4
-      (1999)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v03/index.html">Volume 3
-      (1998)</a></span> </li><li> <span style="font-size:
-      x-small;"><a href="http://rosetta.reltech.org/TC/v02/index.html">Volume 2
-      (1997)</a></span> </li><li><span style="font-size: x-small;">
-      <a href="http://rosetta.reltech.org/TC/v01/index.html">Volume 1
-      (1996)</a></span> </li></ul></blockquote><span
-      style="font-size: small;"><br /></span><br /><div style="text-align:
-      center;"><span style="font-size: small;"><span style="font-family:
-      inherit;"><span style="font-weight: normal;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span><a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html"></a></div><div><div
-      style="text-align: center;"><a
-      href="http://draft.blogger.com/post-edit.g?blogID=116259103207720939&amp;postID=2506310903111589943"
-      id="data:post.url" name="data:post.title"></a></div><br /><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
+   <title type="text">Open Access Journal: TC: A Journal of Biblical Textual Criticism</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[Posted in AWOL 22 December 2010. Updated 21 September 2015] </span><br /><br /><a href="http://purl.org/TC">TC: A Journal of Biblical Textual Criticism</a><br />ISSN 1089-7447<br /><blockquote class="tr_bq"><img alt="http://www.reltech.org/TC/data/TC-header.png" src="http://www.reltech.org/TC/data/TC-header.png" height="53" width="320" /></blockquote><blockquote><span style="font-size: x-small;">TC is an online publication of the <a href="http://www.sbl-site.org/publications/browsejournals.aspx">SBL</a> and is listed in         the <a href="http://www.doaj.org/">Directory of Open Access Journals</a>. Users are         permitted to download, copy, distribute, print, search, or link to the full texts of all TC         articles. Articles may <i>not</i> be reproduced without permission.</span> </blockquote><blockquote><span style="font-size: x-small;">      </span><span style="font-size: x-small;">TC publishes full-length scholarly articles, shorter notes, project reports, and reviews of         works in the field of biblical textual criticism. Articles on any aspect of the textual         criticism of the Jewish and Christian scriptures (including extracanonical and related         literature) are welcome, and contributions that transcend the traditional boundary between         Hebrew Bible and New Testament textual criticism are especially encouraged. We also invite         articles discussing the relationship between textual criticism and other disciplines. </span></blockquote><blockquote><span style="font-size: x-small;">TC uses a <q>Permanent URL</q> so that readers will always be able to find it regardless of         which server is the current host. Please use the following PURL when linking to TC and its         contents:</span><br /><span style="font-size: x-small;"><a href="http://purl.org/TC">http://purl.org/TC</a></span>      </blockquote><blockquote><ul><li>          <div class="content" id="contents">      <h2><span style="font-weight: normal;"><a href="http://rosetta.reltech.org/TC/v20/index.html"><span style="font-size: x-small;">Volume 20 (2015)</span></a></span></h2><span style="font-size: x-small;">      </span><h3><span style="font-size: x-small;">Articles</span></h3><span style="font-size: x-small;">      </span><dl><dt><span style="font-size: x-small;">Rebekka Schirner, <a href="http://rosetta.reltech.org/TC/v20/TC-2015-Schirner.pdf" target="_blank">Augustine’s Explicit             References to Variant Readings of the New Testament Text: A Case Study</a></span></dt><dd>          <div class="abstract"><span style="font-size: x-small;"><b>Abstract:</b> This article analyzes a sample of passages where             Augustine explicitly refers to different Latin versions of the New Testament text, and             intends to expand Amy Donaldson’s list of patristic references to New Testament             variants. It also takes into consideration the evidence available to us today             (manuscripts and quotations of Latin church fathers). In doing so, it offers insights             into Augustine’s way of dealing with variants and also provides a comparison between the             material available to Augustine and the data extant today.</span></div></dd><dt><span style="font-size: x-small;">Charles Quarles, <a href="http://rosetta.reltech.org/TC/v20/TC-2015-Quarles.pdf" target="_blank">ΜΕΤΑ ΤΗΝ ΕΓΕΡΣΙΝ ΑΥΤΟΥ: A             Scribal Interpolation in Matthew 27:53?</a></span></dt><dd>          <div class="abstract"><span style="font-size: x-small;"><b>Abstract:</b> Since the seminal work of Adalbert Merx, Willoughby             C. Allen, and Erich Klostermann, a growing number of scholars have asserted that the             prepositional phrase μετὰ τὴν ἔγερσιν αὐτοῦ in Matt 27:53 is an early scribal             interpolation and an example of the orthodox corruption of Scripture. However, this             claim is based on a misunderstanding of the internal evidence and exaggerated claims             regarding the external evidence. This article provides a careful and detailed analysis             of the internal and external evidence and concludes that the prepositional phrase was             contained in the earliest text of Matthew that can be reconstructed from the currently             available data.</span></div></dd><dt><span style="font-size: x-small;">Peter Malik, <a href="http://rosetta.reltech.org/TC/v20/TC-2015-Malik.pdf" target="_blank">The Earliest Corrections in             Codex Sinaiticus: Further Evidence from the Apocalypse</a></span></dt><dd>          <div class="abstract"><span style="font-size: x-small;"><b>Abstract:</b> Previous research into the scribal corrections of             Codex Sinaiticus—also labelled as “S1”—has yielded fruitful results, especially             regarding distribution of the scribal correcting activity and the textual affinities             of corrections. The present article extends our knowledge of this aspect of Sinaiticus             by examining scribal corrections in the book of Revelation, especially with regard to             their nature, authorship, and textual affinities. It is argued that the palaeographical             and textual evidence suggests that, unlike other previously studied portions of             Sinaiticus, the text of Revelation was most likely never subjected to a secondary review             in the scriptorium.</span></div></dd></dl><span style="font-size: x-small;">             </span><h3><span style="font-size: x-small;">Reviews</span></h3><span style="font-size: x-small;">      </span><dl><dt><span style="font-size: x-small;">P. Doble and J. Kloha (eds.), <a href="http://rosetta.reltech.org/TC/v20/TC-2015-Rev-Doble-Kloha-Nicklas.pdf" target="_blank"><i> Texts and Traditions: Essays in Honour of J. Keith Elliott</i></a>          (Tobias Nicklas, reviewer)</span></dt><dt><span style="font-size: x-small;">Robert Hanhart (ed.), <a href="http://rosetta.reltech.org/TC/v20/TC-2015-Rev-Hanhart-Sigismund.pdf" target="_blank"><i>Septuaginta</i></a> (Marcus Sigismund, reviewer)</span></dt><dt><span style="font-size: x-small;">AnneMarie Luijendijk, <a href="http://rosetta.reltech.org/TC/v20/TC-2015-Rev-Luijendijk-Jones.pdf" target="_blank"><i>Forbidden Oracles? The Gospel of the Lots of Mary</i></a> (Brice C. Jones,           reviewer)</span></dt><dt><span style="font-size: x-small;">Eric F. Mason and Troy W. Martin (eds.) <a href="http://rosetta.reltech.org/TC/v20/TC-2015-Rev-Mason-Martin-Kraus.pdf" target="_blank"><i>Reading 1-2 Peter and Jude: A Resource for Students (Thomas J. Kraus,               reviewer)</i></a></span></dt><dt><span style="font-size: x-small;">Joseph E. Sanzo, <a href="http://rosetta.reltech.org/TC/v20/TC-2015-Rev-Sanzo-Kraus.pdf" target="_blank"><i>Scriptural               Incipits on Amulets from Late Antique Egypt</i></a> (Thomas J. Kraus, reviewer)</span></dt><dt><span style="font-size: x-small;">Markus Vinzent, <a href="http://rosetta.reltech.org/TC/v20/TC-2015-Rev-Vinzent-Himes.pdf" target="_blank"><i>Marcion and               the Dating of the Synoptic Gospels</i></a> (Paul A. Himes, reviewer)</span></dt></dl></div></li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v19/index.html">Volume 19 (2014)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v18/index.html">Volume 18 (2013)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v17/index.html">Volume 17 (2012)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v16/index.html">Volume 16 (2011)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v15/index.html">Volume 15 (2010)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v14/index.html">Volume 14 (2009)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v13/index.html">Volume 13 (2008)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v12/index.html">Volume 12 (2007)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v11/index.html">Volume 11 (2006)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v10/index.html">Volume 9-10 (2004-5)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v08/index.html">Volume 8 (2003)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v07/index.html">Volume 7 (2002)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v06/index.html">Volume 6 (2001)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v05/index.html">Volume 5 (2000)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v04/index.html">Volume 4 (1999)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v03/index.html">Volume 3 (1998)</a></span>        </li><li>          <span style="font-size: x-small;"><a href="http://rosetta.reltech.org/TC/v02/index.html">Volume 2 (1997)</a></span>        </li><li><span style="font-size: x-small;">          <a href="http://rosetta.reltech.org/TC/v01/index.html">Volume 1 (1996)</a></span>        </li></ul></blockquote><span style="font-size: small;"><br /></span><br /><div style="text-align: center;"><span style="font-size: small;"><span style="font-family: inherit;"><span style="font-weight: normal;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span><a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html"></a></div><div><div style="text-align: center;"><a href="http://draft.blogger.com/post-edit.g?blogID=116259103207720939&amp;postID=2506310903111589943" id="data:post.url" name="data:post.title"></a></div><br /><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4610956804051644958/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4610956804051644958/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/12/relaunch-of-tc-journal-of-biblical.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4610956804051644958"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4610956804051644958"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/12/relaunch-of-tc-journal-of-biblical.html"
          title="Open Access Journal: TC: A Journal of Biblical Textual Criticism"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

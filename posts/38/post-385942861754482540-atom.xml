@@ -1,193 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-385942861754482540</id>
-    <published>2013-05-10T14:18:00.000-04:00</published>
-    <updated>2013-05-10T14:18:21.814-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-385942861754482540</id>
+   <published>2013-05-10T14:18:00.000-04:00</published>
+   <updated>2013-05-10T14:18:21.814-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Fourth-Century Christianity</title>
-    <content type="html"><![CDATA[<a href="http://www.fourthcentury.com/">Fourth-Century
-      Christianity</a><br /><blockquote class="tr_bq"><img
-      alt="http://www.fourthcentury.com/wp-content/uploads/2011/05/4c-logo22.png" class="decoded"
-      height="80" src="http://www.fourthcentury.com/wp-content/uploads/2011/05/4c-logo22.png"
-      width="400" /> </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Welcome to Fourth-Century Christianity, a site promoting and storing research
-      tools and texts for the study of the Church and its environment in the Fourth Century. The site
-      is sponsored by the <a href="http://www.wlc.edu/academics/his/" target="_blank"> History
-      Department</a> of <a href="http://www.wlc.edu/" target="_blank">Wisconsin Lutheran
-      College </a> and by <a href="http://als.org.hk/">Asia Lutheran Seminary</a>,
-      under the direction of <a href="http://www.wlc.edu/academics/his/index.aspx?id=1277"
-      target="_blank">Dr. Glen L. Thompson</a>.</span><br /> <span
-      style="font-size: x-small;"><span style="color: black;">In remembrance of the 1700th
-      anniversary of Constantine’s victory at the Milvian Bridge (Oct. 28, AD 312) , we have posted
-      the first ever complete listing of the&nbsp;<a
-      href="http://www.fourthcentury.com/works-of-constantine/" title="Works of
-      Constantine"><span style="color: black;">works of
-      Constantine</span></a>.</span></span><br /> <span
-      style="font-size: x-small;">The governing principles of this site are:</span><br
-      /> <ol><li><span style="font-size: x-small;">The site will assist in
-      undergraduate and advanced research by providing reliable reference materials, texts and
-      translations that are not available elsewhere on the
-      net.</span></li><li><span style="font-size: x-small;">Every page will
-      have its authors/contributors identified.</span></li><li><span
-      style="font-size: x-small;">Every text or translation will have its source/translator
-      identified.</span></li><li><span style="font-size: x-small;">We invite
-      participation by the scholarly community in updating, improving or adding to the information
-      provided.</span></li><li><span style="font-size: x-small;">Although the
-      site directors are Christian and Lutheran, every effort is made to present material as
-      objectively as possible.</span></li></ol><span style="font-size:
-      x-small;">Please send comments, corrections and suggestions to Dr. Thompson at <span
-      style="color: blue;">Glen.Thompson@wlc.edu</span>.</span><br /> <span
-      style="font-size: x-small;">Any questions, comments, or corrections can also be posted on
-      the <a
-      href="http://www.fourthcentury.com/index.php/comments-for-general-questions/">General
-      Questions</a> page.</span><br /> <span style="font-size: x-small;">We
-      add new material often, and invite you to check the <strong></strong><a
-      href="http://www.fourthcentury.com/index.php/recent-additions/" title="Recent
-      Additions">Recent Additions</a> page frequently.</span><br />
-      <h2><span style="font-size: x-small;">Website
-      Contents:</span></h2><table border="0" cellpadding="4" cellspacing="4"
-      id="table1"><tbody><tr><td colspan="4"><span style="font-size:
-      x-small;"><strong>What’s
-      New</strong></span></td></tr><tr><td><span
-      style="font-size: x-small;"><br /></span></td><td
-      colspan="3"><span style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/recent-additions/" title="Recent
-      Additions">Recent Additions</a></strong> lists the most recent additions and
-      updates to the Fourth-Century Christianity (FCC)
-      website.</span></td></tr><tr><td><span style="font-size:
-      x-small;"><br /></span></td><td colspan="3"><span
-      style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/website-contents">Contents</a></strong>
-      contains the contents of the website</span></td></tr><tr><td
-      colspan="4"><span style="font-size:
-      x-small;"><strong>Tools</strong></span></td></tr><tr><td><span
-      style="font-size: x-small;"><br /></span></td><td
-      colspan="3"><span style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/patristic-abbreviations/"
-      target="_self">Patristic
-      Abbreviations</a></strong></span></td></tr><tr><td><span
-      style="font-size: x-small;"><br /></span></td><td
-      colspan="3"><span style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/bibliographical-helps/" title="Bibliographical
-      Helps">Bibliographical
-      Helps</a></strong></span></td></tr><tr><td><span
-      style="font-size: x-small;"><br /></span></td><td
-      colspan="3"><span style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/chronological-charts/" title="Chronological
-      charts">Chronological
-      charts</a></strong></span></td></tr><tr><td><span
-      style="font-size: x-small;"><br /></span></td><td
-      colspan="3"><span style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/councils-and-creeds/">Early Christian
-      Councils</a></strong> contains a list of early church
-      councils</span></td></tr><tr><td><span style="font-size:
-      x-small;"><br /></span></td><td colspan="3"><span
-      style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/egyptian-monasticism-intro/" title="Introduction
-      to Early Egyptian Monasticism">Early Egyptian Monasticism</a></strong> – A
-      hypothetical map of a Pachomian monastery, listing the positions and areas of a Pachomian
-      monastery, based on the rules of
-      Pachomius.</span></td></tr><tr><td><span style="font-size:
-      x-small;"><br /></span></td><td colspan="3"><span
-      style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/imperial-laws-chart/" title="Imperial Laws and
-      Letters">Imperial Laws and Letters</a></strong> – A list of over 500 Roman
-      imperial letters and laws from the years A.D. 311-431. The list takes three
-      pages.</span></td></tr><tr><td><span style="font-size:
-      x-small;"><br /></span></td><td colspan="3"><span
-      style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/writers-of-the-fourth-century/" title="Writers of
-      the Fourth Century">Writers of the Fourth
-      Century</a></strong></span></td></tr><tr><td
-      colspan="4"><span style="font-size: x-small;"><strong>Primary
-      Texts</strong></span></td></tr><tr><td><span
-      style="font-size: x-small;"><br /></span></td><td
-      colspan="3"><span style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/the-collectio-avellana/" title="The Collectio
-      Avellana">Collectio Avellana</a></strong> page gives brief information on the
-      Avellana, a link to download the Avellana from Google Books, and a summary of all the
-      Avellana’s documents dealing with the fourth
-      century.</span></td></tr><tr><td><span style="font-size:
-      x-small;"><br /></span></td><td colspan="3"><span
-      style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/conciliar-creeds-of-the-fourth-century/">Conciliar
-      Creeds of the Fourth Century</a></strong> contains a list and translations of
-      several conciliar creeds from the fourth
-      century</span></td></tr><tr><td><span style="font-size:
-      x-small;"><br /></span></td><td colspan="3"><span
-      style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/documents-concerning-the-meletian-schism/">Documents
-      Concerning the Meletian Schism</a></strong> contains a chart listing reference
-      numbers, descriptions, ancient sources and English translations of the extant documents of the
-      Meletian Schism from c. A.D.
-      303-335</span></td></tr><tr><td><span style="font-size:
-      x-small;"><br /></span></td><td colspan="3"><span
-      style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/urkunde-chart-opitz/" title="Documents of the
-      Early Arian Controversy">Documents of the Early Arian Controversy</a></strong>
-      contains a chart listing reference numbers, descriptions, ancient sources and English
-      translations of the extant documents of the Arian Controversy from c. 318-333. The chart is
-      based on Opitz’s <em>Urkunden </em>(the supplemental volume of early Arian
-      documents in his edition of Athanasius Werke, 1934). Each document is also available in
-      translation with brief notes.</span></td></tr><tr><td><span
-      style="font-size: x-small;"><br /></span></td><td
-      colspan="3"><span style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/papal-correspondence/" title="Fourth Century Papal
-      Correspondence">Fourth Century Papacy</a></strong> contains material related to
-      two fourth-century popes:</span></td></tr><tr><td><span
-      style="font-size: x-small;"><br /></span></td><td
-      colspan="3"><span style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/marcellus-intro/" title="Marcellus of Ancyra
-      Fragments - Introduction">Marcellus of Ancyra Fragments</a></strong> contains
-      translations of the fragments of Marcellus of
-      Ancyra.</span></td></tr><tr><td colspan="4"><span
-      style="font-size: x-small;"><strong>Website
-      Related</strong></span></td></tr><tr><td><span
-      style="font-size: x-small;"><br /></span></td><td
-      colspan="3"><span style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/abbreviations-and-references/"
-      title="Abbreviations and References">Abbreviations</a></strong> lists the
-      abbreviations used in the website with bibliographic
-      information.</span></td></tr><tr><td><span style="font-size:
-      x-small;"><br /></span></td><td colspan="3"><span
-      style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/recommended-websites/">Links</a></strong>
-      to other websites with useful information relating to fourth-century
-      Christianity.</span></td></tr><tr><td><span style="font-size:
-      x-small;"><br /></span></td><td colspan="3"><span
-      style="font-size: x-small;"><strong><a
-      href="http://www.fourthcentury.com/index.php/site-contributors/" title="Site
-      Contributors:">Site Contributors</a></strong> lists information about the
-      contributors to this
-      site.</span></td></tr></tbody></table></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Fourth-Century Christianity</title>
+   <content type="html"><![CDATA[<a href="http://www.fourthcentury.com/">Fourth-Century Christianity</a><br /><blockquote class="tr_bq"><img alt="http://www.fourthcentury.com/wp-content/uploads/2011/05/4c-logo22.png" class="decoded" height="80" src="http://www.fourthcentury.com/wp-content/uploads/2011/05/4c-logo22.png" width="400" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Welcome to Fourth-Century Christianity, a site promoting and storing  research tools and texts for the study of the Church and its environment  in the Fourth Century. The site is sponsored by the <a href="http://www.wlc.edu/academics/his/" target="_blank"> History Department</a> of <a href="http://www.wlc.edu/" target="_blank">Wisconsin Lutheran College </a> and by <a href="http://als.org.hk/">Asia Lutheran Seminary</a>, under the direction of <a href="http://www.wlc.edu/academics/his/index.aspx?id=1277" target="_blank">Dr. Glen L. Thompson</a>.</span><br /> <span style="font-size: x-small;"><span style="color: black;">In remembrance of the 1700th  anniversary of Constantine’s victory at the Milvian Bridge (Oct. 28, AD  312) , we have posted the first ever complete listing of the&nbsp;<a href="http://www.fourthcentury.com/works-of-constantine/" title="Works of Constantine"><span style="color: black;">works of Constantine</span></a>.</span></span><br /> <span style="font-size: x-small;">The governing principles of this site are:</span><br /> <ol><li><span style="font-size: x-small;">The site will assist in undergraduate and advanced research by  providing reliable reference materials, texts and translations that are  not available elsewhere on the net.</span></li><li><span style="font-size: x-small;">Every page will have its authors/contributors identified.</span></li><li><span style="font-size: x-small;">Every text or translation will have its source/translator identified.</span></li><li><span style="font-size: x-small;">We invite participation by the scholarly community in updating, improving or adding to the information provided.</span></li><li><span style="font-size: x-small;">Although the site directors are Christian and Lutheran, every effort is made to present material as objectively as possible.</span></li></ol><span style="font-size: x-small;">Please send comments, corrections and suggestions to Dr. Thompson at <span style="color: blue;">Glen.Thompson@wlc.edu</span>.</span><br /> <span style="font-size: x-small;">Any questions, comments, or corrections can also be posted on the <a href="http://www.fourthcentury.com/index.php/comments-for-general-questions/">General Questions</a> page.</span><br /> <span style="font-size: x-small;">We add new material often, and invite you to check the <strong></strong><a href="http://www.fourthcentury.com/index.php/recent-additions/" title="Recent Additions">Recent Additions</a> page frequently.</span><br /> <h2><span style="font-size: x-small;">Website Contents:</span></h2><table border="0" cellpadding="4" cellspacing="4" id="table1"><tbody><tr><td colspan="4"><span style="font-size: x-small;"><strong>What’s New</strong></span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/recent-additions/" title="Recent Additions">Recent Additions</a></strong> lists the most recent additions and updates to the Fourth-Century Christianity (FCC) website.</span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/website-contents">Contents</a></strong> contains the contents of the website</span></td></tr><tr><td colspan="4"><span style="font-size: x-small;"><strong>Tools</strong></span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/patristic-abbreviations/" target="_self">Patristic Abbreviations</a></strong></span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/bibliographical-helps/" title="Bibliographical Helps">Bibliographical Helps</a></strong></span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/chronological-charts/" title="Chronological charts">Chronological charts</a></strong></span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/councils-and-creeds/">Early Christian Councils</a></strong> contains a list of early church councils</span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/egyptian-monasticism-intro/" title="Introduction to Early Egyptian Monasticism">Early Egyptian Monasticism</a></strong> – A hypothetical map of a Pachomian monastery, listing the positions  and areas of a Pachomian monastery, based on the rules of Pachomius.</span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/imperial-laws-chart/" title="Imperial Laws and Letters">Imperial Laws and Letters</a></strong> – A list of over 500 Roman imperial letters and laws from the years A.D. 311-431. The list takes three pages.</span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/writers-of-the-fourth-century/" title="Writers of the Fourth Century">Writers of the Fourth Century</a></strong></span></td></tr><tr><td colspan="4"><span style="font-size: x-small;"><strong>Primary Texts</strong></span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/the-collectio-avellana/" title="The Collectio Avellana">Collectio Avellana</a></strong> page gives brief information on the Avellana, a link to download the  Avellana from Google Books, and a summary of all the Avellana’s  documents dealing with the fourth century.</span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/conciliar-creeds-of-the-fourth-century/">Conciliar Creeds of the Fourth Century</a></strong> contains a list and translations of several conciliar creeds from the fourth century</span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/documents-concerning-the-meletian-schism/">Documents Concerning the Meletian Schism</a></strong> contains a chart listing reference numbers, descriptions, ancient  sources and English translations of the extant documents of the Meletian  Schism from c. A.D. 303-335</span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/urkunde-chart-opitz/" title="Documents of the Early Arian Controversy">Documents of the Early Arian Controversy</a></strong> contains a chart listing reference numbers, descriptions, ancient  sources and English translations of the extant documents of the Arian  Controversy from c. 318-333. The chart is based on Opitz’s <em>Urkunden </em>(the  supplemental volume of early Arian documents in his edition of  Athanasius Werke, 1934). Each document is also available in translation  with brief notes.</span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/papal-correspondence/" title="Fourth Century Papal Correspondence">Fourth Century Papacy</a></strong> contains material related to two fourth-century popes:</span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/marcellus-intro/" title="Marcellus of Ancyra Fragments - Introduction">Marcellus of Ancyra Fragments</a></strong> contains translations of the fragments of Marcellus of Ancyra.</span></td></tr><tr><td colspan="4"><span style="font-size: x-small;"><strong>Website Related</strong></span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/abbreviations-and-references/" title="Abbreviations and References">Abbreviations</a></strong> lists the abbreviations used in the website with bibliographic information.</span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/recommended-websites/">Links</a></strong> to other websites with useful information relating to fourth-century Christianity.</span></td></tr><tr><td><span style="font-size: x-small;"><br /></span></td><td colspan="3"><span style="font-size: x-small;"><strong><a href="http://www.fourthcentury.com/index.php/site-contributors/" title="Site Contributors:">Site Contributors</a></strong> lists information about the contributors to this site.</span></td></tr></tbody></table></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/385942861754482540/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/385942861754482540/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/05/fourth-century-christianity.html#comment-form"
          title="1 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/385942861754482540"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/385942861754482540"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/05/fourth-century-christianity.html"
          title="Fourth-Century Christianity"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

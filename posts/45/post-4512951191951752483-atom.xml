@@ -1,213 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4512951191951752483</id>
-    <published>2012-07-01T08:02:00.000-04:00</published>
-    <updated>2012-07-01T08:08:55.601-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4512951191951752483</id>
+   <published>2012-07-01T08:02:00.000-04:00</published>
+   <updated>2012-07-01T08:08:55.601-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="South Asia"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Indology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="India"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="South Asia"/>
-    <title type="text">Göttingen Register of Electronic Texts in Indian Languages</title>
-    <content type="html"><![CDATA[<a href="http://gretil.sub.uni-goettingen.de/gr_elib.htm">GRETIL
-      e-library: Göttingen Register of Electronic Texts in Indian Languages</a><br
-      /><blockquote class="tr_bq"><img alt="GRETIL"
-      src="https://opac.sub.uni-goettingen.de/img_psi/2.0/logos/gretil-logo.gif" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The
-      GRETIL e-library is a collection of electronic editions of books and articles on Indological
-      and related subjects. The focus is on older standard works, along with writings relevant to the
-      history of indology and related fields (Wissenschaftsgeschichte).</span>
-      </blockquote><blockquote><span style="font-size: xx-small;"><a
-      href="http://opac.sub.uni-goettingen.de/DB=1.20/LNG=EN/" target="_new">GRETIL e-library
-      OPAC</a> | Related websites: <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Index" target="_top">GRETIL
-      e-texts</a> | <a href="http://gretil.sub.uni-goettingen.de/fiindole.htm">Göttingen
-      Indological Resources</a> | <a href="http://www.sub.uni-goettingen.de/">SUB
-      Göttingen Homepage</a></span></blockquote><blockquote><br
-      /><div style="font-family: inherit;"><span style="font-size: x-small;"> <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Intro"><b>Introduction</b></a>
-      </span></div><div style="font-family: inherit;"><span style="font-size:
-      x-small;"> <a
-      href="mailto:gruenen@sub.uni-goettingen.de"><b>Contact</b></a>
-      </span></div><div style="font-family: inherit;"><span style="font-size:
-      x-small;"> <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#News"><b>List
-      of forthcoming e-texts / input projects in progress</b></a>
-      </span></div><div style="font-family: inherit;"><span style="font-size:
-      x-small;"> <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Hist"><b>History</b></a>
-      (cumulative list of e-texts added to GRETIL 15.11.2001 - 14.12.2011)
-      </span></div><div style="font-family: inherit;"><span style="font-size:
-      x-small;"> <a href="http://gretil.sub.uni-goettingen.de/gret_exp.htm"
-      target="_new"><b>Experimental site</b></a>
-      </span></div><div style="font-family: inherit;"><span style="font-size:
-      x-small;"> <img src="http://gretil.sub.uni-goettingen.de/images/bullets/b_jaune.gif"
-      /> <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Sanskrit"><b>E-texts
-      in Sanskrit</b></a> </span></div><ul style="font-family:
-      inherit;"><span style="font-size: x-small;"><li><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Veda"><b>Veda</b></a><br
-      /> <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Samh">Samhita</a> |
-      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Brahm">Brahmana</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Arany">Aranyaka</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Upan">Upanisad</a><br />
-      Vedanga: <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#SrautaS">Srautasutra</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#SulbaS">Sulbasutra</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#GrhyaS">Grhyasutra</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Parisista">Parisista</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Pratisakh">Pratisakhya</a> <br
-      /> </li><li><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Itih"><b>Epics</b></a>
-      </li><li><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Pur"><b>Purana</b></a>
-      </li><li><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#RelLit"><b>Religious
-      Literature</b></a><br /> <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#RLVaisnava">Vaisnava</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#RLSaiva">Saiva</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#RLBuddh">Buddhist</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#RLJaina">Jaina</a>
-      </li><li><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Poetry"><b>Poetry</b></a><br
-      /> <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Alamk">Alamkara</a> |
-      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Natya">Natya</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Chandas">Chandas (prosody)</a> |
-      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Kavya">Kavya</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Drama">Drama</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Akhyana">Narrative Literature</a>
-      | <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Subhasita">Subhasita</a>
-      <br /> </li><li><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Sastra"><b>Sastra</b></a><br
-      /> <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Gram">Grammar</a> |
-      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Lex">Lexicography</a> |
-      <br /> Philosophy: <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Mimamsa">Mimamsa</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Vedanta">Vedanta</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Advaita">Advaita</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Samkhya">Samkhya</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Yoga">Yoga</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Nyaya">Nyaya</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Vaisesika">Vaisesika</a> || <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#PhilSaiva">Saiva</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#BauddhDa">Buddhist</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#DarsanaOther">Other</a><br
-      /> Dharmasastra: <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#DhSutra">Sutra</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#DhSmrti">Smrti</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#DhNib">Nibandha and
-      other</a><br /> <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Artha">Arthasastra</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Kama">Kamasastra</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Ayur">Ayurveda, alchemy etc.</a>
-      | <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Jyot">Astrology, astronomy,
-      mathematics</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Misc">Miscellanea</a>
-      </li></span></ul><div style="font-family: inherit;"><span
-      style="font-size: x-small;"> <img
-      src="http://gretil.sub.uni-goettingen.de/images/bullets/b_jaune.gif" /> <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Pali"><b>E-texts in
-      Pali</b></a> <br /></span></div><ul style="font-family:
-      inherit;"><span style="font-size: x-small;"><li><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tipit"><b>Tipitaka</b></a><br
-      /> <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Vinay">Vinayapitaka</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Suttapit">Suttapitaka</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Abhidh">Abhidhammapitaka</a>
-      </li><li> <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#PParCan"><b>Paracanonical
-      Texts</b></a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#PChron"><b>Chronicles</b></a>
-      | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#PComm"><b>Commentaries</b></a>
-      | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#PHand"><b>Handbooks</b></a>
-      | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#PSubc"><b>Subcommentaries</b></a>
-      | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#PAnth"><b>Anthologies</b></a>
-      | <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#PCosm"><b>Cosmological
-      Texts</b></a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#PPoet"><b>Poetry</b></a>
-      | <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#PPhil"><b>Philological
-      Texts</b></a> </li></span></ul><div style="font-family:
-      inherit;"><span style="font-size: x-small;"><img
-      src="http://gretil.sub.uni-goettingen.de/images/bullets/b_jaune.gif" /> <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Prakrit"><b>E-texts in
-      Prakrit</b></a> <br /> <img
-      src="http://gretil.sub.uni-goettingen.de/images/bullets/b_jaune.gif" /> <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#NIA"><b>E-texts in New Indo-Aryan
-      Languages</b></a> <br /></span></div><ul style="font-family:
-      inherit;"><span style="font-size: x-small;"><li><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Hindi"><b>Hindi</b></a>
-      </li><li><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Marathi"><b>Marathi</b></a>
-      </li></span></ul><span style="font-family: Arial,Helvetica; font-size:
-      x-small;"><img src="http://gretil.sub.uni-goettingen.de/images/bullets/b_jaune.gif"
-      style="font-family: inherit;" /><span style="font-family: inherit;">
-      </span><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Drav"
-      style="font-family: inherit;"><b>E-texts in Dravidian
-      Languages</b></a><span style="font-family: inherit;"> </span><br
-      style="font-family: inherit;" /> <br style="font-family: inherit;" /><ul
-      style="font-family: inherit;"><li><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil"><b>Tamil</b></a>
-      <ul><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_A">A</a> |
-      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_C">C</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_E">E</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_I">I</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_J">J</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_K">K</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_M">M</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_N">N</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_O">O</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_P">P</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_R">R</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_S">S</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_T">T</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_U">U</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_V">V</a> | <a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_Y">Y</a> |
-      </ul></li><li><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Malayalam"><b>Malayalam</b></a>
-      </li></ul><img
-      src="http://gretil.sub.uni-goettingen.de/images/bullets/b_jaune.gif" style="font-family:
-      inherit;" /><span style="font-family: inherit;"> </span><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Other" style="font-family:
-      inherit;"><b>E-texts in Other Languages</b></a><span
-      style="font-family: inherit;"> </span><br style="font-family: inherit;" /><ul
-      style="font-family: inherit;"><li><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#OldJavanese"><b>Old
-      Javanese</b></a> </li><li><a
-      href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tibetan"><b>Tibetan</b></a>
-      </li></ul><br style="font-family: inherit;" /> <br /><div
-      align="center"><br /></div></span><br /><br /><div
-      style="font-family: inherit;"><br /></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bibliography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="India"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Indology"/>
+   <title type="text">Göttingen Register of Electronic Texts in Indian Languages</title>
+   <content type="html"><![CDATA[<a href="http://gretil.sub.uni-goettingen.de/gr_elib.htm">GRETIL e-library: Göttingen Register of Electronic Texts in Indian Languages</a><br /><blockquote class="tr_bq"><img alt="GRETIL" src="https://opac.sub.uni-goettingen.de/img_psi/2.0/logos/gretil-logo.gif" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The GRETIL e-library is a collection of electronic editions of books and articles on Indological and related subjects. The focus is on older standard works, along with writings relevant to the history of indology and related fields (Wissenschaftsgeschichte).</span>  </blockquote><blockquote><span style="font-size: xx-small;"><a href="http://opac.sub.uni-goettingen.de/DB=1.20/LNG=EN/" target="_new">GRETIL e-library OPAC</a> | Related websites: <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Index" target="_top">GRETIL e-texts</a> | <a href="http://gretil.sub.uni-goettingen.de/fiindole.htm">Göttingen Indological Resources</a> | <a href="http://www.sub.uni-goettingen.de/">SUB Göttingen Homepage</a></span></blockquote><blockquote><br /><div style="font-family: inherit;"><span style="font-size: x-small;">   <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Intro"><b>Introduction</b></a> </span></div><div style="font-family: inherit;"><span style="font-size: x-small;">   <a href="mailto:gruenen@sub.uni-goettingen.de"><b>Contact</b></a> </span></div><div style="font-family: inherit;"><span style="font-size: x-small;"> <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#News"><b>List of forthcoming e-texts / input projects in progress</b></a> </span></div><div style="font-family: inherit;"><span style="font-size: x-small;"> <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Hist"><b>History</b></a> (cumulative list of e-texts added to GRETIL 15.11.2001 - 14.12.2011)  </span></div><div style="font-family: inherit;"><span style="font-size: x-small;">  <a href="http://gretil.sub.uni-goettingen.de/gret_exp.htm" target="_new"><b>Experimental site</b></a>   </span></div><div style="font-family: inherit;"><span style="font-size: x-small;"> <img src="http://gretil.sub.uni-goettingen.de/images/bullets/b_jaune.gif" /> <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Sanskrit"><b>E-texts in Sanskrit</b></a>    </span></div><ul style="font-family: inherit;"><span style="font-size: x-small;"><li><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Veda"><b>Veda</b></a><br />    <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Samh">Samhita</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Brahm">Brahmana</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Arany">Aranyaka</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Upan">Upanisad</a><br />    Vedanga:        <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#SrautaS">Srautasutra</a> |       <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#SulbaS">Sulbasutra</a> |       <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#GrhyaS">Grhyasutra</a> |       <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Parisista">Parisista</a> |       <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Pratisakh">Pratisakhya</a> <br />    </li><li><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Itih"><b>Epics</b></a>   </li><li><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Pur"><b>Purana</b></a>   </li><li><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#RelLit"><b>Religious Literature</b></a><br />    <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#RLVaisnava">Vaisnava</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#RLSaiva">Saiva</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#RLBuddh">Buddhist</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#RLJaina">Jaina</a>     </li><li><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Poetry"><b>Poetry</b></a><br />    <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Alamk">Alamkara</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Natya">Natya</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Chandas">Chandas (prosody)</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Kavya">Kavya</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Drama">Drama</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Akhyana">Narrative Literature</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Subhasita">Subhasita</a>  <br />    </li><li><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Sastra"><b>Sastra</b></a><br />    <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Gram">Grammar</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Lex">Lexicography</a> |  <br />    Philosophy:       <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Mimamsa">Mimamsa</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Vedanta">Vedanta</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Advaita">Advaita</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Samkhya">Samkhya</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Yoga">Yoga</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Nyaya">Nyaya</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Vaisesika">Vaisesika</a> ||      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#PhilSaiva">Saiva</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#BauddhDa">Buddhist</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#DarsanaOther">Other</a><br />    Dharmasastra:       <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#DhSutra">Sutra</a> |       <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#DhSmrti">Smrti</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#DhNib">Nibandha and other</a><br />    <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Artha">Arthasastra</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Kama">Kamasastra</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Ayur">Ayurveda, alchemy etc.</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Jyot">Astrology, astronomy, mathematics</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Misc">Miscellanea</a>     </li></span></ul><div style="font-family: inherit;"><span style="font-size: x-small;"> <img src="http://gretil.sub.uni-goettingen.de/images/bullets/b_jaune.gif" /> <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Pali"><b>E-texts in Pali</b></a>    <br /></span></div><ul style="font-family: inherit;"><span style="font-size: x-small;"><li><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tipit"><b>Tipitaka</b></a><br />    <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Vinay">Vinayapitaka</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Suttapit">Suttapitaka</a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Abhidh">Abhidhammapitaka</a>    </li><li>    <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#PParCan"><b>Paracanonical Texts</b></a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#PChron"><b>Chronicles</b></a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#PComm"><b>Commentaries</b></a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#PHand"><b>Handbooks</b></a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#PSubc"><b>Subcommentaries</b></a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#PAnth"><b>Anthologies</b></a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#PCosm"><b>Cosmological Texts</b></a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#PPoet"><b>Poetry</b></a> |      <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#PPhil"><b>Philological Texts</b></a>    </li></span></ul><div style="font-family: inherit;"><span style="font-size: x-small;"><img src="http://gretil.sub.uni-goettingen.de/images/bullets/b_jaune.gif" /> <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Prakrit"><b>E-texts in Prakrit</b></a> <br /> <img src="http://gretil.sub.uni-goettingen.de/images/bullets/b_jaune.gif" /> <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#NIA"><b>E-texts in New Indo-Aryan Languages</b></a>  <br /></span></div><ul style="font-family: inherit;"><span style="font-size: x-small;"><li><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Hindi"><b>Hindi</b></a>   </li><li><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Marathi"><b>Marathi</b></a>  </li></span></ul><span style="font-family: Arial,Helvetica; font-size: x-small;"><img src="http://gretil.sub.uni-goettingen.de/images/bullets/b_jaune.gif" style="font-family: inherit;" /><span style="font-family: inherit;"> </span><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Drav" style="font-family: inherit;"><b>E-texts in Dravidian Languages</b></a><span style="font-family: inherit;"> </span><br style="font-family: inherit;" />   <br style="font-family: inherit;" /><ul style="font-family: inherit;"><li><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil"><b>Tamil</b></a>   <ul><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_A">A</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_C">C</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_E">E</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_I">I</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_J">J</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_K">K</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_M">M</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_N">N</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_O">O</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_P">P</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_R">R</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_S">S</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_T">T</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_U">U</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_V">V</a> |     <a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tamil_Y">Y</a> |     </ul></li><li><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Malayalam"><b>Malayalam</b></a>  </li></ul><img src="http://gretil.sub.uni-goettingen.de/images/bullets/b_jaune.gif" style="font-family: inherit;" /><span style="font-family: inherit;"> </span><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Other" style="font-family: inherit;"><b>E-texts in Other Languages</b></a><span style="font-family: inherit;">   </span><br style="font-family: inherit;" /><ul style="font-family: inherit;"><li><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#OldJavanese"><b>Old Javanese</b></a>   </li><li><a href="http://gretil.sub.uni-goettingen.de/gretil.htm#Tibetan"><b>Tibetan</b></a>  </li></ul><br style="font-family: inherit;" />    <br /><div align="center"><br /></div></span><br /><br /><div style="font-family: inherit;"><br /></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4512951191951752483/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4512951191951752483/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/07/gottingen-register-of-electronic-texts.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4512951191951752483"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4512951191951752483"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/07/gottingen-register-of-electronic-texts.html"
          title="Göttingen Register of Electronic Texts in Indian Languages"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,78 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2734244066054559020</id>
-    <published>2012-09-14T13:28:00.000-04:00</published>
-    <updated>2012-09-30T08:13:07.948-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2734244066054559020</id>
+   <published>2015-08-20T08:13:00.000-04:00</published>
+   <updated>2015-08-20T08:14:40.168-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Iraq"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Mesopotamia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">UrCrowdsource</title>
-    <content type="html"><![CDATA[<a
-      href="http://urcrowdsource.org/omeka/">UrCrowdsource</a><br /><blockquote
-      class="tr_bq"><img
-      alt="http://urcrowdsource.org/omeka/archive/theme_uploads/b892365629d6891b68cda0d209654e16.jpg"
-      class="decoded"
-      src="http://urcrowdsource.org/omeka/archive/theme_uploads/b892365629d6891b68cda0d209654e16.jpg"
-      /> </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">UrCrowdsource is asking for public assistance in transcribing thousands of
-      documents related to the excavations of the ancient city of Ur in Mesopotamia. These
-      excavations were conducted under the auspices of the Iraqi Department of Antiquities from
-      1922-1934 by the joint expedition of the British Museum and the University of Pennsylvania
-      Museum.</span><br /><br /><span style="font-size: x-small;">Right now,
-      we are testing the crowdsourced transcription of the documents. A small subset of the total is
-      available on this site, letters from 1919-1923 and the field notes of Max Mallowan, Leonard
-      Woolley's general archaeological assistant from 1925-1931. Both Woolley and Mallowan were later
-      knighted, and Max met another future knight and mystery writier, Agatha Christie at the
-      excavations of Ur. He married her not long after.</span><br /><br /><span
-      style="font-size: x-small;">With enough participation, more notes and letters will be added.
-      There are 19 volumes of Woolley's notes and many more years of letters and reports, including
-      much more stored currently in the British Museum archives.</span><br /><br
-      /><span style="font-size: x-small;"><i>UrCrowdsource is a part of the Ur
-      Digitization Project funded by the Leon Levy Foundation and conducted by the original
-      excavating museums in Philadelphia and London.</i></span><br /><div
-      id="primary-nav"><ul class="navigation"><li class="nav-browse-items"><a
-      href="http://urcrowdsource.org/omeka/items">Browse Items</a></li><li
-      class="nav-browse-collections"><a
-      href="http://urcrowdsource.org/omeka/collections">Browse
-      Collections</a></li><li class="nav-scripto"><a
-      href="http://urcrowdsource.org/omeka/scripto">Scripto</a></li><li
-      class="nav-about"><a
-      href="http://urcrowdsource.org/omeka/about">About</a></li><li
-      class="nav-sign-up"><a href="http://urcrowdsource.org/omeka/sign-up">Sign
-      Up</a></li><li class="nav-transcribe"><a
-      href="http://urcrowdsource.org/omeka/transcribe">Transcribe</a></li><li
-      class="nav-transcription-guidelines"><a
-      href="http://urcrowdsource.org/omeka/guidelines">Transcription
-      Guidelines</a></li></ul></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Mesopotamia"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Iraq"/>
+   <title type="text">Crowdsourcing Excavation Records from Ur</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted on AWOL 14 October 2012, updated 20 August 2015]</span><br /><br /><a href="http://urcrowdsource.org/omeka/">UrCrowdsource</a><br /><blockquote class="tr_bq"><blockquote class="tr_bq"><span style="font-size: x-small;"><img alt="http://urcrowdsource.org/omeka/files/theme_uploads/b892365629d6891b68cda0d209654e16.jpg" src="http://urcrowdsource.org/omeka/files/theme_uploads/b892365629d6891b68cda0d209654e16.jpg" /></span> </blockquote><span style="font-size: x-small;">UrCrowdsource is asking for public assistance in transcribing  thousands of documents related to the excavations of the ancient city of  Ur in Mesopotamia. These excavations were conducted under the auspices  of the Iraqi Department of Antiquities from 1922-1934 by the joint  expedition of the British Museum and the University of Pennsylvania  Museum.</span><br /><br /> <span style="font-size: x-small;">By participating in this project, you will be helping to gather data  that will eventually be featured on an open-source, public, and free  website with all known data from the ancient site of Ur. Anyone will be  able to search the data, enjoy, and learn from it. We are particularly  interested in having educators and students of all ages involved. Anyone  can use the data for educational purposes under Creative Commons share  alike license. This means that any data you acquire here must be made  available to others free of charge with attribution to the Ur Project as  the source of the data. If a commercial concern wishes to use data or  images on this site, it will need permission from the museums, who are  the official copyright holders.</span><br /><br /> <span style="font-size: x-small;">Naturally, creating a comprehensive site of this magnitude takes time  and money. We have completed our first year wherein we have assessed  the amount of material to be made digital, and we have secured a  two-year continuation with lead funding from the Leon Levy Foundation. A  test site featuring data from archives and artifacts should appear in  2014 with a more refined version in 2015. Meanwhile, documents will  continue to appear here for transcription and inclusion until all have  been converted.</span><br /><br /> <span style="font-size: x-small;">A variety of documents can be found on this site. They include  typewritten reports, accounts, and letters from the field or between the  museums, as well as handwritten notes taken at the site as artifacts  were coming out of the ground and the remains of architecture were being  assessed for the first time in thousands of years.</span><br /><br /> <span style="font-size: x-small;">Optical Character Recognition can be used on the typewritten  documents but not the handwritten ones and around half of the documents  we have are handwritten. Furthermore, the typewritten ones are often on  wrinkled paper with faded typeface, and are often annotated by hand.  People are much better transcribers of all of this material and gain the  added benefit of observing history in a unique way.</span><br /><br /> <span style="font-size: x-small;">The field notes are particularly difficult to read because of the  handwriting, the scan quality, the original quality of the notes, and  the graph background on most of the cards themselves. We will eventally  rescan at higher resolution, but it will take time. The scans we have  now are readable, however, and no matter how good the scan, transcribers  must accustom themselves to Woolley's handwriting and his use of  abbreviations. Help with this process appears in the pages under  "Terminology" on this crowdsrouce site.</span><br /><br /> <span style="font-size: x-small;">Thanks to everyone taking part and&nbsp;we hope this explains some of the  issues. Any questions or concerns&nbsp;can be addressed to the project  manager, Dr. William B. Hafford:&nbsp;whafford(at)sas.upenn.edu</span><br /><br /> <span style="font-size: x-small;"><em>UrCrowdsource is a part of the larger project entitled </em>Ur of the Chaldees: A Virtual Vision of Woolley's Excavations<em>, funded by the Leon Levy Foundation and conducted by the original excavating museums in Philadelphia and London.</em></span></blockquote><blockquote class="tr_bq"><ul class="navigation"><li>        <span style="font-size: x-small;"><a href="http://urcrowdsource.org/omeka/items/browse">Browse Items</a>    </span></li><li>        <span style="font-size: x-small;"><a href="http://urcrowdsource.org/omeka/collections/browse">Browse Collections</a></span>    </li><li>        <span style="font-size: x-small;"><a href="http://urcrowdsource.org/omeka/scripto">Scripto</a></span>    </li><li class="active">        <span style="font-size: x-small;"><a href="http://urcrowdsource.org/omeka/about">About</a></span>    </li><li>        <span style="font-size: x-small;"><a href="http://urcrowdsource.org/omeka/introduction">Introduction</a></span>    </li><li>        <span style="font-size: x-small;"><a href="http://urcrowdsource.org/omeka/news">News</a></span>    </li><li>        <span style="font-size: x-small;"><a href="http://urcrowdsource.org/omeka/sign-up">Sign Up</a></span>    </li><li class="parent">        <span style="font-size: x-small;"><a href="http://urcrowdsource.org/omeka/terminology">Terminology</a></span>             </li><li class="parent">        <span style="font-size: x-small;"><a href="http://urcrowdsource.org/omeka/transcribe">Transcribe</a></span>             </li><li><span style="font-size: x-small;">        <a href="http://urcrowdsource.org/omeka/guidelines">Transcription Guidelines</a></span>    </li></ul></blockquote><blockquote class="tr_bq"><div id="primary-nav"><ul class="navigation"></ul><ul class="navigation"></ul></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2734244066054559020/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2734244066054559020/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/09/urcrowdsource.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2734244066054559020"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2734244066054559020"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/09/urcrowdsource.html"
-         title="UrCrowdsource"/>
-    <author>
+         title="Crowdsourcing Excavation Records from Ur"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

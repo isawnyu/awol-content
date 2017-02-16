@@ -1,103 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4886949344552679201</id>
-    <published>2012-06-12T14:00:00.000-04:00</published>
-    <updated>2012-06-12T13:45:44.926-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4886949344552679201</id>
+   <published>2016-10-12T21:40:00.000-04:00</published>
+   <updated>2016-10-12T21:44:49.368-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Philosophy"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Portugese"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Philosophy"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Brazil"/>
-    <title type="text">Open Access Journal: Anais de Filosofia Clássica</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 8 July 2009.
-      Updated 12 June 2012]</span><br /><br /><a
-      href="http://www.ifcs.ufrj.br/%7Eafc/">Anais de Filosofia Clássica - Proceedings of
-      Classical Philosophy - Annales de Philosophie Classique</a><br />Revista di <a
-      href="http://www.ifcs.ufrj.br/%7Eppgf/">Programa de Pós-Graduação em Filosofia da
-      UFRJ</a><br />ISSN 1982-5323<br /><blockquote class="tr_bq"><img
-      src="http://www.ifcs.ufrj.br/%7Eafc/img/logo02.gif%20" /></blockquote><span
-      style="font-size: xx-small;"></span><br /><blockquote><span
-      style="font-size: x-small;">O VOLUME dois, em dois NÚMEROS (três e quatro), apresenta, além
-      de artigos livremente submetidos ao conselho editorial, algumas das conferências apresentadas
-      no Seminário Nacional OUSIA de Estudos Clássicos : A Poética de Aristóteles, realizado no Rio
-      de Janeiro em 2007 (N.3) e no II Simpósio Internacional OUSIA de Estudos Clássicos : A Poética
-      das Emoções, realizado no Rio de Janeiro em 2008. Os eventos foram realizados pelos
-      laboratórios OUSIA (filosofia) e PROAERA (letras) da UFRJ.<br /><br />O número 4 do
-      volume 2 reúne artigos com leituras originais (heterodoxas até) dos diálogos de Platão. O
-      artigo de Giovanni Casertano resulta de um curso oferecido no PPGF-UFRJ em agosto de 2008 e
-      abre a temática desta edição: PLATÃO, a RETÓRICA e a POÉTICA.<br /><br />The
-      Proceedings of Classical Philosophy release semestrally selected texts presented in the
-      seminaries and symposia promoted by the UFRJ's OUSIA laboratory in Classical Studies as well as
-      texts concerning classical philosophy submitted to their international editorial council.<br
-      /><br />The Proceedings of Classical Philosophy are the principal way of philosophical
-      and philological discussing of OUSIA laboratory in Classical Studies with support of others
-      international centers of research in classical studies, intending to integrate in their
-      editorial line the ways and results of this collaboratio<br /><br />Les Annales de
-      Philosophie Classique publient sémestralement des articles selectionnés présentés dans les
-      séminaires et colloques du Laboratoire OUSIA d'Études Classiques de l'UFRJ et des textes de
-      philosophie classique soumis à son comité éditorial international.<br /><br />Les
-      Annales de Philosophie Classique sont la voie principale de discussion philosophique et
-      philologique du Laboratoire OUSIA d' Études Classiques avec les centres internacionaux de
-      recherche en philosophie et philologie classique avec lesquels le laboratoire est associé, et
-      ont pour but intégrer dans sa ligne éditoriale les directions et les résultats de cette
-      collaboration.</span></blockquote><ul></ul><blockquote
-      class="tr_bq"><span style="font-size: xx-small;"><a
-      href="http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm"><img height="4"
-      src="http://www.ifcs.ufrj.br/%7Eafc/img/1pixel_ama.gif" width="4" /></a><a
-      href="http://www.ifcs.ufrj.br/%7Eafc/10.htm"> NÚMERO 7. 2010 vol. IV</a><br
-      /><a href="http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm"> <img
-      height="4" src="http://www.ifcs.ufrj.br/%7Eafc/img/1pixel_ama.gif" width="4"
-      /></a><a href="http://www.ifcs.ufrj.br/%7Eafc/09.htm"> NÚMERO 6. 2009 vol.
-      III</a><br /><a
-      href="http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm"> </a><a
-      href="http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm"><img height="4"
-      src="http://www.ifcs.ufrj.br/%7Eafc/img/1pixel_ama.gif" width="4" /></a><a
-      href="http://www.ifcs.ufrj.br/%7Eafc/09.htm"> NÚMERO 5. 2009 vol. III</a><br
-      /><a href="http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm"> <img
-      height="4" src="http://www.ifcs.ufrj.br/%7Eafc/img/1pixel_ama.gif" width="4"
-      /></a><a href="http://www.ifcs.ufrj.br/%7Eafc/08.htm"> NÚMERO 4. 2008 vol.
-      II</a><br /><a
-      href="http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm"><img height="4"
-      src="http://www.ifcs.ufrj.br/%7Eafc/img/1pixel_ama.gif" width="4" /> </a><a
-      href="http://www.ifcs.ufrj.br/%7Eafc/08.htm">NÚMERO 3. 2008 vol. II</a><br
-      /><a href="http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm"><img
-      height="4" src="http://www.ifcs.ufrj.br/%7Eafc/img/1pixel_ama.gif" width="4"
-      /></a><a href="http://www.ifcs.ufrj.br/%7Eafc/07.htm"> NÚMERO 2. 2007 vol.
-      I</a><br /><a
-      href="http://www.ifcs.ufrj.br/%7Eafc/artigo_aristotelismonosecxx.htm"><img height="4"
-      src="http://www.ifcs.ufrj.br/%7Eafc/img/1pixel_ama.gif" width="4" /> </a><a
-      href="http://www.ifcs.ufrj.br/%7Eafc/07.htm">NÚMERO 1. 2007 vol.
-      I</a></span></blockquote><ul></ul><br /><div
-      style="text-align: center;"><a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List&nbsp;
-      of Open Access Journals in Ancient Studies</a> </div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Portuguese"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Brazil"/>
+   <title type="text">Open Access Journal: Anais de Filosofia Clássica</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 8 July 2009. Updated 12 October 2016]</span><br /><br /><a href="https://revistas.ufrj.br/index.php/FilosofiaClassica/index">Anais de Filosofia Clássica</a><br />ISSN 1982-5323<br /><blockquote class="tr_bq"><img alt="Page Header Logo" height="77" src="https://revistas.ufrj.br/public/journals/7/pageHeaderLogoImage_pt_BR.png" width="300" /> </blockquote><blockquote><div id="journalDescription"><span style="font-size: x-small;">Os <b>Anais de Filosofia Clássica</b> publicam semestralmente textos de filosofia clássica submetidos ao seu  conselho editorial internacional e trabalhos selecionados apresentados  nos seminários e simpósios do <a href="http://www.ifcs.ufrj.br/%7Efsantoro/ousia" target="_blank">Laboratório OUSIA de Estudos Clássicos da UFRJ</a> e seus parceiros. </span></div></blockquote><blockquote><div id="journalDescription"><span style="font-size: x-small;">Os manuscritos são submetidos à avaliação cega de pares. </span></div></blockquote><blockquote><div id="journalDescription"><span style="font-size: x-small;"><b></b> Principal via de discussão filosófica e filológica do <a href="http://www.ifcs.ufrj.br/%7Efsantoro/ousia" target="_blank">Laboratório OUSIA</a> junto a centros de pesquisa em filosofia e filologia clássica de  universidades em vários países, a revista visa integrar em sua linha  editorial os rumos e resultados desta colaboração.</span></div></blockquote><ul></ul><blockquote class="tr_bq"><div style="float: left; width: 100%;"><h3><span style="font-size: x-small;">2015</span></h3><span style="font-size: x-small;">     </span><br /><div id="issue-303" style="clear: left;"><h4><span style="font-size: x-small;"><a href="https://revistas.ufrj.br/index.php/FilosofiaClassica/issue/view/303">Vol 9, No 17 (2015): Aristóteles e Parmênides</a></span></h4><div class="issueDescription"><span style="font-size: x-small;">Este número 17, vol. 9, dos Anais de  Filosofia Clássica, cuja edição ficou a cargo de Francisco de Moraes  (UFRRJ), é dedicado às filosofias de Parmênides e Aristóteles, que em  2016 completaria 2400 anos de idade, e reúne textos que tratam de temas e  questões relacionados às decisões de sentido fundadoras da filosofia e  de seus desdobramentos históricos. Nele ocupam especial destaque os elos  conceituais elaborados por Aristóteles no âmbito da <i>Física</i>,  bem como a presença de Parmênides e da tradição pré-socrática na  constituição da filosofia, tal como nós a reconhecemos hoje. A edição  conta ainda com a tradução do texto correspondente à última lição de um  curso ministrado por Eugen Fink, em 1951, sobre a <i>Física</i> de Aristóteles, o qual foi publicado, em 1957, sob o título <i>Zur ontologischen Frühgeschichte von Raum-Zeit-Bewegung</i>. </span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;">A  edição deste número dos Anais de Filosofia Clássica contou com o apoio  das Agências de Fomento do Governo Brasileiro - CAPES - e do Governo  Francês - COFECUB.</span></div></div><span style="font-size: x-small;">       </span></div><span style="font-size: x-small;">   <br />        </span><br /><div style="float: left; width: 100%;"><h3><span style="font-size: x-small;">2014</span></h3><div id="issue-308" style="clear: left;"><h4><span style="font-size: x-small;"><a href="https://revistas.ufrj.br/index.php/FilosofiaClassica/issue/view/308">Vol 8, No 16 (2014): Platão e as formas</a></span></h4><div class="issueDescription"><span style="font-size: x-small;">Entre 5 e 8 de maio de 2014, o Laboratório Ousía promoveu o seminário <i>Platão: o diálogo e as formas</i>,  contando com a presença de professores brasileiros especialistas no  pensamento platônico e do renomado platonista italiano Franco  Trabattoni, da Università degli Studi di Milano. O objetivo principal do  seminário foi apresentar para os alunos da UFRJ e para o público  interessado em geral as pesquisas correntes desses professores,  enfocando tanto questões relativas ao conteúdo do pensamento platônico,  com ênfase em sua questão central, o problema das formas, quanto  aspectos do diálogo como método de pensamento, uma vez que esse figura  como veículo privilegiado da filosofia de Platão. </span><br /><span style="font-size: x-small;">O presente  número da AFC traz artigos de alguns dos participantes desse seminário.  &nbsp;Em “A brincadeira de Eutidemo e Dionisodoro no Eutidemo de Platão”,  Paula Lopes (UNIRIO) busca problematizar, através da distinção “falar a  sério” e “brincar” presente no diálogo, a relação entre formas do  discurso e teoria das formas presente no <i>Eutidemo</i>. Izabela Aquino (UERJ), em “Entre o <i>Parmênides</i> e o <i>Sofista </i>de Platão: há ideia de cabelo? Há ideia da lama?”, pretende apontar, em passagens do <i>Parmênides </i>e do <i>Sofista</i>, para uma saída possível da aporia lançada por Parmênides quanto à teoria das formas no diálogo homônimo.<i> </i>Em  “Eros e Thanatos”, Susana de Castro defende a não unidade do pensamento  platônico, tomando como objeto de investigação uma comparação dos  diálogos <i>Fédon</i> e <i>Fedro</i> no tocante a seus  posicionamentos acerca da alma, do amor e da morte. Luísa Buarque  (PUC-Rio), em “A parte e o todo: atomismo e linguagem no <i>Sofista</i>”,  investiga a crítica ao atomismo passível de ser encontrada nas  reflexões sobre a linguagem apresentadas nesse diálogo. “Platão e  Heráclito em três diálogos”, de Ana Flaksman (UNIRIO) examina a presença  e importância do pensamento heraclítico e de seus desdobramentos no <i>Banquete</i>, no <i>Teeteto</i> e no <i>Sofista</i>.  Por fim, mas não menos importante, “Alle origini del ‘platonismo’: che  cos’è, propriamente, la teoria delle idee?” é a transcrição de uma das  aulas ministradas por Franco Trabattoni (UNIMI) no minicurso que o  professor ministrou, homônimo ao seminário: nessa aula, Trabattoni  discute vários dos problemas que decorrem da via propositiva platônica,  isto é, de sua colocação e defesa de uma teoria das formas.</span><br /><span style="font-size: x-small;">Recebemos, finalmente, para a seção de traduções, mais seis diatribes de Epicteto, traduzidas por Aldo Dinucci.</span><br /><span style="font-size: x-small;">Carla Francalanci, editora convidada.</span></div></div><div id="issue-93" style="clear: left;"><h4><span style="font-size: x-small;"><a href="https://revistas.ufrj.br/index.php/FilosofiaClassica/issue/view/93">Vol 8, No 15 (2014): Platão, predicação e ontologia</a></span></h4><div class="issueDescription"><span style="font-size: x-small;">Este número é dedicado à filosofia de  Platão. É uma homenagem dos Anais de Filosofia Clássica à International  Plato Society, que promoverá seu XI Simpósio em Brasília, sob a  presidência de Gabriele Cornelli, professor da UnB. Temos artigos  tratando da Teoria das Ideias sob diferentes ângulos: como o problema da  predicação no Crátilo, por José Gabriel Trindade ou no comentário  peripatétido do De Ideis por Irley Franco e Renato Brandão. Temos a  abordagem da teoria sob os ângulos cosmológicos e ontológicos no Timeu,  por Luca Pitteloud e sob a questão do conhecimento, por Francisco de  Moraes. E temos uma apropriação na filosofia contemporânea da discussão  acerca da condição humana, a partir do Filebo, por Carla Francalanci.  Por todas as vias, Platão aparece como um filósofo com quem não se pode  abandonar o diálogo, sob pena de perder o eixo que é capaz de articular a  diversidade das Filosofias.</span></div></div></div><span style="font-size: x-small;">   <br />        </span><br /><div style="float: left; width: 100%;"><h3><span style="font-size: x-small;">2013</span></h3><div id="issue-154" style="clear: left;"><h4><span style="font-size: x-small;"><a href="https://revistas.ufrj.br/index.php/FilosofiaClassica/issue/view/154">Vol 7, No 14 (2013): Estoicismo</a></span></h4><div class="issueDescription"><span style="font-size: x-small;">O volume 7, número 14, de 2013, que tem,  como editores convidados, ALDO DINUCCI e RODRIGO BRITO, traz uma  seleção de artigos sobre o tema "Estoicismo". Nesta edição temos artigos  de Braicovich, Dinucci, Rodrigo Brito, Valter Duarte e Konstantakos. O  número se encerra com três traduções: um preâmbulo ao Manual de Epicteto  de Giacomo Leopardi, diatribes de Musônio Rufo e diatribe de Epicteto.</span></div></div><div id="issue-153" style="clear: left;"><h4><span style="font-size: x-small;"><a href="https://revistas.ufrj.br/index.php/FilosofiaClassica/issue/view/153">Vol 7, No 13 (2013): Helenismo</a></span></h4><div class="issueDescription"><span style="font-size: x-small;">O volume 7, número 13, de 2013, que tem,  como editores convidados, ALDO DINUCCI e RODRIGO BRITO, traz uma  seleção de artigos sobre o tema "Helenismo". Nesta edição temos artigos  de Bicca e Rodrigo Brito, sobre ceticismo; a participação de Natacha  Bustos, que nos escreve sobre estoicismo; e o o texto de Constança,  sobre a filosofia grega contemporânea de EVANGHÉLOS MOUTSOPOULOS. Temos  ainda os trabalhos de Rineu Quinalia, sobre o élenchos socrático, e de  Luciana Gabriela Soares Santoprete, sobre a influência do platonismo nos  debates teológicos dos primeiros séculos de nossa era. O número se  encerra com duas traduções.</span></div></div></div><span style="font-size: x-small;">   <br />        </span><br /><div style="float: left; width: 100%;"><h3><span style="font-size: x-small;">2012</span></h3><div id="issue-94" style="clear: left;"><h4><span style="font-size: x-small;"><a href="https://revistas.ufrj.br/index.php/FilosofiaClassica/issue/view/94">Vol 6, No 12 (2012): EMPÉDOCLES II</a></span></h4><div class="issueDescription"><span style="font-size: x-small;">Homenagem a Jean Bollack (1923-2012)</span><span style="font-size: x-small;"><br />Este volume, números 11 e 12 de 2012, é uma homenagem ao filólogo e  filósofo Jean Bollack, mestre da Escola Filológica de Lille, cujos  rigor, lucidez e inventividade interpretativa determinaram uma revolução  no estudo da filosofia pré-socrática; notadamente da obra de  Empédocles.</span><span style="font-size: x-small;"><br />Publicamos textos sobre Empédocles, apresentados no seminário Empédocles  e o Teatro, realizado na École Normale Supérieure de Paris, em 2011 no  âmbito do acordo de cooperação científica Capes/Cofecub : "As Origens da  Linguagem Filosófica : estratégias retóricas e poéticas da sabedoria  antiga" e outros textos sobre o tema submetidos à revista.</span></div></div><div id="issue-12" style="clear: left;"><h4><span style="font-size: x-small;"><a href="https://revistas.ufrj.br/index.php/FilosofiaClassica/issue/view/12">Vol 6, No 11 (2012): EMPÉDOCLES I</a></span></h4><div class="issueDescription"><span style="font-size: x-small;">Homenagem a Jean Bollack (1923-2012)</span><br /><span style="font-size: x-small;">Este  volume, números 11 e 12 de 2012, é uma homenagem ao filólogo e filósofo  Jean Bollack, mestre da Escola Filológica de Lille, cujos rigor,  lucidez e inventividade interpretativa determinaram uma revolução no  estudo da filosofia pré-socrática; notadamente da obra de Empédocles.</span><br /><span style="font-size: x-small;">Publicamos  textos sobre  Empédocles,  apresentados no seminário Empédocles e o  Teatro, realizado na École  Normale Supérieure de Paris, em 2011 no  âmbito do acordo de cooperação  científica Capes/Cofecub :  "As Origens  da Linguagem Filosófica :  estratégias retóricas e poéticas da sabedoria  antiga" e outros textos sobre o tema submetidos à revista.</span></div></div></div><span style="font-size: x-small;">   <br />           </span><br /><h3><span style="font-size: x-small;">2010</span></h3><span style="font-size: x-small;">     </span><br /><div id="issue-8" style="clear: left;"><h4><span style="font-size: x-small;"><a href="https://revistas.ufrj.br/index.php/FilosofiaClassica/issue/view/8">Vol 4, No 8 (2010): PHYSIS I</a></span></h4><div class="issueDescription"><span style="font-size: x-small;">O número 8 apresenta artigos submetidos  ao conselho editorial, apresentados ou relacionados aos temas do  Terceiro Simpósio Internacional OUSIA de Estudos Clássicos : Physis, o  conceito de natureza na antiguidade (UFRJ), e do IV Seminário de  Filosofia Antiga (UERJ) realizados no Rio de Janeiro em 2010. Os eventos  foram realizados pelos laboratórios <a href="http://www.ifcs.ufrj.br/%7Efsantoro/ousia">OUSIA</a> (filosofia) e PROAERA (letras) da <a href="http://www.ufrj.br/">UFRJ</a> e NOESIS da UERJ.</span></div></div><span style="font-size: x-small;">    </span><br /><div id="issue-11" style="clear: left;"><span style="font-size: x-small;">   </span><br /><h4><span style="font-size: x-small;"><a href="https://revistas.ufrj.br/index.php/FilosofiaClassica/issue/view/11">Vol 4, No 7 (2010): Amizade</a></span></h4><span style="font-size: x-small;">  </span><br /><div class="issueDescription"><span style="font-size: x-small;">O número 7, focado no tema da Amizade, é  uma homenagem ao amigo e  colaborador do Laboratório OUSIA Marcos  Sinésio Pereira Fernandes,  falecido em novembro de 2009. <br /><br />Além  de um artigo de sua autoria,  publicamos o artigo de sua ex-aluna Eraci  Gonçalves, sobre seu último  curso ministrado na UFRJ, em 2007, com  anexo de apontamentos de aula.</span></div></div></blockquote><div style="text-align: center;"><span style="font-size: xx-small;"><span style="font-size: small;"><span><span>See AWOL's List of</span></span></span></span></div><span style="font-size: small;"><span><span>  </span></span></span><div style="text-align: center;"><span style="font-size: small;"><span><span><a href="http://ancientworldonline.blogspot.com/2014/12/spanishcatalanportugese-journals-on.html">Spanish/Catalan/Portuguese Open Access Journals on the Ancient World</a> </span></span></span></div><ul></ul><div style="text-align: center;"><span style="font-size: small;">And S<span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4886949344552679201/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4886949344552679201/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/07/open-access-journal-anais-de-filosofia.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4886949344552679201"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4886949344552679201"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2009/07/open-access-journal-anais-de-filosofia.html"
-         title="Open Access Journal:   Anais de Filosofia Clássica"/>
-    <author>
+         title="Open Access Journal: Anais de Filosofia Clássica"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

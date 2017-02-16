@@ -1,127 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8036190559375254934</id>
-    <published>2010-02-24T18:31:00.000-05:00</published>
-    <updated>2014-07-23T08:00:10.548-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8036190559375254934</id>
+   <published>2016-11-30T15:56:00.000-05:00</published>
+   <updated>2016-11-30T15:57:10.589-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: Athena Review</title>
-    <content type="html"><![CDATA[<a href="http://www.athenapub.com/backis2.htm">Athena Review: Journal
-      of Archaeology, History, and Exploration</a><br /><div
-      align="center"><span style="color:
-      #0000a0;"><b><u><i></i></u></b></span></div><blockquote><div
-      align="center"><span style="color: #0000a0; font-size:
-      85%;"><b><u><i>Issue index:</i></u></b></span>
-      </div><div align="left"><span style="font-size: 85%;"><a
-      href="http://www.athenapub.com/index1.htm"><span style="color: blue;"><i><b
-      style="color: #000066;">Vol. 1, No 1:</b> </i></span></a>
-      </span><span style="color: navy; font-size: 85%;">Romano-British Sites &amp;
-      Museums I: Forts and military sites; Late Iron Age Celts; Angkor Wat; Peter
-      Martyr.</span> </div><div align="left"><span style="font-size:
-      85%;"><a href="http://www.athenapub.com/index2.htm"><span style="color:
-      blue;"><b><i><span style="color: #000066;">Vol. 1, No 2:</span>
-      </i></b></span></a> </span><span style="color: navy;
-      font-size: 85%;">Romano-British Sites &amp; Museums II: Towns, villas, markets, baths;
-      New World Voyages of William Dampier.</span> </div><div align="left"><span
-      style="font-size: 85%;"><a href="http://www.athenapub.com/index3.htm"><span
-      style="color: blue;"><b style="color: #000066;"><i>Vol. 1, No.
-      3:</i></b><b> </b></span></a> </span><span
-      style="color: navy; font-size: 85%;">New World Explorers I: South America &amp;
-      Caribbean; Vikings in Vinland; Rivers from Space. </span> </div><div
-      align="left"><span style="color: navy; font-size: 85%;"><a
-      href="http://www.athenapub.com/index4.htm"><i><b style="color: #000066;">Vol. 1,
-      No. 4</b><span style="color: #000066;">:</span>
-      </i></a></span><span style="font-size: 85%;"> </span><span
-      style="color: navy; font-size: 85%;">Sites &amp; Museums in Roman Gaul I; Thracian
-      Treasures; Buddhist Monasteries in Tibet.</span> </div><div
-      align="left"><span style="font-size: 85%;"><a
-      href="http://www.athenapub.com/index5.htm"><span style="color: blue;"><b><i
-      style="color: #000066;">Vol. 2, No. 1:</i> </b></span></a>
-      </span><span style="color: navy; font-size: 85%;">New World Explorers II: Yucatán;
-      Great Basin Archaeology.</span> </div><div align="left"><span
-      style="color: navy; font-size: 85%;"><i><a
-      href="http://www.athenapub.com/index6.htm"><b style="color: #000066;">Vol. 2,
-      No.2:</b> </a></i></span><span style="font-size: 85%;">
-      </span><span style="color: navy; font-size: 85%;">Maya Lowlands: Tikal, Palenque;
-      Egyptian papyri; Sutton Hoo.</span> </div><div align="left"><span
-      style="color: navy; font-size: 85%;"><a
-      href="http://www.athenapub.com/index7.htm"><i><b style="color: #000066;">Vol. 2,
-      No.3:</b> </i></a></span><span style="font-size: 85%;">
-      </span><span style="color: navy; font-size: 85%;">Romans on the Danube; Viking
-      ships and sagas; Andean Petroglyphs.</span> </div><div align="left"><span
-      style="color: navy; font-size: 85%;"><a
-      href="http://www.athenapub.com/index8.htm"><i><b style="color: #000066;">Vol. 2,
-      No.4:</b> </i></a><i> </i></span><span style="font-size:
-      85%;"> </span><span style="color: navy; font-size: 85%;">Neanderthals Meet
-      Modern Humans.</span> </div><div align="left"><span style="color: navy;
-      font-size: 85%;"><i><b style="color: #000066;"><a
-      href="http://www.athenapub.com/index9.htm">Vol. 3, No.1:</a></b>
-      </i></span><span style="color: navy; font-size: 85%;">Byzantine Cultures,
-      East and West; Buried silk road cities of Khotan. </span> </div><div
-      align="left"><span style="font-size: 85%;"><a
-      href="http://www.athenapub.com/index10.htm"><span style="color:
-      blue;"><i><b><span style="color: #000066;">Vol. 3, No.2:</span>
-      </b></i></span></a> </span><span style="color: navy;
-      font-size: 85%;">New World Explorers III: Peopling of the Americas</span>
-      </div><div align="left"><span style="font-size: 85%;"><a
-      href="http://www.athenapub.com/index11.htm"><span style="color: blue;"><i
-      style="color: #000066;"><b>Vol. 3,
-      No.3:</b></i></span></a><i><b> </b></i>Minoan
-      Palaces of Crete: New Interpretations; El Mirón Cave, Spain</span> </div><div
-      align="left"><span style="font-size: 85%;"><a
-      href="http://www.athenapub.com/index12.htm"><span style="color:
-      blue;"><i><b><span style="color: #000066;">Vol. 3, No.4:</span>
-      </b></i></span></a></span><span style="color: navy; font-size:
-      85%;">Rediscovering Lost Civilizations: Reports from the Field.</span>
-      </div><div align="left"><span style="font-size: 85%;"><i><b><a
-      href="http://www.athenapub.com/index13.htm"><span style="color: blue;"><span
-      style="color: #000066;">Vol. 4, No.1:</span>
-      </span></a></b></i></span><span style="color: navy; font-size:
-      85%;"><i>Homo erectus</i>: current findings on an early human ancestor; The
-      prehistory of Sardinia</span> </div><div align="left"><span
-      style="font-size: 85%;"><i><b><a
-      href="http://www.athenapub.com/index14.htm"><span style="color: blue;"><span
-      style="color: #000066;">Vol. 4, No.2:</span>
-      </span></a></b></i></span><span style="color: navy; font-size:
-      85%;">The Flowering of the Gothic in Northern France: Gothic Art and Architecture from Paris
-      to Picardie</span> </div><div align="left"><span style="font-size:
-      85%;"><a href="http://www.athenapub.com/index15.htm"><i><b><span
-      style="color: blue;"><span style="color: #000066;">Vol. 4, No.3:</span>
-      </span></b></i></a></span><span style="color: navy; font-size:
-      85%;">The Looting of Archaeological Sites: Looting and the Antiquities Market; Central
-      America as a Case Study; Bering Strait Legal Market in
-      Antiquities</span></div></blockquote><div align="left"><span
-      style="color: navy;"><small></small></span></div><br /><div
-      style="text-align: center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div><br />]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: Athena Review</title>
+   <content type="html"><![CDATA[<a href="http://www.athenapub.com/backis2.htm">Athena Review:  Journal of Archaeology, History, and Exploration</a><br /><div align="center"><span style="color: #0000a0;"><b><u><i></i></u></b></span></div><blockquote><div align="center" style="background-color: #ffddac;"><span style="color: #0000a0; font-size: x-small;"><b><u><i>Issue index:</i></u></b></span> </div><div align="left" style="background-color: #ffddac;"> <span style="font-size: x-small;"><a href="http://www.athenapub.com/index1.htm"><span style="color: blue;"><i><b style="color: #000066;">Vol. 1, No 1:</b> </i></span></a>&nbsp; <span style="color: navy;">Romano-British Sites &amp; Museums I: Forts and military sites; Late Iron Age Celts; Angkor Wat; Peter Martyr.</span></span> </div><div align="left" style="background-color: #ffddac;"> <span style="font-size: x-small;"><a href="http://www.athenapub.com/index2.htm"><span style="color: blue;"><b><i><span style="color: #000066;">Vol. 1, No 2:</span> </i></b></span></a>&nbsp; <span style="color: navy;">Romano-British Sites &amp; Museums II: Towns, villas, markets, baths; New World Voyages of William Dampier.</span></span> </div><div align="left" style="background-color: #ffddac;"> <span style="font-size: x-small;"><a href="http://www.athenapub.com/index3.htm"><span style="color: blue;"><b style="color: #000066;"><i>Vol. 1, No. 3:</i></b><b> </b></span></a>&nbsp; <span style="color: navy;">New World Explorers I: South America &amp; Caribbean; Vikings in Vinland;&nbsp;Rivers from&nbsp;Space. </span></span> </div><div align="left" style="background-color: #ffddac;"> <span style="color: navy; font-size: x-small;"><a href="http://www.athenapub.com/index4.htm"><i><b style="color: #000066;">Vol. 1, No. 4</b><span style="color: #000066;">:</span> </i></a></span><span style="font-size: x-small;">&nbsp; <span style="color: navy;">Sites &amp; Museums in Roman Gaul I; Thracian Treasures; Buddhist Monasteries in Tibet.</span></span></div><div align="left" style="background-color: #ffddac;"> <span style="font-size: x-small;"><a href="http://www.athenapub.com/index5.htm"><span style="color: blue;"><b><i style="color: #000066;">Vol. 2, No. 1:</i> </b></span></a>&nbsp; <span style="color: navy;">New World Explorers II: Yucatán; Great Basin Archaeology.</span></span> </div><div align="left" style="background-color: #ffddac;"> <span style="color: navy; font-size: x-small;"><i><a href="http://www.athenapub.com/index6.htm"><b style="color: #000066;">Vol. 2, No.2:</b> </a></i></span><span style="font-size: x-small;">&nbsp; <span style="color: navy;">Maya Lowlands: Tikal, Palenque; Egyptian papyri; Sutton Hoo.</span></span> </div><div align="left" style="background-color: #ffddac;"> <span style="color: navy; font-size: x-small;"><a href="http://www.athenapub.com/index7.htm"><i><b style="color: #000066;">Vol. 2, No.3:</b> </i></a></span><span style="font-size: x-small;">&nbsp; <span style="color: navy;">Romans on the Danube; Viking ships and sagas; Andean Petroglyphs.</span></span> </div><div align="left" style="background-color: #ffddac;"> <span style="color: navy; font-size: x-small;"><a href="http://www.athenapub.com/index8.htm"><i><b style="color: #000066;">Vol. 2, No.4:</b> </i></a><i>&nbsp;</i></span><span style="font-size: x-small;"><span style="color: navy;">Neanderthals Meet Modern Humans.</span></span> </div><div align="left" style="background-color: #ffddac;"> <span style="color: navy; font-size: x-small;"><i><b style="color: #000066;"><a href="http://www.athenapub.com/index9.htm">Vol. 3, No.1:</a></b></i></span><span style="color: navy; font-size: x-small;">Byzantine Cultures, East and West; Buried silk road cities of Khotan. </span> </div><div align="left" style="background-color: #ffddac;"> <span style="font-size: x-small;"><a href="http://www.athenapub.com/index10.htm"><span style="color: blue;"><i><b><span style="color: #000066;">Vol. 3, No.2:</span> </b></i></span></a>&nbsp; <span style="color: navy;">New World Explorers III: Peopling of the Americas</span></span> </div><div align="left" style="background-color: #ffddac;"> <span style="font-size: x-small;"><a href="http://www.athenapub.com/index11.htm"><span style="color: blue;"><i style="color: #000066;"><b>Vol. 3, No.3:</b></i></span></a><i><b> </b></i>Minoan Palaces of Crete: New Interpretations; El Mirón Cave, Spain</span></div><div align="left" style="background-color: #ffddac;"> <span style="font-size: x-small;"><a href="http://www.athenapub.com/index12.htm"><span style="color: blue;"><i><b><span style="color: #000066;">Vol. 3, No.4:</span> </b></i></span></a><span style="color: navy;">Rediscovering Lost Civilizations: Reports from the Field.</span></span> </div><div align="left" style="background-color: #ffddac;"> <span style="font-size: x-small;"><i><b><a href="http://www.athenapub.com/index13.htm"><span style="color: blue;"><span style="color: #000066;">Vol. 4, No.1:</span> </span></a></b></i><span style="color: navy;"><i>Homo erectus</i>: current findings on an early human ancestor; &nbsp;The prehistory of Sardinia</span></span></div><div align="left" style="background-color: #ffddac;"> <span style="font-size: x-small;"><i><b><a href="http://www.athenapub.com/index14.htm"><span style="color: blue;"><span style="color: #000066;">Vol. 4, No.2:</span> </span></a></b></i><span style="color: navy;">The Flowering of&nbsp;the Gothic in Northern France: Gothic Art and Architecture&nbsp;from Paris to Picardie</span></span></div><div align="left" style="background-color: #ffddac;"> <span style="font-size: x-small;"><a href="http://www.athenapub.com/index15.htm"><i><b><span style="color: blue;"><span style="color: #000066;">Vol. 4, No.3:</span> </span></b></i></a><span style="color: navy;">The Looting of Archaeological Sites: Looting and the Antiquities Market; Central America as a Case &nbsp;Study; Bering Strait Legal Market in Antiquities</span></span></div><div align="left" style="background-color: #ffddac;"><span style="font-size: x-small;"><i><b><i><b><span style="color: blue;"><span style="color: #000066;">Vol. 4, No.4</span></span></b></i><i><b><span style="color: blue;"><span style="color: #000066;">: China</span></span></b></i></b></i></span></div><div align="left" style="background-color: #ffddac;"><span style="font-size: x-small;"><i><b><i><b><span style="color: blue;"><span style="color: #000066;"></span></span></b></i></b></i></span></div><div align="left" style="background-color: #ffddac;"><span style="font-size: x-small;"><a href="http://www.athenapub.com/index17.html"><i><b><i><b><span style="color: blue;"><span style="color: #000066;">Vol 5, No.1: </span></span></b></i></b></i><b><b><span style="color: blue;"><span style="color: #000066;"></span></span></b></b></a><span style="color: blue;"><span style="color: #000066;">Records of Life: fossils as original sources</span></span></span></div></blockquote><div align="left"><span style="color: navy;"><small></small></span></div><span style="font-size: small;"><br /></span><div style="text-align: center;"><span style="font-size: small;"><span></span><span><span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span> </div><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8036190559375254934/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8036190559375254934/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/02/open-access-journal-athena-review.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8036190559375254934"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8036190559375254934"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/02/open-access-journal-athena-review.html"
-         title="Open Access Journal:  Athena Review"/>
-    <author>
+         title="Open Access Journal: Athena Review"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

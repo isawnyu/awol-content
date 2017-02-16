@@ -1,119 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7940679626229739001</id>
-    <published>2014-05-03T08:30:00.003-04:00</published>
-    <updated>2014-10-05T18:41:46.927-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7940679626229739001</id>
+   <published>2016-07-31T15:14:00.000-04:00</published>
+   <updated>2016-07-31T15:15:17.315-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Student Journal"/>
-    <title type="text">New Open Access Journal: Diogenes </title>
-    <content type="html"><![CDATA[<a
-      href="http://gembirmingham.org/gem-activities/diogenes/">Diogenes</a><br />ISSN:
-      2054-6696 <br /><blockquote class="tr_bq"><img
-      alt="http://gembirminghamdotorg.files.wordpress.com/2013/09/cropped-gem_thing_2_by_pastel_hime-d6lwzi3.png"
-      class="decoded"
-      src="http://gembirminghamdotorg.files.wordpress.com/2013/09/cropped-gem_thing_2_by_pastel_hime-d6lwzi3.png"
-      height="112" width="320" /> </blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">Launched in January 2014, <em>Diogenes</em> (ISSN
-      2054-6696) is a open-access online journal edited by the postgraduate students at the Centre
-      for Byzantine, Ottoman and Modern Greek Studies, University of Birmingham. This collaboration
-      of postgraduate students aims at providing a venue at which postgraduate students can further
-      develop their research ideas and communicate them to a general audience.</span>
-      </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;">The unique combination of
-      research interests at the Centre brings together the often separate fields of Byzantine,
-      Ottoman and Modern Greek Studies. We look forward to any article that actively engages with any
-      of these fields, from universities in the UK and abroad.</span>
-      </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"></span><span style="font-size: x-small;">It is published twice a year:
-      in January and October.</span></blockquote><div class="column
-      column-narrow"></div><blockquote class="tr_bq"><span style="font-size:
-      x-small;">GEM Journal <i>Diogenes</i> Issue 1 January 2014</span><br
-      /><span style="font-size: x-small;"><a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-complete5.pdf">Issue
-      1 (Whole)</a></span><br /><span style="font-size: x-small;">Wei-sheng
-      Lin:&nbsp;<a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-editorial-wsl.pdf">Editorial</a><a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-editorial-wei-sheng-lin1.pdf"><br
-      /></a></span><br /><span style="font-size: x-small;">Zuzana
-      Černáková:&nbsp;<a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-zc.pdf">Prejudices,
-      Emotions and Power of Political Restraint: A Study in the Second Crusade</a><a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-zuzana-c48dernc3a1kovc3a1-prejudices-emotions-and-power-of-political-restraint1.pdf"><br
-      /></a></span><br /><span style="font-size: x-small;">Elli
-      Evangelidou:&nbsp;<a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-ee.pdf">The
-      Representation of the Greek Civil War in <i>Eleni</i> and <i>The Heroic
-      Age</i></a><a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-elli-evangelidou-the-representation-of-the-greek-civil-war-in-eleni-and-the-heroic-age.pdf"
-      target="_blank"><br /></a></span><br /><span style="font-size:
-      x-small;">Alexandros Siapkas:&nbsp;<a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-as.pdf">Different
-      academic approaches towards the British intervention in Greece (1941-1944). A
-      synopsis</a><a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-alexandros-siapkas-different-academic-approaches-towards-the-british-intervention-in-greece-1941-1944-a-synopsis.pdf"
-      target="_blank"><br /></a></span><br /><span style="font-size:
-      x-small;">Yannis Stamos:&nbsp;<a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-ys.pdf">Of
-      pleasure and sorrow: Two modern Greek Epicurean poems</a><a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-yannis-stamos-of-pleasure-and-sorrow-two-modern-greek-epicurean-poems.pdf"
-      target="_blank"><br /></a></span><br /><span style="font-size:
-      x-small;">Niki Touriki:&nbsp;<a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-nt.pdf">Ekphrasis
-      in the <i>Alexiad</i></a><a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-niki-touriki-ekphrasis-in-the-alexiad.pdf"
-      target="_blank"><br /></a></span><br /><span style="font-size:
-      x-small;">Gemma Norman:&nbsp;<a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-review-gn.pdf">Review
-      – Christine Woodhead (ed.), <i>The Ottoman World</i></a></span><br
-      /><span style="font-size: x-small;"><a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-review-gemma-norman-christine-woodhead-ed-the-ottoman-world.pdf"><br
-      /></a></span></blockquote><div style="text-align: center;"><span
-      style="font-size: small;"><span class="titol"><span
-      class="text">&nbsp;</span></span></span><span
-      class="Apple-style-span" style="color: #333333; font-family: 'Times New Roman'; line-height:
-      25px;">See AWOL's list of&nbsp; <a
-      href="http://ancientworldonline.blogspot.com/2013/09/list-of-student-journals.html">Open
-      Access Student Journals</a></span><br /><span style="font-size:
-      small;"><a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-review-gemma-norman-christine-woodhead-ed-the-ottoman-world.pdf"><span
-      class="titol"><span class="text">See the full
-      </span></span></a><a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></span></div><a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-review-gemma-norman-christine-woodhead-ed-the-ottoman-world.pdf"><br
-      /></a><br /><div style="text-align: center;"><span style="font-size:
-      small;"><a
-      href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-review-gemma-norman-christine-woodhead-ed-the-ottoman-world.pdf"><span
-      class="titol"><span class="text"></span></span></a><br
-      /></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Student Journal"/>
+   <title type="text">Open Access Journal: Diogenes </title>
+   <content type="html"><![CDATA[<a href="https://gembirminghamdotorg.wordpress.com/gem-activities/diogenes/">Diogenes</a><br />ISSN: 2054-6696 <br /><blockquote class="tr_bq"><img alt="http://gembirminghamdotorg.files.wordpress.com/2013/09/cropped-gem_thing_2_by_pastel_hime-d6lwzi3.png" class="decoded" src="http://gembirminghamdotorg.files.wordpress.com/2013/09/cropped-gem_thing_2_by_pastel_hime-d6lwzi3.png" height="112" width="320" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Launched in January 2014, <em>Diogenes</em> (ISSN 2054-6696) is a  peer-review and open-access journal edited by the postgraduate students  at the Centre for Byzantine, Ottoman and Modern Greek Studies,  University of Birmingham. This collaboration of postgraduate students  aims at providing a venue at which postgraduate students can further  develop their research ideas and communicate them to a general audience.</span><br /><br /> <span style="font-size: x-small;">The unique combination of research interests at the Centre brings  together the often separate fields of Byzantine, Ottoman and Modern  Greek Studies. We look forward to any article that actively engages with  any of these fields, from universities in the UK and abroad.</span><br /><br /> <span style="font-size: x-small;">It is published twice a year: in April&nbsp;and October.</span></blockquote><div class="column column-narrow"></div><blockquote class="tr_bq"><span style="font-size: x-small;"><em>Diogenes</em> Issue 3 April 2015</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-3-complete.pdf">Issue 3 (Whole)</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Wei-sheng Lin:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-3-editorial-wsl.pdf">Editorial</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Francisco Lopez-Santos Kornberger:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-3-review-fl-sk.pdf">Review – <em>Striking Images, Iconoclasms Past and Present</em></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Joseph Parsonage:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-3-review-jp.pdf">Review – <em>The Byzantine world</em></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Michael Strain:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-3-review-ms.pdf">Review – <em>The Author in Middle Byzantine Literature: Modes, Functions, and Identities</em></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Georgia Tsatsani:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-3-review-gt.pdf">Review – <em>Re-imagining the Past: Antiquity and Modern Greek Culture</em></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Tomoo Uegaki:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-3-review-tu.pdf">Review – <em>ビザンツ　交流と共生の千年帝国</em></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Like Zhang:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-3-review-lz.pdf">Review – <em>普罗科比的世界 —— 六世纪的拜占庭帝国</em></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Üzeyir Serdar Serdaroğlu:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-3-supplementum-c3bcss.pdf">Supplementum – Middle East Studies Association of North America (MESA) Annual Meeting for Ottoman Studies</a></span><br /><span style="font-size: x-small;"></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><em>Diogenes&nbsp;</em>Issue 2 October 2014</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-complete.pdf">Issue 2 (Whole)</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Wei-sheng Lin:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-editorial.pdf">Editorial</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Murat Issi:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-article-mi.pdf">Οι σκέψεις των Νεο-Οθωμανών περί του Ισλάμ</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Styliani Lepida:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-article-sl.pdf">The poll tax (<em>cizye</em>) in Cyprus during the 17th century: A depiction for the administration of its revenue</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Dimos Ntentos:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-article-dn.pdf">Όψεις αυτοαναφορικότητας στην <em>Expeditio Persica</em> του Γεωργίου Πισίδη</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Gözde Önder:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-article-go.pdf">Ceramics and Carpets: Icons of Cultural Exchange between Venice and the Ottoman Empire in the 16th century</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Rebecca Darley:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-review-rd.pdf">Review – <em>Experiencing Byzantium: papers from the 44th Spring Symposium of Byzantine Studies, Newcastle and Durham, April 2011</em></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Jason Fossella:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-review-jf.pdf">Review – <em>The Byzantine Imperial Acts to Venice, Pisa and Genoa, 10th – 12th Centuries</em></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Qiang Li:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-review-ql.pdf">Review – <em>Οι Τούρκοι ανάμεσα στην Κίνα και το Βυζάντιο (552-659 μ.Χ.)</em></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Like Zhang:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-review-lz.pdf">Review – <em>拜占庭帝国通史</em></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Annika Asp-Talwar / Jeffrey Brubaker / Matthew Kinloch / Wei-sheng Lin:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-supplementum-aa-t-jb-mk-wsl.pdf">Supplementum – Byzantine Thirteenth Century Day Wrap-up, 13 May 2014</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Matthew Kinloch:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-supplementum-mk.pdf">Supplementum – South-Western Turkey in the 13th and 21st Centuries</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Gemma Masson:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-supplementum-gm.pdf">Supplementum – Outreach Workshops in Ottoman History</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Andrea Mattiello:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-2-supplementum-am.pdf">Supplementum – Cappadocia in Context 2014 – a report</a></span><br /><span style="font-size: x-small;"></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><em>Diogenes&nbsp;</em>Issue 1 January 2014</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-complete5.pdf">Issue 1 (Whole)</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Wei-sheng Lin:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-editorial-wsl.pdf">Editorial</a><a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-editorial-wei-sheng-lin1.pdf"><br /></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Zuzana Černáková:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-zc.pdf">Prejudices, Emotions and Power of Political Restraint: A Study in the Second Crusade</a><a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-zuzana-c48dernc3a1kovc3a1-prejudices-emotions-and-power-of-political-restraint1.pdf"><br /></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Elli Evangelidou:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-ee.pdf">The Representation of the Greek Civil War in <em>Eleni</em> and <em>The Heroic Age</em></a><a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-elli-evangelidou-the-representation-of-the-greek-civil-war-in-eleni-and-the-heroic-age.pdf" target="_blank"><br /></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Alexandros Siapkas:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-as.pdf">Different academic approaches towards the British intervention in Greece (1941-1944). A synopsis</a><a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-alexandros-siapkas-different-academic-approaches-towards-the-british-intervention-in-greece-1941-1944-a-synopsis.pdf" target="_blank"><br /></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Yannis Stamos:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-ys.pdf">Of pleasure and sorrow: Two modern Greek Epicurean poems</a><a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-yannis-stamos-of-pleasure-and-sorrow-two-modern-greek-epicurean-poems.pdf" target="_blank"><br /></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Niki Touriki:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-nt.pdf">Ekphrasis in the <em>Alexiad</em></a><a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-article-niki-touriki-ekphrasis-in-the-alexiad.pdf" target="_blank"><br /></a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Gemma Norman:&nbsp;<a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-review-gn.pdf">Review – Christine Woodhead (ed.), <em>The Ottoman World</em></a></span><a href="https://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-review-gemma-norman-christine-woodhead-ed-the-ottoman-world.pdf"><br /></a><br /><span style="font-size: x-small;"><a href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-review-gemma-norman-christine-woodhead-ed-the-ottoman-world.pdf"><br /></a></span></blockquote><div style="text-align: center;"><span style="font-size: small;"><span class="titol"><span class="text">&nbsp;</span></span></span><span class="Apple-style-span" style="color: #333333; font-family: &quot;times new roman&quot;; line-height: 25px;">See AWOL's list of&nbsp; <a href="http://ancientworldonline.blogspot.com/2013/09/list-of-student-journals.html">Open Access Student Journals</a>&nbsp;</span><br /><span class="Apple-style-span" style="color: #333333; font-family: &quot;times new roman&quot;; font-size: small; line-height: 25px;">&nbsp;</span><span style="font-size: small;"><span><span><span><span style="font-weight: normal;"><span><span><span><span><span><span><span><span><span>S<span>ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></div><a href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-review-gemma-norman-christine-woodhead-ed-the-ottoman-world.pdf"><br /></a><br /><div style="text-align: center;"><span style="font-size: small;"><a href="http://gembirminghamdotorg.files.wordpress.com/2014/01/diogenes-1-review-gemma-norman-christine-woodhead-ed-the-ottoman-world.pdf"><span class="titol"><span class="text"></span></span></a><br /></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7940679626229739001/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7940679626229739001/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/new-open-access-journal-diogenes.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7940679626229739001"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7940679626229739001"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/new-open-access-journal-diogenes.html"
-         title="New Open Access Journal: Diogenes "/>
-    <author>
+         title="Open Access Journal: Diogenes "/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

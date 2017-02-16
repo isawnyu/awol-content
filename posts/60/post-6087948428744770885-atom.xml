@@ -1,79 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6087948428744770885</id>
-    <published>2013-02-10T08:56:00.000-05:00</published>
-    <updated>2013-02-10T08:56:02.361-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6087948428744770885</id>
+   <published>2013-02-10T08:56:00.000-05:00</published>
+   <updated>2013-02-10T08:56:02.361-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Archaeology Egypt"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Visualization"/>
-    <title type="text">Digital Karnak</title>
-    <content type="html"><![CDATA[<a href="http://dlib.etc.ucla.edu/projects/Karnak/">Digital
-      Karnak</a><br /><blockquote class="tr_bq"><span style="font-size:
-      x-small;">The colossal site of Karnak is one of the largest temple complexes in the world,
-      with an incredibly rich architectural, ritual, religious, economic, social and political
-      history. The Amun-Ra precinct, which includes an astonishing number of individual temples,
-      shrines and processional ways, stands as a micro-cosmos of ancient Egypt.</span><br
-      /><br /><span style="font-size: x-small;">We invite you to experience Karnak –
-      to learn about an ancient site that still resonates today because of its monumental pylons,
-      towering columns, stunning reliefs and architectural marvels. Enter the temple precinct and
-      discover its rich religious, political and architectural history.</span><br
-      /><br /><span style="font-size: x-small;">The Digital Karnak Project was
-      designed and built at the University of California at Los Angeles (UCLA) under the direction of
-      Dr. Diane Favro (director of the <a href="http://www.etc.ucla.edu/">ETC</a>) and
-      Dr. Willeke Wendrich (editor-in-chief of the <a href="http://www.uee.ucla.edu/">UCLA
-      Encyclopedia of Egyptology</a>).</span><br /><br /> <span
-      style="font-size: x-small;">To start, choose one of the options above or go directly to the
-      <a class="lowercase"
-      href="http://dlib.etc.ucla.edu/projects/Karnak/feature/TempleComplexOverview">Temple complex
-      overview</a>. Click <a
-      href="http://dlib.etc.ucla.edu/projects/Karnak/about">here</a> to learn more about the
-      Digital Karnak project.</span></blockquote><blockquote class="tr_bq"><ul
-      id="topNav"><li class="tabOff"><span style="font-size: x-small;"><a
-      href="http://dlib.etc.ucla.edu/projects/Karnak/timemap">Timemap</a>
-      |</span></li><li class="tabOff"><span style="font-size: x-small;"><a
-      href="http://dlib.etc.ucla.edu/projects/Karnak/experience">Experience Karnak</a>
-      |</span></li><li class="tabOff"><span style="font-size: x-small;"><a
-      href="http://dlib.etc.ucla.edu/projects/Karnak/archive">Browse archive</a>
-      |</span></li><li class="tabOff"><span style="font-size: x-small;"><a
-      href="http://dlib.etc.ucla.edu/projects/Karnak/google_earth">Google Earth</a>
-      |</span></li><li class="tabOff"><span style="font-size: x-small;"><a
-      href="http://dlib.etc.ucla.edu/projects/Karnak/external_resources">External
-      Resources</a></span> </li></ul><ul class="small"
-      id="subNav"><li class="tabOff"><span style="font-size: x-small;"><a
-      href="http://dlib.etc.ucla.edu/projects/Karnak/about">About</a>
-      |</span></li><li class="tabOff"><span style="font-size: x-small;"><a
-      href="http://dlib.etc.ucla.edu/projects/Karnak/acknowledgements">Acknowledgements</a>
-      |</span></li><li class="tabOff"><span style="font-size: x-small;"><a
-      href="http://dlib.etc.ucla.edu/projects/Karnak/faq">FAQ</a></span>
-      </li></ul></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Visualization"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Archaeology Egypt"/>
+   <title type="text">Digital Karnak</title>
+   <content type="html"><![CDATA[<a href="http://dlib.etc.ucla.edu/projects/Karnak/">Digital Karnak</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">The colossal site of Karnak is one of the largest temple complexes in  the world, with an incredibly rich architectural, ritual, religious,  economic, social and political history.   The Amun-Ra precinct, which  includes an astonishing number of individual temples, shrines and  processional ways, stands as a micro-cosmos of ancient Egypt.</span><br /><br /><span style="font-size: x-small;">We  invite you to experience Karnak – to learn about an ancient site that  still resonates today because of its monumental pylons, towering  columns, stunning reliefs and architectural marvels.  Enter the temple  precinct and discover its rich religious, political and architectural  history.</span><br /><br /><span style="font-size: x-small;">The Digital Karnak Project was designed and built at the  University of California at Los Angeles (UCLA) under the direction of  Dr. Diane Favro (director of the <a href="http://www.etc.ucla.edu/">ETC</a>) and Dr. Willeke Wendrich (editor-in-chief of the <a href="http://www.uee.ucla.edu/">UCLA Encyclopedia of Egyptology</a>).</span><br /><br />  <span style="font-size: x-small;">To start, choose one of the options above or go directly to the <a class="lowercase" href="http://dlib.etc.ucla.edu/projects/Karnak/feature/TempleComplexOverview">Temple complex overview</a>. Click <a href="http://dlib.etc.ucla.edu/projects/Karnak/about">here</a> to learn more about the Digital Karnak project.</span></blockquote><blockquote class="tr_bq"><ul id="topNav"><li class="tabOff"><span style="font-size: x-small;"><a href="http://dlib.etc.ucla.edu/projects/Karnak/timemap">Timemap</a> |</span></li><li class="tabOff"><span style="font-size: x-small;"><a href="http://dlib.etc.ucla.edu/projects/Karnak/experience">Experience Karnak</a> |</span></li><li class="tabOff"><span style="font-size: x-small;"><a href="http://dlib.etc.ucla.edu/projects/Karnak/archive">Browse archive</a> |</span></li><li class="tabOff"><span style="font-size: x-small;"><a href="http://dlib.etc.ucla.edu/projects/Karnak/google_earth">Google Earth</a> |</span></li><li class="tabOff"><span style="font-size: x-small;"><a href="http://dlib.etc.ucla.edu/projects/Karnak/external_resources">External Resources</a></span> </li></ul><ul class="small" id="subNav"><li class="tabOff"><span style="font-size: x-small;"><a href="http://dlib.etc.ucla.edu/projects/Karnak/about">About</a> |</span></li><li class="tabOff"><span style="font-size: x-small;"><a href="http://dlib.etc.ucla.edu/projects/Karnak/acknowledgements">Acknowledgements</a> |</span></li><li class="tabOff"><span style="font-size: x-small;"><a href="http://dlib.etc.ucla.edu/projects/Karnak/faq">FAQ</a></span> </li></ul></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6087948428744770885/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6087948428744770885/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/02/digital-karnak.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6087948428744770885"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6087948428744770885"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/02/digital-karnak.html"
          title="Digital Karnak"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,298 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7332583614834553396</id>
-    <published>2015-01-01T15:52:00.002-05:00</published>
-    <updated>2015-01-01T15:52:38.687-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7332583614834553396</id>
+   <published>2015-01-01T15:52:00.002-05:00</published>
+   <updated>2015-01-01T15:52:38.687-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Coptic"/>
-    <title type="text">Alin Suciu's Coptic Resources</title>
-    <content type="html"><![CDATA[<div style="text-align: justify;"><a
-      href="http://alinsuciu.com/resources/">Coptic Resources</a></div><div
-      style="text-align: justify;"><span><a href="http://alinsuciu.com/" rel="home"
-      title="Alin Suciu">Alin Suciu</a></span><strong>
-      </strong></div><blockquote class="tr_bq"><div style="text-align:
-      justify;"><span style="font-size: x-small;"><strong>COLLECTIONS OF COPTIC
-      MANUSCRIPTS </strong></span></div><div style="text-align:
-      justify;"><br /></div><div style="text-align: justify;"><span
-      style="font-size:
-      x-small;">&nbsp;<strong>EGYPT</strong></span></div><div
-      style="text-align: justify;"><span style="font-size:
-      x-small;"><strong><em>Cairo (Coptic
-      Museum)</em></strong></span></div><ul><li><span
-      style="font-size: x-small;"><a
-      href="http://www.archive.org/details/copticmonuments00crum">Crum, W.E., <em>Coptic
-      Monuments</em> (Catalogue général des antiquités égyptiennes du Musée du Caire, 4; Cairo:
-      Imprimerie IFAO, 1902)</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://www.archive.org/details/manuscritscoptes00muni">Munier, H,
-      <em>Manuscrits coptes</em> (Catalogue général des antiquités égyptiennes du Musée
-      du Caire, 74; Cairo: Imprimerie IFAO, 1916)</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/evelyn-white-the-monasteries-of-the-wadi-natrun-new-coptic-texts.pdf">Evelyn
-      White, H.G., <em>The Monasteries of the Wadi ’N Natrun</em> 1: <em>New Coptic
-      Texts from the Monastery of Saint Macarius</em> (New York: The Metropolitan Museum of Art
-      Egyptian Expedition, 1926)</a></span></li></ul><div
-      style="text-align: justify;"><span style="font-size:
-      x-small;"><strong><em>Cairo (Institut français d’archéologie
-      orientale)</em></strong></span></div><ul><li><span
-      style="font-size: x-small;">Coquin, R.-G., “Le fonds copte de l’Institut français
-      d’archéologie orientale du Caire,” in <em>Écritures et traditions dans la literature
-      copte. Journée d’études coptes, Strasbourg 28 mai 1982 </em>(Cahiers de la bibliothèque
-      copte, 1; Louvain 1983) 9-18</span></li><li><span style="font-size:
-      x-small;">Louis, C., <em>Catalogue raisonné des manuscrits littéraires coptes
-      conserv<em>é</em>s à l’IFAO du Caire. Contribution à la reconstitution de la
-      bibliothèque du Monastère Blanc</em> (unpublished Ph.D. thesis, École Pratique des Hautes
-      Études, Section des Sciences Religieuses: Paris)</span></li></ul><div
-      style="text-align: justify;"><br /></div><div style="text-align:
-      justify;"><span style="font-size:
-      x-small;"><strong>FRANCE</strong></span></div><div
-      style="text-align: justify;"><span style="font-size:
-      x-small;"><strong><em>Paris (Bibliothèque
-      Nationale)</em></strong></span></div><ul><li><span
-      style="font-size: x-small;"><a
-      href="http://catholicapedia.net/pages_html/orient-chretien.html">Delaporte, L.J., “Catalogue
-      sommaire des manuscrits coptes de la Bibliothèque Nationale,”<br /><em>Revue
-      d’Orient Chrétien</em> 14 (1909) 417-423, 15 (1910) 85-96, 133-156, 392-397, 16 (1911)
-      85-99, 155-160, 239-248, 368-395, 17 (1912) 390-394, 18 (1913)
-      84-91</a></span></li><li><span style="font-size:
-      x-small;">Porcher, E., “Analyse des manuscrits coptes 131.1-8 de la Bibliothèque Nationale,”
-      <em>Revue d’Égyptologie </em><a
-      href="http://suciualin.files.wordpress.com/2011/06/porcher-analyse-des-manuscrits-coptes1.pdf">1
-      (1933) 105-160</a>, 231-278, <a
-      href="http://suciualin.files.wordpress.com/2011/06/porcher-analyse-des-manuscrits-coptes2.pdf">2
-      (1936) 65-123</a></span></li><li><span style="font-size:
-      x-small;">Lucchesi, E., <em>Répertoire des manuscrits coptes (sahidiques) publiés de
-      la Bibliothèque nationale de Paris </em>(Cahiers d’Orientalisme, 1; Geneva: Patrick
-      Cramer, 1981)</span></li><li><span style="font-size:
-      x-small;">Bouvarel-Boud’hors, A., <em>Catalogue des fragments coptes </em>vol.
-      1:<em> Fragments bibliques nouvellement identifi</em><em>és</em>
-      (Paris: Bibliothèque Nationale, 1987)</span></li></ul><div
-      style="text-align: justify;"><br /></div><div style="text-align:
-      justify;"><span style="font-size:
-      x-small;"><strong>GERMANY</strong></span></div><div
-      style="text-align: justify;"><span style="font-size:
-      x-small;"><strong><em>Berlin
-      (Papyrussammlung)</em></strong></span></div><ul><li><span
-      style="font-size: x-small;"><em></em><a
-      href="http://suciualin.files.wordpress.com/2011/09/beltz-katalog-der-koptischen-handschriften-der-papyrus-sammlung-der-staatlichen-museen-zu-berlin-1.pdf">Beltz,
-      W., “Katalog der koptischen Handschriften der Papyrus-Sammlung der Staatlichen Museen zu Berlin
-      (Teil 1),” <em>Archiv für Papyrusforschung</em> 26 (1978)
-      57-119</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/09/beltz-katalog-der-koptischen-handschriften-der-papyrus-sammlung-der-staatlichen-museen-zu-berlin-2.pdf">W.
-      Beltz, “Katalog der koptischen Handschriften der Papyrus-Sammlung der Staatlichen Museen zu
-      Berlin (Teil 2),” <em>Archiv für Papyrusforschung</em> 27 (1980)
-      121-222</a></span></li></ul><div style="text-align:
-      justify;"><br /></div><div style="text-align: justify;"><span
-      style="font-size: x-small;"><strong>GREAT
-      BRITAIN</strong></span></div><div style="text-align: justify;"><span
-      style="font-size: x-small;"><strong><em>London (British
-      Library)</em></strong></span></div><ul><li><span
-      style="font-size: x-small;"><a
-      href="http://www.archive.org/details/catalogueofcopti00brituoft">Crum, W.E.,
-      <em>Catalogue of the Coptic Manuscripts in the British Museum</em> (London: British
-      Museum, 1905)</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://rmcisadu.let.uniroma1.it/%7Eorlandi/pubbli/pubbli20.pdf">Orlandi, T., “Les
-      manuscrits coptes de Dublin, du British Museum et de Vienne,” <em>Le Muséon </em>89
-      (1976) 323-338, at 327-333</a></span></li><li><span
-      style="font-size: x-small;">Layton, B., <em>Catalogue of Coptic Literary Manuscripts
-      in the British Library Acquired Since the Year 1906</em> (London: British Museum,
-      1987)</span></li><li><span style="font-size: x-small;">Zanetti, U., “Un
-      catalogue des additions coptes des Londres,” <em>Analecta Bollandiana</em> 106
-      (1988) 171-181</span></li></ul><div style="text-align:
-      justify;"><span style="font-size: x-small;"><strong><em>Manchester (John
-      Rylands Library)</em></strong></span></div><ul><li><span
-      style="font-size: x-small;"><a
-      href="http://www.archive.org/details/cu31924099175329">Crum, W.E., <em>Catalogue of
-      Coptic Manuscripts in the Collection of the John Rylands Library Manchester
-      </em>(Manchester: Manchester University Press,
-      1909)</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/crum-new-coptic-mss-in-the-john-rylands-library.pdf">Crum,
-      W.E., “New Coptic Manuscripts in the John Rylands Library,” <em>Bulletin of the John
-      Rylands Library</em> 5 (1918-20)
-      497-503</a></span></li></ul><div style="text-align:
-      justify;"><span style="font-size:
-      x-small;"><strong>ITALY</strong></span></div><div
-      style="text-align: justify;"><span style="font-size:
-      x-small;"><strong><em>Naples</em></strong></span></div><ul><li><span
-      style="font-size: x-small;"><a
-      href="http://s2w.hbz-nrw.de/ulbbn/content/titleinfo/15199">Zoega, G., <em>Catalogus
-      codicum Copticorum manu scriptorum</em> (Rome:
-      1810)</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/lantschoot-cotation-du-fonds-copte-de-naples-texts-palimpsestes-du-8802.pdf">van
-      Lantschoot, A., “Cotation du fonds de Naples,” <em>Le
-      Mus</em><em>éon</em> 41 (1928)
-      217-224</a></span></li><li><span style="font-size:
-      x-small;">Buzi, P., <em>Catalogo dei manoscritti copti borgiani conservati presso la
-      Biblioteca Nazionale “Vittorio Emanuele III” di Napoli </em>(Accademia dei Lincei –
-      Memorie, Ser. IX, 25/1; Rome: Scienze e lettere,
-      2009)</span></li><li><span style="font-size: x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/suciu-the-borgian-coptic-manuscripts-in-naples-supplementary-identifications-and-notes-to-a-recently-published-catalogue1.pdf">Suciu,
-      A., “The Borgian Coptic Manuscripts in Naples: Supplementary Identifications and Notes to a
-      Recently Published Catalogue,” forthcoming in </a><a
-      href="http://www.orientaliachristiana.it/orientalia-christiana-periodica.htm"
-      target="_blank"><em>Orientalia Christiana Periodica</em></a><a
-      href="http://suciualin.files.wordpress.com/2011/06/suciu-the-borgian-coptic-manuscripts-in-naples-supplementary-identifications-and-notes-to-a-recently-published-catalogue1.pdf">
-      77 (2011)</a></span></li></ul><div style="text-align:
-      justify;"><span style="font-size:
-      x-small;"><em><strong>Rome</strong></em></span></div><ul><li><span
-      style="font-size: x-small;"><em><strong></strong></em><a
-      href="http://s2w.hbz-nrw.de/ulbbn/content/titleinfo/15199">Zoega, G., <em>Catalogus
-      codicum Copticorum manu scriptorum</em> (Rome:
-      1810)</a></span></li></ul><div style="text-align:
-      justify;"><br /></div><div style="text-align: justify;"><span
-      style="font-size:
-      x-small;"><strong>NETHERLANDS</strong></span></div><div
-      style="text-align: justify;"><span style="font-size:
-      x-small;"><em><strong>Leiden (Rijksmuseum van
-      Oudheden)</strong></em></span></div><ul><li><span
-      style="font-size: x-small;">Pleyte, W. &amp; Boeser, P.A.A., <em>Manuscrits coptes
-      du Musée des Pays-Bas à Leide </em>(Leiden: E.J. Brill,
-      1897)</span></li></ul><div style="text-align: justify;"><br
-      /></div><div style="text-align: justify;"><span style="font-size:
-      x-small;"><strong>RUSSIA</strong></span></div><div
-      style="text-align: justify;"><span style="font-size:
-      x-small;"><em><strong>Moscow</strong></em></span></div><ul><li><span
-      style="font-size: x-small;">Elanskaya, A.I., <em>The Literary Coptic Manuscripts in
-      the A.S. Pushkin State Fine Arts Museum in Moscow </em>(Supplements to <em>Vigiliae
-      Christianae</em>,<em> </em>18; Leiden: E.J. Brill,
-      1994)</span></li></ul><div style="text-align: justify;"><br
-      /></div><div style="text-align: justify;"><span style="font-size:
-      x-small;"><em></em></span></div><div style="text-align:
-      justify;"><span style="font-size:
-      x-small;"><em></em></span></div><div style="text-align:
-      justify;"><span style="font-size:
-      x-small;"><em><strong></strong></em></span></div><div
-      style="text-align: justify;"><span style="font-size:
-      x-small;"><strong>GRAMMAR:</strong></span></div><ul><li><span
-      style="font-size: x-small;">Lambdin, T.O, <em></em><a
-      href="http://suciualin.files.wordpress.com/2011/06/lambdin-introduction-to-sahidic-coptic.pdf"><em>Introduction
-      to Sahidic Coptic</em></a> (Macon GA: Mercer University Press,
-      1983)</span></li></ul><div style="text-align: justify;"><br
-      /></div><div style="text-align: justify;"><span style="font-size:
-      x-small;"><strong>LITERATURE</strong></span></div><div
-      style="text-align: justify;"><span style="font-size:
-      x-small;"><strong><em>Pachomius</em></strong></span></div><ul><li><span
-      style="font-size: x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/dulaurier-fragment-des-revelations-apocryphes-de-saint-barthelemy.pdf">Dulaurier,
-      E., <em>Fragment des révélations apocryphes de saint Barthélemy, et de l’histoire des
-      commumautés religieuses fondées par Saint Pakhome</em> (Paris: Imprimerie royale,
-      1835)</a></span></li><li><span style="font-size:
-      x-small;"><em></em><a
-      href="http://suciualin.files.wordpress.com/2011/06/amc3a9lineau-histoire-de-saint-pakhc3b4me-et-de-ses-communautc3a9s.pdf">Amélineau,
-      E., <em>Monuments pour pour servir à l’histoire de l’Egypte chrétienne au
-      IV<sup>e</sup> siècle. Histoire de Saint Pakhôme et de ses communautés</em>
-      (Annales du Musée Guimet, 17; Paris: Ernest Leroux,
-      1889)</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.archive.org/details/cu31924029634262">Crum, W.E., <em>Theological
-      Texts from Coptic Papyri Edited with an Appendix upon the Arabic and Coptic Versions of the
-      Life of Pachomius</em> (Anecdota Oxoniensia, Semitic Series, 12; Oxford: Clarendon Press,
-      1913)</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/quecke-die-briefe-pachoms.pdf">Quecke,
-      H., <em>Die Briefe Pachoms: Griechischer Text der Handschrift W.145 der Chester Beatty
-      Library: Anhang, Die koptischen Fragmente und Zitate der Pachombriefe</em> (Textus
-      patristici et liturgici, 11; Regensburg: Friedrich Pustet,
-      1975)</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.ifao.egnet.net/bifao/79/">Coquin, R.-G., “Un complément aux Vies sahidiques
-      de Pachôme: le Manuscrit Ifao, Copte3,” <em>BIFAO</em> 79 (1979)
-      209-247</a></span></li></ul><div style="text-align:
-      justify;"><span style="font-size: x-small;"><strong><em>Isaiah of
-      Scetis</em></strong></span></div><ul><li><span
-      style="font-size: x-small;"><em></em><a
-      href="http://suciualin.files.wordpress.com/2011/06/vailhc3a9-un-mystique-monophysite-le-moine-isac3afe.pdf">Vailhé,
-      H., “Un mystique monophysite: le moine Isaïe,” <em>Échos d’Orient </em>9 (1906)
-      81-91</a></span></li><li><span style="font-size: x-small;">The
-      monk Augustinos, <em>Tou hosiou patros hemon abba Esaiaou logoi 29</em> (Jerusalem,
-      1911; 2<sup>nd</sup> ed. S. Schoinas, Volos,
-      1962)</span></li><li><span style="font-size: x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/keller-labbe-isaie-le-jeune.pdf">Keller,
-      H.D., “L’abbé Isaie-le-jeune,” <em>Irénikon</em> 16 (1939)
-      113-126</a></span></li><li><span style="font-size:
-      x-small;">Hardy, E. R., “A Fragment of the Works of the Abbott Isaias,” <em>Annuaire
-      de l’Institut de Philologie et d’Histoire Orientales et Slaves </em>7 (1944)
-      127-140</span></li><li><span style="font-size: x-small;">Mercati, G.,
-      <a
-      href="http://suciualin.files.wordpress.com/2011/04/mercati-sul-papiro-greco-di-firenze.pdf">“Sul
-      papiro greco dell’Archivio di Stato di Firenze,”</a> <em>Aegyptus</em> 32
-      (1952) 464-473</span></li><li><span style="font-size: x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/guillaumont-la-recension-copte-de-l_ascc3a9ticon-de-l_abbc3a9-isac3afe.pdf">Guillaumont,
-      A., “La recension copte de l’<em>Ascéticon</em> de l’Abbé Isaïe,” in
-      <em>Coptic Studies in Honor of Walter Ewing Crum</em> (Boston: Byzantine Institute,
-      1950) 49-60</a></span></li><li><span style="font-size:
-      x-small;">Guillaumont, A., <em>L’Asceticon copte de l’abbé Isaïe. Fragments sahidiques
-      édités et traduits </em>(Bibliothèque d’études coptes, 5; Cairo 1956) <a
-      href="http://suciualin.files.wordpress.com/2011/06/guillaumont_isaie1.pdf">part 1</a>;
-      <a href="http://suciualin.files.wordpress.com/2011/06/guillaumont_isaie2.pdf">part
-      2</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/graffin-un-inedit-de-labee-isaie.pdf">Graffin,
-      F., “Un inédit de l’abbé Isaïe sur les Étapes de la Vie Monastique,” <em>Orientalia
-      Christiana Periodica</em> 29 (1963)
-      449-454</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/sauget-la-double-recension-arabe-des-preceptes-aux-novices-de-labbe-isaie-de-scete.pdf">Sauget,
-      J.-M., “La double recension arabe des ‘Préceptes aux novices’ de l’Abbé Isaïe de Scété,” in
-      <em>Mélanges Eugène Tisserant </em>vol. 3/2 (Studi e testi, 233; Città dell
-      Vaticano: Biblioteca Apostolica Vaticana, 1964)
-      299-356</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/sauget-les-fragments-de-lasceticon-du-vatican-arabe-71.pdf">Sauget,
-      J.-M., “Les fragments de l’Asceticon de l’Abbé Isaïe de Scété du Vatican arabe
-      71,” <em>Oriens Christianus </em>48 (1964)
-      235-259</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/kirchmeyer-a-propos-dun-texte-du-pseudo-athanase.pdf">Kirchmeyer,
-      J., “À propos d’un texte du Pseudo-Athanase,” <em>Revue d’ascétique et de
-      mystique</em> 40 (1964) 311-313</a></span></li><li><span
-      style="font-size: x-small;">Draguet, R., <em>Les cinq recensions de l’Ascéticon
-      syriaque d’abba Isaïe</em> 4 vols. (CSCO, 289-290, 293-294. Scriptores Syri, 120-123;
-      Louvain: Secrétariat du CorpusSCO, 1968)</span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/regnault-isaie-de-scete-ou-de-gaza.pdf">Regnault,
-      L., “Isaïe de Scété ou de Gaza? Notes critiques en marge d’une Introduction au problème
-      isaïen,” <em>Revue d’ascétique et de mystique</em> 46 (1970)
-      33-44</a></span></li><li><span style="font-size:
-      x-small;">Chitty, D.J., <a
-      href="http://suciualin.files.wordpress.com/2011/04/derwas-chitty-abba-isaiah.pdf">“Abba
-      Isaiah,”</a> <em>Journal of Theological Studies</em> n.s., 22 (1971)
-      47-72</span></li><li><span style="font-size: x-small;"><a
-      href="http://suciualin.files.wordpress.com/2011/06/columbia-papyri-viii.pdf">Bagnall, R. S.,
-      Renner, T. T., &amp; Worp, K. A., <em>Columbia Papyri VIII</em> (American
-      Studies in Papyrology, 28; Atlanta, Georgia: Scholars Press, 1990) 17-28 (= no.
-      192)</a></span></li><li><span style="font-size:
-      x-small;">Lucchesi, E., “Le dossier d’Apa Zénobe. Addenda et corrigenda. Appendice II: Un
-      <em>Logos </em>inconnu d’Isaïe de Scété. Chenouté, Isaïe et Moïse,”
-      <em>Analecta Bollandiana </em>117 (1999)
-      67-80</span></li><li><span style="font-size: x-small;">Nessim Youssef,
-      Y., “Un complément de l’Asceticon copte de l’Abbé Isaïe,” <em>Vigiliae
-      Christianae</em> 55 (2001)
-      187-190</span></li></ul></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Coptic"/>
+   <title type="text">Alin Suciu's Coptic Resources</title>
+   <content type="html"><![CDATA[<div style="text-align: justify;"><a href="http://alinsuciu.com/resources/">Coptic Resources</a></div><div style="text-align: justify;"><span><a href="http://alinsuciu.com/" rel="home" title="Alin Suciu">Alin Suciu</a></span><strong> </strong></div><blockquote class="tr_bq"><div style="text-align: justify;"><span style="font-size: x-small;"><strong>COLLECTIONS OF COPTIC MANUSCRIPTS </strong></span></div><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;">&nbsp;<strong>EGYPT</strong></span></div><div style="text-align: justify;"><span style="font-size: x-small;"><strong><em>Cairo (Coptic Museum)</em></strong></span></div><ul><li><span style="font-size: x-small;"><a href="http://www.archive.org/details/copticmonuments00crum">Crum, W.E., <em>Coptic Monuments</em> (Catalogue général des antiquités égyptiennes du Musée du Caire, 4; Cairo: Imprimerie IFAO, 1902)</a></span></li><li><span style="font-size: x-small;"><a href="http://www.archive.org/details/manuscritscoptes00muni">Munier, H, <em>Manuscrits coptes</em> (Catalogue général des antiquités égyptiennes du Musée du Caire, 74; Cairo: Imprimerie IFAO, 1916)</a></span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/evelyn-white-the-monasteries-of-the-wadi-natrun-new-coptic-texts.pdf">Evelyn White, H.G., <em>The Monasteries of the Wadi ’N Natrun</em> 1: <em>New Coptic Texts from the Monastery of Saint Macarius</em> (New York: The Metropolitan Museum of Art Egyptian Expedition, 1926)</a></span></li></ul><div style="text-align: justify;"><span style="font-size: x-small;"><strong><em>Cairo (Institut français d’archéologie orientale)</em></strong></span></div><ul><li><span style="font-size: x-small;">Coquin, R.-G., “Le fonds copte de l’Institut français d’archéologie orientale du Caire,” in <em>Écritures et traditions dans la literature copte. Journée d’études coptes, Strasbourg 28 mai 1982 </em>(Cahiers de la bibliothèque copte, 1; Louvain 1983) 9-18</span></li><li><span style="font-size: x-small;">Louis, C., <em>Catalogue raisonné des manuscrits littéraires coptes conserv<em>é</em>s à l’IFAO du Caire. Contribution à la reconstitution de la bibliothèque du Monastère Blanc</em> (unpublished Ph.D. thesis, École Pratique des Hautes Études, Section des Sciences Religieuses: Paris)</span></li></ul><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;"><strong>FRANCE</strong></span></div><div style="text-align: justify;"><span style="font-size: x-small;"><strong><em>Paris (Bibliothèque Nationale)</em></strong></span></div><ul><li><span style="font-size: x-small;"><a href="http://catholicapedia.net/pages_html/orient-chretien.html">Delaporte, L.J., “Catalogue sommaire des manuscrits coptes de la Bibliothèque Nationale,”<br /><em>Revue d’Orient Chrétien</em> 14 (1909) 417-423, 15 (1910) 85-96,  133-156, 392-397, 16 (1911) 85-99, 155-160, 239-248, 368-395, 17 (1912)  390-394, 18 (1913) 84-91</a></span></li><li><span style="font-size: x-small;">Porcher, E., “Analyse des manuscrits coptes 131.1-8 de la Bibliothèque Nationale,” <em>Revue d’Égyptologie </em><a href="http://suciualin.files.wordpress.com/2011/06/porcher-analyse-des-manuscrits-coptes1.pdf">1 (1933) 105-160</a>, 231-278, <a href="http://suciualin.files.wordpress.com/2011/06/porcher-analyse-des-manuscrits-coptes2.pdf">2 (1936) 65-123</a></span></li><li><span style="font-size: x-small;">Lucchesi, E., <em>Répertoire des manuscrits coptes (sahidiques) publiés de la Bibliothèque nationale de Paris </em>(Cahiers d’Orientalisme, 1; Geneva: Patrick Cramer, 1981)</span></li><li><span style="font-size: x-small;">Bouvarel-Boud’hors, A., <em>Catalogue des fragments coptes </em>vol. 1:<em> Fragments bibliques nouvellement identifi</em><em>és</em> (Paris: Bibliothèque Nationale, 1987)</span></li></ul><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;"><strong>GERMANY</strong></span></div><div style="text-align: justify;"><span style="font-size: x-small;"><strong><em>Berlin (Papyrussammlung)</em></strong></span></div><ul><li><span style="font-size: x-small;"><em></em><a href="http://suciualin.files.wordpress.com/2011/09/beltz-katalog-der-koptischen-handschriften-der-papyrus-sammlung-der-staatlichen-museen-zu-berlin-1.pdf">Beltz, W., “Katalog der koptischen Handschriften der Papyrus-Sammlung der Staatlichen Museen zu Berlin (Teil 1),” <em>Archiv für Papyrusforschung</em> 26 (1978) 57-119</a></span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/09/beltz-katalog-der-koptischen-handschriften-der-papyrus-sammlung-der-staatlichen-museen-zu-berlin-2.pdf">W. Beltz, “Katalog der koptischen Handschriften der Papyrus-Sammlung der Staatlichen Museen zu Berlin (Teil 2),” <em>Archiv für Papyrusforschung</em> 27 (1980) 121-222</a></span></li></ul><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;"><strong>GREAT BRITAIN</strong></span></div><div style="text-align: justify;"><span style="font-size: x-small;"><strong><em>London (British Library)</em></strong></span></div><ul><li><span style="font-size: x-small;"><a href="http://www.archive.org/details/catalogueofcopti00brituoft">Crum, W.E., <em>Catalogue of the Coptic Manuscripts in the British Museum</em> (London: British Museum, 1905)</a></span></li><li><span style="font-size: x-small;"><a href="http://rmcisadu.let.uniroma1.it/%7Eorlandi/pubbli/pubbli20.pdf">Orlandi, T., “Les manuscrits coptes de Dublin, du British Museum et de Vienne,” <em>Le Muséon </em>89 (1976) 323-338, at 327-333</a></span></li><li><span style="font-size: x-small;">Layton, B., <em>Catalogue of Coptic Literary Manuscripts in the British Library Acquired Since the Year 1906</em> (London: British Museum, 1987)</span></li><li><span style="font-size: x-small;">Zanetti, U., “Un catalogue des additions coptes des Londres,” <em>Analecta Bollandiana</em> 106 (1988) 171-181</span></li></ul><div style="text-align: justify;"><span style="font-size: x-small;"><strong><em>Manchester (John Rylands Library)</em></strong></span></div><ul><li><span style="font-size: x-small;"><a href="http://www.archive.org/details/cu31924099175329">Crum, W.E., <em>Catalogue of Coptic Manuscripts in the Collection of the John Rylands Library Manchester </em>(Manchester: Manchester University Press, 1909)</a></span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/crum-new-coptic-mss-in-the-john-rylands-library.pdf">Crum, W.E., “New Coptic Manuscripts in the John Rylands Library,” <em>Bulletin of the John Rylands Library</em> 5 (1918-20) 497-503</a></span></li></ul><div style="text-align: justify;"><span style="font-size: x-small;"><strong>ITALY</strong></span></div><div style="text-align: justify;"><span style="font-size: x-small;"><strong><em>Naples</em></strong></span></div><ul><li><span style="font-size: x-small;"><a href="http://s2w.hbz-nrw.de/ulbbn/content/titleinfo/15199">Zoega, G., <em>Catalogus codicum Copticorum manu scriptorum</em> (Rome: 1810)</a></span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/lantschoot-cotation-du-fonds-copte-de-naples-texts-palimpsestes-du-8802.pdf">van Lantschoot, A., “Cotation du fonds de Naples,” <em>Le Mus</em><em>éon</em> 41 (1928) 217-224</a></span></li><li><span style="font-size: x-small;">Buzi, P., <em>Catalogo dei manoscritti copti borgiani conservati presso la Biblioteca Nazionale “Vittorio Emanuele III” di Napoli </em>(Accademia dei Lincei – Memorie, Ser. IX, 25/1; Rome: Scienze e lettere, 2009)</span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/suciu-the-borgian-coptic-manuscripts-in-naples-supplementary-identifications-and-notes-to-a-recently-published-catalogue1.pdf">Suciu,  A., “The Borgian Coptic Manuscripts in Naples: Supplementary  Identifications and Notes to a Recently Published Catalogue,”  forthcoming in </a><a href="http://www.orientaliachristiana.it/orientalia-christiana-periodica.htm" target="_blank"><em>Orientalia Christiana Periodica</em></a><a href="http://suciualin.files.wordpress.com/2011/06/suciu-the-borgian-coptic-manuscripts-in-naples-supplementary-identifications-and-notes-to-a-recently-published-catalogue1.pdf"> 77 (2011)</a></span></li></ul><div style="text-align: justify;"><span style="font-size: x-small;"><em><strong>Rome</strong></em></span></div><ul><li><span style="font-size: x-small;"><em><strong></strong></em><a href="http://s2w.hbz-nrw.de/ulbbn/content/titleinfo/15199">Zoega, G., <em>Catalogus codicum Copticorum manu scriptorum</em> (Rome: 1810)</a></span></li></ul><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;"><strong>NETHERLANDS</strong></span></div><div style="text-align: justify;"><span style="font-size: x-small;"><em><strong>Leiden (Rijksmuseum van Oudheden)</strong></em></span></div><ul><li><span style="font-size: x-small;">Pleyte, W. &amp; Boeser, P.A.A., <em>Manuscrits coptes du Musée des Pays-Bas à Leide </em>(Leiden: E.J. Brill, 1897)</span></li></ul><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;"><strong>RUSSIA</strong></span></div><div style="text-align: justify;"><span style="font-size: x-small;"><em><strong>Moscow</strong></em></span></div><ul><li><span style="font-size: x-small;">Elanskaya, A.I., <em>The Literary Coptic Manuscripts in the A.S. Pushkin State Fine Arts Museum in Moscow </em>(Supplements to <em>Vigiliae Christianae</em>,<em> </em>18; Leiden: E.J. Brill, 1994)</span></li></ul><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;"><em></em></span></div><div style="text-align: justify;"><span style="font-size: x-small;"><em></em></span></div><div style="text-align: justify;"><span style="font-size: x-small;"><em><strong></strong></em></span></div><div style="text-align: justify;"><span style="font-size: x-small;"><strong>GRAMMAR:</strong></span></div><ul><li><span style="font-size: x-small;">Lambdin, T.O, <em></em><a href="http://suciualin.files.wordpress.com/2011/06/lambdin-introduction-to-sahidic-coptic.pdf"><em>Introduction to Sahidic Coptic</em></a> (Macon GA: Mercer University Press, 1983)</span></li></ul><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;"><strong>LITERATURE</strong></span></div><div style="text-align: justify;"><span style="font-size: x-small;"><strong><em>Pachomius</em></strong></span></div><ul><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/dulaurier-fragment-des-revelations-apocryphes-de-saint-barthelemy.pdf">Dulaurier, E., <em>Fragment des révélations apocryphes de saint Barthélemy, et de l’histoire des commumautés religieuses fondées par Saint Pakhome</em> (Paris: Imprimerie royale, 1835)</a></span></li><li><span style="font-size: x-small;"><em></em><a href="http://suciualin.files.wordpress.com/2011/06/amc3a9lineau-histoire-de-saint-pakhc3b4me-et-de-ses-communautc3a9s.pdf">Amélineau, E., <em>Monuments pour pour servir à l’histoire de l’Egypte chrétienne au IV<sup>e</sup> siècle. Histoire de Saint Pakhôme et de ses communautés</em> (Annales du Musée Guimet, 17; Paris: Ernest Leroux, 1889)</a></span></li><li><span style="font-size: x-small;"><a href="http://www.archive.org/details/cu31924029634262">Crum, W.E., <em>Theological Texts from Coptic Papyri Edited with an Appendix upon the Arabic and Coptic Versions of the Life of Pachomius</em> (Anecdota Oxoniensia, Semitic Series, 12; Oxford: Clarendon Press, 1913)</a></span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/quecke-die-briefe-pachoms.pdf">Quecke, H., <em>Die  Briefe Pachoms: Griechischer Text der Handschrift W.145 der Chester  Beatty Library: Anhang, Die koptischen Fragmente und Zitate der  Pachombriefe</em> (Textus patristici et liturgici, 11; Regensburg: Friedrich Pustet, 1975)</a></span></li><li><span style="font-size: x-small;"><a href="http://www.ifao.egnet.net/bifao/79/">Coquin, R.-G., “Un complément aux Vies sahidiques de Pachôme: le Manuscrit Ifao, Copte3,” <em>BIFAO</em> 79 (1979) 209-247</a></span></li></ul><div style="text-align: justify;"><span style="font-size: x-small;"><strong><em>Isaiah of Scetis</em></strong></span></div><ul><li><span style="font-size: x-small;"><em></em><a href="http://suciualin.files.wordpress.com/2011/06/vailhc3a9-un-mystique-monophysite-le-moine-isac3afe.pdf">Vailhé, H., “Un mystique monophysite: le moine Isaïe,” <em>Échos d’Orient </em>9 (1906) 81-91</a></span></li><li><span style="font-size: x-small;">The monk Augustinos, <em>Tou hosiou patros hemon abba Esaiaou logoi 29</em> (Jerusalem, 1911; 2<sup>nd</sup> ed. S. Schoinas, Volos, 1962)</span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/keller-labbe-isaie-le-jeune.pdf">Keller, H.D., “L’abbé Isaie-le-jeune,” <em>Irénikon</em> 16 (1939) 113-126</a></span></li><li><span style="font-size: x-small;">Hardy, E. R., “A Fragment of the Works of the Abbott Isaias,” <em>Annuaire de l’Institut de Philologie et d’Histoire Orientales et Slaves </em>7 (1944) 127-140</span></li><li><span style="font-size: x-small;">Mercati, G., <a href="http://suciualin.files.wordpress.com/2011/04/mercati-sul-papiro-greco-di-firenze.pdf">“Sul papiro greco dell’Archivio di Stato di Firenze,”</a> <em>Aegyptus</em> 32 (1952) 464-473</span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/guillaumont-la-recension-copte-de-l_ascc3a9ticon-de-l_abbc3a9-isac3afe.pdf">Guillaumont, A., “La recension copte de l’<em>Ascéticon</em> de l’Abbé Isaïe,” in <em>Coptic Studies in Honor of Walter Ewing Crum</em> (Boston: Byzantine Institute, 1950) 49-60</a></span></li><li><span style="font-size: x-small;">Guillaumont, A., <em>L’Asceticon copte de l’abbé Isaïe. Fragments sahidiques édités et traduits </em>(Bibliothèque d’études coptes, 5; Cairo 1956) <a href="http://suciualin.files.wordpress.com/2011/06/guillaumont_isaie1.pdf">part 1</a>; <a href="http://suciualin.files.wordpress.com/2011/06/guillaumont_isaie2.pdf">part 2</a></span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/graffin-un-inedit-de-labee-isaie.pdf">Graffin, F., “Un inédit de l’abbé Isaïe sur les Étapes de la Vie Monastique,” <em>Orientalia Christiana Periodica</em> 29 (1963) 449-454</a></span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/sauget-la-double-recension-arabe-des-preceptes-aux-novices-de-labbe-isaie-de-scete.pdf">Sauget, J.-M., “La double recension arabe des ‘Préceptes aux novices’ de l’Abbé Isaïe de Scété,” in <em>Mélanges Eugène Tisserant </em>vol. 3/2 (Studi e testi, 233; Città dell Vaticano: Biblioteca Apostolica Vaticana, 1964) 299-356</a></span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/sauget-les-fragments-de-lasceticon-du-vatican-arabe-71.pdf">Sauget, J.-M., “Les fragments de l’Asceticon de l’Abbé Isaïe de Scété du Vatican arabe 71,” <em>Oriens Christianus </em>48 (1964) 235-259</a></span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/kirchmeyer-a-propos-dun-texte-du-pseudo-athanase.pdf">Kirchmeyer, J., “À propos d’un texte du Pseudo-Athanase,” <em>Revue d’ascétique et de mystique</em> 40 (1964) 311-313</a></span></li><li><span style="font-size: x-small;">Draguet, R., <em>Les cinq recensions de l’Ascéticon syriaque d’abba Isaïe</em> 4 vols. (CSCO, 289-290, 293-294. Scriptores Syri, 120-123; Louvain: Secrétariat du CorpusSCO, 1968)</span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/regnault-isaie-de-scete-ou-de-gaza.pdf">Regnault, L., “Isaïe de Scété ou de Gaza? Notes critiques en marge d’une Introduction au problème isaïen,” <em>Revue d’ascétique et de mystique</em> 46 (1970) 33-44</a></span></li><li><span style="font-size: x-small;">Chitty, D.J., <a href="http://suciualin.files.wordpress.com/2011/04/derwas-chitty-abba-isaiah.pdf">“Abba Isaiah,”</a> <em>Journal of Theological Studies</em> n.s., 22 (1971) 47-72</span></li><li><span style="font-size: x-small;"><a href="http://suciualin.files.wordpress.com/2011/06/columbia-papyri-viii.pdf">Bagnall, R. S., Renner, T. T., &amp; Worp, K. A., <em>Columbia Papyri VIII</em> (American Studies in Papyrology, 28; Atlanta, Georgia: Scholars Press, 1990) 17-28 (= no. 192)</a></span></li><li><span style="font-size: x-small;">Lucchesi, E., “Le dossier d’Apa Zénobe. Addenda et corrigenda. Appendice II: Un <em>Logos </em>inconnu d’Isaïe de Scété. Chenouté, Isaïe et Moïse,” <em>Analecta Bollandiana </em>117 (1999) 67-80</span></li><li><span style="font-size: x-small;">Nessim Youssef, Y., “Un complément de l’Asceticon copte de l’Abbé Isaïe,” <em>Vigiliae Christianae</em> 55 (2001) 187-190</span></li></ul></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7332583614834553396/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7332583614834553396/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/01/alin-sucius-coptic-resources.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7332583614834553396"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7332583614834553396"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/01/alin-sucius-coptic-resources.html"
          title="Alin Suciu's Coptic Resources"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

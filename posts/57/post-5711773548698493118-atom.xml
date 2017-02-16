@@ -1,146 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5711773548698493118</id>
-    <published>2010-05-27T09:30:00.000-04:00</published>
-    <updated>2010-05-27T09:33:35.559-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5711773548698493118</id>
+   <published>2016-03-13T21:25:00.000-04:00</published>
+   <updated>2016-03-13T21:45:29.174-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">New Portable Antiquities Scheme Website</title>
-    <content type="html"><![CDATA[<a href="http://www.finds.org.uk/">The Portable Antiquities
-      Scheme</a><br /><blockquote><span style="font-size:85%;">The Portable
-      Antiquities Scheme is a voluntary scheme to record archaeological objects found by members of
-      the public in England and Wales. Every year many thousands of objects are discovered, many of
-      these by metal-detector users, but also by people whilst out walking, gardening or going about
-      their daily work. Such discoveries offer an important source for understanding our past.<br
-      /><br />This website provides background information on the Portable Antiquities
-      Scheme, news articles, events listings and access to our database of objects and images.<br
-      />The Treasure Act<br /><br />All finders of gold and silver objects, and groups
-      of coins from the same findspot, which are over 300 years old, have a legal obligation to
-      report such items under the Treasure Act 1996. Now prehistoric base-metal assemblages found
-      after 1st January 2003 also qualify as Treasure. This website provides further information for
-      finders of potential
-      Treasure.</span></blockquote><blockquote><ul><li><span
-      style="font-size:78%;"><a href="http://www.finds.org.uk/database/images">All
-      images</a></span></li><li><span style="font-size:78%;"><a
-      href="http://www.finds.org.uk/database/artefacts" title="All finds recorded on the
-      database">All artefacts &amp; coins</a></span></li><li><span
-      style="font-size:78%;"><a href="http://www.finds.org.uk/database#">Search
-      database</a></span> <ul style="display: none;"><li><a
-      href="http://www.finds.org.uk/database/search/advanced" title="Advanced search our
-      database">Advanced search</a></li><li><a
-      href="http://www.finds.org.uk/database/search/ironagenumismatics" title="Numismatic search our
-      database">Iron Age numismatic search</a></li><li><a
-      href="http://www.finds.org.uk/database/search/romannumismatics" title="Numismatic search our
-      database">Roman numismatic search</a></li><li><a
-      href="http://www.finds.org.uk/database/search/earlymednumismatics" title="Early Medieval
-      Numismatic search our database">Early medieval numismatic
-      search</a></li><li><a
-      href="http://www.finds.org.uk/database/search/byzantinenumismatics" title="Numismatic search
-      our database">Byzantine numismatic search</a></li><li><a
-      href="http://www.finds.org.uk/database/search/mednumismatics" title="Numismatic search our
-      database">Medieval numismatic search</a></li><li><a
-      href="http://www.finds.org.uk/database/search/postmednumismatics" title="Numismatic search our
-      database">Post medieval numismatic search</a></li><li><a
-      href="http://www.finds.org.uk/database/search/savedsearches" title="All public saved searches
-      on our database">Public saved searches</a></li></ul>
-      </li><li><span style="font-size:78%;"><a
-      href="http://www.finds.org.uk/database/publications" title="Reference works cited on
-      database">Reference works cited</a></span></li><li><span
-      style="font-size:78%;"><a
-      href="http://www.finds.org.uk/database#">Numismatics</a></span> <ul
-      style="display: none;"><li><a href="http://www.finds.org.uk/ironagecoins"
-      title="Iron Age coin guide">Iron Age</a></li><li><a
-      href="http://www.finds.org.uk/romancoins" title="Roman coin
-      guide">Roman</a></li><li><a
-      href="http://www.finds.org.uk/greekromancoins" title="Greek and Roman Provincial coins
-      guide">Greek &amp; Roman Provincial</a></li><li><a
-      href="http://www.finds.org.uk/byzantinecoins" title="Byzantine coins
-      guide">Byzantine</a></li><li><a
-      href="http://www.finds.org.uk/earlymedievalcoins" title="Learn about Early Medieval
-      coins">Early Medieval</a></li><li><a
-      href="http://www.finds.org.uk/medievalcoins" title="Learn about Medieval
-      coins">Medieval</a></li><li><a
-      href="http://www.finds.org.uk/postmedievalcoins" title="Learn about Post Medieval
-      coins">Post Medieval</a></li></ul> </li><li><span
-      style="font-size:78%;"><a href="http://www.finds.org.uk/database/hoards" title="List of
-      hoards on the database">Hoards</a></span></li><li><span
-      style="font-size:78%;"><a href="http://www.finds.org.uk/database#" title="Click to view
-      controlled lists">Controlled vocabulary</a></span> <ul style="display:
-      none;"><li><a href="http://www.finds.org.uk/database/terminology/objects"
-      title="Learn about object terms in use">Object terms</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/periods" title="View a list of the temporal
-      terms we use">Periods</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/denominations" title="View a list of active
-      denoinations">Denominations</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/mints" title="View list of active
-      mints">Mints</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/rulers" title="View list of all active
-      rulers">Rulers</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/cultures" title="View a list of all ascribed
-      cultures in use">Ascribed cultures</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/workflows" title="View list of our workflow
-      stages">Workflow stages</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/preservations" title="View list of active
-      preservation states">Preservation states</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/methods" title="View a list of active
-      discovery methods">Discovery methods</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/notes" title="View our reasoning for
-      denoting finds of interest">Finds of note reasons</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/materials" title="View a list of active
-      materials">Materials</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/decorationstyles" title="View a list of
-      decorative styles">Decorative styles</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/decorationmethods" title="View all active
-      decorative methods">Decorative methods</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/manufactures" title="View a list of all
-      manufacturing method terms">Methods of manufacture</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/landuses" title="View all landuses on our
-      database">Landuses</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/surfaces" title="View all surface treatment
-      types on our database">Surface treatments</a></li><li><a
-      href="http://www.finds.org.uk/database/terminology/activities" title="View all landuse
-      terminology in use on our database">Primary
-      activities</a></li></ul></li><li><span
-      style="font-size:78%;"><a href="http://www.finds.org.uk/database/rallies" title="View
-      list of rallies we have recorded
-      at">Rallies</a></span></li><li><span
-      style="font-size:78%;"><a href="http://www.finds.org.uk/database/comments" title="View
-      comments attached to finds">Commentary</a></span></li><li><span
-      style="font-size:78%;"><a
-      href="http://www.finds.org.uk/database#">Statistics</a></span></li></ul></blockquote><!--
-      AddThis Button BEGIN --><br /><div><a name="data:post.title"
-      id="data:post.url" onmouseover="'return" onmouseout="addthis_close()" onclick="return
-      addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif"
-      alt="Bookmark and Share so Your Real Friends Know that You Know" style="border: 0pt none;"
-      height="16" width="125" /></a><br /><script type="text/javascript"
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"></script></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="UK"/>
+   <title type="text">Portable Antiquities Scheme</title>
+   <content type="html"><![CDATA[<a href="http://www.finds.org.uk/">The Portable Antiquities Scheme</a><br /><blockquote class="tr_bq"><img class="img" height="104" src="https://finds.org.uk/assets/logos/pas.jpg" width="213" /> </blockquote><blockquote><div class="container"><div class="carousel-caption"><div class="lead"><span style="font-size: x-small;">The Portable Antiquities Scheme is a DCMS funded project  to encourage the voluntary recording of archaeological objects found by  members of the public in England and Wales. Every year many thousands  of objects are discovered, many of these by metal-detector users, but  also by people whilst out walking, gardening or going about their daily  work.</span></div></div></div></blockquote><blockquote><div class="nav-collapse"><ul class="nav"><li><span style="font-size: x-small;"><a accesskey="1" class="active" href="https://finds.org.uk/" title="The Scheme's homepage">Home </a></span></li><li><span style="font-size: x-small;"><a href="https://finds.org.uk/contacts" title="Who to contact at the Scheme">Contacts</a></span></li><li><span style="font-size: x-small;"><a href="https://finds.org.uk/getinvolved" title="How to get involved with the largest public archaeology project">Get Involved</a></span></li><li><span style="font-size: x-small;"><a href="https://finds.org.uk/database" title="Search our database for artefacts and coins">Database</a></span></li><li><span style="font-size: x-small;"><a href="https://finds.org.uk/treasure" title="Learn about the Treasure Act">Treasure</a></span></li><li><span style="font-size: x-small;"><a href="https://finds.org.uk/guides" title="View guides to artefacts, coins and periods">Guides</a></span></li><li><span style="font-size: x-small;"><a href="https://finds.org.uk/news" title="Keep up to date with the latest news and events">News &amp; Events</a></span></li><li><span style="font-size: x-small;"><a href="https://finds.org.uk/publications" title="Publications and reports">Publications</a></span></li><li><span style="font-size: x-small;"><a href="https://finds.org.uk/research" title="Academic research using our data">Research</a></span></li><li><span style="font-size: x-small;"><a href="https://finds.org.uk/counties" title="Finds in your local community">Counties</a></span></li><li><span style="font-size: x-small;"><a href="http://forum.finds.org.uk/" title="Go to our support forum">Forum</a></span></li></ul></div></blockquote><div><a href="https://www.blogger.com/null" id="data:post.url" name="data:post.title" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="'return"></a><br /><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5711773548698493118/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5711773548698493118/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/05/new-portable-antiquities-scheme-website.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5711773548698493118"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5711773548698493118"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/05/new-portable-antiquities-scheme-website.html"
-         title="New Portable Antiquities Scheme Website"/>
-    <author>
+         title="Portable Antiquities Scheme"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

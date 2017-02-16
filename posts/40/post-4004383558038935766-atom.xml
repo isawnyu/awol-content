@@ -1,72 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4004383558038935766</id>
-    <published>2012-08-10T10:37:00.001-04:00</published>
-    <updated>2013-07-16T06:19:43.738-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4004383558038935766</id>
+   <published>2012-08-10T10:37:00.001-04:00</published>
+   <updated>2013-07-16T06:19:43.738-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Index of Christian Art Digital Books</title>
-    <content type="html"><![CDATA[<a href="http://ica.princeton.edu/digitalbooks.php">Index of Christian
-      Art Digital Books</a><br /><blockquote class="tr_bq"><img
-      alt="http://ica.princeton.edu/homepage/ica-header-logo.jpg" height="60"
-      src="http://ica.princeton.edu/homepage/ica-header-logo.jpg" width="200"
-      /></blockquote><blockquote class="tr_bq"><div
-      class="content_text"><span style="font-size: x-small;">Welcome to The Index of
-      Christian Art online publications! In the firm belief that we all need to share as much
-      scholarship as is possible, the Index of Christian Art is pleased to present an occasional
-      series of online conference proceedings and papers. When it is not possible to publish in the
-      traditional hardcopy format we will use the Internet for online
-      publications.&nbsp;</span></div><div class="content_text"><br
-      /></div><span style="font-size: x-small;"> </span><div
-      class="content_text"><span style="font-size: x-small;">The first set of papers are the
-      conference proceedings from a one day event held in Princeton University on Thursday July 12th
-      2012 which was devoted to Digitization and The Arts. The papers from that colloquium are
-      presented here as they were delivered and preserve the spontaneity of the speakers. Short
-      biographies are included.</span></div><div class="content_text"><br
-      /></div><span style="font-size: x-small;"> </span><div
-      class="content_text"><span style="font-size: x-small;">Colum Hourihane<br
-      />Director, Index of Christian Art&nbsp;</span></div><div
-      class="content_text"><br /></div><span style="font-size: x-small;">
-      </span><div class="content_text"><span style="font-size: x-small;"><a
-      href="http://ica.princeton.edu/digitalbooks/digitalday2.php">July 12th, 2012</a><br
-      />The Digital World of Art History</span></div><div
-      class="content_text"><br /></div><span style="font-size:
-      x-small;"></span><div class="content_text"><span style="font-size:
-      x-small;"><a
-      href="http://ica.princeton.edu/digitalbooks/digitalworldofarthistory2013.php">June 26th,
-      2013</a><br />Digital World of Art History 2013: From Theory to
-      Practice</span></div></blockquote><div class="content_text"
-      style="text-align: center;"><br /></div><div style="text-align:
-      center;">&nbsp;And see also <a
-      href="http://ancientworldonline.blogspot.com/2012/06/index-of-christian-art-online.html">Index
-      of Christian Art Online</a></div>]]></content>
-    <link rel="replies"
+   <title type="text">Index of Christian Art Digital Books</title>
+   <content type="html"><![CDATA[<a href="http://ica.princeton.edu/digitalbooks.php">Index of Christian Art Digital Books</a><br /><blockquote class="tr_bq"><img alt="http://ica.princeton.edu/homepage/ica-header-logo.jpg" height="60" src="http://ica.princeton.edu/homepage/ica-header-logo.jpg" width="200" /></blockquote><blockquote class="tr_bq"><div class="content_text"><span style="font-size: x-small;">Welcome to The Index of Christian Art online  publications! In the firm belief that we all need to share as much  scholarship as is possible, the Index of Christian Art is pleased to  present an occasional series of online conference proceedings and  papers.  When it is not possible to publish in the traditional hardcopy  format we will use the Internet for online publications.&nbsp;</span></div><div class="content_text"><br /></div><span style="font-size: x-small;"> </span><div class="content_text"><span style="font-size: x-small;">The first set of papers are the conference  proceedings from a one day event held in Princeton University on  Thursday July 12th 2012 which was devoted to Digitization and The Arts.  The papers from that colloquium are presented here as they were  delivered and preserve the spontaneity of the speakers.  Short  biographies are included.</span></div><div class="content_text"><br /></div><span style="font-size: x-small;">   </span><div class="content_text"><span style="font-size: x-small;">Colum Hourihane<br />Director, Index of Christian Art&nbsp;</span></div><div class="content_text"><br /></div><span style="font-size: x-small;"> </span><div class="content_text"><span style="font-size: x-small;"><a href="http://ica.princeton.edu/digitalbooks/digitalday2.php">July 12th, 2012</a><br />The Digital World of Art History</span></div><div class="content_text"><br /></div><span style="font-size: x-small;"></span><div class="content_text"><span style="font-size: x-small;"><a href="http://ica.princeton.edu/digitalbooks/digitalworldofarthistory2013.php">June 26th, 2013</a><br />Digital World of Art History 2013: From Theory to Practice</span></div></blockquote><div class="content_text" style="text-align: center;"><br /></div><div style="text-align: center;">&nbsp;And see also <a href="http://ancientworldonline.blogspot.com/2012/06/index-of-christian-art-online.html">Index of Christian Art Online</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4004383558038935766/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4004383558038935766/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/08/index-of-christian-art-digital-books.html#comment-form"
          title="1 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4004383558038935766"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4004383558038935766"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/08/index-of-christian-art-digital-books.html"
          title="Index of Christian Art Digital Books"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

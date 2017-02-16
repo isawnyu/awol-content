@@ -1,183 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5737724105410788424</id>
-    <published>2013-05-28T16:01:00.000-04:00</published>
-    <updated>2013-05-28T16:01:30.852-04:00</updated>
-    
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5737724105410788424</id>
+   <published>2013-05-28T16:01:00.000-04:00</published>
+   <updated>2013-05-28T16:01:30.852-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text"/>
-    <content type="html"><![CDATA[<a
-      href="http://www.diss.fu-berlin.de/diss/content/below/index.xml">Universitätsbibliothek der
-      Freien Universität Berlin: Dissertationen Online</a><br /><br /><a
-      href="http://www.diss.fu-berlin.de/diss/servlets/MCRSearchServlet?query=%28publisher+%3D+%22FE003%22%29+AND+%28objectType+%3D+%22thesis%22%29&amp;mask=content/main/classifications/publisher.xml&amp;numPerPage=10&amp;creator.sortField=ascending">FB
-      Geschichts- und Kulturwissenschaften</a><br /><table border="0" cellspacing="2"
-      class="aleph" style="width: 100%px;"><tbody><tr valign="baseline"><td
-      align="right" class="td1">1</td><td class="td1">Al-Qananweh,
-      Ekhlass</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000006668">Transjordanische
-      Personennamen in der eisenzeitlichen Periode und ihre semitischen
-      Entsprechungen</a></td><td class="td1" colspan="2">2008</td>
-      </tr><tr valign="baseline"> <td align="right" class="td1">2</td><td
-      class="td1">Asgharirad, Javad</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000038284">U.S. public
-      diplomacy towards Iran during the George W. Bush era</a></td><td class="td1"
-      colspan="2">2012</td> </tr><tr valign="baseline"> <td align="right"
-      class="td1">3</td><td class="td1">Bachmann, Friederike</td><td
-      class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000023743">Vierösengefäße
-      der Urukzeit</a></td><td class="td1" colspan="2">2011</td>
-      </tr><tr valign="baseline"> <td align="right" class="td1">4</td><td
-      class="td1">Baimatowa, Nasiba</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000001290">Die Kunst des
-      Woelbens in Mittelasien</a></td><td class="td1" colspan="2">2004</td>
-      </tr><tr valign="baseline"> <td align="right" class="td1">5</td><td
-      class="td1">Bakkor, Hussein</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000093982">Zur
-      Repräsentation von Geschichte und Kultur des Alten Orients in großen europäischen
-      Museen</a></td><td class="td1" colspan="2">2013</td> </tr><tr
-      valign="baseline"> <td align="right" class="td1">6</td><td
-      class="td1">Becker, Claudia</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000000418">Versuche
-      religiöser Erneuerung in der Moderne am Beispiel des evangelischen Theologen Friedrich
-      Rittelmeyer (1872-1938)</a></td><td class="td1" colspan="2">2001</td>
-      </tr><tr valign="baseline"> <td align="right" class="td1">7</td><td
-      class="td1">Becker, Niklas</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000015894">Juro
-      Kubicek</a></td><td class="td1" colspan="2">2010</td> </tr><tr
-      valign="baseline"> <td align="right" class="td1">8</td><td
-      class="td1">Beckstette, Sven</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000018889">Das
-      Historienbild im 20. Jahrhundert</a></td><td class="td1"
-      colspan="2">2010</td> </tr><tr valign="baseline"> <td align="right"
-      class="td1">9</td><td class="td1">Berding, Bianca</td><td
-      class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000038922">Der Kunsthandel
-      in Berlin für moderne angewandte Kunst von 1897 bis 1914</a></td><td class="td1"
-      colspan="2">2012</td> </tr><tr valign="baseline"> <td align="right"
-      class="td1">10</td><td class="td1">Berggold, Wolfgang</td><td
-      class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000022433">Studien zu den
-      minderberechtigten Gruppen in Sparta</a></td><td class="td1"
-      colspan="2">2011</td></tr></tbody></table><table border="0"
-      cellspacing="2" class="aleph" style="width: 100%px;"><tbody><tr
-      valign="baseline"><td align="right" class="td1">11</td><td
-      class="td1">Beuger, Claudia</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000003202">Keramik der
-      spätfrühdynastischen bis spätassyrischen Zeit aus Assur</a></td><td class="td1"
-      colspan="2">2007</td> </tr><tr valign="baseline"> <td align="right"
-      class="td1">12</td><td class="td1">Blanke, Svenja</td><td
-      class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000000975">Civic Foreign
-      Policy</a></td><td class="td1" colspan="2">2003</td> </tr><tr
-      valign="baseline"> <td align="right" class="td1">13</td><td
-      class="td1">Bockholt, Eva</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000002039">Der europäische
-      Bund: eine gescheiterte Vision der Freiheitskriege?</a></td><td class="td1"
-      colspan="2">2006</td> </tr><tr valign="baseline"> <td align="right"
-      class="td1">14</td><td class="td1">Borck, Karin</td><td
-      class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000000383">"Der Micha vom
-      Prenzlauer Berg"</a></td><td class="td1" colspan="2">2001</td>
-      </tr><tr valign="baseline"> <td align="right" class="td1">15</td><td
-      class="td1">Both, Arnd Adje</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000002638">Aerófonos
-      mexicas de las ofrendas del Recinto Sagrado de Tenochtitlan</a></td><td
-      class="td1" colspan="2">2007</td> </tr><tr valign="baseline"> <td
-      align="right" class="td1">16</td><td class="td1">Briceño Rosario, Jesús
-      Gregorio</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000018239">Las tradiciones
-      liticas del Pleistoceno tardio en la quebrada Santa Maria, Costa Norte del
-      Peru</a></td><td class="td1" colspan="2">2010</td> </tr><tr
-      valign="baseline"> <td align="right" class="td1">17</td><td
-      class="td1">Caporrella, Vittorio</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000007142">Strategie
-      educative dei ceti medi italiani a Trieste tra la fine del XIX sec. e il
-      1914</a></td><td class="td1" colspan="2">2009</td> </tr><tr
-      valign="baseline"> <td align="right" class="td1">18</td><td
-      class="td1">Cepeda Sánchez, Hernando</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000036407">Imaginarios
-      sociales, política y resistencia</a></td><td class="td1"
-      colspan="2">2012</td> </tr><tr valign="baseline"> <td align="right"
-      class="td1">19</td><td class="td1">Cercelovic, Sabrina</td><td
-      class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000000108">Der Zeitaspekt
-      im Werk von Paul Cezanne und seiner Zeitgenossen. Eine Untersuchung über die Darstellung und
-      Illusion von Zeit in der Kunst des Französischen Impressionismus</a></td><td
-      class="td1" colspan="2">1999</td> </tr><tr valign="baseline"> <td
-      align="right" class="td1">20</td><td class="td1">Cho, Nam-Heoun</td><td
-      class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000000109">Zum
-      Rechtsproblem von gesellschaftlich bedingten Katastrophen</a></td><td
-      class="td1" colspan="2">1999</td></tr></tbody></table><br
-      /><table border="0" cellspacing="2" class="aleph" style="width:
-      100%px;"><tbody><tr valign="baseline"><td align="right"
-      class="td1">21</td><td class="td1">Christmann-Budian, Stephanie</td><td
-      class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000045200">Chinesische
-      Wissenschaftspolitik seit den 1990er Jahren</a></td><td class="td1"
-      colspan="2">2013</td> </tr><tr valign="baseline"> <td align="right"
-      class="td1">22</td><td class="td1">Contreras Painemal, Carlos</td><td
-      class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000025635">Los Tratados
-      celebrados por los Mapuche con la Corona Española, la República de Chile y la República de
-      Argentina</a></td><td class="td1" colspan="2">2011</td>
-      </tr><tr valign="baseline"> <td align="right" class="td1">23</td><td
-      class="td1">Czyborra, Ina</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000001724">Die ältere
-      Eisenzeit türkisch Thrakiens und ihr Verhältnis zur südosteuropäischen Urnenfelder- und
-      Hallstattzeit</a></td><td class="td1" colspan="2">2005</td>
-      </tr><tr valign="baseline"> <td align="right" class="td1">24</td><td
-      class="td1">Díaz de Arce, Norbert</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000001759">Plagiatsvorwurf
-      und Denunziation</a></td><td class="td1" colspan="2">2005</td>
-      </tr><tr valign="baseline"> <td align="right" class="td1">25</td><td
-      class="td1">Dimitrova, Velina Koleva</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000003187">Zeugnisse der
-      Kunst und Kultur der Protobulgaren aus der heidnischen Periode des Ersten Bulgarischen Reiches
-      (7.  9. Jh.)</a></td><td class="td1" colspan="2">2007</td>
-      </tr><tr valign="baseline"> <td align="right" class="td1">26</td><td
-      class="td1">Dollenmaier, Verena</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000001783">Die Erotik im
-      Werk von Christian Schad</a></td><td class="td1" colspan="2">2005</td>
-      </tr><tr valign="baseline"> <td align="right" class="td1">27</td><td
-      class="td1">Edalatnejad, Saeid</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000012134">Shiite
-      tradition, rationalism and modernity</a></td><td class="td1"
-      colspan="2">2009</td> </tr><tr valign="baseline"> <td align="right"
-      class="td1">28</td><td class="td1">Engel, Martin</td><td
-      class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000001297">Das Forum
-      Fridericianum und die monumentalen Residenzplätze des 18.
-      Jahrhunderts</a></td><td class="td1" colspan="2">2004</td>
-      </tr><tr valign="baseline"> <td align="right" class="td1">29</td><td
-      class="td1">Faron-Bartels, Renata</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000024736">Piedras votivas
-      de Pampacolca</a></td><td class="td1" colspan="2">2011</td>
-      </tr><tr valign="baseline"> <td align="right" class="td1">30</td><td
-      class="td1">Feller-Kniepmeier, Monika</td><td class="td1"><a
-      href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000035828">Der spätgotische
-      Lettner des Magdeburger Domes und sein Kreuzaltar</a></td><td class="td1"
-      colspan="2">2012</td></tr></tbody></table>]]></content>
-    <link rel="replies"
+   <title type="text"/>
+   <content type="html"><![CDATA[<a href="http://www.diss.fu-berlin.de/diss/content/below/index.xml">Universitätsbibliothek der Freien Universität Berlin: Dissertationen Online</a><br /><br /><a href="http://www.diss.fu-berlin.de/diss/servlets/MCRSearchServlet?query=%28publisher+%3D+%22FE003%22%29+AND+%28objectType+%3D+%22thesis%22%29&amp;mask=content/main/classifications/publisher.xml&amp;numPerPage=10&amp;creator.sortField=ascending">FB Geschichts- und Kulturwissenschaften</a><br /><table border="0" cellspacing="2" class="aleph" style="width: 100%px;"><tbody><tr valign="baseline"><td align="right" class="td1">1</td><td class="td1">Al-Qananweh, Ekhlass</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000006668">Transjordanische Personennamen in der eisenzeitlichen Periode und ihre semitischen Entsprechungen</a></td><td class="td1" colspan="2">2008</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">2</td><td class="td1">Asgharirad, Javad</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000038284">U.S. public diplomacy towards Iran during the George W. Bush era</a></td><td class="td1" colspan="2">2012</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">3</td><td class="td1">Bachmann, Friederike</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000023743">Vierösengefäße der Urukzeit</a></td><td class="td1" colspan="2">2011</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">4</td><td class="td1">Baimatowa, Nasiba</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000001290">Die Kunst des Woelbens in Mittelasien</a></td><td class="td1" colspan="2">2004</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">5</td><td class="td1">Bakkor, Hussein</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000093982">Zur Repräsentation  von  Geschichte und Kultur des Alten Orients in großen europäischen Museen</a></td><td class="td1" colspan="2">2013</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">6</td><td class="td1">Becker, Claudia</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000000418">Versuche religiöser Erneuerung in der Moderne am Beispiel des evangelischen Theologen Friedrich Rittelmeyer (1872-1938)</a></td><td class="td1" colspan="2">2001</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">7</td><td class="td1">Becker, Niklas</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000015894">Juro Kubicek</a></td><td class="td1" colspan="2">2010</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">8</td><td class="td1">Beckstette, Sven</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000018889">Das Historienbild im 20. Jahrhundert</a></td><td class="td1" colspan="2">2010</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">9</td><td class="td1">Berding, Bianca</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000038922">Der Kunsthandel in Berlin für moderne angewandte Kunst von 1897 bis 1914</a></td><td class="td1" colspan="2">2012</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">10</td><td class="td1">Berggold, Wolfgang</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000022433">Studien zu den minderberechtigten Gruppen in Sparta</a></td><td class="td1" colspan="2">2011</td></tr></tbody></table><table border="0" cellspacing="2" class="aleph" style="width: 100%px;"><tbody><tr valign="baseline"><td align="right" class="td1">11</td><td class="td1">Beuger, Claudia</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000003202">Keramik der spätfrühdynastischen bis spätassyrischen Zeit aus Assur</a></td><td class="td1" colspan="2">2007</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">12</td><td class="td1">Blanke, Svenja</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000000975">Civic Foreign Policy</a></td><td class="td1" colspan="2">2003</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">13</td><td class="td1">Bockholt, Eva</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000002039">Der europäische Bund: eine gescheiterte Vision der Freiheitskriege?</a></td><td class="td1" colspan="2">2006</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">14</td><td class="td1">Borck, Karin</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000000383">"Der Micha vom Prenzlauer Berg"</a></td><td class="td1" colspan="2">2001</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">15</td><td class="td1">Both, Arnd Adje</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000002638">Aerófonos mexicas de las ofrendas del Recinto Sagrado de Tenochtitlan</a></td><td class="td1" colspan="2">2007</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">16</td><td class="td1">Briceño Rosario, Jesús Gregorio</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000018239">Las tradiciones liticas del Pleistoceno tardio en la quebrada Santa Maria, Costa Norte del Peru</a></td><td class="td1" colspan="2">2010</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">17</td><td class="td1">Caporrella, Vittorio</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000007142">Strategie educative dei ceti medi italiani a Trieste tra la fine del XIX sec. e il 1914</a></td><td class="td1" colspan="2">2009</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">18</td><td class="td1">Cepeda Sánchez, Hernando</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000036407">Imaginarios sociales, política y resistencia</a></td><td class="td1" colspan="2">2012</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">19</td><td class="td1">Cercelovic, Sabrina</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000000108">Der  Zeitaspekt im Werk von Paul Cezanne und seiner Zeitgenossen. Eine  Untersuchung über die Darstellung und Illusion von Zeit in der Kunst des  Französischen Impressionismus</a></td><td class="td1" colspan="2">1999</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">20</td><td class="td1">Cho, Nam-Heoun</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000000109">Zum Rechtsproblem von gesellschaftlich bedingten Katastrophen</a></td><td class="td1" colspan="2">1999</td></tr></tbody></table><br /><table border="0" cellspacing="2" class="aleph" style="width: 100%px;"><tbody><tr valign="baseline"><td align="right" class="td1">21</td><td class="td1">Christmann-Budian, Stephanie</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000045200">Chinesische Wissenschaftspolitik seit den 1990er Jahren</a></td><td class="td1" colspan="2">2013</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">22</td><td class="td1">Contreras Painemal, Carlos</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000025635">Los Tratados celebrados por los Mapuche con la Corona Española, la República de Chile y la República de Argentina</a></td><td class="td1" colspan="2">2011</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">23</td><td class="td1">Czyborra, Ina</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000001724">Die ältere Eisenzeit türkisch Thrakiens und ihr Verhältnis zur südosteuropäischen Urnenfelder- und Hallstattzeit</a></td><td class="td1" colspan="2">2005</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">24</td><td class="td1">Díaz de Arce, Norbert</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000001759">Plagiatsvorwurf und Denunziation</a></td><td class="td1" colspan="2">2005</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">25</td><td class="td1">Dimitrova, Velina Koleva</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000003187">Zeugnisse der Kunst und Kultur der Protobulgaren aus der heidnischen Periode des Ersten Bulgarischen Reiches (7.  9. Jh.)</a></td><td class="td1" colspan="2">2007</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">26</td><td class="td1">Dollenmaier, Verena</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000001783">Die Erotik im Werk von Christian Schad</a></td><td class="td1" colspan="2">2005</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">27</td><td class="td1">Edalatnejad, Saeid</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000012134">Shiite tradition, rationalism and modernity</a></td><td class="td1" colspan="2">2009</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">28</td><td class="td1">Engel, Martin</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000001297">Das Forum Fridericianum und die monumentalen Residenzplätze des 18. Jahrhunderts</a></td><td class="td1" colspan="2">2004</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">29</td><td class="td1">Faron-Bartels, Renata</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000024736">Piedras votivas de Pampacolca</a></td><td class="td1" colspan="2">2011</td>                    </tr><tr valign="baseline">                      <td align="right" class="td1">30</td><td class="td1">Feller-Kniepmeier, Monika</td><td class="td1"><a href="http://www.diss.fu-berlin.de/diss/receive/FUDISS_thesis_000000035828">Der spätgotische Lettner des Magdeburger Domes und sein Kreuzaltar</a></td><td class="td1" colspan="2">2012</td></tr></tbody></table>]]></content>
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/05/universitatsbibliothek-der-freien.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5737724105410788424"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5737724105410788424"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

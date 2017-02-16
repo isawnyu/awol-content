@@ -1,253 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1432357142335936533</id>
-    <published>2011-05-15T17:26:00.000-04:00</published>
-    <updated>2011-12-11T08:43:58.552-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1432357142335936533</id>
+   <published>2016-10-12T17:26:00.000-04:00</published>
+   <updated>2016-10-12T19:25:41.141-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: Mesolithic Miscellany</title>
-    <content type="html"><![CDATA[<div style="font-family: inherit;"><a
-      href="https://sites.google.com/site/mesolithicmiscellany/journal-information"><span
-      style="font-size: small;">Mesolithic Miscellany</span></a><br
-      /><blockquote class="tr_bq"><img
-      alt="https://sites.google.com/site/mesolithicmiscellany/_/rsrc/1304599591718/config/customLogo.gif?revision=5"
-      src="https://sites.google.com/site/mesolithicmiscellany/_/rsrc/1304599591718/config/customLogo.gif?revision=5"
-      /><span style="font-size: small;">
-      </span></blockquote></div><blockquote><div style="font-family:
-      inherit;"><span style="font-size: x-small;">Mesolithic Miscellany is the only serial
-      publication dedicated to the archaeology of Mesolithic Europe. It is, and has always been
-      community-led and responded to the needs of Mesolithic scholars.<br /><br
-      /><span style="line-height: normal;">Mesolithic Miscellany was set up in 1980 by T.
-      Douglas Price, University of Wisconsin. It was a newsletter, published twice-a-year, that aimed
-      to include virtually any information of relevance to the European
-      Mesolithic.</span></span></div><br /><table
-      class="filecabinet-table" id="JOT_FILECAB_folder__unfiled"><tbody><tr
-      id="JOT_FILECAB_container_wuid:gx:38341cf17bf5ced8"><td class="td-select"><span
-      style="font-size: xx-small;"><input class="filecabinet-checkbox" type="checkbox"
-      /></span></td><td class="td-icon"><span style="font-size:
-      xx-small;"><img
-      src="https://sites.google.com/site/mesolithicmiscellany/system/app/images/attach_icons/icon_pdf.gif"
-      /></span></td><td class="td-file"><span style="font-size:
-      xx-small;">18.1.pdf<br /><span style="word-spacing: 3px;"><a dir="ltr"
-      href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDozODM0MWNmMTdiZjVjZWQ4"
-      target="_blank">View</a> <a dir="ltr"
-      href="https://sites.google.com/site/mesolithicmiscellany/journal-information/journal-volumes/18.1.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td
-      class="td-desc filecabinet-desc" dir="ltr"><span style="font-size:
-      xx-small;">Mesolithic Miscellany Volume 18.1 December
-      2006&nbsp;</span></td><td class="td-size"><span style="font-size:
-      xx-small;">1959k</span></td><td class="td-rev"><span style="font-size:
-      xx-small;">v. 6</span></td><td class="td-time"><span style="font-size:
-      xx-small;"><span dir="ltr">5 May 2011 07:53</span></span></td><td
-      class="td-user"><span style="font-size: xx-small;">Pat
-      Hadley</span></td></tr><tr
-      id="JOT_FILECAB_container_wuid:gx:6cbcbf3ab1076c09"><td class="td-select"><span
-      style="font-size: xx-small;"><input class="filecabinet-checkbox" type="checkbox"
-      /></span></td><td class="td-icon"><span style="font-size:
-      xx-small;"><img
-      src="https://sites.google.com/site/mesolithicmiscellany/system/app/images/attach_icons/icon_pdf.gif"
-      /></span></td><td class="td-file"><span style="font-size:
-      xx-small;">18.2.pdf<br /><span style="word-spacing: 3px;"><a dir="ltr"
-      href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo2Y2JjYmYzYWIxMDc2YzA5"
-      target="_blank">View</a> <a dir="ltr"
-      href="https://sites.google.com/site/mesolithicmiscellany/journal-information/journal-volumes/18.2.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td
-      class="td-desc filecabinet-desc" dir="ltr"><span style="font-size:
-      xx-small;">Mesolithic Miscellany Volume 18.2 July
-      2007&nbsp;</span></td><td class="td-size"><span style="font-size:
-      xx-small;">1153k</span></td><td class="td-rev"><span style="font-size:
-      xx-small;">v. 1</span></td><td class="td-time"><span style="font-size:
-      xx-small;"><span dir="ltr">17 May 2011
-      05:41</span></span></td><td class="td-user"><span style="font-size:
-      xx-small;">Pat Hadley</span></td></tr><tr
-      id="JOT_FILECAB_container_wuid:gx:343e362df68f5aca"><td class="td-select"><span
-      style="font-size: xx-small;"><input class="filecabinet-checkbox" type="checkbox"
-      /></span></td><td class="td-icon"><span style="font-size:
-      xx-small;"><img
-      src="https://sites.google.com/site/mesolithicmiscellany/system/app/images/attach_icons/icon_pdf.gif"
-      /></span></td><td class="td-file"><span style="font-size:
-      xx-small;">19.1.pdf<br /><span style="word-spacing: 3px;"><a dir="ltr"
-      href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDozNDNlMzYyZGY2OGY1YWNh"
-      target="_blank">View</a> <a dir="ltr"
-      href="https://sites.google.com/site/mesolithicmiscellany/journal-information/journal-volumes/19.1.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td
-      class="td-desc filecabinet-desc" dir="ltr"><span style="font-size:
-      xx-small;">Mesolithic Miscellany Volume 19.1 March
-      2008&nbsp;</span></td><td class="td-size"><span style="font-size:
-      xx-small;">1870k</span></td><td class="td-rev"><span style="font-size:
-      xx-small;">v. 2</span></td><td class="td-time"><span style="font-size:
-      xx-small;"><span dir="ltr">5 May 2011 07:41</span></span></td><td
-      class="td-user"><span style="font-size: xx-small;">Pat
-      Hadley</span></td></tr><tr
-      id="JOT_FILECAB_container_wuid:gx:4ee5aa29e6b12f37"><td class="td-select"><span
-      style="font-size: xx-small;"><input class="filecabinet-checkbox" type="checkbox"
-      /></span></td><td class="td-icon"><span style="font-size:
-      xx-small;"><img
-      src="https://sites.google.com/site/mesolithicmiscellany/system/app/images/attach_icons/icon_pdf.gif"
-      /></span></td><td class="td-file"><span style="font-size:
-      xx-small;">19.2.pdf<br /><span style="word-spacing: 3px;"><a dir="ltr"
-      href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo0ZWU1YWEyOWU2YjEyZjM3"
-      target="_blank">View</a> <a dir="ltr"
-      href="https://sites.google.com/site/mesolithicmiscellany/journal-information/journal-volumes/19.2.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td
-      class="td-desc filecabinet-desc" dir="ltr"><span style="font-size:
-      xx-small;">Mesolithic Miscellany Volume 19.2 April
-      2009&nbsp;&nbsp;</span></td><td class="td-size"><span
-      style="font-size: xx-small;">2446k</span></td><td class="td-rev"><span
-      style="font-size: xx-small;">v. 2</span></td><td class="td-time"><span
-      style="font-size: xx-small;"><span dir="ltr">5 May 2011
-      08:33</span></span></td><td class="td-user"><span style="font-size:
-      xx-small;">Pat Hadley</span></td></tr><tr
-      id="JOT_FILECAB_container_wuid:gx:7ab9e58d60b5b10b"><td class="td-select"><span
-      style="font-size: xx-small;"><input class="filecabinet-checkbox" type="checkbox"
-      /></span></td><td class="td-icon"><span style="font-size:
-      xx-small;"><img
-      src="https://sites.google.com/site/mesolithicmiscellany/system/app/images/attach_icons/icon_pdf.gif"
-      /></span></td><td class="td-file"><span style="font-size:
-      xx-small;">20.1.pdf<br /><span style="word-spacing: 3px;"><a dir="ltr"
-      href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo3YWI5ZTU4ZDYwYjViMTBi"
-      target="_blank">View</a> <a dir="ltr"
-      href="https://sites.google.com/site/mesolithicmiscellany/journal-information/journal-volumes/20.1.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td
-      class="td-desc filecabinet-desc" dir="ltr"><span style="font-size:
-      xx-small;">Mesolithic Miscellany Volume 20.1 September
-      2009&nbsp;&nbsp;</span></td><td class="td-size"><span
-      style="font-size: xx-small;">1886k</span></td><td class="td-rev"><span
-      style="font-size: xx-small;">v. 2</span></td><td class="td-time"><span
-      style="font-size: xx-small;"><span dir="ltr">5 May 2011
-      08:34</span></span></td><td class="td-user"><span style="font-size:
-      xx-small;">Pat Hadley</span></td></tr><tr
-      id="JOT_FILECAB_container_wuid:gx:725f8796b9f64985"><td class="td-select"><span
-      style="font-size: xx-small;"><input class="filecabinet-checkbox" type="checkbox"
-      /></span></td><td class="td-icon"><span style="font-size:
-      xx-small;"><img
-      src="https://sites.google.com/site/mesolithicmiscellany/system/app/images/attach_icons/icon_pdf.gif"
-      /></span></td><td class="td-file"><span style="font-size:
-      xx-small;">20.2.pdf<br /><span style="word-spacing: 3px;"><a dir="ltr"
-      href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo3MjVmODc5NmI5ZjY0OTg1"
-      target="_blank">View</a> <a dir="ltr"
-      href="https://sites.google.com/site/mesolithicmiscellany/journal-information/journal-volumes/20.2.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td
-      class="td-desc filecabinet-desc" dir="ltr"><span style="font-size:
-      xx-small;">Mesolithic Miscellany Volume 20.2 December
-      2009&nbsp;</span></td><td class="td-size"><span style="font-size:
-      xx-small;">1318k</span></td><td class="td-rev"><span style="font-size:
-      xx-small;">v. 2</span></td><td class="td-time"><span style="font-size:
-      xx-small;"><span dir="ltr">5 May 2011 08:34</span></span></td><td
-      class="td-user"><span style="font-size: xx-small;">Pat
-      Hadley</span></td></tr><tr
-      id="JOT_FILECAB_container_wuid:gx:42b1cb08bc7168e0"><td class="td-select"><span
-      style="font-size: xx-small;"><input class="filecabinet-checkbox" type="checkbox"
-      /></span></td><td class="td-icon"><span style="font-size:
-      xx-small;"><img
-      src="https://sites.google.com/site/mesolithicmiscellany/system/app/images/attach_icons/icon_pdf.gif"
-      /></span></td><td class="td-file"><span style="font-size:
-      xx-small;">21.1.pdf<br /><span style="word-spacing: 3px;"><a dir="ltr"
-      href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo0MmIxY2IwOGJjNzE2OGUw"
-      target="_blank">View</a> <a dir="ltr"
-      href="https://sites.google.com/site/mesolithicmiscellany/journal-information/journal-volumes/21.1.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td
-      class="td-desc filecabinet-desc" dir="ltr"><span style="font-size:
-      xx-small;">Mesolithic Miscellany Volume 21.1 September
-      2010&nbsp;</span></td><td class="td-size"><span style="font-size:
-      xx-small;">3291k</span></td><td class="td-rev"><span style="font-size:
-      xx-small;">v. 2</span></td><td class="td-time"><span style="font-size:
-      xx-small;"><span dir="ltr">5 May 2011 08:34</span></span></td><td
-      class="td-user"><span style="font-size: xx-small;">Pat
-      Hadley</span></td></tr><tr
-      id="JOT_FILECAB_container_wuid:gx:79dd985e5bd3b342"><td class="td-select"><span
-      style="font-size: xx-small;"><input class="filecabinet-checkbox" type="checkbox"
-      /></span></td><td class="td-icon"><span style="font-size:
-      xx-small;"><img
-      src="https://sites.google.com/site/mesolithicmiscellany/system/app/images/attach_icons/icon_pdf.gif"
-      /></span></td><td class="td-file"><span style="font-size:
-      xx-small;">21.2.pdf<br /><span style="word-spacing: 3px;"><a dir="ltr"
-      href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo3OWRkOTg1ZTViZDNiMzQy"
-      target="_blank">View</a> <a dir="ltr"
-      href="https://sites.google.com/site/mesolithicmiscellany/journal-information/journal-volumes/21.2.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td
-      class="td-desc filecabinet-desc" dir="ltr"><span style="font-size:
-      xx-small;">Mesolithic Miscellany volume 21.2 May
-      2011&nbsp;</span></td><td class="td-size"><span style="font-size:
-      xx-small;">3270k</span></td><td class="td-rev"><span style="font-size:
-      xx-small;">v. 1</span></td><td class="td-time"><span style="font-size:
-      xx-small;"><span dir="ltr">30 May 2011
-      04:23</span></span></td><td class="td-user"><span style="font-size:
-      xx-small;">Nicky
-      Milner</span></td></tr></tbody></table><span style="font-size:
-      xx-small;"></span><br /><table class="filecabinet-header"
-      id="JOT_FILECAB_header_Supplements"><tbody><tr><th colspan="8"
-      width="100%"><span style="font-size: xx-small;"><img
-      src="https://sites.google.com/site/mesolithicmiscellany/system/app/pagetypes/filecabinet/icon-folder.gif"
-      />&nbsp;Supplements</span></th></tr></tbody></table><span
-      style="font-size: xx-small;"></span><br /><table class="filecabinet-table"
-      id="JOT_FILECAB_folder_Supplements"><tbody><tr
-      id="JOT_FILECAB_container_wuid:gx:278b9407df1ceac0"><td class="td-select"><span
-      style="font-size: xx-small;"><input class="filecabinet-checkbox" type="checkbox"
-      /></span></td><td class="td-icon"><span style="font-size:
-      xx-small;"><img
-      src="https://sites.google.com/site/mesolithicmiscellany/system/app/images/attach_icons/icon_pdf.gif"
-      /></span></td><td class="td-file"><span style="font-size:
-      xx-small;">18.1HopferauExcavGerman.pdf<br /><span style="word-spacing:
-      3px;"><a dir="ltr"
-      href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDoyNzhiOTQwN2RmMWNlYWMw"
-      target="_blank">View</a> <a dir="ltr"
-      href="https://sites.google.com/site/mesolithicmiscellany/journal-information/journal-volumes/18.1HopferauExcavGerman.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td
-      class="td-desc filecabinet-desc" dir="ltr"><span style="font-size: xx-small;">Die
-      Ausgrabungen bei Hopferau am Hopfensee: Dr. Stefanie Berg-Hobohm and Carmen Liebermann M.A.
-      (German version of article from Mesolithic Miscellany Volume
-      18.1)&nbsp;</span></td><td class="td-size"><span style="font-size:
-      xx-small;">49k</span></td><td class="td-rev"><span style="font-size:
-      xx-small;">v. 3</span></td><td class="td-time"><span style="font-size:
-      xx-small;"><span dir="ltr">5 May 2011 08:34</span></span></td><td
-      class="td-user"><span style="font-size: xx-small;">Pat
-      Hadley</span></td></tr><tr
-      id="JOT_FILECAB_container_wuid:gx:7b4b5ded3a483122"><td class="td-select"><span
-      style="font-size: xx-small;"><input class="filecabinet-checkbox" type="checkbox"
-      /></span></td><td class="td-icon"><span style="font-size:
-      xx-small;"><img
-      src="https://sites.google.com/site/mesolithicmiscellany/system/app/images/attach_icons/icon_pdf.gif"
-      /></span></td><td class="td-file"><span style="font-size:
-      xx-small;">18.2 Fig4_Friesack4.pdf<br /><span style="word-spacing: 3px;"><a
-      dir="ltr"
-      href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo3YjRiNWRlZDNhNDgzMTIy"
-      target="_blank">View</a> <a dir="ltr"
-      href="https://sites.google.com/site/mesolithicmiscellany/journal-information/journal-volumes/18.2Fig4_Friesack4.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td
-      class="td-desc filecabinet-desc" dir="ltr"><span style="font-size: xx-small;">Large
-      version of figure 4 from Friesack 4 Typo-Chronology (Birgit Gehlen: Mesolithic Miscellany
-      Volume 18.2)&nbsp;</span></td><td class="td-size"><span
-      style="font-size: xx-small;">98k</span></td><td class="td-rev"><span
-      style="font-size: xx-small;">v. 2</span></td><td class="td-time"><span
-      style="font-size: xx-small;"><span dir="ltr">17 May 2011
-      07:31</span></span></td><td class="td-user"><span style="font-size:
-      xx-small;">Pat
-      Hadley</span></td></tr></tbody></table></blockquote><div
-      style="text-align: center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div><div><div
-      style="text-align: center;"><br /></div><br /><br /><br
-      /><br /><br /><br /><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: Mesolithic Miscellany</title>
+   <content type="html"><![CDATA[<div style="font-family: inherit;"><a href="https://sites.google.com/site/mesolithicmiscellany/"><span style="font-size: small;">Mesolithic Miscellany</span></a><br /><span style="font-size: small;">ISSN: </span>0259-3548<br /><span style="font-size: small;"> </span><br /><blockquote class="tr_bq"><img alt="https://sites.google.com/site/mesolithicmiscellany/_/rsrc/1304599591718/config/customLogo.gif?revision=5" height="106" src="https://sites.google.com/site/mesolithicmiscellany/_/rsrc/1304599591718/config/customLogo.gif?revision=5" width="200" /><span style="font-size: small;"> </span></blockquote></div><blockquote><div style="font-family: inherit;"><span style="font-family: inherit;"><span style="font-size: x-small;">Mesolithic Miscellany is the only serial publication dedicated to the  archaeology of Mesolithic Europe. It is, and has always been  community-led and responded to the needs of Mesolithic scholars.<br /><br /><span style="line-height: normal;">Mesolithic  Miscellany was set up in 1980 by T. Douglas Price, University of  Wisconsin. It was a newsletter, published twice-a-year, that aimed to  include virtually any information of relevance to the European  Mesolithic.</span></span></span></div></blockquote><blockquote class="tr_bq"><div><span style="font-family: inherit;"><span style="font-size: x-small;"><b style="line-height: 25.6px;">Accessing the initial run (1980-1996)</b></span></span></div><div><span style="font-family: inherit;"><span style="font-size: x-small;"><span style="background-color: transparent; line-height: 19.44px;"><br /></span></span></span></div><div><span style="font-family: inherit;"><span style="font-size: x-small;"><span style="background-color: transparent; line-height: 19.44px;">The  project to scan the initial series of Mesolithic Miscellany (1980-1996)  was generously funded by the Department of Archaeology, University of  York and could not have been completed without the active and  enthusiastic involvement of the Archaeology Data Service. You can  download all newsletters here:&nbsp;</span><span style="background-color: transparent; line-height: 21.3333px;"><a href="http://archaeologydataservice.ac.uk/archives/view/mesomisc_na_2006/" rel="nofollow" style="background-color: transparent; line-height: 21.3333px;">http://archaeologydataservice.ac.uk/archives/view/mesomisc_na_2006/</a></span></span></span></div></blockquote><blockquote><span style="font-size: x-small;"><br />   </span><div class="collapsible" id="JOT_FILECAB_wrapper__unfiled"><table class="filecabinet-table" id="JOT_FILECAB_folder__unfiled"><tbody><tr id="JOT_FILECAB_container_wuid:gx:38341cf17bf5ced8"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:38341cf17bf5ced8">18.1.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDozODM0MWNmMTdiZjVjZWQ4" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/18.1.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany Volume 18.1 December 2006&nbsp;</span></td><td class="td-size" data-val="2006063"><span style="font-size: x-small;">1959k</span></td><td class="td-rev" data-val="8"><span style="font-size: x-small;">v. 8  </span></td><td class="td-time" data-val="1304607213093"> <span style="font-size: x-small;"><span dir="ltr">5 May 2011, 10:53</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:6cbcbf3ab1076c09"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:6cbcbf3ab1076c09">18.2.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo2Y2JjYmYzYWIxMDc2YzA5" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/18.2.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany Volume 18.2 July 2007&nbsp;</span></td><td class="td-size" data-val="1181155"><span style="font-size: x-small;">1153k</span></td><td class="td-rev" data-val="3"><span style="font-size: x-small;">v. 3  </span></td><td class="td-time" data-val="1305636091753"><span style="font-size: x-small;"><span dir="ltr">17 May 2011, 08:41</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:343e362df68f5aca"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:343e362df68f5aca">19.1.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDozNDNlMzYyZGY2OGY1YWNh" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/19.1.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany Volume 19.1 March 2008&nbsp;</span></td><td class="td-size" data-val="1914795"><span style="font-size: x-small;">1870k</span></td><td class="td-rev" data-val="4"><span style="font-size: x-small;">v. 4  </span></td><td class="td-time" data-val="1304606491525"><span style="font-size: x-small;"><span dir="ltr">5 May 2011, 10:41</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:4ee5aa29e6b12f37"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:4ee5aa29e6b12f37">19.2.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo0ZWU1YWEyOWU2YjEyZjM3" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/19.2.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany Volume 19.2 April 2009&nbsp;&nbsp;</span></td><td class="td-size" data-val="2505158"><span style="font-size: x-small;">2446k</span></td><td class="td-rev" data-val="4"><span style="font-size: x-small;">v. 4  </span></td><td class="td-time" data-val="1304609631974"><span style="font-size: x-small;"><span dir="ltr">5 May 2011, 11:33</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:7ab9e58d60b5b10b"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:7ab9e58d60b5b10b">20.1.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo3YWI5ZTU4ZDYwYjViMTBi" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/20.1.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany Volume 20.1 September 2009&nbsp;&nbsp;</span></td><td class="td-size" data-val="1930859"><span style="font-size: x-small;">1886k</span></td><td class="td-rev" data-val="4"><span style="font-size: x-small;">v. 4  </span></td><td class="td-time" data-val="1304609642319"><span style="font-size: x-small;"><span dir="ltr">5 May 2011, 11:34</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:725f8796b9f64985"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:725f8796b9f64985">20.2.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo3MjVmODc5NmI5ZjY0OTg1" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/20.2.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany Volume 20.2 December 2009&nbsp;</span></td><td class="td-size" data-val="1350098"><span style="font-size: x-small;">1318k</span></td><td class="td-rev" data-val="4"><span style="font-size: x-small;">v. 4  </span></td><td class="td-time" data-val="1304609652201"><span style="font-size: x-small;"><span dir="ltr">5 May 2011, 11:34</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:42b1cb08bc7168e0"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:42b1cb08bc7168e0">21.1.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo0MmIxY2IwOGJjNzE2OGUw" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/21.1.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany Volume 21.1 September 2010&nbsp;</span></td><td class="td-size" data-val="3369694"><span style="font-size: x-small;">3291k</span></td><td class="td-rev" data-val="4"><span style="font-size: x-small;">v. 4  </span></td><td class="td-time" data-val="1304609665024"><span style="font-size: x-small;"><span dir="ltr">5 May 2011, 11:34</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:79dd985e5bd3b342"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:79dd985e5bd3b342">21.2.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo3OWRkOTg1ZTViZDNiMzQy" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/21.2.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany volume 21.2 May 2011&nbsp;</span></td><td class="td-size" data-val="3348006"><span style="font-size: x-small;">3270k</span></td><td class="td-rev" data-val="3"><span style="font-size: x-small;">v. 3  </span></td><td class="td-time" data-val="1306754582910"><span style="font-size: x-small;"><span dir="ltr">30 May 2011, 07:23</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:572e209bf9d1b578"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:572e209bf9d1b578">22.1.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo1NzJlMjA5YmY5ZDFiNTc4" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/22.1.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany volume 22.1 October 2012&nbsp;</span></td><td class="td-size" data-val="4174477"><span style="font-size: x-small;">4077k</span></td><td class="td-rev" data-val="3"><span style="font-size: x-small;">v. 3  </span></td><td class="td-time" data-val="1349515014975"><span style="font-size: x-small;"><span dir="ltr">6 Oct 2012, 05:16</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:58ccbe5b53ea19fb"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:58ccbe5b53ea19fb">MM 22.2.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo1OGNjYmU1YjUzZWExOWZi" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/MM%2022.2.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany Volume 22.2 July 2014&nbsp;</span></td><td class="td-size" data-val="6442905"><span style="font-size: x-small;">6292k</span></td><td class="td-rev" data-val="3"><span style="font-size: x-small;">v. 3  </span></td><td class="td-time" data-val="1405775165944"><span style="font-size: x-small;"><span dir="ltr">19 Jul 2014, 09:06</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:15e7c45010e7f9c0"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:15e7c45010e7f9c0">MM 22.3.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDoxNWU3YzQ1MDEwZTdmOWMw" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/MM%2022.3.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany Volume 22.3 October 2014&nbsp;</span></td><td class="td-size" data-val="2088093"><span style="font-size: x-small;">2039k</span></td><td class="td-rev" data-val="1"><span style="font-size: x-small;">v. 1  </span></td><td class="td-time" data-val="1413490874995"><span style="font-size: x-small;"><span dir="ltr">16 Oct 2014, 16:21</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:6afb9b3672e58666"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:6afb9b3672e58666">MM 23.1.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo2YWZiOWIzNjcyZTU4NjY2" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/MM%2023.1.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany Volume 23.1 March 2015&nbsp;</span></td><td class="td-size" data-val="1847725"><span style="font-size: x-small;">1804k</span></td><td class="td-rev" data-val="1"><span style="font-size: x-small;">v. 1  </span></td><td class="td-time" data-val="1439982187651"><span style="font-size: x-small;"><span dir="ltr">19 Aug 2015, 07:03</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:23791ed0150db708"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:23791ed0150db708">MM 23.2.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDoyMzc5MWVkMDE1MGRiNzA4" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/MM%2023.2.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany Volume 23.2 August 2015&nbsp;</span></td><td class="td-size" data-val="3348493"><span style="font-size: x-small;">3270k</span></td><td class="td-rev" data-val="1"><span style="font-size: x-small;">v. 1  </span></td><td class="td-time" data-val="1439982205807"><span style="font-size: x-small;"><span dir="ltr">19 Aug 2015, 07:03</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:47a3cd7e105a03f0"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:47a3cd7e105a03f0">MM 24.1.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo0N2EzY2Q3ZTEwNWEwM2Yw" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/MM%2024.1.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Mesolithic Miscellany Volume 24.1 June 2016&nbsp;</span></td><td class="td-size" data-val="10367281"><span style="font-size: x-small;">10124k</span></td><td class="td-rev" data-val="1"><span style="font-size: x-small;">v. 1  </span></td><td class="td-time" data-val="1466846129564"><span style="font-size: x-small;"><span dir="ltr">25 Jun 2016, 05:15</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr></tbody></table></div><span style="font-size: x-small;"></span><table class="filecabinet-header" data-name="Supplements" id="JOT_FILECAB_header_Supplements"><tbody><tr><th class="expander"><span style="font-size: x-small;"><span class="expander" data-folder-name="Supplements" role="button" tabindex="0"></span><br /></span></th><th colspan="7"><span style="font-size: x-small;"><span><img src="https://sites.google.com/site/mesolithicmiscellany/system/app/pagetypes/filecabinet/icon-folder.gif" />&nbsp; Supplements</span></span></th></tr></tbody></table><table class="filecabinet-table" id="JOT_FILECAB_folder_Supplements"><tbody><tr id="JOT_FILECAB_container_wuid:gx:278b9407df1ceac0"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:278b9407df1ceac0">18.1HopferauExcavGerman.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDoyNzhiOTQwN2RmMWNlYWMw" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/18.1HopferauExcavGerman.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Die  Ausgrabungen bei Hopferau am Hopfensee: Dr. Stefanie Berg-Hobohm and  Carmen Liebermann M.A. (German version of article from Mesolithic  Miscellany Volume 18.1)&nbsp;</span></td><td class="td-size" data-val="50488"><span style="font-size: x-small;">49k</span></td><td class="td-rev" data-val="5"><span style="font-size: x-small;">v. 5  </span></td><td class="td-time" data-val="1304609682191"><span style="font-size: x-small;"><span dir="ltr">5 May 2011, 11:34</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr><tr id="JOT_FILECAB_container_wuid:gx:7b4b5ded3a483122"><td class="td-select"><span style="font-size: x-small;"><input class="filecabinet-checkbox" type="checkbox" /></span></td><td class="td-icon" style="line-height: 20px;"><span style="font-size: x-small;"><span class="sites-symbol sites-color-adobe-pdf" title="Adobe PDF">Ċ</span></span></td><td class="td-file"><span style="font-size: x-small;"><span class="td-value" id="JOT_FILECAB_label_wuid:gx:7b4b5ded3a483122">18.2Fig4_Friesack4.pdf</span><br /><span style="word-spacing: 3px;"><a dir="ltr" href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtZXNvbGl0aGljbWlzY2VsbGFueXxneDo3YjRiNWRlZDNhNDgzMTIy" target="_blank">View</a> <a dir="ltr" href="https://sites.google.com/site/mesolithicmiscellany/mm-journal/journal-volumes/18.2Fig4_Friesack4.pdf?attredirects=0&amp;d=1">Download</a></span></span></td><td class="td-desc filecabinet-desc" dir="ltr" tabindex="0"><span style="font-size: x-small;">Large version of figure 4 from Friesack 4 Typo-Chronology (Birgit Gehlen: Mesolithic Miscellany Volume 18.2)&nbsp;</span></td><td class="td-size" data-val="100498"><span style="font-size: x-small;">98k</span></td><td class="td-rev" data-val="4"><span style="font-size: x-small;">v. 4  </span></td><td class="td-time" data-val="1305642677559"><span style="font-size: x-small;"><span dir="ltr">17 May 2011, 10:31</span></span></td><td class="td-user"><span style="font-size: x-small;">Rick Schulting</span></td></tr></tbody></table><span style="font-size: small;"></span><table class="filecabinet-table" id="JOT_FILECAB_folder_Supplements"><tbody><tr id="JOT_FILECAB_container_wuid:gx:278b9407df1ceac0"><td class="td-select"><br /></td><td class="td-icon"><br /></td><td class="td-file"><br /></td><td class="td-desc filecabinet-desc" dir="ltr"><br /></td><td class="td-size"><br /></td><td class="td-rev"><br /></td><td class="td-time"><br /></td><td class="td-user"><br /></td></tr><tr id="JOT_FILECAB_container_wuid:gx:7b4b5ded3a483122"><td class="td-select"><br /></td><td class="td-icon"><br /></td><td class="td-file"><br /></td><td class="td-desc filecabinet-desc" dir="ltr"><br /></td><td class="td-size"><br /></td><td class="td-rev"><br /></td><td class="td-time"><br /></td><td class="td-user"><span style="font-size: small;"><br /></span></td></tr></tbody></table></blockquote><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: small;"><span>S</span><span><span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></div></div><div><div style="text-align: center;"><br /></div><br /><br /><br /><br /><br /><br /><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1432357142335936533/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1432357142335936533/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/05/open-access-journal-mesolithic.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1432357142335936533"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1432357142335936533"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/05/open-access-journal-mesolithic.html"
-         title="Open Access Journal:  Mesolithic Miscellany"/>
-    <author>
+         title="Open Access Journal: Mesolithic Miscellany"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

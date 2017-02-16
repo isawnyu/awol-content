@@ -1,226 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1580599707864390836</id>
-    <published>2014-09-08T10:30:00.000-04:00</published>
-    <updated>2014-09-08T10:30:51.158-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1580599707864390836</id>
+   <published>2014-09-08T10:30:00.000-04:00</published>
+   <updated>2014-09-08T10:30:51.158-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Sumerian"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Sumerian"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Grammar"/>
-    <title type="text">Copular Clauses and Focus Marking in Sumerian</title>
-    <content type="html"><![CDATA[<div class="pub-title" id="mainTitle"><a
-      href="http://www.degruyter.com/viewbooktoc/product/447760">Copular Clauses and Focus Marking
-      in Sumerian</a></div><div class="pub-title" id="mainTitle">Zólyomi, Gábor
-      </div><div class="pub-title" id="mainTitle">Publication Date: September
-      2014</div><div class="pub-title" id="mainTitle">ISBN:
-      978-3-11-040170-7</div><div class="publisherTextLabel group">DE GRUYTER
-      OPEN&nbsp;</div><blockquote class="tr_bq"><div class="publisherTextLabel
-      group"><img alt="http://www.degruyter.com/doc/cover/9783110401707k.jpg" class="decoded"
-      src="http://www.degruyter.com/doc/cover/9783110401707k.jpg"
-      />&nbsp;</div></blockquote><blockquote class="tr_bq"><div
-      class="publisherTextLabel group"><h3 id="overviewTitle"><span style="font-size:
-      x-small;">Aims and Scope</span></h3><span style="font-size: x-small;">This
-      work is the first comprehensive description of Sumerian constructions involving a copula. Using
-      around 400 fully glossed examples, it gives a thorough analysis of all uses of the copula,
-      which is one of the least understood and most frequently misinterpreted and consequently
-      mistranslated morphemes in Sumerian. </span></div><div class="publisherTextLabel
-      group"><span style="font-size: x-small;"><br />It starts with a concise
-      introduction into the grammatical structure of Sumerian, followed by a study that is accessible
-      to both linguists and sumerologists, as it applies the terminology of modern descriptive
-      linguistics. It provides the oldest known and documented example of the path of
-      grammaticalization that leads from a copula to a focus marker. It gives the description of
-      Sumerian copular paratactic relative clauses, which make use of an otherwise only scarcely
-      attested relativization strategy. At the end of the book, the reader will have a clear picture
-      about the morphological and syntactic devices used to mark identificational, polarity and
-      sentence focus in Sumerian, one of the oldest documented languages in the world.&nbsp;
-      </span></div></blockquote><div class="publisherTextLabel
-      group"><blockquote><div class="listSection"><div class="innerWrap"><div
-      class="innerWrap2"><div class="contentItem"><h3><span style="font-size:
-      x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.fm/9783110401707.fm.xml">Frontmatter</a></span></h3><div
-      class="page"><span style="font-size: x-small;">Pages
-      I-V</span></div><ul class="resultLinks"><li
-      class="fullContentLi"><div class="fullContentLink"><span style="font-size:
-      x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.fm$002f9783110401707.fm.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.c/9783110401707.c.xml">Contents</a></span></h3><div
-      class="page"><span style="font-size: x-small;">Pages
-      VII-VIII</span></div><ul class="resultLinks"><li
-      class="fullContentLi"><div class="fullContentLink"><span style="font-size:
-      x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.c$002f9783110401707.c.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.ix/9783110401707.ix.xml">Abbreviations</a></span></h3><div
-      class="page"><span style="font-size: x-small;">Pages
-      IX-XI</span></div><ul class="resultLinks"><li
-      class="fullContentLi"><div class="fullContentLink"><span style="font-size:
-      x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.ix$002f9783110401707.ix.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.xii/9783110401707.xii.xml">Acknowledgments</a></span></h3><div
-      class="page"><span style="font-size: x-small;">Pages
-      XII-XII</span></div><ul class="resultLinks"><li
-      class="fullContentLi"><div class="fullContentLink"><span style="font-size:
-      x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.xii$002f9783110401707.xii.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.i/9783110401707.i.xml">Introduction</a></span></h3><div
-      class="page"><span style="font-size: x-small;">Pages
-      1-3</span></div><ul class="resultLinks"><li
-      class="fullContentLi"><div class="fullContentLink"><span style="font-size:
-      x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.i$002f9783110401707.i.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.1/9783110401707.1.xml">1
-      Sumerian in a Nutshell</a></span></h3><div class="page"><span
-      style="font-size: x-small;">Pages 4-16</span></div><ul
-      class="resultLinks"><li class="fullContentLi"><div
-      class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.1$002f9783110401707.1.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.2/9783110401707.2.xml">2
-      Non-verbal Predicates in Sumerian</a></span></h3><div
-      class="page"><span style="font-size: x-small;">Pages
-      17-26</span></div><ul class="resultLinks"><li
-      class="fullContentLi"><div class="fullContentLink"><span style="font-size:
-      x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.2$002f9783110401707.2.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.3/9783110401707.3.xml">3
-      A Typology of Sumerian Copular Clauses</a></span></h3><div
-      class="page"><span style="font-size: x-small;">Pages
-      27-55</span></div><ul class="resultLinks"><li
-      class="fullContentLi"><div class="fullContentLink"><span style="font-size:
-      x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.3$002f9783110401707.3.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.4/9783110401707.4.xml">4
-      Attributive Copular Biclausal Constructions</a></span></h3><div
-      class="page"><span style="font-size: x-small;">Pages
-      56-100</span></div><ul class="resultLinks"><li
-      class="fullContentLi"><div class="fullContentLink"><span style="font-size:
-      x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.4$002f9783110401707.4.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.5/9783110401707.5.xml">5
-      Specificational Copular Biclausal Constructions</a></span></h3><div
-      class="page"><span style="font-size: x-small;">Pages
-      101-151</span></div><ul class="resultLinks"><li
-      class="fullContentLi"><div class="fullContentLink"><span style="font-size:
-      x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.5$002f9783110401707.5.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.6/9783110401707.6.xml">6
-      Subordinate Clauses Followed by a Copula</a></span></h3><div
-      class="page"><span style="font-size: x-small;">Pages
-      152-181</span></div><ul class="resultLinks"><li
-      class="fullContentLi"><div class="fullContentLink"><span style="font-size:
-      x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.6$002f9783110401707.6.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.7/9783110401707.7.xml">7
-      Summary and Outlook</a></span></h3><div class="page"><span
-      style="font-size: x-small;">Pages 182-185</span></div><ul
-      class="resultLinks"><li class="fullContentLi"><div
-      class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.7$002f9783110401707.7.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.186/9783110401707.186.xml">References</a></span></h3><div
-      class="page"><span style="font-size: x-small;">Pages
-      186-192</span></div><ul class="resultLinks"><li
-      class="fullContentLi"><div class="fullContentLink"><span style="font-size:
-      x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.186$002f9783110401707.186.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.193/9783110401707.193.xml">Index
-      of Quoted Texts</a></span></h3><div class="page"><span
-      style="font-size: x-small;">Pages 193-197</span></div><ul
-      class="resultLinks"><li class="fullContentLi"><div
-      class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.193$002f9783110401707.193.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div><div
-      class="contentItem"><h3><span style="font-size: x-small;"><a
-      href="http://www.degruyter.com/view/books/9783110401707/9783110401707.198/9783110401707.198.xml">Index
-      of Subjects</a></span></h3><div class="page"><span style="font-size:
-      x-small;">Pages 198-200</span></div><ul class="resultLinks"><li
-      class="fullContentLi"><div class="fullContentLink"><span style="font-size:
-      x-small;"><a class="pdf-link"
-      href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.198$002f9783110401707.198.pdf?t:ac=product/447760"
-      target="_blank">Download full text pdf </a></span></div></li><li
-      class="openAccess"><span style="font-size: x-small;">Open
-      Access</span></li></ul></div></div></div></div><span
-      style="font-size: x-small;"><a href="https://draft.blogger.com/null" name="comments"
-      shape="rect"></a></span></blockquote><h2 class="toggle"><br
-      /></h2></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Grammar"/>
+   <title type="text">Copular Clauses and Focus Marking in Sumerian</title>
+   <content type="html"><![CDATA[<div class="pub-title" id="mainTitle"><a href="http://www.degruyter.com/viewbooktoc/product/447760">Copular Clauses and Focus Marking in Sumerian</a></div><div class="pub-title" id="mainTitle">Zólyomi, Gábor </div><div class="pub-title" id="mainTitle">Publication Date: September 2014</div><div class="pub-title" id="mainTitle">ISBN: 978-3-11-040170-7</div><div class="publisherTextLabel group">DE GRUYTER OPEN&nbsp;</div><blockquote class="tr_bq"><div class="publisherTextLabel group"><img alt="http://www.degruyter.com/doc/cover/9783110401707k.jpg" class="decoded" src="http://www.degruyter.com/doc/cover/9783110401707k.jpg" />&nbsp;</div></blockquote><blockquote class="tr_bq"><div class="publisherTextLabel group"><h3 id="overviewTitle"><span style="font-size: x-small;">Aims and Scope</span></h3><span style="font-size: x-small;">This  work is the first comprehensive description of Sumerian constructions  involving a copula. Using around 400 fully glossed examples, it gives a  thorough analysis of all uses of the copula, which is one of the least  understood and most frequently misinterpreted and consequently  mistranslated morphemes in Sumerian. </span></div><div class="publisherTextLabel group"><span style="font-size: x-small;"><br />It starts with a concise  introduction into the grammatical structure of Sumerian, followed by a  study that is accessible to both linguists and sumerologists, as it  applies the terminology of modern descriptive linguistics. It provides  the oldest known and documented example of the path of  grammaticalization that leads from a copula to a focus marker. It gives  the description of Sumerian copular paratactic relative clauses, which  make use of an otherwise only scarcely attested relativization strategy.  At the end of the book, the reader will have a clear picture about the  morphological and syntactic devices used to mark identificational,  polarity and sentence focus in Sumerian, one of the oldest documented  languages in the world.&nbsp; </span></div></blockquote><div class="publisherTextLabel group"><blockquote><div class="listSection"><div class="innerWrap"><div class="innerWrap2"><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.fm/9783110401707.fm.xml">Frontmatter</a></span></h3><div class="page"><span style="font-size: x-small;">Pages I-V</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.fm$002f9783110401707.fm.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.c/9783110401707.c.xml">Contents</a></span></h3><div class="page"><span style="font-size: x-small;">Pages VII-VIII</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.c$002f9783110401707.c.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.ix/9783110401707.ix.xml">Abbreviations</a></span></h3><div class="page"><span style="font-size: x-small;">Pages IX-XI</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.ix$002f9783110401707.ix.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.xii/9783110401707.xii.xml">Acknowledgments</a></span></h3><div class="page"><span style="font-size: x-small;">Pages XII-XII</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.xii$002f9783110401707.xii.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.i/9783110401707.i.xml">Introduction</a></span></h3><div class="page"><span style="font-size: x-small;">Pages 1-3</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.i$002f9783110401707.i.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.1/9783110401707.1.xml">1 Sumerian in a Nutshell</a></span></h3><div class="page"><span style="font-size: x-small;">Pages 4-16</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.1$002f9783110401707.1.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.2/9783110401707.2.xml">2 Non-verbal Predicates in Sumerian</a></span></h3><div class="page"><span style="font-size: x-small;">Pages 17-26</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.2$002f9783110401707.2.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.3/9783110401707.3.xml">3 A Typology of Sumerian Copular Clauses</a></span></h3><div class="page"><span style="font-size: x-small;">Pages 27-55</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.3$002f9783110401707.3.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.4/9783110401707.4.xml">4 Attributive Copular Biclausal Constructions</a></span></h3><div class="page"><span style="font-size: x-small;">Pages 56-100</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.4$002f9783110401707.4.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.5/9783110401707.5.xml">5 Specificational Copular Biclausal Constructions</a></span></h3><div class="page"><span style="font-size: x-small;">Pages 101-151</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.5$002f9783110401707.5.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.6/9783110401707.6.xml">6 Subordinate Clauses Followed by a Copula</a></span></h3><div class="page"><span style="font-size: x-small;">Pages 152-181</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.6$002f9783110401707.6.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.7/9783110401707.7.xml">7 Summary and Outlook</a></span></h3><div class="page"><span style="font-size: x-small;">Pages 182-185</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.7$002f9783110401707.7.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.186/9783110401707.186.xml">References</a></span></h3><div class="page"><span style="font-size: x-small;">Pages 186-192</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.186$002f9783110401707.186.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.193/9783110401707.193.xml">Index of Quoted Texts</a></span></h3><div class="page"><span style="font-size: x-small;">Pages 193-197</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.193$002f9783110401707.193.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div><div class="contentItem"><h3><span style="font-size: x-small;"><a href="http://www.degruyter.com/view/books/9783110401707/9783110401707.198/9783110401707.198.xml">Index of Subjects</a></span></h3><div class="page"><span style="font-size: x-small;">Pages 198-200</span></div><ul class="resultLinks"><li class="fullContentLi"><div class="fullContentLink"><span style="font-size: x-small;"><a class="pdf-link" href="http://www.degruyter.com/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/$002fbooks$002f9783110401707$002f9783110401707.198$002f9783110401707.198.pdf?t:ac=product/447760" target="_blank">Download full text pdf </a></span></div></li><li class="openAccess"><span style="font-size: x-small;">Open Access</span></li></ul></div></div></div></div><span style="font-size: x-small;"><a href="https://draft.blogger.com/null" name="comments" shape="rect"></a></span></blockquote><h2 class="toggle"><br /></h2></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1580599707864390836/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1580599707864390836/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/copular-clauses-and-focus-marking-in.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1580599707864390836"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1580599707864390836"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/09/copular-clauses-and-focus-marking-in.html"
          title="Copular Clauses and Focus Marking in Sumerian"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2419038988133809557</id>
+   <published>2016-08-18T14:40:00.000-04:00</published>
+   <updated>2016-08-18T14:42:35.972-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Imaging"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Visualization"/>
+   <title type="text">CHER-Ob: An Open Source Platform for Shared Analysis in Cultural Heritage Research</title>
+   <content type="html"><![CDATA[<a href="http://graphics.cs.yale.edu/site/cher-ob-open-source-platform-shared-analysis-cultural-heritage-research?destination=node%2F188">CHER-Ob: An Open Source Platform for Shared Analysis in Cultural Heritage Research</a><br /><blockquote class="tr_bq"><img alt="CHER-Ob Screenshot" border="0" class="image image-preview " src="http://graphics.cs.yale.edu/site/sites/files/images/screenshot.preview.jpg" height="193" title="CHER-Ob Screenshot" width="320" /> </blockquote><blockquote class="tr_bq"><div style="box-sizing: border-box; color: #333333; font-family: -apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,&quot;Segoe UI Symbol&quot;; line-height: 24px; margin-bottom: 16px; margin-top: 0px;"><span style="font-size: x-small;">CHER-Ob  (CULTURAL HERITAGE-Object) is an open source platform developed in an  attempt to enhance analysis, evaluation, documentation, sharing and  management of 3D and 2D visualizations as well as textual and  conservation science data.</span></div><div style="box-sizing: border-box; color: #333333; font-family: -apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,&quot;Segoe UI Symbol&quot;; line-height: 24px; margin-bottom: 16px; margin-top: 0px;"><span style="font-size: x-small;"><b>Introduction</b></span></div><div style="box-sizing: border-box; color: #333333; font-family: -apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,&quot;Segoe UI Symbol&quot;; line-height: 24px; margin-bottom: 16px; margin-top: 0px;"><span style="font-size: x-small;">The  development of CHER-Ob is intended to offer a flexible, expandable  integrated platform for collaborative cultural heritage research. It is  compatible with commonly used imaging data types (2D and 3D images,  RTIs, CT) and textual information. CHER-Ob offers an enhanced annotation  framework and metadata schema, automatic report generation, bookmark,  screenshot, searching, sorting and filtering options.</span></div><div style="box-sizing: border-box; color: #333333; font-family: -apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,&quot;Segoe UI Symbol&quot;; line-height: 24px; margin-bottom: 16px; margin-top: 0px;"><span style="font-size: x-small;">For a quick into to CHER-Ob please see the <a href="http://graphics.cs.yale.edu/site/sites/files/QUICK-GUIDE.pdf" target="_blank">quick guide</a>. for a detailed explanation of the features see <a href="http://graphics.cs.yale.edu/site/sites/files/manual.pdf" target="_blank">manual</a>. &nbsp;You can also download the <a href="http://graphics.cs.yale.edu/site/sites/files/sample%20projects_0.zip" target="_self">sample projects</a> to further explore the software.</span></div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The source code can be found in Github (<a href="http://github.com/WeiqiJust/CHER-Ob">http://github.com/WeiqiJust/CHER-Ob</a>).<br /><br />CHER-Ob was developed by the Yale Institute for the Preservation of Cultural Heritage in collaboration with Yale Computer Graphics Group through a generous grant from the Seaver Foundation.</span> </blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/2419038988133809557/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/08/cher-ob-open-source-platform-for-shared.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/2419038988133809557"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/2419038988133809557"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/08/cher-ob-open-source-platform-for-shared.html"
+         title="CHER-Ob: An Open Source Platform for Shared Analysis in Cultural Heritage Research"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

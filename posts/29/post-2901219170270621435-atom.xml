@@ -1,96 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2901219170270621435</id>
-    <published>2011-11-24T09:16:00.001-05:00</published>
-    <updated>2011-11-24T09:46:07.506-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2901219170270621435</id>
+   <published>2011-11-24T09:16:00.001-05:00</published>
+   <updated>2011-11-24T09:46:07.506-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Museum of Underwater Archaeology Digital Collections</title>
-    <content type="html"><![CDATA[<a href="http://www.uri.edu/mua/">Museum of Underwater
-      Archaeology</a><br /><blockquote class="tr_bq"><img
-      alt="http://www.themua.org/collections/archive/theme_uploads/252dc6d59dd4089853ebd7e3378409fc.jpg"
-      src="http://www.themua.org/collections/archive/theme_uploads/252dc6d59dd4089853ebd7e3378409fc.jpg"
-      /> </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">The online MUA helps underwater archaeologists and maritime historians present
-      their research on shipwrecks and other sites to the public. Underwater archaeology is a
-      subdiscipline of archaeology, anthropology and maritime history. The links below feature
-      archaeological exhibits and articles.</span><br /><br /><a
-      href="http://www.themua.org/collections/collections">Image and Document
-      Collections</a><br /><h1> <span style="font-size:
-      xx-small;">Collections</span></h1><div class="collection"><h2>
-      <span style="font-size: xx-small;"><a
-      href="http://www.themua.org/collections/collections/show/1">Shipwrecks Over Time -
-      Yongala</a></span></h2><div class="element"><h3> <span
-      style="font-size: xx-small;">Description</span></h3><div
-      class="element-text"><span style="font-size: xx-small;">The Shipwrecks Over Time –
-      Yongala project is an experiment in crowd-sourced image collecting. In an effort to capture the
-      changes over time on an…</span></div></div><div
-      class="view-items-link"><span style="font-size: xx-small;"><a
-      href="http://www.themua.org/collections/items/browse?collection=1">View the items in
-      Shipwrecks Over Time - Yongala</a></span></div></div><div
-      class="collection"><h2> <span style="font-size: xx-small;"><a
-      href="http://www.themua.org/collections/collections/show/2">Asia-Pacific Regional Conference
-      on Underwater Cultural Heritage Proceedings</a></span></h2><div
-      class="element"><h3> <span style="font-size:
-      xx-small;">Description</span></h3><div class="element-text"><span
-      style="font-size: xx-small;">The collected proceedings of the first inaugural Asia-Pacific
-      Regional Conference on Underwater Cultural Heritage
-      conference.</span></div></div><div class="view-items-link"><span
-      style="font-size: xx-small;"><a
-      href="http://www.themua.org/collections/items/browse?collection=2">View the items in
-      Asia-Pacific Regional Conference on Underwater Cultural Heritage
-      Proceedings</a></span></div></div><div
-      class="collection"><h2> <span style="font-size: xx-small;"><a
-      href="http://www.themua.org/collections/collections/show/10">Gray Literature Bibliographic
-      Database 9-16-2011</a></span></h2><div class="element"><h3>
-      <span style="font-size: xx-small;">Description</span></h3><div
-      class="element-text"><span style="font-size: xx-small;">The Gray Literature
-      Bibliographic Database is a combined listing of unpublished site reports, manuscripts, and
-      assorted documents that are not…</span></div></div><div
-      class="view-items-link"><span style="font-size: xx-small;"><a
-      href="http://www.themua.org/collections/items/browse?collection=10">View the items in Gray
-      Literature Bibliographic Database
-      9-16-2011</a></span></div></div></blockquote><span
-      style="font-size: xx-small;"> </span><br /><div
-      class="collection"><span style="font-size: xx-small;"> </span><br
-      /><blockquote><h2> <span style="font-size: xx-small;"><a
-      href="http://www.themua.org/collections/collections/show/11">Asian Maritime Resources
-      Bibliography</a></span></h2><div class="element"><h3> <span
-      style="font-size: xx-small;">Description</span></h3><div
-      class="element-text"><span style="font-size: xx-small;">This bibliography contains a
-      selection of primary and secondary source materials introducing maritime history and
-      archaeology of China, Japan, Korea,…</span></div></div><div
-      class="view-items-link"><span style="font-size: xx-small;"><a
-      href="http://www.themua.org/collections/items/browse?collection=11">View the items in Asian
-      Maritime Resources
-      Bibliography</a></span></div></blockquote></div>]]></content>
-    <link rel="replies"
+   <title type="text">Museum of Underwater Archaeology Digital Collections</title>
+   <content type="html"><![CDATA[<a href="http://www.uri.edu/mua/">Museum of Underwater Archaeology</a><br /><blockquote class="tr_bq"><img alt="http://www.themua.org/collections/archive/theme_uploads/252dc6d59dd4089853ebd7e3378409fc.jpg" src="http://www.themua.org/collections/archive/theme_uploads/252dc6d59dd4089853ebd7e3378409fc.jpg" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The online MUA helps underwater archaeologists and maritime historians  present their research on shipwrecks and other sites to the public.  Underwater archaeology is a subdiscipline of archaeology, anthropology  and maritime history. The links below feature archaeological exhibits and articles.</span><br /><br /><a href="http://www.themua.org/collections/collections">Image and Document Collections</a><br /><h1> <span style="font-size: xx-small;">Collections</span></h1><div class="collection"><h2> <span style="font-size: xx-small;"><a href="http://www.themua.org/collections/collections/show/1">Shipwrecks Over Time - Yongala</a></span></h2><div class="element"><h3> <span style="font-size: xx-small;">Description</span></h3><div class="element-text"><span style="font-size: xx-small;">The Shipwrecks Over Time –  Yongala project is an experiment in crowd-sourced image collecting.  In  an effort to capture the changes over time on an…</span></div></div><div class="view-items-link"><span style="font-size: xx-small;"><a href="http://www.themua.org/collections/items/browse?collection=1">View the items in Shipwrecks Over Time - Yongala</a></span></div></div><div class="collection"><h2> <span style="font-size: xx-small;"><a href="http://www.themua.org/collections/collections/show/2">Asia-Pacific Regional Conference on Underwater Cultural Heritage Proceedings</a></span></h2><div class="element"><h3> <span style="font-size: xx-small;">Description</span></h3><div class="element-text"><span style="font-size: xx-small;">The collected proceedings of the first inaugural Asia-Pacific Regional Conference on Underwater Cultural Heritage conference.</span></div></div><div class="view-items-link"><span style="font-size: xx-small;"><a href="http://www.themua.org/collections/items/browse?collection=2">View the items in Asia-Pacific Regional Conference on Underwater Cultural Heritage Proceedings</a></span></div></div><div class="collection"><h2> <span style="font-size: xx-small;"><a href="http://www.themua.org/collections/collections/show/10">Gray Literature Bibliographic Database 9-16-2011</a></span></h2><div class="element"><h3> <span style="font-size: xx-small;">Description</span></h3><div class="element-text"><span style="font-size: xx-small;">The Gray Literature  Bibliographic Database is a combined listing of unpublished site  reports, manuscripts, and assorted documents that are not…</span></div></div><div class="view-items-link"><span style="font-size: xx-small;"><a href="http://www.themua.org/collections/items/browse?collection=10">View the items in Gray Literature Bibliographic Database 9-16-2011</a></span></div></div></blockquote><span style="font-size: xx-small;">     </span><br /><div class="collection"><span style="font-size: xx-small;">                     </span><br /><blockquote><h2> <span style="font-size: xx-small;"><a href="http://www.themua.org/collections/collections/show/11">Asian Maritime Resources Bibliography</a></span></h2><div class="element"><h3> <span style="font-size: xx-small;">Description</span></h3><div class="element-text"><span style="font-size: xx-small;">This bibliography contains  a selection of primary and secondary source materials introducing  maritime history and archaeology of China, Japan, Korea,…</span></div></div><div class="view-items-link"><span style="font-size: xx-small;"><a href="http://www.themua.org/collections/items/browse?collection=11">View the items in Asian Maritime Resources Bibliography</a></span></div></blockquote></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2901219170270621435/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2901219170270621435/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/11/museum-of-underwater-archaeology.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2901219170270621435"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2901219170270621435"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/11/museum-of-underwater-archaeology.html"
          title="Museum of Underwater Archaeology Digital Collections"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,100 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4089574684256404606</id>
-    <published>2013-07-02T08:53:00.000-04:00</published>
-    <updated>2013-07-02T08:53:14.341-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4089574684256404606</id>
+   <published>2013-07-02T08:53:00.000-04:00</published>
+   <updated>2013-07-02T08:53:14.341-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Conference Proceedings: Exodus: Out of Egypt - Transdisciplinary Perspectives
-      on Archaeology, Text, and Memory</title>
-    <content type="html"><![CDATA[<a href="http://exodus.calit2.net/">Exodus: Out of Egypt -
-      Transdisciplinary Perspectives on Archaeology, Text, and Memory</a><br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">This website does
-      not advocate any solutions to the story of ancient Israel’s Exodus from Egypt, known from the
-      Old Testament or Hebrew Bible. Rather, it highlights new transdisciplinary perspectives on this
-      ancient puzzle based on an international conference held May 31 to June 3, 2013 in Calit2’s
-      Qualcomm Institute at UC San Diego. The conference – Out of Egypt: Israel’s Exodus Between Text
-      and Memory, History and Imagination – brought together more than 40 of the world’s leading
-      archaeologists, Biblical scholars, Egyptologists, historians and geo-scientists. In tandem, the
-      Qualcomm Institute staged an exhibition, EX3: Exodus, Cyber-Archaeology and the Future, through
-      June 9, as an experiment in trans-disciplinary research, team science, and scholarly
-      communication using technologies developed for the museum of the future. Archaeologists and
-      Biblical scholars teamed with computer scientists, engineers, geo-scientists and sonic artists
-      to show how 21st century collaboration in these fields can provide new ways of looking at
-      ancient historical problems. Nearly four dozen scientists contributed their unique expertise
-      and worked “out of the (disciplinary) box” in search of potential answers to historical
-      questions. They explored cyber-archaeology data collection, analyses and dissemination, and the
-      exhibition featured new 3D and large-scale visualization platforms developed by the Qualcomm
-      Institute as prototype display systems for the museum of the future. At right is a collection
-      of images from the conference and exhibition. Below, this portal features streaming video,
-      including an overview of the exhibition, as well as on-demand video of all conference
-      proceedings. At bottom, click on the links to view panels from the exhibition on the
-      significance of the Exodus from an ecumenical perspective in Judaism, Islam, and
-      Christianity.&nbsp;</span></blockquote><blockquote class="tr_bq"><div
-      class="session-day"><span style="font-size: x-small;">EXODUS VIDEO
-      ARCHIVE</span></div><span style="font-size: x-small;"> </span><ul
-      class="example" id="example1"><li class="session-title active firstitem"> <span
-      style="font-size: x-small;"><a class="header opened"
-      href="http://exodus.calit2.net/#">EXHIBITION VIDEO</a></span>
-      <ul><li> <table style="width: 343px;"> <tbody><tr class="agitem"
-      id="agitem-2"> <td class="time"><div class="ytimg" id="ytimg-2"><span
-      style="font-size: x-small;"><a href="http://exodus.calit2.net/#"><img height="50px"
-      src="http://exodus.calit2.net/images/ThomasLevy.jpg" /><br />»view
-      video</a></span></div><span style="font-size: x-small;"><br
-      clear="all" /></span></td> <td class="session"> <span style="font-size:
-      x-small;"><span class="speaker">Virtual Tour of EX3 Exhibition, Thomas E. Levy,
-      Exhibition Organizer</span></span> </td>
-      </tr></tbody></table></li></ul></li><li
-      class="session-title active firstitem"> <span style="font-size: x-small;"><a
-      class="header closed" href="http://exodus.calit2.net/#">OUT OF EGYPT: OPENING
-      REMARKS</a></span> </li><li class="session-title"> <span
-      style="font-size: x-small;"><a class="header closed"
-      href="http://exodus.calit2.net/#">EGYPTOLOGY &amp; EXODUS </a></span>
-      </li><li class="session-title"> <span style="font-size: x-small;"><a
-      class="header closed" href="http://exodus.calit2.net/#">ARCHAEOLOGY &amp; HISTORY
-      </a></span> </li><li class="session-title"> <span style="font-size:
-      x-small;"><a class="header closed" href="http://exodus.calit2.net/#">GEOGRAPHY
-      &amp; EXODUS </a></span> </li><li class="session-title"> <span
-      style="font-size: x-small;"><a class="header closed"
-      href="http://exodus.calit2.net/#">TEXT &amp; MEMORY</a></span>
-      </li><li class="session-title"> <span style="font-size: x-small;"><a
-      class="header closed" href="http://exodus.calit2.net/#">HISTORY &amp;
-      MEMORY</a></span> </li><li class="session-title"> <span
-      style="font-size: x-small;"><a class="header closed"
-      href="http://exodus.calit2.net/#">MYTH &amp; MEMORY</a></span>
-      </li><li class="session-title"> <span style="font-size: x-small;"><a
-      class="header closed" href="http://exodus.calit2.net/#">SCIENCE &amp;
-      HISTORY</a></span> </li><li class="session-title lastitem"><span
-      style="font-size: x-small;"> <a class="header closed"
-      href="http://exodus.calit2.net/#">CLOSING REMARKS</a></span>
-      </li></ul></blockquote><br />]]></content>
-    <link rel="replies"
+   <title type="text">Conference Proceedings: Exodus: Out of Egypt - Transdisciplinary Perspectives on Archaeology, Text, and Memory</title>
+   <content type="html"><![CDATA[<a href="http://exodus.calit2.net/">Exodus: Out of Egypt - Transdisciplinary Perspectives on Archaeology, Text, and Memory</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">This website does not advocate any solutions to the story of ancient  Israel’s Exodus from Egypt, known from the Old Testament or Hebrew  Bible.  Rather, it highlights new transdisciplinary perspectives on this  ancient puzzle based on an international conference held May 31 to June  3, 2013 in Calit2’s Qualcomm Institute at UC San Diego.  The conference  – Out of Egypt: Israel’s Exodus Between Text and Memory, History and  Imagination – brought together more than 40 of the world’s leading  archaeologists, Biblical scholars, Egyptologists, historians and  geo-scientists. In tandem, the Qualcomm Institute staged an exhibition,  EX3: Exodus, Cyber-Archaeology and the Future, through June 9, as an  experiment in trans-disciplinary research, team science, and scholarly  communication using technologies developed for the museum of the future.   Archaeologists and Biblical scholars teamed with computer scientists,  engineers, geo-scientists and sonic artists to show how 21st century  collaboration in these fields can provide new ways of looking at ancient  historical problems.  Nearly four dozen scientists contributed their  unique expertise and worked “out of the (disciplinary) box” in search of  potential answers to historical questions.  They explored  cyber-archaeology data collection, analyses and dissemination, and the  exhibition featured new 3D and large-scale visualization platforms  developed by the Qualcomm Institute as prototype display systems for the  museum of the future.  At right is a collection of images from the  conference and exhibition. Below, this portal features streaming video,  including an overview of the exhibition, as well as on-demand video of  all conference proceedings. At bottom, click on the links to view panels  from the exhibition on the significance of the Exodus from an  ecumenical perspective in Judaism, Islam, and Christianity.&nbsp;</span></blockquote><blockquote class="tr_bq"><div class="session-day"><span style="font-size: x-small;">EXODUS VIDEO ARCHIVE</span></div><span style="font-size: x-small;">             </span><ul class="example" id="example1"><li class="session-title active firstitem">     <span style="font-size: x-small;"><a class="header opened" href="http://exodus.calit2.net/#">EXHIBITION VIDEO</a></span>                 <ul><li>                <table style="width: 343px;">              <tbody><tr class="agitem" id="agitem-2">                  <td class="time"><div class="ytimg" id="ytimg-2"><span style="font-size: x-small;"><a href="http://exodus.calit2.net/#"><img height="50px" src="http://exodus.calit2.net/images/ThomasLevy.jpg" /><br />»view video</a></span></div><span style="font-size: x-small;"><br clear="all" /></span></td>                     <td class="session">                        <span style="font-size: x-small;"><span class="speaker">Virtual Tour of EX3 Exhibition, Thomas E. Levy, Exhibition Organizer</span></span>                      </td>                 </tr></tbody></table></li></ul></li><li class="session-title active firstitem">     <span style="font-size: x-small;"><a class="header closed" href="http://exodus.calit2.net/#">OUT OF EGYPT: OPENING REMARKS</a></span>                      </li><li class="session-title">     <span style="font-size: x-small;"><a class="header closed" href="http://exodus.calit2.net/#">EGYPTOLOGY &amp; EXODUS </a></span>          </li><li class="session-title">     <span style="font-size: x-small;"><a class="header closed" href="http://exodus.calit2.net/#">ARCHAEOLOGY &amp; HISTORY </a></span>          </li><li class="session-title">     <span style="font-size: x-small;"><a class="header closed" href="http://exodus.calit2.net/#">GEOGRAPHY &amp; EXODUS </a></span>          </li><li class="session-title">     <span style="font-size: x-small;"><a class="header closed" href="http://exodus.calit2.net/#">TEXT &amp; MEMORY</a></span>          </li><li class="session-title">     <span style="font-size: x-small;"><a class="header closed" href="http://exodus.calit2.net/#">HISTORY &amp; MEMORY</a></span>          </li><li class="session-title">     <span style="font-size: x-small;"><a class="header closed" href="http://exodus.calit2.net/#">MYTH &amp; MEMORY</a></span>          </li><li class="session-title">     <span style="font-size: x-small;"><a class="header closed" href="http://exodus.calit2.net/#">SCIENCE &amp; HISTORY</a></span>          </li><li class="session-title lastitem"><span style="font-size: x-small;">     <a class="header closed" href="http://exodus.calit2.net/#">CLOSING REMARKS</a></span>          </li></ul></blockquote><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4089574684256404606/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4089574684256404606/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/07/conference-proceedings-exodus-out-of.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4089574684256404606"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4089574684256404606"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/07/conference-proceedings-exodus-out-of.html"
          title="Conference Proceedings: Exodus: Out of Egypt - Transdisciplinary Perspectives on Archaeology, Text, and Memory"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

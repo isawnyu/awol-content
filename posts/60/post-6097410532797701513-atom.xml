@@ -1,120 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6097410532797701513</id>
-    <published>2014-08-13T16:35:00.001-04:00</published>
-    <updated>2014-08-13T16:35:39.242-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6097410532797701513</id>
+   <published>2014-08-13T16:35:00.001-04:00</published>
+   <updated>2014-08-13T16:35:39.242-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Roman Archaeology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Roman Art"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
-    <title type="text">Museo Nacional de Arte Romano (Merida, Spain)</title>
-    <content type="html"><![CDATA[<a href="http://museoarteromano.mcu.es/acceso_catalogo.html">Museo
-      Nacional de Arte Romano</a><br /><blockquote class="tr_bq"><img
-      alt="http://ceres.mcu.es/img/cabecera_MNAR.jpg" class="decoded" height="30"
-      src="http://ceres.mcu.es/img/cabecera_MNAR.jpg" width="320" />
-      </blockquote><blockquote class="tr_bq"> <span style="font-size: x-small;">El
-      origen de las colecciones del Museo Nacional de Arte Romano se sitúa en el siglo XVI cuando don
-      Fernando de Vera y Vargas, señor de Don Tello y Sierra Brava comenzó a formar, en su palacio,
-      una importante colección epigráfica. A partir de estas primeras colecciones y de otros
-      hallazgos arqueológicos en la ciudad de Mérida, habidos entre los siglos XVI y XIX, se crea un
-      primer museo en 1838, institución que radicaría en la iglesia del Convento de Santa Clara. Las
-      siguientes excavaciones arqueológicas conllevarán al incremento de las colecciones del museo y
-      desembocarán, finalmente, en la creación, en 1975, del Museo Nacional de Arte
-      Romano.&nbsp;</span><br /><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;">En la actualidad las colecciones del museo
-      recogen más de 37000 fondos. De ellos sobresalen los comprendidos en la sección de escultura,
-      mosaicos y numismática. Asimismo existe una buena representación de objetos de cerámica y
-      vidrio. El catálogo en línea del museo muestra, en una primera fase, más de 6000 piezas y 10500
-      imágenes. El museo se propone ampliar los fondos visibles incorporando, progresivamente,
-      destacadas piezas del resto de sus colecciones.&nbsp;</span><br /><br
-      /><span style="font-size: x-small;"> </span><span style="font-size:
-      x-small;"><a href="http://museoarteromano.mcu.es/pdf/ayuda_catalogo.pdf" target="_blank"
-      title="Se abre en ventana nueva"><strong>Condiciones de
-      uso</strong></a></span><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;"><a
-      href="http://ceres.mcu.es/pages/SimpleSearch?Museo=MNAR" target="_blank" title="Se abre en
-      ventana nueva"><strong>Acceso al Catálogo</strong></a></span><br
-      /><br /><span style="font-size: x-small;"> </span><span
-      style="font-size: x-small;">DOMUS es un sistema integrado de documentación y gestión
-      museográfica desarrollado por el Ministerio de Cultura (Subdirección General de Museos
-      Estatales y Subdirección General de Tecnologías y Sistemas de la Información). Se trata de una
-      aplicación informática para el catálogo y gestión de los bienes culturales custodiados por los
-      museos.&nbsp;</span><br /><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;">La información de catálogo e imágenes
-      digitales de las colecciones del museo se muestran al público a través de esta página web, y
-      forman parte ya de la Red Digital de Colecciones de Museos de España.
-      </span></blockquote><div class="buscadorVinculosFila1"> <blockquote
-      class="tr_bq"><ul id="menuBusquedas"><li class="activo"><span
-      style="font-size: x-small;"><a href="http://ceres.mcu.es/pages/SimpleSearch?Museo=MNAR"
-      title="Búsqueda General">Búsqueda
-      General</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://ceres.mcu.es/pages/AdvancedSearch?Museo=MNAR" title="Búsqueda
-      por Campos">Búsqueda por Campos</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://ceres.mcu.es/pages/AdvancedSearchUnion?Museo=MNAR" title="Búsqueda
-      Avanzada">Búsqueda
-      Avanzada</a></span></li></ul></blockquote></div><div
-      class="menuCabecera"><blockquote class="tr_bq"><ul
-      class="listaH"><li><span style="font-size: x-small;"><a
-      href="http://museoarteromano.mcu.es/mapa.html" title=""><span lang="en">Mapa
-      Web</span> | </a></span></li><li><span style="font-size:
-      x-small;"><a href="http://museoarteromano.mcu.es/Contacte.html"><span
-      lang="en">Contacte</span></a> | </span></li><li><span
-      style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/index_en.html"
-      title="Cambio de idioma al"><span lang="en">English</span> |
-      </a></span></li><li><span style="font-size: x-small;"><a
-      href="http://museoarteromano.mcu.es/por/index.html" title="Cambio de idioma al"><span
-      lang="en">Portugues</span></a></span>
-      </li></ul></blockquote></div><blockquote>
-      <ul><li><span style="font-size: x-small;"><a
-      href="http://museoarteromano.mcu.es/index.html">INICIO</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://museoarteromano.mcu.es/informacion.html">INFORMACIÓN</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://museoarteromano.mcu.es/historia.html">HISTORIA</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://museoarteromano.mcu.es/visita_virtual.html">VISITA
-      VIRTUAL</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://museoarteromano.mcu.es/acceso_catalogo.html">COLECCIONES</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://museoarteromano.mcu.es/restauracion.html">DEPARTAMENTOS</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.museoromano.com/actividades/congresos_cursos_seminarios.html">ACTIVIDADES</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://museoarteromano.mcu.es/publicaciones_anas.html">PUBLICACIONES</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.museoromano.com/novedades/">NOVEDADES</a></span></li><li><span
-      style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/mapa.html">MAPA
-      WEB</a></span></li></ul></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Roman Art"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Roman Archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
+   <title type="text">Museo Nacional de Arte Romano (Merida, Spain)</title>
+   <content type="html"><![CDATA[<a href="http://museoarteromano.mcu.es/acceso_catalogo.html">Museo Nacional de Arte Romano</a><br /><blockquote class="tr_bq"><img alt="http://ceres.mcu.es/img/cabecera_MNAR.jpg" class="decoded" height="30" src="http://ceres.mcu.es/img/cabecera_MNAR.jpg" width="320" /> </blockquote><blockquote class="tr_bq">			<span style="font-size: x-small;">El origen de las colecciones del Museo Nacional de Arte Romano se  sitúa en el siglo XVI cuando don Fernando de Vera y Vargas, señor de Don  Tello y Sierra Brava comenzó a formar, en su palacio, una importante  colección epigráfica. A partir de estas primeras colecciones y de otros  hallazgos arqueológicos en la ciudad de Mérida, habidos entre los siglos  XVI y XIX, se crea un primer museo en 1838, institución que radicaría  en la iglesia del Convento de Santa Clara. Las siguientes excavaciones  arqueológicas conllevarán al incremento de las colecciones del museo y  desembocarán, finalmente, en la creación, en 1975, del Museo Nacional de  Arte Romano.&nbsp;</span><br /><br /><span style="font-size: x-small;">		 		</span><span style="font-size: x-small;">En la actualidad las colecciones del museo recogen más de 37000  fondos. De ellos sobresalen los comprendidos en la sección de escultura,  mosaicos y numismática. Asimismo existe una buena representación de  objetos de cerámica y vidrio. El catálogo en línea del museo muestra, en  una primera fase, más de 6000 piezas y 10500 imágenes. El museo se  propone ampliar los fondos visibles incorporando, progresivamente,  destacadas piezas del resto de sus colecciones.&nbsp;</span><br /><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/pdf/ayuda_catalogo.pdf" target="_blank" title="Se abre en ventana nueva"><strong>Condiciones de uso</strong></a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://ceres.mcu.es/pages/SimpleSearch?Museo=MNAR" target="_blank" title="Se abre en ventana nueva"><strong>Acceso al Catálogo</strong></a></span><br /><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">DOMUS es un sistema integrado de documentación y gestión  museográfica desarrollado por el Ministerio de Cultura (Subdirección  General de Museos Estatales y Subdirección General de Tecnologías y  Sistemas de la Información). Se trata de una aplicación informática para  el catálogo y gestión de los bienes culturales custodiados por los  museos.&nbsp;</span><br /><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">La información de catálogo e imágenes digitales de las colecciones  del museo se muestran al público a través de esta página web, y forman  parte ya de la Red Digital de Colecciones de Museos de España. </span></blockquote><div class="buscadorVinculosFila1">		<blockquote class="tr_bq"><ul id="menuBusquedas"><li class="activo"><span style="font-size: x-small;"><a href="http://ceres.mcu.es/pages/SimpleSearch?Museo=MNAR" title="Búsqueda General">Búsqueda General</a></span></li><li><span style="font-size: x-small;"><a href="http://ceres.mcu.es/pages/AdvancedSearch?Museo=MNAR" title="Búsqueda por Campos">Búsqueda por Campos</a></span></li><li><span style="font-size: x-small;"><a href="http://ceres.mcu.es/pages/AdvancedSearchUnion?Museo=MNAR" title="Búsqueda Avanzada">Búsqueda Avanzada</a></span></li></ul></blockquote></div><div class="menuCabecera"><blockquote class="tr_bq"><ul class="listaH"><li><span style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/mapa.html" title=""><span lang="en">Mapa Web</span> |    </a></span></li><li><span style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/Contacte.html"><span lang="en">Contacte</span></a> | </span></li><li><span style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/index_en.html" title="Cambio de idioma al"><span lang="en">English</span> | </a></span></li><li><span style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/por/index.html" title="Cambio de idioma al"><span lang="en">Portugues</span></a></span> </li></ul></blockquote></div><blockquote>  <ul><li><span style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/index.html">INICIO</a></span></li><li><span style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/informacion.html">INFORMACIÓN</a></span></li><li><span style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/historia.html">HISTORIA</a></span></li><li><span style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/visita_virtual.html">VISITA    VIRTUAL</a></span></li><li><span style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/acceso_catalogo.html">COLECCIONES</a></span></li><li><span style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/restauracion.html">DEPARTAMENTOS</a></span></li><li><span style="font-size: x-small;"><a href="http://www.museoromano.com/actividades/congresos_cursos_seminarios.html">ACTIVIDADES</a></span></li><li><span style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/publicaciones_anas.html">PUBLICACIONES</a></span></li><li><span style="font-size: x-small;"><a href="http://www.museoromano.com/novedades/">NOVEDADES</a></span></li><li><span style="font-size: x-small;"><a href="http://museoarteromano.mcu.es/mapa.html">MAPA WEB</a></span></li></ul></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6097410532797701513/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6097410532797701513/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/08/museo-nacional-de-arte-romano-merida.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6097410532797701513"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6097410532797701513"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/08/museo-nacional-de-arte-romano-merida.html"
          title="Museo Nacional de Arte Romano (Merida, Spain)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

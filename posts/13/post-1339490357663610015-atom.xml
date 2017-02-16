@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1339490357663610015</id>
+   <published>2016-12-08T14:15:00.000-05:00</published>
+   <updated>2016-12-08T14:15:56.875-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <title type="text">Online Guide to Evagrius Ponticus Updated</title>
+   <content type="html"><![CDATA[<a href="http://ancientworldonline.blogspot.com/2012/01/online-guide-to-evagrius-ponticus.html">Online Guide to Evagrius Ponticus</a> Updated<br /><blockquote class="tr_bq"><span style="font-size: x-small;">I’ve just released a major overhaul to the infrastructure I use to deliver my <a href="http://evagriusponticus.net/bibliography.htm">bibliography</a></span></blockquote><blockquote><span style="font-size: x-small;">To previous users, the difference will not be very noticeable, since I’m using much the same CSS. (In fact it may be less exciting than the previous version, because the page has been somewhat simplified.) But the way I’m delivering and processing the bibliography has changed radically. I’ve switched javascript libraries from Exhibit to Tablesorter. I’ve also altered the pipeline that integrates the Zotero database with data about the corpus of Evagrius (see the integration at <a href="http://evagriusponticus.net/corpus.htm">http://evagriusponticus.net/corpus.htm</a>). That pipeline is now an XSLT spreadsheet that synthesizes the Zotero RDF file with a TAN-rdf file (a new XML format I’m developing). That somewhat complicated pipeline includes an algorithm to generate Chicago-style humanities bibliography. For anyone interested in the technical underpinnings, all the code is available here:<br /><br /><a href="https://github.com/guide-to-evagrius-ponticus/guide">https://github.com/guide-to-evagrius-ponticus/guide</a></span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Joel Kalvesmaki<br />Managing Editor, Byzantine Studies<br />Dumbarton Oaks </span></blockquote><br />]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/1339490357663610015/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/12/online-guide-to-evagrius-ponticus.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1339490357663610015"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1339490357663610015"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/12/online-guide-to-evagrius-ponticus.html"
+         title="Online Guide to Evagrius Ponticus Updated"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

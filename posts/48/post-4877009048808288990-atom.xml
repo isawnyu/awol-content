@@ -1,187 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4877009048808288990</id>
-    <published>2012-11-28T20:08:00.003-05:00</published>
-    <updated>2012-11-28T20:08:57.002-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4877009048808288990</id>
+   <published>2017-01-05T17:13:00.000-05:00</published>
+   <updated>2017-01-05T17:13:46.482-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">JSTOR Access for Alumni Program</title>
-    <content type="html"><![CDATA[Are you currently unaffiliated with a subscribing institution and need
-      access to JSTOR?&nbsp; See if your University is listed below, if not, contact your alumni
-      association and request that they join the program.<br /><br /><a
-      href="http://about.jstor.org/alumni#Institutions-in-program">JSTOR Access for
-      Alumni</a><br /><div class="description1"><blockquote
-      class="tr_bq"><span style="font-size: x-small;">The new Alumni Access program is an
-      important step in our ongoing efforts to extend access to scholarship to individuals around the
-      world. It enables eligible&nbsp;higher education institutions to provide their alumni with
-      full access to the same set of archive collection content available to current students and
-      faculty.</span><br /><br /><span style="font-size: x-small;">The launch
-      of the Alumni Access program follows a successful 3-year pilot that was undertaken with nearly
-      50 institutions, including public and private institutions, US and overseas universities, and
-      theological seminaries. We introduced the pilot to address interest from our participating
-      institutions, and to examine whether this access model may help to serve the access requests
-      from individuals who are no longer active students at participating institutions. This pilot
-      helped JSTOR and our partner libraries understand the implementation issues and to develop an
-      approach that we believe will be valuable and sustainable.</span><br /><div
-      class="accordionContr"> <div class="tabListCntr subscribe"> <ul
-      class="tabList"><li class=""><span style="font-size: x-small;"><a
-      href="http://about.jstor.org/alumni#How-to-subscribe">How to
-      subscribe</a></span></li></ul></div></div></blockquote><div
-      class="accorion-wrapper"> <div class="tabAccrdContr tabContent Institutions-in-program"
-      id="content" style="display: block;"> <blockquote><span style="font-size:
-      x-small;">The institutions below offer ongoing access to JSTOR to their alumni. Follow the
-      links below or contact your alumni society for more information.</span><br /><ul
-      class="dataList"><li> <span style="font-size: x-small;"><a
-      href="https://alumnet.agnesscott.edu/Default.aspx" target="_blank">Agnes Scott
-      College</a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://www.american.edu/library/services/alumni.cfm"
-      target="_blank">American University</a></span></li><li> <span
-      style="font-size: x-small;"><a href="https://www.amherst.edu/library/services/acalumni"
-      target="_blank">Amherst College</a></span></li><li> <span
-      style="font-size: x-small;"><a href="http://guides.asburyseminary.edu/alumni"
-      target="_blank">Asbury Theological Seminary</a></span></li><li>
-      <span style="font-size: x-small;"><a
-      href="https://alumni.bowdoin.edu/gateway/sslpage.aspx?pid=1085" target="_blank">Bowdoin
-      College</a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://www.b-link.bucknell.edu/s/754/start-template.aspx"
-      target="_blank">Bucknell University</a></span></li><li> <span
-      style="font-size: x-small;"><a href="http://library.case.edu/ksl/services/alumni"
-      target="_blank">Case Western Reserve University</a></span></li><li>
-      <span style="font-size: x-small;"><a href="http://www.ctu.edu/library/services"
-      target="_blank">Catholic Theological Union</a></span></li><li>
-      <span style="font-size: x-small;"><a
-      href="https://alumni-friends.library.columbia.edu/eresources.html" target="_blank">Columbia
-      University</a></span></li><li> <span style="font-size:
-      x-small;"><a
-      href="http://www.dartmouth.edu/%7Elibrary/alumni/search.html?mswitch-redir=classic"
-      target="_blank">Dartmouth
-      College</a>&nbsp;<strong>NEW!</strong></span></li><li>
-      <span style="font-size: x-small;"><a
-      href="http://www.deakin.edu.au/library/services/alumni/alumnidatabases.php"
-      target="_blank">Deakin University</a></span></li><li> <span
-      style="font-size: x-small;"><a href="http://library.dbs.ie/AboutLibrary/Membership.htm"
-      target="_blank">Dublin Business
-      School</a>&nbsp;<strong>NEW!</strong></span></li><li>
-      <span style="font-size: x-small;"><a
-      href="http://www.dukealumni.com/get-involved/support-daa/member-benefits"
-      target="_blank">Duke University</a></span></li><li> <span
-      style="font-size: x-small;"><a href="https://www.dunelm.org.uk/sslpage.aspx?pid=197"
-      target="_blank">Durham University</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://www.gelman.gwu.edu/search-1/electronic-resources-for-alumni"
-      target="_blank">George Washington University</a></span></li><li>
-      <span style="font-size: x-small;"><a
-      href="http://libraryguides.goucher.edu/aftergoucher" target="_blank">Goucher
-      College</a></span></li><li> <span style="font-size:
-      x-small;"><a href="https://fords.haverford.edu/login/index.aspx"
-      target="_blank">Haverford College</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://www.juilliard.edu/alumni/benefits/nationwide.php" target="_blank">The Julliard
-      School</a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://alumni.kcl.ac.uk/page.aspx?pid=5003" target="_blank">King's
-      College,
-      London</a>&nbsp;<strong>NEW!</strong></span></li><li>
-      <span style="font-size: x-small;"><a
-      href="http://www.m25lib.ac.uk/london_business_school.html" target="_blank">London Business
-      School</a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://www.macalester.edu/alumni/macdirect/"
-      target="_blank">Macalester College</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://library.njit.edu/services/alumni/online-dbs.php" target="_blank">New Jersey
-      Institute of Technology</a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://www.ohiostatealumni.org/resources/Pages/jstor.aspx"
-      target="_blank">The Ohio State
-      University</a>&nbsp;<strong>NEW!</strong></span></li><li>
-      <span style="font-size: x-small;"><a
-      href="http://alumni.libraries.psu.edu/members.html" target="_blank">Pennsylvania State
-      University</a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://library.rice.edu/about/Alumni_and_Friends/alumni"
-      target="_blank">Rice University</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://alumni.saintmeinrad.edu/news/61320/Alumni-get-free-access-to-JSTOR-journals.htm"
-      target="_blank">Saint Meinrad School of Theology</a></span></li><li>
-      <span style="font-size: x-small;"><a
-      href="https://www.soasalumni.org/page.aspx?pid=186&amp;bm=-201641850"
-      target="_blank">School of Oriental and African
-      Studies</a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://alumnae.smith.edu/cms/?smithstories=jstor-access-for-alumnae"
-      target="_blank">Smith College</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://siualumni.com/s/664/alt.aspx?sid=664&amp;gid=1&amp;pgid=762"
-      target="_blank">Southern Illinois University</a></span></li><li>
-      <span style="font-size: x-small;"><a
-      href="http://library.buffalo.edu/libraries/helpAZ/Alumni.html" target="_blank">SUNY at
-      Buffalo</a></span></li><li> <span style="font-size:
-      x-small;"><a
-      href="http://www.alumniconnections.com/olc/pub/SWT/homepage.cgi">Swarthmore
-      College</a>&nbsp;<strong>NEW!</strong></span></li><li>
-      <span style="font-size: x-small;"><a
-      href="https://www.abdnalumni.org/NetCommunity/SSLPage.aspx?&amp;pid=199&amp;srcid=199"
-      target="_blank">University of Aberdeen</a></span></li><li> <span
-      style="font-size: x-small;"><a href="https://www.uva-alumni.nl/sslpage.aspx?pid=361"
-      target="_blank">University of Amsterdam</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://www.library.arizona.edu/about/giving/dblogin/?type=alumni"
-      target="_blank">University of
-      Arizona</a>&nbsp;<strong>NEW!</strong></span></li><li>
-      <span style="font-size: x-small;"><a
-      href="http://alumni.exeter.ac.uk/NetCommunity/Page.aspx?pid=325" target="_blank">University
-      of Exeter</a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://www.uflib.ufl.edu/giving/jstor.html"
-      target="_blank">University of Florida</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://alumni.liv.ac.uk/netcommunity/page.aspx?pid=1335" target="_blank">University of
-      Liverpool</a></span></li><li> <span style="font-size:
-      x-small;"><a href="http://www.ull.ac.uk/library/alumniplusinfo.shtml"
-      target="_blank">University of London</a></span></li><li> <span
-      style="font-size: x-small;"><a
-      href="http://netstaff.cmsstage.manchester.ac.uk/news/display/?id=8087"
-      target="_blank">University of Manchester</a></span></li><li>
-      <span style="font-size: x-small;"><a
-      href="https://www.alumniweb.ox.ac.uk/secure/page.aspx?pid=1698" target="_blank">University
-      of Oxford</a></span></li><li> <span style="font-size:
-      x-small;"><a
-      href="http://alumni.blogs.wlu.edu/jstor-added-to-list-of-data-bases-available-to-wl-alumni/"
-      target="_blank">Washington and Lee
-      University</a>&nbsp;<strong>NEW!</strong></span></li><li>
-      <span style="font-size: x-small;"><a
-      href="http://www.aya.yale.edu/content/jstor-access" target="_blank">Yale
-      University</a></span></li></ul></blockquote></div></div><br
-      /><div style="text-align: center;">And see also<span style="font-family: 'PrimaSans
-      BT,Verdana,sans-serif';">&nbsp;</span></div><div style="text-align:
-      center;"><span style="font-family: 'PrimaSans BT,Verdana,sans-serif';"><a
-      href="http://ancientworldonline.blogspot.com/2009/06/ancient-world-in-jstor.html">The
-      Ancient World in JSTOR</a>&nbsp;</span></div><div style="text-align:
-      center;"><span style="font-family: 'PrimaSans BT,Verdana,sans-serif';">AWOL's full
-      list of journals in JSTOR with substantial representation of the Ancient
-      World</span></div></div>]]></content>
-    <link rel="replies"
+   <title type="text">JSTOR Access for Alumni Program</title>
+   <content type="html"><![CDATA[<span style="font-size: x-small;">[First posted in AWOL 28 November 2012, updated 5 January 2017] </span><br /><br />Are you currently unaffiliated with a subscribing institution and need access to JSTOR?&nbsp; See if your University is listed below, if not, contact your alumni association and request that they join the program.<br /><br /><a href="http://about.jstor.org/alumni#Institutions-in-program">JSTOR Access for Alumni</a><br /><div class="description1"><blockquote class="tr_bq"><span style="font-size: x-small;">Alumni Access enables institutions to  provide their entire alumni network with full access to the high-quality  journal collections on JSTOR. JSTOR’s trusted digital library is an  essential resource for thousands of colleges and universities worldwide.<br /><br />View <a href="http://www.cni.org/news/video-jstors-alumni-program/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+DHNowUnfiltered+%28DH+Now++%C2%BB++Unfiltered%29" target="new">Extending Access to Scholarly Resources: JSTOR's Alumni Program</a>, a presentation given at CNI's membership meeting.<br /><br /><strong>Don't see your alma mater among the list of participating institutions?</strong> Take a minute to <a href="https://www.surveymonkey.com/s/6PV7FF3">tell us what JSTOR access means to you</a>. We’ll share it with your alma mater.<br /></span>          <div class="accordionContr">                         <div class="tabListCntr subscribe">              <ul class="tabList"><li><span style="font-size: x-small;"><a href="http://about.jstor.org/alumni?cid=soc_tw_JSTOR#How-to-subscribe">How to subscribe</a></span></li><li class="selected"><span style="font-size: x-small;"><a href="http://about.jstor.org/alumni?cid=soc_tw_JSTOR#Institutions-in-program">Institutions in program</a></span></li><li><span style="font-size: x-small;"><a href="http://about.jstor.org/alumni?cid=soc_tw_JSTOR#Testimonials">Testimonials</a></span></li></ul></div></div><div class="tabAccrdContr tabContent Institutions-in-program" id="content" style="display: block;">              <span style="font-size: x-small;">The institutions below offer ongoing JSTOR access to their alumni. Click on the institution name for access instructions.</span><br /><ul class="dataList wService"><li><span style="font-size: x-small;"><a href="https://alumnet.agnesscott.edu/Default.aspx" target="_blank">Agnes Scott College</a></span></li><li><span style="font-size: x-small;"><a href="http://www.american.edu/library/services/alumni.cfm" target="_blank">American University</a></span></li><li><span style="font-size: x-small;"><a href="https://www.amherst.edu/library/services/acalumni" target="_blank">Amherst College</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.antiochcollege.org/2013-antioch/pages/antioch-online-community/2013JSTOR" target="_blank">Antioch College</a></span></li><li><span style="font-size: x-small;"><a href="http://guides.asburyseminary.edu/alumni" target="_blank">Asbury Theological Seminary</a></span></li><li><span style="font-size: x-small;"><a href="http://simons-rock.edu/alumni/jstor" target="new">Bard College at Simon's Rock</a></span></li><li><span style="font-size: x-small;"><a href="http://www.bu.edu/alumni/need/benefits/" target="_blank">Boston University</a></span></li><li><span style="font-size: x-small;"><a href="https://alumni.bowdoin.edu/gateway/sslpage.aspx?pid=1085" target="_blank">Bowdoin College</a></span></li><li><span style="font-size: x-small;"><a href="https://securelb.imodules.com/s/1614/index.aspx?sid=1614&amp;gid=1&amp;pgid=3&amp;cid=40&amp;returnurl=http%3a%2f%2fbrandeis.imodules.com%2fs%2f1614%2findex.aspx%3fsid%3d1614%26gid%3d1%26pgid%3d707">Brandeis University</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.brown.edu/services/library/jstor_access.aspx" target="blank">Brown University</a></span></li><li><span style="font-size: x-small;"><a href="https://www.alumniconnections.com/olc/pub/BMC//cpages/jstor/jstor.jsp" target="_blank"> Bryn Mawr College</a></span></li><li><span style="font-size: x-small;"><a href="http://www.b-link.bucknell.edu/s/754/start-template.aspx" target="_blank">Bucknell University</a></span></li><li><span style="font-size: x-small;"><a href="http://www.cmu.ca/community.php?s=alumni&amp;p=card&amp;submit=jstor" target="_blank">Canadian Mennonite University</a></span></li><li><span style="font-size: x-small;"><a href="https://apps.carleton.edu/campus/library/about/alumni/">Carleton College</a></span></li><li><span style="font-size: x-small;"><a href="http://library.case.edu/ksl/services/alumni" target="_blank">Case Western Reserve University</a></span></li><li><span style="font-size: x-small;"><a href="http://www.ctu.edu/library/services" target="_blank">Catholic Theological Union</a></span></li><li><span style="font-size: x-small;"><a href="http://www.ceu.edu/article/2015-02-12/remote-ceu-library-access-alumni-now-available">Central European University</a></span></li><li><span style="font-size: x-small;"><a href="http://www.wmalumni.com/JSTOR" target="_blank"> The College of William &amp; Mary</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.colby.edu/s/1470/index.aspx?sid=1470&amp;gid=1&amp;pgid=1628">Colby College</a></span></li><li><span style="font-size: x-small;"><a href="https://alumni-friends.library.columbia.edu/eresources.html" target="_blank">Columbia University</a></span></li><li><span style="font-size: x-small;"><a href="http://www.alumniconnections.com/olc/membersonly/CTC/library.html" target="_blank">Connecticut College</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.library.cornell.edu/resources" target="new">Cornell University</a></span></li><li><span style="font-size: x-small;"><a href="http://libguides.gc.cuny.edu/alumni-library-resources" target="_blank">CUNY Graduate Center</a></span></li><li><span style="font-size: x-small;"><a href="http://www.dartmouth.edu/%7Elibrary/alumni/search.html?mswitch-redir=classic" target="_blank">Dartmouth College</a></span></li><li><span style="font-size: x-small;"><a href="http://www.deakin.edu.au/library/services/alumni/alumnidatabases.php" target="_blank">Deakin University</a></span></li><li><span style="font-size: x-small;"><a href="http://library.dbs.ie/AboutLibrary/Membership.htm" target="_blank">Dublin Business School</a></span></li><li><span style="font-size: x-small;"><a href="http://www.dukealumni.com/get-involved/support-daa/member-benefits" target="_blank">Duke University</a></span></li><li><span style="font-size: x-small;"><a href="https://www.dunelm.org.uk/sslpage.aspx?pid=197" target="_blank">Durham University</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.ewu.edu/s/1530/index-EvList.aspx?sid=1530&amp;gid=1&amp;pgid=1280">Eastern Washington University</a></span></li><li><span style="font-size: x-small;"><a href="http://library.edgehill.ac.uk/screens/alumnieresources.html" target="_blank">Edge Hill University </a></span></li><li><span style="font-size: x-small;"><a href="http://www.gelman.gwu.edu/search-1/electronic-resources-for-alumni" target="_blank">George Washington University</a></span></li><li><span style="font-size: x-small;"><a href="http://my.gordonconwell.edu/page.aspx?pid=412" target="_blank">Gordon-Conwell Theological Seminary </a></span></li><li><span style="font-size: x-small;"><a href="https://fords.haverford.edu/login/index.aspx" target="_blank">Haverford College</a></span></li><li><span style="font-size: x-small;"><a href="http://www.hollins.edu/library/services/alumni.shtml" target="new">Hollins University</a></span></li><li><span style="font-size: x-small;"><a href="http://www.imperial.ac.uk/alumni/page.aspx?pid=2597" target="_blank">Imperial College London</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.indiana.edu/my-iu/index.html" target="_blank">Indiana University </a></span></li><li><span style="font-size: x-small;"><a href="http://www.juilliard.edu/alumni/benefits/nationwide.php" target="_blank">The Juilliard School</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.kcl.ac.uk/page.aspx?pid=5003" target="_blank">King's College, London</a></span></li><li><span style="font-size: x-small;"><a href="http://www.lib.latrobe.edu.au/databases/terms.php?I=ARL78000" target="new">La Trobe University</a></span></li><li><span style="font-size: x-small;"><a href="http://jstor.lafayette.edu/" target="_blank">Lafayette College</a></span></li><li><span style="font-size: x-small;"><a href="http://www.lancaster.ac.uk/alumni/">Lancaster University</a></span></li><li><span style="font-size: x-small;"><a href="http://space.lcm.ac.uk/course/view.php?id=56&amp;section=9" target="new">Leeds College of Music</a></span></li><li><span style="font-size: x-small;"><a href="https://alumnilogin.library.leidenuniv.nl/">Leiden University</a></span></li><li><span style="font-size: x-small;"><a href="http://www.senatehouselibrary.ac.uk/membership/university-of-london/" target="_blank">London Business School</a></span></li><li><span style="font-size: x-small;"><a href="https://www.marlboro.edu/communities/alumni/" target="_blank"> Marlboro College</a></span></li><li><span style="font-size: x-small;"><a href="http://www.macalester.edu/alumni/macdirect/" target="_blank">Macalester College</a></span></li><li><span style="font-size: x-small;"><a href="http://www.alumniconnections.com/olc/membersonly/MRY/jstor.html" target="blank">Marymount University</a></span></li><li><span style="font-size: x-small;"><a href="https://alum.mit.edu//benefits/AlumniBenefits/e-journal" target="blank">Massachusetts Institute of Technology</a></span></li><li><span style="font-size: x-small;"><a href="http://www.massey.ac.nz/massey/research/library/the-library-for/alumni/alumni_access.cfm" target="_blank">Massey University</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.os.mcmaster.ca/s/1439/wide.aspx?sid=1439&amp;gid=1&amp;pgid=386" target="_blank">McMaster University</a></span></li><li><span style="font-size: x-small;"><a href="http://www.alumniconnections.com/olc/membersonly/MDR/jstor.jsp" target="_blank">Middlebury College</a></span></li><li><span style="font-size: x-small;"><a href="http://libguides.nps.edu/Alumni" target="_blank">Naval Postgraduate School</a></span></li><li><span style="font-size: x-small;"><a href="https://library.nyu.edu/about/visiting/visitor-access-to-nyu-libraries/alumni/" target="_blank">New York University </a></span></li><li><span style="font-size: x-small;"><a href="http://new.oberlin.edu/office/alumni/index.dot" target="_blank">Oberlin College</a></span></li><li><span style="font-size: x-small;"><a href="http://www.open.ac.uk/" style="line-height: 1.538em;" target="_blank">The Open University, UK (MBA alumni only)</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.libraries.psu.edu/members.html" target="_blank">Pennsylvania State University</a></span></li><li><span style="font-size: x-small;"><a href="http://infoguides.pepperdine.edu/alumni" target="_blank">Pepperdine University</a></span></li><li><span style="font-size: x-small;"><a href="https://library.ptsem.edu/pts-alumni-ae" target="_blank"> Princeton Theological Seminary</a></span></li><li><span style="font-size: x-small;"><a href="https://alumnicas.princeton.edu/tigernetcas/login?service=https://tigernet.princeton.edu/olc/pub/PRU/login/PRU-extauth.cgi%3furl=%26province=tigernetcas" target="_blank"> Princeton University</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.providence.edu/s/1226/alumni3col.aspx?sid=1226&amp;gid=1&amp;pgid=254" target="_blank"> Providence College</a></span></li><li><span style="font-size: x-small;"><a href="http://jstor.reed.edu/" target="_blank"> Reed College </a></span></li><li><span style="font-size: x-small;"><a href="http://library.rice.edu/about/Alumni_and_Friends/alumni" target="_blank">Rice University</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.saintmeinrad.edu/news/61320/Alumni-get-free-access-to-JSTOR-journals.htm" target="_blank">Saint Meinrad School of Theology</a></span></li><li><span style="font-size: x-small;"><a href="https://www.soasalumni.org/page.aspx?pid=186&amp;bm=-201641850" target="_blank">School of Oriental and African Studies</a></span></li><li><span style="font-size: x-small;"><a href="http://cms.skidmore.edu/alumni_association/index.cfm" target="_blank">Skidmore College</a></span></li><li><span style="font-size: x-small;"><a href="http://alumnae.smith.edu/cms/?smithstories=jstor-access-for-alumnae" target="_blank">Smith College</a></span></li><li><span style="font-size: x-small;"><a href="http://siualumni.com/s/664/alt.aspx?sid=664&amp;gid=1&amp;pgid=762" target="_blank">Southern Illinois University</a></span></li><li><span style="font-size: x-small;"><a href="http://www.smu.edu/libraries/alumni" target="_blank"> Southern Methodist University</a></span></li><li><span style="font-size: x-small;"><a href="http://library.buffalo.edu/libraries/helpAZ/Alumni.html" target="_blank">SUNY at Buffalo</a></span></li><li><span style="font-size: x-small;"><a href="http://www.alumniconnections.com/olc/pub/SWT/homepage.cgi">Swarthmore College</a></span></li><li><span style="font-size: x-small;"><a href="http://tuftsalumni.org/benefits-services/" target="_blank">Tufts University</a></span></li><li><span style="font-size: x-small;"><a href="http://web.trinity.edu/x8025.xml">Trinity University</a></span></li><li><span style="font-size: x-small;"><a href="https://www.ucl.ac.uk/alumni/benefits/alumniejournals" target="_blank">University College London</a></span></li><li><span style="font-size: x-small;"><a href="https://www.abdnalumni.org/page.aspx?pid=199&amp;tab=2" target="_blank">University of Aberdeen</a></span></li><li><span style="font-size: x-small;"><a href="http://www.uva-alumni.nl/page.aspx?pid=890" target="_blank">University of Amsterdam</a></span></li><li><span style="font-size: x-small;"><a href="http://www.library.arizona.edu/about/giving/dblogin/?type=alumni" target="_blank">University of Arizona</a></span></li><li><span style="font-size: x-small;"><a href="http://www.alumni.cam.ac.uk/benefits/jstor/" target="new"> University of Cambridge</a></span></li><li><span style="font-size: x-small;"><a href="http://www.dbq.edu/library/jstorforalum.cfm" target="_blank"> University of Dubuque</a></span></li><li><span style="font-size: x-small;"><a href="https://www.myed.ed.ac.uk/" target="_blank">University of Edinburgh</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.essex.ac.uk/NetCommunity/jstor" target="_blank">University of Essex</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.exeter.ac.uk/NetCommunity/Page.aspx?pid=325" target="_blank">University of Exeter</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.liv.ac.uk/netcommunity/page.aspx?pid=1335" target="_blank">University of Liverpool</a></span></li><li><span style="font-size: x-small;"><a href="http://www.senatehouselibrary.ac.uk/membership/university-of-london/" target="_blank">University of London</a></span></li><li><span style="font-size: x-small;"><a href="http://netstaff.cmsstage.manchester.ac.uk/news/display/?id=8087" target="_blank">University of Manchester</a></span></li><li><span style="font-size: x-small;"><a href="http://www.bib.uni-mannheim.de/132.html?&amp;L=0" target="new">University of Mannheim</a></span></li><li><span style="font-size: x-small;"><a href="https://www.alumni.unsw.edu.au/benefits-and-services">University of New South Wales</a></span></li><li><span style="font-size: x-small;"><a href="https://www.alumniweb.ox.ac.uk/secure/page.aspx?pid=1698" target="_blank">University of Oxford</a></span></li><li><span style="font-size: x-small;"><a href="http://guides.library.upenn.edu/content.php?pid=433644&amp;sid=3548078" target="_blank">University of Pennsylvania </a></span></li><li><span style="font-size: x-small;"><a href="http://www.library.uq.edu.au/services-for/services-for-uq-alumni" target="_blank">University of Queensland</a></span></li><li><span style="font-size: x-small;"><a href="http://uronline.net/JSTOR" target="new">University of Richmond</a></span></li><li><span style="font-size: x-small;"><a href="https://alumniportal.ur.rochester.edu/" target="new">University of Rochester</a></span></li><li><span style="font-size: x-small;"><a href="https://securelb.imodules.com/s/1374/alumni/index.aspx?sid=1374&amp;gid=2&amp;pgid=3&amp;cid=40&amp;returnurl=http%3a%2f%2ftoreronetwork.sandiego.edu%2fs%2f1374%2falumni%2findex.aspx%3fsid%3d1374%26gid%3d2%26pgid%3d1387" target="new">University of San Diego</a></span></li><li><span style="font-size: x-small;"><a href="http://library.sewanee.edu/library/jstorforalumni" target="_blank">University of the South</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.usc.edu/benefits/libraries/" target="_blank">University of Southern California</a></span></li><li><span style="font-size: x-small;"><a href="http://www.lib.uts.edu.au/borrow/membership/alumni-databases" target="new">University of Technology, Sydney</a></span></li><li><span style="font-size: x-small;"><a href="https://www.texasexes.org/benefits/ut-library-use" target="_blank">University of Texas</a></span></li><li><span style="font-size: x-small;"><a href="http://www2.warwick.ac.uk/alumni/services/" target="_blank">University of Warwick</a></span></li><li><span style="font-size: x-small;"><a href="http://www.yorkspace.net/jstor" target="new">University of York</a></span></li><li><span style="font-size: x-small;"><a href="http://www.wabash.edu/alumni/eServices" target="new">Wabash College</a></span></li><li><span style="font-size: x-small;"><a href="http://alumni.blogs.wlu.edu/jstor-added-to-list-of-data-bases-available-to-wl-alumni/" target="_blank">Washington and Lee University</a></span></li><li><span style="font-size: x-small;"><a href="http://libguides.wellesley.edu/alumnae">Wellesley College</a></span></li><li><span style="font-size: x-small;"><a href="http://wesconnect.wesleyan.edu/library" target="_blank">Wesleyan University</a></span></li><li><span style="font-size: x-small;"><a href="https://securelb.imodules.com/s/1670/interior.aspx?sid=1670&amp;gid=2&amp;pgid=3&amp;cid=40&amp;returnurl=https%3A%2F%2Fsecurelb.imodules.com%2F%3Fsid%3D1670%26sssodest%3DWLMSAlumniWeb" target="_blank">Williams College</a></span></li><li><span style="font-size: x-small;"><a href="http://www.aya.yale.edu/content/jstor-access" target="_blank">Yale University</a></span></li></ul></div></blockquote><br /><div style="text-align: center;">And see also<span style="font-family: &quot;primasans bt,verdana,sans-serif&quot;;">&nbsp;</span></div><div style="text-align: center;"><span style="font-family: &quot;primasans bt,verdana,sans-serif&quot;;"><a href="http://ancientworldonline.blogspot.com/2009/06/ancient-world-in-jstor.html">The   Ancient World in JSTOR</a>&nbsp;</span></div><div style="text-align: center;"><span style="font-family: &quot;primasans bt,verdana,sans-serif&quot;;">AWOL's full list of journals in JSTOR with   substantial representation of the Ancient World</span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4877009048808288990/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4877009048808288990/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/11/jstor-access-for-alumni-program.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4877009048808288990"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4877009048808288990"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/11/jstor-access-for-alumni-program.html"
          title="JSTOR Access for Alumni Program"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

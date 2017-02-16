@@ -1,98 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4151876827717371737</id>
-    <published>2014-02-14T07:06:00.001-05:00</published>
-    <updated>2014-02-14T07:06:18.051-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4151876827717371737</id>
+   <published>2014-02-14T07:06:00.001-05:00</published>
+   <updated>2016-09-05T15:11:30.775-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Announcement: Digital Fragmenta Historicorum Graecorum (DFHG) Project</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.dh.uni-leipzig.de/wo/open-philology-project/the-leipzig-open-fragmentary-texts-series-lofts/digital-fragmenta-historicorum-graecorum-dfhg-project/">Digital
-      Fragmenta Historicorum Graecorum (DFHG) Project</a><br /><div
-      class="entry-content clearfix"> <blockquote class="tr_bq"><div style="text-align:
-      justify;"><span style="font-size: x-small;">As a first step within the <a
-      href="http://www.dh.uni-leipzig.de/wo/open-philology-project/the-leipzig-open-fragmentary-texts-series-lofts/"
-      title="The Leipzig Open Fragmentary Texts Series (LOFTS)"><em>Leipzig Open Fragmentary
-      Texts Series</em> (LOFTS)</a>, the Humboldt Chair announces the <em>Digital
-      Fragmenta Historicorum Graecorum</em> (DFHG) Project, whose goal is to produce a digital
-      edition of the five volumes of Karl Müller’s <a
-      href="http://archive.org/search.php?query=Fragmenta%20creator%3A%22Mueller%2C%20Karl%2C%20Historian%22"
-      target="_blank" title="Opens in new tab"><em>Fragmenta Historicorum
-      Graecorum</em></a> (FHG) (1841-1870), which is the first big collection of
-      fragments of Greek historians ever realized.</span></div><div style="text-align:
-      justify;"><br /></div><div style="text-align: justify;"><span
-      style="font-size: x-small;">Karl Müller’s FHG consists of a survey of excerpts from many
-      different sources pertaining to more than 600 fragmentary authors. Excluding the first volume,
-      these authors are chronologically distributed and cover a very long period (from the 6th
-      century BC down to the 7th century CE). Fragments are numbered sequentially and arranged
-      according to works and book numbers (when such information is available). Every fragment is
-      translated into Latin. The first volume includes also the text of the <em>Marmor
-      Parium</em> – with Latin translation, chronological table, and commentary – and the Greek
-      text of the Rosetta Stone (<em>Rosettanum</em>) – with a French literal translation
-      as well as a critical, historical and archaeological commentary. The fifth volume includes a
-      section with fragments of Greek and Syriac historians preserved in Armenian sources (in French
-      translation).</span></div><div style="text-align: justify;"><br
-      /></div><div style="text-align: justify;"><span style="font-size:
-      x-small;">While produced two centuries ago and superseded by the monumental edition of Felix
-      Jacoby (<em>Die Fragmente der griechischen Historiker</em>), Müller’s FHG is still
-      a fundamental contribution to Greek fragmentary historiography. In particular, it is very
-      suitable for providing rapid, broad coverage and an extensive foundation upon which a new
-      generation of born-digital editions of fragmentary texts can
-      build.</span></div><div style="text-align: justify;"><br
-      /></div><div style="text-align: justify;"><span style="font-size:
-      x-small;">Müller’s five volumes have been transcribed into a simple text format&nbsp;and
-      are being converted into a TEI XML edition, where the excerpts become machine-actionable
-      quotations that can be automatically aligned not only to the original source editions from
-      which Müller drew but also to any other open editions.</span></div><div
-      style="text-align: justify;"><br /></div><div style="text-align:
-      justify;"><span style="font-size: x-small;">As part of the <em>Leipzig Open
-      Fragmentary Texts Series</em> (LOFTS), the DFHG Project uses the EpiDoc subset of the
-      Text Encoding Initiative as its XML tagset and an XSLT template is being created in order to
-      help encoders better visualize the markup. The original pages of Müller’s FHG will be displayed
-      to visualize the original layout. The DFHG uses also the CTS/CITE Architecture, and all data in
-      DFHG will be available under a Creative Commons Attribution-ShareAlike
-      license.</span></div><div style="text-align: justify;"><span
-      style="font-size: x-small;">The DFHG Project allows to create a large amount of annotations
-      of text re-uses on surviving sources, concurrently building a big survey of fragmentary authors
-      and works, which are part of the <a href="http://catalog.perseus.org/" target="_blank"
-      title="Opens in new tab">Perseus Catalog</a>. Latin translations published by Müller
-      are aligned to the Greek text through <a href="http://alpheios.net/" target="_blank"
-      title="Opens in new tab">Alpheios</a>.</span></div><div
-      style="text-align: justify;"><br /></div><div style="text-align:
-      justify;"><span style="font-size:
-      x-small;"><strong>Documentation</strong></span></div><ul><li><span
-      style="font-size: x-small;"><a
-      href="https://docs.google.com/document/d/1T6_2QXx1NVRE5irlQtYKtgkZhJTcq07_wjrWhoRpO1k/edit?usp=sharing"
-      style="color: #05a9c5;" target="_blank">DFHG Guidelines (1.0)</a> (contributing to the
-      general <span>EpiDoc
-      Guidelines</span>)</span></li></ul></blockquote></div>]]></content>
-    <link rel="replies"
+   <title type="text">Announcement: Digital Fragmenta Historicorum Graecorum (DFHG) Project</title>
+   <content type="html"><![CDATA[&nbsp;For the launch of this project <a href="http://ancientworldonline.blogspot.com/2016/09/launched-digital-fragmenta-historicorum.html">see now here</a>.<br /><br />&nbsp;<a href="http://www.dh.uni-leipzig.de/wo/dfhg/">Digital Fragmenta Historicorum Graecorum (DFHG) Project</a><br /><div class="entry-content clearfix"><blockquote class="tr_bq"><div style="text-align: justify;"><span style="font-size: x-small;">As a first step within the <a href="http://www.dh.uni-leipzig.de/wo/open-philology-project/the-leipzig-open-fragmentary-texts-series-lofts/" title="The Leipzig Open Fragmentary Texts Series (LOFTS)"><i>Leipzig Open Fragmentary Texts Series</i> (LOFTS)</a>, the Humboldt Chair announces the <i>Digital Fragmenta Historicorum Graecorum</i> (DFHG) Project, whose goal is to produce a digital edition of the five volumes of Karl Müller’s <a href="http://archive.org/search.php?query=Fragmenta%20creator%3A%22Mueller%2C%20Karl%2C%20Historian%22" target="_blank" title="Opens in new tab"><i>Fragmenta Historicorum Graecorum</i></a> (FHG) (1841-1870), which is the first big collection of fragments of Greek historians ever realized.</span></div><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;">Karl Müller’s FHG consists of a survey  of excerpts from many different sources pertaining to more than 600  fragmentary authors. Excluding the first volume, these authors are  chronologically distributed and cover a very long period (from the 6th  century BC down to the 7th century CE). Fragments are numbered  sequentially and arranged according to works and book numbers (when such  information is available). Every fragment is translated into Latin. The  first volume includes also the text of the <i>Marmor Parium</i> – with Latin translation, chronological table, and commentary – and the Greek text of the Rosetta Stone (<i>Rosettanum</i>)  – with a French literal translation as well as a critical, historical  and archaeological commentary. The fifth volume includes a section with  fragments of Greek and Syriac historians preserved in Armenian sources  (in French translation).</span></div><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;">While produced two centuries ago and superseded by the monumental edition of Felix Jacoby (<i>Die Fragmente der griechischen Historiker</i>),  Müller’s FHG is still a fundamental contribution to Greek fragmentary  historiography. In particular, it is very suitable for providing rapid,  broad coverage and an extensive foundation upon which a new generation  of born-digital editions of fragmentary texts can build.</span></div><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;">Müller’s five volumes have been  transcribed into a simple text format&nbsp;and are being converted into a TEI  XML edition, where the excerpts become machine-actionable quotations  that can be automatically aligned not only to the original source  editions from which Müller drew but also to any other open editions.</span></div><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;">As part of the <i>Leipzig Open Fragmentary Texts Series</i> (LOFTS), the DFHG Project uses the EpiDoc subset of the Text Encoding  Initiative as its XML tagset and an XSLT template is being created in  order to help encoders better visualize the markup. The original pages  of Müller’s FHG will be displayed to visualize the original layout. The  DFHG uses also the CTS/CITE Architecture, and all data in DFHG will be  available under a Creative Commons Attribution-ShareAlike license.</span></div><div style="text-align: justify;"><span style="font-size: x-small;">The DFHG Project allows to create a  large amount of annotations of text re-uses on surviving sources,  concurrently building a big survey of fragmentary authors and works,  which are part of the <a href="http://catalog.perseus.org/" target="_blank" title="Opens in new tab">Perseus Catalog</a>. Latin translations published by Müller are aligned to the Greek text through <a href="http://alpheios.net/" target="_blank" title="Opens in new tab">Alpheios</a>.</span></div><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="font-size: x-small;"><b>Documentation</b></span></div><span style="font-size: x-small;"></span><ul><li><span style="font-size: x-small;"><a href="https://docs.google.com/document/d/1T6_2QXx1NVRE5irlQtYKtgkZhJTcq07_wjrWhoRpO1k/edit?usp=sharing" target="_blank">DFHG Guidelines (1.0)</a> (contributing to the general <a href="http://www.stoa.org/epidoc/gl/latest/" target="_blank">EpiDoc Guidelines</a>).</span></li><li><span style="font-size: x-small;"><a href="https://docs.google.com/spreadsheet/ccc?key=0AjbUiC-X1utCdERpVExHbko2R3luUjMtYm9neUxCVnc&amp;usp=drive_web#gid=0" target="_blank">DFHG Authors (Progress)</a>.</span></li><li><span style="font-size: x-small;">EpiDoc-encoded DFHG authors are&nbsp;progressively added to the <a href="http://opengreekandlatin.github.io/dfhg-dev/" target="_blank">DFHG GitHub</a> repository for everyone to download, improve and share in accordance with our <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" title="Opens in new tab">CC BY-SA 4.0 International License</a>.</span></li></ul></blockquote></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4151876827717371737/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4151876827717371737/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/02/announcement-digital-fragmenta.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4151876827717371737"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4151876827717371737"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/02/announcement-digital-fragmenta.html"
          title="Announcement: Digital Fragmenta Historicorum Graecorum (DFHG) Project"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

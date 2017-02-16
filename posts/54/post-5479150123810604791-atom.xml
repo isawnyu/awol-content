@@ -1,62 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5479150123810604791</id>
-    <published>2012-10-07T10:29:00.000-04:00</published>
-    <updated>2012-12-11T16:01:24.786-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5479150123810604791</id>
+   <published>2016-10-01T13:47:00.000-04:00</published>
+   <updated>2016-10-01T16:10:55.146-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Late Antiquity"/>
-    <title type="text">Open Access Journal: The Heroic Age</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a
-      href="http://ancientworldonline.blogspot.com/2009/11/eleven-more-open-access-journals.html">30
-      November 2009</a>. Updated 7 October 2012]</span><br /><br /><a
-      href="http://www.heroicage.org/">The Heroic Age. A Journal of Early Medieval Northwestern
-      Europe</a><br />ISSN: 1526-1867<br /><blockquote class="tr_bq"><img
-      alt="http://www.heroicage.org/images/ha3.gif" class="decoded"
-      src="http://www.heroicage.org/images/ha3.gif"
-      /></blockquote><blockquote><span style="font-size: 85%;"><i>The
-      Heroic Age</i> is dedicated to the exploration all aspects of early medieval Northwestern
-      Europe, from a variety of vantage points and disciplines from the beginning of the fourth
-      century through the beginning of the thirteenth. By bringing various points of view to the
-      table, we hope to open new vistas of investigation and strengthen ties among early medieval
-      studies and its popular bases. The title "Heroic Age" is applicable to literary, historical,
-      folkloric studies and the material culture that lies behind the people who lived, wrote, and
-      championed their beliefs and created cultures in the period. We will strive to understand and
-      promote understanding of this dynamic early medieval
-      period.</span></blockquote><div style="text-align: center;"><span
-      style="font-size: x-small;"><span><span style="font-family: inherit;"><span
-      style="font-weight: normal;"><span style="font-size: small;">See the full
-      </span><a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html"><span
-      style="font-size: small;">List of Open Access Journals in Ancient
-      Studie</span>s</a></span></span></span></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Late Antiquity"/>
+   <title type="text">Open Access Journal: The Heroic Age</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a href="http://ancientworldonline.blogspot.com/2009/11/eleven-more-open-access-journals.html">30 November 2009</a>. Updated 1 October 2016]</span><br /><br /><a href="http://www.heroicage.org/">The Heroic Age. A Journal of Early Medieval Northwestern Europe</a><br />ISSN: 1526-1867<br /><blockquote class="tr_bq"><img alt="http://www.heroicage.org/images/ha3.gif" class="decoded" src="http://www.heroicage.org/images/ha3.gif" /></blockquote><blockquote><span style="font-size: x-small;"><cite>The Heroic Age</cite> is a fully peer-reviewed academic journal. </span></blockquote><blockquote>         <span style="font-size: x-small;"><cite>The Heroic Age</cite> focuses on  Northwestern Europe during the early medieval period (from the early 4<span class="sup">th</span> through 13<span class="sup">th</span> centuries). We seek to foster dialogue between all scholars of this  period across ethnic and disciplinary boundaries, including—but not  limited to—history, archaeology, and literature pertaining to the  period. </span></blockquote><blockquote>         <span style="font-size: x-small;"><cite>The Heroic Age</cite> publishes issues within the broad  context of Early Medieval Northwestern Europe. Each issue has a  "general" section and a "themed" section. Please consult the <a href="http://www.heroicage.org/callforpapers.php">Call for Papers</a> for information about upcoming themed sections. For any questions about  the suitability of topics, please contact Larry Swain, Editor-in-Chief.</span></blockquote><blockquote class="tr_bq"><a href="http://www.heroicage.org/issues/1/hatoc.htm"><span style="font-size: x-small;">Issue 1—Early Arthurian Tradition: Text and Context (Spring/Summer 1999)</span></a><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/2/ha2toc.htm">		Issue 2—(Fall/Winter 1999)</a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/3/toc.html">		Issue 3—Anglo-Saxon Attitudes (Spring/Summer 2000)</a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/4/toc.html">		Issue 4—Anglo-Celtic Relations in the Early Middle Ages (Fall/Winter 2000)</a></span><br /><span style="font-size: x-small;">  </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/5/toc.html">		Issue 5—Anthropological and Cultural Approaches to <i>Beowulf</i> (Spring/Summer 2001)</a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/6/toc.html">	        Issue 6—Connections and Interconnections:&nbsp; The British Isles and the Continent 400–1000 (Spring 2003)</a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/7/toc.html">		Issue 7—General Issue (Summer 2004)</a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/8/toc.html">		Issue 8—Traders, Saints, and Pirates:&nbsp; 					The Sea in Early Medieval Northwestern Europe (Summer 2005)</a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/9/toc.html">		Issue 9—Oswald, King and Saint: His Britain and Beyond (October 2006)</a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/10/toc.html">		Issue 10—Saints (March 2007)</a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/11/toc.php">		Issue 11—Folklore (May 2008)</a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/12/toc.php">		Issue 12—(May 2009)</a></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/13/toc.php">		Issue 13—(August 2010)</a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/14/toc.php">		Issue 14—(November 2010)</a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/15/toc.php">		Issue 15—(October 2012)</a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><a href="http://www.heroicage.org/issues/16/index.php">		Issue 16—(April–July 2015)</a></span></blockquote><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: small;"><span>S</span><span><span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5479150123810604791/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5479150123810604791/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/10/open-access-journal-heroic-age.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5479150123810604791"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5479150123810604791"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/10/open-access-journal-heroic-age.html"
          title="Open Access Journal: The Heroic Age"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

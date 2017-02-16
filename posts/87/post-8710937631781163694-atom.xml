@@ -1,111 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8710937631781163694</id>
-    <published>2014-09-05T11:05:00.000-04:00</published>
-    <updated>2014-09-05T11:53:05.717-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8710937631781163694</id>
+   <published>2014-09-05T11:05:00.000-04:00</published>
+   <updated>2014-09-05T11:53:05.717-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
-    <title type="text">Sylloge Nummorum Graecorum</title>
-    <content type="html"><![CDATA[<a href="http://www.sylloge-nummorum-graecorum.org/">Sylloge Nummorum
-      Graecorum</a><br /><blockquote class="tr_bq"><img
-      src="http://www.s137585473.websitehome.co.uk/SNG_Web/images/SNG_Logo.jpg"
-      /></blockquote><blockquote class="tr_bq"><div class="body"><span
-      style="font-size: x-small;">The <i>Sylloge Nummorum Graecorum</i> is a <a
-      class="body" href="http://www.britac.ac.uk/">British Academy</a> Research Project, the
-      purpose of which is to publish illustrated catalogues of Greek coins in public and private
-      collections in the British Isles. </span></div><div class="body"><span
-      style="font-size: x-small;"><i>SNG</i> has retained the traditional, very broad,
-      definition of 'Greek' to include the coins produced by all ancient civilisations of the
-      Mediterranean and neighbouring regions except Rome, though it does include the Roman Provincial
-      series often known as 'Greek Imperials'.&nbsp;</span></div><div
-      class="body"><br /></div><div class="body"><span style="font-size:
-      x-small;">The project was inaugurated in 1931 with the publication of the collection of
-      Capt. E.G. Spencer-Churchill. A new and distinctive format was used, with text and
-      illustrations on facing pages. This meant that only limited text was included, with the
-      illustrations having greater prominence than in earlier types of catalogues, and to some extent
-      replacing textual descriptions. This is because the primary purpose of <i>SNG</i>
-      was to make much more material available for study. This format has been retained ever since
-      and has been adopted, along with the title <i>Sylloge Nummorum Graecorum</i>, for
-      similar projects in many other countries, including Denmark, France, Germany, Greece, Israel,
-      Sweden, Switzerland and the United States.&nbsp;</span></div><div
-      class="body"><br /></div><div class="body"><span style="font-size:
-      x-small;">To date, the British <i>SNG</i> project has published over 30
-      fascicules from many different public and private collections, and the total world-wide exceeds
-      120 volumes. The project is supported by the Union Académique Internationale and information on
-      <i>SNG</i> activities world-wide is now co-ordinated by the International
-      Numismatic Commission. The <i>SNG</i> format has effectively become standard for
-      the cataloguing of Greek coins for academic study, and it has also been adopted for other
-      series, e.g. the <i>Sylloge of Coins of the British Isles
-      (SCBI)</i>.</span></div></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;">While the output of the Sylloge
-      Nummorum Graecorum project has traditionally been volumes of text and plates, in recent years
-      digital recording of this material has begun to take place. A relational database application
-      has been funded by <a class="bodyR" href="http://www.britac.ac.uk/">The British
-      Academy</a> specifically for the recording of numismatic data and this application forms
-      the basis of the electronic publication of this data on the WWW.
-      </span></blockquote><blockquote><span style="font-size:
-      x-small;"><br />This does not indicate a change in the aims of SNG but rather a
-      recognition that the information SNG publishes should be available in forms other than printed
-      books. </span><span style="font-size: x-small;"><br />Currently some 25,000
-      coins from the Sylloge Nummorum Graecorum volumes are online in the form of a searchable
-      database. The original data has been normalised to ensure consistent searches across the
-      volumes. Eventually the database may be expanded to include unpublished material. The
-      application will thus provide hugely increased access to SNG
-      data.</span></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><br /></span><div align="center" style="margin-bottom: 0px;
-      margin-top: 6px;"><span style="font-size: x-small;"><a class="body"
-      href="http://www.s137585473.websitehome.co.uk/SNG_Web/pages/01_01_Project.htm"><img
-      alt="Project" border="0"
-      src="http://www.s137585473.websitehome.co.uk/SNG_Web/buttons/10_Point/01_Project_Hover.jpg"
-      height="35" id="Project" width="135" /></a></span></div><div
-      align="center" style="margin-bottom: 0px; margin-top: 0px;"><span style="font-size:
-      x-small;"><a class="body"
-      href="http://www.s137585473.websitehome.co.uk/SNG_Web/pages/02_01_Committee.htm"><img
-      alt="Committee" border="0"
-      src="http://www.s137585473.websitehome.co.uk/SNG_Web/buttons/11_Point/02_Committee.jpg"
-      height="35" id="Committee" width="135" /></a></span></div><div
-      align="center" style="margin-bottom: 0px; margin-top: 0px;"><span style="font-size:
-      x-small;"><a class="body"
-      href="http://www.s110120695.websitehome.co.uk/PHP/SNG_PHP/04_01_Search.php"><img
-      alt="Database" border="0"
-      src="http://www.s137585473.websitehome.co.uk/SNG_Web/buttons/11_Point/03_Database.jpg"
-      height="35" id="Database" width="135" /></a></span></div><div
-      align="center" style="margin-bottom: 0px; margin-top: 0px;"><span style="font-size:
-      x-small;"><a class="body"
-      href="http://www.s137585473.websitehome.co.uk/SNG_Web/pages/05_01_Publications.htm"><img
-      alt="Publications" border="0"
-      src="http://www.s137585473.websitehome.co.uk/SNG_Web/buttons/11_Point/05_Publications.jpg"
-      height="35" id="Publications" width="135" /></a></span><a class="body"
-      href="http://www.s137585473.websitehome.co.uk/SNG_Web/pages/05_01_Publications.htm"></a></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <title type="text">Sylloge Nummorum Graecorum</title>
+   <content type="html"><![CDATA[<a href="http://www.sylloge-nummorum-graecorum.org/">Sylloge Nummorum Graecorum</a><br /><blockquote class="tr_bq"><img src="http://www.s137585473.websitehome.co.uk/SNG_Web/images/SNG_Logo.jpg" /></blockquote><blockquote class="tr_bq"><div class="body"><span style="font-size: x-small;">The <i>Sylloge Nummorum  Graecorum</i> is a <a class="body" href="http://www.britac.ac.uk/">British Academy</a>  Research Project, the purpose of which is to publish illustrated catalogues  of Greek coins in public and private collections in the British Isles. </span></div><div class="body"><span style="font-size: x-small;"><i>SNG</i> has retained the traditional, very broad, definition of 'Greek' to include  the coins produced by all ancient civilisations of the Mediterranean and  neighbouring regions except Rome, though it does include the Roman  Provincial series often known as 'Greek Imperials'.&nbsp;</span></div><div class="body"><br /></div><div class="body"><span style="font-size: x-small;">The project was inaugurated in 1931 with the publication of the collection of Capt. E.G.  Spencer-Churchill. A new and distinctive format was used, with text and  illustrations on facing pages. This meant that only limited text was  included, with the illustrations having greater prominence than in earlier  types of catalogues, and to some extent replacing textual descriptions. This  is because the primary purpose of <i>SNG</i> was to make much more material  available for study. This format has been retained ever since and has been  adopted, along with the title <i>Sylloge Nummorum Graecorum</i>, for similar  projects in many other countries, including Denmark, France, Germany,  Greece, Israel, Sweden, Switzerland and the United States.&nbsp;</span></div><div class="body"><br /></div><div class="body"><span style="font-size: x-small;">To date, the British <i>SNG</i> project has published over 30 fascicules from many different public and  private collections, and the total world-wide exceeds 120 volumes. The  project is supported by the Union Académique Internationale and information  on <i>SNG</i> activities world-wide is now co-ordinated by the International  Numismatic Commission. The <i>SNG</i> format has effectively become standard  for the cataloguing of Greek coins for academic study, and it has also been  adopted for other series, e.g. the <i>Sylloge of Coins of the British Isles  (SCBI)</i>.</span></div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">While the output of the Sylloge Nummorum Graecorum project has traditionally been volumes of text and plates, in recent years digital recording of this material has begun to take place. A relational database application has been funded by <a class="bodyR" href="http://www.britac.ac.uk/">The British Academy</a> specifically for the recording of numismatic data and this application forms the basis of the electronic publication of this data on the WWW. </span></blockquote><blockquote><span style="font-size: x-small;"><br />This does not indicate a change in the aims of SNG but rather a recognition that the information SNG publishes should be available in forms other than printed books. </span><span style="font-size: x-small;"><br />Currently some 25,000 coins from the Sylloge Nummorum Graecorum volumes are online in the form of a searchable database. The original data has been normalised to ensure consistent searches across the volumes. Eventually the database may be expanded to include unpublished material. The application will thus provide hugely increased access to SNG data.</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><br /></span><div align="center" style="margin-bottom: 0px; margin-top: 6px;"><span style="font-size: x-small;"><a class="body" href="http://www.s137585473.websitehome.co.uk/SNG_Web/pages/01_01_Project.htm"><img alt="Project" border="0" src="http://www.s137585473.websitehome.co.uk/SNG_Web/buttons/10_Point/01_Project_Hover.jpg" height="35" id="Project" width="135" /></a></span></div><div align="center" style="margin-bottom: 0px; margin-top: 0px;"><span style="font-size: x-small;"><a class="body" href="http://www.s137585473.websitehome.co.uk/SNG_Web/pages/02_01_Committee.htm"><img alt="Committee" border="0" src="http://www.s137585473.websitehome.co.uk/SNG_Web/buttons/11_Point/02_Committee.jpg" height="35" id="Committee" width="135" /></a></span></div><div align="center" style="margin-bottom: 0px; margin-top: 0px;"><span style="font-size: x-small;"><a class="body" href="http://www.s110120695.websitehome.co.uk/PHP/SNG_PHP/04_01_Search.php"><img alt="Database" border="0" src="http://www.s137585473.websitehome.co.uk/SNG_Web/buttons/11_Point/03_Database.jpg" height="35" id="Database" width="135" /></a></span></div><div align="center" style="margin-bottom: 0px; margin-top: 0px;"><span style="font-size: x-small;"><a class="body" href="http://www.s137585473.websitehome.co.uk/SNG_Web/pages/05_01_Publications.htm"><img alt="Publications" border="0" src="http://www.s137585473.websitehome.co.uk/SNG_Web/buttons/11_Point/05_Publications.jpg" height="35" id="Publications" width="135" /></a></span><a class="body" href="http://www.s137585473.websitehome.co.uk/SNG_Web/pages/05_01_Publications.htm"></a></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8710937631781163694/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8710937631781163694/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/05/sylloge-nummorum-graecorum.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8710937631781163694"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8710937631781163694"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/05/sylloge-nummorum-graecorum.html"
          title="Sylloge Nummorum Graecorum"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

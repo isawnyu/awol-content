@@ -1,321 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8862106411687602518</id>
-    <published>2012-12-16T07:48:00.000-05:00</published>
-    <updated>2012-12-16T07:48:38.892-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8862106411687602518</id>
+   <published>2016-02-25T11:18:00.000-05:00</published>
+   <updated>2016-03-02T14:55:23.397-05:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Poland"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Poland"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Philology"/>
-    <title type="text">Open Access Journal: Eos. Czasopismo Filologiczne Organ Towarzystwa
-      Filologicznego </title>
-    <content type="html"><![CDATA[<a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119333&amp;tab=3"><span
-      class="item-content selectedPublication" id="selected">Eos. Czasopismo Filologiczne Organ
-      Towarzystwa Filologicznego&nbsp;</span></a><br /><div
-      class="entry-content"> <blockquote class="tr_bq"><span style="font-size:
-      x-small;">„Eos. Commentarii Societatis Philologae Polonorum” jest periodykiem naukowym, w
-      którym publikują światowej klasy specjaliści z różnych dziedzin nauk o starożytności.
-      Czasopismo zostało założone w roku 1894 we Lwowie, a jego pierwszym redaktorem naczelnym był
-      prof. Ludwik Ćwikliński. „Eos”&nbsp;jest organem Polskiego Towarzystwa
-      Filologicznego.</span><br /><br /> <span style="font-size:
-      x-small;">Obecnie redakcja ma swoją siedzibę we Wrocławiu – w Instytucie Studiów
-      Klasycznych, Śródziemnomorskich i Orientalnych UWr.</span><br /><br /><div
-      class="entry-content"> <span style="font-size: x-small;">“Eos” is a peer-reviewed
-      biannual journal devoted to Greek and Roman antiquity and classical tradition. It was founded
-      in 1894 in Lwów (Lviv) by Ludwik Ćwikliński and is published by the Polish Classical
-      Association (Societas Philologa Polonorum).</span><br /> <span style="font-size:
-      x-small;">The editorial office is currently located at the Institute of Classical,
-      Mediterranean and Oriental Studies at the university of Wrocław (Poland).</span><br
-      /><br /><span style="font-size: x-small;">Digital Library of Wielkopolska has
-      made available the electronic version of full content of <a
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119333&amp;tab=3"
-      target="_blank">“Eos” volumes 1894-1939</a>. Selected content from recent fascicles
-      can be found <a
-      href="http://eos.uni.wroc.pl/?page_id=39">here</a>.</span><br /><br
-      /><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119802?tab=1" title="1894 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119802&amp;tab=3"> 1894
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119807?tab=1" title="1895 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119807&amp;tab=3"> 1895
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119831?tab=1" title="1897 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119831&amp;tab=3"> 1897
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119864?tab=1" title="1898-1899 - ">
-      <img alt="" class="bottom_icon"
-      src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a> <a
-      class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119864&amp;tab=3"> 1898-1899
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119869?tab=1" title="1900 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119869&amp;tab=3"> 1900
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119873?tab=1" title="1901 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119873&amp;tab=3"> 1901
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119878?tab=1" title="1902 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119878&amp;tab=3"> 1902
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119896?tab=1" title="1903 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119896&amp;tab=3"> 1903
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119899?tab=1" title="1904 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119899&amp;tab=3"> 1904
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119901?tab=1" title="1905 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119901&amp;tab=3"> 1905
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119904?tab=1" title="1908 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119904&amp;tab=3"> 1908
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119907?tab=1" title="1909 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119907&amp;tab=3"> 1909
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119910?tab=1" title="1910 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119910&amp;tab=3"> 1910
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119914?tab=1" title="1911 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119914&amp;tab=3"> 1911
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119918?tab=1" title="1912 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119918&amp;tab=3"> 1912
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119920?tab=1" title="1913 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119920&amp;tab=3"> 1913
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119926?tab=1" title="1914-1915 - ">
-      <img alt="" class="bottom_icon"
-      src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a> <a
-      class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119926&amp;tab=3"> 1914-1915
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119930?tab=1" title="1916 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119930&amp;tab=3"> 1916
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119932?tab=1" title="1917 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119932&amp;tab=3"> 1917
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119934?tab=1" title="1918 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119934&amp;tab=3"> 1918
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119937?tab=1" title="1919-1920 - ">
-      <img alt="" class="bottom_icon"
-      src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a> <a
-      class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119937&amp;tab=3"> 1919-1920
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119939?tab=1" title="1921-1922 - ">
-      <img alt="" class="bottom_icon"
-      src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a> <a
-      class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119939&amp;tab=3"> 1921-1922
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119943?tab=1" title="1924 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119943&amp;tab=3"> 1924
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/119956?tab=1" title="1925 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=119956&amp;tab=3"> 1925
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/120067?tab=1" title="1926 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=120067&amp;tab=3"> 1926
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/120075?tab=1" title="1928 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=120075&amp;tab=3"> 1928
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/120078?tab=1" title="1929 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=120078&amp;tab=3"> 1929
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/120092?tab=1" title="1930-1931 - ">
-      <img alt="" class="bottom_icon"
-      src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a> <a
-      class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=120092&amp;tab=3"> 1930-1931
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/120134?tab=1" title="1932-1933 - ">
-      <img alt="" class="bottom_icon"
-      src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a> <a
-      class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=120134&amp;tab=3"> 1932-1933
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/120144?tab=1" title="1934 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=120144&amp;tab=3"> 1934
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/120146?tab=1" title="1935 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=120146&amp;tab=3"> 1935
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/120151?tab=1" title="1936 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=120151&amp;tab=3"> 1936
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/120251?tab=1" title="1937 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=120251&amp;tab=3"> 1937
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/120252?tab=1" title="1938 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=120252&amp;tab=3"> 1938
-      </a></span> </li></ul><ul style="list-style-image:
-      url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;);
-      list-style-type: none;"><li> <span style="font-size: x-small;"><a
-      href="http://www.wbc.poznan.pl/dlibra/publication/120253?tab=1" title="1939 - "> <img
-      alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" />
-      </a> <a class="item-content"
-      href="http://www.wbc.poznan.pl/dlibra/publication?id=120253&amp;tab=3"> 1939
-      </a></span> </li></ul></div></blockquote><div
-      style="text-align: center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a> </div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Philology"/>
+   <title type="text">Open Access Journal: Eos. Czasopismo Filologiczne Organ Towarzystwa Filologicznego </title>
+   <content type="html"><![CDATA[<span class="item-content selectedPublication" id="selected"><span style="font-size: xx-small;">[First posted in AWOL 16 December 2012, updated 25 February 2016]</span></span><br /><a href="http://eos.uni.wroc.pl/?page_id=27&amp;lang=en"><span class="item-content selectedPublication" id="selected">Eos. Czasopismo Filologiczne Organ Towarzystwa Filologicznego&nbsp; = </span><span style="font-size: small;">Commentarii Societatis Philologae Polonorum</span></a><br /><span class="item-content selectedPublication" id="selected">ISSN: </span><span class="item-content selectedPublication" id="selected">0012-7825 </span><br /><div class="entry-content"><blockquote class="tr_bq"><span style="font-size: x-small;">„Eos. Commentarii Societatis Philologae Polonorum” jest  periodykiem naukowym, w którym publikują światowej klasy specjaliści z  różnych dziedzin nauk o starożytności. Czasopismo zostało założone w  roku 1894 we Lwowie, a jego pierwszym redaktorem naczelnym był prof.  Ludwik Ćwikliński. „Eos”&nbsp;jest organem Polskiego Towarzystwa  Filologicznego.</span><br /><br /><span style="font-size: x-small;">Obecnie redakcja ma swoją siedzibę we Wrocławiu – w Instytucie Studiów Klasycznych, Śródziemnomorskich i Orientalnych UWr.</span><br /><br /><div class="entry-content"><span style="font-size: x-small;">“Eos” is a peer-reviewed biannual journal devoted to Greek and  Roman antiquity and classical tradition. It was founded in 1894 in Lwów  (Lviv) by Ludwik Ćwikliński and is published by the Polish Classical  Association (Societas Philologa Polonorum).</span><br /><span style="font-size: x-small;">The editorial office is currently located at the Institute of  Classical, Mediterranean and Oriental Studies at the university of  Wrocław (Poland).</span></div></blockquote><blockquote class="tr_bq">Our website features full-text versions of selected articles as well  as all reviews, PhD summaries, obituaries and reports since 2007. They  are available through contents lists.<br />Full contents of the 2013 Special Edition is going to appear online in May 2016.</blockquote><blockquote class="tr_bq"><ul class="children"><li class="page_item page-item-209"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=209&amp;lang=en">Eos XCIV 2007, fasc. 1</a></span></li><li class="page_item page-item-405"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=405&amp;lang=en">Eos XCIV 2007, fasc. 2</a></span></li><li class="page_item page-item-437"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=437&amp;lang=en">Eos XCV 2008, fasc. 1</a></span></li><li class="page_item page-item-444"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=444&amp;lang=en">Eos XCV 2008, fasc. 2</a></span></li><li class="page_item page-item-205"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=205&amp;lang=en">Eos XCVI 2009, fasc. 1</a></span></li><li class="page_item page-item-201"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=201&amp;lang=en">Eos XCVI 2009, fasc. 2</a></span></li><li class="page_item page-item-199"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=199&amp;lang=en">Eos XCVII 2010, fasc. 1</a></span></li><li class="page_item page-item-186"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=186&amp;lang=en">Eos XCVII 2010, fasc. 2</a></span></li><li class="page_item page-item-183"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=183&amp;lang=en">Eos XCVIII 2011, fasc. 1</a></span></li><li class="page_item page-item-179"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=179&amp;lang=en">Eos XCVIII 2011, fasc. 2</a></span></li><li class="page_item page-item-254"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=254&amp;lang=en">Eos XCIX 2012, fasc. 1</a></span></li><li class="page_item page-item-275"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=275&amp;lang=en">Eos XCIX 2012, fasc. 2</a></span></li><li class="page_item page-item-280"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=280&amp;lang=en">Eos C 2013, fasc. 1</a></span></li><li class="page_item page-item-303"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=303&amp;lang=en">Eos C 2013, fasc. 2</a></span></li><li class="page_item page-item-309"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=309&amp;lang=en">Eos C 2013: fasciculus electronicus</a></span></li><li class="page_item page-item-355"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=355&amp;lang=en">Eos CI 2014, fasc. 1</a></span></li><li class="page_item page-item-383"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=383&amp;lang=en">Eos CI 2014, fasc. 2</a></span></li><li class="page_item page-item-678"><span style="font-size: x-small;"><a href="http://eos.uni.wroc.pl/?page_id=678&amp;lang=en">Eos CII 2015, fasc. 1</a></span></li></ul></blockquote><blockquote class="tr_bq"><div class="entry-content"><br /><span style="font-size: x-small;">Digital Library of Wielkopolska has made available the electronic version of full content of <a href="http://www.wbc.poznan.pl/dlibra/publication?id=119333&amp;tab=3" target="_blank">“Eos” volumes 1894-1939</a>. Selected content from recent fascicles can be found <a href="http://eos.uni.wroc.pl/?page_id=39">here</a>.</span><br /><br /><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119802?tab=1" title="1894 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119802&amp;tab=3">       1894      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119807?tab=1" title="1895 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119807&amp;tab=3">       1895      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119831?tab=1" title="1897 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119831&amp;tab=3">       1897      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119864?tab=1" title="1898-1899 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119864&amp;tab=3">       1898-1899      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119869?tab=1" title="1900 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119869&amp;tab=3">       1900      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119873?tab=1" title="1901 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119873&amp;tab=3">       1901      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119878?tab=1" title="1902 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119878&amp;tab=3">       1902      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119896?tab=1" title="1903 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119896&amp;tab=3">       1903      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119899?tab=1" title="1904 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119899&amp;tab=3">       1904      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119901?tab=1" title="1905 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119901&amp;tab=3">       1905      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119904?tab=1" title="1908 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119904&amp;tab=3">       1908      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119907?tab=1" title="1909 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119907&amp;tab=3">       1909      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119910?tab=1" title="1910 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119910&amp;tab=3">       1910      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119914?tab=1" title="1911 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119914&amp;tab=3">       1911      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119918?tab=1" title="1912 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119918&amp;tab=3">       1912      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119920?tab=1" title="1913 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119920&amp;tab=3">       1913      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119926?tab=1" title="1914-1915 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119926&amp;tab=3">       1914-1915      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119930?tab=1" title="1916 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119930&amp;tab=3">       1916      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119932?tab=1" title="1917 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119932&amp;tab=3">       1917      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119934?tab=1" title="1918 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119934&amp;tab=3">       1918      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119937?tab=1" title="1919-1920 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119937&amp;tab=3">       1919-1920      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119939?tab=1" title="1921-1922 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119939&amp;tab=3">       1921-1922      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119943?tab=1" title="1924 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119943&amp;tab=3">       1924      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/119956?tab=1" title="1925 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=119956&amp;tab=3">       1925      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/120067?tab=1" title="1926 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=120067&amp;tab=3">       1926      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/120075?tab=1" title="1928 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=120075&amp;tab=3">       1928      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/120078?tab=1" title="1929 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=120078&amp;tab=3">       1929      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/120092?tab=1" title="1930-1931 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=120092&amp;tab=3">       1930-1931      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/120134?tab=1" title="1932-1933 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=120134&amp;tab=3">       1932-1933      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/120144?tab=1" title="1934 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=120144&amp;tab=3">       1934      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/120146?tab=1" title="1935 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=120146&amp;tab=3">       1935      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/120151?tab=1" title="1936 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=120151&amp;tab=3">       1936      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/120251?tab=1" title="1937 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=120251&amp;tab=3">       1937      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/120252?tab=1" title="1938 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=120252&amp;tab=3">       1938      </a></span>      </li></ul><ul style="list-style-image: url(&quot;http://www.wbc.poznan.pl/style/dlibra/theme-wbc/img/collapsed.gif&quot;); list-style-type: none;"><li>          <span style="font-size: x-small;"><a href="http://www.wbc.poznan.pl/dlibra/publication/120253?tab=1" title="1939 - ">   <img alt="" class="bottom_icon" src="http://www.wbc.poznan.pl/style/common/img/icons/desc.gif" /> </a>   <a class="item-content" href="http://www.wbc.poznan.pl/dlibra/publication?id=120253&amp;tab=3">       1939      </a></span>      </li></ul></div></blockquote><div style="text-align: center;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a> </div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8862106411687602518/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8862106411687602518/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/12/open-access-journal-eos-czasopismo.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8862106411687602518"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8862106411687602518"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/12/open-access-journal-eos-czasopismo.html"
          title="Open Access Journal: Eos. Czasopismo Filologiczne Organ Towarzystwa Filologicznego "/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

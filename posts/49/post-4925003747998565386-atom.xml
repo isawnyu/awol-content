@@ -1,133 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4925003747998565386</id>
-    <published>2011-08-27T20:46:00.001-04:00</published>
-    <updated>2011-08-27T20:46:09.902-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4925003747998565386</id>
+   <published>2011-08-27T20:46:00.001-04:00</published>
+   <updated>2016-12-12T08:42:18.535-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: Queensland Archaeological Research</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/index">Queensland Archaeological
-      Research</a><br /><br /><div style="text-align: center;"><img
-      alt="http://www.library.uq.edu.au/ojs/public/journals/8/pageHeaderTitleImage_en_US.gif"
-      src="http://www.library.uq.edu.au/ojs/public/journals/8/pageHeaderTitleImage_en_US.gif" />
-      </div><blockquote><span style="font-size: x-small;"><em>Queensland
-      Archaeological Research</em>, is a refereed journal published since 1984 devoted to
-      publishing substantive archaeological material pertaining to research in Queensland, Australia
-      and adjacent areas. Data-rich manuscripts are particularly welcome. Contributions are accepted
-      in six sections: Articles (5000+ words), Short Reports (&lt;3000 words), Obituaries
-      (500-2000), Thesis Abstracts (200-500), Book Reviews (500-2000) and Backfill (which includes
-      letters and other material of interest to readers). <em>Queensland Archaeological
-      Research</em> is published in one volume&nbsp;each
-      year.</span></blockquote><blockquote><div style="float: left; width:
-      100%;"> <h3><span style="font-size:
-      xx-small;">2011</span></h3><div style="clear: left;"> <h4><span
-      style="font-size: xx-small;"><a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/122">Vol 14
-      (2011)</a></span></h4></div></div><span style="font-size:
-      xx-small;"><br /> </span><div style="float: left; width: 100%;">
-      <h3><span style="font-size: xx-small;">2002</span></h3><div
-      style="clear: left;"> <h4><span style="font-size: xx-small;"><a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/39">Vol 13
-      (2002)</a></span></h4><div class="issueDescription"><span
-      style="font-size: xx-small;">Recent Archaeological Research in Southeast Queensland<br
-      />Sean Ulm &amp; Jay Hall (eds)</span></div></div></div><span
-      style="font-size: xx-small;"><br /> </span><div style="float: left; width:
-      100%;"> <h3><span style="font-size:
-      xx-small;">2000</span></h3><div style="clear: left;"> <h4><span
-      style="font-size: xx-small;"><a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/40">Vol 12
-      (2000)</a></span></h4><div class="issueDescription"><span
-      style="font-size: xx-small;">Index of Dates from Archaeological Sites in Queensland<br
-      />Sean Ulm &amp; Jill Reid</span></div></div></div><span
-      style="font-size: xx-small;"><br /> </span><div style="float: left; width:
-      100%;"> <h3><span style="font-size:
-      xx-small;">1999</span></h3><div style="clear: left;"> <h4><span
-      style="font-size: xx-small;"><a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/41">Vol 11
-      (1999)</a></span></h4><div class="issueDescription"><span
-      style="font-size: xx-small;">The Gooreng Gooreng Cultural Heritage Project: Preliminary
-      Results of Archaeological Research, 1993-1997<br />Ian Lilley, Sean Ulm &amp; Michael
-      Williams (eds)</span></div></div></div><span style="font-size:
-      xx-small;"><br /> </span><div style="float: left; width: 100%;">
-      <h3><span style="font-size: xx-small;">1996</span></h3><div
-      style="clear: left;"> <h4><span style="font-size: xx-small;"><a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/43">Vol 10
-      (1996)</a></span></h4></div></div><span style="font-size:
-      xx-small;"><br /> </span><div style="float: left; width: 100%;">
-      <h3><span style="font-size: xx-small;">1992</span></h3><div
-      style="clear: left;"> <h4><span style="font-size: xx-small;"><a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/44">Vol 9
-      (1992)</a></span></h4></div></div><span style="font-size:
-      xx-small;"><br /> </span><div style="float: left; width: 100%;">
-      <h3><span style="font-size: xx-small;">1991</span></h3><div
-      style="clear: left;"> <h4><span style="font-size: xx-small;"><a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/45">Vol 8
-      (1991)</a></span></h4></div></div><span style="font-size:
-      xx-small;"><br /> </span><div style="float: left; width: 100%;">
-      <h3><span style="font-size: xx-small;">1990</span></h3><div
-      style="clear: left;"> <h4><span style="font-size: xx-small;"><a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/46">Vol 7
-      (1990)</a></span></h4></div></div><span style="font-size:
-      xx-small;"><br /> </span><div style="float: left; width: 100%;">
-      <h3><span style="font-size: xx-small;">1989</span></h3><div
-      style="clear: left;"> <h4><span style="font-size: xx-small;"><a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/47">Vol 6
-      (1989)</a></span></h4></div></div><span style="font-size:
-      xx-small;"><br /> </span><div style="float: left; width: 100%;">
-      <h3><span style="font-size: xx-small;">1988</span></h3><div
-      style="clear: left;"> <h4><span style="font-size: xx-small;"><a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/48">Vol 5
-      (1988)</a></span></h4></div></div><span style="font-size:
-      xx-small;"><br /> </span><div style="float: left; width: 100%;">
-      <h3><span style="font-size: xx-small;">1987</span></h3><div
-      style="clear: left;"> <h4><span style="font-size: xx-small;"><a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/49">Vol 4
-      (1987)</a></span></h4></div></div><span style="font-size:
-      xx-small;"><br /> </span><div style="float: left; width: 100%;">
-      <h3><span style="font-size: xx-small;">1986</span></h3><div
-      style="clear: left;"> <h4><span style="font-size: xx-small;"><a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/50">Vol 3
-      (1986)</a></span></h4></div></div><span style="font-size:
-      xx-small;"><br /> </span><div style="float: left; width: 100%;">
-      <h3><span style="font-size: xx-small;">1985</span></h3><div
-      style="clear: left;"> <h4><span style="font-size: xx-small;"><a
-      href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/51">Vol 2
-      (1985)</a></span></h4></div></div><span style="font-size:
-      xx-small;"><br /></span> <h3><span style="font-size:
-      xx-small;">1984</span></h3><h4><span style="font-size:
-      xx-small;"><a href="http://www.library.uq.edu.au/ojs/index.php/qar/issue/view/52">Vol
-      1 (1984)</a></span></h4></blockquote><div style="text-align:
-      center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: Queensland Archaeological Research</title>
+   <content type="html"><![CDATA[<a href="https://journals.jcu.edu.au/qar">Queensland Archaeological Research</a><br /><br /><div style="text-align: center;"><img alt="http://www.library.uq.edu.au/ojs/public/journals/8/pageHeaderTitleImage_en_US.gif" src="http://www.library.uq.edu.au/ojs/public/journals/8/pageHeaderTitleImage_en_US.gif" /> </div><blockquote><span style="font-size: x-small;"><i>Queensland Archaeological Research</i>, is a refereed journal  published since 1984 devoted to publishing substantive archaeological  material pertaining to research in Queensland, Australia and adjacent  areas. Data-rich manuscripts are particularly welcome. Contributions are  accepted in six sections: Articles (5000+ words), Short Reports  (&lt;3000 words), Obituaries (500-2000), Thesis Abstracts (200-500),  Book Reviews (500-2000) and Backfill (which includes letters and other  material of interest to readers). <i>Queensland Archaeological Research</i> is published in one volume&nbsp;each year.</span></blockquote><blockquote><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">2016</span></h3><span style="font-size: x-small;">			 	</span><div id="issue-180" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/180">Vol 19 (2016)</a></span></h4></div><span style="font-size: x-small;"> 						</span></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">2015</span></h3><div id="issue-178" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/178">Vol 18 (2015)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">2014</span></h3><div id="issue-25" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/25">Vol 17 (2014)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">2013</span></h3><div id="issue-24" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/24">Vol 16 (2013)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">2012</span></h3><div id="issue-12" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/12">Vol 15 (2012)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">2011</span></h3><div id="issue-23" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/23">Vol 14 (2011)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">2002</span></h3><div id="issue-8" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/8">Vol 13 (2002)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">2000</span></h3><div id="issue-9" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/9">Vol 12 (2000)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">1999</span></h3><div id="issue-10" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/10">Vol 11 (1999)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">1996</span></h3><div id="issue-11" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/11">Vol 10 (1996)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">1992</span></h3><div id="issue-13" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/13">Vol 9 (1992)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">1991</span></h3><div id="issue-14" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/14">Vol 8 (1991)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">1990</span></h3><div id="issue-15" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/15">Vol 7 (1990)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">1989</span></h3><div id="issue-16" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/16">Vol 6 (1989)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">1988</span></h3><div id="issue-18" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/18">Vol 5 (1988)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">1987</span></h3><div id="issue-19" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/19">Vol 4 (1987)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">1986</span></h3><div id="issue-20" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/20">Vol 3 (1986)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				</span><div style="float: left; width: 100%;">		<h3><span style="font-size: x-small;">1985</span></h3><div id="issue-21" style="clear: left;">			 		<h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/21">Vol 2 (1985)</a></span></h4></div></div><span style="font-size: x-small;">			<br />			 				 		</span><h3><span style="font-size: x-small;">1984</span></h3><span style="font-size: x-small;">			 	</span><div id="issue-22" style="clear: left;"><span style="font-size: x-small;">			 		</span><h4><span style="font-size: x-small;"><a href="https://journals.jcu.edu.au/qar/issue/view/22">Vol 1 (1984)</a></span></h4></div></blockquote><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: small;"><span><span>S</span><span><span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4925003747998565386/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4925003747998565386/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/08/open-access-journal-queensland.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4925003747998565386"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4925003747998565386"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/08/open-access-journal-queensland.html"
          title="Open Access Journal: Queensland Archaeological Research"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,69 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3829207730379714008</id>
-    <published>2013-07-02T08:58:00.002-04:00</published>
-    <updated>2013-07-02T09:00:29.396-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3829207730379714008</id>
+   <published>2013-07-02T08:58:00.002-04:00</published>
+   <updated>2013-07-02T09:00:29.396-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Milestones: 20th anniversary of the ANE list</title>
-    <content type="html"><![CDATA[<span style="font-family: inherit;"><a
-      href="http://groups.yahoo.com/group/ANE-2/message/14940"><span class="footaction msg-bg
-      msg-bd" style="font-size: 14px; padding: 0px; white-space: normal;"><span class="msg-bg
-      msg-bd" style="line-height: 1; white-space: normal;">It Was Twenty Years Ago
-      Today..</span></span><span class="footaction msg-bg msg-bd" style="font-size:
-      14px; padding: 0px; white-space: normal;"><span class="msg-bg msg-bd" style="line-height:
-      1; white-space: normal;">.</span></span></a><span class="footaction
-      msg-bg msg-bd" style="font-size: 14px; font-weight: bold; padding: 0px; white-space:
-      normal;"><i class="msg-bg msg-bd" style="line-height: 1; white-space: normal;">
-      </i></span></span><br /><blockquote class="tr_bq"><span
-      style="font-family: inherit;"><span style="font-size: x-small;">Today is the twentieth
-      anniversary of the launch of the ANE list. John Sanders and I pulled the idea together at the
-      Oriental Institute, using borrowed equipment and software. You can still read the archive of
-      the original configuration at:</span></span><span style="font-family:
-      inherit;"><span style="font-size: x-small;"><a
-      href="http://oi.uchicago.edu/research/library/ane/">http://oi.uchicago.edu/research/library/ane/</a><br
-      />It operated in the original form from 2 July 1993 - 16 February
-      2006.</span></span><span style="font-family: inherit;"><span
-      style="font-size: x-small;"><br />Its current form -&nbsp; ANE-2 - began, in
-      anticipation of the closing of the original list, on 15 February 2006, and is publicly archived
-      at:</span></span><span style="font-family: inherit;"><span
-      style="font-size: x-small;"><a
-      href="http://groups.yahoo.com/group/ANE-2/">http://groups.yahoo.com/group/ANE-2/</a></span></span><span
-      style="font-family: inherit;"><span style="font-size: x-small;"><br />I wrote a
-      little bit about it in 1999 at:</span></span><span style="font-family:
-      inherit;"><span style="font-size: x-small;"><a
-      href="http://www.ariadne.ac.uk/issue21/web-editor">http://www.ariadne.ac.uk/issue21/web-editor</a><br
-      />It might be time for another reflection on the history of the list, but not
-      today.</span></span><span style="font-family: inherit;"><span
-      style="font-size: x-small;"><br />Happy birthday to ANE and its
-      inhabitants!</span></span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Milestones: 20th anniversary of the ANE list</title>
+   <content type="html"><![CDATA[<span style="font-family: inherit;"><a href="http://groups.yahoo.com/group/ANE-2/message/14940"><span class="footaction msg-bg msg-bd" style="font-size: 14px; padding: 0px; white-space: normal;"><span class="msg-bg msg-bd" style="line-height: 1; white-space: normal;">It Was Twenty Years Ago Today..</span></span><span class="footaction msg-bg msg-bd" style="font-size: 14px; padding: 0px; white-space: normal;"><span class="msg-bg msg-bd" style="line-height: 1; white-space: normal;">.</span></span></a><span class="footaction msg-bg msg-bd" style="font-size: 14px; font-weight: bold; padding: 0px; white-space: normal;"><i class="msg-bg msg-bd" style="line-height: 1; white-space: normal;"> </i></span></span><br /><blockquote class="tr_bq"><span style="font-family: inherit;"><span style="font-size: x-small;">Today is the twentieth anniversary of the launch of the ANE list. John Sanders and I pulled the idea together at the Oriental Institute, using borrowed equipment and software. You can still read the archive of the original configuration at:</span></span><span style="font-family: inherit;"><span style="font-size: x-small;"><a href="http://oi.uchicago.edu/research/library/ane/">http://oi.uchicago.edu/research/library/ane/</a><br />It operated in the original form from 2 July 1993 - 16 February 2006.</span></span><span style="font-family: inherit;"><span style="font-size: x-small;"><br />Its current form -&nbsp; ANE-2 - began, in anticipation of the closing of the original list, on 15 February 2006, and is publicly archived at:</span></span><span style="font-family: inherit;"><span style="font-size: x-small;"><a href="http://groups.yahoo.com/group/ANE-2/">http://groups.yahoo.com/group/ANE-2/</a></span></span><span style="font-family: inherit;"><span style="font-size: x-small;"><br />I wrote a little bit about it in 1999 at:</span></span><span style="font-family: inherit;"><span style="font-size: x-small;"><a href="http://www.ariadne.ac.uk/issue21/web-editor">http://www.ariadne.ac.uk/issue21/web-editor</a><br />It might be time for another reflection on the history of the list, but not today.</span></span><span style="font-family: inherit;"><span style="font-size: x-small;"><br />Happy birthday to ANE and its inhabitants!</span></span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3829207730379714008/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3829207730379714008/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/07/milestones-20th-anniversatry-of-ane-list.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3829207730379714008"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3829207730379714008"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/07/milestones-20th-anniversatry-of-ane-list.html"
          title="Milestones: 20th anniversary of the ANE list"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

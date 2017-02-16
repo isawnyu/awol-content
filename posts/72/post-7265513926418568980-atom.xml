@@ -1,81 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7265513926418568980</id>
-    <published>2013-09-15T08:48:00.003-04:00</published>
-    <updated>2013-09-15T08:48:19.092-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7265513926418568980</id>
+   <published>2013-09-15T08:48:00.003-04:00</published>
+   <updated>2013-09-15T08:48:19.092-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Canada"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Newsletter"/>
-    <title type="text">Open Access Journal: Classical Studies at McGill</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.mcgill.ca/classics/news-and-events/newsletter">Classical Studies at
-      McGill</a><br /><blockquote class="tr_bq"><br /><br /> <div
-      id="content"> <div id="content-inner"> <div class="node clear-block"
-      id="node-47"> <div class="content"><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/2013-14_newsletter.pdf"
-      rel="nofollow"><img alt="" height="621"
-      src="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/imagecache/x-large/images/screen_shot_2013-09-05_at_10.31.39_am.png"
-      style="display: block; margin-left: auto; margin-right: auto;" title="" width="479"
-      /></a></span></div></div></div></div><h2><span
-      style="font-size: x-small;">Past Newsletters</span></h2><div
-      style="text-align: center;"><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/newsletter_2012-13.pdf"
-      rel="nofollow"><img alt="" height="426"
-      src="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/resize/imagecache/x-large/images/newsletter_5-328x426.jpg"
-      title="" width="328" /></a>&nbsp; <a
-      href="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/2011-12.pdf"
-      rel="nofollow"><img alt="" height="414"
-      src="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/imagecache/large/images/newsletter_4.jpg"
-      title="" width="320" /></a>&nbsp;&nbsp;<a
-      href="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/2010-11.pdf"
-      rel="nofollow"><img alt="" height="414"
-      src="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/imagecache/large/images/newsletter_3.jpg"
-      title="" width="320" /></a></span></div><div style="text-align:
-      center;"><span style="font-size: x-small;"><a
-      href="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/2009-10.pdf"
-      rel="nofollow"><img alt="" height="414"
-      src="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/imagecache/large/images/newsletter_2.jpg"
-      title="" width="320" /></a>&nbsp;&nbsp;&nbsp;<a
-      href="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/2008-09.pdf"
-      rel="nofollow"><img alt="" height="414"
-      src="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/imagecache/large/images/newsletter_1.jpg"
-      title="" width="320" /></a></span></div></blockquote><div
-      style="text-align: center;">And See also:&nbsp; <a
-      href="http://www.mcgill.ca/classics/hirundo/">Hirundo, the McGill Journal of Classical
-      Studies</a></div><br /><div style="text-align: center;"><span
-      style="font-size: small;"><span><span><span><span><span
-      style="font-family: inherit;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span></span></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Canada"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Newsletter"/>
+   <title type="text">Open Access Journal: Classical Studies at McGill</title>
+   <content type="html"><![CDATA[<a href="http://www.mcgill.ca/classics/news-and-events/newsletter">Classical Studies at McGill</a><br /><blockquote class="tr_bq"><br /><br />                     <div id="content">        <div id="content-inner">          <div class="node clear-block" id="node-47">     <div class="content"><span style="font-size: x-small;"><a href="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/2013-14_newsletter.pdf" rel="nofollow"><img alt="" height="621" src="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/imagecache/x-large/images/screen_shot_2013-09-05_at_10.31.39_am.png" style="display: block; margin-left: auto; margin-right: auto;" title="" width="479" /></a></span></div></div></div></div><h2><span style="font-size: x-small;">Past Newsletters</span></h2><div style="text-align: center;"><span style="font-size: x-small;"><a href="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/newsletter_2012-13.pdf" rel="nofollow"><img alt="" height="426" src="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/resize/imagecache/x-large/images/newsletter_5-328x426.jpg" title="" width="328" /></a>&nbsp; <a href="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/2011-12.pdf" rel="nofollow"><img alt="" height="414" src="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/imagecache/large/images/newsletter_4.jpg" title="" width="320" /></a>&nbsp;&nbsp;<a href="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/2010-11.pdf" rel="nofollow"><img alt="" height="414" src="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/imagecache/large/images/newsletter_3.jpg" title="" width="320" /></a></span></div><div style="text-align: center;"><span style="font-size: x-small;"><a href="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/2009-10.pdf" rel="nofollow"><img alt="" height="414" src="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/imagecache/large/images/newsletter_2.jpg" title="" width="320" /></a>&nbsp;&nbsp;&nbsp;<a href="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/2008-09.pdf" rel="nofollow"><img alt="" height="414" src="http://www.mcgill.ca/classics/sites/mcgill.ca.classics/files/imagecache/large/images/newsletter_1.jpg" title="" width="320" /></a></span></div></blockquote><div style="text-align: center;">And See also:&nbsp; <a href="http://www.mcgill.ca/classics/hirundo/">Hirundo, the McGill Journal of Classical Studies</a></div><br /><div style="text-align: center;"><span style="font-size: small;"><span><span><span><span><span style="font-family: inherit;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7265513926418568980/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7265513926418568980/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/09/open-access-journal-classical-studies.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7265513926418568980"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7265513926418568980"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/09/open-access-journal-classical-studies.html"
          title="Open Access Journal: Classical Studies at McGill"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

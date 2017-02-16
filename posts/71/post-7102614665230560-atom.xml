@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7102614665230560</id>
+   <published>2015-10-20T19:36:00.003-04:00</published>
+   <updated>2015-10-20T19:36:48.794-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egyptian"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Language"/>
+   <title type="text">The RES-project (Revised Encoding Scheme for hieroglyphic)</title>
+   <content type="html"><![CDATA[<a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/">The RES-project (Revised Encoding Scheme for hieroglyphic)</a><br /><blockquote class="tr_bq"><img alt="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/res.gif" src="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/res.gif" />&nbsp;</blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">This is the home page of the RES encoding scheme for hieroglyphic.  </span><br /><h3><span style="font-size: x-small;">General documentation</span></h3><span style="font-size: x-small;"> </span><ul><li><span style="font-size: x-small;">M.-J. Nederhof. A Revised Encoding Scheme for Hieroglyphic. In <i>Proceedings of the XIV Computer-aided Egyptology Round Table</i>, Pisa, Italy, July 2002. [<a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/ie2002.pdf">pdf</a>] </span></li><li><span style="font-size: x-small;">M.-J. Nederhof. The Manuel de Codage encoding of hieroglyphs impedes development of corpora. In S. Polis and J. Winand, editors, Texts, Languages &amp; Information Technology in Egyptology, pp. 103-110. Presses Universitaires de LiÃ¨ge, 2013. [<a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/ie2010.pdf">pdf</a>] </span></li></ul><span style="font-size: x-small;"> </span><h3><span style="font-size: x-small;">Description of the encoding scheme</span></h3><span style="font-size: x-small;"> </span><ul><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/tutorial.html">Tutorial</a>. </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/grammar.html">Annotated grammar</a>. </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/direction.html">Text direction</a>. </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/globals.html">Global values</a>. </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/scaling.html">Scaling and positioning</a>. </span></li><li> <span style="font-size: x-small;"><a href="http://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/tabletechnical.html">Encoding    issues</a>. </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/mdc.html">Conversion from Manuel de Codage</a>. </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/reslite.html">RESlite</a>. </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/versions.html">Respective versions</a>. </span></li></ul><span style="font-size: x-small;"> </span><h3><span style="font-size: x-small;">The implementation: res2image</span></h3><span style="font-size: x-small;"> (The implementation from the download link below is in C. This is not maintained at present. I recommend that you use the alternative implementation in Java.)  </span><ul><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/manual.html">Manual pages</a>. </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/formats.html">Additional data formats</a>. </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/download.html">Download</a> (of the C version, which is not maintained at present; preferable is the Java version below). </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/bugs.html">Known bugs</a>. </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/wish.html">Wish list</a>. </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/restoimage.html">Alternative implementation in Java</a>. </span></li></ul><span style="font-size: x-small;"> </span><h3><span style="font-size: x-small;">Applications</span></h3><span style="font-size: x-small;"> </span><ul><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/js">Use inside web pages</a> (JavaScript). </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/html">Use inside web pages</a> (images). </span></li><li> <span style="font-size: x-small;"><a href="https://mjn.host.cs.st-andrews.ac.uk/egyptian/res/tex">Use inside Latex</a>. </span></li></ul><span style="font-size: x-small;"> </span><h3><span style="font-size: x-small;">Links</span></h3><span style="font-size: x-small;"> </span><ul><li><span style="font-size: x-small;"><a href="http://www.cs.st-andrews.ac.uk/%7Emjn/egyptian/">Other work</a> on data formats and software for Egyptology. </span></li><li><span style="font-size: x-small;">A description of the <a href="http://www.iut.univ-paris8.fr/%7Erosmord/HieroEncoding/MDC/mdc.html">Manuel de Codage</a> format by Serge Rosmorduc. </span></li></ul></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/7102614665230560/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/10/the-res-project-revised-encoding-scheme.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7102614665230560"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7102614665230560"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/10/the-res-project-revised-encoding-scheme.html"
+         title="The RES-project (Revised Encoding Scheme for hieroglyphic)"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

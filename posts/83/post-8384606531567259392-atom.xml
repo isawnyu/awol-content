@@ -1,71 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8384606531567259392</id>
-    <published>2014-04-21T16:54:00.000-04:00</published>
-    <updated>2014-04-21T20:41:31.963-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8384606531567259392</id>
+   <published>2016-08-10T10:14:00.000-04:00</published>
+   <updated>2016-08-10T10:16:17.440-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Argentina"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Spanish"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Argentina"/>
-    <title type="text">Newly Open Access Journal: Anales de Filología Clásica</title>
-    <content type="html"><![CDATA[<a
-      href="http://revistascientificas.filo.uba.ar/index.php/afc/index">Anales de Filología
-      Clásica</a><br />ISSN: 0325-1721<br /><blockquote class="tr_bq"><img
-      alt="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_43_es_ES.jpg"
-      class="decoded"
-      src="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_43_es_ES.jpg"
-      height="106" width="200" /> </blockquote><blockquote
-      class="tr_bq"><h2><span style="font-size:
-      x-small;">Archivos</span></h2><div style="float: left; width:
-      100%;"><h3><span style="font-size: x-small;">2012</span></h3><div
-      id="issue" style="clear: left;"><h4><span style="font-size: x-small;"><a
-      href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/43">núm. 25
-      (2012)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <br /><div style="float: left; width:
-      100%;"><h3><span style="font-size: x-small;">2011</span></h3><div
-      id="issue" style="clear: left;"><h4><span style="font-size: x-small;"><a
-      href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/25">núm. 24
-      (2011)</a></span></h4></div></div><span style="font-size:
-      x-small;"><br /></span> <br /><h3><span style="font-size:
-      x-small;">2010</span></h3></blockquote><div id="issue" style="clear:
-      left;"><blockquote><h4><span style="font-size: x-small;"><a
-      href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/26">núm. 23
-      (2010)</a></span></h4></blockquote></div><div
-      style="text-align: center;"><span class="Apple-style-span" style="color: #333333;
-      font-family: 'Times New Roman'; line-height: 25px;">See the
-      full&nbsp;</span><span class="Apple-style-span" style="color: #333333;
-      font-family: 'Times New Roman'; line-height: 25px;"><a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html"
-      style="color: #5588aa; text-decoration: none;">List of Open Access Journals in Ancient
-      Studies</a></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Spanish"/>
+   <title type="text">Open Access Journal: Anales de Filología Clásica</title>
+   <content type="html"><![CDATA[<a href="http://revistascientificas.filo.uba.ar/index.php/afc/index">Anales de Filología Clásica</a><br />ISSN: 0325-1721 (impreso)<br />ISSN: 2362-4841 (en línea)<br /><blockquote class="tr_bq"><img alt="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_43_es_ES.jpg" class="decoded" src="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_43_es_ES.jpg" height="106" width="200" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><em>Anales de Filología Clásica</em>&nbsp;es una publicación académica del  Instituto de Filología Clásica (Facultad de Filosofía y Letras,  Universidad de Buenos Aires) que reúne contribuciones originales e  inéditas (artículos y reseñas bibliográficas) acerca de variados  aspectos del mundo grecolatino antiguo y medieval: lingüísticos,  literarios, retóricos, filosóficos, históricos, artísticos y la  proyección de los mismos en edades posteriores.<br /></span><br /><span style="font-size: x-small;">Está abierta a  especialistas e investigadores tanto del país como del extranjero y  acepta colaboraciones escritas en español, inglés, francés, italiano,  portugués y alemán.</span><br /><br /><span style="font-size: x-small;">Los trabajos presentados se someten a arbitraje externo doble ciego realizado por pares expertos.</span><br /><br /><span style="font-size: x-small;">En su versión online publica dos volúmenes por año, que se reunen en un único número anual en versión impresa.</span><br /></blockquote><blockquote class="tr_bq"><h2></h2><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2015</span></h3><span style="font-size: x-small;">     </span><div id="issue" style="clear: left;">   <div class="issueCoverImage"><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/183"><img alt="Portada" height="120" src="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_183_es_ES.jpg" width="200" /></a></span>  </div><h4><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/183">Vol. 1, núm. 28 (2015)</a></span></h4></div><span style="font-size: x-small;">       </span></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2014</span></h3><div id="issue" style="clear: left;">   <div class="issueCoverImage"><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/211"><img alt="Portada" height="120" src="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_211_es_ES.jpg" width="200" /></a></span>  </div><h4><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/211">Vol. 2, núm. 27 (2014)</a></span></h4></div><div id="issue" style="clear: left;">   <div class="issueCoverImage"><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/182"><img alt="Portada" height="120" src="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_182_es_ES.jpg" width="200" /></a></span>  </div><h4><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/182">Vol. 1, núm. 27 (2014)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2013</span></h3><div id="issue" style="clear: left;">   <div class="issueCoverImage"><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/64"><img alt="Portada" height="120" src="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_64_es_ES.jpg" width="200" /></a></span>  </div><h4><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/64">núm. 26 (2013)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2012</span></h3><div id="issue" style="clear: left;">   <div class="issueCoverImage"><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/43"><img alt="Portada" height="114" src="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_43_es_ES.jpg" width="200" /></a></span>  </div><h4><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/43">núm. 25 (2012)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2011</span></h3><div id="issue" style="clear: left;">   <div class="issueCoverImage"><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/25"><img alt="Anales de Filología Clásica 24 (2011)" height="120" src="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_25_es_ES.jpg" width="200" /></a></span>  </div><h4><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/25">núm. 24 (2011)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2010</span></h3><div id="issue" style="clear: left;">   <div class="issueCoverImage"><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/26"><img alt="Anales de Filología Clásica 23 (2010)" height="120" src="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_26_es_ES.jpg" width="200" /></a></span>  </div><h4><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/26">núm. 23 (2010)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2009</span></h3><div id="issue" style="clear: left;">   <div class="issueCoverImage"><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/48"><img alt="Anales de Filología Clásica 22 (2009)" height="120" src="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_48_es_ES.jpg" width="200" /></a></span>  </div><h4><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/48">núm. 22 (2009)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2008</span></h3><div id="issue" style="clear: left;">   <div class="issueCoverImage"><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/54"><img alt="Portada" height="120" src="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_54_es_ES.jpg" width="200" /></a></span>  </div><h4><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/54">núm. 21 (2008)</a></span></h4></div></div><span style="font-size: x-small;">   <br />        </span><div style="float: left; width: 100%;">  <h3><span style="font-size: x-small;">2007</span></h3><div id="issue" style="clear: left;">   <div class="issueCoverImage"><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/55"><img alt="Portada" height="120" src="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_55_es_ES.jpg" width="200" /></a></span>  </div><h4><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/55">núm. 20 (2007)</a></span></h4></div></div><span style="font-size: x-small;">   <br />           </span><h3><span style="font-size: x-small;">2005</span></h3><span style="font-size: x-small;">     </span><div id="issue" style="clear: left;"><span style="font-size: x-small;">   </span><div class="issueCoverImage"><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/56"><img alt="Portada" height="120" src="http://revistascientificas.filo.uba.ar/public/journals/13/cover_issue_56_es_ES.jpg" width="200" /></a></span>  </div><span style="font-size: x-small;">  </span><h4><span style="font-size: x-small;"><a href="http://revistascientificas.filo.uba.ar/index.php/afc/issue/view/56">núm. 18-19 (2005)</a></span></h4></div></blockquote><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: xx-small;"><span style="font-size: small;"><span>See AWOL's List of</span></span></span></div><span style="font-size: small;"><span></span></span><div style="text-align: center;"><span style="font-size: small;"><span><span><a href="http://ancientworldonline.blogspot.com/2014/12/spanishcatalanportugese-journals-on.html">Spanish/Catalan/Portuguese Open Access Journals on the Ancient World</a></span></span></span></div><br /><span style="font-size: small;">See AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8384606531567259392/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8384606531567259392/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/04/newly-open-access-journal-anales-de.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8384606531567259392"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8384606531567259392"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/04/newly-open-access-journal-anales-de.html"
-         title="Newly Open Access Journal: Anales de Filología Clásica"/>
-    <author>
+         title="Open Access Journal: Anales de Filología Clásica"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,172 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1732180333782523697</id>
-    <published>2012-04-14T07:41:00.003-04:00</published>
-    <updated>2012-11-28T06:08:08.354-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1732180333782523697</id>
+   <published>2012-04-14T07:41:00.003-04:00</published>
+   <updated>2012-11-28T06:08:08.354-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: Les Petits Cahiers d'Anatole</title>
-    <content type="html"><![CDATA[<a
-      href="http://citeres.univ-tours.fr/compo.php?niveau=lat&amp;page=p_lat/lat_online">Les
-      Petits Cahiers d'Anatole: revue en ligne publiée par le Laboratoire Archéologie et Territoires,
-      UMR 6173</a><br />ISSN 2105-2921 <br /><blockquote
-      class="tr_bq"><div align="justify" style="font-family: inherit;"><span
-      style="font-size: x-small;">Sous le titre Les petits cahiers d'Anatole, l'unité a ouvert en
-      2000 une publication en ligne destinée à accueillir:</span></div><blockquote
-      style="font-family: inherit;"><div align="justify"><span style="font-size:
-      x-small;"> - des articles méthodologiques et épistémologiques,<br /> - des travaux en
-      cours d'élaboration dans l'unité,<br /> - des
-      débats.</span></div></blockquote><div align="justify" style="font-family:
-      inherit;"><span style="font-size: x-small;">Les articles sont soumis à des lecteurs
-      désignés par le comité de rédaction. Ils sont mis en ligne aussitôt après leur acceptation. La
-      rédaction pourra constituer des numéros thématiques de la revue, sur papier, par la réunion
-      d'articles préalablement mis en ligne.</span>
-      </div></blockquote><blockquote class="tr_bq"><div align="justify"
-      style="font-family: inherit;"><span style="font-size: x-small;"> Les PECAD'A sont une
-      publication du laboratoire ouverte à ses membres et à des auteurs extérieurs. Ils accueillent
-      des contributions qui ont fait l'objet d'une présentation et d'une discussion en séminaire de
-      recherche. Les opinions exprimées engagent leur auteur et lui
-      seul.</span></div><div align="center"><br /><br /><span
-      style="font-size: xx-small;"><a
-      href="http://citeres.univ-tours.fr/compo.php?niveau=lat&amp;page=p_lat/lat_online2">CONTRIBUTIONS</a></span>
-      </div><div align="justify"><span style="font-family:
-      Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>Liste des
-      articles</b></span></div><blockquote><div
-      align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size:
-      xx-small;"><b>22</b> - A. Ferdière - Évaluation archéologique urbaine : le cas
-      de Javols-<i>Anderitum</i> (Lozère), 1996-2009.<br /> <a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/pecada_22.pdf" target="_blank">[pdf, 816
-      Ko]</a> - 15/06/10</span></div><div align="justify"><span
-      style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size:
-      xx-small;"><b>21</b> - E. Jaffrot - Une étape de la recherche sur la relation
-      entre l'usage du sol et l'état de conservation de la céramique domestique (du 1er au 10e
-      s.).<br /> <a href="http://citeres.univ-tours.fr/doc/lat/pecada/pecada_21.pdf"
-      target="_blank">[pdf, 1.04 Mo]</a> - 17/09/08</span></div><div
-      align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size:
-      xx-small;"><b>20</b> - J. Seigne (coord.) - Dendrochronologie et datations
-      archéologiques pour la période antique. Compte-rendu de la table-ronde du 23 janvier 2006 à
-      Tours. <br /> <a href="http://citeres.univ-tours.fr/doc/lat/pecada/pecada_20.pdf"
-      target="_blank">[pdf, 244 ko]</a> - 23/01/07</span></div><div
-      align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size:
-      xx-small;"><b>19</b> - V. Marthon - La question de l'identité à travers l'étude
-      des pratiques funéraires.<br /> <a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/pecada_19.pdf" target="_blank">[pdf, 245
-      ko]</a> - 18/10/05</span></div><div align="justify"><span
-      style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size:
-      xx-small;"><b>18</b> - M. Fondrillon, D. Germinet, A. Laurent, E. Marot, V.
-      Marthon, N. Poirier et M. Salin - Aborder la question de l'identité en archéologie : bilan
-      bibliographique et réflexions dans des thèses en cours. <br /> <a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/pecada_18.pdf" target="_blank">[pdf, 449
-      ko]</a> - 18/10/05</span></div><div align="justify"><span
-      style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size:
-      xx-small;"><b>17</b> - H. Galinié, P. Husi, X. Rodier, C. Theureau, E.
-      Zadora-Rio - ARSOL. La chaine de gestion des données de fouilles du Laboratoire Archéologie et
-      Territoires. <br /> <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_17.pdf"
-      target="_blank">[pdf, 1.74 Mo] </a>- 27/05/05</span></div><span
-      style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size:
-      xx-small;"><b>16</b> - D. Van Hove - Un modèle SIG pour l'analyse
-      socio-économique des paysages néolithiques. Application à la Calabre Méridionale. <br />
-      <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_16.pdf" target="_blank">[pdf, 715
-      Ko]</a> - 05/09/04</span><br /><span style="font-family:
-      Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>15</b> - H. Galinié
-      - L'expression terres noires, un concept d'attente. <br /> <a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_15.pdf" target="_blank">[pdf, 574
-      Ko]</a> - 01/06/04</span><br /><div align="justify"><span
-      style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size:
-      xx-small;"><b>14</b> - S. Leturcq - La macro-analyse des structures agraires à
-      l'épreuve de la micro-analyse d'un terroir. Contrainte communautaire et individualisme agraire
-      dans un finage beauceron (XVIIe-XXe s.). <br /> <a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_14.pdf">[ pdf, 585 Ko]</a> -
-      15/03/04</span></div><div align="justify"><span style="font-family:
-      Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>13</b> - P. Husi,
-      avec la collaboration de L. Bellanger - Estimer la datation, la durée et les discontinuités de
-      l'occupation des sites archéologiques à l'aide de la modélisation des faciès céramiques. <a
-      href="http://citeres.univ-tours.fr/doc/lat/F2_13.pdf"><br /> [ pdf, 2.57 Mo]</a>
-      - 25/04/03</span></div><div align="justify"><span style="font-family:
-      Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>12</b> - C. Héron -
-      La carte archéologique de Seine-Saint-Denis : description et organisation des données.<br
-      /> <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_12.pdf">[ pdf, 2.67
-      Mo]</a> - 25/04/03</span></div><div align="justify"><span
-      style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size:
-      xx-small;"><b>11</b> - H. Galinié, X. Rodier, TOTOPI - TOpographie de TOurs
-      Pré-Industriel, un outil d'analyse urbaine.<br /> <a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_11.pdf">[ pdf, 492 Ko]</a> -
-      09/12/02</span></div><div align="justify"><span style="font-family:
-      Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>10 </b>- L. Costa -
-      SIG et Archéologues en Val d'Oise. <br /> <a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_10.pdf">[pdf, 2.14 Mo]</a> -
-      02/12/02</span></div><div align="justify"><span style="font-family:
-      Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>9</b> - A. Ferdière
-      - La place de l'archéologie dans les manuels d'Histoire : l'exemple de l'Histoire romaine,
-      principalement de la Gaule. <br /> <a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_9.pdf">[ pdf, 206 Ko]</a> -
-      15/02/02</span></div><div align="justify"><span style="font-family:
-      Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>8</b> - E.
-      Zadora-Rio - Archéologie et toponymie : le divorce.<a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_8.pdf"><br /> [pdf, 336
-      Ko]</a> - 05/12/01</span></div><div align="justify"><span
-      style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size:
-      xx-small;"><b>7</b> - H. Galinié - Utiliser la notion de "Distance critique"
-      dans l'étude des relations socio-spatiales. <br /> <a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_7.pdf">[ pdf, 332 Ko]</a> -
-      07/02/01</span></div><div align="justify"><span style="font-family:
-      Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>6</b> - Ph. Husi -
-      Quantification et datation en céramologie. <br /> <a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_6.pdf">[pdf, 447 Ko]</a> -
-      06/03/01</span></div><div align="justify"><span style="font-family:
-      Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>5</b> - Collectif -
-      La modélisation des systèmes de peuplement : débat à propos d'un ouvrage récent : Des oppida
-      aux métropoles. <br /> <a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_5.pdf">[pdf, 684 Ko] </a>-
-      30/06/00</span></div><div align="justify"><span style="font-family:
-      Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>4 </b>- X. Rodier -
-      Le système d'information géographique TOTOPI : TOpographie de TOurs Pré-Industriel. <br
-      /> <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_4.pdf">[ pdf, 2.67
-      Mo]</a> - 22/12/00</span></div><div align="justify"><span
-      style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size:
-      xx-small;"><b>3</b> - S. Leturcq - Territoire du laboureur, territoire du
-      pasteur. Distances et territoires d'une communauté agraire. <br /> <a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_3.pdf">[pdf, 463 Ko]</a> -
-      06/03/01</span></div><div align="justify"><span style="font-family:
-      Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>2</b> - Ph. Depreux
-      - A la recherche des défenseurs de la cité à l'époque carolingienne. <br /> <a
-      href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_2.pdf">[pdf, 448 Ko]</a> -
-      06/03/01</span></div><div align="justify"><span style="font-family:
-      Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>1</b> - A. Ferdière
-      - La "distance critique" : artisans et artisanat dans l'Antiquité romaine et en particulier en
-      Gaule. <br /> <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_1.pdf">[pdf,
-      534 Ko]</a> - 07/02/01<br />
-      </span></div></blockquote></blockquote><br /><div
-      style="text-align: center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: Les Petits Cahiers d'Anatole</title>
+   <content type="html"><![CDATA[<a href="http://citeres.univ-tours.fr/compo.php?niveau=lat&amp;page=p_lat/lat_online">Les Petits Cahiers d'Anatole: revue en ligne publiée par le Laboratoire Archéologie et Territoires, UMR 6173</a><br />ISSN 2105-2921 <br /><blockquote class="tr_bq"><div align="justify" style="font-family: inherit;"><span style="font-size: x-small;">Sous         le titre Les petits cahiers d'Anatole, l'unité a ouvert en 2000         une publication en ligne destinée à accueillir:</span></div><blockquote style="font-family: inherit;"><div align="justify"><span style="font-size: x-small;">          - des articles méthodologiques et épistémologiques,<br />          - des travaux en cours d'élaboration dans l'unité,<br />          - des débats.</span></div></blockquote><div align="justify" style="font-family: inherit;"><span style="font-size: x-small;">Les         articles sont soumis à des lecteurs désignés par         le comité de rédaction. Ils sont mis en ligne aussitôt         après leur acceptation. La rédaction pourra constituer des         numéros thématiques de la revue, sur papier, par la réunion         d'articles préalablement mis en ligne.</span> </div></blockquote><blockquote class="tr_bq"><div align="justify" style="font-family: inherit;"><span style="font-size: x-small;">        Les PECAD'A sont une publication du laboratoire ouverte à ses membres         et à des auteurs extérieurs. Ils accueillent des contributions         qui ont fait l'objet d'une présentation et d'une discussion en         séminaire de recherche. Les opinions exprimées engagent         leur auteur et lui seul.</span></div><div align="center"><br /><br /><span style="font-size: xx-small;"><a href="http://citeres.univ-tours.fr/compo.php?niveau=lat&amp;page=p_lat/lat_online2">CONTRIBUTIONS</a></span>      </div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>Liste         des articles</b></span></div><blockquote><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>22</b>            - A. Ferdière - Évaluation archéologique urbaine            : le cas de Javols-<i>Anderitum</i> (Lozère), 1996-2009.<br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/pecada_22.pdf" target="_blank">[pdf,            816 Ko]</a> - 15/06/10</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>21</b>            - E. Jaffrot - Une étape de la recherche sur la relation entre l'usage            du sol et l'état de conservation de la céramique domestique (du 1er            au 10e s.).<br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/pecada_21.pdf" target="_blank">[pdf,            1.04 Mo]</a> - 17/09/08</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>20</b>            - J. Seigne (coord.) - Dendrochronologie et datations archéologiques            pour la période antique. Compte-rendu de la table-ronde du 23            janvier 2006 à Tours. <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/pecada_20.pdf" target="_blank">[pdf,            244 ko]</a> - 23/01/07</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>19</b>            - V. Marthon - La question de l'identité à travers l'étude            des pratiques funéraires.<br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/pecada_19.pdf" target="_blank">[pdf,            245 ko]</a> - 18/10/05</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>18</b>            - M. Fondrillon, D. Germinet, A. Laurent, E. Marot, V. Marthon, N. Poirier            et M. Salin - Aborder la question de l'identité en archéologie            : bilan bibliographique et réflexions dans des thèses            en cours. <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/pecada_18.pdf" target="_blank">[pdf,            449 ko]</a> - 18/10/05</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>17</b>            - H. Galinié, P. Husi, X. Rodier, C. Theureau, E. Zadora-Rio            - ARSOL. La chaine de gestion des données de fouilles du Laboratoire            Archéologie et Territoires. <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_17.pdf" target="_blank">[pdf,            1.74 Mo] </a>- 27/05/05</span></div><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>16</b>            - D. Van Hove - Un modèle SIG pour l'analyse socio-économique            des paysages néolithiques. Application à la Calabre Méridionale.            <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_16.pdf" target="_blank">[pdf,            715 Ko]</a> - 05/09/04</span><br /><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>15</b>            - H. Galinié - L'expression terres noires, un concept d'attente.            <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_15.pdf" target="_blank">[pdf,            574 Ko]</a> - 01/06/04</span><br /><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>14</b>            - S. Leturcq - La macro-analyse des structures agraires à l'épreuve            de la micro-analyse d'un terroir. Contrainte communautaire et individualisme            agraire dans un finage beauceron (XVIIe-XXe s.). <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_14.pdf">[ pdf,            585 Ko]</a> - 15/03/04</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>13</b>            - P. Husi, avec la collaboration de L. Bellanger - Estimer la datation,            la durée et les discontinuités de l'occupation des sites            archéologiques à l'aide de la modélisation des            faciès céramiques. <a href="http://citeres.univ-tours.fr/doc/lat/F2_13.pdf"><br />          [ pdf, 2.57 Mo]</a> - 25/04/03</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>12</b>            - C. Héron - La carte archéologique de Seine-Saint-Denis            : description et organisation des données.<br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_12.pdf">[ pdf,            2.67 Mo]</a> - 25/04/03</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>11</b>            - H. Galinié, X. Rodier, TOTOPI - TOpographie de TOurs Pré-Industriel,            un outil d'analyse urbaine.<br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_11.pdf">[ pdf,            492 Ko]</a> - 09/12/02</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>10            </b>- L. Costa - SIG et Archéologues en Val d'Oise. <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_10.pdf">[pdf,            2.14 Mo]</a> - 02/12/02</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>9</b>            - A. Ferdière - La place de l'archéologie dans les manuels            d'Histoire : l'exemple de l'Histoire romaine, principalement de la Gaule.            <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_9.pdf">[ pdf,            206 Ko]</a> - 15/02/02</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>8</b>            - E. Zadora-Rio - Archéologie et toponymie : le divorce.<a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_8.pdf"><br />          [pdf, 336 Ko]</a> - 05/12/01</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>7</b>            - H. Galinié - Utiliser la notion de "Distance critique"            dans l'étude des relations socio-spatiales. <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_7.pdf">[ pdf,            332 Ko]</a> - 07/02/01</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>6</b>            - Ph. Husi - Quantification et datation en céramologie. <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_6.pdf">[pdf,            447 Ko]</a> - 06/03/01</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>5</b>            - Collectif - La modélisation des systèmes de peuplement            : débat à propos d'un ouvrage récent : Des oppida            aux métropoles. <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_5.pdf">[pdf,            684 Ko] </a>- 30/06/00</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>4            </b>- X. Rodier - Le système d'information géographique            TOTOPI : TOpographie de TOurs Pré-Industriel. <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_4.pdf">[ pdf,            2.67 Mo]</a> - 22/12/00</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>3</b>            - S. Leturcq - Territoire du laboureur, territoire du pasteur. Distances            et territoires d'une communauté agraire. <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_3.pdf">[pdf,            463 Ko]</a> - 06/03/01</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>2</b>            - Ph. Depreux - A la recherche des défenseurs de la cité            à l'époque carolingienne. <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_2.pdf">[pdf,            448 Ko]</a> - 06/03/01</span></div><div align="justify"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: xx-small;"><b>1</b>            - A. Ferdière - La "distance critique" : artisans et            artisanat dans l'Antiquité romaine et en particulier en Gaule.            <br />          <a href="http://citeres.univ-tours.fr/doc/lat/pecada/F2_1.pdf">[pdf,            534 Ko]</a> - 07/02/01<br />          </span></div></blockquote></blockquote><br /><div style="text-align: center;">See the full <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1732180333782523697/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1732180333782523697/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/04/open-access-journal-les-petits-cahiers.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1732180333782523697"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1732180333782523697"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/04/open-access-journal-les-petits-cahiers.html"
          title="Open Access Journal: Les Petits Cahiers d'Anatole"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-732811270537292756</id>
+   <published>2016-05-25T21:48:00.000-04:00</published>
+   <updated>2016-05-25T21:48:41.260-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Encoding"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Coptic"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Grammar"/>
+   <title type="text">Coptic Scriptorium News: Coptic Treebank Released</title>
+   <content type="html"><![CDATA[<a href="http://blog.copticscriptorium.org/2016/05/25/coptic-treebank-released/" rel="bookmark" title="Coptic Treebank Released">Coptic Treebank Released</a>					     					    <br /><div class="post-header"><div class="post-meta">						 							<span class="post-date"><a href="http://blog.copticscriptorium.org/2016/05/25/coptic-treebank-released/" title="Coptic Treebank Released">May 25, 2016</a></span>							 							<span class="date-sep"> / </span>								 							<span class="post-author"><a href="http://blog.copticscriptorium.org/author/amir-zeldes/" rel="author" title="Posts by Amir Zeldes">Amir Zeldes</a></span>							 							<span class="date-sep"> /&nbsp;</span><a href="http://blog.copticscriptorium.org/2016/05/25/coptic-treebank-released/#respond"><span class="comment"></span></a>							 																				 						</div></div><span style="font-size: x-small;"> </span><blockquote class="tr_bq"><span style="font-size: x-small;">Yesterday we published the first public version of the <a href="https://corpling.uis.georgetown.edu/coptic-treebank/">Coptic Universal Dependency Treebank</a>.  This resource is the first syntactically annotated corpus of Coptic,  containing complete analyses of each sentence in over 4,300 words of  Coptic excerpts from Shenoute, the New Testament and the Apophthegmata  Patrum.</span><br /><br /> <span style="font-size: x-small;">To get an idea of the kind of analysis that Treebank data gives use,  compare the following examples of an English and a Coptic dependency  syntax tree. In the English tree below, the subject and object of the  verb ‘depend’ on the verb for their grammatical function – the nominal  subject (<strong>nsubj</strong>) is “I”, and the direct object (<strong>dobj</strong>) is “cat”.</span><br /> <div align="center"><span style="font-size: x-small;"><a href="http://blog.copticscriptorium.org/wp-content/uploads/2016/05/cat_mat.svg" rel="attachment wp-att-266"><img alt="cat_mat" class="alignnone size-medium wp-image-266" src="http://blog.copticscriptorium.org/wp-content/uploads/2016/05/cat_mat.svg" /></a></span></div><span style="font-size: x-small;">We can quickly find out what’s going on in a sentence or ‘who did  what to whom’ by looking at the arrows emanating from each word. The  same holds for this&nbsp;Coptic example, which uses the same <a href="http://universaldependencies.org/">Universal Dependencies</a> annotation schema, allowing us to compare English and Coptic syntax.</span><br /> <div class="wp-caption aligncenter" id="attachment_268" style="width: 334px;"><span style="font-size: x-small;"><a href="http://blog.copticscriptorium.org/wp-content/uploads/2016/05/give_to_the_poor.svg" rel="attachment wp-att-268"><img alt="He gave them to the poor" class="wp-image-268 size-medium" height="235" src="http://blog.copticscriptorium.org/wp-content/uploads/2016/05/give_to_the_poor.svg" width="324" /></a></span><div class="wp-caption-text"><span style="font-size: x-small;">He gave them to the poor</span></div></div><span style="font-size: x-small;">Treebanks are an essential component for linguistic research, but  they&nbsp;also enable a variety of Natural Language Processing technologies  to be used on a language. Beyond automatically parsing text to make some  more analyzed data,&nbsp;we can use syntax trees for information extraction  and entity recognition. For example, the first tree below shows us that  “the Presbyter&nbsp;of Scetis” is a coherent entity (a subgraph, headed by a  noun); the incorrect analysis following it would suggest Scetis is not  part of the same unit as the Presbyter,&nbsp;meaning we could be&nbsp;dealing with  a different person.</span><br /> <div class="wp-caption aligncenter" id="attachment_269" style="width: 527px;"><span style="font-size: x-small;"><a href="http://blog.copticscriptorium.org/wp-content/uploads/2016/05/scetis_correct.svg" rel="attachment wp-att-269"><img alt="One time, the Presbyter of Scetis went..." class="wp-image-269 size-medium" height="235" src="http://blog.copticscriptorium.org/wp-content/uploads/2016/05/scetis_correct.svg" width="517" /></a></span><div class="wp-caption-text"><span style="font-size: x-small;">One time, the Presbyter of Scetis went…</span></div></div><div class="wp-caption aligncenter" id="attachment_270" style="width: 527px;"><span style="font-size: x-small;"><a href="http://blog.copticscriptorium.org/wp-content/uploads/2016/05/scetis_incorrect.svg" rel="attachment wp-att-270"><img alt="One time, the Presbyter went from Scetis... (incorrect!)" class="wp-image-270 size-medium" height="235" src="http://blog.copticscriptorium.org/wp-content/uploads/2016/05/scetis_incorrect.svg" width="517" /></a></span><div class="wp-caption-text"><span style="font-size: x-small;">One time, the Presbyter went from Scetis… (incorrect!)</span></div></div><span style="font-size: x-small;">To find out more about this resource, check out the new <a href="https://corpling.uis.georgetown.edu/coptic-treebank/">Coptic Treebank webpage</a>. And to read&nbsp;where the Presbyter of Scetis went, go to this&nbsp;URN:&nbsp;<a href="http://data.copticscriptorium.org/urn:cts:copticLit:ap.19.monbeg/analytic/html" target="_blank">urn:cts:copticLit:ap.19.monbeg</a>.</span><br /> </blockquote><h3 class="sd-title"><br /></h3>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/732811270537292756/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/05/coptic-scriptorium-news-coptic-treebank.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/732811270537292756"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/732811270537292756"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/05/coptic-scriptorium-news-coptic-treebank.html"
+         title="Coptic Scriptorium News: Coptic Treebank Released"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

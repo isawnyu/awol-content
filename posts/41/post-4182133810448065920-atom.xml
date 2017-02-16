@@ -1,57 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4182133810448065920</id>
-    <published>2012-02-01T11:56:00.001-05:00</published>
-    <updated>2012-02-01T11:56:43.469-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4182133810448065920</id>
+   <published>2012-02-01T11:56:00.001-05:00</published>
+   <updated>2012-02-01T11:56:43.469-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Base de Données des Amphores Gauloise de Narbonnaises</title>
-    <content type="html"><![CDATA[<a href="http://www.mom.fr/-Amphores-.html">Base de Données des
-      Amphores Gauloise de Narbonnaises</a><br /><blockquote class="tr_bq">
-      <span style="font-size: x-small;">Les compositions chimiques constituent une base de
-      référence indispensable pour les comparaisons. Les données sont stockées dans la base de
-      données générale du laboratoire de céramologie. Un extrait de cette base a été constitué pour
-      mettre à disposition les données chimiques sur les amphores de Narbonnaise sur le Web. Les
-      interrogations sont possibles pour le moment par site de découverte. En choisissant un nom de
-      site dans le menu déroulant on obtient la description des exemplaires du site puis en cliquant
-      sur le numéro d’analyse, on obtient la composition chimique correspondante. <br /><br
-      />Cette base est en cours de développement et les critères d’interrogation vont s’étoffer
-      progressivement. <br /><br /> <a class="spip_out" href="http://amphores.mom.fr/"
-      rel="external" target="_blank">Accès à la base de
-      données</a></span></blockquote><div style="text-align: center;"><br
-      /></div><div style="text-align: center;">From Ressources en ligne, <a
-      href="http://www.mom.fr/">Maison de l'Orient et de la Méditerranée, Lyon</a>
-      </div>]]></content>
-    <link rel="replies"
+   <title type="text">Base de Données des Amphores Gauloise de Narbonnaises</title>
+   <content type="html"><![CDATA[<a href="http://www.mom.fr/-Amphores-.html">Base de Données des Amphores Gauloise de Narbonnaises</a><br /><blockquote class="tr_bq"> <span style="font-size: x-small;">Les compositions chimiques constituent une base de référence  indispensable pour les comparaisons. Les données sont stockées dans la  base de données générale du laboratoire de céramologie. Un extrait de  cette base a été constitué pour mettre à disposition les données  chimiques sur les amphores de Narbonnaise sur le Web. Les interrogations  sont possibles pour le moment par site de découverte. En choisissant un  nom de site dans le menu déroulant on obtient la description des  exemplaires du site puis en cliquant sur le numéro d’analyse, on obtient  la composition chimique correspondante.  <br /><br />Cette base est en cours de développement et les critères d’interrogation vont s’étoffer progressivement. <br /><br /> <a class="spip_out" href="http://amphores.mom.fr/" rel="external" target="_blank">Accès à la base de données</a></span></blockquote><div style="text-align: center;"><br /></div><div style="text-align: center;">From Ressources en ligne, <a href="http://www.mom.fr/">Maison de l'Orient et de la Méditerranée, Lyon</a> </div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4182133810448065920/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4182133810448065920/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/02/base-de-donnees-des-amphores-gauloise.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4182133810448065920"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4182133810448065920"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/02/base-de-donnees-des-amphores-gauloise.html"
          title="Base de Données des Amphores Gauloise de Narbonnaises"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

@@ -1,177 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1947427053156127337</id>
-    <published>2015-04-03T09:25:00.002-04:00</published>
-    <updated>2015-04-03T09:25:47.828-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1947427053156127337</id>
+   <published>2015-04-03T09:25:00.002-04:00</published>
+   <updated>2016-10-16T13:49:56.431-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Eastern Mediterranean"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Eastern Mediterranean"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Description and Travel"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Aegean"/>
-    <title type="text">Travelogues: Travellers' Views</title>
-    <content type="html"><![CDATA[<a href="http://eng.travelogues.gr/">Travelogues: Travellers'
-      Views</a><br />Places – Monuments – People<br />Southeastern Europe – Eastern
-      Mediterranean<br />Greece – Asia Minor – Southern Italy<br /> <hr /><div
-      class="content"><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Travelogues website was created within the broader project of Aikaterini
-      Laskaridis Foundation to promote Greek culture, and especially Greek literature, on a national
-      and international level. This website aims to make known the graphic materials found in travel
-      accounts of journeys to Greece and the eastern Mediterranean from the 15th century onwards, and
-      thus contribute both to students' education and scientific research. An important part of the
-      editions that constituted the data base of the website belongs to the Historical Library of the
-      Foundation, currently under construction.</span><br /><br /> <span
-      style="font-size: x-small;">Travelogues will periodically be updated with material from
-      major libraries in Greece, such as Gennadius Library and Benaki Museum Library. This material,
-      already in process, spans the time from the 15th to the early 20th century. Of approximately
-      4500 images, 560 have already been incorporated in the website's collections. In the same
-      sense, the bibliography shall be updated with the most recent research contributions. User
-      feedback will be taken into consideration and the pertinent modifications will get
-      reflected.</span><br /><div class="row"> <div class="twelve columns">
-      <nav class="desktop-menu"> <ul class="sf-menu navigation sf-js-enabled sf-arrows"
-      id="themenu"><li class="menu-item"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/page.php?view=86">AIKATERINI LASKARIDIS
-      FOUNDATION</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-59" id="menu-item-59"><span style="font-size:
-      x-small;"><a class="sf-with-ul"
-      href="http://eng.travelogues.gr/#">TRAVELOGUES</a></span><ul
-      class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom
-      menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/ergo.php?view=11">THE
-      WEBSITE</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size:
-      x-small;"><a
-      href="http://eng.travelogues.gr/page.php?view=88">CONTRIBUTORS</a></span></li></ul></li><li
-      class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"
-      id="menu-item-57"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/topoi.php">PLACES</a></span></li><li
-      class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"
-      id="menu-item-58"><span style="font-size: x-small;"><a class="sf-with-ul"
-      href="http://eng.travelogues.gr/#">SOURCES</a></span><ul
-      class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom
-      menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/collections.php">CURRENTLY
-      AVAILABLE</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size:
-      x-small;"><a
-      href="http://eng.travelogues.gr/page.php?view=90">FORTHCOMING</a></span></li><li
-      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"
-      id="menu-item-60"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/page.php?view=91">NEWLY
-      ADDED</a></span></li></ul></li><li class="menu-item
-      menu-item-type-custom menu-item-object-custom menu-item-59" id="menu-item-59"><span
-      style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/bibliography.php">BIBLIOGRAPHY</a></span></li><li
-      class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"
-      id="menu-item-83"><span style="font-size: x-small;"><a class="sf-with-ul"
-      href="http://eng.travelogues.gr/#">SUBJECTS</a></span><ul
-      class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom
-      menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/all-tags.php">ALL
-      SUBJECTS</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size:
-      x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=9146">VIEWS</a></span></li><li
-      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61"
-      id="menu-item-61"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=9250">ART AND
-      ANTIQUITIES</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size:
-      x-small;"><a href="http://eng.travelogues.gr/subject.php?view=9258">ARCHITECTURE AND
-      BUILT ENVIRONMENT</a></span></li><li class="menu-item
-      menu-item-type-custom menu-item-object-custom menu-item-61" id="menu-item-61"><span
-      style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=9784">ETHNIC
-      GROUPS</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size:
-      x-small;"><a href="http://eng.travelogues.gr/subject.php?view=10063">RELIGIOUS
-      PRACTICES</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size:
-      x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=10168">HISTORY</a></span></li><li
-      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"
-      id="menu-item-60"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=10197">SOCIAL SPHERE AND EVERYDAY
-      LIFE</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size:
-      x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=11509">MYTHOLOGY</a></span></li><li
-      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"
-      id="menu-item-60"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=11853">ECONOMIC
-      ACTIVITY</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size:
-      x-small;"><a href="http://eng.travelogues.gr/subject.php?view=12215">STATE AND
-      MILITARY INSTITUTIONS - DIPLOMATIC RELATIONS</a></span></li><li
-      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"
-      id="menu-item-60"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=12216">CULTURAL
-      ACTIVITIES</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size:
-      x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=12304">PORTRAITS</a></span></li><li
-      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"
-      id="menu-item-60"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=12305">AUTHOR
-      PORTRAITS</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size:
-      x-small;"><a href="http://eng.travelogues.gr/subject.php?view=12529">TITLE
-      PAGE</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size:
-      x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=12794">TRAVEL</a></span></li><li
-      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61"
-      id="menu-item-61"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=13423">HEALTHCARE</a></span></li><li
-      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"
-      id="menu-item-60"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=13187">NATURAL
-      ENVIRONMENT</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size:
-      x-small;"><a
-      href="http://eng.travelogues.gr/subject.php?view=13218">MAPS</a></span></li></ul></li><li
-      class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"
-      id="menu-item-83"><span style="font-size: x-small;"><a class="sf-with-ul"
-      href="http://eng.travelogues.gr/#">CONTACT</a></span><ul
-      class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom
-      menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a
-      href="http://eng.travelogues.gr/contact.php">CONTACT
-      US</a></span></li><li class="menu-item menu-item-type-custom
-      menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size:
-      x-small;"><a href="http://eng.travelogues.gr/digital_use.php">REQUEST TO USE AND
-      REPRODUCE DIGITAL
-      COLLECTIONS</a></span></li></ul></li></ul></nav>
-      </div></div></blockquote><div style="text-align: center;"><span
-      style="font-size: small;">&nbsp;<span> And see AWOL's round-up of <a
-      href="http://ancientworldonline.blogspot.com/2009/04/open-access-travel-literature.html">Open
-      Access Travel Literature</a>.</span></span></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Aegean"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Description and Travel"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <title type="text">Travelogues: Travellers' Views</title>
+   <content type="html"><![CDATA[<a href="http://eng.travelogues.gr/">Travelogues: Travellers' Views</a><br />Places – Monuments – People<br />Southeastern Europe – Eastern Mediterranean<br />Greece – Asia Minor – Southern Italy<br /><hr /><div class="content"><blockquote class="tr_bq"><span style="font-size: x-small;">Travelogues website was created within the broader project of  Aikaterini Laskaridis Foundation to promote Greek culture, and  especially Greek literature, on a national and international level. This  website aims to make known the graphic materials found in travel  accounts of journeys to Greece and the eastern Mediterranean from the  15th century onwards, and thus contribute both to students' education  and scientific research. An important part of the editions that  constituted the data base of the website belongs to the Historical  Library of the Foundation, currently under construction.</span><br /><br /><span style="font-size: x-small;">Travelogues will periodically be updated with material from major  libraries in Greece, such as Gennadius Library and Benaki Museum  Library. This material, already in process, spans the time from the 15th  to the early 20th century. Of approximately 4500 images, 560 have  already been incorporated in the website's collections. In the same  sense, the bibliography shall be updated with the most recent research  contributions. User feedback will be taken into consideration and the  pertinent modifications will get reflected.</span><br /><div class="row"><div class="twelve columns"><br /><nav class="desktop-menu">     <ul class="sf-menu navigation sf-js-enabled sf-arrows" id="themenu"><li class="menu-item"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/page.php?view=86">AIKATERINI LASKARIDIS FOUNDATION</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59" id="menu-item-59"><span style="font-size: x-small;"><a class="sf-with-ul" href="http://eng.travelogues.gr/#">TRAVELOGUES</a></span><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/ergo.php?view=11">THE WEBSITE</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/page.php?view=88">CONTRIBUTORS</a></span></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57" id="menu-item-57"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/topoi.php">PLACES</a></span></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58" id="menu-item-58"><span style="font-size: x-small;"><a class="sf-with-ul" href="http://eng.travelogues.gr/#">SOURCES</a></span><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/collections.php">CURRENTLY AVAILABLE</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/page.php?view=90">FORTHCOMING</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/page.php?view=91">NEWLY ADDED</a></span></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59" id="menu-item-59"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/bibliography.php">BIBLIOGRAPHY</a></span></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83" id="menu-item-83"><span style="font-size: x-small;"><a class="sf-with-ul" href="http://eng.travelogues.gr/#">SUBJECTS</a></span><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/all-tags.php">ALL SUBJECTS</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=9146">VIEWS</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=9250">ART AND ANTIQUITIES</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=9258">ARCHITECTURE AND BUILT ENVIRONMENT</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=9784">ETHNIC GROUPS</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=10063">RELIGIOUS PRACTICES</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=10168">HISTORY</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=10197">SOCIAL SPHERE AND EVERYDAY LIFE</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=11509">MYTHOLOGY</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=11853">ECONOMIC ACTIVITY</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=12215">STATE AND MILITARY INSTITUTIONS - DIPLOMATIC RELATIONS</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=12216">CULTURAL ACTIVITIES</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=12304">PORTRAITS</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=12305">AUTHOR PORTRAITS</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=12529">TITLE PAGE</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=12794">TRAVEL</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=13423">HEALTHCARE</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=13187">NATURAL ENVIRONMENT</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61" id="menu-item-61"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/subject.php?view=13218">MAPS</a></span></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83" id="menu-item-83"><span style="font-size: x-small;"><a class="sf-with-ul" href="http://eng.travelogues.gr/#">CONTACT</a></span><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/contact.php">CONTACT US</a></span></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60"><span style="font-size: x-small;"><a href="http://eng.travelogues.gr/digital_use.php">REQUEST TO USE AND REPRODUCE DIGITAL COLLECTIONS</a></span></li></ul></li></ul></nav>         </div></div></blockquote><div style="text-align: center;"><span style="font-size: small;">&nbsp; And see AWOL's round-up of <a href="http://ancientworldonline.blogspot.com/2009/04/open-access-travel-literature.html">Open Access Travel Literature</a>.</span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1947427053156127337/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1947427053156127337/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/04/travelogues-travellers-views.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1947427053156127337"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1947427053156127337"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/04/travelogues-travellers-views.html"
          title="Travelogues: Travellers' Views"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

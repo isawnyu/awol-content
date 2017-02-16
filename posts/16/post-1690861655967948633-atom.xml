@@ -1,86 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1690861655967948633</id>
-    <published>2014-09-05T16:15:00.000-04:00</published>
-    <updated>2014-09-05T16:49:38.301-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1690861655967948633</id>
+   <published>2015-10-26T07:23:00.000-04:00</published>
+   <updated>2015-10-26T07:24:47.228-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="kml"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Geography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="kml"/>
-    <title type="text">ANE Placemarks for Google Earth</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 26 July 2011,
-      updated (new urls) 5 September 2014]</span><br /><br /><a
-      href="http://www.lingfil.uu.se/staff/olof_pedersen/Google_Earth/?languageId=1">ANE
-      Placemarks for Google Earth</a><br />From <a
-      href="http://www.lingfil.uu.se/staff/olof_pedersen/">Olof Pedersén</a><br
-      /><blockquote> <div class="articleContent"><div class="articleExtraInfo">
-      </div><div class="articleText" id="articleText_component_2_6"> <span
-      style="font-size: x-small;">A preliminary set of placemarks (ANE.kmz) for Google Earth of a
-      selection of the most important archaeological sites in the Ancient Near East can be <a
-      href="http://www2.lingfil.uu.se/projects/ANE/ANE.kmz" lang="none">downloaded here</a>
-      (as an alternative try right-click or ctrl-click).
-      </span></div></div></blockquote><blockquote><div
-      class="articleContent"><div class="articleText"
-      id="articleText_component_2_6"><span style="font-size: x-small;"><img alt=""
-      src="http://www.lingfil.uu.se/digitalAssets/149/149538_1anekmz1.gif" />
-      </span></div></div></blockquote><blockquote><div
-      class="articleContent"><div class="articleText" id="articleText_component_2_6"><div
-      class="bodyText" style="margin-left: 40px;"><span style="font-size: x-small;">Ancient
-      Near East Placemarks on Google Earth with alphabetic listing.</span></div><div
-      class="bodyText"><span style="font-size: x-small;">ANE.kmz works with Google Earth,
-      which has to be downloaded (free at <a
-      href="http://earth.google.com/">earth.google.com</a>). When opened inside Google
-      Earth, ANE.kmz gives, to the left, an alphabetic list of ancient sites and, to the right, on
-      the satellite photo the same sites marked. For the moment, there are some 2500 sites with
-      modern names; among them some 400 have ancient names. Additions of more sites are
-      planned.</span></div><span style="font-size: x-small;">Ancient name is
-      written without parenthesis. Modern name is within parenthesis. Most sites have been identified
-      on the satelite photos. However, a few sites are only placed in the possible area, e.g. in a
-      village with the right name when the site may be outside (if so marked with question mark ?
-      after the parenthesis around the modern name). Question mark after ancient name means that
-      identification is not yet proven. Question mark efter modern name (but before parenthesis
-      around the name) means spelling of name uncertain. Two question marks ?? at the end indicate
-      that it may not be a site but could possibly be a natural hill.
-      </span></div></div></blockquote><blockquote><div
-      class="articleContent"><div class="articleText" id="articleText_component_2_6"><div
-      class="bodyText"><span style="font-size: x-small;">The preliminary work has received
-      support from the University of Uppsala, the Urban Mind Project at Mistra, and the Excellence
-      Cluster Topoi at Freie Universität Berlin.</span></div><div
-      class="bodyText"><span style="font-size: x-small;">A short introduction to the project
-      dealing with ANE on Google Earth can be read in my manuscript paper<a
-      href="http://www.anst.uu.se/olofpede/ANE.kmzss.pdf"> Ancient Near East on Google Earth:
-      Problems, Preliminary results, and
-      Prospect</a>.</span></div></div></div></blockquote><br
-      /><div style="text-align: center;">&nbsp;And see AWOL's <a
-      href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup
-      of Resources on Ancient Geography</a></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Geography"/>
+   <title type="text">ANE Placemarks for Google Earth</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 26 July 2011, updated 26 October 2015]</span><br /><br /><a href="http://www.lingfil.uu.se/staff/olof_pedersen/Google_Earth/?languageId=1">ANE Placemarks for Google Earth</a><br />From <a href="http://www.lingfil.uu.se/staff/olof_pedersen/">Olof Pedersén</a><br /><blockquote><div class="articleContent"><div class="articleExtraInfo"></div><span style="font-size: x-small;">A preliminary set of placemarks (ANE.kmz) for Google Earth of a  selection of the most important archaeological sites in the Ancient Near  East can be <a href="http://www2.lingfil.uu.se/projects/ANE/ANE.kmz" lang="none">downloaded here</a> (as an alternative try right-click or ctrl-click).</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><img alt="" src="http://www.lingfil.uu.se/digitalAssets/149/149538_1anekmz1.gif" /></span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">Ancient Near East Placemarks on Google Earth with alphabetic listing.</span> </div></blockquote><blockquote><div class="articleContent"><span style="font-size: x-small;"></span><span style="font-size: x-small;">ANE.kmz works with Google Earth, which has to be downloaded (free at <a href="http://earth.google.com/">earth.google.com</a>).  When opened inside Google Earth, ANE.kmz gives, to the left, an  alphabetic list of ancient sites and, to the right, on the satellite  photo the same sites marked. For the moment, there are some 2500 sites  with modern names; among them some 400 have ancient names. Additions of  more sites are planned.</span> </div></blockquote><blockquote><div class="articleContent"><span style="font-size: x-small;"></span><span style="font-size: x-small;">Ancient name is written without parenthesis. Modern name is within  parenthesis. Most sites have been identified on the satelite photos.  However, a few sites are only placed in the possible area, e.g. in a  village with the right name when the site may be outside (if so marked  with question mark ? after the parenthesis around the modern name).  Question mark after ancient name means that identification is not yet  proven. Question mark efter modern name (but before parenthesis around  the name) means spelling of name uncertain. Two question marks ?? at the  end indicate that it may not be a site but could possibly be a natural  hill.</span> </div></blockquote><blockquote><div class="articleContent"><span style="font-size: x-small;"></span><span style="font-size: x-small;">The preliminary work has received support from the University of  Uppsala, the Urban Mind Project at Mistra, and the Excellence Cluster  Topoi at Freie Universität Berlin.</span> </div></blockquote><blockquote><div class="articleContent"><span style="font-size: x-small;"></span><span style="font-size: x-small;">A short introduction to the project dealing with ANE on Google Earth can be read in my manuscript paper<a href="http://www.anst.uu.se/olofpede/ANE.kmzss.pdf"> Ancient Near East on Google Earth: Problems, Preliminary results, and Prospect</a>.</span><br /><span style="font-size: x-small;"></span><h3><span style="font-size: x-small;">New installation</span></h3><span style="font-size: x-small;"></span><span style="font-size: x-small;">With Google Earth already installed, just double click the ANE.kmz  icon. You find all archaeological sites listed in your left panel of  Google Earth under Places/My Places. They can be rearranged, deleted or  extended later on by yourself. Double click the name of a city in your  left panel in order to go to the site. (Due to a program bug, people  having Adobe Photoshop may experience that this program try to take over  the .kmz file. If so choose open with Google Earth or open the .kmz  file from inside Google Earth.)</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;">There are two options after the first session.</span> </div></blockquote><blockquote><div class="articleContent"><span style="font-size: x-small;">1. You never save when leaving Google earth. Then you keep your ANE.kmz and double click the ikon each time you want to use it.</span> </div></blockquote><blockquote><div class="articleContent"><span style="font-size: x-small;">2. The alternative is that you save when leaving Google Earth when  beeing asked. Now you keep the placemarks in your left panel. If you use  this possibility it is important that you delete the ANE.kmz file  because otherwise you will get duplicate names.</span><br /><span style="font-size: x-small;"></span><h3><span style="font-size: x-small;">Updating</span></h3><span style="font-size: x-small;"></span><span style="font-size: x-small;">Two alternatives:</span> </div></blockquote><blockquote><div class="articleContent"><span style="font-size: x-small;">1. If you never saved before leaving Google earth you can just throw the old ANE.kmz away and use a new down loaded ANE.kmz.</span> </div></blockquote><blockquote><div class="articleContent"><span style="font-size: x-small;">2. If you saved, you have all cities listed inside Google Earth. Go to  your left panel and mark My Places (if you want to get rid of all there)  or all the site names from the old ANE list (if you have more to keep  in My Places). Delete what you have marked. Now double click the new  ANE.kmz icon and save when leaving Google Earth, if you want to keep the  new placemarks. If you don't delete the old ones, there will be double  names on every site in Google Earth. Delete the ANE.kmz file if you  saved the placemarkes inside Google Earth.</span> </div></blockquote><blockquote><div class="articleContent"><span style="font-size: x-small;"></span><span style="font-size: x-small;">Until someone else comes up with a better, more permanent solution,  these placemarks may be updated. Any correction or addition with  coordinates could be sent to <a href="mailto:Olof.Pedersen@lingfil.uu.se">Olof Pedersén</a>. No support is offered.</span><br /><span style="font-size: x-small;"></span><h2><span style="font-size: x-small;">Water Placemarks</span></h2><span style="font-size: x-small;"></span><span style="font-size: x-small;">A preliminary overview of the waters of the Mesopotamian floodplain can be <a href="http://www2.lingfil.uu.se/projects/ANE/Waters.kmz">downloaded here</a>.</span><br /><span style="font-size: x-small;"></span><span style="font-size: x-small;"><img alt="" src="http://www.lingfil.uu.se/digitalAssets/149/149538_1waters.jpg" style="border-style: solid; border-width: 0px;" /></span><br /><span style="font-size: x-small;"></span><div style="margin-left: 40px;"><span style="font-size: x-small;">Mesopotamian floodplain with modern waters.</span></div><span style="font-size: x-small;"></span><span style="font-size: x-small;">Represented are Modern waters systems (Euphrates, Tigris, Drain),  Islamic canals, Ancient waters, and Geological waters. It is based on my  own survey of modern waters, some archaeological reconstructions (often  Neo-Babylonian according to Gasche 1998) and geological water  reconstructions (Aqrawi et al. 2006). The archaeological reconstructions  of Ancient waters shown here are incomplete and provisional and most  detailed in the Babylon area.</span> </div></blockquote><blockquote><div class="articleContent"><span style="font-size: x-small;"></span><span style="font-size: x-small;">Click in the left panel to show the selection of waters you are  interested in. Installation and updating work like ANE.kmz above.</span> </div></blockquote><blockquote><div class="articleContent"><span style="font-size: x-small;"></span><span style="font-size: x-small;">A short introduction to the project dealing with waters especially in the Babylon area can be found in my paper <a href="https://www.academia.edu/7444214/Waters_at_Babylon">Waters at Babylon</a>.</span></div></blockquote><div style="text-align: center;">&nbsp;And see AWOL's <a href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup of Resources on Ancient Geography</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1690861655967948633/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1690861655967948633/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/07/ane-placemarks-for-google-earth.html#comment-form"
          title="3 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1690861655967948633"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1690861655967948633"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/07/ane-placemarks-for-google-earth.html"
          title="ANE Placemarks for Google Earth"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

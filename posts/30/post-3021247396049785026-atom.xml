@@ -1,355 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3021247396049785026</id>
-    <published>2010-10-21T14:23:00.004-04:00</published>
-    <updated>2010-10-25T16:33:05.591-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3021247396049785026</id>
+   <published>2010-10-21T14:23:00.004-04:00</published>
+   <updated>2010-10-25T16:33:05.591-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Request for Comment: Rome Wasn't Digitized in a Day: Building a
-      Cyberinfrastructure for Digital Classicists</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.clir.org/activities/details/infrastructure.html">Infrastructure for
-      Humanities Scholarship</a><br /><blockquote><span style="font-size:
-      x-small;">CLIR and Tufts University are engaging scholars and academic librarians in
-      examining the services and digital objects classicists have developed, the future needs of the
-      discipline, and the roles of libraries and other curatorial institutions in fostering the
-      infrastructure on which the core intellectual activities of classics and many other disciplines
-      depend. We envision a set of shared services layered over a distributed storage architecture
-      that is seamless to end users, allows multiple contributors, and leverages institutional
-      resources and facilities. Much of this architecture exists at individual projects and
-      institutions; the challenge is to identify the suite of shared services to be
-      developed.</span><br /><br /><span style="font-size: x-small;">Prior
-      research supported by public and private agencies has created digital resources in classics,
-      which are arguably the most developed and interconnected set of collections and associated
-      services in any discipline outside of the sciences. Questions now posed test the limits of
-      project-based services. The findings of the Blue Ribbon Task Force on Sustainable Digital
-      Preservation and Access, the Library of Congress National Digital Information Infrastructure
-      and Preservation Program (NDIIPP), and two symposia hosted by CLIR (the second with
-      co-sponsorship by NEH) demonstrate that managing digital information requires libraries to play
-      an active role in the research process to ensure appropriate curation and preservation of
-      digital resources. This project will help library professionals understand the challenges of
-      supporting new kinds of publications (e.g., treebanks, or syntactic databases for texts) and
-      services (e.g., named entity identification services optimized for domains such as classical
-      studies) and engage them in designing solutions. The project will also be relevant to areas
-      such as medieval studies, archaeology, and ancient and near eastern
-      languages.</span><br /><br /><span style="font-size: x-small;">CLIR is
-      seeking public comment on a literature review that identifies existing services, resources, and
-      needs in the field of classics. The report, <a
-      href="http://www.clir.org/pubs/archives/Babeu2010.pdf"><i><b>Rome Wasn't
-      Digitized in a Day: Building a Cyberinfrastructure for Digital
-      Classicists</b></i></a>, was produced by Alison Babeu of the Perseus Project
-      at Tufts University. It is intended to inform planning for the next phase of work: description
-      of an infrastructure to support digital classics and related fields of research. (The report is
-      a 1.8 MB .pdf file, please allow time for it to download).</span><br /><br
-      /><span style="font-size: x-small;">Comments on the draft report should be submitted
-      to <b>Kathlin Smith</b> (ksmith<b>at</b>clir<b>dot</b>org)
-      by December 1, 2010. We especially encourage the identification of topics or projects that are
-      missing in the report, or that might be represented more
-      fully.&nbsp;</span></blockquote><div style="text-align: center;">Table of
-      Contents </div><div style="text-align: justify;"><style>@font-face {
-      font-family: "Arial"; }@font-face { font-family: "Courier New"; }@font-face { font-family:
-      "Wingdings"; }@font-face { font-family: "Lucida Grande"; }@font-face { font-family: "CMR10";
-      }@font-face { font-family: "TimesNewRomanPSMT"; }@font-face { font-family: "AdvP94BA";
-      }@font-face { font-family: "F0"; }p.MsoNormal, li.MsoNormal, div.MsoNormal { margin: 0in 0in
-      0.0001pt; font-size: 11pt; font-family: "Times New Roman"; }h1 { margin: 12pt 0in 3pt;
-      page-break-after: avoid; font-size: 16pt; font-family: "Times New Roman"; }h2 { margin: 12pt
-      0in 3pt; page-break-after: avoid; font-size: 14pt; font-family: "Times New Roman"; font-style:
-      italic; }h3 { margin: 12pt 0in 3pt; page-break-after: avoid; font-size: 13pt; font-family:
-      "Times New Roman"; }h4 { margin: 12pt 0in 3pt; page-break-after: avoid; font-size: 14pt;
-      font-family: "Times New Roman"; font-weight: normal; }p.MsoToc1, li.MsoToc1, div.MsoToc1 {
-      margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: "Times New Roman"; }p.MsoToc2,
-      li.MsoToc2, div.MsoToc2 { margin: 0in 0in 0.0001pt 12pt; font-size: 11pt; font-family: "Times
-      New Roman"; }p.MsoToc3, li.MsoToc3, div.MsoToc3 { margin: 0in 0in 0.0001pt 24pt; font-size:
-      11pt; font-family: "Times New Roman"; }p.MsoToc4, li.MsoToc4, div.MsoToc4 { margin: 0in 0in
-      0.0001pt 0.5in; font-size: 11pt; font-family: "Times New Roman"; }p.MsoToc5, li.MsoToc5,
-      div.MsoToc5 { margin: 0in 0in 0.0001pt 48pt; font-size: 11pt; font-family: "Times New Roman";
-      }p.MsoToc6, li.MsoToc6, div.MsoToc6 { margin: 0in 0in 0.0001pt 60pt; font-size: 11pt;
-      font-family: "Times New Roman"; }p.MsoToc7, li.MsoToc7, div.MsoToc7 { margin: 0in 0in 0.0001pt
-      1in; font-size: 11pt; font-family: "Times New Roman"; }p.MsoToc8, li.MsoToc8, div.MsoToc8 {
-      margin: 0in 0in 0.0001pt 84pt; font-size: 11pt; font-family: "Times New Roman"; }p.MsoToc9,
-      li.MsoToc9, div.MsoToc9 { margin: 0in 0in 0.0001pt 96pt; font-size: 11pt; font-family: "Times
-      New Roman"; }p.MsoFootnoteText, li.MsoFootnoteText, div.MsoFootnoteText { margin: 0in 0in
-      0.0001pt; font-size: 8pt; font-family: "Times New Roman"; }p.MsoHeader, li.MsoHeader,
-      div.MsoHeader { margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: "Times New Roman";
-      }span.MsoFootnoteReference { vertical-align: super; }p.MsoBodyText, li.MsoBodyText,
-      div.MsoBodyText { margin: 0in 0in 6pt; font-size: 11pt; font-family: "Times New Roman";
-      }p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3 { margin: 0in 0in 6pt; font-size: 8pt;
-      font-family: "Times New Roman"; }p.MsoBlockText, li.MsoBlockText, div.MsoBlockText { margin:
-      0in 1in 6pt; font-size: 11pt; font-family: "Times New Roman"; }a:link, span.MsoHyperlink {
-      color: blue; text-decoration: underline; }a:visited, span.MsoHyperlinkFollowed { color: purple;
-      text-decoration: underline; }em { }p.MsoAcetate, li.MsoAcetate, div.MsoAcetate { margin: 0in
-      0in 0.0001pt; font-size: 9pt; font-family: "Times New Roman"; }span.Heading1Char { font-family:
-      Arial; font-weight: bold; }span.Heading2Char { font-family: Arial; font-weight: bold;
-      font-style: italic; }span.Heading3Char { font-family: Arial; font-weight: bold;
-      }span.Heading4Char { }span.BalloonTextChar { font-family: "Lucida Grande";
-      }span.FootnoteTextChar { }span.HeaderChar { }span.BodyTextChar { }span.ubernymuttabbreviation {
-      }span.entry { }span.hit1 { }span.hithilite { }p.Style1, li.Style1, div.Style1 { margin: 0in 0in
-      6pt; font-size: 12pt; font-family: "Times New Roman"; font-weight: bold; }span.BodyText3Char {
-      }span.body { }div.Section1 { page: Section1; }ol { margin-bottom: 0in; }ul { margin-bottom:
-      0in; } </style> </div><span style="font-size: xx-small;">﻿</span><br
-      /><pre><span style="font-size: xx-small;"></span><span
-      style="font-size:
-      xx-small;">﻿Introduction............................................................................................................................................................
-      5<br /><br />Classics and Computers: A Long
-      History..............................................................................................................
-      5<br /><br />Multidisciplinary Classical Digital Libraries: Advanced Technologies
-      and Services .......................................... 10<br /><br
-      />Bibliographies/Catalogs/Directories.............................................................................................................
-      11<br /><br />Document Analysis, Recognition and OCR for Historical Languages
-      ........................................................ 14<br /><br />Ancient
-      Greek
-      .........................................................................................................................................
-      14<br /><br />Latin
-      ........................................................................................................................................................
-      17<br /><br
-      />Sanskrit....................................................................................................................................................
-      20<br /><br />Syriac
-      ......................................................................................................................................................
-      23<br /><br />Cuneiform Texts and Sumerian
-      ...............................................................................................................
-      23<br /><br />Computational Linguistics (Treebanks, Automatic Morphological
-      Analysis, Lexicons) ............................ 27<br /><br />Treebanks
-      ................................................................................................................................................
-      28<br /><br />Morphological
-      Analysis..........................................................................................................................
-      29<br /><br
-      />Lexicons..................................................................................................................................................
-      31<br /><br />Canonical Text Services, Citation Detection, Citation Linking
-      ................................................................... 33<br /><br
-      />Text Mining, Quotation Detection and Authorship
-      Attribution................................................................... 37<br
-      /><br />The Disciplines and Technologies of Digital
-      Classics..........................................................................................
-      38<br /><br />Ancient
-      History................................................................................................................................................
-      38<br /><br />Classical Archaeology
-      .....................................................................................................................................
-      40<br /><br />Overview
-      .....................................................................................................................................................
-      40<br /><br />Electronic Publishing and Traditional
-      Publishing........................................................................................
-      40<br /><br />Data Creation, Data Sharing, Data Preservation
-      ..........................................................................................
-      42<br /><br />Digital Repositories, Data Integration &amp; Cyberinfrastructure
-      for Archaeology .......................................... 44<br /><br />Designing
-      Digital Infrastructures for the Research Methods of Archaeology
-      ............................................. 47<br /><br />Visualization &amp;
-      3D Reconstructions of Archaeological
-      Sites...................................................................... 51<br
-      /><br />Classical Art &amp;
-      Architecture............................................................................................................................
-      55<br /><br />Classical Geography
-      ........................................................................................................................................
-      56<br /><br />The Ancient World Mapping
-      Center............................................................................................................
-      57<br /><br />The Pleiades Project
-      ....................................................................................................................................
-      57<br /><br />The HESTIA Project
-      ...................................................................................................................................
-      59<br /><br />Digital Editions &amp; Text
-      Editing........................................................................................................................
-      61<br /><br />Introduction
-      .................................................................................................................................................
-      61<br /><br />Theoretical Issues of Modeling and Markup for Digital
-      Editions................................................................ 62<br /><br
-      />New Models of Collaboration, Tools &amp; Frameworks for Digital Editions
-      .................................................. 67<br /><br />The Challenges of
-      Text Alignment &amp; Text Variants
-      ................................................................................... 70<br
-      /><br
-      />Epigraphy.........................................................................................................................................................
-      73<br /><br />Overview: Epigraphy Databases, Digital Epigraphy and
-      EpiDoc............................................................... 73<br /><br
-      />Online Epigraphy Databases
-      ........................................................................................................................
-      77<br /><br />EpiDoc-Based Digital Epigraphy Projects
-      ...................................................................................................
-      81<br /><br />The Challenges of Linking Digital Epigraphy and Digital Classics
-      Projects............................................... 85<br /><br />Advanced
-      Imaging Technologies for
-      Epigraphy..........................................................................................
-      88<br /><br />Manuscript Studies
-      ..........................................................................................................................................
-      89<br /><br />Digital Libraries of Manuscripts
-      ..................................................................................................................
-      90<br /><br />Digital Challenges of Individual Manuscripts and Manuscript
-      Collections................................................. 94<br /><br />Digital
-      Manuscripts, Infrastructure and Automatic Linking
-      Technologies.................................................. 98<br /><br
-      />Numismatics
-      ..................................................................................................................................................
-      101<br /><br />Numismatics
-      Databases.............................................................................................................................
-      101<br /><br />Numismatic Data Integration and Digital
-      Publication................................................................................
-      104<br /><br
-      />Palaeography..................................................................................................................................................
-      107<br /><br
-      />Papyrology.....................................................................................................................................................
-      109<br /><br />3<br /><br />Digital Papyri
-      Projects...............................................................................................................................
-      109<br /><br />Integrating Digital Collections of Papyri and Digital Infrastructure
-      .......................................................... 113<br /><br />EpiDoc,
-      Digital Papyrology and Reusing Digital Resources
-      ..................................................................... 116<br /><br
-      />Collaborative Workspaces, Image Analysis and Reading Support
-      Systems.............................................. 117<br /><br
-      />Philology........................................................................................................................................................
-      122<br /><br />Tools for Electronic Philology: BAMBI and Aristarchus
-      .......................................................................... 123<br
-      /><br />Infrastructure for Digital Philology: the Teuchos
-      project.......................................................................... 124<br
-      /><br />Prosopography
-      ...............................................................................................................................................
-      127<br /><br />Issues in the Creation of Prosopographical Databases
-      ............................................................................... 128<br
-      /><br />Network Analysis &amp; Digital
-      Prosopography..............................................................................................
-      129<br /><br />Relational Databases and Modeling
-      Prosopography..................................................................................
-      131<br /><br />Other Prosopographical
-      Databases.............................................................................................................
-      134<br /><br />The Use and Users of Resources in Digital Classics and the Digital
-      Humanities .............................................. 136<br /><br />Citation
-      of Digital Classics
-      Resources............................................................................................................
-      137<br /><br />The Research Habits of Digital
-      Humanists.....................................................................................................
-      138<br /><br />Humanist Use of Source Materials: Digital Library Design
-      Implications..................................................... 141<br /><br
-      />Creators of Digital Humanities Resources: Factors for Successful
-      Use........................................................ 144<br /><br
-      />“Traditional” Academic Use of Digital Humanities
-      Resources...................................................................... 146<br
-      /><br />The CSHE Study
-      .......................................................................................................................................
-      146<br /><br />The LAIRAH Project
-      ................................................................................................................................
-      147<br /><br />The RePAH project
-      ...................................................................................................................................
-      149<br /><br />The TIDSR
-      Study......................................................................................................................................
-      151<br /><br />Overview of Digital Classics Cyberinfrastructure
-      ..............................................................................................
-      152<br /><br />Requirements of Cyberinfrastructure for
-      Classics..........................................................................................
-      152<br /><br />Open Access Repositories of Secondary Scholarship
-      ................................................................................ 153<br
-      /><br />Open Access, Collaboration, Reuse and Digital
-      Classics........................................................................... 153<br
-      /><br />Undergraduate Research, Teaching and
-      E-Learning..................................................................................
-      158<br /><br />Looking Backward: State of Digital Classics in
-      2005............................................................................... 164<br
-      /><br />Looking Forward: Classics Cyberinfrastructure, Themes and Requirements in
-      2010............................... 165<br /><br />Classics Cyberinfrastructure
-      Projects
-      .............................................................................................................
-      169<br /><br />APIS—Advanced Papyrological Information System
-      ............................................................................... 169<br
-      /><br />CLAROS—Classical Art Research Center Online
-      Services...................................................................... 169<br
-      /><br />Concordia
-      ..................................................................................................................................................
-      169<br /><br />Digital
-      Antiquity........................................................................................................................................
-      170<br /><br />Digital
-      Classicist........................................................................................................................................
-      170<br /><br
-      />eAQUA......................................................................................................................................................
-      170<br /><br />eSAD—e-Science and Ancient Documents
-      ...............................................................................................
-      170<br /><br />Integrating Digital Papyrology &amp; Papyri.info
-      ............................................................................................
-      171<br /><br />Interedition: an “Interoperable Supranational Infrastructure for
-      Digital Editions”................................... 171<br /><br />LaQuAT—Linking
-      and Querying of Ancient Texts
-      .................................................................................. 172<br
-      /><br />Building A Humanities Cyberinfrastructure
-      .......................................................................................................
-      172<br /><br />Defining Digital Humanities, Cyberinfrastructure and the Future
-      ............................................................. 172<br /><br />Open
-      Content, Services and Tools as Infrastructure
-      .................................................................................. 173<br
-      /><br />New Evaluation and Incentive Models for Digital Scholarship &amp;
-      Publishing........................................... 178<br /><br />Challenges of
-      Humanities Data &amp; Digital Infrastructure
-      ........................................................................... 180<br
-      /><br />“General” Humanities Infrastructures, Domain-Specific Needs, and the Research
-      Needs of Humanists . 181<br /><br />VREs in the Humanities: A Way of Addressing
-      Domain Specific Needs?............................................... 185<br /><br
-      />New Models of Scholarly
-      Collaboration....................................................................................................
-      188<br /><br />Sustainable Preservation and Curation Infrastructures for Digital
-      Humanities.......................................... 189<br /><br />Levels of
-      Interoperability and
-      Infrastructure..............................................................................................
-      195<br /><br />The Future of Digital Humanities and Digital
-      Scholarship........................................................................ 200<br
-      /><br />4<br /><br />Overview of Large Cyberinfrastructure
-      Projects............................................................................................
-      201<br /><br />Alliance of Digital Humanities Organizations (ADHO)
-      ............................................................................ 201<br
-      /><br
-      />arts-humanities.net.....................................................................................................................................
-      202<br /><br />centerNET
-      .................................................................................................................................................
-      202<br /><br />CLARIN
-      ....................................................................................................................................................
-      203<br /><br />DARIAH Project
-      .......................................................................................................................................
-      204<br /><br />Digital Humanities
-      Observatory.................................................................................................................
-      206<br /><br
-      />DRIVER....................................................................................................................................................
-      207<br /><br />NoC-Network of Expert Centres
-      ................................................................................................................
-      207<br /><br />Project Bamboo
-      .........................................................................................................................................
-      207<br /><br
-      />SEASR.......................................................................................................................................................
-      208<br /><br />TextGrid
-      ....................................................................................................................................................
-      209<br /><br
-      />TextVRE....................................................................................................................................................
-      211<br /><br
-      />References..........................................................................................................................................................
-      211</span><br /></pre><br /><div style="text-align:
-      center;"><a expr:id="data:post.url" expr:name="data:post.title"
-      href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" onclick="return
-      addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this,
-      &quot;&quot;, this.id, this.name);"><img alt="Bookmark and Share so Your Real
-      Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif"
-      style="border: 0pt none;" width="125" /></a></div><br /><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script>]]></content>
-    <link rel="replies"
+   <title type="text">Request for Comment: Rome Wasn't Digitized in a Day: Building a Cyberinfrastructure for Digital Classicists</title>
+   <content type="html"><![CDATA[<a href="http://www.clir.org/activities/details/infrastructure.html">Infrastructure for Humanities Scholarship</a><br /><blockquote><span style="font-size: x-small;">CLIR and Tufts University are engaging scholars and academic  librarians in examining the services and digital objects classicists  have developed, the future needs of the discipline, and the roles of  libraries and other curatorial institutions in fostering the  infrastructure on which the core intellectual activities of classics and  many other disciplines depend. We envision a set of shared services  layered over a distributed storage architecture that is seamless to end  users, allows multiple contributors, and leverages institutional  resources and facilities. Much of this architecture exists at individual  projects and institutions; the challenge is to identify the suite of  shared services to be developed.</span><br /><br /><span style="font-size: x-small;">Prior research supported by public and private agencies  has created digital resources in classics, which are arguably the most  developed and interconnected set of collections and associated services  in any discipline outside of the sciences. Questions now posed test the  limits of project-based services. The findings of the Blue Ribbon Task  Force on Sustainable Digital Preservation and Access, the Library of  Congress National Digital Information Infrastructure and Preservation  Program (NDIIPP), and two symposia hosted by CLIR (the second with  co-sponsorship by NEH) demonstrate that managing digital information  requires libraries to play an active role in the research process to  ensure appropriate curation and preservation of digital resources. This  project will help library professionals understand the challenges of  supporting new kinds of publications (e.g., treebanks, or syntactic  databases for texts) and services (e.g., named entity identification  services optimized for domains such as classical studies) and engage  them in designing solutions. The project will also be relevant to areas  such as medieval studies, archaeology, and ancient and near eastern  languages.</span><br /><br /><span style="font-size: x-small;">CLIR is seeking public comment on a literature review  that identifies existing services, resources, and needs in the field of  classics. The report, <a href="http://www.clir.org/pubs/archives/Babeu2010.pdf"><i><b>Rome Wasn't Digitized in a Day: Building a Cyberinfrastructure for Digital Classicists</b></i></a>,  was produced by Alison Babeu of the Perseus Project at Tufts  University. It is intended to inform planning for the next phase of  work: description of an infrastructure to support digital classics and  related fields of research. (The report is a 1.8 MB .pdf file, please  allow time for it to download).</span><br /><br /><span style="font-size: x-small;">Comments on the draft report should be submitted to <b>Kathlin Smith</b> (ksmith<b>at</b>clir<b>dot</b>org)  by December 1, 2010. We especially encourage the identification of  topics or projects that are missing in the report, or that might be  represented more fully.&nbsp;</span></blockquote><div style="text-align: center;">Table of Contents </div><div style="text-align: justify;"><style>@font-face {   font-family: "Arial"; }@font-face {   font-family: "Courier New"; }@font-face {   font-family: "Wingdings"; }@font-face {   font-family: "Lucida Grande"; }@font-face {   font-family: "CMR10"; }@font-face {   font-family: "TimesNewRomanPSMT"; }@font-face {   font-family: "AdvP94BA"; }@font-face {   font-family: "F0"; }p.MsoNormal, li.MsoNormal, div.MsoNormal { margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: "Times New Roman"; }h1 { margin: 12pt 0in 3pt; page-break-after: avoid; font-size: 16pt; font-family: "Times New Roman"; }h2 { margin: 12pt 0in 3pt; page-break-after: avoid; font-size: 14pt; font-family: "Times New Roman"; font-style: italic; }h3 { margin: 12pt 0in 3pt; page-break-after: avoid; font-size: 13pt; font-family: "Times New Roman"; }h4 { margin: 12pt 0in 3pt; page-break-after: avoid; font-size: 14pt; font-family: "Times New Roman"; font-weight: normal; }p.MsoToc1, li.MsoToc1, div.MsoToc1 { margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: "Times New Roman"; }p.MsoToc2, li.MsoToc2, div.MsoToc2 { margin: 0in 0in 0.0001pt 12pt; font-size: 11pt; font-family: "Times New Roman"; }p.MsoToc3, li.MsoToc3, div.MsoToc3 { margin: 0in 0in 0.0001pt 24pt; font-size: 11pt; font-family: "Times New Roman"; }p.MsoToc4, li.MsoToc4, div.MsoToc4 { margin: 0in 0in 0.0001pt 0.5in; font-size: 11pt; font-family: "Times New Roman"; }p.MsoToc5, li.MsoToc5, div.MsoToc5 { margin: 0in 0in 0.0001pt 48pt; font-size: 11pt; font-family: "Times New Roman"; }p.MsoToc6, li.MsoToc6, div.MsoToc6 { margin: 0in 0in 0.0001pt 60pt; font-size: 11pt; font-family: "Times New Roman"; }p.MsoToc7, li.MsoToc7, div.MsoToc7 { margin: 0in 0in 0.0001pt 1in; font-size: 11pt; font-family: "Times New Roman"; }p.MsoToc8, li.MsoToc8, div.MsoToc8 { margin: 0in 0in 0.0001pt 84pt; font-size: 11pt; font-family: "Times New Roman"; }p.MsoToc9, li.MsoToc9, div.MsoToc9 { margin: 0in 0in 0.0001pt 96pt; font-size: 11pt; font-family: "Times New Roman"; }p.MsoFootnoteText, li.MsoFootnoteText, div.MsoFootnoteText { margin: 0in 0in 0.0001pt; font-size: 8pt; font-family: "Times New Roman"; }p.MsoHeader, li.MsoHeader, div.MsoHeader { margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: "Times New Roman"; }span.MsoFootnoteReference { vertical-align: super; }p.MsoBodyText, li.MsoBodyText, div.MsoBodyText { margin: 0in 0in 6pt; font-size: 11pt; font-family: "Times New Roman"; }p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3 { margin: 0in 0in 6pt; font-size: 8pt; font-family: "Times New Roman"; }p.MsoBlockText, li.MsoBlockText, div.MsoBlockText { margin: 0in 1in 6pt; font-size: 11pt; font-family: "Times New Roman"; }a:link, span.MsoHyperlink { color: blue; text-decoration: underline; }a:visited, span.MsoHyperlinkFollowed { color: purple; text-decoration: underline; }em {  }p.MsoAcetate, li.MsoAcetate, div.MsoAcetate { margin: 0in 0in 0.0001pt; font-size: 9pt; font-family: "Times New Roman"; }span.Heading1Char { font-family: Arial; font-weight: bold; }span.Heading2Char { font-family: Arial; font-weight: bold; font-style: italic; }span.Heading3Char { font-family: Arial; font-weight: bold; }span.Heading4Char {  }span.BalloonTextChar { font-family: "Lucida Grande"; }span.FootnoteTextChar {  }span.HeaderChar {  }span.BodyTextChar {  }span.ubernymuttabbreviation {  }span.entry {  }span.hit1 {  }span.hithilite {  }p.Style1, li.Style1, div.Style1 { margin: 0in 0in 6pt; font-size: 12pt; font-family: "Times New Roman"; font-weight: bold; }span.BodyText3Char {  }span.body {  }div.Section1 { page: Section1; }ol { margin-bottom: 0in; }ul { margin-bottom: 0in; } </style>     </div><span style="font-size: xx-small;">﻿</span><br /><pre><span style="font-size: xx-small;"></span><span style="font-size: xx-small;">﻿Introduction............................................................................................................................................................ 5<br /><br />Classics and Computers: A Long History.............................................................................................................. 5<br /><br />Multidisciplinary Classical Digital Libraries: Advanced Technologies and Services .......................................... 10<br /><br />Bibliographies/Catalogs/Directories............................................................................................................. 11<br /><br />Document Analysis, Recognition and OCR for Historical Languages ........................................................ 14<br /><br />Ancient Greek ......................................................................................................................................... 14<br /><br />Latin ........................................................................................................................................................ 17<br /><br />Sanskrit.................................................................................................................................................... 20<br /><br />Syriac ...................................................................................................................................................... 23<br /><br />Cuneiform Texts and Sumerian ............................................................................................................... 23<br /><br />Computational Linguistics (Treebanks, Automatic Morphological Analysis, Lexicons) ............................ 27<br /><br />Treebanks ................................................................................................................................................ 28<br /><br />Morphological Analysis.......................................................................................................................... 29<br /><br />Lexicons.................................................................................................................................................. 31<br /><br />Canonical Text Services, Citation Detection, Citation Linking ................................................................... 33<br /><br />Text Mining, Quotation Detection and Authorship Attribution................................................................... 37<br /><br />The Disciplines and Technologies of Digital Classics.......................................................................................... 38<br /><br />Ancient History................................................................................................................................................ 38<br /><br />Classical Archaeology ..................................................................................................................................... 40<br /><br />Overview ..................................................................................................................................................... 40<br /><br />Electronic Publishing and Traditional Publishing........................................................................................ 40<br /><br />Data Creation, Data Sharing, Data Preservation .......................................................................................... 42<br /><br />Digital Repositories, Data Integration &amp; Cyberinfrastructure for Archaeology .......................................... 44<br /><br />Designing Digital Infrastructures for the Research Methods of Archaeology ............................................. 47<br /><br />Visualization &amp; 3D Reconstructions of Archaeological Sites...................................................................... 51<br /><br />Classical Art &amp; Architecture............................................................................................................................ 55<br /><br />Classical Geography ........................................................................................................................................ 56<br /><br />The Ancient World Mapping Center............................................................................................................ 57<br /><br />The Pleiades Project .................................................................................................................................... 57<br /><br />The HESTIA Project ................................................................................................................................... 59<br /><br />Digital Editions &amp; Text Editing........................................................................................................................ 61<br /><br />Introduction ................................................................................................................................................. 61<br /><br />Theoretical Issues of Modeling and Markup for Digital Editions................................................................ 62<br /><br />New Models of Collaboration, Tools &amp; Frameworks for Digital Editions .................................................. 67<br /><br />The Challenges of Text Alignment &amp; Text Variants ................................................................................... 70<br /><br />Epigraphy......................................................................................................................................................... 73<br /><br />Overview: Epigraphy Databases, Digital Epigraphy and EpiDoc............................................................... 73<br /><br />Online Epigraphy Databases ........................................................................................................................ 77<br /><br />EpiDoc-Based Digital Epigraphy Projects ................................................................................................... 81<br /><br />The Challenges of Linking Digital Epigraphy and Digital Classics Projects............................................... 85<br /><br />Advanced Imaging Technologies for Epigraphy.......................................................................................... 88<br /><br />Manuscript Studies .......................................................................................................................................... 89<br /><br />Digital Libraries of Manuscripts .................................................................................................................. 90<br /><br />Digital Challenges of Individual Manuscripts and Manuscript Collections................................................. 94<br /><br />Digital Manuscripts, Infrastructure and Automatic Linking Technologies.................................................. 98<br /><br />Numismatics .................................................................................................................................................. 101<br /><br />Numismatics Databases............................................................................................................................. 101<br /><br />Numismatic Data Integration and Digital Publication................................................................................ 104<br /><br />Palaeography.................................................................................................................................................. 107<br /><br />Papyrology..................................................................................................................................................... 109<br /><br />3<br /><br />Digital Papyri Projects............................................................................................................................... 109<br /><br />Integrating Digital Collections of Papyri and Digital Infrastructure .......................................................... 113<br /><br />EpiDoc, Digital Papyrology and Reusing Digital Resources ..................................................................... 116<br /><br />Collaborative Workspaces, Image Analysis and Reading Support Systems.............................................. 117<br /><br />Philology........................................................................................................................................................ 122<br /><br />Tools for Electronic Philology: BAMBI and Aristarchus .......................................................................... 123<br /><br />Infrastructure for Digital Philology: the Teuchos project.......................................................................... 124<br /><br />Prosopography ............................................................................................................................................... 127<br /><br />Issues in the Creation of Prosopographical Databases ............................................................................... 128<br /><br />Network Analysis &amp; Digital Prosopography.............................................................................................. 129<br /><br />Relational Databases and Modeling Prosopography.................................................................................. 131<br /><br />Other Prosopographical Databases............................................................................................................. 134<br /><br />The Use and Users of Resources in Digital Classics and the Digital Humanities .............................................. 136<br /><br />Citation of Digital Classics Resources............................................................................................................ 137<br /><br />The Research Habits of Digital Humanists..................................................................................................... 138<br /><br />Humanist Use of Source Materials: Digital Library Design Implications..................................................... 141<br /><br />Creators of Digital Humanities Resources: Factors for Successful Use........................................................ 144<br /><br />“Traditional” Academic Use of Digital Humanities Resources...................................................................... 146<br /><br />The CSHE Study ....................................................................................................................................... 146<br /><br />The LAIRAH Project ................................................................................................................................ 147<br /><br />The RePAH project ................................................................................................................................... 149<br /><br />The TIDSR Study...................................................................................................................................... 151<br /><br />Overview of Digital Classics Cyberinfrastructure .............................................................................................. 152<br /><br />Requirements of Cyberinfrastructure for Classics.......................................................................................... 152<br /><br />Open Access Repositories of Secondary Scholarship ................................................................................ 153<br /><br />Open Access, Collaboration, Reuse and Digital Classics........................................................................... 153<br /><br />Undergraduate Research, Teaching and E-Learning.................................................................................. 158<br /><br />Looking Backward: State of Digital Classics in 2005............................................................................... 164<br /><br />Looking Forward: Classics Cyberinfrastructure, Themes and Requirements in 2010............................... 165<br /><br />Classics Cyberinfrastructure Projects ............................................................................................................. 169<br /><br />APIS—Advanced Papyrological Information System ............................................................................... 169<br /><br />CLAROS—Classical Art Research Center Online Services...................................................................... 169<br /><br />Concordia .................................................................................................................................................. 169<br /><br />Digital Antiquity........................................................................................................................................ 170<br /><br />Digital Classicist........................................................................................................................................ 170<br /><br />eAQUA...................................................................................................................................................... 170<br /><br />eSAD—e-Science and Ancient Documents ............................................................................................... 170<br /><br />Integrating Digital Papyrology &amp; Papyri.info ............................................................................................ 171<br /><br />Interedition: an “Interoperable Supranational Infrastructure for Digital Editions”................................... 171<br /><br />LaQuAT—Linking and Querying of Ancient Texts .................................................................................. 172<br /><br />Building A Humanities Cyberinfrastructure ....................................................................................................... 172<br /><br />Defining Digital Humanities, Cyberinfrastructure and the Future ............................................................. 172<br /><br />Open Content, Services and Tools as Infrastructure .................................................................................. 173<br /><br />New Evaluation and Incentive Models for Digital Scholarship &amp; Publishing........................................... 178<br /><br />Challenges of Humanities Data &amp; Digital Infrastructure ........................................................................... 180<br /><br />“General” Humanities Infrastructures, Domain-Specific Needs, and the Research Needs of Humanists . 181<br /><br />VREs in the Humanities: A Way of Addressing Domain Specific Needs?............................................... 185<br /><br />New Models of Scholarly Collaboration.................................................................................................... 188<br /><br />Sustainable Preservation and Curation Infrastructures for Digital Humanities.......................................... 189<br /><br />Levels of Interoperability and Infrastructure.............................................................................................. 195<br /><br />The Future of Digital Humanities and Digital Scholarship........................................................................ 200<br /><br />4<br /><br />Overview of Large Cyberinfrastructure Projects............................................................................................ 201<br /><br />Alliance of Digital Humanities Organizations (ADHO) ............................................................................ 201<br /><br />arts-humanities.net..................................................................................................................................... 202<br /><br />centerNET ................................................................................................................................................. 202<br /><br />CLARIN .................................................................................................................................................... 203<br /><br />DARIAH Project ....................................................................................................................................... 204<br /><br />Digital Humanities Observatory................................................................................................................. 206<br /><br />DRIVER.................................................................................................................................................... 207<br /><br />NoC-Network of Expert Centres ................................................................................................................ 207<br /><br />Project Bamboo ......................................................................................................................................... 207<br /><br />SEASR....................................................................................................................................................... 208<br /><br />TextGrid .................................................................................................................................................... 209<br /><br />TextVRE.................................................................................................................................................... 211<br /><br />References.......................................................................................................................................................... 211</span><br /></pre><br /><div style="text-align: center;"><a expr:id="data:post.url" expr:name="data:post.title" href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this, &quot;&quot;, this.id, this.name);"><img alt="Bookmark and Share so Your Real Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt none;" width="125" /></a></div><br /><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3021247396049785026/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3021247396049785026/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/10/request-for-comment-rome-wasnt.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3021247396049785026"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3021247396049785026"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/10/request-for-comment-rome-wasnt.html"
          title="Request for Comment: Rome Wasn't Digitized in a Day: Building a Cyberinfrastructure for Digital Classicists"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,87 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1230574518877880370</id>
-    <published>2010-09-10T10:10:00.000-04:00</published>
-    <updated>2010-09-10T10:10:42.832-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1230574518877880370</id>
+   <published>2010-09-10T10:10:00.000-04:00</published>
+   <updated>2010-09-10T10:10:42.832-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Survey results in Boubon (Cibyratis, northern Lycia) 2004-2006</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/introduction.asp">Survey
-      results in Boubon (Cibyratis, northern Lycia) 2004-2006</a><br
-      /><blockquote><span style="font-size: x-small;">A Digital Project by Christina
-      Kokkinia (Associate Researcher, The Hellenic East Programme, KERA) including in a preliminary
-      edition the original texts, english translations, commentaries, indices and bibliography
-      of&nbsp;inscriptions found at Boubon&nbsp;in SW Turkey. The website also includes maps,
-      plans, photographs, and a short presentation of archaeological finds in the region. In the near
-      future will be&nbsp;added any epigraphic finds that came to light&nbsp;after the
-      publication of&nbsp;Ch. Kokkinia (ed.),&nbsp;<i>Boubon : The Inscriptions and
-      Archaeological Remains : A Survey 2004-2006</i>, ΜΕΛΕΤΗΜΑΤΑ&nbsp;60, Athens 2008 (p.
-      x, 193, XXIII pl., 1 fold. map.) ISBN 960-7905-47-5.</span></blockquote><div
-      id="navi"><blockquote><span style="font-size: xx-small;"><a
-      href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/introduction.asp">Introduction</a></span><br
-      /><span style="font-size: xx-small;"><a
-      href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/mapsplans.asp">Maps &amp;
-      Plans</a></span><br /><span style="font-size: xx-small;"><a
-      href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/inscriptions.asp">Inscriptions</a></span>
-      <br /><hr noshade="noshade" /><span style="font-size: xx-small;"><a
-      href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/acropolis.asp">Acropolis</a></span><br
-      /><span style="font-size: xx-small;"><a
-      href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/theatre.asp">Theatre</a></span><br
-      /><span style="font-size: xx-small;"><a
-      href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/agora.asp">Agora</a></span><br
-      /><span style="font-size: xx-small;"><a
-      href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/sebasteion.asp">Sebasteion</a></span><br
-      /><span style="font-size: xx-small;"><a
-      href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/territory.asp">Territory</a></span><br
-      /><span style="font-size: xx-small;"><a
-      href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/people.asp">People</a></span>
-      <br /><hr noshade="noshade" /><span style="font-size: xx-small;"><a
-      href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/indices.asp">Indices</a></span></blockquote><blockquote><span
-      style="font-size: xx-small;"><a
-      href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/bibliography.asp">Bibliography</a></span></blockquote></div><br
-      />Other online publications of the National Hellenic Research Foundation include the
-      journals:<br /><blockquote><span style="font-size: x-small;"><a
-      href="http://www.byzsym.org/index.php/bz">ΒΥΖΑΝΤΙΝΑ ΣΥΜΜΕΙΚΤΑ - BYZANTINA
-      SYMMEIKTA</a></span><br /><span style="font-size:
-      x-small;">and</span><br /><span style="font-size: x-small;"><a
-      href="http://www.tekmeria.org/">ΤΕΚΜΗΡΙΑ</a></span></blockquote><div><br
-      /><div style="text-align: center;"><a expr:id="data:post.url"
-      expr:name="data:post.title"
-      href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" onclick="return
-      addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this,
-      &quot;&quot;, this.id, this.name);"><img alt="Bookmark and Share so Your Real
-      Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif"
-      style="border: 0pt none;" width="125" /></a></div><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script></div>]]></content>
-    <link rel="replies"
+   <title type="text">Survey results in Boubon (Cibyratis, northern Lycia) 2004-2006</title>
+   <content type="html"><![CDATA[<a href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/introduction.asp">Survey results in Boubon (Cibyratis, northern Lycia) 2004-2006</a><br /><blockquote><span style="font-size: x-small;">A   Digital Project by Christina Kokkinia (Associate Researcher, The  Hellenic East   Programme, KERA) including in a preliminary edition the  original texts, english   translations, commentaries, indices and  bibliography of&nbsp;inscriptions found at   Boubon&nbsp;in SW Turkey. The website  also includes maps, plans, photographs, and a   short presentation of  archaeological finds in the region. In the near future   will be&nbsp;added  any epigraphic finds that came to light&nbsp;after the publication   of&nbsp;Ch.  Kokkinia (ed.),&nbsp;<i>Boubon : The Inscriptions and Archaeological Remains  :   A Survey 2004-2006</i>, ΜΕΛΕΤΗΜΑΤΑ&nbsp;60, Athens 2008 (p. x, 193,  XXIII pl., 1   fold. map.) ISBN 960-7905-47-5.</span></blockquote><div id="navi"><blockquote><span style="font-size: xx-small;"><a href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/introduction.asp">Introduction</a></span><br /><span style="font-size: xx-small;"><a href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/mapsplans.asp">Maps  &amp;  Plans</a></span><br /><span style="font-size: xx-small;"><a href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/inscriptions.asp">Inscriptions</a></span>             <br /><hr noshade="noshade" /><span style="font-size: xx-small;"><a href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/acropolis.asp">Acropolis</a></span><br /><span style="font-size: xx-small;"><a href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/theatre.asp">Theatre</a></span><br /><span style="font-size: xx-small;"><a href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/agora.asp">Agora</a></span><br /><span style="font-size: xx-small;"><a href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/sebasteion.asp">Sebasteion</a></span><br /><span style="font-size: xx-small;"><a href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/territory.asp">Territory</a></span><br /><span style="font-size: xx-small;"><a href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/people.asp">People</a></span>             <br /><hr noshade="noshade" /><span style="font-size: xx-small;"><a href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/indices.asp">Indices</a></span></blockquote><blockquote><span style="font-size: xx-small;"><a href="http://www.eie.gr/nhrf/institutes/igra/projects/boubon/bibliography.asp">Bibliography</a></span></blockquote></div><br />Other online publications of the National Hellenic          Research Foundation include the journals:<br /><blockquote><span style="font-size: x-small;"><a href="http://www.byzsym.org/index.php/bz">ΒΥΖΑΝΤΙΝΑ ΣΥΜΜΕΙΚΤΑ -  BYZANTINA SYMMEIKTA</a></span><br /><span style="font-size: x-small;">and</span><br /><span style="font-size: x-small;"><a href="http://www.tekmeria.org/">ΤΕΚΜΗΡΙΑ</a></span></blockquote><div><br /><div style="text-align: center;"><a expr:id="data:post.url" expr:name="data:post.title" href="http://draft.blogger.com/post-create.g?blogID=116259103207720939" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this, &quot;&quot;, this.id, this.name);"><img alt="Bookmark and Share so Your Real Friends Know that You Know" height="16" src="http://s7.addthis.com/static/btn/lg-share-en.gif" style="border: 0pt none;" width="125" /></a></div><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1230574518877880370/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1230574518877880370/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/09/survey-results-in-boubon-cibyratis.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1230574518877880370"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1230574518877880370"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/09/survey-results-in-boubon-cibyratis.html"
          title="Survey results in Boubon (Cibyratis, northern Lycia) 2004-2006"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

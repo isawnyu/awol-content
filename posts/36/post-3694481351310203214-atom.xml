@@ -1,139 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3694481351310203214</id>
-    <published>2013-03-11T14:05:00.001-04:00</published>
-    <updated>2014-06-09T14:52:53.093-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3694481351310203214</id>
+   <published>2013-03-11T14:05:00.001-04:00</published>
+   <updated>2014-06-09T14:52:53.093-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Sudan"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Nubia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Sudan"/>
-    <title type="text">Open Access Monograph Series: Fontes historiae Nubiorum</title>
-    <content type="html"><![CDATA[<a href="https://digitalt.uib.no/handle/1956.2/3083">Fontes historiae
-      Nubiorum : textual sources for the history of the Middle Nile Region between the eighth century
-      BC and the sixth century AD / 3 From the first to the sixth century AD.</a><br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">Eide, Tormod ;
-      Hægg, Tomas ; Pierce, Richard Holton ; Tørøk, Laszlo </span><br /><span
-      style="font-size: x-small;">ISSN: 0804-9408 </span><br /><span
-      style="font-size: x-small;">Bergen [Norway] : University of Bergen, Dept. of Classics,
-      1994-2000</span><br /><br /></blockquote><div
-      class="file-list"><blockquote><div class="file-wrapper clearfix"><div
-      class="thumbnail-wrapper"><span style="font-size: x-small;"><a class="image-link"
-      href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20I%20%20%20copy.pdf?sequence=1"><img
-      alt="Thumbnail"
-      src="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20I%20%20%20copy.pdf.jpg?sequence=10"
-      /></a></span></div><div class="file-metadata" style="min-height:
-      90px;"><div><span style="font-size: x-small;"><span class="file-title"
-      title="FHN I copy.pdf">FHN I copy.pdf</span> - <span class="file-link"><a
-      href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20I%20%20%20copy.pdf?sequence=1">View/<wbr></wbr>Open</a></span><span
-      class="file-link"> - <a class="embed-google-viewer"
-      href="https://digitalt.uib.no/handle/1956.2/3083#preview">Preview</a></span></span></div><div><span
-      style="font-size: x-small;">PDF - 3.707Mb</span></div></div><span
-      style="font-size: x-small;"><a
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="preview"></a></span><div id="preview-embed"></div><span
-      style="font-size: x-small;"><a
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="preview"></a></span></div><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="preview"></a><a
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="preview"></a></span><br /><div class="file-wrapper
-      clearfix"><span style="font-size: x-small;"><a
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="preview"></a></span><div class="thumbnail-wrapper"><span
-      style="font-size: x-small;"><a
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="preview"></a><a class="image-link"
-      href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20II.pdf?sequence=2"><img
-      alt="Thumbnail"
-      src="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20II.pdf.jpg?sequence=11"
-      /></a></span></div><div class="file-metadata" style="min-height:
-      90px;"><div><span style="font-size: x-small;"><span class="file-title"
-      title="FHN II.pdf">FHN II.pdf</span> - <span class="file-link"><a
-      href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20II.pdf?sequence=2">View/<wbr></wbr>Open</a></span><span
-      class="file-link"> - <a class="embed-google-viewer"
-      href="https://digitalt.uib.no/handle/1956.2/3083#preview">Preview</a></span></span></div><div><span
-      style="font-size: x-small;">PDF - 39.98Mb</span></div></div><span
-      style="font-size: x-small;"><a
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="preview"></a></span><div id="preview-embed"></div><span
-      style="font-size: x-small;"><a
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="preview"></a></span></div><div class="file-wrapper
-      clearfix"><span style="font-size: x-small;"><a
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="preview"></a></span><div class="thumbnail-wrapper"><span
-      style="font-size: x-small;"><a
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="preview"></a><a class="image-link"
-      href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20III.pdf?sequence=3"><img
-      alt="Thumbnail"
-      src="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20III.pdf.jpg?sequence=12"
-      /></a></span></div><div class="file-metadata" style="min-height:
-      90px;"><div><span style="font-size: x-small;"><span class="file-title"
-      title="FHN III.pdf">FHN III.pdf</span> - <span class="file-link"><a
-      href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20III.pdf?sequence=3">View/<wbr></wbr>Open</a></span><span
-      class="file-link"> - <a class="embed-google-viewer"
-      href="https://digitalt.uib.no/handle/1956.2/3083#preview">Preview</a></span></span></div><div><span
-      style="font-size: x-small;">PDF - 54.42Mb</span></div></div><span
-      style="font-size: x-small;"><a
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview">
-      </a></span></div><span style="font-size: x-small;"><a
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="preview"></a></span></blockquote><div class="file-wrapper
-      clearfix"><blockquote><span style="font-size: x-small;"><a
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="preview"></a></span><div class="thumbnail-wrapper"><span
-      style="font-size: x-small;"><a
-      href="http://draft.blogger.com/blogger.g?blogID=116259103207720939"
-      name="preview"></a><a class="image-link"
-      href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20IV.pdf?sequence=4"><img
-      alt="Thumbnail"
-      src="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20IV.pdf.jpg?sequence=13"
-      /></a></span></div></blockquote><div class="file-metadata"
-      style="min-height: 90px;"><blockquote><div><span style="font-size:
-      x-small;"><span class="file-title" title="FHN IV.pdf">FHN IV.pdf</span> -
-      <span class="file-link"><a
-      href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20IV.pdf?sequence=4">View/<wbr></wbr>Open</a></span><span
-      class="file-link"> - <a class="embed-google-viewer"
-      href="https://digitalt.uib.no/handle/1956.2/3083#preview">Preview</a></span></span></div><div><span
-      style="font-size: x-small;">PDF -
-      15.33Mb</span></div></blockquote><div></div><div
-      style="text-align: center;"><span style="font-size: small;">&nbsp;See the full
-      <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a>&nbsp;</span><br /><div
-      style="text-align: center;"><span style="font-size: small;">And see AWOL's <a
-      href="http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html">Alphabetical
-      List of Open Access Monograph Series in Ancient
-      Studies</a>&nbsp;</span></div></div></div></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Nubia"/>
+   <title type="text">Open Access Monograph Series: Fontes historiae Nubiorum</title>
+   <content type="html"><![CDATA[<a href="https://digitalt.uib.no/handle/1956.2/3083">Fontes historiae Nubiorum : textual sources for the history of the Middle Nile Region between the eighth century BC and the sixth century AD / 3 From the first to the sixth century AD.</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Eide, Tormod ; Hægg, Tomas ; Pierce, Richard Holton ; Tørøk, Laszlo  </span><br /><span style="font-size: x-small;">ISSN: 0804-9408 </span><br /><span style="font-size: x-small;">Bergen [Norway] : University of Bergen, Dept. of Classics, 1994-2000</span><br /><br /></blockquote><div class="file-list"><blockquote><div class="file-wrapper clearfix"><div class="thumbnail-wrapper"><span style="font-size: x-small;"><a class="image-link" href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20I%20%20%20copy.pdf?sequence=1"><img alt="Thumbnail" src="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20I%20%20%20copy.pdf.jpg?sequence=10" /></a></span></div><div class="file-metadata" style="min-height: 90px;"><div><span style="font-size: x-small;"><span class="file-title" title="FHN I   copy.pdf">FHN I   copy.pdf</span> - <span class="file-link"><a href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20I%20%20%20copy.pdf?sequence=1">View/<wbr></wbr>Open</a></span><span class="file-link"> - <a class="embed-google-viewer" href="https://digitalt.uib.no/handle/1956.2/3083#preview">Preview</a></span></span></div><div><span style="font-size: x-small;">PDF - 3.707Mb</span></div></div><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"></a></span><div id="preview-embed"></div><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"></a></span></div><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"></a><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"></a></span><br /><div class="file-wrapper clearfix"><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"></a></span><div class="thumbnail-wrapper"><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"></a><a class="image-link" href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20II.pdf?sequence=2"><img alt="Thumbnail" src="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20II.pdf.jpg?sequence=11" /></a></span></div><div class="file-metadata" style="min-height: 90px;"><div><span style="font-size: x-small;"><span class="file-title" title="FHN II.pdf">FHN II.pdf</span> - <span class="file-link"><a href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20II.pdf?sequence=2">View/<wbr></wbr>Open</a></span><span class="file-link"> - <a class="embed-google-viewer" href="https://digitalt.uib.no/handle/1956.2/3083#preview">Preview</a></span></span></div><div><span style="font-size: x-small;">PDF - 39.98Mb</span></div></div><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"></a></span><div id="preview-embed"></div><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"></a></span></div><div class="file-wrapper clearfix"><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"></a></span><div class="thumbnail-wrapper"><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"></a><a class="image-link" href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20III.pdf?sequence=3"><img alt="Thumbnail" src="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20III.pdf.jpg?sequence=12" /></a></span></div><div class="file-metadata" style="min-height: 90px;"><div><span style="font-size: x-small;"><span class="file-title" title="FHN III.pdf">FHN III.pdf</span> - <span class="file-link"><a href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20III.pdf?sequence=3">View/<wbr></wbr>Open</a></span><span class="file-link"> - <a class="embed-google-viewer" href="https://digitalt.uib.no/handle/1956.2/3083#preview">Preview</a></span></span></div><div><span style="font-size: x-small;">PDF - 54.42Mb</span></div></div><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"> </a></span></div><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"></a></span></blockquote><div class="file-wrapper clearfix"><blockquote><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"></a></span><div class="thumbnail-wrapper"><span style="font-size: x-small;"><a href="http://draft.blogger.com/blogger.g?blogID=116259103207720939" name="preview"></a><a class="image-link" href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20IV.pdf?sequence=4"><img alt="Thumbnail" src="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20IV.pdf.jpg?sequence=13" /></a></span></div></blockquote><div class="file-metadata" style="min-height: 90px;"><blockquote><div><span style="font-size: x-small;"><span class="file-title" title="FHN IV.pdf">FHN IV.pdf</span> - <span class="file-link"><a href="https://digitalt.uib.no/bitstream/handle/1956.2/3083/FHN%20IV.pdf?sequence=4">View/<wbr></wbr>Open</a></span><span class="file-link"> - <a class="embed-google-viewer" href="https://digitalt.uib.no/handle/1956.2/3083#preview">Preview</a></span></span></div><div><span style="font-size: x-small;">PDF - 15.33Mb</span></div></blockquote><div></div><div style="text-align: center;"><span style="font-size: small;">&nbsp;See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a>&nbsp;</span><br /><div style="text-align: center;"><span style="font-size: small;">And see AWOL's <a href="http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html">Alphabetical List of Open Access Monograph Series in Ancient Studies</a>&nbsp;</span></div></div></div></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3694481351310203214/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3694481351310203214/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/03/open-access-serial-fontes-historiae.html#comment-form"
          title="1 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3694481351310203214"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3694481351310203214"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/03/open-access-serial-fontes-historiae.html"
          title="Open Access Monograph Series: Fontes historiae Nubiorum"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

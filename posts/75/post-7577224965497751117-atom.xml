@@ -1,78 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7577224965497751117</id>
-    <published>2013-05-10T14:00:00.000-04:00</published>
-    <updated>2013-05-10T14:10:49.348-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7577224965497751117</id>
+   <published>2013-05-10T14:00:00.000-04:00</published>
+   <updated>2013-05-10T14:10:49.348-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Catalonia"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="papyrology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Catalonia"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
-    <title type="text">DVCTVS: National Papyrological Funds</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 13
-      May 2010. Updated 10 May 2013]</span><br /><br /><a
-      href="http://www.dvctvs.upf.edu/lang/ca/index.php">DVCTVS: National Papyrological
-      Funds</a><br /><span style="font-size: 85%;"></span><br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">Benvinguts a
-      DVCTVS, el portal papirològic al nostre país. Aquí trobareu informació sobre les principals
-      col·leccions de papirs dels fons nacionals, en forma de catàleg digital, per als textos encara
-      no editats, i també de textos i imatges digitals per a aquells que ja han estat publicats.
-      DVCTVS és un projecte en execució; per això us agrairem els vostres comentaris i aportacions,
-      tant sobre el funcionament de la nostra base de dades com sobre nou material en papir que pugui
-      incorporar-se al nostre portal. </span></blockquote><blockquote><span
-      style="font-size: 85%;">Welcome to DVCTVS, the papyrological portal in our country. Here you
-      will find information about our papyrological funds in the form of a digital catalogue. You
-      will also find the digital images and texts of those papyri that have already been published.
-      DVCTVS is an ongoing project, so we would appreciate your comments and contributions, both in
-      terms of the operation of our database and new papyrological material that you think fits into
-      our portal.<br /><br />Text in English, Catalan,
-      Spanish</span></blockquote><div id="menu"> <blockquote
-      class="tr_bq"><ul><li class="actual"><span style="font-size:
-      x-small;"><a href="http://www.dvctvs.upf.edu/lang/es/#"
-      title="Inicio">Inicio</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://www.dvctvs.upf.edu/lang/es/proyecto.php" title="El
-      Proyecto">El Proyecto</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://www.dvctvs.upf.edu/lang/es/colecciones.php"
-      title="Colecciones">Colecciones</a></span></li><li><span
-      style="font-size: x-small;"><a href="http://www.dvctvs.upf.edu/lang/es/equipo.php"
-      title="Equipo">Equipo</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://www.dvctvs.upf.edu/catalogo/index.php" title="Catálogo
-      Digital">Catálogo Digital</a></span></li><li><span
-      style="font-size: x-small;"><a href="http://www.dvctvs.upf.edu/lang/es/links.php"
-      title="Links">Links</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://www.dvctvs.upf.edu/lang/es/blog.php"
-      title="Blog">Blog</a></span></li></ul></blockquote></div><div><a
-      href="http://draft.blogger.com/null" id="data:post.url" name="data:post.title" onclick="return
-      addthis_sendto()" onmouseout="addthis_close()" onmouseover="'return"></a><br
-      /><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="papyrology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
+   <title type="text">DVCTVS: National Papyrological Funds</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 13 May 2010. Updated 10 May 2013]</span><br /><br /><a href="http://www.dvctvs.upf.edu/lang/ca/index.php">DVCTVS: National Papyrological Funds</a><br /><span style="font-size: 85%;"></span><br /><blockquote class="tr_bq"><span style="font-size: x-small;">Benvinguts a DVCTVS, el portal papirològic al nostre país. Aquí trobareu  informació sobre les principals col·leccions de papirs dels fons  nacionals, en forma de catàleg digital, per als textos encara no  editats, i també de textos i imatges digitals per a aquells que ja han  estat publicats. DVCTVS és un projecte en execució; per això us agrairem  els vostres comentaris i aportacions, tant sobre el funcionament de la  nostra base de dades com sobre nou material en papir que pugui  incorporar-se al nostre portal. </span></blockquote><blockquote><span style="font-size: 85%;">Welcome to DVCTVS, the papyrological portal in our country. Here you will find information about our papyrological funds in the form of a digital catalogue. You will also find the digital images and texts of those papyri that have already been published. DVCTVS is an ongoing project, so we would appreciate your comments and contributions, both in terms of the operation of our database and new papyrological material that you think fits into our portal.<br /><br />Text in English, Catalan, Spanish</span></blockquote><div id="menu">                    <blockquote class="tr_bq"><ul><li class="actual"><span style="font-size: x-small;"><a href="http://www.dvctvs.upf.edu/lang/es/#" title="Inicio">Inicio</a></span></li><li><span style="font-size: x-small;"><a href="http://www.dvctvs.upf.edu/lang/es/proyecto.php" title="El Proyecto">El Proyecto</a></span></li><li><span style="font-size: x-small;"><a href="http://www.dvctvs.upf.edu/lang/es/colecciones.php" title="Colecciones">Colecciones</a></span></li><li><span style="font-size: x-small;"><a href="http://www.dvctvs.upf.edu/lang/es/equipo.php" title="Equipo">Equipo</a></span></li><li><span style="font-size: x-small;"><a href="http://www.dvctvs.upf.edu/catalogo/index.php" title="Catálogo Digital">Catálogo Digital</a></span></li><li><span style="font-size: x-small;"><a href="http://www.dvctvs.upf.edu/lang/es/links.php" title="Links">Links</a></span></li><li><span style="font-size: x-small;"><a href="http://www.dvctvs.upf.edu/lang/es/blog.php" title="Blog">Blog</a></span></li></ul></blockquote></div><div><a href="http://draft.blogger.com/null" id="data:post.url" name="data:post.title" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="'return"></a><br /><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7577224965497751117/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7577224965497751117/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/05/dvctvs.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7577224965497751117"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7577224965497751117"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/05/dvctvs.html"
          title="DVCTVS: National Papyrological Funds"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

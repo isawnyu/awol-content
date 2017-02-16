@@ -1,59 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7046349016109577802</id>
-    <published>2010-06-01T09:44:00.000-04:00</published>
-    <updated>2010-06-01T09:47:09.553-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7046349016109577802</id>
+   <published>2010-06-01T09:44:00.000-04:00</published>
+   <updated>2010-06-01T09:47:09.553-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: Revista ArqueoMurcia</title>
-    <content type="html"><![CDATA[<a href="http://www.arqueomurcia.com/revista/index.htm">Revista
-      ArqueoMurcia</a>: La revista electrónica de Arqueología en la Región de Murcia<br
-      />ISSN 1696-974X<br /><br /><p style="text-align: left;"><a
-      href="http://www.arqueomurcia.com/revista/n1/rev_1.htm"><img
-      src="http://www.arqueomurcia.com/revista/images/n1.gif" alt="Número 1 de la revista" border="0"
-      height="90" width="400" /></a></p><div> </div><p
-      style="text-align: left;"><a
-      href="http://www.arqueomurcia.com/revista/n2/index.php"><img
-      src="http://www.arqueomurcia.com/revista/images/n2.gif" alt="Número 2 de la revista" border="0"
-      height="90" width="400" /></a></p> <a
-      href="http://www.arqueomurcia.com/revista/n3/index.php"><img
-      src="http://www.arqueomurcia.com/revista/images/n3.gif" alt="Número 3 de la revista" border="0"
-      height="90" width="400" /></a><br /><br /><br />See the full <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a>.<br
-      /><p></p><div><a name="data:post.title" id="data:post.url"
-      onmouseover="'return" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img
-      src="http://s7.addthis.com/static/btn/lg-share-en.gif" alt="Bookmark and Share so Your Real
-      Friends Know that You Know" style="border: 0pt none;" height="16" width="125"
-      /></a><br /><script type="text/javascript"
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"></script></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal:  Revista ArqueoMurcia</title>
+   <content type="html"><![CDATA[<a href="http://www.arqueomurcia.com/revista/index.htm">Revista ArqueoMurcia</a>:  La revista electrónica de Arqueología en la Región de Murcia<br />ISSN 1696-974X<br /><br /><p style="text-align: left;"><a href="http://www.arqueomurcia.com/revista/n1/rev_1.htm"><img src="http://www.arqueomurcia.com/revista/images/n1.gif" alt="Número 1 de  la revista" border="0" height="90" width="400" /></a></p><div>     </div><p style="text-align: left;"><a href="http://www.arqueomurcia.com/revista/n2/index.php"><img src="http://www.arqueomurcia.com/revista/images/n2.gif" alt="Número 2 de  la revista" border="0" height="90" width="400" /></a></p>     <a href="http://www.arqueomurcia.com/revista/n3/index.php"><img src="http://www.arqueomurcia.com/revista/images/n3.gif" alt="Número 3 de  la revista" border="0" height="90" width="400" /></a><br /><br /><br />See the full <a href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a>.<br /><p></p><div><a name="data:post.title" id="data:post.url" onmouseover="'return" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" alt="Bookmark and  Share so Your Real Friends Know that You Know" style="border: 0pt none;" height="16" width="125" /></a><br /><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"></script></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7046349016109577802/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7046349016109577802/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/06/open-access-journal-revista.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7046349016109577802"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7046349016109577802"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/06/open-access-journal-revista.html"
          title="Open Access Journal:  Revista ArqueoMurcia"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

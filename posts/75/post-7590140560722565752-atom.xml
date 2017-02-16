@@ -1,295 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7590140560722565752</id>
-    <published>2014-04-01T10:48:00.003-04:00</published>
-    <updated>2014-04-01T10:48:36.832-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7590140560722565752</id>
+   <published>2016-07-27T15:10:00.000-04:00</published>
+   <updated>2016-07-27T15:12:26.827-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Germany"/>
-    <title type="text">Open Access Journal: Neotopia: Newsletter für Mitglieder und Freunde des
-      Exzellenzclusters Topoi</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.topoi.org/knowledge-transfer/publications/neotopia/">Neotopia: Newsletter
-      für Mitglieder und Freunde des Exzellenzclusters Topoi</a><br /><blockquote
-      class="tr_bq"><img
-      alt="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia-logo.jpg" class="decoded"
-      height="55" src="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia-logo.jpg" width="200"
-      /><a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html"></a>
-      </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Neotopia is the regular newsletter of the Excellence Cluster Topoi. It gives you
-      brief information on upcoming and recent events, current projects, and new Topoi
-      fellows.</span><br /><span style="font-size: x-small;"><br
-      /></span><span style="font-size: x-small;">For downloading please click on the
-      appropriate cover.</span><br /><h1 class="initial_year" style="clear:
-      both;"><span style="font-size: x-small;">2014</span></h1><div
-      class="wp-caption alignleft" id="attachment_23235" style="width: 123px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-01.pdf"><img
-      alt="Neotopia 01/14" class="size-full wp-image-23235 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-01.png"
-      height="160" title="Initiates PDF download" width="113" /></a></span><br
-      /><div class="wp-caption-text"><span style="font-size: x-small;">Issue
-      01/14</span></div></div><h1 class="initial_year" style="clear:
-      both;"><span style="font-size: x-small;">2013</span></h1><div
-      class="wp-caption alignleft" id="attachment_22551" style="width: 123px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2013-06.pdf"
-      target="_blank"><img alt="Neotopia 06/13" class="size-full wp-image-22551 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2013-06.png"
-      height="160" title="Initiates PDF download" width="113" /></a></span><br
-      /><div class="wp-caption-text"><span style="font-size: x-small;">Issue
-      06/13</span></div></div><div class="wp-caption alignleft"
-      id="attachment_20425" style="width: 123px;"><span style="font-size: x-small;"><a
-      class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2013/09/neotopia_topoi-newsletter_2013-05.pdf"
-      target="_blank"><img alt="Issue 05/2013" class="size-full wp-image-20425 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2013-05.png"
-      height="160" title="Initiates PDF download" width="113" /></a></span><br
-      /><div class="wp-caption-text"><span style="font-size: x-small;">Issue
-      05/2013</span></div></div><div class="wp-caption alignleft"
-      id="attachment_20425" style="width: 123px;"><span style="font-size: x-small;"><a
-      class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2013-04.pdf"><img
-      alt="Issue 04/2013" class="size-full wp-image-20425 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2013-04.png"
-      height="160" title="Initiates PDF download" width="113" /></a></span><br
-      /><div class="wp-caption-text"><span style="font-size: x-small;">Issue
-      04/2013</span></div></div><div class="wp-caption alignleft"
-      id="attachment_15757" style="width: 123px;"><span style="font-size: x-small;"><a
-      class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2013-03.pdf"><img
-      alt="Issue 03/2013" class="size-full wp-image-15757 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2013-03-1.png"
-      height="160" title="Initiates PDF download" width="113" /></a></span><br
-      /><div class="wp-caption-text"><span style="font-size: x-small;">Issue
-      03/2013</span></div></div><div class="wp-caption alignleft"
-      id="attachment_15542" style="width: 123px;"><span style="font-size: x-small;"><a
-      class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2013-02.pdf"><img
-      alt="Issue 02/2013" class="size-full wp-image-15542 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2013-02-1.png"
-      height="160" title="Initiates PDF download" width="113" /></a></span><br
-      /><div class="wp-caption-text"><span style="font-size: x-small;">Issue
-      02/2013</span></div></div><div class="wp-caption alignleft"
-      id="attachment_15293" style="width: 123px;"><span style="font-size: x-small;"><a
-      class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia-01-13_web.pdf"><img
-      alt="Issue 01/13" class="size-full wp-image-15293 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia-01-13.png" height="160"
-      title="Initiates PDF download" width="113" /></a></span><br /><div
-      class="wp-caption-text"><span style="font-size: x-small;">Issue
-      01/13</span></div></div><h1 class="initial_year" style="clear:
-      both;"><span style="font-size: x-small;">2012</span></h1><div
-      class="wp-caption alignleft" id="attachment_14604" style="width: 123px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia_06_12_web.pdf"><img alt=""
-      class="size-full wp-image-14604 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia_06_12.png" height="160"
-      title="Neotopia_06_12" width="113" /></a></span><br /><div
-      class="wp-caption-text"><span style="font-size: x-small;">Issue
-      06/12</span></div></div><div class="wp-caption alignleft"
-      id="attachment_11676" style="width: 123px;"><span style="font-size: x-small;"><a
-      class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia_05_2012.pdf"><img alt=""
-      class="size-full wp-image-11676 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia-05_2012-Newsletter_A4-1.gif"
-      height="160" title="neotopia_topoi-newsletter2012-04" width="113"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 05/2012</span></div></div><div
-      class="wp-caption alignleft" id="attachment_11676" style="width: 123px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-04.pdf"><img
-      alt="" class="size-full wp-image-11676 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-04.png"
-      height="160" title="neotopia_topoi-newsletter2012-04" width="113"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 04/2012</span></div></div><div
-      class="wp-caption alignleft" id="attachment_11343" style="width: 123px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-03.pdf"><img
-      alt="" class="size-full wp-image-11343"
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-03.png"
-      height="160" title="neotopia_topoi-newsletter2012-03" width="113"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 03/2012</span></div></div><div
-      class="wp-caption alignleft" id="attachment_10931" style="width: 123px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-02.pdf"><img
-      alt="Issue 02/2012" class="size-full wp-image-10931 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-02.png"
-      height="160" title="neotopia_topoi-newsletter2012-01" width="113"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 02/2012</span></div></div><div
-      class="wp-caption alignleft" id="attachment_10931" style="width: 123px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-01.pdf"><img
-      alt="Issue 01/2012" class="size-full wp-image-10931"
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-01.png"
-      height="160" title="neotopia_topoi-newsletter2012-01" width="113"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 01/2012</span></div></div><h1
-      class="initial_year" style="clear: both;"><span style="font-size:
-      x-small;">2011</span></h1><div class="wp-caption alignleft"
-      id="attachment_10441" style="width: 123px;"><span style="font-size: x-small;"><a
-      class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-05.pdf"><img
-      alt="Issue 05/2011" class="size-full wp-image-10441"
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-05.png"
-      height="160" title="neotopia_topoi-newsletter2011-05" width="113"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 05/2011</span></div></div><div
-      class="wp-caption alignleft" id="attachment_9751" style="width: 123px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-04.pdf"><img
-      alt="" class="size-full wp-image-9751"
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-04.jpg"
-      height="160" title="neotopia_topoi-newsletter2011-04" width="113"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 04/2011</span></div></div><div
-      class="wp-caption alignleft" id="attachment_8411" style="width: 123px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-03.pdf"><img
-      alt="" class="size-full wp-image-8411"
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-03.jpg"
-      height="160" title="Issue 03/2011" width="113" /></a></span><br /><div
-      class="wp-caption-text"><span style="font-size: x-small;">Issue
-      03/2011</span></div></div><div class="wp-caption alignleft"
-      id="attachment_8262" style="width: 123px;"><span style="font-size: x-small;"><a
-      class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-02.pdf"><img
-      alt="" class="size-full wp-image-8262 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-02.jpg"
-      height="160" title="neotopia_topoi-newsletter2011-02" width="113"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 02/2011</span></div></div><div
-      class="wp-caption alignleft" style="width: 121px;"><span style="font-size:
-      x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-01.pdf"><img
-      alt="Issue 01/2011" class="size-full wp-image-7591 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-01.jpg"
-      height="160" title="neotopia_topoi-newsletter2011-01" width="111"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 01/2011</span></div></div><h1
-      class="initial_year" style="clear: both;"><span style="font-size:
-      x-small;">2010</span></h1><div class="wp-caption alignleft"
-      id="attachment_5482" style="width: 121px;"><span style="font-size: x-small;"><a
-      class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-07.pdf"><img
-      alt="Issue 07/2010" class="size-full wp-image-5482"
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-07.gif"
-      height="159" title="neotopia_topoi-newsletter2010-07" width="111"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 07/2010</span></div></div><div
-      class="wp-caption alignleft" id="attachment_5473" style="width: 125px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-06.pdf"><img
-      alt="Issue 06/2010" class="size-full wp-image-5473 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-06.gif"
-      height="160" title="neotopia_topoi-newsletter2010-06" width="115"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 06/2010</span></div></div><div
-      class="wp-caption alignleft" id="attachment_5471" style="width: 126px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-05.pdf"><img
-      alt="Issue 05/2010" class="size-full wp-image-5471 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-05.gif"
-      height="160" title="neotopia_topoi-newsletter2010-05" width="116"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 05/2010</span></div></div><div
-      class="wp-caption alignleft" id="attachment_5469" style="width: 126px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-04.pdf"><img
-      alt="Issue 04/2010" class="size-full wp-image-5469 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-04.gif"
-      height="160" title="neotopia_topoi-newsletter2010-04" width="116"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 04/2010</span></div></div><div
-      class="wp-caption alignleft" id="attachment_5467" style="width: 125px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-03.pdf"><img
-      alt="Issue 03/2010" class="size-full wp-image-5467 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-03.gif"
-      height="160" title="neotopia_topoi-newsletter2010-03" width="115"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 03/2010</span></div></div><div
-      class="wp-caption alignleft" id="attachment_5466" style="width: 125px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-02.pdf"><img
-      alt="Issue 02/2010" class="size-full wp-image-5466 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-02.gif"
-      height="160" title="neotopia_topoi-newsletter2010-02" width="115"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 02/2010</span></div></div><div
-      class="wp-caption alignleft" id="attachment_5464" style="width: 125px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-01.pdf"><img
-      alt="Issue 01/2010" class="size-full wp-image-5464 "
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-01.gif"
-      height="160" title="neotopia_topoi-newsletter2010-01" width="115"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 01/2010</span></div></div><h1
-      class="initial_year" style="clear: both;"><span style="font-size:
-      x-small;">2009</span></h1><div class="wp-caption alignleft"
-      id="attachment_5462" style="width: 125px;"><span style="font-size: x-small;"><a
-      class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2009-03.pdf"><img
-      alt="Issue 03/2009" class="size-full wp-image-5462"
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2009-03.gif"
-      height="161" title="neotopia_topoi-newsletter2009-03" width="115"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 03/2009</span></div></div><div
-      class="wp-caption alignleft" id="attachment_5460" style="width: 125px;"><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2009-02.pdf"><img
-      alt="Issue 02/2009" class="size-full wp-image-5460"
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2009-02.gif"
-      height="161" title="neotopia_topoi-newsletter2009-02" width="115"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue
-      02/2009</span></div></div></blockquote><div class="wp-caption
-      alignleft" id="attachment_5458" style="width: 125px;"><blockquote><span
-      style="font-size: x-small;"><a class="external-with-img"
-      href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2009-01.pdf"><img
-      alt="Issue 01/2009" class="size-full wp-image-5458"
-      src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2009-01.gif"
-      height="161" title="neotopia_topoi-newsletter2009-01" width="115"
-      /></a></span><br /><div class="wp-caption-text"><span
-      style="font-size: x-small;">Issue 01/2009</span></div></blockquote><div
-      class="wp-caption-text"><br /></div><div class="wp-caption-text"><br
-      /></div></div><div style="text-align: center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a> </div><div style="text-align:
-      center;">&nbsp;And see all the <a
-      href="http://ancientworldonline.blogspot.com/2010/07/open-access-opublications-of-topoi.html">Open
-      Access Publications of TOPOI</a>&nbsp; </div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Germany"/>
+   <title type="text">Open Access Journal: Neotopia: Newsletter für Mitglieder und Freunde des Exzellenzclusters Topoi</title>
+   <content type="html"><![CDATA[<a href="http://www.topoi.org/knowledge-transfer/publications/neotopia/">Neotopia: Newsletter für Mitglieder und Freunde des Exzellenzclusters Topoi</a><br /><blockquote class="tr_bq"><img alt="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia-logo.jpg" class="decoded" src="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia-logo.jpg" height="55" width="200" /><a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html"></a> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Neotopia is the regular newsletter of the Excellence Cluster Topoi.  It gives you brief information on upcoming and recent events, current  projects, and new Topoi fellows. Please click on the appropriate cover  to download the issues. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"></span><div class="shortened_begin2"><span style="font-size: x-small;">If you would like to subscribe to our newsletter, please send us an e-mail&nbsp;with the subject “Newsletter” to:</span><span style="font-size: x-small;"><a href="mailto:neotopia@topoi.org">neotopia@topoi.org</a></span></div><h1 class="initial_year" style="clear: both;">2016</h1><div class="wp-caption alignleft" id="attachment_35434" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2016-05.pdf"><img alt="Topoi" class="size-thumbnail wp-image-35434" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2016-05-140x180.jpg" height="160" width="113" /></a><br /><div class="wp-caption-text">Issue 05/16</div></div><div class="wp-caption alignleft" id="attachment_34679" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2016-04.pdf" rel="attachment wp-att-33867" target="_blank"><img alt="Newsletter Neotopia Issue 04/2016" class="wp-image-34679" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2016-04.jpg" height="160" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 04/2016</div></div><div class="wp-caption alignleft" id="attachment_33867" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2016-03.pdf" rel="attachment wp-att-33867" target="_blank"><img alt="Newsletter Neotopia Issue 03/2016" class="wp-image-33867" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2016-03-724x1024.jpg" height="160" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 03/2016</div></div><div class="wp-caption alignleft" id="attachment_33868" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/2016_edition-topoi_skript02.pdf" rel="attachment wp-att-33868" target="_blank"><img alt="Supplement Edition Topoi skript o2" class="wp-image-33868" src="http://www.topoi.org/wp-content/uploads/2011/01/2016_edition-topoi_skript02-724x1024.jpg" height="160" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Supplement 03/16</div></div><div class="wp-caption alignleft" id="attachment_33612" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2016/03/neotopia_topoi-newsletter_2016-02.pdf" target="_blank"><img alt="Newsletter Neotopia Issue 02/2016" class="wp-image-33612" src="http://www.topoi.org/wp-content/uploads/2016/03/neotopia_topoi-newsletter_2016-02.jpg" height="160" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 02/2016</div></div><div class="wp-caption alignleft" id="attachment_33077" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2016-01.pdf" target="_blank"><img alt="Newsletter Neotopia Issue 01/2016" class="wp-image-33077" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2016-01-724x1024.jpg" height="160" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 01/2016</div></div><h1 class="initial_year" style="clear: both;">2015</h1><br /><div class="wp-caption alignleft" id="attachment_32539" style="width: 117px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2015-06.pdf" target="_blank"><img alt="Neotopia newsletter Issue 06/15" class="wp-image-32539" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2015-06_cover.jpg" height="160" title="Initiates PDF download (opens new tab)" width="117" /></a><br /><div class="wp-caption-text">Issue 06/2015</div></div><div class="wp-caption alignleft" id="attachment_32537" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2015-06-beilage.pdf" target="_blank"><img alt="Neotopia Weihnachtsbeilage Cover" class="wp-image-32537" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_Webcover_beilage.jpg" height="160" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Christmas Special</div></div><div class="wp-caption alignleft" id="attachment_31675" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2015-05.pdf" target="_blank"><img alt="Issue 05/2005" class="wp-image-31675 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2015-05.png" height="160" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 05/2015</div></div><div class="wp-caption alignleft" id="attachment_30543" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2015/07/neotopia_topoi-newsletter_2015-04.pdf" target="_blank"><img alt="Issue 2015/04" class="wp-image-30543 size-full" src="http://www.topoi.org/wp-content/uploads/2015/07/neotopia_topoi-newsletter_2015-04.jpg" height="160" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 04/2015</div></div><div class="wp-caption alignleft" id="attachment_30197" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2015-03.pdf" target="_blank"><img alt="Neotopia Topoi-Newsletter 03/2015" class="wp-image-29092 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2015-03.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 03/2015</div></div><div class="wp-caption alignleft" id="attachment_29729" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2015-02.pdf" target="_blank"><img alt="Neotopia: Issue 02/15. Download PDF" class="wp-image-29729 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2015-02.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 02/2015</div></div><div class="wp-caption alignleft" id="attachment_29092" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2015/03/neotopia_topoi-newsletter_2015-01.pdf" target="_blank"><img alt="Neotopia Issue 01/2015" class="wp-image-29092 size-full" src="http://www.topoi.org/wp-content/uploads/2015/03/neotopia_topoi-newsletter_2015-01.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 01/2015</div></div><h1 class="initial_year" style="clear: both;">2014</h1><div class="wp-caption alignleft" id="attachment_27887" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2014/12/neotopia_topoi-newsletter_2014-06.pdf" target="_blank"><img alt="Neotopia Issue 06/2014" class="wp-image-27887 size-full" src="http://www.topoi.org/wp-content/uploads/2014/12/neotopia_topoi-newsletter_2014-06.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 06/2014</div></div><div class="wp-caption alignleft" id="attachment_27889" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2014/12/neotopia_weihnachts-special_2014-06.pdf" target="_blank"><img alt="Neotopia Christmas Special 2014" class="wp-image-27889 size-full" src="http://www.topoi.org/wp-content/uploads/2014/12/neotopia_weihnachts-special_2014-06.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Christmas Special</div></div><div class="wp-caption alignleft" id="attachment_26976" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-05.pdf" target="_blank"><img alt="Neotopia Issue 05/14" class="wp-image-26976 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-05.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 05/14</div></div><div class="wp-caption alignleft" id="attachment_26974" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-05_sonderbeilage_edition-topoi.pdf" target="_blank"><img alt="Neotopia Supplement 05/14" class="wp-image-26974 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-05_sonderbeilage_edition-topoi.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Supplement 05/14</div></div><div class="wp-caption alignleft" id="attachment_25286" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-04.pdf" target="_blank"><img alt="Issue 04/2014" class="wp-image-25286 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-04.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 04/14</div></div><div class="wp-caption alignleft" id="attachment_24609" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-03.pdf" target="_blank"><img alt="Issue 03/14" class="wp-image-24609 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-03.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 03/14</div></div><div class="wp-caption alignleft" id="attachment_23984" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-02.pdf" target="_blank"><img alt="Issue 02/14" class=" wp-image-23984 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-02.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 02/2014</div></div><div class="wp-caption alignleft" id="attachment_23235" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-01.pdf" target="_blank"><img alt="Neotopia 01/14" class=" wp-image-23235 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2014-01.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 01/2014</div></div><h1 class="initial_year" style="clear: both;">2013</h1><div class="wp-caption alignleft" id="attachment_22551" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2013-06.pdf" target="_blank"><img alt="Neotopia 06/2013" class=" wp-image-22551 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2013-06.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 06/2013</div></div><div class="wp-caption alignleft" id="attachment_20425" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2013/09/neotopia_topoi-newsletter_2013-05.pdf" target="_blank"><img alt="Issue 05/2013" class="size-full wp-image-20425" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter_2013-05.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download" width="113" /></a><br /><div class="wp-caption-text">Issue 05/2013</div></div><div class="wp-caption alignleft" id="attachment_20425" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2013-04.pdf"><img alt="Issue 04/2013" class="size-full wp-image-20425 " src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2013-04.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download" width="113" /></a><br /><div class="wp-caption-text">Issue 04/2013</div></div><div class="wp-caption alignleft" id="attachment_15757" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2013-03.pdf"><img alt="Issue 03/2013" class="size-full wp-image-15757 " src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2013-03-1.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download" width="113" /></a><br /><div class="wp-caption-text">Issue 03/2013</div></div><div class="wp-caption alignleft" id="attachment_15542" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2013-02.pdf"><img alt="Issue 02/2013" class="size-full wp-image-15542" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2013-02-1.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download" width="113" /></a><br /><div class="wp-caption-text">Issue 02/2013</div></div><div class="wp-caption alignleft" id="attachment_15293" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia-01-13_web.pdf"><img alt="Issue 01/13" class="size-full wp-image-15293" src="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia-01-13.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download" width="113" /></a><br /><div class="wp-caption-text">Issue 01/13</div></div><h1 class="initial_year" style="clear: both;">2012</h1><div class="wp-caption alignleft" id="attachment_14604" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia_06_12_web.pdf" target="_blank"><img alt="Neotopia Issue 06/12" class="wp-image-14604 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia_06_12.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 06/12</div></div><div class="wp-caption alignleft" id="attachment_11676" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/Neotopia_05_2012.pdf" target="_blank"><img alt="Neotopia Issue 05/12" class="wp-image-11676 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-04.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 05/2012</div></div><div class="wp-caption alignleft" id="attachment_11676" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-04.pdf" target="_blank"><img alt="Issue 04/2012" class=" wp-image-11676 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-04.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 04/2012</div></div><div class="wp-caption alignleft" id="attachment_11343" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-03.pdf" target="_blank"><img alt="Issue 03/2012" class="wp-image-11343 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-03.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 03/2012</div></div><div class="wp-caption alignleft" id="attachment_10931" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-02.pdf" target="_blank"><img alt="Issue 02/2012" class="wp-image-10931 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-01.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 02/2012</div></div><div class="wp-caption alignleft" id="attachment_10931" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-01.pdf"><img alt="Issue 01/2012" class="wp-image-10931 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2012-01.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 01/2012</div></div><h1 class="initial_year" style="clear: both;">2011</h1><div class="wp-caption alignleft" id="attachment_10441" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-05.pdf" target="_blank"><img alt="Issue 05/2011" class="wp-image-10441 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-05.png" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 05/2011</div></div><div class="wp-caption alignleft" id="attachment_9751" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-04.pdf" target="_blank"><img alt="" class="wp-image-9751 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-04.jpg" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 04/2011</div></div><div class="wp-caption alignleft" id="attachment_8411" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-03.pdf" target="_blank"><img alt="Issue 03/2011" class="wp-image-8411 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-03.jpg" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 03/2011</div></div><div class="wp-caption alignleft" id="attachment_8262" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-02.pdf" target="_blank"><img alt="Issue 02/2011" class="wp-image-8262 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-02.jpg" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 02/2011</div></div><div class="wp-caption alignleft" id="attachment_7591" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-01.pdf" target="_blank"><img alt="Issue 01/2011" class="wp-image-7591 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2011-01.jpg" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 01/2011</div></div><h1 class="initial_year" style="clear: both;">2010</h1><div class="wp-caption alignleft" id="attachment_5482" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-07.pdf" target="_blank"><img alt="Issue 07/2010" class="wp-image-5482" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-07.gif" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 07/2010</div></div><div class="wp-caption alignleft" id="attachment_5473" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-06.pdf" target="_blank"><img alt="Issue 06/2010" class="wp-image-5473" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-06.gif" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 06/2010</div></div><div class="wp-caption alignleft" id="attachment_5471" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-05.pdf" target="_blank"><img alt="Issue 05/2010" class="wp-image-5471 " src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-05.gif" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 05/2010</div></div><div class="wp-caption alignleft" id="attachment_5469" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-04.pdf" target="_blank"><img alt="Issue 04/2010" class="wp-image-5469 " src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-04.gif" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 04/2010</div></div><div class="wp-caption alignleft" id="attachment_5467" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-03.pdf" target="_blank"><img alt="Issue 03/2010" class="wp-image-5467 " src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-03.gif" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 03/2010</div></div><div class="wp-caption alignleft" id="attachment_5466" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-02.pdf" target="_blank"><img alt="Issue 02/2010" class="wp-image-5466 " src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-02.gif" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 02/2010</div></div><div class="wp-caption alignleft" id="attachment_5464" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-01.pdf" target="_blank"><img alt="Issue 01/2010" class="wp-image-5464 " src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2010-01.gif" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 01/2010</div></div><h1 class="initial_year" style="clear: both;">2009</h1><div class="wp-caption alignleft" id="attachment_5462" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2009-03.pdf" target="_blank"><img alt="Issue 03/2009" class="wp-image-5462 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2009-03.gif" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 03/2009</div></div><div class="wp-caption alignleft" id="attachment_5460" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2009-02.pdf" target="_blank"><img alt="Issue 02/2009" class="wp-image-5460 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2009-02.gif" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 02/2009</div></div><div class="wp-caption alignleft" id="attachment_5458" style="width: 113px;"><a class="external-with-img" href="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2009-01.pdf" target="_blank"><img alt="Issue 01/2009" class="wp-image-5458 size-full" src="http://www.topoi.org/wp-content/uploads/2011/01/neotopia_topoi-newsletter2009-01.gif" height="160" style="border: none; box-shadow: 1px 2px 3px rgba(211,211,211,1);" title="Initiates PDF download (opens new tab)" width="113" /></a><br /><div class="wp-caption-text">Issue 01/2009</div></div></blockquote><div style="text-align: center;"><span style="font-size: small;"><span><span><span style="font-weight: normal;">See AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span><br /><span style="font-size: x-small;"><span><span style="font-weight: normal;">&nbsp;</span></span></span> </div><div style="text-align: center;">&nbsp;And see all the <a href="http://ancientworldonline.blogspot.com/2010/07/open-access-opublications-of-topoi.html">Open Access Publications of TOPOI</a>&nbsp; </div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7590140560722565752/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7590140560722565752/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/04/open-access-journal-neotopia-newsletter.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7590140560722565752"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7590140560722565752"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/04/open-access-journal-neotopia-newsletter.html"
          title="Open Access Journal: Neotopia: Newsletter für Mitglieder und Freunde des Exzellenzclusters Topoi"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,166 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-934002696573066902</id>
-    <published>2015-05-04T09:41:00.000-04:00</published>
-    <updated>2015-05-04T09:41:47.383-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
-             term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-934002696573066902</id>
+   <published>2015-05-04T09:41:00.000-04:00</published>
+   <updated>2016-03-25T14:21:13.893-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#"
              term="Attic Inscriptions Online"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
-    <title type="text">Open Access Serial: AIO Papers (Attic Inscriptions Online)</title>
-    <content type="html"><![CDATA[<a href="http://www.atticinscriptions.com/papers/">AIO Papers (Attic
-      Inscriptions Online)</a><br /><blockquote class="tr_bq"><img
-      alt="https://www.atticinscriptions.com/live/static/img/AIO_logo_150.png" class="transparent"
-      src="https://www.atticinscriptions.com/live/static/img/AIO_logo_150.png" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">As
-      this is the inaugural publication of <i>AIO Papers</i>, readers may welcome a word
-      of explanation as to the purpose of the series. The primary objective of <a
-      href="http://www.atticinscriptions.com/"><i>Attic Inscriptions
-      Online</i></a> is to make available English translations of Attic inscriptions,
-      based on the most accurate and up-to-date Greek texts. The authoritative publications of the
-      Greek texts are <i>Inscriptiones Graecae</i> vol. I (before 403 BC) and vol. II
-      (403 BC - AD 267), new editions of which appear at infrequent intervals. When an inscription is
-      included in a recently published volume of <i>IG</i>, such as the third edition of
-      <i>IG</i> II (<i>IG</i> II3), the first fascicules of which appeared in
-      2012, identifying “the most accurate and up-to-date” Greek text can be quite straightforward.
-      In other cases, however, there can more of an issue. It can often be addressed by including one
-      or more references to the review of epigraphical scholarship which is published every year in
-      the <i>Supplementum Epigraphicum Graecu</i>m (<i>SEG</i>). However, a
-      simple reference to <i>IG</i>, <i>SEG</i>, or occasionally to another
-      publication, is not always sufficient. SEG, for example, records textual proposals with a
-      degree of indiscrimination which may mislead the inexperienced user. In the process of
-      reviewing the textual literature while preparing a translation for <i>AIO</i>
-      translators may see potential for textual improvements which require explanation and
-      justification. The first purpose of <i>AIO Papers</i>, therefore, is to supply a
-      forum in which the texts underlying the translations published in <i>AIO</i> may be
-      clarified.</span><br /><span style="font-size: x-small;"><br
-      /></span><span style="font-size: x-small;">Second, it is part of
-      <i>AIO</i>’s purpose to communicate Attic inscriptions to students and researchers
-      who may lack the background knowledge, of the languages, culture and institutions of the Greek
-      world in general, and of Athens and Attica in particular, that is needed to understand a
-      translated inscription in its raw state. <i>AIO Papers</i> will publish essays
-      intended to equip the user of <i>AIO</i> with such background knowledge.
-      <i>AIO Papers</i> no. 4, to appear later in 2014, will be the first of this type: a
-      companion to the translations of the inscribed Athenian laws and decrees of 352/1-322/1 BC,
-      texts of which were published in <i>IG </i>II3 1, fascicule 2.</span><br
-      /><span style="font-size: x-small;"><br /></span><span
-      style="font-size: x-small;">AIO Papers will also publish other papers consistent with the
-      objectives of <i>AIO</i>.</span><br /><span style="font-size:
-      x-small;">This includes translations of important articles written by scholars in languages
-      other than English but which, in the editor’s opinion, deserve a wider circulation among an
-      Anglophone readership. <i>AIO</i> Papers no. 2 and 3, translations of two papers
-      originally published in Italian by Enrica Culasso Gastaldi, fall into this category.
-      </span><br /><span style="font-size: x-small;">[From the Preface to <a
-      href="http://www.atticinscriptions.com/papers/aio-papers-1">AIO Papers
-      1</a>]</span></blockquote><div class="aio_paper_description"><a
-      href="http://www.atticinscriptions.com/papers/aio-papers-1"> </a><br
-      /><blockquote class="tr_bq"><div class="aio_paper"> <div
-      class="aio_paper_description"> <a
-      href="https://www.atticinscriptions.com/papers/aio-papers-6"> <h3><span
-      style="font-size: x-small;">AIO Papers 6</span></h3><span style="font-size:
-      x-small;"> </span><h4 class="item_name"><span style="font-size:
-      x-small;">S. D. Lambert - The Inscribed Version of the Decree Honouring Lykourgos of
-      Boutadai (IG II</span><sup>2</sup><span style="font-size: x-small;">
-      457 and 3207)</span></h4><span style="font-size: x-small;">
-      </span></a><span style="font-size: x-small;"> </span><blockquote
-      class="tr_bq"><span style="font-size: x-small;">This paper reviews the relationship
-      between IG II</span><sup>2</sup><span style="font-size: x-small;"> 457,
-      the upper part of an Athenian decree of 307/6 BC honouring posthumously the orator Lykourgos of
-      Boutadai, and IG II</span><sup>2</sup><span style="font-size:
-      x-small;"> 3207, the lower part of a stele inscribed with crowns commemorating decrees
-      honouring Lykourgos passed in his lifetime. It finds that 3207 either belonged to the same
-      stele as 457, as the great epigraphist Adolf Wilhlem proposed, or to a separate, but associated
-      stele. In section 2 it investigates the decrees commemorated on 3207, locating them in the
-      context of Lykourgos’ career, his rivalry with Demades and his relations with other politicians
-      of the period.</span></blockquote><span style="font-size: x-small;">
-      </span></div></div><div class="aio_paper"><div
-      class="aio_paper_description"> </div></div><span style="font-size:
-      x-small;"> </span><div class="aio_paper"> <div
-      class="aio_paper_description"> <span style="font-size: x-small;"><a
-      href="https://www.atticinscriptions.com/papers/aio-papers-5"> <h3>AIO Papers
-      5</h3><h4 class="item_name">S. D. Lambert - Accounts of Payments from the Treasury
-      of Athena in 410-407? BC (<i>IG</i> I<sup>3</sup> 375 and
-      377)</h4></a></span> <blockquote class="tr_bq"><span
-      style="font-size: x-small;">This paper treats the accounts of payments from the treasury of
-      Athena in 410-407? BC which are inscribed on the front and back of the so-called Choiseul
-      marble, in the Louvre in Paris (</span><i>IG</i><span style="font-size:
-      x-small;"> I</span><sup>3</sup><span style="font-size: x-small;">
-      375 and 377). It presents a fresh text of the difficult reverse face of the inscription (377),
-      which prints only those readings on which the three rival texts currently in circulation are in
-      agreement, and discusses the date. It is designed to support the translations of
-      </span><i>IG</i><span style="font-size: x-small;">
-      I</span><sup>3</sup><span style="font-size: x-small;"> 375 and 377
-      published on AIO and includes an annotated table of the payments listed in these
-      accounts.</span></blockquote></div></div><div
-      class="aio_paper"><div class="aio_paper_description"> </div></div><span
-      style="font-size: x-small;"> </span><div class="aio_paper"> <div
-      class="aio_paper_description"> <span style="font-size: x-small;"><a
-      href="https://www.atticinscriptions.com/papers/aio-papers-4"> <h3>AIO Papers
-      4</h3><h4 class="item_name">S. D. Lambert - Inscribed Athenian Decrees of
-      229/8-198/7 BC (<i>IG</i> II<sup>3</sup> 1,
-      1135-1255)</h4></a></span> <blockquote class="tr_bq"><span
-      style="font-size: x-small;">After exploring features of the history and methodology of Attic
-      epigraphy, this paper surveys the corpus of 121 Athenian decrees of 229/8-198/7 BC recently
-      published as </span><i>IG</i><span style="font-size: x-small;">
-      II</span><sup>3</sup><span style="font-size: x-small;"> 1, 1135-1255
-      (sections I-II of </span><i>IG</i><span style="font-size: x-small;">
-      II</span><sup>3</sup><span style="font-size: x-small;"> 1 fascicule 5).
-      It reviews the decrees by category, discussing some historical aspects and proposing some
-      improvements to the texts. It is designed to be read with the translations of these
-      inscriptions published on AIO.</span></blockquote></div></div><div
-      class="aio_paper"><div class="aio_paper_description"> </div></div><span
-      style="font-size: x-small;"> </span><div class="aio_paper"> <div
-      class="aio_paper_description"> <span style="font-size: x-small;"><a
-      href="https://www.atticinscriptions.com/papers/aio-papers-1"> <h3>AIO Papers
-      1</h3><h4 class="item_name">S. D. Lambert - Notes on Inscriptions of the
-      Marathonian Tetrapolis</h4></a></span> <blockquote
-      class="tr_bq"><span style="font-size: x-small;">This paper accompanies the publication
-      on </span><i>AIO</i><span style="font-size: x-small;"> of the
-      inscriptions of the Marathonian Tetrapolis and is designed primarily to clarify the texts on
-      which the translations are based. It reviews scholarship on the Tetrapolis’ sacrificial
-      calendar (iv BC), published since my new edition, </span><i>ZPE</i><span
-      style="font-size: x-small;"> 130 (2000), 43-70, and makes some fresh observations. It also
-      reviews the other inscriptions attributable to the Tetrapolis,
-      </span><i>IG</i><span style="font-size: x-small;">
-      I</span><sup>3</sup><span style="font-size: x-small;"> 255,
-      </span><i>IG</i><span style="font-size: x-small;">
-      II</span><sup>2</sup><span style="font-size: x-small;"> 2933,
-      </span><i>IG</i><span style="font-size: x-small;">
-      II</span><sup>2</sup><span style="font-size: x-small;"> 1243, and an
-      unpublished
-      inscription.</span></blockquote></div></div></blockquote></div><div
-      style="text-align: center;"><span style="font-size: small;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Epigraphy"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <title type="text">Open Access Serial: AIO Papers (Attic Inscriptions Online)</title>
+   <content type="html"><![CDATA[<a href="http://www.atticinscriptions.com/papers/">AIO Papers (Attic Inscriptions Online)</a><br /><blockquote class="tr_bq"><img alt="https://www.atticinscriptions.com/live/static/img/AIO_logo_150.png" class="transparent" src="https://www.atticinscriptions.com/live/static/img/AIO_logo_150.png" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">As this is the inaugural publication of <i>AIO Papers</i>, readers may welcome a word of explanation as to the purpose of the series. The primary objective of <a href="http://www.atticinscriptions.com/"><i>Attic Inscriptions Online</i></a> is to make available English translations of Attic inscriptions, based on the most accurate and up-to-date Greek texts. The authoritative publications of the Greek texts are <i>Inscriptiones Graecae</i> vol. I (before 403 BC) and vol. II (403 BC - AD 267), new editions of which appear at infrequent intervals. When an inscription is included in a recently published volume of <i>IG</i>, such as the third edition of <i>IG</i> II (<i>IG</i> II3), the first fascicules of which appeared in 2012, identifying “the most accurate and up-to-date” Greek text can be quite straightforward. In other cases, however, there can more of an issue. It can often be addressed by including one or more references to the review of epigraphical scholarship which is published every year in the <i>Supplementum Epigraphicum Graecu</i>m (<i>SEG</i>). However, a simple reference to <i>IG</i>, <i>SEG</i>, or occasionally to another publication, is not always sufficient. SEG, for example, records textual proposals with a degree of indiscrimination which may mislead the inexperienced user. In the process of reviewing the textual literature while preparing a translation for <i>AIO</i> translators may see potential for textual improvements which require explanation and justification. The first purpose of <i>AIO Papers</i>, therefore, is to supply a forum in which the texts underlying the translations published in <i>AIO</i> may be clarified.</span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;">Second, it is part of <i>AIO</i>’s purpose to communicate Attic inscriptions to students and researchers who may lack the background knowledge, of the languages, culture and institutions of the Greek world in general, and of Athens and Attica in particular, that is needed to understand a translated inscription in its raw state. <i>AIO Papers</i> will publish essays intended to equip the user of <i>AIO</i> with such background knowledge. <i>AIO Papers</i> no. 4, to appear later in 2014, will be the first of this type: a companion to the translations of the inscribed Athenian laws and decrees of 352/1-322/1 BC, texts of which were published in <i>IG </i>II3 1, fascicule 2.</span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;">AIO Papers will also publish other papers consistent with the objectives of <i>AIO</i>.</span><br /><span style="font-size: x-small;">This includes translations of important articles written by scholars in languages other than English but which, in the editor’s opinion, deserve a wider circulation among an Anglophone readership. <i>AIO</i> Papers no. 2 and 3, translations of two papers originally published in Italian by Enrica Culasso Gastaldi, fall into this category. </span><br /><span style="font-size: x-small;">[From the Preface to <a href="http://www.atticinscriptions.com/papers/aio-papers-1">AIO Papers 1</a>]</span></blockquote><blockquote class="tr_bq"><a href="https://www.atticinscriptions.com/papers/aio-papers-7">                        </a><br /><h3><a href="https://www.atticinscriptions.com/papers/aio-papers-7"><span style="font-size: x-small;">AIO Papers 7</span></a></h3><a href="https://www.atticinscriptions.com/papers/aio-papers-7"><span style="font-size: x-small;">                        </span><h4 class="item_name"><span style="font-size: x-small;">S. D. Lambert with a contribution by J. D. Morgan - The Last Erechtheion Building Accounts</span></h4><span style="font-size: x-small;">                        </span></a><span style="font-size: x-small;">                        </span><br /><span style="font-size: x-small;">This paper presents up-to-date texts,  informed by relevant work published since 2000, of the two extant sets  of fragments of the building accounts of the Erechtheion in Ionic script  as a basis for translations of these accounts published simultaneously  on AIO. It reviews the date of these accounts, and presents a fresh  argument by John Morgan to the effect that, if certain assumptions are  made, no. 2 (IG I<sup>3</sup> 477) is datable to 405/4 BC. That would  make it probably the latest extant account. Morgan also finds in this  fragment a supporting argument for the position initially aired in AIO  Papers 5, p. 3, that the Council's year and the archon's year were not  made systematically coterminous in 407 BC, as had previously been  thought, but continued to be out of step, probably until ca. 403 BC.</span></blockquote><div class="aio_paper_description"><a href="http://www.atticinscriptions.com/papers/aio-papers-1">            </a><br /><blockquote class="tr_bq"><div class="aio_paper"><div class="aio_paper_description"><a href="https://www.atticinscriptions.com/papers/aio-papers-6">                        </a><br /><h3><a href="https://www.atticinscriptions.com/papers/aio-papers-6"><span style="font-size: x-small;">AIO Papers 6</span></a></h3><a href="https://www.atticinscriptions.com/papers/aio-papers-6"><span style="font-size: x-small;">                        </span><h4 class="item_name"><span style="font-size: x-small;">S. D. Lambert - The Inscribed Version of the Decree Honouring Lykourgos of Boutadai (IG II</span><sup>2</sup><span style="font-size: x-small;"> 457 and 3207)</span></h4><span style="font-size: x-small;">                        </span></a><span style="font-size: x-small;">                        </span><br /><blockquote class="tr_bq"><span style="font-size: x-small;">This paper reviews the relationship between IG II</span><sup>2</sup><span style="font-size: x-small;"> 457, the upper part of an Athenian decree of 307/6 BC honouring posthumously the orator Lykourgos of Boutadai, and IG II</span><sup>2</sup><span style="font-size: x-small;"> 3207, the lower part of a stele inscribed with crowns commemorating  decrees honouring Lykourgos passed in his lifetime. It finds that 3207  either belonged to the same stele as 457, as the great epigraphist Adolf  Wilhlem proposed, or to a separate, but associated stele. In section 2  it investigates the decrees commemorated on 3207, locating them in the  context of Lykourgos’ career, his rivalry with Demades and his relations  with other politicians of the period.</span></blockquote><span style="font-size: x-small;">                        </span></div></div><div class="aio_paper"><div class="aio_paper_description"></div></div><span style="font-size: x-small;">                                                    </span><br /><div class="aio_paper"><div class="aio_paper_description"><span style="font-size: x-small;"><a href="https://www.atticinscriptions.com/papers/aio-papers-5">                        </a></span><br /><h3><span style="font-size: x-small;"><a href="https://www.atticinscriptions.com/papers/aio-papers-5">AIO Papers 5</a></span></h3><span style="font-size: x-small;"><a href="https://www.atticinscriptions.com/papers/aio-papers-5"><h4 class="item_name">S. D. Lambert - Accounts of Payments from the Treasury of Athena in 410-407? BC (<i>IG</i> I<sup>3</sup> 375 and 377)</h4></a></span>                        <br /><blockquote class="tr_bq"><span style="font-size: x-small;">This paper treats the accounts of payments  from the treasury of Athena in 410-407? BC which are inscribed on the  front and back of the so-called Choiseul marble, in the Louvre in Paris (</span><i>IG</i><span style="font-size: x-small;"> I</span><sup>3</sup><span style="font-size: x-small;"> 375 and 377). It presents a fresh text of the difficult reverse face of  the inscription (377), which prints only those readings on which the  three rival texts currently in circulation are in agreement, and  discusses the date. It is designed to support the translations of </span><i>IG</i><span style="font-size: x-small;"> I</span><sup>3</sup><span style="font-size: x-small;"> 375 and 377 published on AIO and includes an annotated table of the payments listed in these accounts.</span></blockquote></div></div><div class="aio_paper"><div class="aio_paper_description"></div></div><span style="font-size: x-small;">                                                    </span><br /><div class="aio_paper"><div class="aio_paper_description"><span style="font-size: x-small;"><a href="https://www.atticinscriptions.com/papers/aio-papers-4">                        </a></span><br /><h3><span style="font-size: x-small;"><a href="https://www.atticinscriptions.com/papers/aio-papers-4">AIO Papers 4</a></span></h3><span style="font-size: x-small;"><a href="https://www.atticinscriptions.com/papers/aio-papers-4"><h4 class="item_name">S. D. Lambert - Inscribed Athenian Decrees of 229/8-198/7 BC (<i>IG</i> II<sup>3</sup> 1, 1135-1255)</h4></a></span>                        <br /><blockquote class="tr_bq"><span style="font-size: x-small;">After exploring features of the history and  methodology of Attic epigraphy, this paper surveys the corpus of 121  Athenian decrees of 229/8-198/7 BC recently published as </span><i>IG</i><span style="font-size: x-small;"> II</span><sup>3</sup><span style="font-size: x-small;"> 1, 1135-1255 (sections I-II of </span><i>IG</i><span style="font-size: x-small;"> II</span><sup>3</sup><span style="font-size: x-small;"> 1 fascicule 5). It reviews the decrees by category, discussing some  historical aspects and proposing some improvements to the texts. It is  designed to be read with the translations of these inscriptions  published on AIO.</span></blockquote></div></div><div class="aio_paper"><div class="aio_paper_description"></div></div><span style="font-size: x-small;">                                                    </span><br /><div class="aio_paper"><div class="aio_paper_description"><span style="font-size: x-small;"><a href="https://www.atticinscriptions.com/papers/aio-papers-1">                        </a></span><br /><h3><span style="font-size: x-small;"><a href="https://www.atticinscriptions.com/papers/aio-papers-1">AIO Papers 1</a></span></h3><span style="font-size: x-small;"><a href="https://www.atticinscriptions.com/papers/aio-papers-1"><h4 class="item_name">S. D. Lambert - Notes on Inscriptions of the Marathonian Tetrapolis</h4></a></span>                        <br /><blockquote class="tr_bq"><span style="font-size: x-small;">This paper accompanies the publication on </span><i>AIO</i><span style="font-size: x-small;"> of the inscriptions of the Marathonian Tetrapolis and is designed  primarily to clarify the texts on which the translations are based. It  reviews scholarship on the Tetrapolis’ sacrificial calendar (iv BC),  published since my new edition, </span><i>ZPE</i><span style="font-size: x-small;"> 130 (2000), 43-70, and makes some fresh observations. It also reviews the other inscriptions attributable to the Tetrapolis, </span><i>IG</i><span style="font-size: x-small;"> I</span><sup>3</sup><span style="font-size: x-small;"> 255, </span><i>IG</i><span style="font-size: x-small;"> II</span><sup>2</sup><span style="font-size: x-small;"> 2933, </span><i>IG</i><span style="font-size: x-small;"> II</span><sup>2</sup><span style="font-size: x-small;"> 1243, and an unpublished inscription.</span></blockquote></div></div></blockquote></div><div style="text-align: center;"><span style="font-size: small;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/934002696573066902/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/934002696573066902/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/new-open-access-serial-aio-papers-attic.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/934002696573066902"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/934002696573066902"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/new-open-access-serial-aio-papers-attic.html"
          title="Open Access Serial: AIO Papers (Attic Inscriptions Online)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8040084961985633330</id>
+   <published>2015-12-23T09:06:00.000-05:00</published>
+   <updated>2015-12-23T18:37:26.921-05:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Rome"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Coins"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
+   <title type="text">Roman Imperial Coin Concordance: Roman Imperial Coin Crowd Sourcing</title>
+   <content type="html"><![CDATA[<a href="http://crowdsourced.micropasts.org/project/ricConcordance/">Roman Imperial Coin Concordance: Roman Imperial Coin Crowd Sourcing</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;">This project has been formulated by Daniel Pett (British Museum) and Ethan Gruber (American Numismatic Society) to aid with the assignation of Roman Imperial Coinage (RIC) identifiers.&nbsp;</span><br /><br /><span style="font-size: x-small;">At the time of writing, the Portable Antiquities Scheme (<a href="https://finds.org.uk/database/">PAS</a>) database holds details for over 200,000 Roman coins. Many of  these fall into the Imperial coinage category. In August 2016, the facility was introduced to integrate with Online  Coins of the Roman Empire (<a href="http://numismatics.org/ocre/">OCRE</a>) and tie the two resources together. This relies on the  PAS records being assigned a standardised identifier, and has presented a computational problem that can possibly be  solved by Human interaction with automatically generated results.</span><br /><br /><span style="font-size: x-small;">In this project, you will be presented with a coin from the PAS database which has potential matches to RIC identifiers drawn from OCRE and matched by computational methods by Ethan Gruber using the <a href="https://data.finds.org.uk/">RDF triplestore</a>created by Daniel Pett. Each coin has up to 4 matches and we would like contributors to choose the most likely match, or if an exact match is impossible, to indicate that this is the case. We hope that the tutorial explains exactly how to  proceed.</span><br /><br /><span style="font-size: x-small;">Once 5 people have checked and attributed the coins, we'll consolidate data and then update the PAS database which will  then populate the ANS OCRE platform with PAS examples.</span></blockquote><blockquote class="tr_bq"><div class="row alert-messages"></div><span style="font-size: x-small;">                </span><br /><div class="col-md-3"><ul class="nav nav-pills nav-stacked"><li class="active"><span style="font-size: x-small;"><a href="http://crowdsourced.micropasts.org/project/ricConcordance/"> Info</a></span></li><li><span style="font-size: x-small;"><a href="http://crowdsourced.micropasts.org/project/ricConcordance/newtask"> Contribute</a></span></li><li><span style="font-size: x-small;"><a href="http://crowdsourced.micropasts.org/project/ricConcordance/tasks/"> Tasks</a></span></li><li><span style="font-size: x-small;"><a href="http://crowdsourced.micropasts.org/project/ricConcordance/stats"> Statistics</a></span></li><li><span style="font-size: x-small;"><a href="http://crowdsourced.micropasts.org/project/ricConcordance/blog"> Blog</a></span></li></ul></div></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/8040084961985633330/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/12/roman-imperial-coin-concordance-roman.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8040084961985633330"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/8040084961985633330"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2015/12/roman-imperial-coin-concordance-roman.html"
+         title="Roman Imperial Coin Concordance: Roman Imperial Coin Crowd Sourcing"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

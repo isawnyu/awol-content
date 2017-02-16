@@ -1,92 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6725702980694724880</id>
-    <published>2011-12-04T18:42:00.001-05:00</published>
-    <updated>2013-07-27T07:30:51.335-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6725702980694724880</id>
+   <published>2011-12-04T18:42:00.001-05:00</published>
+   <updated>2013-07-27T07:30:51.335-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">André Lemaire articles online</title>
-    <content type="html"><![CDATA[From the always excellent <a href="http://www.digitorient.com/"
-      rel="home" title="digitorient.com">digitorient.com</a><br /><br /><img
-      alt="http://www.digitorient.com/wp/wp-content/uploads/2012/03/header1000288.jpg"
-      class="decoded" height="57"
-      src="http://www.digitorient.com/wp/wp-content/uploads/2012/03/header1000288.jpg" width="200"
-      /> <br /><br /><a href="http://www.digitorient.com/?p=318">André Lemaire :
-      bibliographie récente et articles en téléchargement</a><br /><div
-      class="entry-content"><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Voici une liste de publications récentes par André Lemaire :</span><br
-      /><ul><li><span style="font-size: x-small;"><a
-      href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/Publications%20scientifiques.doc"
-      id="p308" title="(5 lectures)">André Lemaire – Publications
-      récentes</a></span></li></ul><span style="font-size:
-      x-small;">Voici également une liste d’articles en téléchargement au format PDF
-      :</span><br /><ul><li><span style="font-size: x-small;"><a
-      href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/SilianaCarthageAL.pdf"
-      id="p309" title="(5 lectures)">Remarques sur le contexte historique et culturel de fondation
-      de Carthage</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/LemaireHazor.pdf"
-      id="p310" title="(7 lectures)">Hazor in the Second Half of the Tenth Century B.C.E:
-      Historiography, Archaeology and History</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/LemaireFormulesjuridiques.pdf"
-      id="p311" title="(4 lectures)">Les formulaires juridiques des tablettes
-      araméennes</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/LemaireAramaicQumranica.pdf"
-      id="p312" title="(4 lectures)">Nabonide et Gilgamesh : L’araméen en Mésopotamie et à
-      Qoumrân</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/Lemaire%20South%20Arabia.pdf"
-      id="p313" title="(4 lectures)">South Arabia (Biblical Archaeology
-      Review)</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/CREJ52_Lemaire.pdf"
-      id="p314" title="(5 lectures)">Le «Dieu de Jérusalem» à la lumière de
-      l’épigraphie</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/AlphabetDiogene.pdf"
-      id="p315" title="(5 lectures)">The Spread of Alphabetic Scripts (c. 1700–500
-      BCE)</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/ALOdedSVT130.pdf"
-      id="p316" title="(5 lectures)">Tribute or Looting in Samaria and Jerusalem: Shoshenq in
-      Jerusalem?</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/ALemaire-Schmidt.pdf"
-      id="p317" title="(4 lectures)">פשר et פרש, esséniens et pharisiens : Deux interprétations de
-      l’Écriture</a></span></li></ul></blockquote></div><div
-      style="text-align: center;">And see also:</div><div style="text-align:
-      center;"><a
-      href="http://ancientworldonline.blogspot.com/2013/07/audio-lemaire-levantine-epigraphy-and.html">Audio:
-      Lemaire, Levantine Epigraphy and History in the Achaemenid
-      Period</a></div>]]></content>
-    <link rel="replies"
+   <title type="text">André Lemaire articles online</title>
+   <content type="html"><![CDATA[From the always excellent <a href="http://www.digitorient.com/" rel="home" title="digitorient.com">digitorient.com</a><br /><br /><img alt="http://www.digitorient.com/wp/wp-content/uploads/2012/03/header1000288.jpg" class="decoded" height="57" src="http://www.digitorient.com/wp/wp-content/uploads/2012/03/header1000288.jpg" width="200" /> <br /><br /><a href="http://www.digitorient.com/?p=318">André Lemaire : bibliographie récente et articles en téléchargement</a><br /><div class="entry-content"><blockquote class="tr_bq"><span style="font-size: x-small;">Voici une liste de publications récentes par André Lemaire :</span><br /><ul><li><span style="font-size: x-small;"><a href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/Publications%20scientifiques.doc" id="p308" title="(5 lectures)">André Lemaire – Publications récentes</a></span></li></ul><span style="font-size: x-small;">Voici également une liste d’articles en téléchargement au format PDF :</span><br /><ul><li><span style="font-size: x-small;"><a href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/SilianaCarthageAL.pdf" id="p309" title="(5 lectures)">Remarques sur le contexte historique et culturel de fondation de Carthage</a></span></li><li><span style="font-size: x-small;"><a href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/LemaireHazor.pdf" id="p310" title="(7 lectures)">Hazor in the Second Half of the Tenth Century B.C.E: Historiography, Archaeology and History</a></span></li><li><span style="font-size: x-small;"><a href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/LemaireFormulesjuridiques.pdf" id="p311" title="(4 lectures)">Les formulaires juridiques des tablettes araméennes</a></span></li><li><span style="font-size: x-small;"><a href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/LemaireAramaicQumranica.pdf" id="p312" title="(4 lectures)">Nabonide et Gilgamesh : L’araméen en Mésopotamie et à Qoumrân</a></span></li><li><span style="font-size: x-small;"><a href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/Lemaire%20South%20Arabia.pdf" id="p313" title="(4 lectures)">South Arabia (Biblical Archaeology Review)</a></span></li><li><span style="font-size: x-small;"><a href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/CREJ52_Lemaire.pdf" id="p314" title="(5 lectures)">Le «Dieu de Jérusalem» à la lumière de l’épigraphie</a></span></li><li><span style="font-size: x-small;"><a href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/AlphabetDiogene.pdf" id="p315" title="(5 lectures)">The Spread of Alphabetic Scripts (c. 1700–500 BCE)</a></span></li><li><span style="font-size: x-small;"><a href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/ALOdedSVT130.pdf" id="p316" title="(5 lectures)">Tribute or Looting in Samaria and Jerusalem: Shoshenq in Jerusalem?</a></span></li><li><span style="font-size: x-small;"><a href="http://www.digitorient.com/wp/go.php?http://www.digitorient.com/wp/wp-content/uploads/2011/03/ALemaire-Schmidt.pdf" id="p317" title="(4 lectures)">פשר et פרש, esséniens et pharisiens : Deux interprétations de l’Écriture</a></span></li></ul></blockquote></div><div style="text-align: center;">And see also:</div><div style="text-align: center;"><a href="http://ancientworldonline.blogspot.com/2013/07/audio-lemaire-levantine-epigraphy-and.html">Audio: Lemaire, Levantine Epigraphy and History in the Achaemenid Period</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6725702980694724880/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6725702980694724880/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/12/andre-lemaire-articles-online.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6725702980694724880"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6725702980694724880"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2011/12/andre-lemaire-articles-online.html"
          title="André Lemaire articles online"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

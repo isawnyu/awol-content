@@ -1,202 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6979706508169840011</id>
-    <published>2014-06-15T08:11:00.001-04:00</published>
-    <updated>2014-06-15T08:11:20.472-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6979706508169840011</id>
+   <published>2014-06-15T08:11:00.001-04:00</published>
+   <updated>2016-04-14T09:08:46.099-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Monograph Series: Hieroglyphic texts from Egyptian stelae,
-      &amp;c., in the British Museum</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.mq.edu.au/on_campus/library/about_the_library/collections/brunner_collection/"><span
-      style="font-size: small;"><span>Hieroglyphic texts from Egyptian stelae, &amp;c.,
-      in the British Museum</span></span></a><br /><blockquote
-      class="tr_bq"><div class="resultListCheckBox"><span style="font-size:
-      x-small;"><span style="font-family: inherit;"><span><a
-      href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=24&amp;bibId=773460">Hieroglyphic
-      texts from Egyptian stelae etc. Part 1 [electronic resource] / edited by T. G. H.
-      James.</a></span> </span></span></div><span style="font-size:
-      x-small;"><span style="font-family: inherit;"> </span></span><div
-      class="line2Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>British Museum. Dept. of Egyptian
-      Antiquities.&nbsp;</span></span></span></div><span
-      style="font-size: x-small;"><span style="font-family:
-      inherit;"></span></span><div class="line3Link"><span style="font-size:
-      x-small;"><span style="font-family: inherit;"><span>1961
-      </span></span></span></div><span style="font-size:
-      x-small;"><span style="font-family: inherit;"><br
-      /></span></span><div class="oddRow"><div
-      class="resultListCheckBox"><span style="font-size: x-small;"><span
-      style="font-family: inherit;"><span><a
-      href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=18&amp;bibId=773585">Hieroglyphic
-      texts from Egyptian stelae, &amp;c., in the British Museum. Part 2 [electronic
-      resource]</a></span></span></span> </div><div
-      class="resultListCellBlock"><div class="resultListTextCell"><div
-      class="line2Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>British Museum. Dept. of Egyptian and Assyrian
-      Antiquities.&nbsp;</span></span></span></div><div
-      class="line3Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>1912&nbsp;</span></span></span></div><div
-      class="line5Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span class="noItem"></span><span><br
-      /></span></span></span></div></div></div></div><span
-      style="font-size: x-small;"><span style="font-family:
-      inherit;"></span></span><div class="evenRow"><div
-      class="resultListCheckBox"><span style="font-size: x-small;"><span
-      style="font-family: inherit;"><span><a
-      href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=19&amp;bibId=773697">Hieroglyphic
-      texts from Egyptian stelae, &amp;c., in the British Museum. Part 3 [electronic
-      resource]</a></span></span></span> </div><div
-      class="resultListCellBlock"><div class="resultListTextCell"><div
-      class="line2Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>British Museum. Dept. of Egyptian and Assyrian
-      Antiquities.&nbsp;</span></span></span></div><div
-      class="line3Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>1912&nbsp;</span></span></span></div><div
-      class="line3Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>&nbsp;</span></span></span></div></div></div></div><span
-      style="font-size: x-small;"><span style="font-family:
-      inherit;"></span></span><div class="oddRow"><div
-      class="resultListCheckBox"><span style="font-size: x-small;"><span
-      style="font-family: inherit;"><span><a
-      href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=20&amp;bibId=773879">Hieroglyphic
-      texts from Egyptian stelae, &amp;c., in the British Museum. Part 4 [electronic
-      resource]</a></span></span></span> </div><div
-      class="resultListCellBlock"><div class="resultListTextCell"><div
-      class="line2Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>British Museum. Dept. of Egyptian and Assyrian
-      Antiquities.&nbsp;</span></span></span></div><div
-      class="line3Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>1913&nbsp;</span></span></span></div><div
-      class="line5Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span class="noItem"></span><span><br
-      /></span></span></span></div></div></div></div><span
-      style="font-size: x-small;"><span style="font-family:
-      inherit;"></span></span><div class="evenRow"><div
-      class="resultListCheckBox"><span style="font-size: x-small;"><span
-      style="font-family: inherit;"><span><a
-      href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=21&amp;bibId=773923">Hieroglyphic
-      texts from Egyptian stelae, &amp;c., in the British Museum. Part 5 [electronic
-      resource]</a></span></span></span> </div><div
-      class="resultListCellBlock"><div class="resultListTextCell"><div
-      class="line2Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>British Museum. Dept. of Egyptian and Assyrian
-      Antiquities.&nbsp;</span></span></span></div><div
-      class="line3Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>1914&nbsp;</span></span></span></div><div
-      class="line5Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span class="noItem"></span><span><br
-      /></span></span></span></div></div></div></div><span
-      style="font-size: x-small;"><span style="font-family:
-      inherit;"></span></span><div class="oddRow"><div
-      class="resultListCheckBox"><span style="font-size: x-small;"><span
-      style="font-family: inherit;"><span><a
-      href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=22&amp;bibId=773951">Hieroglyphic
-      texts from Egyptian stelae, &amp;c., in the British Museum. Part 6 [electronic
-      resource]</a></span></span></span> </div><div
-      class="resultListCellBlock"><div class="resultListTextCell"><div
-      class="line2Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>British Museum. Dept. of Egyptian and Assyrian
-      Antiquities.&nbsp;</span></span></span></div><div
-      class="line3Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>1922&nbsp;</span></span></span></div><div
-      class="line5Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span class="noItem"></span><span><br
-      /></span></span></span></div></div></div></div><span
-      style="font-size: x-small;"><span style="font-family:
-      inherit;"></span></span><div class="evenRow"><div
-      class="resultListCheckBox"><span style="font-size: x-small;"><span
-      style="font-family: inherit;"><span><a
-      href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=23&amp;bibId=773995">Hieroglyphic
-      texts from Egyptian stelae, &amp;c., in the British Museum. Part 7 [electronic resource] /
-      by H. R. Hall.</a></span></span></span> </div><div
-      class="resultListCellBlock"><div class="resultListTextCell"><div
-      class="line2Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>Hall, H. R. H. (Harry Reginald Holland),
-      1873-1930.&nbsp;</span></span></span></div><div
-      class="line3Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>1925&nbsp;</span></span></span></div><div
-      class="line4Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;">&nbsp;</span></span></div><div
-      class="line4Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span><a
-      href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=27&amp;bibId=774085">Hieroglyphic
-      texts from Egyptian stelae, etc. Part 8 [electronic resource] / edited by I. E. S.
-      Edwards.</a></span></span></span> <div
-      class="resultListCellBlock"><div class="resultListTextCell"><div
-      class="line2Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>British Museum. Dept. of Egyptian and Assyrian
-      Antiquities.&nbsp;</span></span></span></div><div
-      class="line3Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>1939&nbsp;</span></span></span></div><div
-      class="line5Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span class="noItem"></span> </span></span><span
-      style="font-size: x-small;"><span style="font-family: inherit;"><span><a
-      href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=28&amp;bibId=774248">Hieroglyphic
-      texts from Egyptian stelae etc. Part 9 [electronic resource] / edited by T. G. H.
-      James.</a></span></span></span>
-      </div></div></div><div class="line2Link"><span style="font-size:
-      x-small;"><span style="font-family: inherit;"><span>British Museum. Dept. of
-      Egyptian Antiquities.&nbsp;</span></span></span></div><div
-      class="line3Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>1970 </span></span></span></div><span
-      style="font-size: x-small;"><span style="font-family:
-      inherit;">&nbsp;</span></span></div></div></div></div><span
-      style="font-size: x-small;"><span style="font-family:
-      inherit;"></span></span><div class="evenRow"><div
-      class="resultListCheckBox"><span style="font-size: x-small;"><span
-      style="font-family: inherit;"><span><a
-      href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=25&amp;bibId=774350">Hieroglyphic
-      texts from Egyptian stelae etc. Part 10 [electronic resource] / edited by M. L.
-      Bierbrier.</a></span></span></span> </div><div
-      class="resultListCellBlock"><div class="resultListTextCell"><div
-      class="line2Link"><span style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>British Museum. Dept. of Egyptian
-      Antiquities.&nbsp;</span></span></span></div><span
-      style="font-size: x-small;"><span style="font-family:
-      inherit;"><span>1982&nbsp;</span></span></span>
-      </div></div></div><span style="font-size: x-small;"><span
-      style="font-family: inherit;"></span></span></blockquote><div
-      class="oddRow"><blockquote><span style="font-size:
-      x-small;"></span><div class="resultListCheckBox"><span style="font-size:
-      x-small;"><span style="font-family: inherit;"><span><a
-      href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=26&amp;bibId=1138138">Hieroglyphic
-      texts from Egyptian stelae etc. Part 12 [electronic resource] / edited by M. L. Bierbrier ;
-      with drawings by Richard Parkinson.</a></span></span></span>
-      </div></blockquote></div><div class="evenRow"><div
-      class="resultListCheckBox"></div><div class="resultListCheckBox"><br
-      /><div style="text-align: center;"><span style="font-size:
-      xx-small;"></span>And see AWOL's <a
-      href="http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html">Alphabetical
-      List of Open Access Monograph Series in Ancient
-      Studies</a></div></div></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Monograph Series: Hieroglyphic texts from Egyptian stelae, &amp;c., in the British Museum</title>
+   <content type="html"><![CDATA[<a href="http://www.mq.edu.au/on_campus/library/about_the_library/collections/brunner_collection/"><span style="font-size: small;">Hieroglyphic texts from Egyptian stelae, &amp;c., in the British Museum</span></a><br /><blockquote class="tr_bq"><div class="resultListCheckBox"><span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=24&amp;bibId=773460">Hieroglyphic texts from Egyptian stelae etc. Part 1 [electronic resource] / edited by T. G. H. James.</a>                      </span></span></div><span style="font-size: x-small;"><span style="font-family: inherit;">  </span></span><br /><div class="line2Link"><span style="font-size: x-small;"><span style="font-family: inherit;">British Museum. Dept. of Egyptian Antiquities.&nbsp;</span></span></div><span style="font-size: x-small;"><span style="font-family: inherit;"></span></span><div class="line3Link"><span style="font-size: x-small;"><span style="font-family: inherit;">1961 </span></span></div><span style="font-size: x-small;"><span style="font-family: inherit;"><br /></span></span><br /><div class="oddRow"><div class="resultListCheckBox"><span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=18&amp;bibId=773585">Hieroglyphic texts from Egyptian stelae, &amp;c., in the British Museum. Part 2 [electronic resource]</a></span></span>                      </div><div class="resultListCellBlock"><div class="resultListTextCell"><div class="line2Link"><span style="font-size: x-small;"><span style="font-family: inherit;">British Museum. Dept. of Egyptian and Assyrian Antiquities.&nbsp;</span></span></div><div class="line3Link"><span style="font-size: x-small;"><span style="font-family: inherit;">1912&nbsp;</span></span></div><div class="line5Link"><span style="font-size: x-small;"><span style="font-family: inherit;"><span class="noItem"></span><br /></span></span></div></div></div></div><span style="font-size: x-small;"><span style="font-family: inherit;"></span></span><div class="evenRow"><div class="resultListCheckBox"><span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=19&amp;bibId=773697">Hieroglyphic texts from Egyptian stelae, &amp;c., in the British Museum. Part 3 [electronic resource]</a></span></span>                      </div><div class="resultListCellBlock"><div class="resultListTextCell"><div class="line2Link"><span style="font-size: x-small;"><span style="font-family: inherit;">British Museum. Dept. of Egyptian and Assyrian Antiquities.&nbsp;</span></span></div><div class="line3Link"><span style="font-size: x-small;"><span style="font-family: inherit;">1912&nbsp;</span></span></div><div class="line3Link"></div></div></div></div><span style="font-size: x-small;"><span style="font-family: inherit;"></span></span><div class="oddRow"><div class="resultListCheckBox"><span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=20&amp;bibId=773879">Hieroglyphic texts from Egyptian stelae, &amp;c., in the British Museum. Part 4 [electronic resource]</a></span></span>                      </div><div class="resultListCellBlock"><div class="resultListTextCell"><div class="line2Link"><span style="font-size: x-small;"><span style="font-family: inherit;">British Museum. Dept. of Egyptian and Assyrian Antiquities.&nbsp;</span></span></div><div class="line3Link"><span style="font-size: x-small;"><span style="font-family: inherit;">1913&nbsp;</span></span></div><div class="line5Link"><span style="font-size: x-small;"><span style="font-family: inherit;"><span class="noItem"></span><br /></span></span></div></div></div></div><span style="font-size: x-small;"><span style="font-family: inherit;"></span></span><div class="evenRow"><div class="resultListCheckBox"><span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=21&amp;bibId=773923">Hieroglyphic texts from Egyptian stelae, &amp;c., in the British Museum. Part 5 [electronic resource]</a></span></span>                      </div><div class="resultListCellBlock"><div class="resultListTextCell"><div class="line2Link"><span style="font-size: x-small;"><span style="font-family: inherit;">British Museum. Dept. of Egyptian and Assyrian Antiquities.&nbsp;</span></span></div><div class="line3Link"><span style="font-size: x-small;"><span style="font-family: inherit;">1914&nbsp;</span></span></div><div class="line5Link"><span style="font-size: x-small;"><span style="font-family: inherit;"><span class="noItem"></span><br /></span></span></div></div></div></div><span style="font-size: x-small;"><span style="font-family: inherit;"></span></span><div class="oddRow"><div class="resultListCheckBox"><span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=22&amp;bibId=773951">Hieroglyphic texts from Egyptian stelae, &amp;c., in the British Museum. Part 6 [electronic resource]</a></span></span>                      </div><div class="resultListCellBlock"><div class="resultListTextCell"><div class="line2Link"><span style="font-size: x-small;"><span style="font-family: inherit;">British Museum. Dept. of Egyptian and Assyrian Antiquities.&nbsp;</span></span></div><div class="line3Link"><span style="font-size: x-small;"><span style="font-family: inherit;">1922&nbsp;</span></span></div><div class="line5Link"><span style="font-size: x-small;"><span style="font-family: inherit;"><span class="noItem"></span><br /></span></span></div></div></div></div><span style="font-size: x-small;"><span style="font-family: inherit;"></span></span><div class="evenRow"><div class="resultListCheckBox"><span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=23&amp;bibId=773995">Hieroglyphic texts from Egyptian stelae, &amp;c., in the British Museum. Part 7 [electronic resource] / by H. R. Hall.</a></span></span>                      </div><div class="resultListCellBlock"><div class="resultListTextCell"><div class="line2Link"><span style="font-size: x-small;"><span style="font-family: inherit;">Hall, H. R. H. (Harry Reginald Holland), 1873-1930.&nbsp;</span></span></div><div class="line3Link"><span style="font-size: x-small;"><span style="font-family: inherit;">1925&nbsp;</span></span></div><div class="line4Link"></div><div class="line4Link"><span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=27&amp;bibId=774085">Hieroglyphic texts from Egyptian stelae, etc. Part 8 [electronic resource] / edited by I. E. S. Edwards.</a></span></span>                       <br /><div class="resultListCellBlock"><div class="resultListTextCell"><div class="line2Link"><span style="font-size: x-small;"><span style="font-family: inherit;">British Museum. Dept. of Egyptian and Assyrian Antiquities.&nbsp;</span></span></div><div class="line3Link"><span style="font-size: x-small;"><span style="font-family: inherit;">1939&nbsp;</span></span></div><div class="line5Link"><span style="font-size: x-small;"><span style="font-family: inherit;"><span class="noItem"></span> </span></span><span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=28&amp;bibId=774248">Hieroglyphic texts from Egyptian stelae etc. Part 9 [electronic resource] / edited by T. G. H. James.</a></span></span>                      </div></div></div><div class="line2Link"><span style="font-size: x-small;"><span style="font-family: inherit;">British Museum. Dept. of Egyptian Antiquities.&nbsp;</span></span></div><div class="line3Link"><span style="font-size: x-small;"><span style="font-family: inherit;">1970 </span></span></div></div></div></div></div><span style="font-size: x-small;"><span style="font-family: inherit;"></span></span><div class="evenRow"><div class="resultListCheckBox"><span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=25&amp;bibId=774350">Hieroglyphic texts from Egyptian stelae etc. Part 10 [electronic resource] / edited by M. L. Bierbrier.</a></span></span>                      </div><div class="resultListCellBlock"><div class="resultListTextCell"><div class="line2Link"><span style="font-size: x-small;"><span style="font-family: inherit;">British Museum. Dept. of Egyptian Antiquities.&nbsp;</span></span></div><span style="font-size: x-small;"><span style="font-family: inherit;">1982&nbsp;</span></span>  </div></div></div><span style="font-size: x-small;"><span style="font-family: inherit;"></span></span></blockquote><div class="oddRow"><blockquote><span style="font-size: x-small;"></span><div class="resultListCheckBox"><span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://voyager.mq.edu.au/vwebv/holdingsInfo?searchId=74&amp;recCount=50&amp;recPointer=26&amp;bibId=1138138">Hieroglyphic  texts from Egyptian stelae etc. Part 12 [electronic resource] / edited  by M. L. Bierbrier ; with drawings by Richard Parkinson.</a></span></span>                      </div></blockquote></div><div class="evenRow"><div class="resultListCheckBox"></div><div class="resultListCheckBox"><br /><div style="text-align: center;"><span style="font-size: xx-small;"></span>And see AWOL's <a href="http://ancientworldonline.blogspot.com/2014/06/alphabetical-list-of-open-access.html">Alphabetical List of Open Access Monograph Series in Ancient Studies</a></div></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6979706508169840011/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6979706508169840011/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/06/open-access-monograph-series_15.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6979706508169840011"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6979706508169840011"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/06/open-access-monograph-series_15.html"
          title="Open Access Monograph Series: Hieroglyphic texts from Egyptian stelae, &amp;c., in the British Museum"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

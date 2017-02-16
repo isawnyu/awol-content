@@ -1,52 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8640792078709348408</id>
-    <published>2015-05-06T15:00:00.001-04:00</published>
-    <updated>2015-05-06T15:00:26.473-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8640792078709348408</id>
+   <published>2015-05-06T15:00:00.001-04:00</published>
+   <updated>2015-05-06T15:00:26.473-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Update to Select Titles from the American Schools of Oriental Research
-      Available Online at HathiTrust:</title>
-    <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;"><a
-      href="https://www.blogger.com/blogger.g?blogID=116259103207720939" imageanchor="1"
-      style="margin-left: 1em; margin-right: 1em;"></a></div>Two additional points of
-      entry to <a
-      href="http://ancientworldonline.blogspot.com/2015/05/select-titles-from-american-schools-of.html">Select
-      Titles from the American Schools of Oriental Research Available Online at
-      HathiTrust</a>:<br /><blockquote class="tr_bq">HATHITrust has provided an
-      <a href="http://babel.hathitrust.org/cgi/mb?a=listis;c=468385236">ASOR
-      Publications</a> landing page - a useful starting place for exploring the collection. I
-      have also exported the records to a public Zotero group: <a
-      href="https://www.zotero.org/groups/asor_in_hathitrust">ASOR in HATHITrust</a>. All
-      Zotero users are welcome to become members of that group. If you are not yet a Zotero user,
-      this is an excellent opportunity to begin.</blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Update to Select Titles from the American Schools of Oriental Research Available Online at HathiTrust:</title>
+   <content type="html"><![CDATA[<div class="separator" style="clear: both; text-align: center;"><a href="https://www.blogger.com/blogger.g?blogID=116259103207720939" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"></a></div>Two additional points of entry to <a href="http://ancientworldonline.blogspot.com/2015/05/select-titles-from-american-schools-of.html">Select Titles from the American Schools of Oriental Research Available Online at HathiTrust</a>:<br /><blockquote class="tr_bq">HATHITrust has provided an <a href="http://babel.hathitrust.org/cgi/mb?a=listis;c=468385236">ASOR Publications</a> landing page - a useful starting place for exploring the collection. I have also exported the records to a public Zotero group: <a href="https://www.zotero.org/groups/asor_in_hathitrust">ASOR in HATHITrust</a>.  All Zotero users are welcome to become members of that group. If you  are not yet a Zotero user, this is an excellent opportunity to begin.</blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8640792078709348408/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8640792078709348408/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/05/update-to-select-titles-from-american.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8640792078709348408"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8640792078709348408"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/05/update-to-select-titles-from-american.html"
          title="Update to Select Titles from the American Schools of Oriental Research Available Online at HathiTrust:"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

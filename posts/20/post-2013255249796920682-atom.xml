@@ -1,134 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2013255249796920682</id>
-    <published>2015-06-12T15:30:00.000-04:00</published>
-    <updated>2015-06-12T15:29:05.689-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2013255249796920682</id>
+   <published>2015-06-12T15:30:00.000-04:00</published>
+   <updated>2015-06-12T15:29:05.689-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Art"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Conservation"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Art"/>
-    <title type="text">Open Access Journal: CeROArt: Conservation, exposition et Restauration
-      d’Objets d’Art</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 19 December
-      2012, updated 12 June 2015] </span><br /><br /><a
-      href="http://ceroart.revues.org/">CeROArt<span style="font-size: small;">:
-      Conservation, exposition et Restauration d’Objets d’Art</span></a><br />ISSN:
-      1784-5092<br /><blockquote class="tr_bq"><img
-      alt="http://ceroart.revues.org/docannexe/file/4811/fuchs.margin__mmw10f50_f6r__detail-small200.jpg"
-      height="200"
-      src="http://ceroart.revues.org/docannexe/file/4811/fuchs.margin__mmw10f50_f6r__detail-small200.jpg"
-      width="155" /> </blockquote><blockquote class="tr_bq"><div class="texte"
-      dir="ltr"><span style="font-size: x-small;">CeROArt est une revue et une plateforme
-      interactive consacrées à une approche pluridisciplinaire de la problématique de la<b>
-      <i>C<span style="font-size:
-      x-small;"><b></b></span></i></b></span><span
-      style="font-size: x-small;"><i><b><span style="font-size:
-      x-small;"><b><span style="font-size: x-small;"><i>onservation, exposition
-      et Restauration d’Objets
-      d’Art</i></span></b></span>.</b>&nbsp;</i></span></div><div
-      id="navIssues"> <h2><span style="font-size: x-small;">Numéros en texte
-      intégral</span></h2><span style="font-size: x-small;"> </span><ul
-      class="issues"><li><span style="font-size: x-small;"><a
-      href="http://ceroart.revues.org/4484"><span class="number">10&nbsp;|
-      2015</span><br /><span class="title">La restauration, carrefour
-      d'interrelations</span></a></span></li><li><span
-      style="font-size: x-small;"><a href="http://ceroart.revues.org/3733"><span
-      class="number">9&nbsp;| 2014</span><br /><span
-      class="title">Connaissances et reconnaissance du
-      conservateur-restaurateur</span></a></span></li><li><span
-      style="font-size: x-small;"><a href="http://ceroart.revues.org/2773"><span
-      class="number">8&nbsp;| 2012</span><br /><span
-      class="title">Politiques de
-      conservation-restauration</span></a></span></li><li><span
-      style="font-size: x-small;"><a href="http://ceroart.revues.org/2194"><span
-      class="number">7&nbsp;| 2011</span><br /><span class="title">Science
-      et conscience</span></a></span></li><li><span
-      style="font-size: x-small;"><a href="http://ceroart.revues.org/2079"><span
-      class="number">6&nbsp;| 2011</span><br /><span
-      class="title">Réinventer les
-      méthodologies</span></a></span></li><li><span
-      style="font-size: x-small;"><a href="http://ceroart.revues.org/1399"><span
-      class="number">5&nbsp;| 2010</span><br /><span class="title">La
-      restauration en scène et en
-      coulisse</span></a></span></li><li><span style="font-size:
-      x-small;"><a href="http://ceroart.revues.org/1229"><span
-      class="number">4&nbsp;| 2009</span><br /><span class="title">Les
-      dilemmes de la restauration</span></a></span></li><li><span
-      style="font-size: x-small;"><a href="http://ceroart.revues.org/1084"><span
-      class="number">3&nbsp;| 2009</span><br /><span class="title">L'erreur,
-      la faute, le faux</span></a></span></li><li><span
-      style="font-size: x-small;"><a href="http://ceroart.revues.org/58"><span
-      class="number">2&nbsp;| 2008</span><br /><span class="title">Regards
-      contemporains sur la
-      restauration</span></a></span></li><li><span style="font-size:
-      x-small;"><a href="http://ceroart.revues.org/88"><span
-      class="number">1&nbsp;| 2007</span><br /><span class="title">Objets
-      d'art, œuvres d'art</span></a></span></li></ul><span
-      style="font-size: x-small;"> </span><h2 id="allIssues"><span
-      style="font-size: x-small;"><a href="http://ceroart.revues.org/55">Tous les
-      numéros</a></span></h2><span style="font-size: x-small;">
-      </span></div><span style="font-size: x-small;">
-      </span><h2><span style="font-size: x-small;">Hors
-      séries</span></h2><span style="font-size: x-small;">
-      </span><ul><li><span style="font-size: x-small;"><a
-      href="http://ceroart.revues.org/4506"><span class="title">Mélanges en l'honneur de
-      Roger Marijnissen</span></a></span></li><li><span
-      style="font-size: x-small;"><a href="http://ceroart.revues.org/4206"><span
-      class="title">Teaching
-      Conservation-Restoration</span></a></span></li><li><span
-      style="font-size: x-small;"><a href="http://ceroart.revues.org/3508"><span
-      class="title">Conservation: Cultures and
-      Connections</span></a></span></li><li><span style="font-size:
-      x-small;"><a href="http://ceroart.revues.org/3355"><span class="title">De l'art
-      et de la nature</span></a></span></li><li><span
-      style="font-size: x-small;"><a href="http://ceroart.revues.org/2922"><span
-      class="title">Le faux, l'authentique et le
-      restaurateur</span></a></span></li><li><span style="font-size:
-      x-small;"><a href="http://ceroart.revues.org/2314"><span class="title">La
-      restauration des oeuvres d'art en Europe entre 1789 et 1815: pratiques, transferts,
-      enjeux</span></a></span></li><li><span style="font-size:
-      x-small;"><a href="http://ceroart.revues.org/3897"><span
-      class="title">EGG-2013</span></a></span></li><li><span
-      style="font-size: x-small;"><a href="http://ceroart.revues.org/3051"><span
-      class="title">EGG-2012 -
-      Parcours</span></a></span></li><li><span style="font-size:
-      x-small;"><a href="http://ceroart.revues.org/2542"><span class="title">EGG-2011
-      - Itinéraires</span></a></span></li><li><span
-      style="font-size: x-small;"><a href="http://ceroart.revues.org/1560"><span
-      class="title">EGG-2010 -
-      Horizons</span></a></span></li></ul></blockquote><div
-      class="texte" dir="ltr" style="text-align: center;"><i>&nbsp;</i>See the
-      full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div><b></b>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Conservation"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
+   <title type="text">Open Access Journal: CeROArt: Conservation, exposition et Restauration d’Objets d’Art</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 19 December 2012, updated 12 June 2015] </span><br /><br /><a href="http://ceroart.revues.org/">CeROArt<span style="font-size: small;">: Conservation, exposition et Restauration d’Objets d’Art</span></a><br />ISSN: 1784-5092<br /><blockquote class="tr_bq"><img alt="http://ceroart.revues.org/docannexe/file/4811/fuchs.margin__mmw10f50_f6r__detail-small200.jpg" height="200" src="http://ceroart.revues.org/docannexe/file/4811/fuchs.margin__mmw10f50_f6r__detail-small200.jpg" width="155" /> </blockquote><blockquote class="tr_bq"><div class="texte" dir="ltr"><span style="font-size: x-small;">CeROArt est une revue et une plateforme interactive consacrées à une approche pluridisciplinaire de la problématique de la<b> <i>C<span style="font-size: x-small;"><b></b></span></i></b></span><span style="font-size: x-small;"><i><b><span style="font-size: x-small;"><b><span style="font-size: x-small;"><i>onservation, exposition et Restauration d’Objets d’Art</i></span></b></span>.</b>&nbsp;</i></span></div><div id="navIssues">                 <h2><span style="font-size: x-small;">Numéros en texte intégral</span></h2><span style="font-size: x-small;">                 </span><ul class="issues"><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/4484"><span class="number">10&nbsp;| 2015</span><br /><span class="title">La restauration, carrefour d'interrelations</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/3733"><span class="number">9&nbsp;| 2014</span><br /><span class="title">Connaissances et reconnaissance du conservateur-restaurateur</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/2773"><span class="number">8&nbsp;| 2012</span><br /><span class="title">Politiques de conservation-restauration</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/2194"><span class="number">7&nbsp;| 2011</span><br /><span class="title">Science et conscience</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/2079"><span class="number">6&nbsp;| 2011</span><br /><span class="title">Réinventer les méthodologies</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/1399"><span class="number">5&nbsp;| 2010</span><br /><span class="title">La restauration en scène et en coulisse</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/1229"><span class="number">4&nbsp;| 2009</span><br /><span class="title">Les dilemmes de la restauration</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/1084"><span class="number">3&nbsp;| 2009</span><br /><span class="title">L'erreur, la faute, le faux</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/58"><span class="number">2&nbsp;| 2008</span><br /><span class="title">Regards contemporains sur la restauration</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/88"><span class="number">1&nbsp;| 2007</span><br /><span class="title">Objets d'art, œuvres d'art</span></a></span></li></ul><span style="font-size: x-small;">                 </span><h2 id="allIssues"><span style="font-size: x-small;"><a href="http://ceroart.revues.org/55">Tous les numéros</a></span></h2><span style="font-size: x-small;">  </span></div><span style="font-size: x-small;">                              </span><h2><span style="font-size: x-small;">Hors séries</span></h2><span style="font-size: x-small;">                 </span><ul><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/4506"><span class="title">Mélanges en l'honneur de Roger Marijnissen</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/4206"><span class="title">Teaching Conservation-Restoration</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/3508"><span class="title">Conservation: Cultures and Connections</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/3355"><span class="title">De l'art et de la nature</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/2922"><span class="title">Le faux, l'authentique et le restaurateur</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/2314"><span class="title">La restauration des oeuvres d'art en Europe entre 1789 et 1815: pratiques, transferts, enjeux</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/3897"><span class="title">EGG-2013</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/3051"><span class="title">EGG-2012 - Parcours</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/2542"><span class="title">EGG-2011 - Itinéraires</span></a></span></li><li><span style="font-size: x-small;"><a href="http://ceroart.revues.org/1560"><span class="title">EGG-2010 - Horizons</span></a></span></li></ul></blockquote><div class="texte" dir="ltr" style="text-align: center;"><i>&nbsp;</i>See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></div><b></b>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2013255249796920682/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2013255249796920682/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/12/open-access-journal-ceroart.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2013255249796920682"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2013255249796920682"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/12/open-access-journal-ceroart.html"
          title="Open Access Journal: CeROArt: Conservation, exposition et Restauration d’Objets d’Art"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

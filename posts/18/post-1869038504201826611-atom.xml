@@ -1,67 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1869038504201826611</id>
-    <published>2015-04-10T15:14:00.000-04:00</published>
-    <updated>2015-04-10T15:14:20.119-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1869038504201826611</id>
+   <published>2015-04-10T15:14:00.000-04:00</published>
+   <updated>2015-04-10T15:14:20.119-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Tracking Illicit Antiquities: new website section with seized photos and
-      stories</title>
-    <content type="html"><![CDATA[<a
-      href="http://traffickingculture.org/news/tracking-illicit-antiquities-new-website-section/">Tracking
-      Illicit Antiquities: new website section with seized photos and stories</a><br />
-      <div class="row"> <div class="nine columns">10 Apr 2015</div><blockquote
-      class="tr_bq"><div class="nine columns">&nbsp;<img alt="The Sculture in Robin
-      Symes' gallery (from the Symes archive)" class="attachment-thumbnail" height="150"
-      src="http://traffickingculture.org/wp-content/uploads/2015/04/The-Sculture-in-Robin-Symes-gallery-from-the-Symes-archive-150x150.jpg"
-      title="" width="150" />&nbsp;</div></blockquote><div class="nine
-      columns"><blockquote class="tr_bq"><span style="font-size: x-small;">Trafficking
-      Culture is pleased to announce a new section of our website. <a
-      href="http://traffickingculture.org/data/tracking-illicit-antiquities/" title="Tracking Illicit
-      Antiquities">Tracking Illicit Antiquities</a> will present brief case studies of the
-      identification and return of illicit cultural objects identified in the seized photographic
-      archives of convicted antiquities smugglers and dealers. Stemming from the work of our research
-      <a href="http://traffickingculture.org/person/christos-tsirogiannis/" title="Christos
-      Tsirogiannis">Dr. Christos Tsirogiannis</a>, this evidence is offered here to assist
-      researchers and to provide material for educational purposes.</span><br /><br
-      /> <span style="font-size: x-small;">Our first case is the <a
-      href="http://traffickingculture.org/data/fourth-century-bc-sculptural-group-of-two-griffins-attacking-a-fallen-doe/"
-      title="Fourth-century BC sculptural group of two griffins attacking a fallen
-      doe">fourth-century BC sculptural group of two griffins attacking a fallen doe</a>
-      which, following identification, was <a
-      href="http://traffickingculture.org/case_note/j-paul-getty-museum-returns-to-italy-2007/"
-      title="J Paul Getty Museum Returns to Italy (2007)">returned to Italy from the J Paul Getty
-      Museum in 2007</a>. We will be updating this section with additional cases frequently.
-      Please follow<a href="https://twitter.com/CultureTraffic"> our twitter account</a>
-      for new addition
-      announcements.</span></blockquote></div></div>]]></content>
-    <link rel="replies"
+   <title type="text">Tracking Illicit Antiquities: new website section with seized photos and stories</title>
+   <content type="html"><![CDATA[<a href="http://traffickingculture.org/news/tracking-illicit-antiquities-new-website-section/">Tracking Illicit Antiquities: new website section with seized photos and stories</a><br />         <div class="row"> <div class="nine columns">10 Apr 2015</div><blockquote class="tr_bq"><div class="nine columns">&nbsp;<img alt="The Sculture in Robin Symes' gallery (from the Symes archive)" class="attachment-thumbnail" height="150" src="http://traffickingculture.org/wp-content/uploads/2015/04/The-Sculture-in-Robin-Symes-gallery-from-the-Symes-archive-150x150.jpg" title="" width="150" />&nbsp;</div></blockquote><div class="nine columns"><blockquote class="tr_bq"><span style="font-size: x-small;">Trafficking Culture is pleased to announce a new section of our website. <a href="http://traffickingculture.org/data/tracking-illicit-antiquities/" title="Tracking Illicit Antiquities">Tracking Illicit Antiquities</a> will present brief case studies of the identification and return of  illicit cultural objects identified in the seized photographic archives  of convicted antiquities smugglers and dealers. Stemming from the work  of our research <a href="http://traffickingculture.org/person/christos-tsirogiannis/" title="Christos Tsirogiannis">Dr. Christos Tsirogiannis</a>, this evidence is offered here to assist researchers and to provide material for educational purposes.</span><br /><br /> <span style="font-size: x-small;">Our first case is the <a href="http://traffickingculture.org/data/fourth-century-bc-sculptural-group-of-two-griffins-attacking-a-fallen-doe/" title="Fourth-century BC sculptural group of two griffins attacking a fallen doe">fourth-century BC sculptural group of two griffins attacking a fallen doe</a> which, following identification, was <a href="http://traffickingculture.org/case_note/j-paul-getty-museum-returns-to-italy-2007/" title="J Paul Getty Museum Returns to Italy (2007)">returned to Italy from the J Paul Getty Museum in 2007</a>. We will be updating this section with additional cases frequently. Please follow<a href="https://twitter.com/CultureTraffic"> our twitter account</a> for new addition announcements.</span></blockquote></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1869038504201826611/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1869038504201826611/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/04/tracking-illicit-antiquities-new.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1869038504201826611"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1869038504201826611"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2015/04/tracking-illicit-antiquities-new.html"
          title="Tracking Illicit Antiquities: new website section with seized photos and stories"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,165 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-515029232443524654</id>
-    <published>2014-12-21T09:14:00.000-05:00</published>
-    <updated>2014-12-21T09:15:56.608-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-515029232443524654</id>
+   <published>2014-12-21T09:14:00.000-05:00</published>
+   <updated>2014-12-21T09:15:56.608-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Archaeological and Palaeoecological Reference Collections Online</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 22
-      April 2012, updated 21 December 2014]</span><br /><br />Among the many useful
-      pages at <a href="http://www.wikiarc.org/">WikiArc/ The Wiki Archaeological Information
-      Resource</a> is:<br /><br /><a
-      href="http://www.wikiarc.org/Archaeological-and-Palaeoecological-Reference-Collections-Online?page-version=0&amp;date=20120422101249">Archaeological
-      and Palaeoecological Reference Collections Online</a><br /><br />As of today
-      (21 December 2014), the list there includes the following categories and links:<br
-      /><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><strong>ARCHAEOMETALLURGICAL</strong></span><br />
-      <span style="font-size: x-small;"><a href="http://hist-met.org/nsc.html"
-      target="_blank" title="National Slag Collection">The National Slag Collection</a> -
-      UK, from the Historical Metallurgy Society</span> </blockquote><blockquote
-      class="tr_bq"><span style="font-size:
-      x-small;"><strong>CERAMIC</strong></span><br /> <span
-      style="font-size: x-small;"><a href="http://www.dur.ac.uk/spanish.pottery/"
-      target="_blank" title="Spanish Pottery">A Guide to the Identification of Spanish Medieval
-      and Later Fabrics</a></span><br /> <span style="font-size:
-      x-small;"><a href="http://sites.univ-provence.fr/lampea/ressources/cerafim_dev/?lang=en"
-      target="_blank" title="cerafim">CerAfIm:&nbsp;Céramique Africaine
-      Imprimée&nbsp;</a></span><br /> <span style="font-size:
-      x-small;"><a href="http://www.molas.org.uk/projects/fabrics_tei.asp?report=nrfc"
-      target="_blank" title="Roman Fabric">The National Roman Fabric Collection: a
-      handbook</a> - UK, from the Museum of London</span><br /> <span
-      style="font-size: x-small;"><a href="http://www.worcestershireceramics.org/"
-      target="_blank" title="Worcestershire On-Line Ceramic Database">Worcestershire On-Line
-      Ceramic Database</a> - UK</span> </blockquote><blockquote
-      class="tr_bq"><span style="font-size:
-      x-small;"><strong>FUNERARY</strong></span><br /> <span
-      style="font-size: x-small;"><a href="http://www2.rgzm.de/tomba1/home/frames.htm"
-      target="_blank" title="TOMBA">TOMBA</a> - Tombs of Bronze Age and Early Iron Age
-      Europe</span> </blockquote><blockquote class="tr_bq"><span
-      style="font-size:
-      x-small;"><strong>GEOARCHAEOLOGICAL</strong></span><br /> <span
-      style="font-size: x-small;"><a href="http://www.sassa.org.uk/index.php/Main_Page"
-      target="_blank" title="SASSA">Soil Analysis Support System for
-      Archaeology</a></span> </blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><strong>PALAEOECOLOGICAL -
-      PLANTS</strong></span><br /> <span style="font-size: x-small;"><a
-      href="http://pcwww.liv.ac.uk/%7Eeasouti/Index.htm" target="_blank">Charcoal Analysis
-      Web</a></span><br /> <span style="font-size: x-small;"><a
-      href="http://research.history.org/archaeological_research/collections/collarchaeobot/phytolithSearch.cfm"
-      target="_blank">Colonial Williamsburg Phytolith Database</a></span><br />
-      <span style="font-size: x-small;"><a href="http://seeds.eldoc.ub.rug.nl/"
-      target="_blank" title="Digitale Zadenatlas van Nederland">Digitale Zadenatlas van
-      Nederland</a> (Digital Seed Atlas of the Netherlands)</span><br /> <span
-      style="font-size: x-small;"><a href="http://insidewood.lib.ncsu.edu/search.1"
-      target="_blank" title="Inside Wood">Inside Wood</a></span><br /> <span
-      style="font-size: x-small;"><a href="http://artsci.wustl.edu/%7Egjfritz/" target="_blank"
-      title="Gayle Fritz">Laboratory Guide To Archaeological Plant Remains From Eastern North
-      America</a> - by Gayle Fritz</span><br /> <span style="font-size:
-      x-small;"><a href="http://phytolith.missouri.edu/index.shtml" title="MSU Phytolith
-      Database">MU Phytolith Database</a></span><br /> <span
-      style="font-size: x-small;"><a href="http://www.paleobot.org/" target="_blank"
-      title="PalaeoBot">PalaeoBot.org</a> - Macrofossils, Pollen, Phytoliths, Starch and
-      Isotopes</span><br /> <span style="font-size: x-small;"><a
-      href="http://gepeg.org/enter_PCORE.html" target="_blank">Phytolith Core
-      Database</a></span><br /> <span style="font-size: x-small;"><a
-      href="http://www.seedbank.re.kr/" target="_blank">Seeds of Wild Plants of
-      Korea</a></span><br /> <span style="font-size: x-small;"><a
-      href="http://www.arboretum.harvard.edu/plants/herbarium.html" target="_blank">Seed Herbarium
-      Image Project</a> - Arnold Arboretum, Harvard University</span><br />
-      <span style="font-size: x-small;"><a
-      href="http://www.oardc.ohio-state.edu/seedid/all.asp?sort=common" target="_blank" title="Seed
-      ID Workshop">Seed ID Workshop</a> - from Ohio State University</span><br
-      /> <span style="font-size: x-small;"><a
-      href="http://www.homepages.ucl.ac.uk/%7Etcrndfu/phytoliths.html" target="_blank" title="UCL
-      Phytoliths">UCL Phytolith Teaching and Research Images</a></span><br />
-      <span style="font-size: x-small;"><a
-      href="http://nt.ars-grin.gov/sbmlweb/SeedsFruits/rptSeedsFruitsFam.cfm" target="_blank"
-      title="USDA Family Guide for Fruits and Seeds">USDA Family Guide for Fruits and
-      Seeds</a></span><br /> <span style="font-size: x-small;"><a
-      href="http://g.willcox.pagesperso-orange.fr/archaeobotanical%20images/index1.htm"
-      target="_blank" title="Willcox added">Willcox Atlas of Archaeobotanical
-      Seeds</a></span><br /> <span style="font-size: x-small;"><a
-      href="http://www.woodanatomy.ch/" target="_blank" title="Wood Anatomy">Wood
-      Anatomy</a></span> </blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><strong>PALAEOECOLOGICAL -
-      INVERTEBRATES</strong></span><br /> <span style="font-size:
-      x-small;"><a
-      href="http://www.flickr.com/photos/uhmuseum/sets/72157616090546606/with/7084811305/"
-      target="_blank" title="Hawaiian Marine Shell">Hawaiian Marine Shell Reference
-      Collection</a></span><br /> <span style="font-size: x-small;"><a
-      href="http://naturalhistory.museumwales.ac.uk/britishbivalves/" target="_blank" title="British
-      bivalves">Marine Bivalve Shells of the British Isles</a></span><br />
-      <span style="font-size: x-small;"><a href="http://www.nmr-pics.nl/" target="_blank"
-      title="Natural History Museum Rotterdam Mollusks">National History Museum of Rotterdam
-      Mollusks</a></span><br /> <span style="font-size: x-small;"><a
-      href="http://neogenebryozoans.myspecies.info/" target="_blank" title="Neogene
-      Bryozoa">Neogene Bryozoa of Britain&nbsp;</a></span>
-      </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><strong>PALAEOECOLOGICAL - VERTEBRATES</strong></span><br
-      /> <span style="font-size: x-small;"><a href="http://www.cmima.csic.es/aforo/"
-      target="_blank" title="AFORO"><span class="muygrande">A</span>nàlisi
-      de&nbsp;<span class="muygrande">FOR</span>mes d'<span
-      class="muygrande">O</span>tòlits (AFORO)</a> - Shape analysis of fish
-      otoliths</span><br /> <span style="font-size: x-small;"><a
-      href="http://fishbone.nottingham.ac.uk/" target="_blank" title="Archaeological Fish
-      Resource">Archaeological Fish Resource</a></span><br /> <span
-      style="font-size: x-small;"><a href="http://aves3d.org/" target="_blank"
-      title="Aves3D">Aves 3D</a> - a three dimensional database of avian skeletal
-      morphology</span><br /> <span style="font-size: x-small;"><a
-      href="http://www.royalbcmuseum.bc.ca/Natural_History/Bones/homepage.htm" target="_blank"
-      title="Avian Osteology from the Royal BC Museum">Avian Osteology</a> - from the Royal
-      BC Museum</span><br /> <span style="font-size: x-small;"><a
-      href="http://1kai.dokkyomed.ac.jp/mammal/en/mammal.html" target="_blank"
-      title="MCPA2">MCPA2</a> - Mammalian Crania Photographic Archive</span><br
-      /> <span style="font-size: x-small;"><a href="http://www.skullsite.com/"
-      target="_blank" title="Skullsite">Skullsite</a> - avian skulls</span><br
-      /> <span style="font-size: x-small;"><a
-      href="http://vzap.iri.isu.edu/ViewPage.aspx?id=230" target="_blank" title="VZAP">Virtual
-      Zooarchaeology of the Arctic Project</a></span> </blockquote><blockquote
-      class="tr_bq"><span style="font-size:
-      x-small;"><strong>PALAEOPATHOLOGICAL</strong></span><br /> <span
-      style="font-size: x-small;"><a href="http://digitiseddiseases.wordpress.com/"
-      target="_blank" title="Digitised Diseases">Digitised Diseases</a></span>
-      </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><strong>VARIOUS</strong></span><br /> <span
-      style="font-size: x-small;"><a href="http://www.linnean.org/index.php?id=370"
-      target="_blank" title="Linnean Society Collections Online">Linnean Society Collections
-      Online</a> - various biological collections</span><br /> <span
-      style="font-size: x-small;"><a href="http://www.neotomadb.org/" target="_blank"
-      title="Neotoma">Neotoma Palaeoecology Database</a></span><br /> <span
-      style="font-size: x-small;"><a href="http://poggiocivitate.classics.umass.edu/"
-      title="Poggio Civitate">Poggio Civitate Etruscan Excavation Finds
-      Catalogue</a></span><br /> <span style="font-size: x-small;"><a
-      href="http://finds.org.uk/database" target="_blank" title="PAS">Portable Antiquity Scheme
-      Database</a></span></blockquote>]]></content>
-    <link rel="replies"
+   <title type="text">Archaeological and Palaeoecological Reference Collections Online</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 22 April 2012, updated 21 December 2014]</span><br /><br />Among the many useful pages at <a href="http://www.wikiarc.org/">WikiArc/ The Wiki Archaeological Information Resource</a> is:<br /><br /><a href="http://www.wikiarc.org/Archaeological-and-Palaeoecological-Reference-Collections-Online?page-version=0&amp;date=20120422101249">Archaeological and Palaeoecological Reference Collections Online</a><br /><br />As of today (21 December 2014), the list there includes the following categories and links:<br /><blockquote class="tr_bq"><span style="font-size: x-small;"><strong>ARCHAEOMETALLURGICAL</strong></span><br /> <span style="font-size: x-small;"><a href="http://hist-met.org/nsc.html" target="_blank" title="National Slag Collection">The National Slag Collection</a> - UK, from the Historical Metallurgy Society</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><strong>CERAMIC</strong></span><br /> <span style="font-size: x-small;"><a href="http://www.dur.ac.uk/spanish.pottery/" target="_blank" title="Spanish Pottery">A Guide to the Identification of Spanish Medieval and Later Fabrics</a></span><br /> <span style="font-size: x-small;"><a href="http://sites.univ-provence.fr/lampea/ressources/cerafim_dev/?lang=en" target="_blank" title="cerafim">CerAfIm:&nbsp;Céramique Africaine Imprimée&nbsp;</a></span><br /> <span style="font-size: x-small;"><a href="http://www.molas.org.uk/projects/fabrics_tei.asp?report=nrfc" target="_blank" title="Roman Fabric">The National Roman Fabric Collection: a handbook</a> - UK, from the Museum of London</span><br /> <span style="font-size: x-small;"><a href="http://www.worcestershireceramics.org/" target="_blank" title="Worcestershire On-Line Ceramic Database">Worcestershire On-Line Ceramic Database</a> - UK</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><strong>FUNERARY</strong></span><br /> <span style="font-size: x-small;"><a href="http://www2.rgzm.de/tomba1/home/frames.htm" target="_blank" title="TOMBA">TOMBA</a> - Tombs of Bronze Age and Early Iron Age Europe</span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><strong>GEOARCHAEOLOGICAL</strong></span><br /> <span style="font-size: x-small;"><a href="http://www.sassa.org.uk/index.php/Main_Page" target="_blank" title="SASSA">Soil Analysis Support System for Archaeology</a></span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><strong>PALAEOECOLOGICAL - PLANTS</strong></span><br /> <span style="font-size: x-small;"><a href="http://pcwww.liv.ac.uk/%7Eeasouti/Index.htm" target="_blank">Charcoal Analysis Web</a></span><br /> <span style="font-size: x-small;"><a href="http://research.history.org/archaeological_research/collections/collarchaeobot/phytolithSearch.cfm" target="_blank">Colonial Williamsburg Phytolith Database</a></span><br /> <span style="font-size: x-small;"><a href="http://seeds.eldoc.ub.rug.nl/" target="_blank" title="Digitale Zadenatlas van Nederland">Digitale Zadenatlas van Nederland</a> (Digital Seed Atlas of the Netherlands)</span><br /> <span style="font-size: x-small;"><a href="http://insidewood.lib.ncsu.edu/search.1" target="_blank" title="Inside Wood">Inside Wood</a></span><br /> <span style="font-size: x-small;"><a href="http://artsci.wustl.edu/%7Egjfritz/" target="_blank" title="Gayle Fritz">Laboratory Guide To Archaeological Plant Remains From Eastern North America</a> - by Gayle Fritz</span><br /> <span style="font-size: x-small;"><a href="http://phytolith.missouri.edu/index.shtml" title="MSU Phytolith Database">MU Phytolith Database</a></span><br /> <span style="font-size: x-small;"><a href="http://www.paleobot.org/" target="_blank" title="PalaeoBot">PalaeoBot.org</a> - Macrofossils, Pollen, Phytoliths, Starch and Isotopes</span><br /> <span style="font-size: x-small;"><a href="http://gepeg.org/enter_PCORE.html" target="_blank">Phytolith Core Database</a></span><br /> <span style="font-size: x-small;"><a href="http://www.seedbank.re.kr/" target="_blank">Seeds of Wild Plants of Korea</a></span><br /> <span style="font-size: x-small;"><a href="http://www.arboretum.harvard.edu/plants/herbarium.html" target="_blank">Seed Herbarium Image Project</a> - Arnold Arboretum, Harvard University</span><br /> <span style="font-size: x-small;"><a href="http://www.oardc.ohio-state.edu/seedid/all.asp?sort=common" target="_blank" title="Seed ID Workshop">Seed ID Workshop</a> - from Ohio State University</span><br /> <span style="font-size: x-small;"><a href="http://www.homepages.ucl.ac.uk/%7Etcrndfu/phytoliths.html" target="_blank" title="UCL Phytoliths">UCL Phytolith Teaching and Research Images</a></span><br /> <span style="font-size: x-small;"><a href="http://nt.ars-grin.gov/sbmlweb/SeedsFruits/rptSeedsFruitsFam.cfm" target="_blank" title="USDA Family Guide for Fruits and Seeds">USDA Family Guide for Fruits and Seeds</a></span><br /> <span style="font-size: x-small;"><a href="http://g.willcox.pagesperso-orange.fr/archaeobotanical%20images/index1.htm" target="_blank" title="Willcox added">Willcox Atlas of Archaeobotanical Seeds</a></span><br /> <span style="font-size: x-small;"><a href="http://www.woodanatomy.ch/" target="_blank" title="Wood Anatomy">Wood Anatomy</a></span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><strong>PALAEOECOLOGICAL - INVERTEBRATES</strong></span><br /> <span style="font-size: x-small;"><a href="http://www.flickr.com/photos/uhmuseum/sets/72157616090546606/with/7084811305/" target="_blank" title="Hawaiian Marine Shell">Hawaiian Marine Shell Reference Collection</a></span><br /> <span style="font-size: x-small;"><a href="http://naturalhistory.museumwales.ac.uk/britishbivalves/" target="_blank" title="British bivalves">Marine Bivalve Shells of the British Isles</a></span><br /> <span style="font-size: x-small;"><a href="http://www.nmr-pics.nl/" target="_blank" title="Natural History Museum Rotterdam Mollusks">National History Museum of Rotterdam Mollusks</a></span><br /> <span style="font-size: x-small;"><a href="http://neogenebryozoans.myspecies.info/" target="_blank" title="Neogene Bryozoa">Neogene Bryozoa of Britain&nbsp;</a></span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><strong>PALAEOECOLOGICAL - VERTEBRATES</strong></span><br /> <span style="font-size: x-small;"><a href="http://www.cmima.csic.es/aforo/" target="_blank" title="AFORO"><span class="muygrande">A</span>nàlisi de&nbsp;<span class="muygrande">FOR</span>mes d'<span class="muygrande">O</span>tòlits (AFORO)</a> - Shape analysis of fish otoliths</span><br /> <span style="font-size: x-small;"><a href="http://fishbone.nottingham.ac.uk/" target="_blank" title="Archaeological Fish Resource">Archaeological Fish Resource</a></span><br /> <span style="font-size: x-small;"><a href="http://aves3d.org/" target="_blank" title="Aves3D">Aves 3D</a> - a three dimensional database of avian skeletal morphology</span><br /> <span style="font-size: x-small;"><a href="http://www.royalbcmuseum.bc.ca/Natural_History/Bones/homepage.htm" target="_blank" title="Avian Osteology from the Royal BC Museum">Avian Osteology</a> - from the Royal BC Museum</span><br /> <span style="font-size: x-small;"><a href="http://1kai.dokkyomed.ac.jp/mammal/en/mammal.html" target="_blank" title="MCPA2">MCPA2</a> - Mammalian Crania Photographic Archive</span><br /> <span style="font-size: x-small;"><a href="http://www.skullsite.com/" target="_blank" title="Skullsite">Skullsite</a> - avian skulls</span><br /> <span style="font-size: x-small;"><a href="http://vzap.iri.isu.edu/ViewPage.aspx?id=230" target="_blank" title="VZAP">Virtual Zooarchaeology of the Arctic Project</a></span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><strong>PALAEOPATHOLOGICAL</strong></span><br /> <span style="font-size: x-small;"><a href="http://digitiseddiseases.wordpress.com/" target="_blank" title="Digitised Diseases">Digitised Diseases</a></span> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><strong>VARIOUS</strong></span><br /> <span style="font-size: x-small;"><a href="http://www.linnean.org/index.php?id=370" target="_blank" title="Linnean Society Collections Online">Linnean Society Collections Online</a> - various biological collections</span><br /> <span style="font-size: x-small;"><a href="http://www.neotomadb.org/" target="_blank" title="Neotoma">Neotoma Palaeoecology Database</a></span><br /> <span style="font-size: x-small;"><a href="http://poggiocivitate.classics.umass.edu/" title="Poggio Civitate">Poggio Civitate Etruscan Excavation Finds Catalogue</a></span><br /> <span style="font-size: x-small;"><a href="http://finds.org.uk/database" target="_blank" title="PAS">Portable Antiquity Scheme Database</a></span></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/515029232443524654/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/515029232443524654/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/04/archaeological-and-palaeoecological.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/515029232443524654"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/515029232443524654"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/04/archaeological-and-palaeoecological.html"
          title="Archaeological and Palaeoecological Reference Collections Online"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

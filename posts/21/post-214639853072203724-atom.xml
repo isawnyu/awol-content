@@ -1,81 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-214639853072203724</id>
-    <published>2014-05-16T14:12:00.002-04:00</published>
-    <updated>2014-05-17T10:56:04.169-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-214639853072203724</id>
+   <published>2014-05-16T14:12:00.002-04:00</published>
+   <updated>2014-05-17T10:56:04.169-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Canada"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
-    <title type="text">Open Access Journal: The Canadian Institute in Greece Bulletin de l'Institut
-      canadien en Gréce</title>
-    <content type="html"><![CDATA[<a href="http://www.cig-icg.gr/publications">The Canadian Institute in
-      Greece Bulletin de l'Institut canadien en Gréce</a><br /><img
-      alt="http://www.cig-icg.gr/sites/default/files/blog_images/Bulletin.jpg" class="decoded"
-      src="http://www.cig-icg.gr/sites/default/files/blog_images/Bulletin.jpg" /><br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">The Institute
-      produces a semi-annual Bulletin to keep its membership up-to-date on the latest events at the
-      Institute and activities of its members. In addition to reports from the Athens staff and the
-      Institute’s financial reports, the Bulletin also includes the latest news on fieldwork carried
-      out under the aegis of CIG, and by its Board members and members at large, activities organized
-      by its <a href="http://www.cig-icg.gr/membership">Associations of Friends</a>, and
-      articles by its interns and Fellows.</span><br /><br /><span
-      style="font-size: x-small;">The most recent issue of the Bulletin, volume 32, appeared in
-      December 2013. Electronic copies of some previous issues may be viewed
-      below:</span><br /><br /><ul><li><span style="font-size:
-      x-small;"><a
-      href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin31.pdf">Bulletin 31 - Spring
-      2013</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin30.pdf">Bulletin 30 - Autumn
-      2012</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin29.pdf">Bulletin 29 - Spring
-      2012</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin28.pdf">Bulletin 28 - Autumn
-      2011</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin27.doc">Bulletin 27 - Spring
-      2011</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin26.doc">Bulletin 26 - Autumn
-      2010</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin25.doc">Bulletin 25 - Spring
-      2010</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin24.doc">Bulletin 24 - Autumn
-      2009</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin23.doc">Bulletin 23 - Spring
-      2009</a></span></li></ul></blockquote><div style="text-align:
-      center;"><div style="text-align: center;"><span class="Apple-style-span"
-      style="color: #333333; font-family: 'Times New Roman'; line-height: 25px;">See the
-      full&nbsp;</span><span class="Apple-style-span" style="color: #333333;
-      font-family: 'Times New Roman'; line-height: 25px;"><a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html"
-      style="color: #5588aa; text-decoration: none;">List of Open Access Journals in Ancient
-      Studies</a></span></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Canada"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greece"/>
+   <title type="text">Open Access Journal: The Canadian Institute in Greece Bulletin de l'Institut canadien en Gréce</title>
+   <content type="html"><![CDATA[<a href="http://www.cig-icg.gr/publications">The Canadian Institute in Greece Bulletin de l'Institut canadien en Gréce</a><br /><img alt="http://www.cig-icg.gr/sites/default/files/blog_images/Bulletin.jpg" class="decoded" src="http://www.cig-icg.gr/sites/default/files/blog_images/Bulletin.jpg" /><br /><blockquote class="tr_bq"><span style="font-size: x-small;">The Institute produces a semi-annual Bulletin to keep its membership  up-to-date on the latest events at the Institute and activities of its  members. In addition to reports from the Athens staff and the  Institute’s financial reports, the Bulletin also includes the latest  news on fieldwork carried out under the aegis of CIG, and by its Board  members and members at large, activities organized by its <a href="http://www.cig-icg.gr/membership">Associations of Friends</a>, and articles by its interns and Fellows.</span><br /><br /><span style="font-size: x-small;">The most recent issue of the Bulletin, volume 32, appeared in  December 2013. Electronic copies of some previous issues may be viewed  below:</span><br /><br /><ul><li><span style="font-size: x-small;"><a href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin31.pdf">Bulletin 31 - Spring 2013</a></span></li><li><span style="font-size: x-small;"><a href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin30.pdf">Bulletin 30 - Autumn 2012</a></span></li><li><span style="font-size: x-small;"><a href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin29.pdf">Bulletin 29 - Spring 2012</a></span></li><li><span style="font-size: x-small;"><a href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin28.pdf">Bulletin 28 - Autumn 2011</a></span></li><li><span style="font-size: x-small;"><a href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin27.doc">Bulletin 27 - Spring 2011</a></span></li><li><span style="font-size: x-small;"><a href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin26.doc">Bulletin 26 - Autumn 2010</a></span></li><li><span style="font-size: x-small;"><a href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin25.doc">Bulletin 25 - Spring 2010</a></span></li><li><span style="font-size: x-small;"><a href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin24.doc">Bulletin 24 - Autumn 2009</a></span></li><li><span style="font-size: x-small;"><a href="http://www.cig-icg.gr/sites/default/files/docs/Bulletin23.doc">Bulletin 23 - Spring 2009</a></span></li></ul></blockquote><div style="text-align: center;"><div style="text-align: center;"><span class="Apple-style-span" style="color: #333333; font-family: 'Times New Roman'; line-height: 25px;">See the full&nbsp;</span><span class="Apple-style-span" style="color: #333333; font-family: 'Times New Roman'; line-height: 25px;"><a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html" style="color: #5588aa; text-decoration: none;">List of Open Access Journals in Ancient Studies</a></span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/214639853072203724/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/214639853072203724/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/open-access-journal-canadian-institute.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/214639853072203724"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/214639853072203724"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/open-access-journal-canadian-institute.html"
          title="Open Access Journal: The Canadian Institute in Greece Bulletin de l'Institut canadien en Gréce"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

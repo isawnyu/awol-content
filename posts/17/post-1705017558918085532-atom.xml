@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1705017558918085532</id>
+   <published>2016-01-13T15:51:00.004-05:00</published>
+   <updated>2016-01-13T15:54:48.626-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Ceramics"/>
+   <title type="text">Ceramic kilns and workshops in the ancient world</title>
+   <content type="html"><![CDATA[<a href="https://github.com/archaeology/ancient-ceramic-kilns">Ceramic kilns and workshops in the ancient world</a><span class="repository-meta-content"><a href="https://github.com/archaeology/ancient-ceramic-kilns">: GeoJSON files for ceramic kilns of the ancient world, no chronological/spatial boundaries</a>. <br />Stefano Costa </span><br /><blockquote class="tr_bq"><span class="repository-meta-content"><span class="blob-code-inner">This repository contains GeoJSON map files about ceramic kilns and workshops (<span class="pl-mi">_ateliers_</span>) in the ancient world: Classical antiquity, Eastern civilizations, pre-Columbian Americas, etc.. if it is an archaeological feature, it will be good for this repository.</span></span></blockquote><span class="repository-meta-content"></span><blockquote class="tr_bq"></blockquote><span class="repository-meta-content"></span>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/1705017558918085532/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/01/geojson-files-for-ceramic-kilns-of.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1705017558918085532"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/1705017558918085532"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/01/geojson-files-for-ceramic-kilns-of.html"
+         title="Ceramic kilns and workshops in the ancient world"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

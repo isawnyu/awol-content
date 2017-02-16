@@ -1,83 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8242173679036760265</id>
-    <published>2012-09-28T16:39:00.004-04:00</published>
-    <updated>2012-09-29T11:56:17.644-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8242173679036760265</id>
+   <published>2012-09-28T16:39:00.004-04:00</published>
+   <updated>2012-09-29T11:56:17.644-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Maps"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="CRL"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="CAORC"/>
-    <title type="text">Mapping Mediterranean Lands (MEDMAPS)</title>
-    <content type="html"><![CDATA[<a href="http://www.dlir.org/medmaps-home.html">Mapping Mediterranean
-      Lands (MEDMAPS)</a><br /><blockquote class="tr_bq"><img
-      alt="http://www.dlir.org/templates/dlir/images/dlir_logo2.png" class="decoded"
-      src="http://www.dlir.org/templates/dlir/images/dlir_logo2.png" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><b>Mapping Mediterranean Lands</b> (MEDMAPS) showcases sixteen
-      important early maps and related information from the collections of American centers for
-      international research in the Mediterranean region. As part of the <a
-      href="http://www.dlir.org/" target="_blank" title="DLIR">Digital Library for International
-      Research</a>, under the aegis of the <a href="http://www.caorc.org/"
-      target="_blank">Council of American Overseas Research Centers</a>, this three-year
-      project completed a comprehensive survey of maps in the collections of American research
-      centers in the Mediterranean area and created web-accessible bibliographic records. In
-      addition, this site includes information about unique maps and illustrated plates in atlases
-      and other publications relating to archaeological excavation and
-      exploration.</span><br /><br /><span style="font-size:
-      x-small;"><b>Mapping Mediterranean Lands</b> is funded by a grant from the U.S.
-      Department of State, Education and Cultural Affairs (ECA), 2002-2005. The three-year survey was
-      conducted by the project's Head Cartographer, Leonora Navari, in cooperation with the American
-      centers for international research. Ms. Navari also wrote the exhibition essays and other
-      project notes.</span><br /><div id="aorc-menus"><ul class="menu-aorc"
-      id="list-aorc"><li class="active item68" id="current"><span style="font-size:
-      x-small;"><a href="http://www.dlir.org/medmaps-home.html">MEDMAPS
-      Home</a></span></li><li class="item69"><span style="font-size:
-      x-small;"><a
-      href="http://www.dlir.org/about-medmaps.html">About</a></span></li><li
-      class="item70"><span style="font-size: x-small;"><a
-      href="http://www.dlir.org/inventory.html">Inventory</a></span></li><li
-      class="item71"><span style="font-size: x-small;"><a
-      href="http://www.dlir.org/teacher-resources.html">Resources</a></span></li><li
-      class="item92"><span style="font-size: x-small;"><a
-      href="http://www.dlir.org/archive/orc-exhibit/items/browse/collection/1">Exhibit</a></span></li><li
-      class="item170"><span style="font-size: x-small;"><a
-      href="http://www.dlir.org/medmaps-search.html">Search</a></span></li><li
-      class="item72"><span style="font-size: x-small;"><a
-      href="http://www.dlir.org/review.html">Review</a></span></li><li
-      class="item73"><span style="font-size: x-small;"><a
-      href="http://www.dlir.org/credits.html">Credits</a></span>
-      </li></ul></div></blockquote><div style="text-align: center;">And
-      see AWOL's <a
-      href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup
-      of Resources on Ancient Geography</a> </div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="CAORC"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="CRL"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Maps"/>
+   <title type="text">Mapping Mediterranean Lands (MEDMAPS)</title>
+   <content type="html"><![CDATA[<a href="http://www.dlir.org/medmaps-home.html">Mapping Mediterranean Lands (MEDMAPS)</a><br /><blockquote class="tr_bq"><img alt="http://www.dlir.org/templates/dlir/images/dlir_logo2.png" class="decoded" src="http://www.dlir.org/templates/dlir/images/dlir_logo2.png" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><b>Mapping Mediterranean Lands</b> (MEDMAPS) showcases  sixteen important early maps and related information from the  collections of American centers for international research in the  Mediterranean region. As part of the <a href="http://www.dlir.org/" target="_blank" title="DLIR">Digital Library for International Research</a>, under the aegis of the <a href="http://www.caorc.org/" target="_blank">Council of American Overseas Research Centers</a>,  this three-year project completed a comprehensive survey of maps in the  collections of American research centers in the Mediterranean area and  created web-accessible bibliographic records. In addition, this site  includes information about unique maps and illustrated plates in atlases  and other publications relating to archaeological excavation and  exploration.</span><br /><br /><span style="font-size: x-small;"><b>Mapping Mediterranean Lands</b> is funded by a grant from the U.S. Department of State, Education and Cultural Affairs (ECA), 2002-2005.  The three-year survey was conducted by the project's Head Cartographer,  Leonora Navari, in cooperation with the American centers for  international research. Ms. Navari also wrote the exhibition essays and  other project notes.</span><br /><div id="aorc-menus"><ul class="menu-aorc" id="list-aorc"><li class="active item68" id="current"><span style="font-size: x-small;"><a href="http://www.dlir.org/medmaps-home.html">MEDMAPS Home</a></span></li><li class="item69"><span style="font-size: x-small;"><a href="http://www.dlir.org/about-medmaps.html">About</a></span></li><li class="item70"><span style="font-size: x-small;"><a href="http://www.dlir.org/inventory.html">Inventory</a></span></li><li class="item71"><span style="font-size: x-small;"><a href="http://www.dlir.org/teacher-resources.html">Resources</a></span></li><li class="item92"><span style="font-size: x-small;"><a href="http://www.dlir.org/archive/orc-exhibit/items/browse/collection/1">Exhibit</a></span></li><li class="item170"><span style="font-size: x-small;"><a href="http://www.dlir.org/medmaps-search.html">Search</a></span></li><li class="item72"><span style="font-size: x-small;"><a href="http://www.dlir.org/review.html">Review</a></span></li><li class="item73"><span style="font-size: x-small;"><a href="http://www.dlir.org/credits.html">Credits</a></span> </li></ul></div></blockquote><div style="text-align: center;">And see AWOL's <a href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup of Resources on Ancient Geography</a> </div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8242173679036760265/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8242173679036760265/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/09/mapping-mediterranean-lands-medmaps.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8242173679036760265"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8242173679036760265"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/09/mapping-mediterranean-lands-medmaps.html"
          title="Mapping Mediterranean Lands (MEDMAPS)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

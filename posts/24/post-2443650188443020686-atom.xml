@@ -1,98 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2443650188443020686</id>
-    <published>2014-10-29T11:00:00.001-04:00</published>
-    <updated>2014-10-29T11:00:17.802-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2443650188443020686</id>
+   <published>2014-10-29T11:00:00.001-04:00</published>
+   <updated>2014-10-29T11:00:17.802-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
-    <title type="text">Éditions de la Bibliothèque nationale de France at OpenEdition Books </title>
-    <content type="html"><![CDATA[<a href="http://books.openedition.org/editionsbnf" title="Éditions de la
-      Bibliothèque nationale de France">Éditions de la Bibliothèque nationale de France</a>
-      <br />at <a href="http://books.openedition.org/">OpenEdition Books</a> <br
-      /><blockquote class="tr_bq"><span style="font-size: x-small;">La Bibliothèque
-      nationale de France est un éditeur public dont le catalogue compte plus de mille titres. Dans
-      le cadre de sa politique de valorisation des collections, la BnF édite des catalogues raisonnés
-      et des ouvrages scientifiques destinés aux chercheurs et aux professionnels des bibliothèques.
-      Ces publications de référence sont le reflet de l’excellence scientifique de
-      l’établissement.<br />&nbsp;</span></blockquote><ul
-      class="bookslist"><li class="even inline-block"> <div class="cover
-      table-cell"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/editionsbnf/1182" title="Les intailles magiques du
-      département des Monnaies, Médailles et Antiques"> <img alt="Les intailles magiques du
-      département des Monnaies, Médailles et Antiques"
-      src="http://static.openedition.org/covers/OB/editionsbnf/1182/1182-172x245.jpg" height="200"
-      width="141" /> </a></span> </div><div class="description"><h1
-      class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/editionsbnf/1182" title="Les intailles magiques du
-      département des Monnaies, Médailles et Antiques">Les intailles magiques du département des
-      Monnaies, Médailles et Antiques</a></span></h1><div
-      class="author"><span style="font-size: x-small;"><b> Attilio <span
-      class="familyName">Mastrocinque</span> </b></span> </div><div
-      class="editionyear"><span style="font-size:
-      x-small;">2014</span></div><br /></div><span style="font-size:
-      x-small;"> </span></li></ul><ul class="bookslist"><li class="odd
-      inline-block"><span style="font-size: x-small;"> </span><div class="cover
-      table-cell"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/editionsbnf/547" title="Trésors monétaires XXV"> <img
-      alt="Trésors monétaires XXV"
-      src="http://static.openedition.org/covers/OB/editionsbnf/547/547-172x245.jpg" height="200"
-      width="142" /> </a></span> </div><span style="font-size: x-small;">
-      </span><div class="description"><h1 class="title"><span style="font-size:
-      x-small;"><a href="http://books.openedition.org/editionsbnf/547" title="Trésors
-      monétaires XXV">Trésors monétaires XXV</a></span></h1><h2
-      class="subtitle"><span style="font-size: x-small;">2011-2012 | Saint-Jean-d’Ardières
-      (Rhône), Magny-Cours (Nièvre), Gisors (Eure) et ‎autres trésors</span></h2><div
-      class="director"><span style="font-size: x-small;"><b> Michel <span
-      class="familyName">Amandry</span> </b> (dir.)</span><br /><br
-      /></div></div></li>&nbsp; </ul><ul
-      class="bookslist"><li class="odd inline-block"> <div class="cover table-cell">
-      <a href="http://books.openedition.org/editionsbnf/203" title="Statuettes funéraires
-      égyptiennes du département des Monnaies, Médailles et Antiques"> <img alt="Statuettes
-      funéraires égyptiennes du département des Monnaies, Médailles et Antiques" height="200"
-      src="http://static.openedition.org/covers/OB/editionsbnf/203/203-172x245.jpg" width="144"
-      /><span style="font-size: x-small;"> </span></a><span style="font-size:
-      x-small;"> </span></div><span style="font-size: x-small;">
-      </span><div class="description"><span style="font-size: x-small;">
-      </span><h1 class="title"><span style="font-size: x-small;"><a
-      href="http://books.openedition.org/editionsbnf/203" title="Statuettes funéraires égyptiennes du
-      département des Monnaies, Médailles et Antiques">Statuettes funéraires égyptiennes du
-      département des Monnaies, Médailles et Antiques</a></span></h1><span
-      style="font-size: x-small;"> </span><div class="author"> <span
-      style="font-size: x-small;"><strong> Jacques François <span
-      class="familyName">Aubert</span> et Liliane <span
-      class="familyName">Aubert</span> </strong></span> </div><span
-      style="font-size: x-small;"> </span><div class="editionyear"><span
-      style="font-size: x-small;">2005</span></div><span style="font-size:
-      x-small;"> <span class="end">…</span></span>
-      </div></li></ul>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
+   <title type="text">Éditions de la Bibliothèque nationale de France at OpenEdition Books </title>
+   <content type="html"><![CDATA[<a href="http://books.openedition.org/editionsbnf" title="Éditions de la Bibliothèque nationale de France">Éditions de la Bibliothèque nationale de France</a>                                                                                                                                                    <br />at <a href="http://books.openedition.org/">OpenEdition Books</a> <br /><blockquote class="tr_bq"><span style="font-size: x-small;">La Bibliothèque nationale de France est un éditeur public dont le  catalogue compte plus de mille titres. Dans le cadre de sa politique de  valorisation des collections, la BnF édite des catalogues raisonnés et  des ouvrages scientifiques destinés aux chercheurs et aux professionnels  des bibliothèques. Ces publications de référence sont le reflet de  l’excellence scientifique de l’établissement.<br />&nbsp;</span></blockquote><ul class="bookslist"><li class="even inline-block">                                             <div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/editionsbnf/1182" title="Les intailles magiques du département des Monnaies, Médailles et Antiques">    <img alt="Les intailles magiques du département des Monnaies, Médailles et Antiques" src="http://static.openedition.org/covers/OB/editionsbnf/1182/1182-172x245.jpg" height="200" width="141" />    </a></span>    </div><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/editionsbnf/1182" title="Les intailles magiques du département des Monnaies, Médailles et Antiques">Les intailles magiques du département des Monnaies, Médailles et Antiques</a></span></h1><div class="author"><span style="font-size: x-small;"><b>        Attilio <span class="familyName">Mastrocinque</span>        </b></span>                </div><div class="editionyear"><span style="font-size: x-small;">2014</span></div><br /></div><span style="font-size: x-small;"> </span></li></ul><ul class="bookslist"><li class="odd inline-block"><span style="font-size: x-small;">                                             </span><div class="cover table-cell"><span style="font-size: x-small;"><a href="http://books.openedition.org/editionsbnf/547" title="Trésors monétaires XXV">    <img alt="Trésors monétaires XXV" src="http://static.openedition.org/covers/OB/editionsbnf/547/547-172x245.jpg" height="200" width="142" />    </a></span>    </div><span style="font-size: x-small;">                                 </span><div class="description"><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/editionsbnf/547" title="Trésors monétaires XXV">Trésors monétaires XXV</a></span></h1><h2 class="subtitle"><span style="font-size: x-small;">2011-2012 | Saint-Jean-d’Ardières (Rhône), Magny-Cours (Nièvre), Gisors (Eure) et ‎autres trésors</span></h2><div class="director"><span style="font-size: x-small;"><b>        Michel <span class="familyName">Amandry</span>        </b>                 (dir.)</span><br /><br /></div></div></li>&nbsp; </ul><ul class="bookslist"><li class="odd inline-block">                                             <div class="cover table-cell">    <a href="http://books.openedition.org/editionsbnf/203" title="Statuettes funéraires égyptiennes du département des Monnaies, Médailles et Antiques">    <img alt="Statuettes funéraires égyptiennes du département des Monnaies, Médailles et Antiques" height="200" src="http://static.openedition.org/covers/OB/editionsbnf/203/203-172x245.jpg" width="144" /><span style="font-size: x-small;">    </span></a><span style="font-size: x-small;">    </span></div><span style="font-size: x-small;">                                 </span><div class="description"><span style="font-size: x-small;">                                   </span><h1 class="title"><span style="font-size: x-small;"><a href="http://books.openedition.org/editionsbnf/203" title="Statuettes funéraires égyptiennes du département des Monnaies, Médailles et Antiques">Statuettes funéraires égyptiennes du département des Monnaies, Médailles et Antiques</a></span></h1><span style="font-size: x-small;">                                                                                                                   </span><div class="author">                 <span style="font-size: x-small;"><strong>        Jacques François <span class="familyName">Aubert</span> et Liliane <span class="familyName">Aubert</span>        </strong></span>                </div><span style="font-size: x-small;">                                                               </span><div class="editionyear"><span style="font-size: x-small;">2005</span></div><span style="font-size: x-small;">                                        <span class="end">…</span></span>                </div></li></ul>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2443650188443020686/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2443650188443020686/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/editions-de-la-bibliotheque-nationale.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2443650188443020686"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2443650188443020686"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/10/editions-de-la-bibliotheque-nationale.html"
          title="Éditions de la Bibliothèque nationale de France at OpenEdition Books "/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

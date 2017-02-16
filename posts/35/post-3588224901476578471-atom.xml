@@ -1,222 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3588224901476578471</id>
-    <published>2013-07-10T11:39:00.002-04:00</published>
-    <updated>2013-07-10T11:39:27.810-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3588224901476578471</id>
+   <published>2013-07-10T11:39:00.002-04:00</published>
+   <updated>2013-07-10T11:39:27.810-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Digitaal Library"/>
-    <title type="text">Arabic and Middle Eastern Electronic Library (AMEEL)</title>
-    <content type="html"><![CDATA[<a href="http://www.library.yale.edu/ameel/">Arabic and Middle Eastern
-      Electronic Library (AMEEL)</a><br /><blockquote class="tr_bq"><img
-      alt="http://www.library.yale.edu/ameel/images/rt_col_04.jpg" class="decoded"
-      src="http://www.library.yale.edu/ameel/images/rt_col_04.jpg" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">AMEEL is a Web-based portal and a digital collection of information for the study
-      of the Middle East, including its history, culture, development, and contemporary face. Within
-      this portal, Yale University Library offers the OACIS serials database and integrates existing
-      scholarly digital content with newly digitized resources to make such materialS easier to find
-      and use efficiently and freely.</span><br /><span style="font-size:
-      x-small;"><br /></span><span style="font-size: x-small;">Currently, AMEEL
-      holds approximately 250,000 pages of full text, indexed and searchable in the language of
-      publication including Arabic and Western scripts. The full text in AMEEL has been extracted
-      using Optical Character Recognition software (OCR) rather than re-keying all works. Our
-      digitization team aimed for accuracy rates of higher than 90% when converting modern Arabic
-      text.</span></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><a class="nav_sublinks" href="http://www.library.yale.edu/ameeljournals/"
-      target="_blank">AMEEL Journals</a>&nbsp; (titles marked with&nbsp; <a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:19808"><img
-      border="0" src="http://sesame.library.yale.edu:8080/fedora/get/ameel:19808/ACCESSICON7"
-      /></a> are only available inside Yale University domains)</span><br
-      /><span style="font-size: x-small;"><br /></span><span
-      style="font-size: x-small;"><a
-      href="http://draft.blogger.com/null">&nbsp;&nbsp; &nbsp; <img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:71644"> al-Abḥāth
-      </a> </span><table border="0"><tbody><tr><td
-      width="10"><span style="font-size: x-small;"><br
-      /></span></td><td><span style="font-size: x-small;"><a
-      href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:170727"> Dirāsāt
-      al-'Ulūm al-insānīyah wa-al-ijtimā'īyah
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:19808"> Dirāsāt
-      tārīkhīyah : majallah faṣlīyah<img border="0"
-      src="http://sesame.library.yale.edu:8080/fedora/get/ameel:19808/ACCESSICON7" />
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:193680"> Études
-      internationales
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:74411"> Journal for
-      the history of Arabic science
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:11021"> al-Kātib
-      al-ʻArabī<img border="0"
-      src="http://sesame.library.yale.edu:8080/fedora/get/ameel:11021/ACCESSICON7" />
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:136223"> al-Lughah
-      wa-al-adab </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:225582"> Majallat
-      Jāmiʻat Dimashq lil-ādāb wa-al-ʻulūm al-insānīyah wa-al-tarbawīyah
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:111019"> Majallat
-      Jāmiʻat al-Malik ʻAbd al-ʻAzīz, vol. 1
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:50093"> Majallat
-      al-Majmaʻ al-ʻIlmī al-ʻIrāqī<img border="0"
-      src="http://sesame.library.yale.edu:8080/fedora/get/ameel:50093/ACCESSICON7" />
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:126228"> Majallat
-      al-muʾarrikh al-ʻArabī. The Arab historian<img border="0"
-      src="http://sesame.library.yale.edu:8080/fedora/get/ameel:126228/ACCESSICON7" />
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:8"> al-Mawrid<img
-      border="0" src="http://sesame.library.yale.edu:8080/fedora/get/ameel:8/ACCESSICON7" />
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:90848"> al-Muʾarrikh
-      al-Miṣrī : dirāsāt wa-buḥūth tārīkhīyah
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:85476"> Report on the
-      excavations in ʻIraq ... Report on the activity of the Department of Antiquities
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:137593"> Revue
-      Tunisienne de Sciences Sociales
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:114469"> Silsilat
-      Awraq al-dhakirah: al-Junun wa-al-mar'ah fi Misr nihayat al-qarn al-tasi' 'ashar
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:114472"> Silsilat
-      Awraq al-dhakirah: al-Mar'ah wa-al-hayah al-diniyah fi al-Usur al-Wusta bayana al-Islam
-      wa-al-Gharb </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:114475"> Silsilat
-      Awraq al-dhakirah: al-Nisa wa-mihnat al-tibb fi al-mujtama'at al-Islamiyah
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" /> </a><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:8964"> Sumer<img
-      border="0" src="http://sesame.library.yale.edu:8080/fedora/get/ameel:8964/ACCESSICON7" />
-      </a></span></td></tr></tbody></table><span
-      style="font-size: x-small;"> </span><table
-      border="0"><tbody><tr><td width="10"><span style="font-size:
-      x-small;"><br /></span></td><td><span style="font-size:
-      x-small;"><a href="http://draft.blogger.com/null"><img
-      src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />
-      </a></span><a
-      href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:28066"><span
-      style="font-size: x-small;"> al-Thaqāfah al-jadīdah<img border="0"
-      src="http://sesame.library.yale.edu:8080/fedora/get/ameel:28066/ACCESSICON7" /></span>
-      </a></td></tr></tbody></table></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Digitaal Library"/>
+   <title type="text">Arabic and Middle Eastern Electronic Library (AMEEL)</title>
+   <content type="html"><![CDATA[<a href="http://www.library.yale.edu/ameel/">Arabic and Middle Eastern Electronic Library (AMEEL)</a><br /><blockquote class="tr_bq"><img alt="http://www.library.yale.edu/ameel/images/rt_col_04.jpg" class="decoded" src="http://www.library.yale.edu/ameel/images/rt_col_04.jpg" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">AMEEL is a Web-based portal and a digital collection of information for  the study of the Middle East, including its history, culture,  development, and contemporary face.  Within this portal, Yale University  Library offers the OACIS serials database and integrates existing  scholarly digital content with newly digitized resources to make such  materialS easier to find and use efficiently and freely.</span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;">Currently, AMEEL holds approximately 250,000 pages of full text, indexed and searchable in the language of publication including Arabic and Western scripts.  The full text in AMEEL has been extracted using Optical Character Recognition software (OCR) rather than re-keying all works.  Our digitization team aimed for accuracy rates of higher than 90% when converting modern Arabic text.</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><a class="nav_sublinks" href="http://www.library.yale.edu/ameeljournals/" target="_blank">AMEEL Journals</a>&nbsp; (titles marked with&nbsp; <a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:19808"><img border="0" src="http://sesame.library.yale.edu:8080/fedora/get/ameel:19808/ACCESSICON7" /></a> are only available inside Yale University domains)</span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://draft.blogger.com/null">&nbsp;&nbsp; &nbsp; <img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:71644">  al-Abḥāth   </a>  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:170727">  Dirāsāt al-'Ulūm al-insānīyah wa-al-ijtimā'īyah   </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:19808">  Dirāsāt tārīkhīyah : majallah faṣlīyah<img border="0" src="http://sesame.library.yale.edu:8080/fedora/get/ameel:19808/ACCESSICON7" />  </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:193680">  Études internationales   </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:74411">  Journal for the history of Arabic science   </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:11021">  al-Kātib al-ʻArabī<img border="0" src="http://sesame.library.yale.edu:8080/fedora/get/ameel:11021/ACCESSICON7" />  </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:136223">  al-Lughah wa-al-adab   </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:225582">  Majallat Jāmiʻat Dimashq lil-ādāb wa-al-ʻulūm al-insānīyah wa-al-tarbawīyah   </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:111019">  Majallat Jāmiʻat al-Malik ʻAbd al-ʻAzīz, vol. 1   </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:50093">  Majallat al-Majmaʻ al-ʻIlmī al-ʻIrāqī<img border="0" src="http://sesame.library.yale.edu:8080/fedora/get/ameel:50093/ACCESSICON7" />  </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:126228">  Majallat al-muʾarrikh al-ʻArabī. The Arab historian<img border="0" src="http://sesame.library.yale.edu:8080/fedora/get/ameel:126228/ACCESSICON7" />  </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:8">  al-Mawrid<img border="0" src="http://sesame.library.yale.edu:8080/fedora/get/ameel:8/ACCESSICON7" />  </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:90848">  al-Muʾarrikh al-Miṣrī : dirāsāt wa-buḥūth tārīkhīyah   </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:85476">  Report on the excavations in ʻIraq ... Report on the activity of the Department of Antiquities   </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:137593">  Revue Tunisienne de Sciences Sociales   </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:114469">  Silsilat Awraq al-dhakirah:  al-Junun wa-al-mar'ah fi Misr nihayat al-qarn al-tasi' 'ashar   </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:114472">  Silsilat Awraq al-dhakirah:  al-Mar'ah wa-al-hayah al-diniyah fi al-Usur al-Wusta bayana al-Islam wa-al-Gharb   </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:114475">  Silsilat Awraq al-dhakirah:  al-Nisa wa-mihnat al-tibb fi al-mujtama'at al-Islamiyah   </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:8964">  Sumer<img border="0" src="http://sesame.library.yale.edu:8080/fedora/get/ameel:8964/ACCESSICON7" />  </a></span></td></tr></tbody></table><span style="font-size: x-small;">  </span><table border="0"><tbody><tr><td width="10"><span style="font-size: x-small;"><br /></span></td><td><span style="font-size: x-small;"><a href="http://draft.blogger.com/null"><img src="http://sesame.library.yale.edu:8080/FedoraAccess/plus.gif" />  </a></span><a href="http://sesame.library.yale.edu/fedoragsearch/ameelview?pid=ameel:28066"><span style="font-size: x-small;">  al-Thaqāfah al-jadīdah<img border="0" src="http://sesame.library.yale.edu:8080/fedora/get/ameel:28066/ACCESSICON7" /></span>  </a></td></tr></tbody></table></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3588224901476578471/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3588224901476578471/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/07/arabic-and-middle-eastern-electronic.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3588224901476578471"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3588224901476578471"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/07/arabic-and-middle-eastern-electronic.html"
          title="Arabic and Middle Eastern Electronic Library (AMEEL)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

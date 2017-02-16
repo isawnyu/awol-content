@@ -1,107 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-8044130477455434085</id>
-    <published>2012-07-13T12:09:00.001-04:00</published>
-    <updated>2014-02-27T14:42:06.355-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-8044130477455434085</id>
+   <published>2012-07-13T12:09:00.001-04:00</published>
+   <updated>2014-02-27T14:42:06.355-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Denmark"/>
-    <title type="text">Open Access Journal: HIPHIL</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a
-      href="http://ancientworldonline.blogspot.com/2009/11/more-open-access-journals-group-5.html">3
-      November 2009</a>. Updated 27 February 2014]</span><br /><br /><span
-      class="title">HIPHIL</span><br />ISSN: 1603-6565<span class="title">
-      </span><br /><div><blockquote class="tr_bq"><span style="font-size:
-      x-small;"><b>Hiphil</b> is a peer-reviewed academic journal on Old Testament
-      <b>H</b>ebrew Bible Theology, <b>I</b>nterpretation,
-      <b>P</b>oetics, <b>H</b>istory, <b>I</b>nteractivity, and
-      <b>L</b>inguistics with particular emphasis on bridging the gap between the ancient
-      authors and modern readers.</span><br /><br /><span style="font-size:
-      x-small;">Articles in Hiphil set directions for new and creative evangelical interpretation
-      in a postmodern world. Hiphil authors expertly guide readers toward well researched
-      applications that avoid trivializing either the biblical text or the challenges for expressing
-      their meanings today. Articles in Hiphil are already indexed in the <a
-      href="http://aleph3.libnet.ac.il/F/?func=find-b-0&amp;local_base=rmb01&amp;con_lng=eng"
-      target="_blank" title="RAMBI">RAMBI</a><b><i> </i></b>and
-      <a href="http://www.uibk.ac.at/bildi/bildi/search/index.html.en" target="_blank"
-      title="BILDI">BILDI</a> databases. The journal is archived by the <a
-      href="http://www.kb.dk/en/index.html" target="_blank" title="Royal Danish Library">Royal
-      Danish Library</a>. Access to Hiphil material is free and it is possible to subscribe to
-      a notification service on new additions to Hiphil.</span></blockquote><br
-      />Continued now, at a new site, by:<br /><br /><a
-      href="http://ancientworldonline.blogspot.com/2014/02/new-open-access-journal-hiphil-novum.html">HIPHIL
-      Novum</a> <br /><br />Links to the original HIPHIL content:<br
-      /><div style="float: left; width: 100%;"> <blockquote><h3><span
-      style="font-size: xx-small;">2010</span></h3><div id="issue" style="clear:
-      left;"> <h4><span style="font-size: xx-small;"><a
-      href="http://www.hiphil.org/index.php/hiphil/issue/view/6">VOL 7
-      (2010)</a></span></h4></div><div style="float: left; width:
-      100%;"> <h3><span style="font-size:
-      xx-small;">2009</span></h3><div id="issue" style="clear: left;">
-      <h4><span style="font-size: xx-small;"><a
-      href="http://www.hiphil.org/index.php/hiphil/issue/view/7">VOL 6
-      (2009)</a></span></h4></div></div><div style="float: left;
-      width: 100%;"> <h3><span style="font-size:
-      xx-small;">2008</span></h3><div id="issue" style="clear: left;">
-      <h4><span style="font-size: xx-small;"><a
-      href="http://www.hiphil.org/index.php/hiphil/issue/view/5">VOL 5
-      (2008)</a></span></h4></div></div><span style="font-size:
-      xx-small;"><br /></span> <div style="float: left; width: 100%;">
-      <h3><span style="font-size: xx-small;">2007</span></h3><div
-      id="issue" style="clear: left;"> <h4><span style="font-size: xx-small;"><a
-      href="http://www.hiphil.org/index.php/hiphil/issue/view/4">VOL 4
-      (2007)</a></span></h4></div></div><div style="float: left;
-      width: 100%;"> <h3><span style="font-size:
-      xx-small;">2006</span></h3><div id="issue" style="clear: left;">
-      <h4><span style="font-size: xx-small;"><a
-      href="http://www.hiphil.org/index.php/hiphil/issue/view/3">VOL 3
-      (2006)</a></span></h4></div></div><div style="float: left;
-      width: 100%;"> <h3><span style="font-size:
-      xx-small;">2005</span></h3><div id="issue" style="clear: left;">
-      <h4><span style="font-size: xx-small;"><a
-      href="http://www.hiphil.org/index.php/hiphil/issue/view/2">VOL 2
-      (2005)</a></span></h4></div></div><h3><span
-      style="font-size: xx-small;">2004</span></h3><h4><span
-      style="font-size: xx-small;"><a
-      href="http://www.hiphil.org/index.php/hiphil/issue/view/1">VOL 1
-      (2004)</a></span></h4></blockquote></div><br /><div
-      style="text-align: center;"><span style="font-size: x-small;"><span
-      style="font-size: small;"><span><span><span><span>See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span></span>
-      </span></div></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Denmark"/>
+   <title type="text">Open Access Journal: HIPHIL</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a href="http://ancientworldonline.blogspot.com/2009/11/more-open-access-journals-group-5.html">3 November 2009</a>. Updated 27 February 2014]</span><br /><br /><span class="title">HIPHIL</span><br />ISSN: 1603-6565<span class="title"> </span><br /><div><blockquote class="tr_bq"><span style="font-size: x-small;"><b>Hiphil</b> is a peer-reviewed academic journal on Old Testament <b>H</b>ebrew Bible Theology, <b>I</b>nterpretation, <b>P</b>oetics, <b>H</b>istory, <b>I</b>nteractivity, and <b>L</b>inguistics with particular emphasis on bridging the gap between the ancient authors and modern readers.</span><br /><br /><span style="font-size: x-small;">Articles  in Hiphil set directions for new and creative evangelical  interpretation in a postmodern world. Hiphil authors expertly guide  readers toward well researched applications that avoid trivializing  either the biblical text or the challenges for expressing their meanings  today. Articles in Hiphil are already indexed in the <a href="http://aleph3.libnet.ac.il/F/?func=find-b-0&amp;local_base=rmb01&amp;con_lng=eng" target="_blank" title="RAMBI">RAMBI</a><b><i> </i></b>and <a href="http://www.uibk.ac.at/bildi/bildi/search/index.html.en" target="_blank" title="BILDI">BILDI</a> databases. The journal is archived by the <a href="http://www.kb.dk/en/index.html" target="_blank" title="Royal Danish Library">Royal Danish Library</a>. Access to Hiphil material is free and it is possible to subscribe to a notification service on new additions to Hiphil.</span></blockquote><br />Continued now, at a new site, by:<br /><br /><a href="http://ancientworldonline.blogspot.com/2014/02/new-open-access-journal-hiphil-novum.html">HIPHIL Novum</a> <br /><br />Links to the original HIPHIL content:<br /><div style="float: left; width: 100%;">  <blockquote><h3><span style="font-size: xx-small;">2010</span></h3><div id="issue" style="clear: left;">   <h4><span style="font-size: xx-small;"><a href="http://www.hiphil.org/index.php/hiphil/issue/view/6">VOL 7 (2010)</a></span></h4></div><div style="float: left; width: 100%;">  <h3><span style="font-size: xx-small;">2009</span></h3><div id="issue" style="clear: left;">   <h4><span style="font-size: xx-small;"><a href="http://www.hiphil.org/index.php/hiphil/issue/view/7">VOL 6 (2009)</a></span></h4></div></div><div style="float: left; width: 100%;">  <h3><span style="font-size: xx-small;">2008</span></h3><div id="issue" style="clear: left;">   <h4><span style="font-size: xx-small;"><a href="http://www.hiphil.org/index.php/hiphil/issue/view/5">VOL 5 (2008)</a></span></h4></div></div><span style="font-size: xx-small;"><br /></span>        <div style="float: left; width: 100%;">  <h3><span style="font-size: xx-small;">2007</span></h3><div id="issue" style="clear: left;">   <h4><span style="font-size: xx-small;"><a href="http://www.hiphil.org/index.php/hiphil/issue/view/4">VOL 4 (2007)</a></span></h4></div></div><div style="float: left; width: 100%;">  <h3><span style="font-size: xx-small;">2006</span></h3><div id="issue" style="clear: left;">   <h4><span style="font-size: xx-small;"><a href="http://www.hiphil.org/index.php/hiphil/issue/view/3">VOL 3 (2006)</a></span></h4></div></div><div style="float: left; width: 100%;">  <h3><span style="font-size: xx-small;">2005</span></h3><div id="issue" style="clear: left;">   <h4><span style="font-size: xx-small;"><a href="http://www.hiphil.org/index.php/hiphil/issue/view/2">VOL 2 (2005)</a></span></h4></div></div><h3><span style="font-size: xx-small;">2004</span></h3><h4><span style="font-size: xx-small;"><a href="http://www.hiphil.org/index.php/hiphil/issue/view/1">VOL 1 (2004)</a></span></h4></blockquote></div><br /><div style="text-align: center;"><span style="font-size: x-small;"><span style="font-size: small;"><span><span><span><span>See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></span> </span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/8044130477455434085/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/8044130477455434085/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/07/open-access-journal-hiphil.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8044130477455434085"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/8044130477455434085"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/07/open-access-journal-hiphil.html"
          title="Open Access Journal: HIPHIL"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+       xmlns:gd="http://schemas.google.com/g/2005"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7652265136671541609</id>
+   <published>2016-06-01T15:08:00.000-04:00</published>
+   <updated>2016-06-01T15:40:56.299-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="numismatics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Iconography"/>
+   <title type="text">DIANA: Digital Iconographic Atlas of Numismatics in Antiquity</title>
+   <content type="html"><![CDATA[<a href="http://ww2.unime.it/diana/?q=node/14" target="_blank">DIANA: Digital Iconographic Atlas of Numismatics in Antiquity</a><br /><blockquote class="tr_bq"><img alt="Home" src="http://ww2.unime.it/diana/sites/default/files/artemis3.gif" /> </blockquote><blockquote class="tr_bq"><div class="rtejustify"><span style="font-size: x-small;">Some web solutions make it possible to retrieve  data and display the location of ancient mints and coin finds on digital  maps, but they do not present codified and detailed&nbsp;descriptions of  coin iconographies. The "Digital Iconographic Atlas of Numismatics in  Antiquity"&nbsp;(DIANA) is a web application that provides an in-depth  analysis of ancient coins specifically&nbsp;considering the details of their  iconography, chronology, and the geographical location of their mints.  Thanks to this approach, DIANA allows a more detailed study of coin  iconographies&nbsp;through time and space than other existing web  applications.</span></div><div class="rtejustify"><br /></div><div class="rtejustify"><span style="font-size: x-small;">Nowadays, in the field of coin  iconography, there are a few works properly addressing the involved  scientific requirements. Several web sites use a map representation to  display money data, even if the location of ancient places is often  imprecise and uncertain, since modern cities are not always located in  the same place as their ancient counterpart. Moreover, existing  solutions do not allow a detailed study of coin iconographies properly  considering time and places.</span></div><div class="rtejustify"><br /></div><span style="font-size: x-small;">The web application allows users to  search, retrieved, and displayed data using digital map in oder to  perform an in-dept diachronic&nbsp;study. The DIANA's digital archive is  based on a relational Data Base Management System (DBMS). The web  application is developed combining both server-side and client-side  programming languages. The server-side is developed using the PHP  language, whereas the client-side is developed using Javascript. In  order to provide users a good degree of reactiveness, DIANA has been  developed adopting the Asymchronous JavaScript and XML (AJAX)  programming technique. In order to build digital maps, the system uses  the Google Maps Platform as a Service (PaaS). A mint can be searched on  DIANA considering a target coin iconography through a web form. By means  of AJAX requests, data are retrieved on the DIANA's digital archive and  they are sent in XML format to the user's web browser. After that, the  web browser processes the received data and it forwards a second AJAX  request to the Google Map PaaS that return a digital map displaying the  mint and ancient coins...</span></blockquote><blockquote class="tr_bq"><ul class="links inline clearfix" id="main-menu"><li class="menu-218 first"><span style="font-size: x-small;"><a href="http://ww2.unime.it/diana/">Home</a></span></li><li class="menu-332"><span style="font-size: x-small;"><a href="http://ww2.unime.it/diana/?q=node/14">Objectives</a></span></li><li class="menu-326"><span style="font-size: x-small;"><a href="http://ww2.unime.it/diana/?q=node/10">Partners</a></span></li><li class="menu-504 active-trail active"><span style="font-size: x-small;"><a class="active-trail active" href="http://ww2.unime.it/diana/?q=node/25" title="Search Iconography">Search Iconography</a></span></li><li class="menu-337 last"><span style="font-size: x-small;"><a href="http://ww2.unime.it/diana/?q=node/17">Help</a></span></li></ul></blockquote>]]></content>
+   <link rel="replies"
+         type="application/atom+xml"
+         href="https://ancientworldonline.blogspot.com/feeds/7652265136671541609/comments/default"
+         title="Post Comments"/>
+   <link rel="replies"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/06/diana-digital-iconographic-atlas-of.html#comment-form"
+         title="0 Comments"/>
+   <link rel="edit"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7652265136671541609"/>
+   <link rel="self"
+         type="application/atom+xml"
+         href="https://www.blogger.com/feeds/116259103207720939/posts/default/7652265136671541609"/>
+   <link rel="alternate"
+         type="text/html"
+         href="http://ancientworldonline.blogspot.com/2016/06/diana-digital-iconographic-atlas-of.html"
+         title="DIANA: Digital Iconographic Atlas of Numismatics in Antiquity"/>
+   <author>
+      <name>Charles Jones</name>
+      <uri>https://plus.google.com/114326413909322730653</uri>
+      <email>noreply@blogger.com</email>
+   </author>
+</entry>

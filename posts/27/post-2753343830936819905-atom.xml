@@ -1,222 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2753343830936819905</id>
-    <published>2013-05-06T13:44:00.000-04:00</published>
-    <updated>2013-05-06T13:44:38.810-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2753343830936819905</id>
+   <published>2013-05-06T13:44:00.000-04:00</published>
+   <updated>2013-05-06T13:44:38.810-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
-    <title type="text">Vindolanda Tablets Online</title>
-    <content type="html"><![CDATA[<a href="http://vindolanda.csad.ox.ac.uk/">Vindolanda Tablets
-      Online</a><br /><blockquote class="tr_bq"><img
-      alt="http://vindolanda.csad.ox.ac.uk/images/hometitle.jpg" class="decoded"
-      src="http://vindolanda.csad.ox.ac.uk/images/hometitle.jpg" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">This
-      online edition of the Vindolanda writing tablets, excavated from the Roman fort at Vindolanda
-      in northern England, includes the following elements:</span><br /> <span
-      style="font-size: x-small;"><span class="inlinetitle"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/tablets/">Tablets</a></span> - a
-      searchable online edition of the tablets (volumes I and II)</span><br /> <span
-      style="font-size: x-small;"><span class="inlinetitle"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/">Exhibition</a></span> - an
-      introduction to the tablets and their context</span><br /> <span
-      style="font-size: x-small;"><span class="inlinetitle"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/reference/">Reference</a></span> - a guide
-      to aspects of the tablets’ content</span><br /> <span style="font-size:
-      x-small;"><span class="inlinetitle"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/help/">Help</a></span> - navigation and
-      using the site</span><br /> <br /> <span style="font-size:
-      x-small;">Also available are <a
-      href="http://vindolanda.csad.ox.ac.uk/tablets/browse.shtml">highlights from the
-      tablets</a>.</span><br /> <br /> <span style="font-size:
-      x-small;">The website is part of the <a href="http://www.csad.ox.ac.uk/Mellon">Script,
-      Image and the Culture of Writing in the Ancient World</a> programme, supported by the
-      <a href="http://www.mellon.org/">Andrew W. Mellon Foundation</a>. It is a
-      collaborative project between the <a href="http://www.csad.ox.ac.uk/">Centre for the
-      Study of Ancient Documents</a> and the <a
-      href="http://www.oucs.ox.ac.uk/acdt/">Academic Computing Development Team</a>, Oxford
-      University.</span><br /> <br /> <span style="font-size:
-      x-small;">Scholarly publications should refer to this site as:</span><br />
-      <span style="font-size: x-small;"> Vindolanda Tablets Online <a
-      href="http://vindolanda.csad.ox.ac.uk/">http://vindolanda.csad.ox.ac.uk/</a></span><br
-      /> <span style="font-size: x-small;">Editions of individual tablets may be cited in
-      the form <a href="http://vindolanda.csad.ox.ac.uk/TVII-291"
-      target="_parent">http://vindolanda.csad.ox.ac.uk/TVII-291</a> (<em>Tab.
-      Vindol.</em> II 291) </span></blockquote><blockquote
-      class="tr_bq"><div class="sm-1"><span style="font-size: x-small;"><a
-      class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/index.shtml">Home</a></span>
-      </div><div class="sm-2"><span style="font-size: x-small;"><a
-      class="youarehere" href="http://vindolanda.csad.ox.ac.uk/about.shtml">About this
-      site</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/contact.shtml">Contact</a> , <a
-      class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/copyright.shtml">Copyright</a> , <a
-      class="youarehere" href="http://vindolanda.csad.ox.ac.uk/links.shtml">links</a> ,
-      <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/report_error.shtml">report an
-      error</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/news.shtml">News</a></span></div><div
-      class="sm-1"><span style="font-size: x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/tablets/index.shtml">Tablets</a></span>
-      </div><div class="sm-2"><span style="font-size: x-small;"><a
-      class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/search.shtml">Search
-      Tablets database</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/tablets/browse.shtml">Browse Tablets
-      database</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/tablets/TVII-1-1.shtml"><span
-      class="titleitalics">Tab. Vindol. II</span> Introductory chapters</a> , <a
-      class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/TVIIcat.shtml"><span
-      class="titleitalics">Tab. Vindol. II</span> Category introductions</a> , <a
-      class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/TVIIbib.shtml"><span
-      class="titleitalics">Tab. Vindol. II</span> Abbreviations and Bibliography</a> ,
-      <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/tablets/TVdigital.shtml">Digitising
-      Vindolanda</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/tablets/TVaddenda.shtml"><span
-      class="titleitalics">Tab. Vindol. I</span> and <span class="titleitalics">Tab.
-      Vindol. II</span> Addenda and Corrigenda</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/tablets/TVI.shtml">TVI Introductory Chapters</a>
-      , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/tablets/TVeditions.shtml">The print publication and
-      the online edition</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/tablets/print-friendly-search.shtml">Print-friendly
-      Tablet display</a></span></div><div class="sm-1"><span
-      style="font-size: x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/">Exhibition</a></span></div><div
-      class="sm-2"><span style="font-size: x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/setting.shtml">Vindolanda and its
-      setting</a></span></div><div class="sm-3"><span style="font-size:
-      x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/setting-1.shtml">Vindolanda and
-      Rome</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/setting-2.shtml">Excavations at
-      Vindolanda</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/setting-3.shtml">A guide to Vindolanda
-      </a></span></div><div class="sm-2"><span style="font-size:
-      x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/history.shtml">History of
-      Vindolanda</a></span></div><div class="sm-3"><span style="font-size:
-      x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/history-1.shtml">The conquest of northern
-      Britain</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/history-2.shtml">Vindolanda and its
-      northern context</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/history-3.shtml">Locations around
-      Vindolanda</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/history-4.shtml">Pre-Hadrianic
-      Vindolanda</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/history-5.shtml">Period 1</a> , <a
-      class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/history-6.shtml">Period
-      2</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/history-7.shtml">Period 3</a> , <a
-      class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/history-8.shtml">Period
-      4</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/history-9.shtml">Period
-      5</a></span></div><div class="sm-2"><span style="font-size:
-      x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/army.shtml">Forts and military
-      life</a></span></div><div class="sm-3"><span style="font-size:
-      x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/army-1.shtml">The fort plan</a> ,
-      <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/army-2.shtml">Soldier's lives - military
-      routines</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/army-3.shtml">Soldiers and
-      builders</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/army-4.shtml">Manufacture and
-      repair</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/army-5.shtml">Transport and
-      supplies</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/army-6.shtml">Diet and
-      dining</a></span></div><div class="sm-2"><span style="font-size:
-      x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/people.shtml">People</a></span></div><div
-      class="sm-3"><span style="font-size: x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/people-1.shtml">Vindolanda units and their
-      origins</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/people-2.shtml">Officers and men, families
-      and traders</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/people-3.shtml">The
-      Britons</a></span></div><div class="sm-2"><span style="font-size:
-      x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/docs.shtml">Introducing
-      Documents</a></span></div><div class="sm-3"><span style="font-size:
-      x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/docs-1.shtml">Writing tablets - forms and
-      technology</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/docs-2.shtml">Writing instruments and
-      equipment</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/docs-3.shtml">The use and formats of
-      writing tablets</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/docs-4.shtml">Other documents at
-      Vindolanda</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/docs-5.shtml">Clerks, Latin and
-      education</a></span></div><div class="sm-2"><span style="font-size:
-      x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/paleo.shtml">Reading the
-      tablets</a></span></div><div class="sm-3"><span style="font-size:
-      x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/paleo-1.shtml">Scripts at
-      Vindolanda</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/paleo-2.shtml">Chicken scratches - reading
-      the tablets </a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/paleo-3.shtml">Transcription
-      exercise</a></span></div><div class="sm-2"><span style="font-size:
-      x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/exhibition/about.shtml">About this
-      exhibition</a></span></div><div class="sm-1"><span style="font-size:
-      x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/reference/">Reference</a></span>
-      </div><div class="sm-2"><span style="font-size: x-small;"><a
-      class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/reference/names.shtml">Names</a> , <a
-      class="youarehere" href="http://vindolanda.csad.ox.ac.uk/reference/auxunits.shtml">Auxiliary
-      units</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/reference/ranks.shtml">Military ranks</a> ,
-      <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/reference/numerals.shtml">Numerals</a> , <a
-      class="youarehere" href="http://vindolanda.csad.ox.ac.uk/reference/dates.shtml">Dates and
-      events</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/reference/currency.shtml">Currency</a> , <a
-      class="youarehere" href="http://vindolanda.csad.ox.ac.uk/reference/measures.shtml">Weights
-      and measures</a></span></div><div class="sm-1"><span
-      style="font-size: x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/help/">Help</a></span> </div><div
-      class="sm-2"><span style="font-size: x-small;"><a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/help/nav.shtml">General information and site
-      navigation</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/help/tabguide-1.shtml">Tablets guide</a> , <a
-      class="youarehere" href="http://vindolanda.csad.ox.ac.uk/help/faq.shtml">Frequently Asked
-      Questions</a> , <a class="youarehere"
-      href="http://vindolanda.csad.ox.ac.uk/help/searchhelp.shtml">Searching the
-      website</a></span></div></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Latin"/>
+   <title type="text">Vindolanda Tablets Online</title>
+   <content type="html"><![CDATA[<a href="http://vindolanda.csad.ox.ac.uk/">Vindolanda Tablets Online</a><br /><blockquote class="tr_bq"><img alt="http://vindolanda.csad.ox.ac.uk/images/hometitle.jpg" class="decoded" src="http://vindolanda.csad.ox.ac.uk/images/hometitle.jpg" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">This online edition of the Vindolanda writing                tablets, excavated from the Roman fort at Vindolanda in northern                England, includes the following elements:</span><br />                          <span style="font-size: x-small;"><span class="inlinetitle"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/">Tablets</a></span>                - a searchable online edition of the tablets (volumes I and II)</span><br />             <span style="font-size: x-small;"><span class="inlinetitle"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/">Exhibition</a></span>                - an introduction to the tablets and their context</span><br />             <span style="font-size: x-small;"><span class="inlinetitle"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/reference/">Reference</a></span>                - a guide to aspects of the tablets’ content</span><br />             <span style="font-size: x-small;"><span class="inlinetitle"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/help/">Help</a></span>                - navigation and using the site</span><br />             <br />             <span style="font-size: x-small;">Also available are <a href="http://vindolanda.csad.ox.ac.uk/tablets/browse.shtml">highlights from                the tablets</a>.</span><br />             <br />             <span style="font-size: x-small;">The website is part of the <a href="http://www.csad.ox.ac.uk/Mellon">Script,                Image and the Culture of Writing in the Ancient World</a> programme,                supported by the <a href="http://www.mellon.org/">Andrew W. Mellon                Foundation</a>. It is a collaborative project between the <a href="http://www.csad.ox.ac.uk/">Centre                for the Study of Ancient Documents</a> and the <a href="http://www.oucs.ox.ac.uk/acdt/">Academic                Computing Development Team</a>, Oxford University.</span><br />             <br />             <span style="font-size: x-small;">Scholarly publications should refer to this site as:</span><br />             <span style="font-size: x-small;"> Vindolanda Tablets Online <a href="http://vindolanda.csad.ox.ac.uk/">http://vindolanda.csad.ox.ac.uk/</a></span><br /> <span style="font-size: x-small;">Editions of individual tablets may be cited in the form <a href="http://vindolanda.csad.ox.ac.uk/TVII-291" target="_parent">http://vindolanda.csad.ox.ac.uk/TVII-291</a> (<em>Tab. Vindol.</em> II 291) </span></blockquote><blockquote class="tr_bq"><div class="sm-1"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/index.shtml">Home</a></span>        </div><div class="sm-2"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/about.shtml">About this site</a>          , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/contact.shtml">Contact</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/copyright.shtml">Copyright</a>          , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/links.shtml">links</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/report_error.shtml">report          an error</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/news.shtml">News</a></span></div><div class="sm-1"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/index.shtml">Tablets</a></span> </div><div class="sm-2"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/search.shtml">Search          Tablets database</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/browse.shtml">Browse          Tablets database</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/TVII-1-1.shtml"><span class="titleitalics">Tab.          Vindol. II</span> Introductory chapters</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/TVIIcat.shtml"><span class="titleitalics">Tab.          Vindol. II</span> Category introductions</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/TVIIbib.shtml"><span class="titleitalics">Tab.          Vindol. II</span> Abbreviations and Bibliography</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/TVdigital.shtml">Digitising          Vindolanda</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/TVaddenda.shtml"><span class="titleitalics">Tab.          Vindol. I</span> and <span class="titleitalics">Tab. Vindol. II</span>          Addenda and Corrigenda</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/TVI.shtml">TVI          Introductory Chapters</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/TVeditions.shtml">The          print publication and the online edition</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/tablets/print-friendly-search.shtml">Print-friendly Tablet display</a></span></div><div class="sm-1"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/">Exhibition</a></span></div><div class="sm-2"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/setting.shtml">Vindolanda          and its setting</a></span></div><div class="sm-3"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/setting-1.shtml">Vindolanda          and Rome</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/setting-2.shtml">Excavations          at Vindolanda</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/setting-3.shtml">A          guide to Vindolanda </a></span></div><div class="sm-2"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/history.shtml">History          of Vindolanda</a></span></div><div class="sm-3"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/history-1.shtml">The          conquest of northern Britain</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/history-2.shtml">Vindolanda          and its northern context</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/history-3.shtml">Locations          around Vindolanda</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/history-4.shtml">Pre-Hadrianic          Vindolanda</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/history-5.shtml">Period          1</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/history-6.shtml">Period          2</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/history-7.shtml">Period          3</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/history-8.shtml">Period          4</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/history-9.shtml">Period          5</a></span></div><div class="sm-2"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/army.shtml">Forts          and military life</a></span></div><div class="sm-3"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/army-1.shtml">The          fort plan</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/army-2.shtml">Soldier's          lives - military routines</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/army-3.shtml">Soldiers          and builders</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/army-4.shtml">Manufacture and repair</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/army-5.shtml">Transport and supplies</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/army-6.shtml">Diet and dining</a></span></div><div class="sm-2"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/people.shtml">People</a></span></div><div class="sm-3"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/people-1.shtml">Vindolanda          units and their origins</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/people-2.shtml">Officers          and men, families and traders</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/people-3.shtml">The          Britons</a></span></div><div class="sm-2"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/docs.shtml">Introducing          Documents</a></span></div><div class="sm-3"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/docs-1.shtml">Writing          tablets - forms and technology</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/docs-2.shtml">Writing          instruments and equipment</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/docs-3.shtml">The          use and formats of writing tablets</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/docs-4.shtml">Other          documents at Vindolanda</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/docs-5.shtml">Clerks,          Latin and education</a></span></div><div class="sm-2"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/paleo.shtml">Reading          the tablets</a></span></div><div class="sm-3"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/paleo-1.shtml">Scripts          at Vindolanda</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/paleo-2.shtml">Chicken          scratches - reading the tablets </a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/paleo-3.shtml">Transcription          exercise</a></span></div><div class="sm-2"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/exhibition/about.shtml">About          this exhibition</a></span></div><div class="sm-1"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/reference/">Reference</a></span>        </div><div class="sm-2"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/reference/names.shtml">Names</a>          , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/reference/auxunits.shtml">Auxiliary units</a>          , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/reference/ranks.shtml">Military ranks</a>          , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/reference/numerals.shtml">Numerals</a>          , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/reference/dates.shtml">Dates and events</a>          , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/reference/currency.shtml">Currency</a>          , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/reference/measures.shtml">Weights and measures</a></span></div><div class="sm-1"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/help/">Help</a></span> </div><div class="sm-2"><span style="font-size: x-small;"><a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/help/nav.shtml">General information          and site navigation</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/help/tabguide-1.shtml">Tablets          guide</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/help/faq.shtml">Frequently Asked          Questions</a> , <a class="youarehere" href="http://vindolanda.csad.ox.ac.uk/help/searchhelp.shtml">Searching          the website</a></span></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2753343830936819905/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2753343830936819905/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/05/vindolanda-tablets-online.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2753343830936819905"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2753343830936819905"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/05/vindolanda-tablets-online.html"
          title="Vindolanda Tablets Online"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

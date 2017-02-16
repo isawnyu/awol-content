@@ -1,147 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-7794699882819104756</id>
-    <published>2015-03-27T08:02:00.000-04:00</published>
-    <updated>2015-03-27T08:02:50.945-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-7794699882819104756</id>
+   <published>2015-03-27T08:02:00.000-04:00</published>
+   <updated>2015-03-27T08:02:50.945-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
-    <title type="text">Open Access Journal: Cahier des thèmes transversaux ArScAn</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.mae.u-paris10.fr/arscan/Presentation-des-themes.html">Cahier des thèmes
-      transversaux ArScAn</a><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><img
-      alt="http://www.mae.u-paris10.fr/arscan/squelettes/Images/logoMAE.jpg"
-      src="http://www.mae.u-paris10.fr/arscan/squelettes/Images/logoMAE.jpg" height="66" width="200"
-      /></span> </blockquote><blockquote><span style="font-size:
-      x-small;">L’organisation en huit thèmes transversaux constitue une des originalités
-      scientifiques de l’UMR 7041 ArScAn. Élaborés collectivement, évolutifs, ces thèmes structurent
-      un travail commun au-delà des frontières chronologiques ou géographiques propres aux programmes
-      de recherche de chacune des équipes. Lieux de rencontre des membres de l’UMR, les thèmes sont
-      ouverts à tous. Tout chercheur peut y trouver matière à réflexion, parce que ces thèmes
-      couvrent des champs transversaux de l’archéologie, largement ouverts sur l’ensemble des
-      sciences humaines. La richesse des réponses permet l’interaction des traditions de recherche et
-      la dimension pluridisciplinaire des groupes de travail. Leur particularité réside dans la
-      conduite du débat et de la confrontation d’idées sur les faits, ce qui met en évidence le
-      caractère polysémique des questions traitées. </span><br /><span
-      style="font-size: x-small;">Dans cet esprit, des séminaires sont organisés à l’initiative de
-      plusieurs thèmes traitant de champs communs, alors examinés sous des angles différents. Par
-      ailleurs, plusieurs thèmes sont associés à des séminaires de DEA, alliant la volonté d’un
-      partage de connaissances et le souci d’une formation de haut niveau des étudiants par la
-      possibilité de participer directement aux raisonnements et à l’élaboration de données
-      nouvelles. L’état d’avancement des travaux est publié annuellement dans <a class=""
-      href="http://www.mae.u-paris10.fr/arscan/IMG/pdf/VolumeX.pdf">Les Cahiers des thèmes
-      transversaux</a> déposés à la <a class="spip_out" href="http://www.mae.u-paris10.fr/"
-      rel="external">Bibliothèque de la Maison René Ginouvès</a> et consultables sur
-      Internet.</span></blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><img alt="-" class="puce"
-      src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8"
-      />&nbsp;<a class="spip_in"
-      href="http://www.mae.u-paris10.fr/arscan/Theme-Transversal-I-Environnement.html">1 Thème
-      Environnement, sociétés, espaces</a>&nbsp;: les moyens d’action et les interactions
-      des communautés humaines avec leur milieu naturel.</span><br /><span
-      style="font-size: x-small;"> </span><span style="font-size:
-      x-small;">Responsables&nbsp;: Joëlle Burnouf (ArScAn - Archéologies environnementales)
-      et Brigitte Boissavit-Camus (ArScAn-THEMAM)</span><br /><span style="font-size:
-      x-small;"> </span><span style="font-size: x-small;"><img alt="-" class="puce"
-      src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8"
-      />&nbsp;<a class="spip_in"
-      href="http://www.mae.u-paris10.fr/arscan/Theme-Transversal-II-Evolution-des.html">2 Thème
-      Technique, économie et société</a>.</span><br /><span style="font-size:
-      x-small;"> </span><span style="font-size: x-small;">Responsables&nbsp;:
-      Pierre Ouzoulias (ArScAn - Archéologies environnementales), Julien Zurbach (ENS) et Claudine
-      Karlin (ArScAn - Ethnologie Préhistorique)</span><br /><span style="font-size:
-      x-small;"> </span><span style="font-size: x-small;"><img alt="-" class="puce"
-      src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8"
-      />&nbsp;<a class="spip_in"
-      href="http://www.mae.u-paris10.fr/arscan/Theme-Transversal-IV-Images-textes.html">3 Thème
-      Images, textes et sociétés</a>&nbsp;: textes et images conçus pour véhiculer un
-      message.</span><br /><span style="font-size: x-small;"> </span><span
-      style="font-size: x-small;">Responsables&nbsp;: Luc Bachelot (ArScAn – HAROC) et Claude
-      Pouzadoux (ArScAn - ESPRI)</span><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;"><img alt="-" class="puce"
-      src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8"
-      />&nbsp;<a class="spip_in"
-      href="http://www.mae.u-paris10.fr/arscan/Theme-Transversal-V-Identites.html">4 Thème
-      Identités culturelles</a>&nbsp;: processus cognitifs et modes de représentation
-      symbolique.</span><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;">Responsables&nbsp;: Anne-Marie
-      Guimier-Sorbets (ArScAn- Monde grec et Systèmes d’Information) et Corinne Debaine-Francfort
-      (ArScAn - Asie Centrale)</span><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;"><img alt="-" class="puce"
-      src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8"
-      />&nbsp;<a class="spip_in"
-      href="http://www.mae.u-paris10.fr/arscan/Theme-Transversal-VI-Cultes-rites.html">5 Thème
-      Cultes, rites et religions</a>&nbsp;: les moyens d’action sur les forces
-      surnaturelles.</span><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;">Responsables&nbsp;: Frédérique
-      Valentin (ArScAn - Ethnologie préhistorique), Katerina Chryssanthaki-Nagle (ArScAn - Monde
-      grec&nbsp;: Archéologie et systèmes d’information), Yvette Morizot (ArScAn - Monde
-      grec&nbsp;: Archéologie et systèmes d’information)</span><br /><span
-      style="font-size: x-small;"> </span><span style="font-size: x-small;"><img
-      alt="-" class="puce" src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif"
-      height="11" width="8" />&nbsp;<a class="spip_in"
-      href="http://www.mae.u-paris10.fr/arscan/Theme-transversal-VII-Outils-et.html">6 Thème
-      Outils et méthodes de la recherche</a>&nbsp;: les moyens d’action par et pour la
-      recherche archéologique</span><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;">Responsable&nbsp;: Virginie
-      Laniepce-Fromageot (ArScAn - Monde grec&nbsp;: Archéologie et systèmes
-      d’information)</span><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;"><img alt="-" class="puce"
-      src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8"
-      />&nbsp;<a class="spip_in"
-      href="http://www.mae.u-paris10.fr/arscan/Theme-Transversal-VIII-Bati-et.html">7 Thème Bâti
-      et habitat</a>&nbsp;: processus de construction et dynamique de l’espace
-      construit.</span><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;">Responsables&nbsp;: Odile Lebrun
-      (ArScAn - VEPMO) et Pierre-Marie Blanc (ArScAn - APOHR)</span><br /><span
-      style="font-size: x-small;"> </span><span style="font-size: x-small;"><img
-      alt="-" class="puce" src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif"
-      height="11" width="8" />&nbsp;<a class="spip_in"
-      href="http://www.mae.u-paris10.fr/arscan/Theme-transversal-VIII-Habitudes.html">8 Thème
-      Habitudes alimentaires&nbsp;: de l’acquisition à la
-      consommation</a></span><br /><span style="font-size: x-small;">
-      </span><span style="font-size: x-small;">Responsables&nbsp;: Hara Procopiou
-      (ArScAn-Protohistoire égéenne) et Cécile Michel (ArScAn-HAROC)</span><br /><span
-      style="font-size: x-small;"> </span><span style="font-size: x-small;">La
-      numérotation des thèmes correspond à l’ordre dans lequel ils ont été successivement mis en
-      place.</span></blockquote><blockquote class="tr_bq">&nbsp;<a class=""
-      href="http://www.mae.u-paris10.fr/arscan/IMG/pdf/VolumeX.pdf">Dernière mise en ligne du
-      Cahier des Thèmes Transversaux</a> </blockquote><div style="text-align:
-      center;"><br /></div><div style="text-align: center;"><span
-      style="font-size: small;"><span class="titol"><span class="text">See the full
-      <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></div><br /><br
-      /><!-- AddThis Button END -->]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
+   <title type="text">Open Access Journal: Cahier des thèmes transversaux ArScAn</title>
+   <content type="html"><![CDATA[<a href="http://www.mae.u-paris10.fr/arscan/Presentation-des-themes.html">Cahier des thèmes transversaux ArScAn</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;"><img alt="http://www.mae.u-paris10.fr/arscan/squelettes/Images/logoMAE.jpg" src="http://www.mae.u-paris10.fr/arscan/squelettes/Images/logoMAE.jpg" height="66" width="200" /></span> </blockquote><blockquote><span style="font-size: x-small;">L’organisation en huit thèmes transversaux constitue une des  originalités scientifiques de l’UMR 7041 ArScAn. Élaborés  collectivement, évolutifs, ces thèmes structurent un travail commun  au-delà des frontières chronologiques ou géographiques propres aux  programmes de recherche de chacune des équipes. Lieux de rencontre des  membres de l’UMR, les thèmes sont ouverts à tous. Tout chercheur peut y  trouver matière à réflexion, parce que ces thèmes couvrent des champs  transversaux de l’archéologie, largement ouverts sur l’ensemble des  sciences humaines. La richesse des réponses permet l’interaction des  traditions de recherche et la dimension pluridisciplinaire des groupes  de travail. Leur particularité réside dans la conduite du débat et de la  confrontation d’idées sur les faits, ce qui met en évidence le  caractère polysémique des questions traitées. </span><br /><span style="font-size: x-small;">Dans cet esprit, des séminaires sont organisés à l’initiative de  plusieurs thèmes traitant de champs communs, alors examinés sous des  angles différents. Par ailleurs, plusieurs thèmes sont associés à des  séminaires de DEA, alliant la volonté d’un partage de connaissances et  le souci d’une formation de haut niveau des étudiants par la possibilité  de participer directement aux raisonnements et à l’élaboration de  données nouvelles. L’état d’avancement des travaux est publié  annuellement dans <a class="" href="http://www.mae.u-paris10.fr/arscan/IMG/pdf/VolumeX.pdf">Les Cahiers des thèmes transversaux</a> déposés à la <a class="spip_out" href="http://www.mae.u-paris10.fr/" rel="external">Bibliothèque de la Maison René Ginouvès</a> et consultables sur Internet.</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><img alt="-" class="puce" src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8" />&nbsp;<a class="spip_in" href="http://www.mae.u-paris10.fr/arscan/Theme-Transversal-I-Environnement.html">1 Thème Environnement, sociétés, espaces</a>&nbsp;: les moyens d’action et les interactions des communautés humaines avec leur milieu naturel.</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">Responsables&nbsp;: Joëlle Burnouf (ArScAn - Archéologies environnementales) et Brigitte Boissavit-Camus (ArScAn-THEMAM)</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><img alt="-" class="puce" src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8" />&nbsp;<a class="spip_in" href="http://www.mae.u-paris10.fr/arscan/Theme-Transversal-II-Evolution-des.html">2 Thème Technique, économie et société</a>.</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">Responsables&nbsp;: Pierre Ouzoulias (ArScAn - Archéologies  environnementales), Julien Zurbach (ENS) et Claudine Karlin (ArScAn -  Ethnologie Préhistorique)</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><img alt="-" class="puce" src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8" />&nbsp;<a class="spip_in" href="http://www.mae.u-paris10.fr/arscan/Theme-Transversal-IV-Images-textes.html">3 Thème Images, textes et sociétés</a>&nbsp;: textes et images conçus pour véhiculer un message.</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">Responsables&nbsp;: Luc Bachelot (ArScAn – HAROC) et Claude Pouzadoux (ArScAn - ESPRI)</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><img alt="-" class="puce" src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8" />&nbsp;<a class="spip_in" href="http://www.mae.u-paris10.fr/arscan/Theme-Transversal-V-Identites.html">4 Thème Identités culturelles</a>&nbsp;: processus cognitifs et modes de représentation symbolique.</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">Responsables&nbsp;: Anne-Marie Guimier-Sorbets (ArScAn- Monde grec et  Systèmes d’Information) et Corinne Debaine-Francfort (ArScAn - Asie  Centrale)</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><img alt="-" class="puce" src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8" />&nbsp;<a class="spip_in" href="http://www.mae.u-paris10.fr/arscan/Theme-Transversal-VI-Cultes-rites.html">5 Thème Cultes, rites et religions</a>&nbsp;: les moyens d’action sur les forces surnaturelles.</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">Responsables&nbsp;: Frédérique Valentin (ArScAn - Ethnologie  préhistorique), Katerina Chryssanthaki-Nagle (ArScAn - Monde grec&nbsp;:  Archéologie et systèmes d’information), Yvette Morizot (ArScAn - Monde  grec&nbsp;: Archéologie et systèmes d’information)</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><img alt="-" class="puce" src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8" />&nbsp;<a class="spip_in" href="http://www.mae.u-paris10.fr/arscan/Theme-transversal-VII-Outils-et.html">6 Thème Outils et méthodes de la recherche</a>&nbsp;: les moyens d’action par et pour la recherche archéologique</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">Responsable&nbsp;: Virginie Laniepce-Fromageot (ArScAn - Monde grec&nbsp;: Archéologie et systèmes d’information)</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><img alt="-" class="puce" src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8" />&nbsp;<a class="spip_in" href="http://www.mae.u-paris10.fr/arscan/Theme-Transversal-VIII-Bati-et.html">7 Thème Bâti et habitat</a>&nbsp;: processus de construction et dynamique de l’espace construit.</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">Responsables&nbsp;: Odile Lebrun (ArScAn - VEPMO) et Pierre-Marie Blanc (ArScAn - APOHR)</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><img alt="-" class="puce" src="http://www.mae.u-paris10.fr/arscan/squelettes-dist/puce.gif" height="11" width="8" />&nbsp;<a class="spip_in" href="http://www.mae.u-paris10.fr/arscan/Theme-transversal-VIII-Habitudes.html">8 Thème Habitudes alimentaires&nbsp;: de l’acquisition à la consommation</a></span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">Responsables&nbsp;: Hara Procopiou (ArScAn-Protohistoire égéenne) et Cécile Michel (ArScAn-HAROC)</span><br /><span style="font-size: x-small;"> </span><span style="font-size: x-small;">La numérotation des thèmes correspond à l’ordre dans lequel ils ont été successivement mis en place.</span></blockquote><blockquote class="tr_bq">&nbsp;<a class="" href="http://www.mae.u-paris10.fr/arscan/IMG/pdf/VolumeX.pdf">Dernière mise en ligne du Cahier des Thèmes Transversaux</a> </blockquote><div style="text-align: center;"><br /></div><div style="text-align: center;"><span style="font-size: small;"><span class="titol"><span class="text">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></div><br /><br /><!-- AddThis Button END -->]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/7794699882819104756/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/7794699882819104756/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/01/open-access-journal-cahier-des-themes.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7794699882819104756"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/7794699882819104756"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/01/open-access-journal-cahier-des-themes.html"
          title="Open Access Journal: Cahier des thèmes transversaux ArScAn"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

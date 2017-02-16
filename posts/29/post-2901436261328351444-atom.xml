@@ -1,56 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2901436261328351444</id>
-    <published>2012-02-08T09:55:00.000-05:00</published>
-    <updated>2012-02-08T09:55:11.070-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2901436261328351444</id>
+   <published>2012-02-08T09:55:00.000-05:00</published>
+   <updated>2012-02-08T09:55:11.070-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Prosopography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
-    <title type="text">Back Online: Prosopographia Aegypti</title>
-    <content type="html"><![CDATA[<a href="http://www.ccer.nl/apps/prosopographia/prosopo.asp"><span
-      style="font-size: small;">Prosopographia Aegypti</span></a><br />Edited by
-      Jochen Hallof<br />Centre for Computer-aided Egyptological Research (CCER)<br
-      /><br /><div style="text-align: center;"><img
-      alt="http://www.ccer.nl/apps/prosopographia/names.gif"
-      src="http://www.ccer.nl/apps/prosopographia/names.gif" /> </div><br />In
-      September 2010 the <a
-      href="http://ancientworldonline.blogspot.com/2010/09/news-from-centre-for-computer-aided.html">CCER
-      announced</a> that it was closing. Today news came from Hans van den Berg that the <a
-      href="http://www.ccer.nl/apps/prosopographia/prosopo.asp"><i>Prosopographia
-      Aegypti</i> </a>is again accessible and searchable. We can only hope that other
-      components of the CCER web presence.&nbsp; For a sense of what the CCER used to offer, see
-      the partially archived versions at the Internet Archive's <a
-      href="http://web.archive.org/web/20090202112530/http://ccer.nl/">Wayback
-      Machine</a>.]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Prosopography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
+   <title type="text">Back Online: Prosopographia Aegypti</title>
+   <content type="html"><![CDATA[<a href="http://www.ccer.nl/apps/prosopographia/prosopo.asp"><span style="font-size: small;">Prosopographia Aegypti</span></a><br />Edited by Jochen Hallof<br />Centre for Computer-aided Egyptological Research (CCER)<br /><br /><div style="text-align: center;"><img alt="http://www.ccer.nl/apps/prosopographia/names.gif" src="http://www.ccer.nl/apps/prosopographia/names.gif" /> </div><br />In September 2010 the <a href="http://ancientworldonline.blogspot.com/2010/09/news-from-centre-for-computer-aided.html">CCER announced</a> that it was closing. Today news came from Hans van den Berg that the <a href="http://www.ccer.nl/apps/prosopographia/prosopo.asp"><i>Prosopographia Aegypti</i> </a>is again accessible and searchable.  We can only hope that other components of the CCER web presence.&nbsp; For a sense of what the CCER used to offer, see the partially archived versions at the Internet Archive's <a href="http://web.archive.org/web/20090202112530/http://ccer.nl/">Wayback Machine</a>.]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2901436261328351444/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2901436261328351444/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/02/back-online-prosopographia-aegypti.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2901436261328351444"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2901436261328351444"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/02/back-online-prosopographia-aegypti.html"
          title="Back Online: Prosopographia Aegypti"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

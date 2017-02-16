@@ -1,227 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3288740007547755725</id>
-    <published>2015-04-19T20:05:00.000-04:00</published>
-    <updated>2015-04-19T20:06:58.983-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3288740007547755725</id>
+   <published>2016-04-18T10:42:00.000-04:00</published>
+   <updated>2016-04-18T10:43:13.579-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Germany"/>
-    <title type="text">Open Access Journal: Forum Kritische Archäologie</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 24
-      October 2913, updated 19 April 2015]</span><br /><br /><a
-      href="http://www.kritischearchaeologie.de/fka">Forum Kritische Archäologie</a><br
-      />ISSN: 2194-346X<br /><blockquote class="tr_bq"><span style="font-size:
-      x-small;">Das Interesse an den politischen Dimensionen der Archäologie hat global stark
-      zugenommen, was auch zur Infragestellung von Wahrheitsbehauptungen der archäologischen
-      Forschung selbst führte. Auseinandersetzungen dieser Art reichen von Forderungen der
-      Rückführung von Kulturgütern bis hin zur Frage, wer über die Vergangenheit Anderer forschen,
-      reden oder schreiben darf oder welches Verhältnis wir zu den “Anderen” der Vergangenheit
-      entwickeln können und sollten. Man kann heute kaum von einer ethisch fundierten,
-      gesellschaftlich verantwortlichen Archäologie reden, wenn sie sich nicht mit diesen Themen
-      beschäftigt.</span><br /><span style="font-size: x-small;"><br
-      /></span><span style="font-size: x-small;">Forum Kritische Archäologie hat zum
-      Ziel, die Auseinandersetzung mit solchen Fragen im deutschsprachigen Raum zu fördern. [<a
-      href="http://www.kritischearchaeologie.de/index.php/fka/about/editorialPolicies#focusAndScope"
-      target="_self">weiter lesen</a>]</span></blockquote><blockquote
-      class="tr_bq"><div id="header"><div
-      id="headerTitle"></div></div><div id="main"><div id="content">
-      <span style="font-size: x-small;"><strong>Vierte Ausgabe
-      </strong>(2015)</span><br /> <span style="font-size: x-small;">[<a
-      href="http://www.kritischearchaeologie.de/fka/issue/view/6" target="_self">zur Ausgabe Forum
-      Kritische Archäologie 4 (2015)</a>]</span><br /> <span style="font-size:
-      x-small;">darin:</span><br /> <span style="font-size:
-      x-small;">Streitraum: Das Leipziger Völkerschlacht-Reenactment</span><br />
-      <span style="font-size: x-small;"><em>Bertram Haude</em><br /> Krieg
-      als Hobby? Das Leipziger Völkerschlacht-Reenactment und der Versuch einer
-      Entgegnung</span><br /> <span style="font-size: x-small;"><em>Stefanie
-      Samida </em><br /> Krieg(s)|spiele(n)</span><br /> <span
-      style="font-size: x-small;"><em>Wolfgang Hochbruck</em><br /> Eine Replik
-      auf Bertram Haudes Essay "Krieg als Hobby?"</span><br /> <span style="font-size:
-      x-small;"><em>Tom Stern</em><br /> Reenactment, Archäologie und Film – Ein
-      Seitenblick auf Bertram Haudes Essay "Krieg als Hobby?"</span><br /> <span
-      style="font-size: x-small;"><a
-      href="http://www.kritischearchaeologie.de/repositorium/fka/Forum_Kritische_Archaeologie_2015_4_Reader_Streitraum_Reenactment.pdf"
-      target="_blank">Streitraum 'Reenactment' als Reader</a></span><br />
-      <br /> <span style="font-size:
-      x-small;">#########################################</span><br /> <span
-      style="font-size: x-small;"><strong>Dritte Ausgabe
-      </strong>(2014)</span><br /> <span style="font-size: x-small;">[<a
-      href="http://www.kritischearchaeologie.de/fka/issue/view/5" target="_self">zur Ausgabe Forum
-      Kritische Archäologie 3 (2014)</a>]</span><br /> <span style="font-size:
-      x-small;">darin:</span><br /> <span style="font-size:
-      x-small;">Themenheft: Zeichen der Zeit. Archäologische Perspektiven auf Zeiterfahrung,
-      Zeitpraktiken und Zeitkonzepte</span><br /> <span style="font-size:
-      x-small;">Herausgegeben von Sabine Reinhold und Kerstin P. Hofmann</span><br />
-      <span style="font-size: x-small;"><em>Kerstin P. Hofmann und Sabine
-      Reinhold</em><br /> ZeitSpurenSuchen. Eine Einleitung</span><br />
-      <span style="font-size: x-small;"><em>Ulrike Sommer</em><br /> Zeit,
-      Erinnerung und Geschichte</span><br /> <span style="font-size:
-      x-small;"><em>Ulf Ickerodt</em><br /> Gleichzeitiges und Ungleichzeitiges,
-      Lebensrhythmen und Eigenzeiten in Vergangenheit und Gegenwart – Bemerkungen zur
-      Unbestimmtheitsrelation von archäologischen Zeitbeobachtungen</span><br /> <span
-      style="font-size: x-small;"><em>Undine Stabrey</em><br /> Archäologie als
-      Zeitmaschine: Zur Temporalisierung von Dingen</span><br /> <span
-      style="font-size: x-small;"><em>Eva Rosenstock</em><br /> Zyklische
-      Abläufe als Hilfsmittel zur Deutung von Zeit in der Archäologie</span><br />
-      <span style="font-size: x-small;"><em>Stefanie Samida</em><br />
-      Moderne Zeitreisen oder Die performative Aneignung vergangener Lebenswelten</span><br
-      /> <span style="font-size: x-small;"><a
-      href="http://www.kritischearchaeologie.de/repositorium/fka/Forum_Kritische_Archaeologie_2014_3_Reader_Zeit.pdf"
-      target="_blank">Themensheft 'Zeichen der Zeit' dieser Ausgabe als
-      Reader</a></span><br /> <span style="font-size: x-small;">Streitraum:
-      Ausstellungszensur</span><br /> <span style="font-size:
-      x-small;"><em>Stefan Maneval</em> Niemand hat die Absicht, einen Aufsatz zu
-      zensieren. Archäologie, Politik und Zensur im Zusammenhang mit der Ausstellung "Roads of
-      Arabia. Archäologische Schätze aus Saudi-Arabien"</span><br /> <span
-      style="font-size: x-small;"><em>Dominik Bonatz</em> Archäologie, Politik und
-      Zensur im Zusammenhang mit der Ausstellung 'Roads of Arabia'</span><br /> <span
-      style="font-size: x-small;"><em>Susanne Bocher</em> Museen und ethische
-      Grundsätze</span><br /> <span style="font-size: x-small;"><em>Mamoun
-      Fansa</em>Schuld haben die Politik und die Geschichte</span><br /> <span
-      style="font-size: x-small;"><a
-      href="http://www.kritischearchaeologie.de/repositorium/fka/Forum_Kritische_Archaeologie_2014_3_Reader_Maneval.pdf"
-      target="_blank">Streitraum 'Ausstellungszensur' als Reader</a></span><br
-      /> <span style="font-size: x-small;">Streitraum: Entangled</span><br />
-      <span style="font-size: x-small;"><em>Susan Pollock, Reinhard Bernbeck, Carolin
-      Jauß, Johannes Greger, Constance von<br /> Rüden, Stefan Schreiber</em>Entangled
-      Discussions: Talking with Ian Hodder About His Book Entangled</span><br /> <span
-      style="font-size: x-small;"><em>Ian Hodder</em><br />Dis-entangling
-      Entanglement: A Response to my Critics</span><br /> <span style="font-size:
-      x-small;"><a
-      href="http://www.kritischearchaeologie.de/repositorium/fka/Forum_Kritische_Archaeologie_2014_3_Reader_Hodder.pdf"
-      target="_blank">Streitraum 'Hodder: Entangled' als Reader</a></span><br />
-      <br /> <br /> <span style="font-size:
-      x-small;">#########################################</span><br /> <span
-      style="font-size: x-small;"><strong>Zweite Ausgabe
-      </strong>(2013)</span><br /><span style="font-size: x-small;">[<a
-      href="http://www.kritischearchaeologie.de/fka/issue/view/4" target="_self">zur Ausgabe Forum
-      Kritische Archäologie 2 (2013)</a>]</span><br /><span style="font-size:
-      x-small;">darin:</span><br /> <span style="font-size:
-      x-small;">Forschungsbeiträge</span><br /><span style="font-size:
-      x-small;"><em>Petra Wodtke</em>Archäologie als Kulturwissenschaft.<em>
-      </em></span><br /><div style="margin-bottom: 0cm;"><span
-      style="font-size: x-small;"><em>Leila Papoli Yazdi et al.</em><br
-      />Uncomfortable, irregular, anarchist: an archaeology of repetition. Archaeological
-      investigations in the Faculty of Art and Architecture, Bu Ali Sina University (Hamadan,
-      Iran).</span></div><div style="margin-bottom: 0cm;"><span
-      style="font-size: x-small;"><em>Stefan Schreiber</em><br />Archäologie der
-      Aneignung. Zum Umgang mit Dingen aus kulturfremden Kontexten.</span></div><div
-      style="margin-bottom: 0cm;"><br /></div><span style="font-size:
-      x-small;">Streitraum</span><br /> <div style="margin-bottom:
-      0cm;"><span style="font-size: x-small;"><span lang="de-DE"><span
-      lang="de-DE"><em><span lang="de-DE"><span lang="de-DE"><em>Dawid
-      Kobiałka</em></span></span></em>On (very) new and (extremely) critical
-      archaeologies, or, why one may remain forever eighteen years behind the truly
-      new.</span></span></span></div><div style="margin-bottom:
-      0cm;"><span style="font-size: x-small;"><span lang="de-DE"><span
-      lang="de-DE"><span lang="de-DE"><span lang="de-DE"><em>Reinhard Bernbeck
-      </em></span></span><br />In Defense of "the New": a Response to Dawid
-      Kobiałka.</span></span></span></div><br /><div
-      style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span
-      lang="de-DE"><span lang="de-DE">[<a
-      href="http://www.kritischearchaeologie.de/repositorium/fka/Forum_Kritische_Archaeologie_2013_2.pdf"
-      target="_blank" title="Forum Kritische Archäologie 2 (2013)">Gesamte Ausgabe 2 (2013) als
-      Reader</a>] </span></span></span></div><div
-      style="margin-bottom: 0cm;"><br /></div><br /><span style="font-size:
-      x-small;">#########################################</span><br /><br
-      /><span style="font-size: x-small;"><strong>Erste Ausgabe
-      </strong>(2012)</span><br /><span style="font-size: x-small;">[<a
-      href="http://www.kritischearchaeologie.de/fka/issue/view/2" target="_self">zur Ausgabe Forum
-      Kritische Archäologie 1 (2012)</a>]<br />(<span>Diskussion: Was ist eine
-      kritische Archäologie</span>)</span><br /><span style="font-size:
-      x-small;">darin:</span><br /><div style="margin-bottom: 0cm;"><span
-      style="font-size: x-small;"><span lang="de-DE"><em>Alexander
-      Herrera</em></span><span lang="de-DE">Ein Kurzbeitrag zur kritischen
-      Archäologie aus Lateinamerika</span></span></div><span style="font-size:
-      x-small;"><em>Yannis Hamilakis</em><br />"...Not being at home in one's
-      home": ontology, temporality, critique</span><br /><span style="font-size:
-      x-small;"><em>Leila Papoli Yazdi &amp; Omran Garazhian</em><br
-      />Archaeology as an imported commodity: a critical approach to the position of archaeology
-      in Iran</span><br /><span style="font-size: x-small;"><span
-      lang="de-DE"><em>Hans Peter Hahn</em><br />Archäologie und Ethnologie:
-      Welche gemeinsamen Grundlagen?</span></span><br /><span style="font-size:
-      x-small;"><span lang="de-DE"><em>Matthias Jung</em></span><span
-      style="color: black;"><span lang="de-DE">Was soll und was kann eine "kritische
-      Archäologie" leisten?</span></span></span><br /><span
-      style="font-size: x-small;"><span lang="de-DE">Stefan Burmeister</span><span
-      lang="de-DE">Nach dem Post-</span></span><br /><span style="font-size:
-      x-small;"><em><span lang="de-DE">Constance von
-      Rüden</span></em><span lang="de-DE">Der Tigersprung ins Vergangene - ein
-      Plädoyer für eine Kritische Archäologie</span></span><br /><span
-      style="font-size: x-small;"><em>Meredith S. Chesson</em><br />Achieving an
-      Angle of Repose? Ethics and Engagement in Critical Archaeology</span><br /><span
-      style="font-size: x-small;"><em>Raphael Greenberg</em><br />Critical
-      archaeology in practice</span><br /><span style="font-size:
-      x-small;"><em>Randall H. McGuire</em><br />Critical archaeology and
-      praxis. [deutsche Version: Kritische Archäologie und Praxis<span
-      lang="de-DE">]</span></span><br /><span style="font-size:
-      x-small;"><em>Claire Smith</em><br />The benefits and risks of critical
-      archaeology</span><br /><span style="font-size: x-small;"><em><span
-      lang="de-DE">Cornelius Holtorf</span></em><span lang="de-DE">Kritische
-      Archäologie ist angewandte Archäologie</span></span><br /><span
-      style="font-size: x-small;"><span lang="de-DE"><em>Stefan
-      Altekamp</em></span><span lang="de-DE">Kritische Klassische
-      Archäologie?</span></span><br /><span style="font-size:
-      x-small;"><em><span lang="de-DE">Julia Budka</span></em><span
-      lang="de-DE">Zur Notwendigkeit einer kritischen Archäologie – einige Bemerkungen aus
-      ägyptologischer Perspektive</span></span><br /><span style="font-size:
-      x-small;"><em><span lang="de-DE">Beat Schweizer</span></em><span
-      lang="de-DE">Kritische Archäologie(n). Zwei oder drei Dinge, die ich davon
-      weiß</span></span><br /><span style="font-size:
-      x-small;"><em>Carolyn Nakamura</em><br />Archaeology and the capacity to
-      aspire <span lang="de-DE">[deutsche Version</span><span lang="de-DE">:
-      Archäologie und die Fähigkeit des Bestrebens</span><span
-      lang="de-DE">]</span></span><br /><span style="font-size:
-      x-small;"><em>Ömür Harmanşah</em><br />Critical archaeologies for
-      political engagements with place</span><br /><span style="font-size:
-      x-small;"><em>Jason De León</em><br /><span style="color:
-      #222222;">Victor, archaeology of the contemporary, and the politics of researching
-      unauthorized border crossing: a brief and personal history of the undocumented migration
-      project</span></span><br /><span style="font-size: x-small;"><span
-      lang="de-DE"><em>Maria Theresia Starzmann</em></span><span
-      lang="de-DE">Kritische Archäologie: Gedanken zu einer undisziplinären und dekolonialen
-      Wissenschaft</span></span><br /><span style="font-size:
-      x-small;"><em>Alfredo González-Ruibal</em><br /><span
-      lang="en-GB">Against post-politics: a critical archaeology for the
-      21</span><sup><span lang="en-GB">st</span></sup><span
-      lang="en-GB"> century</span></span><br /><span style="font-size:
-      x-small;">[<a
-      href="http://www.kritischearchaeologie.de/repositorium/fka/Forum_Kritische_Archaeologie_2012_1.pdf"
-      target="_blank" title="Forum Kritische Archäologie 1 (2012)">Gesamte Ausgabe 1 (2012) als
-      Reader</a>. Diskussion: Was ist eine kritische
-      Archäologie]</span></div></div><table><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td
-      colspan="2"></td></tr><tr><td
-      colspan="2"></td></tr><tr></tr><tr></tr><tr><td></td></tr><tr><td></td></tr><tr></tr><tr></tr><tr><td></td></tr><tr></tr><tr></tr></tbody></table></blockquote><div
-      style="text-align: center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a> </div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Germany"/>
+   <title type="text">Open Access Journal: Forum Kritische Archäologie</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 24 October 2013, updated 18 April 2016]</span><br /><br /><a href="http://www.kritischearchaeologie.de/">Forum Kritische Archäologie</a><br />ISSN: 2194-346X<br /><blockquote class="tr_bq"><span style="font-size: x-small;">Das Interesse an den politischen Dimensionen der Archäologie hat  global stark zugenommen, was auch zur Infragestellung von  Wahrheitsbehauptungen der archäologischen Forschung selbst führte.  Auseinandersetzungen dieser Art reichen von Forderungen der Rückführung  von Kulturgütern bis hin zur Frage, wer über die Vergangenheit Anderer  forschen, reden oder schreiben darf oder welches Verhältnis wir zu den  “Anderen” der Vergangenheit entwickeln können und sollten. Man kann  heute kaum von einer ethisch fundierten, gesellschaftlich  verantwortlichen Archäologie reden, wenn sie sich nicht mit diesen  Themen beschäftigt.</span><br /><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;">Forum Kritische Archäologie hat zum Ziel, die Auseinandersetzung mit solchen Fragen im deutschsprachigen Raum zu fördern. [<a href="http://www.kritischearchaeologie.de/index.php/fka/about/editorialPolicies#focusAndScope" target="_self">weiter lesen</a>]</span></blockquote><blockquote class="tr_bq"> <span style="font-size: x-small;">Interest in the political dimensions of archaeology has grown  dramatically around the world. One of the outcomes has been a  questioning of archaeological truth claims, which in turn has led to  demands for the return of cultural property, questioning who may  research, speak and write about the past of Others, and considerations  of what kinds of relations we can and should develop to past Others.  Today it is scarcely possible to speak about an ethically based,  socially responsible archaeology without engaging with these themes. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">  </span><span style="font-size: x-small;">Forum Kritische Archäologie has as its goal to further discussions  of these and related issues, especially within the framework of the  German-speaking archaeological community.  [<a class="textlink" href="http://www.kritischearchaeologie.de/en/policies.php">read more</a>]  </span></blockquote><blockquote class="tr_bq"><div id="menue"><div id="menue">    <span style="font-size: x-small;"><a class="textlink" href="http://www.kritischearchaeologie.de/#fka5">5. Ausgabe (2016)</a></span>      <span style="font-size: x-small;"><a class="textlink" href="http://www.kritischearchaeologie.de/#fka4">4. Ausgabe (2015). u.a. Streitraum: Das Leipziger Völkerschlacht-Reenactment</a></span>      <span style="font-size: x-small;"><a class="textlink" href="http://www.kritischearchaeologie.de/#fka3">3. Ausgabe (2014). u.a. Themenheft: Zeichen der Zeit.</a></span>      <span style="font-size: x-small;"><a class="textlink" href="http://www.kritischearchaeologie.de/#fka2">2. Ausgabe (2013). u.a. Streitraum: Ausstellungszensur.</a></span>      <span style="font-size: x-small;"><a class="textlink" href="http://www.kritischearchaeologie.de/#fka1">1. Ausgabe (2012). Themenheft: Was ist eine kritische Archäologie?</a></span><br />   </div></div></blockquote><div style="text-align: center;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a> </div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3288740007547755725/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3288740007547755725/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/06/new-open-access-journal-forum-kritische.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3288740007547755725"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3288740007547755725"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/06/new-open-access-journal-forum-kritische.html"
          title="Open Access Journal: Forum Kritische Archäologie"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

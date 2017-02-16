@@ -1,84 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1086093411215893842</id>
-    <published>2015-01-01T08:27:00.000-05:00</published>
-    <updated>2015-01-01T08:27:49.670-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1086093411215893842</id>
+   <published>2015-01-01T08:27:00.000-05:00</published>
+   <updated>2015-01-01T08:27:49.670-05:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Atlas"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Maps"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Atlas"/>
-    <title type="text">Atlas des Sites du PRoche-Orient (ASPRO)</title>
-    <content type="html"><![CDATA[<a
-      href="http://www.mom.fr/ressources-numeriques/bases-de-donnees/ASPRO">Atlas des Sites du
-      PRoche-Orient (ASPRO)</a><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><strong>L’ Atlas des Sites du Proche-Orient
-      (ASPRO)</strong> se présente comme un répertoire analytique de près de 2 000 sites
-      occupés entre 14 000 et 5 700 BP (environ 14 000 - 4 500 av. J.-C.) sur un territoire qui
-      s’étend du Sinaï au Turkménistan et de l’Anatolie au golfe Arabo-Persique.<br /><a
-      href="http://www.mom.fr/Aspro/login.jsp" target="_blank">Accès à la base de
-      données</a></span><br /><span style="font-size: x-small;">Publié en
-      1994 sous une forme papier aujourd’hui épuisée (Publications de la Maison de l’Orient),
-      l’ensemble de la base de données a été mise en ligne sur le Web et un chantier a été ouvert
-      pour l’actualisation et le développement de cette base.</span><br /><span
-      style="font-size: x-small;"><img height="85"
-      src="http://www.mom.fr/sites/mom.fr/files/img/Ressources_numeriques_et_outils/Base_de_donnees/ASPRO/com.esrifrance.kogis.server-bec9c-a2504.png"
-      style="float: right;" width="150" /></span><br /><span style="font-size:
-      x-small;">Celle-ci est proposée sous forme d’une interface web cartographique, développée
-      avec la société <a href="http://www.esrifrance.fr/"
-      target="_blank">ESRI-France</a>, qui permet différents types de requêtes
-      :</span><br /><ul><li><span style="font-size: x-small;">affichage
-      des sites sur fond de carte en relief</span></li><li><span
-      style="font-size: x-small;">recherche par régions avec possibilité de zoom jusqu’au 1/500
-      000e</span></li><li><span style="font-size: x-small;">différenciation
-      entre sites prospectés, sondés, fouillés à partir du
-      1/millionième</span></li><li><span style="font-size:
-      x-small;">interrogation des informations disponibles pour chaque site : fiche descriptive,
-      références bibliographiques, informations sur la période, descriptif par niveaux
-      stratigraphiques, datations 14C disponibles</span></li><li><span
-      style="font-size: x-small;">construction de cartes par domaines biogéographiques et
-      requêtes, ex. : sélection de sites par périodespour un domaine
-      donné</span></li><li><span style="font-size: x-small;">mesures de
-      distances</span></li><li><span style="font-size: x-small;">impression
-      des cartes sur les résultats des requêtes</span></li></ul><span
-      style="font-size: x-small;">Le développement de la base de données sur les sites, notamment
-      son élargissement à Chypre, au Caucase et au sud de la Péninsule Arabique, se poursuit dans le
-      cadre du chantier avec l’aide d’une équipe
-      internationale.</span></blockquote><div style="text-align: center;">From
-      Ressources en ligne, <a href="http://www.mom.fr/">Maison de l'Orient et de la
-      Méditerranée, Lyon</a><br />And see AWOL's <a
-      href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup
-      of Resources on Ancient Geography</a>&nbsp; </div><br />]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Maps"/>
+   <title type="text">Atlas des Sites du PRoche-Orient (ASPRO)</title>
+   <content type="html"><![CDATA[<a href="http://www.mom.fr/ressources-numeriques/bases-de-donnees/ASPRO">Atlas des Sites du PRoche-Orient (ASPRO)</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;"><strong>L’ Atlas des Sites du Proche-Orient (ASPRO)</strong> se  présente comme un répertoire analytique de près de 2 000 sites occupés  entre 14 000 et 5 700 BP (environ 14 000 - 4 500 av. J.-C.) sur un  territoire qui s’étend du Sinaï au Turkménistan et de l’Anatolie au  golfe Arabo-Persique.<br /><a href="http://www.mom.fr/Aspro/login.jsp" target="_blank">Accès à la base de données</a></span><br /><span style="font-size: x-small;">Publié  en 1994 sous une forme papier aujourd’hui épuisée (Publications de la  Maison de l’Orient), l’ensemble de la base de données a été mise en  ligne sur le Web et un chantier a été ouvert pour l’actualisation et le  développement de cette base.</span><br /><span style="font-size: x-small;"><img height="85" src="http://www.mom.fr/sites/mom.fr/files/img/Ressources_numeriques_et_outils/Base_de_donnees/ASPRO/com.esrifrance.kogis.server-bec9c-a2504.png" style="float: right;" width="150" /></span><br /><span style="font-size: x-small;">Celle-ci est proposée sous forme d’une interface web cartographique, développée avec la société <a href="http://www.esrifrance.fr/" target="_blank">ESRI-France</a>, qui permet différents types de requêtes :</span><br /><ul><li><span style="font-size: x-small;">affichage des sites sur fond de carte en relief</span></li><li><span style="font-size: x-small;">recherche par régions avec possibilité de zoom jusqu’au 1/500 000e</span></li><li><span style="font-size: x-small;">différenciation entre sites prospectés, sondés, fouillés à partir du 1/millionième</span></li><li><span style="font-size: x-small;">interrogation  des informations disponibles pour chaque site : fiche descriptive,  références bibliographiques, informations sur la période, descriptif par  niveaux stratigraphiques, datations 14C disponibles</span></li><li><span style="font-size: x-small;">construction de cartes par domaines biogéographiques et requêtes, ex. : sélection de sites par périodespour un domaine donné</span></li><li><span style="font-size: x-small;">mesures de distances</span></li><li><span style="font-size: x-small;">impression des cartes sur les résultats des requêtes</span></li></ul><span style="font-size: x-small;">Le  développement de la base de données sur les sites, notamment son  élargissement à Chypre, au Caucase et au sud de la Péninsule Arabique,  se poursuit dans le cadre du chantier avec l’aide d’une équipe  internationale.</span></blockquote><div style="text-align: center;">From Ressources en ligne, <a href="http://www.mom.fr/">Maison de l'Orient et de la Méditerranée, Lyon</a><br />And see AWOL's <a href="http://ancientworldonline.blogspot.com/2012/09/roundup-of-resources-on-ancient.html">Roundup of Resources on Ancient Geography</a>&nbsp; </div><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1086093411215893842/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1086093411215893842/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/02/online-atlas-des-sites-du-proche-orient.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1086093411215893842"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1086093411215893842"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/02/online-atlas-des-sites-du-proche-orient.html"
          title="Atlas des Sites du PRoche-Orient (ASPRO)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

@@ -1,135 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4377900343070843182</id>
-    <published>2015-02-23T11:48:00.000-05:00</published>
-    <updated>2015-02-23T11:49:56.509-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4377900343070843182</id>
+   <published>2015-02-23T11:48:00.000-05:00</published>
+   <updated>2015-02-23T11:49:56.509-05:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Photography"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
-    <title type="text">Das Digitale Schott-Archiv (DSA): Altägyptische Monumente und Antiken in
-      Photographien des frühen 20. Jahrhunderts </title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in
-      AWOL&nbsp; 9 June 2010, updated (corrected links) 23 February 2015] </span><br
-      />Have you taken the <a
-      href="http://ancientworldonline.blogspot.com/2015/02/ancient-world-online-user-survey.html">AWOL
-      User Survey</a>?<br /><br /><a
-      href="http://www.schott.uni-trier.de/index.php">Das Digitale Schott-Archiv (DSA):
-      Altägyptische Monumente und Antiken in Photographien des frühen 20.
-      Jahrhunderts&nbsp;</a><br /><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><img
-      alt="http://www.schott.uni-trier.de/siegfried-schott.jpg" class="decoded"
-      src="http://www.schott.uni-trier.de/siegfried-schott.jpg" height="200" width="141" />
-      </span><br /><h3><span style="font-family: inherit;"><span
-      style="font-size: x-small;">Einführung und Hinweise zur
-      Datenbank</span></span></h3><span style="font-family: inherit;">
-      </span><span style="font-family: inherit;"><span style="font-size:
-      x-small;">Das im Rahmen eines zweijährigen DFG-Projektes erstellte DIGITALE SCHOTT ARCHIV
-      umfasst knapp 8000 einmalige Schwarz/Weiss-Fotografien bedeutender Denkmäler und
-      archäologischer Stätten Ägyptens.</span></span><br /><span
-      style="font-family: inherit;"><span style="font-size: x-small;"><br />Das Archiv
-      ist nun erstmals frei im Internet zugänglich. Eine mit dem Bildarchiv verknüpfte Datenbank
-      ermöglicht eine gezielte Bildmaterial-Suche, etwa zu bestimmten Orten oder
-      Schott-Photo-Nummern. Die Nutzung dieser Datenbank und die Einsichtnahme in das Archiv sind
-      kostenfrei.</span></span><br /><br /><span style="font-family:
-      inherit;"> </span><span style="font-family: inherit;"><span style="font-size:
-      x-small;">Die DSA-Datenbank befindet sich noch in der Konsolidierungsphase. Hinweise,
-      Anregungen, Verbesserungsvorschläge u. ä. bitte an die e-mail Adresse:
-      w2schott@uni-trier.de</span></span><br /><br /><span
-      style="font-family: inherit;"></span><span style="font-family:
-      inherit;"><span style="font-size: x-small;"><b>Benutzung der
-      Datenbank</b>Wählen Sie im Menü auf der linken Seite den Eintrag
-      <b>Datenbanksuche</b> aus, um bestimmte Fotografien aus dem Archiv aufzurufen. Die
-      Felder des nun erscheinenden Suchformulars sind selbsterklärend. Wenn Sie mit dem Cursor das
-      jeweilige Eingabefeld berühren, wird ein kurzer Informationstext zum Suchfeld angezeigt. Unter
-      „Objekt“ kann z. B. auch nach Besitzernamen (Gräber, Papyri) oder Aufbewahrungsorten gesucht
-      werden. Die Namen der Grabbesitzer richten sich nach <span style="color:
-      red;"><i>B. Porter/R.L.B. Moss, „Topographical Bibliography of Ancient Egyptian
-      Hieroglyphic Texts, Reliefs, and Paintings“ (Oxford: Griffith
-      Institute).</i></span></span></span><br /><span
-      style="font-family: inherit;"><span style="font-size: x-small;"><br
-      />Textfelder, wie z. B. "Ort" oder "Objekt" werden nach der eingegeben Buchstabenfolge
-      komplett abgesucht, als Treffer werden alle Datensätze angezeigt, in denen diese Kombination an
-      beliebiger Stelle vorkommt: Eine Suche nach "art" ergibt bspw. Treffer mit
-      "G<b>art</b>en", "Block mit K<b>art</b>usche"
-      usw.</span></span><br /><span style="font-family: inherit;"><span
-      style="font-size: x-small;"><br />Die von Ihnen eingegebene Buchstabenfolge wird vom
-      Programm als Komplettbegriff interpretiert, Leerzeichen gelten nicht als Trenner zwischen
-      mehreren Begriffen; "Kartusche Ramses" findet also nur Eintragungen, in denen auch "Kartusche
-      Ramses" in genau dieser Zeichenfolge steht. Verwenden Sie daher möglichst kurze und wenig
-      komplexe Suchbegriffe bei der Eingrenzung des Bildmaterials.<br />Die Suche nach Orten
-      kann über das Roll-up im entsprechenden Feld erfolgen.</span></span><br
-      /><br /><span style="font-family: inherit;"></span><span
-      style="font-family: inherit;"><span style="font-size: x-small;">Nachdem Sie eine
-      <b>Suchabfrage</b> gestartet haben, werden die Treffer in einer listenartigen
-      Übersicht angezeigt; dabei sind jeweils 15 Suchergebnisse pro Seite zu sehen. Sie gelangen zu
-      den nächsten (bzw. vorigen) Datensätzen Ihrer Suche, indem Sie im linken Menü auf
-      <b>next</b> bzw. <b>prev</b> klicken.</span></span><br
-      /><span style="font-family: inherit;"> </span><span style="font-family:
-      inherit;"><span style="font-size: x-small;">Um einen <b>Datensatz im
-      Detail</b> anzuzeigen, klicken Sie auf die unterstrichene Zahl (ID) vor dem Datensatz,
-      dort ist dann auch die Abbildung dazu zu sehen.</span></span><br /><span
-      style="font-family: inherit;"><span style="font-size: x-small;"><br />In der
-      <b>Detailansicht</b> können Sie auf dieselbe Weise wie in der Listenansicht
-      navigieren, mit <b>next</b> und <b>prev</b> wird der folgende bzw.
-      vorige Datensatz im Detail angezeigt.</span></span><br /><span
-      style="font-family: inherit;"><span style="font-size: x-small;"><br />Die
-      Ergebnisse Ihrer Suche bleiben solange aktiv, bis eine neue Suche gestartet wird, egal ob Sie
-      zwischendurch die Hilfefunktion etc. ansehen. Um wieder alle Datensätze aufzurufen und Ihre
-      Suche zurückzusetzen, klicken Sie bitte auf <b>Home</b> im linken
-      Menü.&nbsp;</span></span><br /><br /><span style="font-family:
-      inherit;"><span style="font-size: x-small;"><a
-      href="http://www.schott.uni-trier.de/index.php">Home</a></span></span><br
-      /><span style="font-family: inherit;"><span style="font-size: x-small;"><a
-      href="http://www.schott.uni-trier.de/schott.php?ac=m1">Siegfried
-      Schott</a></span></span><br /><span style="font-family:
-      inherit;"><span style="font-size: x-small;"><a
-      href="http://www.schott.uni-trier.de/schott.php?ac=m2">Hinweise zur
-      Datenbank</a></span></span><br /><span style="font-family:
-      inherit;"><span style="font-size: x-small;"><a
-      href="http://www.schott.uni-trier.de/schott.php">Datenbanksuche</a></span></span><br
-      /><span style="font-family: inherit;"><span style="font-size: x-small;"><a
-      href="http://www.schott.uni-trier.de/ethno.php">Ethnographie-Datenbank</a></span></span><br
-      /><span style="font-family: inherit;"><span style="font-size: x-small;"><a
-      href="http://www.schott.uni-trier.de/schott.php?ac=m3">Nutzungsbedingungen und
-      Bildbestellung</a></span></span><br /><span style="font-family:
-      inherit;"><span style="font-size: x-small;"><a
-      href="http://www.schott.uni-trier.de/schott.php?ac=m4">Impressum</a></span></span></blockquote><h3><span
-      style="font-size: 85%;"></span></h3><a href="https://www.blogger.com/null"
-      id="data:post.url" name="data:post.title" onclick="return addthis_sendto()"
-      onmouseout="addthis_close()" onmouseover="'return"></a><script
-      src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986"
-      type="text/javascript"></script><br /><!-- AddThis Button END
-      -->]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Photography"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egyptology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Egypt"/>
+   <title type="text">Das Digitale Schott-Archiv (DSA): Altägyptische Monumente und Antiken in Photographien des frühen 20. Jahrhunderts </title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL&nbsp; 9 June 2010, updated (corrected links) 23 February 2015] </span><br />Have you taken the <a href="http://ancientworldonline.blogspot.com/2015/02/ancient-world-online-user-survey.html">AWOL User Survey</a>?<br /><br /><a href="http://www.schott.uni-trier.de/index.php">Das Digitale Schott-Archiv (DSA): Altägyptische Monumente und Antiken in Photographien des frühen 20. Jahrhunderts&nbsp;</a><br /><blockquote class="tr_bq"><span style="font-size: x-small;"><img alt="http://www.schott.uni-trier.de/siegfried-schott.jpg" class="decoded" src="http://www.schott.uni-trier.de/siegfried-schott.jpg" height="200" width="141" /> </span><br /><h3><span style="font-family: inherit;"><span style="font-size: x-small;">Einführung und Hinweise zur Datenbank</span></span></h3><span style="font-family: inherit;">  </span><span style="font-family: inherit;"><span style="font-size: x-small;">Das im Rahmen eines zweijährigen DFG-Projektes erstellte DIGITALE SCHOTT ARCHIV umfasst knapp 8000 einmalige Schwarz/Weiss-Fotografien bedeutender Denkmäler und archäologischer Stätten Ägyptens.</span></span><br /><span style="font-family: inherit;"><span style="font-size: x-small;"><br />Das Archiv ist nun erstmals frei im Internet zugänglich. Eine mit dem Bildarchiv verknüpfte Datenbank ermöglicht eine gezielte Bildmaterial-Suche, etwa zu bestimmten Orten oder Schott-Photo-Nummern. Die Nutzung dieser Datenbank und die Einsichtnahme in das Archiv sind kostenfrei.</span></span><br /><br /><span style="font-family: inherit;"> </span><span style="font-family: inherit;"><span style="font-size: x-small;">Die DSA-Datenbank befindet sich noch in der Konsolidierungsphase. Hinweise, Anregungen, Verbesserungsvorschläge u. ä. bitte an die e-mail Adresse: w2schott@uni-trier.de</span></span><br /><br /><span style="font-family: inherit;"></span><span style="font-family: inherit;"><span style="font-size: x-small;"><b>Benutzung der Datenbank</b>Wählen Sie im Menü auf der linken Seite den Eintrag <b>Datenbanksuche</b> aus, um bestimmte Fotografien aus dem Archiv aufzurufen. Die Felder des nun erscheinenden Suchformulars sind selbsterklärend.  Wenn Sie mit dem Cursor das jeweilige Eingabefeld berühren, wird ein  kurzer Informationstext zum Suchfeld angezeigt. Unter „Objekt“ kann z. B. auch nach Besitzernamen (Gräber, Papyri) oder  Aufbewahrungsorten gesucht werden. Die Namen der Grabbesitzer richten  sich nach <span style="color: red;"><i>B. Porter/R.L.B. Moss, „Topographical Bibliography  of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings“ (Oxford:  Griffith Institute).</i></span></span></span><br /><span style="font-family: inherit;"><span style="font-size: x-small;"><br />Textfelder, wie z. B. "Ort" oder "Objekt" werden nach der eingegeben  Buchstabenfolge komplett abgesucht, als Treffer werden alle Datensätze  angezeigt, in denen diese Kombination an beliebiger Stelle vorkommt:  Eine Suche nach "art" ergibt bspw. Treffer mit "G<b>art</b>en", "Block mit K<b>art</b>usche" usw.</span></span><br /><span style="font-family: inherit;"><span style="font-size: x-small;"><br />Die von Ihnen eingegebene Buchstabenfolge wird vom Programm als  Komplettbegriff interpretiert, Leerzeichen gelten nicht als Trenner  zwischen mehreren Begriffen; "Kartusche Ramses" findet also nur  Eintragungen, in denen auch "Kartusche Ramses" in genau dieser  Zeichenfolge steht. Verwenden Sie daher möglichst kurze und wenig  komplexe Suchbegriffe bei der Eingrenzung des Bildmaterials.<br />Die Suche nach Orten kann über das Roll-up im entsprechenden Feld erfolgen.</span></span><br /><br /><span style="font-family: inherit;"></span><span style="font-family: inherit;"><span style="font-size: x-small;">Nachdem Sie eine <b>Suchabfrage</b> gestartet haben, werden die  Treffer in einer listenartigen Übersicht angezeigt; dabei sind jeweils  15 Suchergebnisse pro Seite zu sehen. Sie gelangen zu den nächsten (bzw.  vorigen) Datensätzen Ihrer Suche, indem Sie im linken Menü auf <b>next</b> bzw. <b>prev</b> klicken.</span></span><br /><span style="font-family: inherit;"> </span><span style="font-family: inherit;"><span style="font-size: x-small;">Um einen <b>Datensatz im Detail</b> anzuzeigen, klicken Sie auf die unterstrichene Zahl (ID) vor dem Datensatz, dort ist dann auch die Abbildung dazu zu sehen.</span></span><br /><span style="font-family: inherit;"><span style="font-size: x-small;"><br />In der <b>Detailansicht</b> können Sie auf dieselbe Weise wie in der Listenansicht navigieren, mit <b>next</b> und <b>prev</b> wird der folgende bzw. vorige Datensatz im Detail angezeigt.</span></span><br /><span style="font-family: inherit;"><span style="font-size: x-small;"><br />Die Ergebnisse Ihrer Suche bleiben solange aktiv, bis eine neue Suche  gestartet wird, egal ob Sie zwischendurch die Hilfefunktion etc.  ansehen. Um wieder alle Datensätze aufzurufen und Ihre Suche  zurückzusetzen, klicken Sie bitte auf <b>Home</b> im linken Menü.&nbsp;</span></span><br /><br /><span style="font-family: inherit;"><span style="font-size: x-small;"><a href="http://www.schott.uni-trier.de/index.php">Home</a></span></span><br /><span style="font-family: inherit;"><span style="font-size: x-small;"><a href="http://www.schott.uni-trier.de/schott.php?ac=m1">Siegfried Schott</a></span></span><br /><span style="font-family: inherit;"><span style="font-size: x-small;"><a href="http://www.schott.uni-trier.de/schott.php?ac=m2">Hinweise zur Datenbank</a></span></span><br /><span style="font-family: inherit;"><span style="font-size: x-small;"><a href="http://www.schott.uni-trier.de/schott.php">Datenbanksuche</a></span></span><br /><span style="font-family: inherit;"><span style="font-size: x-small;"><a href="http://www.schott.uni-trier.de/ethno.php">Ethnographie-Datenbank</a></span></span><br /><span style="font-family: inherit;"><span style="font-size: x-small;"><a href="http://www.schott.uni-trier.de/schott.php?ac=m3">Nutzungsbedingungen und Bildbestellung</a></span></span><br /><span style="font-family: inherit;"><span style="font-size: x-small;"><a href="http://www.schott.uni-trier.de/schott.php?ac=m4">Impressum</a></span></span></blockquote><h3><span style="font-size: 85%;"></span></h3><a href="https://www.blogger.com/null" id="data:post.url" name="data:post.title" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="'return"></a><script src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a3fbb0e7571e986" type="text/javascript"></script><br /><!-- AddThis Button END -->]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4377900343070843182/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4377900343070843182/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/06/das-digitale-schott-archiv-dsa.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4377900343070843182"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4377900343070843182"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/06/das-digitale-schott-archiv-dsa.html"
          title="Das Digitale Schott-Archiv (DSA): Altägyptische Monumente und Antiken in Photographien des frühen 20. Jahrhunderts "/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

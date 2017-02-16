@@ -1,118 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-2354047104752179440</id>
-    <published>2014-10-05T15:54:00.000-04:00</published>
-    <updated>2014-10-05T18:39:14.278-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-2354047104752179440</id>
+   <published>2016-03-14T08:26:00.000-04:00</published>
+   <updated>2016-03-14T08:27:40.989-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: Rosetta: Papers of the Institute of Archaeology and
-      Antiquity, University of Birmingham</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a
-      href="http://ancientworldonline.blogspot.com/2009/11/more-open-access-journals-group-8.html">6
-      November 2009</a>. Most recently updated 5 October 2013]</span><br /><br
-      /><span class="title"><a href="http://www.rosetta.bham.ac.uk/">Rosetta: Papers
-      of the Institute of Archaeology and Antiquity, University of
-      Birmingham</a></span><br />ISSN 1752-1580<br /><blockquote
-      class="tr_bq"><img alt="http://www.rosetta.bham.ac.uk/images/rosetta.png" class="decoded"
-      src="http://www.rosetta.bham.ac.uk/images/rosetta.png" height="50" width="200" />
-      </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The
-      Rosetta journal is aimed at postgraduates and professionals from a variety of historical and
-      archaeological disciplines. </span></blockquote><blockquote
-      class="tr_bq"><span style="font-size: x-small;">Within Rosetta you will find articles
-      covering a wide scope of archaeology, history and classics subjects, book reviews, museum and
-      conference reports. There are also links to <a
-      href="http://www.rosetta.bham.ac.uk/organisations.html">other sites of interest</a>
-      and <a href="http://www.rosetta.bham.ac.uk/forum-schedule.html">forthcoming seminars and
-      conferences</a>. </span></blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;"> </span><span style="font-size: x-small;">This
-      journal is an online, electronic journal and is free to view; we welcome <a
-      href="http://www.rosetta.bham.ac.uk/submissions.html">submissions</a> from any related
-      area.</span><br /><ul></ul><div
-      class="bullet_list"><ul></ul><div
-      class="bullet_list"><ul><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-16.html">Issue #16. Autumn
-      2014</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-15-supp.html">Supplementary Edition: UWICAH
-      Conference 2014 Extended Abstracts and CAHA Colloquium 2014 Extended
-      Abstracts</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://www.rosetta.bham.ac.uk/issues/issue-15.html">Issue #15.
-      Spring 2014</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://www.rosetta.bham.ac.uk/issues/issue-14.html">Issue #14.
-      Autumn 2013</a></span></li><li><span style="font-size:
-      x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-13-supp.html">Supplementary Edition: IAA
-      Colloquium 2013 Extended Abstracts</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-13.html">Issue #13. Summer
-      2013</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-12-supp.html">Supplementary Edition: IAA
-      Colloquium 2012 Extended Abstracts</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-12.html">Issue #12. Summer
-      2012</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-11.html">Issue #11. Winter
-      2012</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-10.html">Issue #10. Summer
-      2011</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-09-supp.html">Supplementary Edition: IAA
-      Colloquium 2011 Extended Abstracts</a></span></li><li><span
-      style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-09.html">Issue #09. Winter
-      2011</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-08-supp.html">Supplementary Edition: AMPAL
-      2009 Proceedings</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://www.rosetta.bham.ac.uk/issues/issue-08.html">Issue #08.
-      Spring 2010</a></span></li><li><span style="font-size:
-      x-small;"><a href="http://www.rosetta.bham.ac.uk/issues/issue-07-supp.html">Issue #07
-      Supplementary Edition: Proceedings of the IAA Colloquium
-      2009</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-07.html">Issue #07. Autumn
-      2009</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-06.html">Issue #06. Spring
-      2009</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-05.html">Issue #05. Autumn
-      2008</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-04.html">Issue #04. Spring
-      2008</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-03.html">Issue #03. Autumn
-      2007</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-02.html">Issue #02. Spring
-      2007</a></span></li><li><span style="font-size: x-small;"><a
-      href="http://www.rosetta.bham.ac.uk/issues/issue-01.html">Issue #01. Autumn
-      2006</a></span></li></ul></div><ul></ul></div><ul></ul></blockquote><div
-      style="text-align: center;">See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div>]]></content>
-    <link rel="replies"
+   <title type="text">Open Access Journal: Rosetta: Papers of the Institute of Archaeology and Antiquity, University of Birmingham</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL <a href="http://ancientworldonline.blogspot.com/2009/11/more-open-access-journals-group-8.html">6 November 2009</a>. Most recently updated 14 March 2016]</span><br /><br /><span class="title"><a href="http://www.rosetta.bham.ac.uk/">Rosetta:  Papers of the Institute of Archaeology and Antiquity, University of Birmingham</a></span><br />ISSN 1752-1580<br /><blockquote class="tr_bq"><img alt="http://www.rosetta.bham.ac.uk/images/rosetta.png" class="decoded" src="http://www.rosetta.bham.ac.uk/images/rosetta.png" height="50" width="200" /> </blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The Rosetta journal is aimed at postgraduates and professionals from a variety of historical and archaeological disciplines. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">Within Rosetta you will find articles covering a wide scope of  archaeology, history and classics subjects, book reviews, museum and  conference reports. There are also links to <a href="http://www.rosetta.bham.ac.uk/organisations.html">other sites of interest</a> and <a href="http://www.rosetta.bham.ac.uk/forum-schedule.html">forthcoming seminars and conferences</a>. </span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"> </span><span style="font-size: x-small;">This journal is an online, electronic journal and is free to view; we welcome <a href="http://www.rosetta.bham.ac.uk/submissions.html">submissions</a> from any related area.</span></blockquote><blockquote class="tr_bq"><h2><a href="http://www.rosetta.bham.ac.uk/issues/issue-18.html"><span style="font-size: x-small;">Rosetta Journal Issue #18. Autumn 2015</span></a></h2><span style="font-size: x-small;">                 </span><span style="font-size: x-small;"><strong>Articles will open as PDF files in a new window</strong></span><br /><span style="font-size: x-small;">                 </span><span style="font-size: x-small;">Guy Kirkham-Smith: <a href="http://www.rosetta.bham.ac.uk/issue18/Editorial.pdf" target="_blank"> Editorial</a></span><br /><span style="font-size: x-small;">                     </span><h4><span style="font-size: x-small;">Articles</span></h4><span style="font-size: x-small;">                 </span><span style="font-size: x-small;">Aitken-Burt, L.: <a href="http://www.rosetta.bham.ac.uk/issue18/Aitken-Burt.pdf" target="_blank"> ‘Rain from God(s)? How can the reliefs depicting the “Rain Miracle”  from the Column of Marcus Aurelius in Rome illuminate the conflicting  Christian and pagan textual accounts of this event?' </a></span><br /><span style="font-size: x-small;">                 </span><span style="font-size: x-small;">Abdelwahed, Y.: <a href="http://www.rosetta.bham.ac.uk/issue18/Abdelwahed.pdf" target="_blank"> ‘Two Festivals of the God Serapis in Greek Papyri’ </a></span><br /><span style="font-size: x-small;">                 </span><span style="font-size: x-small;">Pappas, V.: <a href="http://www.rosetta.bham.ac.uk/issue18/Pappas.pdf" target="_blank"> ‘Variety in Tibullus 1.2’ </a></span><br /><span style="font-size: x-small;">                  </span><h4><span style="font-size: x-small;">Book Reviews</span></h4><span style="font-size: x-small;">                 </span><span style="font-size: x-small;">Bamford, D.: <a href="http://www.rosetta.bham.ac.uk/issue18/Bamford.pdf" target="_blank">'Gábor  Kármán &amp; Lovro Kunčević (ed.s). The European Tributary States of  the Ottoman Empire in the Sixteenth and Seventeenth Centuries. The  Ottoman Empire and Its Heritage, no. 53. (Leiden - Boston: Brill, 2013)'  </a></span><br /><span style="font-size: x-small;">                 </span><span style="font-size: x-small;">Booth, C.: <a href="http://www.rosetta.bham.ac.uk/issue18/Booth.pdf" target="_blank"> 'Raffaella Cribiore and Roger S. Bagnall. Women’s Letters from Ancient  Egypt: 300 BC-AD 800, (University of Michigan Press, 2009)' </a></span><br /><span style="font-size: x-small;">                 </span><span style="font-size: x-small;">Booth, C.: <a href="http://www.rosetta.bham.ac.uk/issue18/Booth_2.pdf" target="_blank"> 'Jason Thompson. Wonderful Things; a History of Egyptology. Vol 1: From  Antiquity to 1881(Cairo. American University Press, 2015)' </a></span><br /><span style="font-size: x-small;">                 </span><span style="font-size: x-small;">Lemos, R.: <a href="http://www.rosetta.bham.ac.uk/issue18/Lemos.pdf" target="_blank">'Eileen  Goulding. What did the poor take with them? An investigation into  ancient Egyptian Eighteenth and Nineteenth Dynasty grave assemblages  from Qau, Badari, Matmar and Gurob (London, Golden House Publications,  2013)'</a></span><br /><span style="font-size: x-small;">                 </span><span style="font-size: x-small;">Konstantopoulos, G.: <a href="http://www.rosetta.bham.ac.uk/issue18/Konstantopoulos.pdf" target="_blank">'Jan  J.W. Lisman. Cosmogony, Theogony, and Anthropogeny in Sumerian Texts.  Vol. 409 of Alter Orient und Altes Testament (Münster: Ugarit-Verlag,  2013)' </a></span><br /><span style="font-size: x-small;">                 </span><span style="font-size: x-small;">Mushett Cole, E.: <a href="http://www.rosetta.bham.ac.uk/issue18/Mushett_Cole.pdf" target="_blank">'Jeremy  Pope. The Double Kingdom under Taharqo: Studies in the History of Kush  and Egypt, c. 690 – 664 BC (Leiden: Brill, 2014)' </a></span><br /><span style="font-size: x-small;">                 </span><span style="font-size: x-small;">Samuels, T.: <a href="http://www.rosetta.bham.ac.uk/issue18/Samuels.pdf" target="_blank">'Julie  R. Anderson and Derek A. Welsby (eds.), The Fourth Cataract and Beyond:  Proceedings of the 12th International Conference for Nubian Studies  (Leuven: Peeters, 2014)'</a></span><br /><span style="font-size: x-small;">                 </span><span style="font-size: x-small;">Young, M.: <a href="http://www.rosetta.bham.ac.uk/issue18/Young.pdf" target="_blank">'Han  Neumann, Reinhard Dittmann, Susanne Paulus, Georg Neumann und Anais  Schuster-Brandis, Editors, Krieg und Frieden im Alten Vorderasien – 52e  Rencontre Assyriologique Internationale, International Congress or  Assyriology and Near East Archaeology Münster, 17.-21. Juli 2006 (Alter  Orient und Altes Testament Band 401. Münster, Ugarity-verlag, 2014)'</a></span><br /><br /></blockquote><blockquote class="tr_bq"><div id="listContainer">                    <ul id="expList"><li class="collapsed expanded">                            <span style="font-size: x-small;">2015-2016                             </span><ul style="display: block;"><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #18. Autumn 2015</h6></a></span></li></ul><span style="font-size: x-small;">                        </span></li><li class="collapsed expanded"><span style="font-size: x-small;">                            2014-2015                             </span><ul style="display: block;"><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Supplementary Edition: UWICAH Conference 2014</h6></a></span></li><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #17. Spring 2015</h6></a></span></li><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #16. Autumn 2014</h6></a></span></li></ul></li><li class="collapsed expanded"><span style="font-size: x-small;">                          2013-2014                             </span><ul style="display: block;"><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Supplementary Edition: UWICAH Conference 2014 Extended Abstracts and CAHA Colloquium 2014 Extended Abstracts</h6></a></span></li><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #15. Spring 2014</h6></a></span></li><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #14. Autumn 2013</h6></a></span></li></ul></li><li class="collapsed expanded"><span style="font-size: x-small;">                        2012-2013                             </span><ul style="display: block;"><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Supplementary Edition: IAA Colloquium 2013 Extended Abstracts</h6></a></span></li><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #13. Summer 2013</h6></a></span></li></ul></li><li class="collapsed expanded"><span style="font-size: x-small;">                        2011-2012                             </span><ul style="display: block;"><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Supplementary Edition: IAA Colloquium 2012 Extended Abstracts</h6></a></span></li><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #12. Summer 2012</h6></a></span></li><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #11. Winter 2012</h6></a></span></li></ul></li><li class="collapsed">                                                     <span style="font-size: x-small;"><br /></span></li><li class="collapsed expanded"><span style="font-size: x-small;">                        2009-2010                             </span><ul style="display: block;"><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Supplementary Edition: AMPAL 2009 Proceedings</h6></a></span></li><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #08. Spring 2010</h6></a></span></li><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #07 Supplementary Edition: Proceedings of the IAA Colloquium 2009</h6></a></span></li><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #07. Autumn 2009</h6></a></span></li></ul></li><li class="collapsed expanded"><span style="font-size: x-small;">                        2008-2009                             </span><ul style="display: block;"><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #06. Spring 2009</h6></a></span></li><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #05. Autumn 2008</h6></a></span></li></ul></li><li class="collapsed expanded"><span style="font-size: x-small;">                        2007-2008                             </span><ul style="display: block;"><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #04. Spring 2008</h6></a></span></li><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #03. Autumn 2007</h6></a></span></li></ul></li><li class="collapsed expanded"><span style="font-size: x-small;">                        2006-2007                             </span><ul style="display: block;"><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #02. Spring 2007</h6></a></span></li><li><span style="font-size: x-small;"><a href="http://www.rosetta.bham.ac.uk/issues.html#"><h6>Issue #01. Autumn 2006</h6></a></span></li></ul></li></ul><span style="font-size: x-small;">                </span></div></blockquote><div style="text-align: center;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/2354047104752179440/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/2354047104752179440/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/open-access-journal-rosetta-papers-of.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2354047104752179440"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/2354047104752179440"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/03/open-access-journal-rosetta-papers-of.html"
          title="Open Access Journal: Rosetta: Papers of the Institute of Archaeology and Antiquity, University of Birmingham"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-    
-    
-    
-  </entry>
+   </author>
+</entry>

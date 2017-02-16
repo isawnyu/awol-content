@@ -1,77 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6386460077115077097</id>
-    <published>2014-03-03T06:10:00.001-05:00</published>
-    <updated>2014-03-03T06:10:40.377-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6386460077115077097</id>
+   <published>2016-08-18T11:19:00.000-04:00</published>
+   <updated>2016-08-18T11:22:08.727-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Pedagogy"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Catalan"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
-    <title type="text">New Open Access Journal: Methodos. Revista de didàctica dels estudis clàssics </title>
-    <content type="html"><![CDATA[<a href="http://pagines.uab.cat/methodos/" rel="home"
-      title="Home">Methodos. Revista de didàctica dels estudis clàssics </a><br
-      /><blockquote class="tr_bq"><img
-      alt="http://pagines.uab.cat/methodos/sites/pagines.uab.cat.methodos/files/grupRecerca_logo.jpg"
-      class="decoded" height="51"
-      src="http://pagines.uab.cat/methodos/sites/pagines.uab.cat.methodos/files/grupRecerca_logo.jpg"
-      width="320" />&nbsp;</blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;">&nbsp;La revista digital
-      <strong><em>Methodos</em></strong> va ser fundada i dirigida en la seva
-      <strong><a href="http://pagines.uab.cat/methodos/primera-epoca">primera
-      època</a></strong> per Pedro Luis Cano. En la seva <strong>segona
-      època</strong>, que s'inicia el 2011, <strong><em>Methodos. Revista de
-      didàctica dels estudis clàssics</em></strong> és una publicació anual editada per
-      <strong>Paideia. Grup de Didàctica de les Llengües i la Cultura Clàssiques</strong>
-      de la <a href="http://www.uab.cat/">Universitat Autònoma de Barcelona</a>, que
-      integra professors del <a
-      href="http://www.uab.cat/departament/ciencies-antiguitat-edat-mitjana/"
-      target="_blank">Departament de Ciències de l'Antiguitat i l'Edat Mitjana</a> i de
-      l'<a href="http://pagines.uab.cat/iceclassiques/">Equip de Formació i Innovació de
-      Llengües i Cultura Clàssiques</a>.
-      <strong><em>Methodos</em></strong> publica articles sobre didàctica de
-      les llengües i la cultura clàssiques en qualsevol nivell educatiu. La seva vocació és esdevenir
-      un espai de trobada entre l'ensenyament secundari i l'universitari, entre l'estudi del llatí i
-      del grec, entre la didàctica de la llengua i de la cultura
-      clàssica.</span></blockquote><div class="block-content"> <div
-      class="block-content-inner"> <ul class="menu"><li class="leaf first"><a
-      href="http://pagines.uab.cat/methodos/biblio/keyword/13" title="">Número 0 (Primera
-      època)</a></li><li class="leaf last"><a class="active"
-      href="http://pagines.uab.cat/methodos/biblio/keyword/56" title="">Número
-      1</a></li></ul></div>&nbsp;</div><div
-      class="block-content" style="text-align: center;"><span style="font-size:
-      small;">&nbsp;<span><span><span><span>See the full <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient
-      Studies</a></span></span></span></span></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Classics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Catalan"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Spain"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Pedagogy"/>
+   <title type="text">Open Access Journal: Methodos. Revista de didàctica dels estudis clàssics </title>
+   <content type="html"><![CDATA[<a href="http://pagines.uab.cat/methodos/" rel="home" title="Home">Methodos. Revista de didàctica dels estudis clàssics</a><br />ISSN: 2013-682X <br /><blockquote class="tr_bq"><img alt="http://pagines.uab.cat/methodos/sites/pagines.uab.cat.methodos/files/grupRecerca_logo.jpg" class="decoded" src="http://pagines.uab.cat/methodos/sites/pagines.uab.cat.methodos/files/grupRecerca_logo.jpg" height="51" width="320" />&nbsp;</blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">&nbsp;La revista digital <b><i>Methodos</i></b> va ser fundada i dirigida en la seva <b><a href="http://pagines.uab.cat/methodos/primera-epoca">primera època</a></b> per Pedro Luis Cano. En la seva <b>segona època</b>, que s'inicia el 2011, <b><i>Methodos. Revista de didàctica dels estudis clàssics</i></b> és una publicació anual editada per <b>Paideia. Grup de Didàctica de les Llengües i la Cultura Clàssiques</b> de la <a href="http://www.uab.cat/">Universitat Autònoma de Barcelona</a>, que integra professors del <a href="http://www.uab.cat/departament/ciencies-antiguitat-edat-mitjana/" target="_blank">Departament de Ciències de l'Antiguitat i l'Edat Mitjana</a> i de l'<a href="http://pagines.uab.cat/iceclassiques/">Equip de Formació i Innovació de Llengües i Cultura Clàssiques</a>. <b><i>Methodos</i></b> publica articles sobre didàctica de les llengües i la cultura  clàssiques en qualsevol nivell educatiu. La seva vocació és esdevenir un  espai de trobada entre l'ensenyament secundari i l'universitari, entre  l'estudi del llatí i del grec, entre la didàctica de la llengua i de la  cultura clàssica.</span></blockquote><div class="block-content"><div class="block-content-inner"><ul class="menu"></ul><div class="block-content">      <div class="block-content-inner">        <blockquote class="tr_bq"><ul class="menu"><li class="leaf first"><span style="font-size: x-small;"><a href="http://pagines.uab.cat/methodos/biblio/keyword/13" title="">Número 0 (Primera època)</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://pagines.uab.cat/methodos/biblio/keyword/56" title="">Número 1</a></span></li><li class="leaf"><span style="font-size: x-small;"><a href="http://pagines.uab.cat/methodos/biblio/keyword/97" title="">Número 2</a></span></li><li class="leaf last"><span style="font-size: x-small;"><a href="http://pagines.uab.cat/methodos/biblio/keyword/133" title="">Número 3</a></span></li></ul></blockquote><div style="text-align: center;"><span style="font-size: xx-small;"><span style="font-size: small;"><span>See AWOL's List of</span></span></span></div><span style="font-size: small;"><span></span></span><div style="text-align: center;"><span style="font-size: small;"><span><span><a href="http://ancientworldonline.blogspot.com/2014/12/spanishcatalanportugese-journals-on.html">Spanish/Catalan/Portuguese Open Access Journals on the Ancient World</a></span></span></span></div></div></div><ul class="menu"></ul></div></div><div class="block-content" style="text-align: center;"><span style="font-size: small;">&nbsp;</span><span style="font-size: small;"><span><span style="font-family: &quot;primasans bt,verdana,sans-serif&quot;;"><span><span style="font-weight: normal;">And see AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6386460077115077097/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6386460077115077097/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/new-open-access-journal-methodos.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6386460077115077097"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6386460077115077097"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/03/new-open-access-journal-methodos.html"
-         title="New Open Access Journal: Methodos. Revista de didàctica dels estudis clàssics "/>
-    <author>
+         title="Open Access Journal: Methodos. Revista de didàctica dels estudis clàssics "/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

@@ -1,165 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-5816152944486440305</id>
-    <published>2013-02-07T10:41:00.002-05:00</published>
-    <updated>2013-02-07T10:41:30.220-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
-             term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-5816152944486440305</id>
+   <published>2016-06-02T15:48:00.000-04:00</published>
+   <updated>2016-06-02T18:18:08.247-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#"
              term="Cuneiform Digitial Library Initiative"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Cuneiform"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Iraq"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Mesopotamia"/>
-    <title type="text">Cuneiform Digitial Library Initiative Wiki</title>
-    <content type="html"><![CDATA[<a href="http://cdli.ox.ac.uk/wiki/doku.php">cdli:wiki</a><br
-      /><blockquote class="tr_bq"><img
-      alt="http://cdli.ox.ac.uk/wiki/lib/tpl/arctic/images/headerimg_5.jpg?w=850&amp;h=63&amp;cache=cache"
-      class="decoded" height="28"
-      src="http://cdli.ox.ac.uk/wiki/lib/tpl/arctic/images/headerimg_5.jpg?w=850&amp;h=63&amp;cache=cache"
-      width="400" /> </blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">cdli:wiki represents the efforts of CDLI staff and collaborators to offer
-      Assyriological tools for specialists in cuneiform studies, general content for informal
-      learners, and information about the work flow of <a class="urlextern"
-      href="http://cdli.ucla.edu/" title="http://cdli.ucla.edu">the
-      project</a>.&nbsp;</span><br /><br /><span style="font-size:
-      x-small;"> </span><span style="font-size: x-small;">cdli:wiki is currently
-      undergoing major revisions.&nbsp;</span><br /><br /><span
-      style="font-size: x-small;"> </span><span style="font-size: x-small;">The
-      articles will be arranged under five main categories placed in the navigation bar on the left:
-      writing and language, history and chronology, archaeology, science and religion, and tools and
-      resources. In the main column below we have placed a news feed (<abbr title="Rich Site
-      Summary">RSS</abbr>) displaying recently added and updated articles from
-      cdliwiki.&nbsp;</span><br /><br /><span style="font-size:
-      x-small;"> </span><span style="font-size: x-small;">Important tools such as
-      <a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=rulers_of_mesopotamia"
-      title="rulers_of_mesopotamia">lists of year names</a> and <a class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=list_of_limmu_officials"
-      title="list_of_limmu_officials">eponyms</a> are found under the section "<a
-      class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=chronology"
-      title="chronology">Chronology</a>". Bibliographical resources, such as <a
-      class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=abbreviations_for_assyriology"
-      title="abbreviations_for_assyriology">Abbreviations for Assyriology</a>, are found
-      under "<a class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=bibliographical_tools"
-      title="bibliographical_tools">Bibliographical tools</a>".
-      </span></blockquote><blockquote class="tr_bq"><h3 class="sectionedit2"
-      id="writing_and_language"><span style="font-size: x-small;">Writing and
-      Language</span></h3><div class="level3"><ul><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=cuneiform_writing_system"
-      title="cuneiform_writing_system">Ancient Near Eastern Writing
-      Systems</a></span></div></li><li class="level1"><div
-      class="li"> <span style="font-size: x-small;"><a class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=sumerian_and_akkadian"
-      title="sumerian_and_akkadian">Sumerian and
-      Akkadian</a></span></div></li><li class="level1"><div
-      class="li"> <span style="font-size: x-small;"><a class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=other_cuneiform_languages"
-      title="other_cuneiform_languages">Other Near Eastern
-      Languages</a></span></div></li><li class="level1"><div
-      class="li"> <span style="font-size: x-small;"><a class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=the_one_hundred_most_important_cuneiform_objects"
-      title="the_one_hundred_most_important_cuneiform_objects">The One Hundred Most Important
-      Cuneiform Objects</a></span></div></li></ul></div><h3
-      class="sectionedit3" id="history"><span style="font-size:
-      x-small;">History</span></h3><div class="level3"><ul><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=chronology"
-      title="chronology">Chronology</a></span></div></li><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=history_of_mesopotamia"
-      title="history_of_mesopotamia">History of
-      Mesopotamia</a></span></div></li><li class="level1"><div
-      class="li"> <span style="font-size: x-small;"><a class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=ancient_administration"
-      title="ancient_administration">Ancient
-      Administration</a></span></div></li></ul></div><h3
-      class="sectionedit4" id="archaeology"><span style="font-size:
-      x-small;">Archaeology</span></h3><div class="level3"><ul><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=a_brief_history_of_archaeology_in_mesopotamia"
-      title="a_brief_history_of_archaeology_in_mesopotamia">A Brief History of Archaeology in
-      Mesopotamia</a></span></div></li><li class="level1"><div
-      class="li"> <span style="font-size: x-small;"><a class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=site_descriptions"
-      title="site_descriptions">Site
-      Descriptions</a></span></div></li></ul></div><h3
-      class="sectionedit5" id="science_and_religion"><span style="font-size:
-      x-small;">Science and Religion</span></h3><div
-      class="level3"><ul><li class="level1"><div class="li"> <span
-      style="font-size: x-small;"><a class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=mesopotamian_medicine"
-      title="mesopotamian_medicine">Medicine</a></span></div></li><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=mesopotamian_mathematics"
-      title="mesopotamian_mathematics">Mathematics</a></span></div></li><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=babylonian_astronomy"
-      title="babylonian_astronomy">Astronomy</a></span></div></li><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=divination"
-      title="divination">Divination</a></span></div></li><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=mesopotamian_religion"
-      title="mesopotamian_religion">Religion</a></span></div></li><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><span
-      class="curid"><a class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=education_in_mesopotamia"
-      title="education_in_mesopotamia">Education</a></span></span></div></li><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=practical_knowledge"
-      title="practical_knowledge">Practical
-      Knowledge</a></span></div></li></ul></div><h3
-      class="sectionedit6" id="tools_and_resources"><span style="font-size: x-small;">Tools
-      and Resources</span></h3><div class="level3"><ul><li
-      class="level1"><div class="li"> <span style="font-size: x-small;"><a
-      class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=bibliographical_tools"
-      title="bibliographical_tools">Bibliographical
-      tools</a></span></div></li><li class="level1"><div
-      class="li"> <span style="font-size: x-small;"><a class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=cuneiform_tablet_collections"
-      title="cuneiform_tablet_collections">Cuneiform Tablet
-      Collections</a></span></div></li><li class="level1"><div
-      class="li"> <span style="font-size: x-small;"><a class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=who_s_who_in_cuneiform_studies"
-      title="who_s_who_in_cuneiform_studies">Who's Who in Cuneiform
-      Studies</a></span></div></li><li class="level1"><div
-      class="li"> <span style="font-size: x-small;"><a class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=submission_guidelines"
-      title="submission_guidelines">Digitization
-      Guidelines</a></span></div></li><li class="level1"><div
-      class="li"> <span style="font-size: x-small;"><a class="wikilink1"
-      href="http://cdli.ox.ac.uk/wiki/doku.php?id=external_links" title="external_links">External
-      Links</a></span></div></li></ul></div></blockquote><br
-      /><br />]]></content>
-    <link rel="replies"
+   <category scheme="http://schemas.google.com/g/2005#kind"
+             term="http://schemas.google.com/blogger/2008/kind#post"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Cuneiform"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Mesopotamia"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Iraq"/>
+   <title type="text">cdli:wiki: A Library of Knowledge of the Cuneiform Digital Library Initiative</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 7 February 2013, updated 2 June 2016] </span><br /><br /><a href="http://cdli.ox.ac.uk/wiki/doku.php">cdli:wiki: A Library of Knowledge of the Cuneiform Digital Library Initiative</a><br /><blockquote class="tr_bq"><img alt="CDLI Banner Image" src="http://cdli.ox.ac.uk/cdlibanner.jpeg" height="77" width="320" /> </blockquote><blockquote class="tr_bq"><div class="level1"><span style="font-size: x-small;">Directly linked to the <i><a class="urlextern" href="http://cdli.ucla.edu/" target="_blank" title="http://cdli.ucla.edu">Cuneiform Digital Library Initiative</a></i> and born with it, cdli:wiki is now a collaborative project of members of the French CNRS team <a class="urlextern" href="http://www.mae.u-paris10.fr/arscan/Membres-de-l-equipe.html" target="_blank" title="http://www.mae.u-paris10.fr/arscan/Membres-de-l-equipe.html">ArScAn-HAROC</a> (Nanterre), and staff and students in the <a class="urlextern" href="http://www.orinst.ox.ac.uk/" target="_blank" title="http://www.orinst.ox.ac.uk">Faculty of Oriental Studies at the University of Oxford</a>,  with contributors in several different countries, involved in  researches in history of the ancient Near East. The cdli:wiki is  currently funded by the Cluster (LabEx) <i><a class="urlextern" href="http://passes-present.eu/en" target="_blank" title="http://passes-present.eu/en">Pasts in the Present</a></i> through the project <a class="urlextern" href="http://passes-present.eu/en/themes-research/active-knowledge-past/digital-humanities-and-assyriology-tools-online-history#.VK_iGcZjCQs" target="_blank" title="http://passes-present.eu/en/themes-research/active-knowledge-past/digital-humanities-and-assyriology-tools-online-history#.VK_iGcZjCQs">AssyrOnline: Digital Humanities and Assyriologie</a>. </span><br /><span style="font-size: x-small;"></span><hr /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><br /> Adossé au programme international <i><a class="urlextern" href="http://cdli.ucla.edu/" target="_blank" title="http://cdli.ucla.edu">Cuneiform Digital Library Initiative</a></i> et né en même temps que lui, cdli:wiki est un projet d’encyclopédie en  ligne et d'outils de recherche assyriologique, qui fait aujourd'hui  collaborer des membres de l'équipe française du CNRS <a class="urlextern" href="http://www.mae.u-paris10.fr/arscan/Membres-de-l-equipe.html" target="_blank" title="http://www.mae.u-paris10.fr/arscan/Membres-de-l-equipe.html">ArScAn-HAROC</a> (Nanterre), et le staff et les étudiants de la <a class="urlextern" href="http://www.orinst.ox.ac.uk/" target="_blank" title="http://www.orinst.ox.ac.uk">Faculty of Oriental Studies de l'Université d'Oxford</a>,  avec les contributeurs dans plusieurs autres pays, engagés dans des  recherches sur l'histoire du Proche-Orient ancien. Le projet cdli:wiki  est financé par le LabEx <i><a class="urlextern" href="http://passes-present.eu/fr" target="_blank" title="http://passes-present.eu/fr">Les Passés dans le Présent</a></i> dans le cadre du programme intitulé <a class="urlextern" href="http://passes-present.eu/fr/les-projets-de-recherche/connaissance-active-du-passe/humanites-numeriques-et-assyriologie-outils#.VK_h1sZjCQs" target="_blank" title="http://passes-present.eu/fr/les-projets-de-recherche/connaissance-active-du-passe/humanites-numeriques-et-assyriologie-outils#.VK_h1sZjCQs">"AssyrOnline: Humanités numériques et assyriologie"</a>. </span><br /><span style="font-size: x-small;"></span><hr /><span style="font-size: x-small;"> </span><span style="font-size: x-small;"><br /> Please note that the tools and main encyclopedic articles can be accessed through the menu on the left. Important tools such as <a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=year_names" title="year_names">lists of year names</a> and <a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=assyrian_eponyms_limmu" title="assyrian_eponyms_limmu">eponyms</a> are found under the section "Tools", sub-section <a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=chronology" title="chronology">"Chronology &amp; Dates"</a>. Bibliographical ressources, such as <a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=abbreviations_for_assyriology" title="abbreviations_for_assyriology">Abbreviations for Assyriology</a>, are found under "<a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=bibliographical_tools" title="bibliographical_tools">Bibliographical tools</a>". </span></div><h1 class="sectionedit1" id="start"><span style="font-size: x-small;">Start</span></h1><span style="font-size: x-small;"></span><div class="level1"><ul><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=start" title="start">Home / Frontpage</a></span></div></li></ul></div><span style="font-size: x-small;"> </span><br /><h2 class="sectionedit2" id="encyclopedia"><span style="font-size: x-small;">Encyclopedia</span></h2><span style="font-size: x-small;"></span><div class="level2"><ul><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=encyclopedic_articles" title="encyclopedic_articles">General Framework</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=rulers_of_mesopotamia" title="rulers_of_mesopotamia">Rulers of Mesopotamia</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=god_lists_pantheons" title="god_lists_pantheons">God Lists &amp; Pantheons</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=seals_and_sealings_in_the_ancient_near_east" title="seals_and_sealings_in_the_ancient_near_east">Seals &amp; Sealings</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=history_of_science" title="history_of_science">Science &amp; Technology</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=assemblages_for_different_periods" title="assemblages_for_different_periods">Assemblages</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=facets_of_written_artefacts" title="facets_of_written_artefacts">Showcase</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=the_one_hundred_most_important_cuneiform_objects" title="the_one_hundred_most_important_cuneiform_objects">100 Most Important Cuneiform Objects</a></span></div></li></ul></div><span style="font-size: x-small;"> </span><br /><h2 class="sectionedit3" id="tools"><span style="font-size: x-small;">Tools</span></h2><span style="font-size: x-small;"></span><div class="level2"><ul><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=bibliographical_tools" title="bibliographical_tools">Bibliographical tools</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=cuneiform_tablet_collections" title="cuneiform_tablet_collections">Cuneiform collections</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=chronology" title="chronology">Chronology &amp; Dates</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=cuneiform_writing_system" title="cuneiform_writing_system">Writing Systems</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=text_typologies" title="text_typologies">Text Typologies</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=numbers_metrology" title="numbers_metrology">Numbers &amp; Metrology</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=site_descriptions" title="site_descriptions">Geographical Tools</a></span></div></li></ul></div><span style="font-size: x-small;"> </span><br /><h2 class="sectionedit4" id="resources"><span style="font-size: x-small;">Resources</span></h2><span style="font-size: x-small;"></span><div class="level2"><span style="font-size: x-small;"></span><ul><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=cdli:wiki_structure" title="cdli:wiki_structure">The cdli:wiki Project</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=data_structure" title="data_structure">CDLI Data Structure</a></span> </div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=submission_guidelines" title="submission_guidelines">Digitization Guidelines</a></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><span class="curid"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=wiki:syntax" title="wiki:syntax">Wiki formatting syntax</a></span></span></div></li><li class="level1"><div class="li"><span style="font-size: x-small;"><a class="wikilink1" href="http://cdli.ox.ac.uk/wiki/doku.php?id=external_related_links" title="external_related_links">External Related Links</a></span></div></li></ul></div></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/5816152944486440305/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/5816152944486440305/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/02/cuneiform-digitial-library-initiative.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5816152944486440305"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/5816152944486440305"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2013/02/cuneiform-digitial-library-initiative.html"
-         title="Cuneiform Digitial Library Initiative Wiki"/>
-    <author>
+         title="cdli:wiki: A Library of Knowledge of the Cuneiform Digital Library Initiative"/>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

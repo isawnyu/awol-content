@@ -1,100 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-3794884031590706411</id>
-    <published>2014-08-23T17:50:00.001-04:00</published>
-    <updated>2014-08-23T17:50:30.064-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-3794884031590706411</id>
+   <published>2014-08-23T17:50:00.001-04:00</published>
+   <updated>2014-08-23T17:50:30.064-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Iraq"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Ceramics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Mesopotamia"/>
-    <title type="text">New Book from the Oriental Institute: Mesopotamian Pottery: A Guide to the
-      Babylonian Tradition in the Second Millennium B.C.</title>
-    <content type="html"><![CDATA[<div class="column" id="content" role="main"> <article
-      class="node-3772 node node-publication view-mode-full clearfix"> <div
-      class="content-inner one-column"> <div class="content-inner-left"><a
-      href="http://oi.uchicago.edu/research/publications/misc/mesopotamian-pottery"><cite>Mesopotamian
-      Pottery: A Guide to the Babylonian Tradition in the Second Millennium
-      B.C.</cite></a> <blockquote class="tr_bq"><h2><span
-      style="font-size: x-small;"><img alt="Mesopotamian Pottery" class="imgrt" height="200"
-      src="http://oi.uchicago.edu/sites/oi.uchicago.edu/files/styles/narrow/public/uploads/shared/images/Mesopotamian%20Pottery%20Cover.jpg?itok=5_1CR96W"
-      title="Mesopotamian Pottery cover" width="139"
-      /></span>&nbsp;</h2></blockquote><blockquote
-      class="tr_bq"><h2><span style="font-size: x-small;">By James A. Armstrong and
-      Hermann Gasche, with contributions by Steven W. Cole, Abraham Van As, and Loe
-      Jacobs</span></h2><span style="font-size: x-small;"><a class="publication
-      ss-standard ss-openbook btn"
-      href="http://www.oxbowbooks.com/dbbc/mesopotamian-pottery.html">Purchase</a>&nbsp;<a
-      class="publication ss-standard ss-download btn"
-      href="http://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/Mesopotamian_Pottery.pdf">Download</a>
-      <a class="publication"
-      href="http://oi.uchicago.edu/research/electronic-publications-initiative-oriental-institute-university-chicago">Terms
-      of Use</a></span> </blockquote><blockquote class="tr_bq"> <span
-      style="font-size: x-small;">As a result of the long-term cooperation between archaeologists
-      from the University of Ghent and the Oriental Institute of the University of Chicago and with
-      the collaboration of other excavators in southern Iraq and surrounding regions, James A.
-      Armstrong and Hermann Gasche have produced a guide to the Babylonian pottery of the second
-      millennium B.C. The focus is on more recent excavations, where the pottery has been
-      stratigraphically excavated and well recorded. The vessels are presented in groups based on
-      shape. On the plates the groups are laid out both chronologically and geographically, so that
-      developments over time and regional distinctions are readily apparent. Maps show where each
-      group is attested. Synoptic tables permit the reader to find groups quickly.&nbsp; There
-      are detailed discussions of the forms and their geographical distribution, as well as a
-      treatment of the historical implications of the evidence. In addition, ceramic specialists
-      Abraham Van As and Loe Jacobs present their comprehensive study “The Babylonian Potter:
-      Environment, Clay and Techniques,” and cuneiformist Steven W. Cole reviews recent chronological
-      debates.</span><br /> <ul><li><span style="font-size:
-      x-small;">Mesopotamian Pottery</span></li><li><span style="font-size:
-      x-small;">Mesopotamian History and Environment, Series II, Memoirs
-      IV</span></li><li><span style="font-size: x-small;">Ghent and Chicago:
-      A Joint Publication of the University of Ghent and the Oriental Institute of the University of
-      Chicago, 2014</span></li><li><span style="font-size: x-small;">Printed
-      in Belgium</span></li><li><span style="font-size: x-small;">Pp. xix +
-      102; 48 figures, 136 plates, 9 tables</span></li><li><span
-      style="font-size: x-small;">Hardback, 24 x 34.5 cm</span></li><li><span
-      style="font-size: x-small;">ISBN 978-940032-18-1
-      (CH)</span></li><li><span style="font-size: x-small;">ISBN
-      978-1-61491-018-3 (USA)</span></li><li><span style="font-size:
-      x-small;"><span
-      class="pubprice">$180.00</span></span></li></ul></blockquote></div><blockquote>
-      </blockquote></div><blockquote>
-      </blockquote></article><blockquote>
-      </blockquote></div><blockquote><span style="font-size:
-      x-small;"><span></span></span><div class="footer-container">
-      </div></blockquote><div class="post-body entry-content"
-      id="post-body-2041965728532829779" itemprop="articleBody"><div style="text-align:
-      center;">And for an up to date list of all Oriental Institute publications available online
-      see</div><div style="text-align: center;"><a
-      href="http://ancientworldonline.blogspot.com/2010/10/oriental-institute-open-access.html">The
-      Oriental Institute Open Access Publications</a></div></div><span
-      class="post-author vcard"></span>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Mesopotamia"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Ceramics"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Iraq"/>
+   <title type="text">New Book from the Oriental Institute: Mesopotamian Pottery: A Guide to the Babylonian Tradition in the Second Millennium B.C.</title>
+   <content type="html"><![CDATA[<div class="column" id="content" role="main">                                     <article class="node-3772 node node-publication view-mode-full clearfix">            <div class="content-inner one-column">    <div class="content-inner-left"><a href="http://oi.uchicago.edu/research/publications/misc/mesopotamian-pottery"><cite>Mesopotamian Pottery: A Guide to the Babylonian Tradition in the Second Millennium B.C.</cite></a>             <blockquote class="tr_bq"><h2><span style="font-size: x-small;"><img alt="Mesopotamian Pottery" class="imgrt" height="200" src="http://oi.uchicago.edu/sites/oi.uchicago.edu/files/styles/narrow/public/uploads/shared/images/Mesopotamian%20Pottery%20Cover.jpg?itok=5_1CR96W" title="Mesopotamian Pottery cover" width="139" /></span>&nbsp;</h2></blockquote><blockquote class="tr_bq"><h2><span style="font-size: x-small;">By James A. Armstrong and Hermann Gasche, with contributions by Steven W. Cole, Abraham Van As, and Loe Jacobs</span></h2><span style="font-size: x-small;"><a class="publication ss-standard ss-openbook btn" href="http://www.oxbowbooks.com/dbbc/mesopotamian-pottery.html">Purchase</a>&nbsp;<a class="publication ss-standard ss-download btn" href="http://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/Mesopotamian_Pottery.pdf">Download</a> <a class="publication" href="http://oi.uchicago.edu/research/electronic-publications-initiative-oriental-institute-university-chicago">Terms of Use</a></span> </blockquote><blockquote class="tr_bq"> <span style="font-size: x-small;">As a result of the long-term cooperation between archaeologists from  the University of Ghent and the Oriental Institute of the University of  Chicago and with the collaboration of other excavators in southern Iraq  and surrounding regions, James A. Armstrong and Hermann Gasche have  produced a guide to the Babylonian pottery of the second millennium B.C.  The focus is on more recent excavations, where the pottery has been  stratigraphically excavated and well recorded. The vessels are presented  in groups based on shape. On the plates the groups are laid out both  chronologically and geographically, so that developments over time and  regional distinctions are readily apparent. Maps show where each group  is attested. Synoptic tables permit the reader to find groups quickly.&nbsp;  There are detailed discussions of the forms and their geographical  distribution, as well as a treatment of the historical implications of  the evidence. In addition, ceramic specialists Abraham Van As and Loe  Jacobs present their comprehensive study “The Babylonian Potter:  Environment, Clay and Techniques,” and cuneiformist Steven W. Cole  reviews recent chronological debates.</span><br />  <ul><li><span style="font-size: x-small;">Mesopotamian Pottery</span></li><li><span style="font-size: x-small;">Mesopotamian History and Environment, Series II, Memoirs IV</span></li><li><span style="font-size: x-small;">Ghent and Chicago: A Joint Publication of the University of Ghent and the Oriental Institute of the University of Chicago, 2014</span></li><li><span style="font-size: x-small;">Printed in Belgium</span></li><li><span style="font-size: x-small;">Pp. xix + 102; 48 figures, 136 plates, 9 tables</span></li><li><span style="font-size: x-small;">Hardback, 24 x 34.5 cm</span></li><li><span style="font-size: x-small;">ISBN 978-940032-18-1 (CH)</span></li><li><span style="font-size: x-small;">ISBN 978-1-61491-018-3 (USA)</span></li><li><span style="font-size: x-small;"><span class="pubprice">$180.00</span></span></li></ul></blockquote></div><blockquote>      </blockquote></div><blockquote> </blockquote></article><blockquote>          </blockquote></div><blockquote><span style="font-size: x-small;"><span></span></span><div class="footer-container">  </div></blockquote><div class="post-body entry-content" id="post-body-2041965728532829779" itemprop="articleBody"><div style="text-align: center;">And for an up to date list of all Oriental Institute publications available online see</div><div style="text-align: center;"><a href="http://ancientworldonline.blogspot.com/2010/10/oriental-institute-open-access.html">The Oriental Institute Open Access Publications</a></div></div><span class="post-author vcard"></span>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/3794884031590706411/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/3794884031590706411/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/08/new-book-from-oriental-institute.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3794884031590706411"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/3794884031590706411"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/08/new-book-from-oriental-institute.html"
          title="New Book from the Oriental Institute: Mesopotamian Pottery: A Guide to the Babylonian Tradition in the Second Millennium B.C."/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

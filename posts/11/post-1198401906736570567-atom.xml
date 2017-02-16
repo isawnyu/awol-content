@@ -1,220 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1198401906736570567</id>
-    <published>2012-04-14T07:59:00.000-04:00</published>
-    <updated>2012-04-14T07:59:04.314-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1198401906736570567</id>
+   <published>2016-09-18T07:59:00.000-04:00</published>
+   <updated>2016-09-18T08:48:54.137-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Open Access Journal: AGER, Bulletin de liaison (association d'étude du monde
-      rural gallo-romain)</title>
-    <content type="html"><![CDATA[<a href="http://ager2.voila.net/Bulletin.html">AGER, Bulletin de
-      liaison (association d'étude du monde rural gallo-romain)</a><br /><blockquote
-      class="tr_bq"><img src="http://ager2.voila.net/AGERnb.gif"
-      /></blockquote><blockquote class="tr_bq"><span style="color: black;
-      font-size: x-small;">L'association AGER a été créée au mois de février 1991. Son objectif
-      est de promouvoir la recherche dans le domaine de l'archéologie et de l'histoire rurale de la
-      Gaule romaine, d'en valoriser l'image et de participer à une relance des recherches en la
-      matière.</span><br /><span style="color: black; font-size:
-      x-small;">&nbsp;</span><span style="font-size: x-small;">
-      </span><br /><span style="color: black; font-size: x-small;"> Dans ce but
-      elle organise un Colloque tous les deux ans et diffuse chaque année un Bulletin de Liaison, de
-      25 à 35 pages, contenant diverses informations et actualités des recherches.</span>
-      </blockquote><center><br /> <table border="1" cols="2"> <caption>
-      <center></center> <br /> </caption><tbody> </tbody>
-      <tbody><tr> <td align="left" nowrap="nowrap"
-      valign="middle"><i><b>Numéro<br /> </b></i> </td> <td
-      align="center" nowrap="nowrap" valign="middle"><i><b>Année<br />
-      </b></i> </td> <td align="center" nowrap="nowrap"
-      valign="middle"><i><b>Sommaire<br /> </b></i> </td>
-      <td align="center" nowrap="nowrap" valign="middle"><i><b>Télécharger (poids
-      du fichier)<br /> </b></i> </td> </tr><tr> <td
-      align="left" nowrap="nowrap" valign="middle">AGER 19</td> <td align="center"
-      nowrap="nowrap" valign="middle">2009</td> <td align="center" nowrap="nowrap"
-      valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER19">complet</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><small> </small><br
-      /><small><small><small><small><a
-      href="http://ager2.voila.net/ager19b.pdf">4307
-      ko</a></small></small></small></small><br /><small>
-      </small></td> </tr><tr> <td align="left" nowrap="nowrap"
-      valign="middle">AGER 18</td> <td align="center" nowrap="nowrap"
-      valign="middle">2008</td> <td align="center" nowrap="nowrap"
-      valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER18">complet</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><small> </small><br
-      /><small><small><small><small><a
-      href="http://ager2.voila.net/ager18.pdf">5207
-      ko</a></small></small></small></small><br /><small>
-      </small></td> </tr><tr> <td align="left" nowrap="nowrap"
-      valign="middle">AGER 17</td> <td align="center" nowrap="nowrap"
-      valign="middle">2007</td> <td align="center" nowrap="nowrap"
-      valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER17">complet</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><small> </small><br
-      /><small><small><small><small><a
-      href="http://ager2.voila.net/ager17.pdf">5509
-      ko</a></small></small></small></small><br /><small>
-      </small></td> </tr><tr> <td align="left" nowrap="nowrap"
-      valign="middle">AGER 16</td> <td align="center" nowrap="nowrap"
-      valign="middle">2006</td> <td align="center" nowrap="nowrap"
-      valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER16">complet</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><small> </small><br
-      /><small><small><small><small><a
-      href="http://ager2.voila.net/ager16.pdf">4122
-      ko</a></small></small></small></small><br /><small>
-      </small></td> </tr><tr> <td align="left" nowrap="nowrap"
-      valign="middle">AGER 15</td> <td align="center" nowrap="nowrap"
-      valign="middle">2005</td> <td align="center" nowrap="nowrap"
-      valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER15">complet</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><small> </small><br
-      /><small><small><small><small><a
-      href="http://ager2.voila.net/ager15.pdf">2886
-      ko</a></small></small></small></small><br /><small>
-      </small></td> </tr><tr> <td align="left" nowrap="nowrap"
-      valign="middle">AGER 14</td> <td align="center" nowrap="nowrap"
-      valign="middle">2004</td> <td align="center" nowrap="nowrap"
-      valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER14">complet</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><small> </small><br
-      /><small><small><small><small><a
-      href="http://ager2.voila.net/ager14.pdf">3644
-      ko</a></small></small></small></small><br /><small>
-      </small></td> </tr><tr> <td align="left" nowrap="nowrap"
-      valign="middle">AGER 13</td> <td align="center" nowrap="nowrap"
-      valign="middle">2003</td> <td align="center" nowrap="nowrap"
-      valign="middle"><a href="http://ager2.voila.net/indexnum.html#AGER13">non
-      disponible</a></td> <td align="center" nowrap="nowrap"
-      valign="middle"><small> </small><br
-      /><small><small><small><small>non
-      disponible</small></small></small></small><br /><small>
-      </small></td> </tr><tr> <td align="left" nowrap="nowrap"
-      valign="middle">AGER 12</td> <td align="center" nowrap="nowrap"
-      valign="middle">2002</td> <td align="center" nowrap="nowrap"
-      valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER12">complet</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><small> </small><br
-      /><small><small><small><small><a
-      href="http://ager2.voila.net/ager12.pdf">572
-      ko</a></small></small></small></small><br /><small>
-      </small></td> </tr><tr> <td align="left" nowrap="nowrap"
-      valign="middle">AGER 11</td> <td align="center" nowrap="nowrap"
-      valign="middle">2001</td> <td align="center" nowrap="nowrap"
-      valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER11">complet</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><small><small>
-      </small></small><br /><a
-      href="http://ager2.voila.net/ager11.pdf"><small><small><small><small>912
-      ko</small></small></small></small></a><br
-      /><small><small> </small></small></td> </tr><tr>
-      <td align="left" nowrap="nowrap" valign="middle">AGER 10</td> <td align="center"
-      nowrap="nowrap" valign="middle">2000</td> <td align="center" nowrap="nowrap"
-      valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER10">complet</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><small><small>
-      </small></small><br
-      /><small><small><small><small><a
-      href="http://ager2.voila.net/AGER10.pdf">400
-      ko</a></small></small></small></small><br
-      /><small><small> </small></small></td> </tr><tr>
-      <td align="left" nowrap="nowrap" valign="middle">AGER 9</td> <td align="center"
-      nowrap="nowrap" valign="middle">1999</td> <td align="center" nowrap="nowrap"
-      valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER9">complet</a></td> <td
-      align="center" nowrap="nowrap" valign="middle" width="50%"><small><small>
-      </small></small><br /><a
-      href="http://ager2.voila.net/AGER9.pdf"><small><small><small><small>1600
-      ko</small></small></small></small></a><br
-      /><small><small> </small></small></td> </tr><tr>
-      <td align="left" nowrap="nowrap" valign="middle"><table border="1" cols="2">
-      <tbody><tr> </tr></tbody> </table>AGER 8 </td> <td
-      align="center" nowrap="nowrap" valign="middle">1998</td> <td align="center"
-      nowrap="nowrap" valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER8">complet</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><small><small><a
-      href="http://ager2.voila.net/AGER8.pdf"><big><big>854
-      ko</big></big></a><br /> </small></small></td>
-      </tr><tr> <td align="left" nowrap="nowrap" valign="middle">AGER 7</td>
-      <td align="center" nowrap="nowrap" valign="middle">1997</td> <td align="center"
-      nowrap="nowrap" valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER7">sélection</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><a
-      href="http://ager2.voila.net/B7Ferdiere.pdf">3200</a> - <a
-      href="http://ager2.voila.net/B7Favory.pdf">2000</a> - <a
-      href="http://ager2.voila.net/B7Jaillette.pdf">1800</a> - <a
-      href="http://ager2.voila.net/B7Courbot.pdf">996</a> ko</td>
-      </tr><tr> <td align="left" nowrap="nowrap" valign="middle">AGER 6</td>
-      <td align="center" nowrap="nowrap" valign="middle">1996</td> <td align="center"
-      nowrap="nowrap" valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER6">sélection</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><a
-      href="http://ager2.voila.net/B6Pannetier.pdf">1500</a> - <a
-      href="http://ager2.voila.net/B6Chouquer.pdf">1200</a> ko</td>
-      </tr><tr> <td align="left" nowrap="nowrap" valign="middle">AGER 5</td>
-      <td align="center" nowrap="nowrap" valign="middle">1995</td> <td align="center"
-      nowrap="nowrap" valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER5">sélection</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><a
-      href="http://ager2.voila.net/B5Marbach.pdf">2100</a> - <a
-      href="http://ager2.voila.net/B5Lepetz.pdf">1500</a> ko</td>
-      </tr><tr> <td align="left" nowrap="nowrap" valign="middle">AGER 4</td>
-      <td align="center" nowrap="nowrap" valign="middle">1994</td> <td align="center"
-      nowrap="nowrap" valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER4">sélection</a></td> <td
-      align="center" nowrap="nowrap" valign="middle">-</td> </tr><tr> <td
-      align="left" nowrap="nowrap" valign="middle">AGER 3</td> <td align="center"
-      nowrap="nowrap" valign="middle">1993</td> <td align="center" nowrap="nowrap"
-      valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER3">sélection</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><a
-      href="http://ager2.voila.net/B3Meffre.pdf">1800</a> ko</td>
-      </tr><tr> <td align="left" nowrap="nowrap" valign="middle">AGER 2</td>
-      <td align="center" nowrap="nowrap" valign="middle">1992</td> <td align="center"
-      nowrap="nowrap" valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER2">sélection</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><a
-      href="http://ager2.voila.net/B2Desbat.pdf">3000</a> ko</td>
-      </tr><tr> <td align="left" nowrap="nowrap" valign="middle">AGER 1</td>
-      <td align="center" nowrap="nowrap" valign="middle">1991</td> <td align="center"
-      nowrap="nowrap" valign="middle"><a
-      href="http://ager2.voila.net/indexnum.html#AGER1">sélection</a></td> <td
-      align="center" nowrap="nowrap" valign="middle"><a
-      href="http://ager2.voila.net/B1Poupet.pdf">2600</a> - <a
-      href="http://ager2.voila.net/B1Pellecuer.pdf">1700</a> - <a
-      href="http://ager2.voila.net/B1Bayard.pdf">4400</a> ko</td>
-      </tr></tbody> </table><div align="center"></div></center>
-      <br /><br /><br /><br /><div style="text-align: center;">See the
-      full <a
-      href="http://ancientworldonline.blogspot.com/2009/10/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="archaeology"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="France"/>
+   <title type="text">Open Access Journal: AGER, Bulletin de liaison (association d'étude du monde rural gallo-romain)</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 14 April 2012, updated 18 September 2016]</span><br /><br /><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011">AGER, Bulletin de liaison (association d'étude du monde rural gallo-romain)</a><br /><blockquote class="tr_bq"><img alt="AGER" height="58" src="https://ager.hypotheses.org/files/2015/06/Logo_AGERamiens_nb_neband71.jpg" width="400" /></blockquote><blockquote class="tr_bq"><span style="color: black; font-size: x-small;">L'association  AGER a été créée au mois de février 1991.  Son objectif est de promouvoir la recherche dans le domaine de l'archéologie  et de l'histoire rurale de la Gaule romaine, d'en valoriser l'image et de  participer à une relance des recherches en la matière.</span><br /><span style="color: black; font-size: x-small;">&nbsp;</span><span style="font-size: x-small;">    </span><br /><span style="color: black; font-size: x-small;">    Dans ce but elle organise un Colloque tous les deux ans et diffuse chaque année un Bulletin de Liaison, de 25 à 35 pages, contenant diverses informations et actualités  des recherches.</span> </blockquote><blockquote class="tr_bq"><div class="post-row"><article class="group post-419 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-419"><div class="post-inner post-hover"><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/419" rel="bookmark" title="Bulletin 19 – 2009">Bulletin 19 – 2009</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 2009 – Bulletin AGER n°19 : Télécharger le bulletin AGER  19 en pdf (complet) Manifestations scientifiques –&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colloque AGER  IX : « Paysages ruraux et territoires dans les cités de l’Occident  romain » –&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Journée d’étude à Université Lille 3, Maison de la  Recherche, avril 2009 : Y a-t-il...</span><br />   </div></div></article>         <article class="group post-425 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-425"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/425" title="Bulletin 18 – 2008">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/425#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-03-08 05:22:34">8 mars 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/425" rel="bookmark" title="Bulletin 18 – 2008">Bulletin 18 – 2008</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 2008 – Bulletin AGER n°18 : Télécharger le bulletin AGER 18 en pdf (complet) &nbsp; Laure NuningerMore Posts</span><br />   </div></div></article>    </div><div class="post-row">     <article class="group post-431 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-431"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/431" title="Bulletin 17 – 2007">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/431#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-03-07 05:27:34">7 mars 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/431" rel="bookmark" title="Bulletin 17 – 2007">Bulletin 17 – 2007</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 2007 – Bulletin AGER n°17 : Télécharger le bulletin AGER 17 en pdf (complet) Laure NuningerMore Posts</span><br />   </div></div></article>         <article class="group post-436 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-436"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/436" title="Bulletin 16 – 2006">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/436#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-03-06 05:32:54">6 mars 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/436" rel="bookmark" title="Bulletin 16 – 2006">Bulletin 16 – 2006</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 2006 – Bulletin AGER n°16 : Télécharger le bulletin AGER 16 en pdf (complet) Laure NuningerMore Posts</span><br />   </div></div></article>    </div><div class="post-row">     <article class="group post-439 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-439"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/439" title="Bulletin 15 – 2005">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/439#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-03-05 05:35:23">5 mars 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/439" rel="bookmark" title="Bulletin 15 – 2005">Bulletin 15 – 2005</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 2005 – Bulletin AGER n°15 : Télécharger le bulletin AGER 15 en pdf (complet) Laure NuningerMore Posts</span><br />   </div></div></article>         <article class="group post-445 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-445"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/445" title="Bulletin 14 – 2004">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/445#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-03-04 05:43:30">4 mars 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/445" rel="bookmark" title="Bulletin 14 – 2004">Bulletin 14 – 2004</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 2004 – Bulletin AGER n°14 : Télécharger le bulletin AGER 14 en pdf (complet) Laure NuningerMore Posts</span><br />   </div></div></article>    </div><div class="post-row">     <article class="group post-453 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-453"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/453" title="Bulletin 13 – 2003">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/453#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-03-03 05:47:39">3 mars 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/453" rel="bookmark" title="Bulletin 13 – 2003">Bulletin 13 – 2003</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Non disponible pour l’instant Laure NuningerMore Posts</span><br />   </div></div></article>         <article class="group post-450 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-450"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/450" title="Bulletin 12 – 2002">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/450#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-03-02 05:45:03">2 mars 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/450" rel="bookmark" title="Bulletin 12 – 2002">Bulletin 12 – 2002</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 2002 – Bulletin AGER n°12 : Télécharger le bulletin AGER 12 en pdf (complet) Laure NuningerMore Posts</span><br />   </div></div></article>    </div><div class="post-row">     <article class="group post-455 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-455"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/455" title="Bulletin 11 – 2001">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/455#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-03-01 05:48:40">1 mars 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/455" rel="bookmark" title="Bulletin 11 – 2001">Bulletin 11 – 2001</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 2001 – Bulletin AGER n°11 : Télécharger le bulletin AGER 11 en pdf (complet) Laure NuningerMore Posts</span><br />   </div></div></article>         <article class="group post-458 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-458"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/458" title="Bulletin 10 – 2000">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/458#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-02-10 05:50:51">10 février 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/458" rel="bookmark" title="Bulletin 10 – 2000">Bulletin 10 – 2000</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 2000 – Bulletin AGER n°10 : Télécharger le bulletin AGER 10 en pdf (complet) Laure NuningerMore Posts</span><br />   </div></div></article>    </div><div class="post-row">     <article class="group post-463 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-463"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/463" title="Bulletin 9 – 1999">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/463#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-02-09 05:55:46">9 février 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/463" rel="bookmark" title="Bulletin 9 – 1999">Bulletin 9 – 1999</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 1999 – Bulletin AGER n°9 : Télécharger le bulletin AGER 9 en pdf (complet) Laure NuningerMore Posts</span><br />   </div></div></article>         <article class="group post-466 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-466"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/466" title="Bulletin 8 – 1998">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/466#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-02-08 05:58:37">8 février 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/466" rel="bookmark" title="Bulletin 8 – 1998">Bulletin 8 – 1998</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 1998 – Bulletin AGER n°8 : Télécharger le bulletin AGER 8 en pdf (complet) Laure NuningerMore Posts</span><br />   </div></div></article>    </div><div class="post-row">     <article class="group post-470 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-470"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/470" title="Bulletin 7 – 1997">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/470#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-02-07 06:02:30">7 février 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/470" rel="bookmark" title="Bulletin 7 – 1997">Bulletin 7 – 1997</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 1997 – Bulletin AGER n°7 : Télécharger le bulletin AGER 7 en pdf (sélection) Laure NuningerMore Posts</span><br />   </div></div></article>         <article class="group post-478 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-478"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/478" title="Bulletin 6 – 1996">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/478#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-02-06 06:10:30">6 février 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/478" rel="bookmark" title="Bulletin 6 – 1996">Bulletin 6 – 1996</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 1996 – Bulletin AGER n°6 : Télécharger le bulletin AGER 6 en pdf (sélection) Laure NuningerMore Posts</span><br />   </div></div></article>    </div><div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/480" title="Bulletin 5 – 1995">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/480#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-02-05 06:12:08">5 février 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/480" rel="bookmark" title="Bulletin 5 – 1995">Bulletin 5 – 1995</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 1995 – Bulletin AGER n°5 : Télécharger le bulletin AGER 5 en pdf (sélection) Laure NuningerMore Posts</span><br />   </div></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><time class="published updated" datetime="2013-02-04 06:14:12"></time></span><div class="post-row"><article class="group post-482 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-482"><div class="post-inner post-hover"><div class="post-meta group">      </div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/482" rel="bookmark" title="Bulletin 4 – 1994">Bulletin 4 – 1994</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Juin 1994 – Bulletin AGER n°4 :&nbsp;Télécharger le bulletin AGER 4 en pdf (sélection) Laure NuningerMore Posts</span><br />   </div></div></article>         <article class="group post-491 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-491"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/491" title="Bulletin 2 – 1992">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/491#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-02-02 06:23:11">2 février 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/491" rel="bookmark" title="Bulletin 2 – 1992">Bulletin 2 – 1992</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 1992 – Bulletin AGER n°2 : Télécharger le bulletin AGER 2 en pdf (sélection) Laure NuningerMore Posts</span><br />   </div></div></article>    </div><div class="post-row">     <article class="group post-493 post type-post status-publish format-standard hentry category-z-bulletins-1991-2011" id="post-493"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/493" title="Bulletin 1 – 1991">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/493#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011" rel="category tag">Bulletins 1991-2011</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-02-02 06:15:07">2 février 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/493" rel="bookmark" title="Bulletin 1 – 1991">Bulletin 1 – 1991</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Décembre 1991 – Bulletin AGER n°1 : Télécharger le bulletin AGER 1 en pdf (sélection) Laure NuningerMore Posts</span><br />   </div></div></article>         <article class="group post-509 post type-post status-publish format-standard hentry category-index-par-auteur" id="post-509"> <div class="post-inner post-hover">   <div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/509" title="Index par numéro">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/509#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011/index-par-auteur" rel="category tag">Index</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-02-01 10:31:22">1 février 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/509" rel="bookmark" title="Index par numéro">Index par numéro</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Numéro Auteur (s) Titre de l’article Année &nbsp;Type AGER 1 Bayard D.,  Collart J.-L. Recherches récentes sur les établissements agricoles  antiques en Picardie 1991 article AGER 1 Pellecuer C. Formes de  l’habitat et culture matérielle en Narbonnaise 1991 article AGER 1  Poupet P. Archéo-agronomie en Languedoc. Etude des faits techniques...</span><br />   </div></div></article>    </div><div class="post-thumbnail">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/496" title="Index par auteur">                   </a></span>       <span style="font-size: x-small;"><a class="post-comments" href="https://ager.hypotheses.org/496#respond"><span>0</span></a></span>     </div><div class="post-meta group">   <div class="post-category"><span style="font-size: x-small;"><a href="https://ager.hypotheses.org/category/publications-ager/z-bulletins-1991-2011/index-par-auteur" rel="category tag">Index</a></span></div><div class="post-date">  <span style="font-size: x-small;"><time class="published updated" datetime="2013-02-01 06:32:38">1 février 2013</time></span></div></div><h2 class="post-title entry-title">   <span style="font-size: x-small;"><a href="https://ager.hypotheses.org/496" rel="bookmark" title="Index par auteur">Index par auteur</a></span>  </h2><div class="entry excerpt entry-summary">   <span style="font-size: x-small;">Auteur (contact) Titre de l’article (lien sur le résumé) Numéro  Année &nbsp;Type d’article A Alix S. Le peuplement agraire gallo-romain de la  vallée de la Tave (Gard) : cartographie et caractérisation des  établissements par SIG, compte rendu de Master. AGER 16 2006 compte  rendu de Master Allinne C Les villes...</span><br />   </div></blockquote><br /><div style="text-align: center;"><div style="text-align: center;"><span style="font-size: small;"><span>S</span><span><span style="font-family: inherit;"><span style="font-weight: normal;">ee AWOL's full <a href="http://ancientworldonline.blogspot.co.uk/2015/12/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></span></span></span></div></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1198401906736570567/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1198401906736570567/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/04/open-access-journal-ager-bulletin-de.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1198401906736570567"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1198401906736570567"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/04/open-access-journal-ager-bulletin-de.html"
          title="Open Access Journal: AGER, Bulletin de liaison (association d'étude du monde rural gallo-romain)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

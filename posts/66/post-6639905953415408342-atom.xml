@@ -1,103 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-6639905953415408342</id>
-    <published>2014-05-28T10:32:00.001-04:00</published>
-    <updated>2014-05-28T12:42:30.156-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-6639905953415408342</id>
+   <published>2014-05-28T10:32:00.001-04:00</published>
+   <updated>2014-05-28T12:42:30.156-04:00</updated>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Philosophy"/>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Texts"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Philosophy"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Aristotle"/>
-    <title type="text">Protrepticus: A Reconstruction of Aristotle's Lost Dialogue</title>
-    <content type="html"><![CDATA[Protrepticus: A Reconstruction of Aristotle's Lost Dialogue<br />by D.
-      S. Huchinson and Monte Ransome Johnson<br /><br /><blockquote
-      class="tr_bq"><img alt="http://www.protrepticus.info/Resources/tanbgrd.gif"
-      class="decoded" src="http://www.protrepticus.info/Resources/tanbgrd.gif" height="104"
-      width="640" />&nbsp;</blockquote><blockquote class="tr_bq"><span
-      style="font-size: x-small;"><span class="style11">The <i>Protrepticus
-      </i>was an early work of Aristotle, written while he was still a member of Plato's
-      Academy, but it soon became one of the most famous works in the whole history of philosophy.
-      Unfortunately it was not directly copied in the middle ages and so did not survive in its own
-      manuscript tradition. But substantial fragments of it have been preserved in several works by
-      Iamblichus of Chalcis, a third century A.D. neo-Pythagorean philosopher and educator. On the
-      basis of a close study of Iamblichus' extensive use and excerption of Aristotle's
-      <i>Protrepticus</i>, it is possible to reconstruct the backbone of the lost work,
-      and then to flesh it out with the other surviving reports about the work from antiquity (for
-      example in Alexander of Aphrodisias and other ancient commentators on Aristotle). It is also
-      possible to identify several papyrus fragments of the work, and many references and literary
-      allusions in later authors, especially Cicero, whose own lost dialogue
-      <i>Hortensius</i> was a defense of philosophy modeleld on
-      Aristotle's.&nbsp;</span></span><br /><br /><span
-      style="font-size: x-small;"><span class="style11">In 2003, we began a project to
-      reconstruct the lost work by reevaluating all the possible sources of evidence for it. We post
-      regular updates about the project on our <b>blog</b>, where you can access a
-      <b>quick introduction</b> to the project. A good place to start is with the latest
-      version of the <a
-      href="http://www.protrepticus.info/reconstruction2014v16.pdf">provisional
-      reconstruction</a>. If you have been assigned to read Aristotle's
-      <i>Protrepticus</i> in a course, this is probably what you are looking
-      for.</span></span><br /><span style="font-size: x-small;"><span
-      class="style11">&nbsp; </span></span><br /><span style="font-size:
-      x-small;"><span class="style11">For those looking for more detail about our methods of
-      reconstruction and the basis of evidence, you will find on this website our working files on a
-      new critical Greek edition, translation, commentary, and reconstruction of Aristotle's
-      <i>Protrepticus</i>. From the <b>table of contents</b> page, you will
-      be able to access drafts of various parts of the book. From the <b>evidence</b>
-      page, you may find links to critical editions, along with translations and commentaries on the
-      ancient evidence.</span></span><br /><br /><div
-      class="f-lp"><span style="font-size: x-small;"><span class="style11"> From the
-      <b>essays</b> page you may access our 'Authenticating Aristotle's
-      <i>Protrepticus</i>', published in <i>Oxford Studies in Ancient
-      Philosophy</i> (2005). For those wanting to learn more about the philosophical context of
-      Aristotle's <i>Protrepticus</i>, you may be interested in the unpublished essays
-      'The <i>Antidosis</i> of Iamblichus and Aristotle's
-      <i>Protrepticus</i>' and 'Protreptic Aspects of Aristotle's <i>Nicomachean
-      Ethics'</i>.</span></span></div><ul><li><span
-      style="font-size: x-small;"><span class="style5">The latest news at our <a
-      href="http://protrepticus.blogspot.com/">blog</a>.</span></span></li><li><span
-      style="font-size: x-small;"><span class="style5">A quick <a
-      href="http://protrepticus.blogspot.com/2010/11/invitation-to-protrepticus_24.html">introduction</a>.
-      </span></span></li><li><span style="font-size: x-small;"><span
-      class="style5">The most recent version of our <a
-      href="http://www.protrepticus.info/reconstruction2014v16.pdf">provisional
-      reconstruction</a>. </span></span></li><li><span
-      style="font-size: x-small;"><span class="style5">The <a
-      href="http://www.protrepticus.info/toc.html">table of contents</a> of the edition,
-      translation, and commentary.</span></span></li><li><span
-      style="font-size: x-small;"><span class="style5">An overview of the <a
-      href="http://www.protrepticus.info/evidence.html">evidence</a>.</span></span></li><li><span
-      style="font-size: x-small;"><span class="style5">One of our <a
-      href="http://www.protrepticus.info/essays.html">essays</a>.</span></span></li><li><span
-      style="font-size: x-small;"><span class="style5">Our <a
-      href="http://www.protrepticus.info/bib2013ii25.pdf">bibliography</a>.</span></span></li></ul></blockquote>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Aristotle"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Greek"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="Texts"/>
+   <title type="text">Protrepticus: A Reconstruction of Aristotle's Lost Dialogue</title>
+   <content type="html"><![CDATA[Protrepticus: A Reconstruction of Aristotle's Lost Dialogue<br />by D. S. Huchinson and Monte Ransome Johnson<br /><br /><blockquote class="tr_bq"><img alt="http://www.protrepticus.info/Resources/tanbgrd.gif" class="decoded" src="http://www.protrepticus.info/Resources/tanbgrd.gif" height="104" width="640" />&nbsp;</blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><span class="style11">The <i>Protrepticus </i>was an early work of  Aristotle, written while he was still a member of Plato's Academy, but  it soon became one of the most famous works in the whole history of  philosophy. Unfortunately it was not directly copied in the middle ages  and so did not survive in its own manuscript tradition. But substantial  fragments of it have been preserved in several works by Iamblichus of  Chalcis, a third century A.D. neo-Pythagorean philosopher and educator.  On the basis of a close study of Iamblichus' extensive use and  excerption of Aristotle's <i>Protrepticus</i>, it is possible to  reconstruct the backbone of the lost work, and then to flesh it out with  the other surviving reports about the work from antiquity (for example  in Alexander of Aphrodisias and other ancient commentators on  Aristotle). It is also possible to identify several papyrus fragments of  the work, and many references and literary allusions in later authors,  especially Cicero, whose own lost dialogue <i>Hortensius</i> was a defense of philosophy modeleld on Aristotle's.&nbsp;</span></span><br /><br /><span style="font-size: x-small;"><span class="style11">In 2003, we began a project to reconstruct  the lost work by reevaluating all the possible sources of evidence for  it. We post regular updates about the project on our <b>blog</b>, where you can access a <b>quick introduction</b> to the project. A good place to start is with the latest version of the <a href="http://www.protrepticus.info/reconstruction2014v16.pdf">provisional reconstruction</a>. If you have been assigned to read Aristotle's <i>Protrepticus</i> in a course, this is probably what you are looking for.</span></span><br /><span style="font-size: x-small;"><span class="style11">&nbsp; </span></span><br /><span style="font-size: x-small;"><span class="style11">For those looking for more detail about our  methods of reconstruction and the basis of evidence, you will find on  this website our working files on a new critical Greek edition,  translation, commentary, and reconstruction of Aristotle's <i>Protrepticus</i>. From the <b>table of contents</b> page, you will be able to access drafts of various parts of the book. From the <b>evidence</b> page, you may find links to critical editions, along with translations and commentaries on the ancient evidence.</span></span><br /><br /><div class="f-lp"><span style="font-size: x-small;"><span class="style11"> From the <b>essays</b> page you may access our 'Authenticating Aristotle's <i>Protrepticus</i>', published in <i>Oxford Studies in Ancient Philosophy</i> (2005). For those wanting to learn more about the philosophical context of Aristotle's <i>Protrepticus</i>, you may be interested in the unpublished essays 'The <i>Antidosis</i> of Iamblichus and Aristotle's <i>Protrepticus</i>' and 'Protreptic Aspects of Aristotle's <i>Nicomachean Ethics'</i>.</span></span></div><ul><li><span style="font-size: x-small;"><span class="style5">The latest news at our <a href="http://protrepticus.blogspot.com/">blog</a>.</span></span></li><li><span style="font-size: x-small;"><span class="style5">A quick <a href="http://protrepticus.blogspot.com/2010/11/invitation-to-protrepticus_24.html">introduction</a>. </span></span></li><li><span style="font-size: x-small;"><span class="style5">The most recent version of our <a href="http://www.protrepticus.info/reconstruction2014v16.pdf">provisional reconstruction</a>. </span></span></li><li><span style="font-size: x-small;"><span class="style5">The <a href="http://www.protrepticus.info/toc.html">table of contents</a> of the edition, translation, and commentary.</span></span></li><li><span style="font-size: x-small;"><span class="style5">An overview of the <a href="http://www.protrepticus.info/evidence.html">evidence</a>.</span></span></li><li><span style="font-size: x-small;"><span class="style5">One of our <a href="http://www.protrepticus.info/essays.html">essays</a>.</span></span></li><li><span style="font-size: x-small;"><span class="style5">Our <a href="http://www.protrepticus.info/bib2013ii25.pdf">bibliography</a>.</span></span></li></ul></blockquote>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/6639905953415408342/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/6639905953415408342/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/protrepticus-reconstriction-of.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6639905953415408342"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/6639905953415408342"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/protrepticus-reconstriction-of.html"
          title="Protrepticus: A Reconstruction of Aristotle's Lost Dialogue"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

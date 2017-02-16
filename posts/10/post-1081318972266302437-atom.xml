@@ -1,70 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-1081318972266302437</id>
-    <published>2014-12-03T16:11:00.000-05:00</published>
-    <updated>2014-12-03T16:12:37.097-05:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-1081318972266302437</id>
+   <published>2015-08-21T11:40:00.000-04:00</published>
+   <updated>2015-08-21T11:40:33.331-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="open access"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="open data"/>
-    <title type="text">Open Access Journal: Journal of Open Archaeology Data (JOAD)</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 20 April
-      2012. Updated 3 December 2014] </span><br /><br /><a
-      href="http://openarchaeologydata.metajnl.com/">Journal of Open Archaeology Data
-      (JOAD)</a><br />ISSN 2049-1565<br /><blockquote class="tr_bq"><img
-      alt="http://openarchaeologydata.metajnl.com/local/images/header_middle.png" class="decoded"
-      height="58" src="http://openarchaeologydata.metajnl.com/local/images/header_middle.png"
-      width="200" /></blockquote><blockquote class="tr_bq"><span style="font-size:
-      x-small;">The Journal of Open Archaeology Data (JOAD) features peer reviewed data papers
-      describing archaeology datasets with high reuse potential. We are working with a number of
-      specialist and institutional data repositories to ensure that the associated data are
-      professionally archived, preserved, and openly available. Equally importantly, the data and the
-      papers are citable, and reuse will be tracked. While still in beta phase, the journal is now
-      accepting papers. We will also be adding new functionality over the next few weeks, and
-      refining the look and feel.</span></blockquote><blockquote
-      class="tr_bq"><div class="sya_container" id="sya_container"><div
-      class="sya_container" id="sya_container"><div id="issue" style="clear: left;">
-      <h4><span style="font-weight: normal;"><a
-      href="http://openarchaeologydata.metajnl.com/issue/view/3">Vol 3
-      (2014)</a></span></h4><div class="issueDescription">
-      </div></div><div id="issue" style="clear: left;"> <h4><span
-      style="font-weight: normal;"><a
-      href="http://openarchaeologydata.metajnl.com/issue/view/2">Vol 2
-      (2013)</a></span></h4><div class="issueDescription">
-      </div></div><h4><span style="font-weight: normal;"><a
-      href="http://openarchaeologydata.metajnl.com/issue/view/1">Vol 1
-      (2012)</a></span></h4></div></div></blockquote><br
-      /><div style="text-align: center;"><span style="font-size: small;">See the full
-      <a
-      href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List
-      of Open Access Journals in Ancient Studies</a></span></div>]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="open access"/>
+   <category scheme="http://www.blogger.com/atom/ns#" term="open data"/>
+   <title type="text">Open Access Journal: Journal of Open Archaeology Data (JOAD)</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">[First posted in AWOL 20 April 2012. Updated 21 August 2015] </span><br /><br /><a href="http://openarchaeologydata.metajnl.com/">Journal of Open Archaeology Data (JOAD)</a><br />ISSN: 2049-1565<br /><blockquote class="tr_bq"><img alt="http://openarchaeologydata.metajnl.com/local/images/header_middle.png" class="decoded" src="http://openarchaeologydata.metajnl.com/local/images/header_middle.png" height="58" width="200" /></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;">The Journal of Open Archaeology Data (JOAD) features peer reviewed data  papers describing archaeology datasets with high reuse potential. We are  working with a number of specialist and institutional data repositories  to ensure that the associated data are professionally archived,  preserved, and openly available. Equally importantly, the data and the  papers are citable, and reuse will be tracked. While still in beta  phase, the journal is now accepting papers. We will also be adding new  functionality over the next few weeks, and refining the look and feel.</span></blockquote><blockquote class="tr_bq"><span style="font-size: x-small;"><a href="http://openarchaeologydata.metajnl.com/4/volume/4/issue/0/">Vol 4 (2015)</a></span></blockquote><blockquote class="tr_bq"><blockquote class="tr_bq"><div class="article-type-list-block"><h2 class="main-color-text" id="data-papers"><span style="font-size: x-small;"><span style="font-family: inherit;">Data papers</span></span></h2><ul class="" id=""><span style="font-size: x-small;"><span style="font-family: inherit;"> </span><span style="font-family: inherit;"> </span><span style="font-family: inherit;"></span></span><li class="article-block">             <span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.af/">               <div class="article-image"><img alt="" src="http://openarchaeologydata.metajnl.com/articles/joad/thumbs/serve/24/" />        </div></a></span></span>      <div class="article-caption"><div class="caption-text"><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.af/">                       </a><br /><h5><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.af/">              Data from Archaeology for the People? Greek Archaeology  and its Public: An Analysis of the Socio-Political and Economic Role of  Archaeology in Greece             </a></h5><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.af/"><div class="article-author">Anastasia&nbsp;Sakellariadi                          </div></a>        </div><div class="article-actions"><div class="icon-with-list"><ul><li><a data-category="FT" data-label="10.5334/joad.af#30" data-trackthis="downloads" href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.af/galley/30/download/">XML</a></li><li><a data-category="PDF" data-label="10.5334/joad.af#31" data-trackthis="downloads" href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.af/galley/31/download/">PDF</a></li></ul></div><div class="article-date">12 Feb 2015             </div><div class="aside"><a href="http://openarchaeologydata.metajnl.com/4/volume/4/issue/0/">4</a> :e1           </div></div></div></li><li class="article-block">             <span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ag/">               <div class="article-image"><img alt="" src="http://openarchaeologydata.metajnl.com/articles/joad/thumbs/serve/27/" />        </div></a></span></span>      <div class="article-caption"><div class="caption-text"><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ag/">                       </a><br /><h5><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ag/">              Qualitative and Quantitative Data on the Use of the Internet for Archaeological Information             </a></h5><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ag/"><div class="article-author">Lorna-Jane&nbsp;Richardson                          </div></a>        </div><div class="article-actions"><div class="icon-with-list"><ul><li><a data-category="FT" data-label="10.5334/joad.ag#32" data-trackthis="downloads" href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ag/galley/32/download/">XML</a></li><li><a data-category="PDF" data-label="10.5334/joad.ag#33" data-trackthis="downloads" href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ag/galley/33/download/">PDF</a></li></ul></div><div class="article-date">23 Apr 2015             </div><div class="aside"><a href="http://openarchaeologydata.metajnl.com/4/volume/4/issue/0/">4</a> :e2           </div></div></div></li><li class="article-block">             <span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ah/">               <div class="article-image"><img alt="" src="http://openarchaeologydata.metajnl.com/articles/joad/thumbs/serve/29/" />        </div></a></span></span>      <div class="article-caption"><div class="caption-text"><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ah/">                       </a><br /><h5><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ah/">              UAV Survey Data from Clifton Camp (ST56557330), Bristol, UK             </a></h5><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ah/"><div class="article-author">Stephen&nbsp;Gray                          </div></a>        </div><div class="article-actions"><div class="icon-with-list"><ul><li><a data-category="FT" data-label="10.5334/joad.ah#34" data-trackthis="downloads" href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ah/galley/34/download/">XML</a></li><li><a data-category="PDF" data-label="10.5334/joad.ah#35" data-trackthis="downloads" href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ah/galley/35/download/">PDF</a></li></ul></div><div class="article-date">15 May 2015             </div><div class="aside"><a href="http://openarchaeologydata.metajnl.com/4/volume/4/issue/0/">4</a> :e3           </div></div></div></li><li class="article-block">             <span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ai/">               <div class="article-image"><img alt="" src="http://openarchaeologydata.metajnl.com/articles/joad/thumbs/serve/30/" />        </div></a></span></span>      <div class="article-caption"><div class="caption-text"><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ai/">                       </a><br /><h5><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ai/">              Data from The Production and Exchange of Moulded-carved Ceramics and the ‘Maya Collapse’             </a></h5><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ai/"><div class="article-author">Carmen&nbsp;Ting                          </div></a>        </div><div class="article-actions"><div class="icon-with-list"><ul><li><a data-category="PDF" data-label="10.5334/joad.ai#38" data-trackthis="downloads" href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ai/galley/38/download/">PDF</a></li><li><a data-category="FT" data-label="10.5334/joad.ai#36" data-trackthis="downloads" href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.ai/galley/36/download/">XML</a></li></ul></div><div class="article-date">26 May 2015             </div><div class="aside"><a href="http://openarchaeologydata.metajnl.com/4/volume/4/issue/0/">4</a> :e4           </div></div></div></li><li class="article-block"><span style="font-size: x-small;"><span style="font-family: inherit;">             <a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.aj/">               <div class="article-image"><img alt="" src="http://openarchaeologydata.metajnl.com/articles/joad/thumbs/serve/28/" />        </div></a></span></span><span style="font-size: x-small;"><span style="font-family: inherit;">      </span></span><div class="article-caption"><div class="caption-text"><span style="font-family: inherit;"><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.aj/">                       </a></span><br /><h5><span style="font-family: inherit;"><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.aj/">              Cranial Age Assessment and Cranial Pathology from the  Mesolithic-Neolithic Inhabitants of the Danube Gorges, Serbia.             </a></span></h5><span style="font-family: inherit;"><a href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.aj/"><div class="article-author">Marija&nbsp;Radović,&nbsp;                          Sofija&nbsp;Stefanović,&nbsp;                          Kevan&nbsp;Edinborough                          </div></a></span>        </div><div class="article-actions"><div class="icon-with-list"><ul><li><span style="font-family: inherit;"><a data-category="FT" data-label="10.5334/joad.aj#39" data-trackthis="downloads" href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.aj/galley/39/download/">XML</a></span></li><li><span style="font-family: inherit;"><a data-category="PDF" data-label="10.5334/joad.aj#41" data-trackthis="downloads" href="http://openarchaeologydata.metajnl.com/articles/10.5334/joad.aj/galley/41/download/">PDF</a></span></li></ul></div><div class="article-date"><span style="font-family: inherit;">08 Jun 2015             </span></div><div class="aside"><span style="font-size: x-small;"><span style="font-family: inherit;"><a href="http://openarchaeologydata.metajnl.com/4/volume/4/issue/0/">4</a> :e5</span></span>          </div></div></div></li></ul><span style="font-size: x-small; font-weight: normal;"><a href="http://openarchaeologydata.metajnl.com/issue/view/3"></a></span></div></blockquote></blockquote><blockquote class="tr_bq"><ul class="volumes"><li class="volume-block"><div class="volume-caption" style="line-height: 100%; top: 0px;"><div style="padding-right: 8px;"><span style="font-size: x-small;"><a class="centered-text" href="http://openarchaeologydata.metajnl.com/3/volume/3/issue/0/">            Volume 3 - 2014 </a></span></div></div><b><span style="font-size: x-small;"><span style="font-family: inherit;">    </span></span></b><b></b>              </li><li class="volume-block"><div class="volume-caption" style="line-height: 100%; top: 0px;"><div style="padding-right: 8px;"><a class="centered-text" href="http://openarchaeologydata.metajnl.com/2/volume/2/issue/0/">            <span style="font-size: x-small;">Volume 2<span style="font-weight: normal;">                     - 2013</span></span></a></div></div></li><li class="volume-block"><div class="volume-caption" style="line-height: 100%; top: 0px;"><div style="padding-right: 8px;"><a class="centered-text" href="http://openarchaeologydata.metajnl.com/1/volume/1/issue/0/"><span style="font-size: x-small;"><span style="font-family: inherit;"><span style="font-weight: normal;">            Volume 1                      - 2012</span></span></span></a></div></div></li></ul></blockquote><br /><div style="text-align: center;"><span style="font-size: small;">See the full <a href="http://ancientworldonline.blogspot.com/2012/07/alphabetical-list-of-open-access.html">List of Open Access Journals in Ancient Studies</a></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/1081318972266302437/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/1081318972266302437/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/04/nerw-open-access-journal-journal-of.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1081318972266302437"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/1081318972266302437"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2012/04/nerw-open-access-journal-journal-of.html"
          title="Open Access Journal: Journal of Open Archaeology Data (JOAD)"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

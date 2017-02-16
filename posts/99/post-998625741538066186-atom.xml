@@ -1,127 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-998625741538066186</id>
-    <published>2011-09-06T19:30:00.000-04:00</published>
-    <updated>2011-09-06T19:34:38.245-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-998625741538066186</id>
+   <published>2011-09-06T19:30:00.000-04:00</published>
+   <updated>2011-09-06T19:34:38.245-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <title type="text">Homer Multitext</title>
-    <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 26
-      February 2010. <a
-      href="http://homermultitext.blogspot.com/2011/09/updates-to-homeric-papyri.html">Updated</a>
-      6 September 2011]</span><br /><br /><a
-      href="http://www.homermultitext.org/">Homer Multitext</a><br
-      /><blockquote><span style="font-size: x-small;">Casey Dué &amp; Mary Ebbott,
-      Editors · Christopher Blackwell &amp; Neel Smith, Project Architects · Douglas Frame,
-      Leonard Muellner, &amp; Gregory Nagy, Associate Editors · A Publication of the <a
-      href="http://www.chs.harvard.edu/">Center for Hellenic Studies of Harvard
-      University</a>, G. Nagy, Director, with support from the <a
-      href="http://www.rcc.uh.edu/about.html">University of Houston’s High Performance Computing
-      Group</a>.</span></blockquote><blockquote><h1> <span
-      style="font-size: x-small;">Welcome to the Homer Multitext</span></h1><span
-      style="font-size: x-small;">The Homer Multitext seeks to present the textual transmission of
-      the Homeric <i>Iliad</i> and <i>Odyssey</i> in a historical framework.
-      Such a framework is needed to account for the full reality of a complex medium of oral
-      performance that underwent many changes over a long period of time. These changes, as reflected
-      in the many texts of Homer, need to be understood in their many different historical contexts.
-      The Homer Multitext provides ways to view these contexts both synchronically and
-      diachronically.</span><br /><br /><span style="font-size: x-small;">The
-      Homer Multitext is a long-term project emphasizing collaborative research (we are particularly
-      interested in undergraduate research), openly licensed data, and innovative uses of
-      technology.The Homer Multitext welcomes collaboration in the form of diplomatic editions,
-      images of historical documents, and translations. All material must be openly licensed and
-      attribution will be given to the contributors. Please contact Casey Dué (casey@chs.harvard.edu)
-      and Mary Ebbott (ebbott@chs.harvard.edu).</span><br /><h2> <span
-      style="font-size: x-small;">Recapturing a Homeric Legacy</span></h2><span
-      style="font-size: x-small;">We are pleased to be able to offer for download a PDF document
-      of <a
-      href="http://www.homermultitext.org/Pubs/Due_Recapturing_a_Homeric_Legacy.pdf"><i>Recapturing
-      a Homeric Legacy: Images and Insights from the Venetus A Manuscript of the
-      <i>Iliad</i></i>, C. Dué, ed. (Hellenic Studies 35: The Center for Hellenic
-      Studies, 2009).</a> This book represents the collaboration of many scholars and friends
-      of the Homer Multitext. We can offer it as a free download thanks to the Center for Hellenic
-      Studies’ dedication to open scholarship and the vision of its director, Gregory Nagy. The
-      printed book is also, of course, <a
-      href="http://www.hup.harvard.edu/catalog.php?recid=29425">available for purchase</a>.
-      </span><br /><h2> <span style="font-size: x-small;">Inventory of
-      Homeric Scholia</span></h2><span style="font-size: x-small;">The Homer
-      Multitext is compiling a comprehensive inventory of the scholia on Byzantine manuscripts of the
-      <i>Iliad</i>. See <a
-      href="http://www.homermultitext.org/scholia-inventory.html">initial work from summer,
-      2010</a>.</span><br /><h2> <span style="font-size:
-      x-small;">Diplomatic editions of manuscripts of the
-      <i>Iliad</i></span></h2><span style="font-size: x-small;">The
-      Homer Multitext is creating complete diplomatic editions of Byzantine manuscripts of the
-      <i>Iliad</i>, and making them available both <a
-      href="http://www.homermultitext.org/iliad-editions.html">for downloading, and for
-      interactive use, here.</a></span> <br /><h2> <span style="font-size:
-      x-small;">Openly Licensed Images of Homeric Manuscripts</span></h2><span
-      style="font-size: x-small;">Thanks to fruitfull collaborations with the Biblioteca Marciana
-      in Venice, the Real Monasterio de El Escorial in Madrid, and the Owner of the Archimedes
-      Palimpsest, we are pleased to offer a collection of images of ancient manuscripts under open
-      licenses that offer access to scholars, students, and anyone interested in studying these
-      artifacts of cultural heritage.</span><br /><br /><span style="font-size:
-      x-small;">The archive of images can be found here: <a
-      href="http://amphoreus.hpcc.uh.edu/">http://amphoreus.hpcc.uh.edu</a>.&nbsp;</span><br
-      /><br /><span style="font-size: x-small;">Please note that these images are
-      copyrighted to their respective owners, and that the assigned licenses define and limit the
-      terms under which we can use them ourselves and make them available to others. Parties
-      interested in securing other rights should contact the copyright-holding institutions
-      directly.</span><br /><ul><li><span style="font-size:
-      xx-small;"><a href="http://homermultitext.blogspot.com/">Project
-      Blog</a></span></li><li><span style="font-size: xx-small;"><a
-      href="http://chs.harvard.edu/chs/homer_multitext">Project
-      Description</a></span></li><li><span style="font-size:
-      xx-small;"><a href="http://chs75.chs.harvard.edu/manuscripts/">HMT Manuscript Browser
-      (original version)</a></span></li><li><span style="font-size:
-      xx-small;"><a href="http://homericpapyri.appspot.com/home">Homeric
-      Papyri</a></span></li><li><span style="font-size:
-      xx-small;"><a href="http://hmt-cts.appspot.com/home">Texts from Byzantine
-      manuscripts</a></span></li><li><span style="font-size:
-      xx-small;"><a href="http://www.homermultitext.org/archive.html">Archive of
-      open-content data</a></span></li><li><span style="font-size:
-      xx-small;"><a href="http://cts3.sourceforge.net/">Sourceforge
-      Site</a></span></li><li><span style="font-size: xx-small;"><a
-      href="http://www.homermultitext.org/pubs.html">Related
-      Publications</a></span></li><li><span style="font-size:
-      xx-small;"><a
-      href="http://www.homermultitext.org/thanks.html">Collaboration</a></span></li><li><span
-      style="font-size: xx-small;">Related electronic text services
-      </span><ul><li><span style="font-size: xx-small;"><a
-      href="http://furman-classics.appspot.com/">Furman Classics
-      CTS</a></span></li></ul></li></ul></blockquote><div
-      style="text-align: center;"><span style="font-size:
-      small;"><span><span>And see all</span> </span><a
-      href="http://ancientworldonline.blogspot.com/2010/09/open-access-publications-of-center-for.html">Open
-      Access Publications of the Center for Hellenic
-      Studies</a></span></div>]]></content>
-    <link rel="replies"
+   <title type="text">Homer Multitext</title>
+   <content type="html"><![CDATA[<span style="font-size: xx-small;">&nbsp;[First posted in AWOL 26 February 2010. <a href="http://homermultitext.blogspot.com/2011/09/updates-to-homeric-papyri.html">Updated</a> 6 September 2011]</span><br /><br /><a href="http://www.homermultitext.org/">Homer Multitext</a><br /><blockquote><span style="font-size: x-small;">Casey Dué &amp; Mary Ebbott, Editors · Christopher Blackwell &amp; Neel  Smith, Project Architects · Douglas Frame, Leonard Muellner, &amp;  Gregory Nagy, Associate Editors · A Publication of the <a href="http://www.chs.harvard.edu/">Center for Hellenic Studies of Harvard University</a>, G. Nagy, Director, with support from the <a href="http://www.rcc.uh.edu/about.html">University of Houston’s High Performance Computing Group</a>.</span></blockquote><blockquote><h1> <span style="font-size: x-small;">Welcome to the Homer Multitext</span></h1><span style="font-size: x-small;">The Homer Multitext seeks to present the textual transmission of the Homeric <i>Iliad</i> and <i>Odyssey</i> in a historical framework. Such a framework is needed to account for  the full reality of a complex medium of oral performance that underwent  many changes over a long period of time. These changes, as reflected in  the many texts of Homer, need to be understood in their many different  historical contexts. The Homer Multitext provides ways to view these  contexts both synchronically and diachronically.</span><br /><br /><span style="font-size: x-small;">The Homer Multitext is a long-term project emphasizing collaborative  research (we are particularly interested in undergraduate research),  openly licensed data, and innovative uses of technology.The Homer  Multitext welcomes collaboration in the form of diplomatic editions,  images of historical documents, and translations. All material must be  openly licensed and attribution will be given to the contributors.  Please contact Casey Dué (casey@chs.harvard.edu) and Mary Ebbott  (ebbott@chs.harvard.edu).</span><br /><h2> <span style="font-size: x-small;">Recapturing a Homeric Legacy</span></h2><span style="font-size: x-small;">We are pleased to be able to offer for download a PDF document of <a href="http://www.homermultitext.org/Pubs/Due_Recapturing_a_Homeric_Legacy.pdf"><i>Recapturing a Homeric Legacy: Images and Insights from the Venetus A Manuscript of the <i>Iliad</i></i>, C. Dué, ed. (Hellenic Studies 35: The Center for Hellenic Studies, 2009).</a> This book represents the collaboration of many scholars and friends of  the Homer Multitext. We can offer it as a free download thanks to the  Center for Hellenic Studies’ dedication to open scholarship and the  vision of its director, Gregory Nagy. The printed book is also, of  course, <a href="http://www.hup.harvard.edu/catalog.php?recid=29425">available for purchase</a>.  </span><br /><h2> <span style="font-size: x-small;">Inventory of Homeric Scholia</span></h2><span style="font-size: x-small;">The Homer Multitext is compiling a comprehensive inventory of the scholia on Byzantine manuscripts of the <i>Iliad</i>. See  	<a href="http://www.homermultitext.org/scholia-inventory.html">initial work from summer, 2010</a>.</span><br /><h2> <span style="font-size: x-small;">Diplomatic editions of manuscripts of the <i>Iliad</i></span></h2><span style="font-size: x-small;">The Homer Multitext is creating complete 	diplomatic editions of Byzantine manuscripts of the <i>Iliad</i>, and making 	them available both <a href="http://www.homermultitext.org/iliad-editions.html">for 	downloading, and for interactive use, here.</a></span>	<br /><h2> <span style="font-size: x-small;">Openly Licensed Images of Homeric Manuscripts</span></h2><span style="font-size: x-small;">Thanks to fruitfull collaborations with the Biblioteca Marciana in  Venice, the Real Monasterio de El Escorial in Madrid, and the Owner of  the Archimedes Palimpsest, we are pleased to offer a collection of  images of ancient manuscripts under open licenses that offer access to  scholars, students, and anyone interested in studying these artifacts of  cultural heritage.</span><br /><br /><span style="font-size: x-small;">The archive of images can be found here: <a href="http://amphoreus.hpcc.uh.edu/">http://amphoreus.hpcc.uh.edu</a>.&nbsp;</span><br /><br /><span style="font-size: x-small;">Please note that these images are copyrighted to their respective  owners, and that the assigned licenses define and limit the terms under  which we can use them ourselves and make them available to others.  Parties interested in securing other rights should contact the  copyright-holding institutions directly.</span><br /><ul><li><span style="font-size: xx-small;"><a href="http://homermultitext.blogspot.com/">Project Blog</a></span></li><li><span style="font-size: xx-small;"><a href="http://chs.harvard.edu/chs/homer_multitext">Project Description</a></span></li><li><span style="font-size: xx-small;"><a href="http://chs75.chs.harvard.edu/manuscripts/">HMT Manuscript Browser (original version)</a></span></li><li><span style="font-size: xx-small;"><a href="http://homericpapyri.appspot.com/home">Homeric 	Papyri</a></span></li><li><span style="font-size: xx-small;"><a href="http://hmt-cts.appspot.com/home">Texts from Byzantine manuscripts</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.homermultitext.org/archive.html">Archive of open-content data</a></span></li><li><span style="font-size: xx-small;"><a href="http://cts3.sourceforge.net/">Sourceforge Site</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.homermultitext.org/pubs.html">Related Publications</a></span></li><li><span style="font-size: xx-small;"><a href="http://www.homermultitext.org/thanks.html">Collaboration</a></span></li><li><span style="font-size: xx-small;">Related electronic text services 		</span><ul><li><span style="font-size: xx-small;"><a href="http://furman-classics.appspot.com/">Furman Classics CTS</a></span></li></ul></li></ul></blockquote><div style="text-align: center;"><span style="font-size: small;"><span><span>And see all</span> </span><a href="http://ancientworldonline.blogspot.com/2010/09/open-access-publications-of-center-for.html">Open Access Publications of the Center for Hellenic Studies</a></span></div>]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/998625741538066186/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/998625741538066186/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/02/homer-multitext.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/998625741538066186"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/998625741538066186"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2010/02/homer-multitext.html"
          title="Homer Multitext"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>

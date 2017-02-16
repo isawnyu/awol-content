@@ -1,131 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom"
        xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-       xmlns:georss="http://www.georss.org/georss"
        xmlns:gd="http://schemas.google.com/g/2005"
-       xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-116259103207720939.post-4355025332865843508</id>
-    <published>2014-05-22T15:43:00.000-04:00</published>
-    <updated>2014-05-22T15:43:16.637-04:00</updated>
-    <category scheme="http://schemas.google.com/g/2005#kind"
+       xmlns:thr="http://purl.org/syndication/thread/1.0"
+       xmlns:georss="http://www.georss.org/georss">
+   <id>tag:blogger.com,1999:blog-116259103207720939.post-4355025332865843508</id>
+   <published>2014-05-22T15:43:00.000-04:00</published>
+   <updated>2014-05-22T15:43:16.637-04:00</updated>
+   <category scheme="http://schemas.google.com/g/2005#kind"
              term="http://schemas.google.com/blogger/2008/kind#post"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
-    <title type="text">Society of Biblical Literature: Texts and Resources</title>
-    <content type="html"><![CDATA[Not Open Access, but worthy of note. SBL Members have access after signing
-      in: <br /><br /><a
-      href="http://www.sbl-site.org/educational/BibleTexts_login.aspx">Society of Biblical
-      Literature: Texts and Resources</a><br /><blockquote
-      class="tr_bq"><div><span style="font-size: x-small;">Biblical scholars are
-      fundamentally indebted to the work of text-critics. Texts and resources for this work are
-      available to SBL members on this page, and SBL is grateful to the partnership with the German
-      Bible Society that makes these available.&nbsp; </span></div><span
-      style="font-size: x-small;"></span><div><span style="font-size:
-      x-small;"><br /></span></div><span style="font-size:
-      x-small;"></span><div><span style="font-size:
-      x-small;"><strong>Textual Resources from the German Bible Society<br
-      />&nbsp;&nbsp;</strong><br />The decades-long commitment of the German
-      Bible Society has produced the staples that have nourished generations of biblical scholars and
-      translators. The booklet&nbsp;<a
-      href="http://www.sbl-site.org/assets/pdfs/Intro-ScholarlyEditions-GBS_2.pdf"
-      target="_blank">Textual Research on the Bible</a>&nbsp;highlights this work.
-      Through a partnership with the German Bible Society, the reading texts (upper texts, without
-      critical apparatus) of four editions are available to SBL members in several formats for
-      download and personal use. </span></div><span style="font-size:
-      x-small;"></span><div><span style="font-size: x-small;"><br
-      /></span></div><span style="font-size: x-small;">
-      </span><div><blockquote style="border: medium none; margin: 0px 0px 0px 40px;
-      padding: 0px;"><div><table border="0" cellpadding="2" cellspacing="2" style="width:
-      600px;"> <tbody><tr> <td><span style="font-size: x-small;"><a
-      href="http://www.sbl-site.org/educational/BibliaHebraicaStuttgartensia.aspx"><strong>Biblia
-      Hebraica
-      Stuttgartensia</strong></a><strong>&nbsp;&nbsp;</strong><br
-      /> Complete PDF Text without Apparatus<br /> Individual book pdfs<br /> Online
-      text via GBS iFrame</span> </td> <td><span style="font-size:
-      x-small;"><a href="http://www.sbl-site.org/educational/UBSGNT.aspx"><strong>UBS
-      Greek New Testament</strong></a><br /> Complete PDF Text without
-      Apparatus<br /> Individual book pdfs<br /> Online text via GBS iFrame
-      </span></td> </tr><tr> <td> <div><span style="font-size:
-      x-small;"><a
-      href="http://www.sbl-site.org/educational/BibliaSacraVulgata.aspx"><strong>Biblia
-      Sacra Iuxta Vulgatam</strong>&nbsp;</a><br /> Complete PDF Text without
-      Apparatus<br /> Individual book pdfs<br /> Online text via GBS iFrame
-      </span></div></td> <td> <div><span style="font-size:
-      x-small;"><a
-      href="http://www.sbl-site.org/educational/SeptuagintEditioAltera.aspx"><strong>Septuaginta</strong></a><br
-      /> Complete PDF Text without Apparatus<br /> Individual book pdfs<br /> Online
-      text via GBS iFrame </span></div></td>
-      </tr></tbody></table><span style="font-size: x-small;"><br
-      /></span></div><div><span style="font-size: x-small;">German Bible
-      Society Texts can all be accessed at its&nbsp;<a
-      href="https://www.academic-bible.com/en/online-bibles/about-the-online-bibles/"
-      target="_blank">site</a>.</span></div><div><span
-      style="font-size: x-small;"><br /></span><span style="font-size:
-      x-small;"><a href="http://www.sbl-site.org/assets/pdfs/About_GBS.pdf"
-      target="_blank">About the German Bible
-      Society</a></span></div><div><span style="font-size:
-      x-small;"><br /></span></div></blockquote><span style="font-size:
-      x-small;"><strong><div><strong><br
-      /></strong></div>Textual Resources from the Society of Biblical
-      Literature:</strong></span></div><div><span style="font-size:
-      x-small;"><br /></span></div><span style="font-size:
-      x-small;"></span><blockquote style="border: medium none; margin: 0px 0px 0px 40px;
-      padding: 0px;"><div><span style="font-size: x-small;"><strong>The Greek
-      New Testament: SBL Edition, edited by Michael W. Holmes (<span style="background-color:
-      white;">SBLGNT)*</span></strong></span></div><div><span
-      style="font-size: x-small;">SBL in association with Logos Bible Software offers a new,
-      critically edited Greek New Testament in electronic and print formats. See more information on
-      the relationship between the SBLGNT and the UBS and Nestle-Aland texts
-      below.</span></div><div><span style="font-size: x-small;"><br
-      /></span></div><div><span style="font-size: x-small;">The text of
-      the SBLGNT has been encoded in a Unicode-compliant font so users can exchange files easily
-      without having to secure a special Greek font. Users may use SBLGreek or any other Unicode font
-      that supports the full range of Greek
-      characters.&nbsp;</span></div><div><span style="font-size:
-      x-small;"><br /></span></div></blockquote><span style="font-size:
-      x-small;"></span><div><ul><ul><li><span style="font-size:
-      x-small;">The SBLGNT edition is <a
-      href="http://www.sbl-site.org/educational/SBLGNT.aspx">freely available for download
-      here.</a></span></li><li><span style="font-size: x-small;">The
-      print edition of the SBLGNT can be&nbsp;<a
-      href="https://secure.aidcvt.com/sbl/ProdDetails.asp?ID=069022C&amp;PG=1&amp;Type=BL&amp;PCS=SBL"
-      target="_blank">purchased directly from
-      SBL</a>.</span></li></ul></ul><div><span
-      style="font-size: x-small;"><br /></span></div></div><span
-      style="font-size: x-small;"></span><blockquote style="border: medium none; margin:
-      0px 0px 0px 40px; padding: 0px;"><div><span style="font-size:
-      x-small;"><strong>SBL
-      Fonts</strong>&nbsp;</span></div><div><span style="font-size:
-      x-small;">SBL has collaborated with many organizations and individuals to develop a series
-      of high-quality fonts for digital and print use. This series includes SBL BibLit, which
-      combines Greek, Hebrew, and Latin characters, including transliteration diacritics, SBL Greek,
-      a Greek-specific font, and SBL Hebrew, a Hebrew-specific font. These fonts, an FAQ page, font
-      support contact, and a user agreement for commercial use are available&nbsp;<a
-      href="http://www.sbl-site.org/educational/biblicalfonts.aspx">he</a><a
-      href="http://www.sbl-site.org/educational/biblicalfonts.aspx">re</a>.</span></div></blockquote></blockquote><br
-      />]]></content>
-    <link rel="replies"
+   <category scheme="http://www.blogger.com/atom/ns#" term="Bible"/>
+   <title type="text">Society of Biblical Literature: Texts and Resources</title>
+   <content type="html"><![CDATA[Not Open Access, but worthy of note. SBL Members have access after signing in: <br /><br /><a href="http://www.sbl-site.org/educational/BibleTexts_login.aspx">Society of Biblical Literature: Texts and Resources</a><br /><blockquote class="tr_bq"><div><span style="font-size: x-small;">Biblical scholars are fundamentally indebted to the work of text-critics. Texts and resources for this work are available to SBL members on this page, and SBL is grateful to the partnership with the German Bible Society that makes these available.&nbsp; </span></div><span style="font-size: x-small;"></span><div><span style="font-size: x-small;"><br /></span></div><span style="font-size: x-small;"></span><div><span style="font-size: x-small;"><strong>Textual Resources from the German Bible Society<br />&nbsp;&nbsp;</strong><br />The decades-long commitment of the German Bible Society has produced the staples that have nourished generations of biblical scholars and translators. The booklet&nbsp;<a href="http://www.sbl-site.org/assets/pdfs/Intro-ScholarlyEditions-GBS_2.pdf" target="_blank">Textual Research on the Bible</a>&nbsp;highlights this work.  Through a partnership with the German Bible Society, the reading texts (upper texts, without critical apparatus) of four editions are available to SBL members in several formats for download and personal use. </span></div><span style="font-size: x-small;"></span><div><span style="font-size: x-small;"><br /></span></div><span style="font-size: x-small;"> </span><div><blockquote style="border: medium none; margin: 0px 0px 0px 40px; padding: 0px;"><div><table border="0" cellpadding="2" cellspacing="2" style="width: 600px;">    <tbody><tr>            <td><span style="font-size: x-small;"><a href="http://www.sbl-site.org/educational/BibliaHebraicaStuttgartensia.aspx"><strong>Biblia Hebraica Stuttgartensia</strong></a><strong>&nbsp;&nbsp;</strong><br />            Complete PDF Text without Apparatus<br />            Individual book pdfs<br />            Online text via GBS iFrame</span>            </td>            <td><span style="font-size: x-small;"><a href="http://www.sbl-site.org/educational/UBSGNT.aspx"><strong>UBS Greek New Testament</strong></a><br />            Complete PDF Text without Apparatus<br />            Individual book pdfs<br />            Online text via GBS iFrame             </span></td>        </tr><tr>            <td>            <div><span style="font-size: x-small;"><a href="http://www.sbl-site.org/educational/BibliaSacraVulgata.aspx"><strong>Biblia Sacra Iuxta Vulgatam</strong>&nbsp;</a><br />            Complete PDF Text without Apparatus<br />            Individual book pdfs<br />            Online text via GBS iFrame             </span></div></td>            <td>            <div><span style="font-size: x-small;"><a href="http://www.sbl-site.org/educational/SeptuagintEditioAltera.aspx"><strong>Septuaginta</strong></a><br />            Complete PDF Text without Apparatus<br />            Individual book pdfs<br />            Online text via GBS iFrame             </span></div></td>        </tr></tbody></table><span style="font-size: x-small;"><br /></span></div><div><span style="font-size: x-small;">German Bible Society Texts can all be accessed at its&nbsp;<a href="https://www.academic-bible.com/en/online-bibles/about-the-online-bibles/" target="_blank">site</a>.</span></div><div><span style="font-size: x-small;"><br /></span><span style="font-size: x-small;"><a href="http://www.sbl-site.org/assets/pdfs/About_GBS.pdf" target="_blank">About the German Bible Society</a></span></div><div><span style="font-size: x-small;"><br /></span></div></blockquote><span style="font-size: x-small;"><strong><div><strong><br /></strong></div>Textual Resources from the Society of Biblical Literature:</strong></span></div><div><span style="font-size: x-small;"><br /></span></div><span style="font-size: x-small;"></span><blockquote style="border: medium none; margin: 0px 0px 0px 40px; padding: 0px;"><div><span style="font-size: x-small;"><strong>The Greek New Testament: SBL Edition, edited by Michael W. Holmes (<span style="background-color: white;">SBLGNT)*</span></strong></span></div><div><span style="font-size: x-small;">SBL in association with Logos Bible Software offers a new, critically edited Greek New Testament in electronic and  print formats.  See more information on the relationship between the SBLGNT and the UBS and Nestle-Aland texts below.</span></div><div><span style="font-size: x-small;"><br /></span></div><div><span style="font-size: x-small;">The text of the SBLGNT has been encoded in a Unicode-compliant font so users can exchange files easily without having to secure a special Greek font. Users may use SBLGreek or any other Unicode font that supports the full range of Greek characters.&nbsp;</span></div><div><span style="font-size: x-small;"><br /></span></div></blockquote><span style="font-size: x-small;"></span><div><ul><ul><li><span style="font-size: x-small;">The SBLGNT edition is <a href="http://www.sbl-site.org/educational/SBLGNT.aspx">freely available for download here.</a></span></li><li><span style="font-size: x-small;">The print edition of the SBLGNT can be&nbsp;<a href="https://secure.aidcvt.com/sbl/ProdDetails.asp?ID=069022C&amp;PG=1&amp;Type=BL&amp;PCS=SBL" target="_blank">purchased directly from SBL</a>.</span></li></ul></ul><div><span style="font-size: x-small;"><br /></span></div></div><span style="font-size: x-small;"></span><blockquote style="border: medium none; margin: 0px 0px 0px 40px; padding: 0px;"><div><span style="font-size: x-small;"><strong>SBL Fonts</strong>&nbsp;</span></div><div><span style="font-size: x-small;">SBL has collaborated with many organizations and individuals to develop a series of high-quality fonts for digital and print use. This series includes SBL BibLit, which combines Greek, Hebrew, and Latin characters, including transliteration diacritics, SBL Greek, a Greek-specific font, and SBL Hebrew, a Hebrew-specific font. These fonts, an FAQ page, font support contact, and a user agreement for commercial use are available&nbsp;<a href="http://www.sbl-site.org/educational/biblicalfonts.aspx">he</a><a href="http://www.sbl-site.org/educational/biblicalfonts.aspx">re</a>.</span></div></blockquote></blockquote><br />]]></content>
+   <link rel="replies"
          type="application/atom+xml"
-         href="http://ancientworldonline.blogspot.com/feeds/4355025332865843508/comments/default"
+         href="https://ancientworldonline.blogspot.com/feeds/4355025332865843508/comments/default"
          title="Post Comments"/>
-    <link rel="replies"
+   <link rel="replies"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/society-of-biblical-literature-texts.html#comment-form"
          title="0 Comments"/>
-    <link rel="edit"
+   <link rel="edit"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4355025332865843508"/>
-    <link rel="self"
+   <link rel="self"
          type="application/atom+xml"
          href="https://www.blogger.com/feeds/116259103207720939/posts/default/4355025332865843508"/>
-    <link rel="alternate"
+   <link rel="alternate"
          type="text/html"
          href="http://ancientworldonline.blogspot.com/2014/05/society-of-biblical-literature-texts.html"
          title="Society of Biblical Literature: Texts and Resources"/>
-    <author>
+   <author>
       <name>Charles Jones</name>
       <uri>https://plus.google.com/114326413909322730653</uri>
       <email>noreply@blogger.com</email>
-      
-    </author>
-    
-  </entry>
+   </author>
+</entry>
